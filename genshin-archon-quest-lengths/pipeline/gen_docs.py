@@ -1,0 +1,307 @@
+#!/usr/bin/env python3
+"""Render the per-chapter markdown reports from analysis.json and the authored prose."""
+import json
+import pathlib
+import shutil
+
+from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
+
+SRC = pathlib.Path(__file__).parent
+OUT = pathlib.Path(__file__).parent.parent
+
+WIKI = "https://genshin-impact.fandom.com/wiki/"
+
+
+def write(path, text):
+    cleaned = "\n".join(line.rstrip() for line in text.splitlines()) + "\n"
+    path.write_text(cleaned)
+
+
+def prose(text):
+    """Keep the authored semantic line breaks, without the trailing spaces."""
+    return text.replace(" \n", "\n")
+
+
+def released_in(act, versions):
+    v = versions.get(act["act_title"])
+    if v:
+        return v
+    fallback = VERSION_FALLBACK.get(act["act_title"])
+    return (f"{fallback}, per the sampled upload titles "
+            f"(the wiki has no release-version category for this act yet)"
+            if fallback else "unknown")
+
+
+def hm(minutes):
+    if minutes is None:
+        return "n/a"
+    h, m = divmod(int(round(minutes)), 60)
+    return f"{h} h {m:02d} min" if h else f"{m} min"
+
+
+def confidence(stats):
+    n, low, high = stats["n"], stats["low"], stats["high"]
+    if not n:
+        return "none"
+    ratio = high / max(low, 1)
+    if n >= 8 and ratio <= 1.6:
+        return "high"
+    if n >= 6 and ratio <= 2.2:
+        return "medium"
+    return "low"
+
+
+def ar_for(act):
+    key = f"{act['chapter_id']}|{act['act_label']}"
+    return AR.get(key, AR_DEFAULT.get(act["chapter_id"], "-"))
+
+
+def wiki_link(title):
+    return f"[{title}]({WIKI}{title.replace(' ', '_')})"
+
+
+def evidence_table(act):
+    lines = ["| Length | Video title | Uploader | Views | URL |",
+             "| --- | --- | --- | --- | --- |"]
+    for r in act["kept"]:
+        title = r["title"].replace("|", "\\|")
+        uploader = r["uploader"].replace("|", "\\|")
+        views = "n/a" if r["views"] in ("NA", "None", "") else f"{int(r['views']):,}"
+        lines.append(f"| {hm(r['seconds'] / 60)} | {title} | {uploader} | {views} "
+                     f"| <{r['url']}> |")
+    return "\n".join(lines)
+
+
+def act_section(act, parts, versions):
+    key = f"{act['chapter_id']}|{act['act_label']}"
+    s = act["stats"]
+    screened = len(act["candidates"]) - s["n"]
+    body = [
+        f"### {act['act_label']} - {wiki_link(act['act_title'])}",
+        "",
+        prose(ACT_NOTES.get(key, "")),
+        "",
+        f"- **Estimated length:** {hm(s['median'])}",
+        f"- **Sampled range:** {hm(s['low'])} to {hm(s['high'])} "
+        f"across {s['n']} playthrough uploads "
+        f"({screened} further candidates screened out)",
+        f"- **Confidence:** {confidence(s)}",
+        f"- **Adventure Rank gate:** {ar_for(act)}",
+        f"- **Released in:** {released_in(act, versions)}",
+    ]
+    if parts:
+        listed = "; ".join(p.split(" (")[0] for p in parts)
+        body.append(f"- **Quest parts ({len(parts)}):** {listed}")
+    body += ["", "<details>", "<summary>Evidence</summary>", "",
+             evidence_table(act), "", "</details>", ""]
+    return "\n".join(body)
+
+
+def chapter_doc(chap, acts, act_text, versions):
+    total = sum(a["stats"]["median"] or 0 for a in acts)
+    head = [
+        f"# {chap['title']}",
+        "",
+        f"**Region:** {chap['region']} | "
+        f"**Game versions:** {chap['versions']} | "
+        f"**Entries:** {len(acts)} | "
+        f"**Estimated chapter length: {hm(total)}**",
+        "",
+        prose(chap["blurb"]),
+        "",
+        "## At a glance",
+        "",
+        "| Act | Title | Estimate | Sampled range | Uploads | Confidence |",
+        "| --- | --- | --- | --- | --- | --- |",
+    ]
+    for a in acts:
+        s = a["stats"]
+        head.append(
+            f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
+            f"| {hm(s['low'])} - {hm(s['high'])} | {s['n']} | {confidence(s)} |")
+    head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "", prose(chap["pacing"]), "",
+             "## Acts", ""]
+    for a in acts:
+        parts = act_text.get(f"{a['chapter_id']}|{a['act_label']}", {}).get("quests", [])
+        head.append(act_section(a, parts, versions))
+    head += [
+        "## Sources",
+        "",
+        f"- Questline structure, act titles, quest parts and Adventure Rank gates: "
+        f"{wiki_link(chap['wiki_page'])} "
+        f"and [Archon Quest]({WIKI}Archon_Quest) on the Genshin Impact Wiki (Fandom).",
+        "- Durations: the YouTube uploads listed under each act above. \n"
+        "See [README.md](README.md) for the method and its limits.",
+        "",
+    ]
+    return "\n".join(head)
+
+
+def readme(chapters, by_chapter):
+    grand = sum(a["stats"]["median"] or 0
+                for acts in by_chapter.values() for a in acts)
+    n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
+    n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
+    lines = [
+        "# Genshin Impact Archon Questline: How Long Each Act Takes",
+        "",
+        "Duration estimates for every main act of the Archon Quest storyline, \n"
+        "from the Mondstadt Prologue to Chapter VII, \n"
+        "each one backed by the YouTube playthroughs it was measured from.",
+        "",
+        f"**Total for the whole main questline: {hm(grand)}** "
+        f"({sum(len(a) for a in by_chapter.values())} entries "
+        f"counting acts, preludes and interludes, "
+        f"measured against {n_videos} accepted uploads "
+        f"out of {n_screened} candidates).\n"
+        "That figure is the sum of the per-act medians, "
+        "so treat it as an order of magnitude "
+        "rather than a number anyone actually clocked end to end.",
+        "",
+        "## Chapters",
+        "",
+        "| Chapter | Region | Versions | Entries | Estimated length | Detail |",
+        "| --- | --- | --- | --- | --- | --- |",
+    ]
+    for chap in chapters:
+        acts = by_chapter[chap["id"]]
+        total = sum(a["stats"]["median"] or 0 for a in acts)
+        lines.append(
+            f"| {chap['title']} | {chap['region']} | {chap['versions']} "
+            f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
+    lines += [
+        "",
+        "## Longest and shortest acts",
+        "",
+        "| | Act | Estimate |",
+        "| --- | --- | --- |",
+    ]
+    ranked = sorted((a for acts in by_chapter.values() for a in acts),
+                    key=lambda a: a["stats"]["median"] or 0)
+    for a in reversed(ranked[-5:]):
+        lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
+                     f"{a['act_label']}: {a['act_title']} "
+                     f"| {hm(a['stats']['median'])} |")
+    for a in ranked[:3]:
+        lines.append(f"| shortest | {a['chapter_title'].split(':')[0]}, "
+                     f"{a['act_label']}: {a['act_title']} "
+                     f"| {hm(a['stats']['median'])} |")
+    lines += [
+        "",
+        "## Method",
+        "",
+        "1. **Structure from the wiki.** \n"
+        "The chapter and act list, the act titles, the quest parts \n"
+        "and the Adventure Rank gates come from the \n"
+        "[Archon Quest page](https://genshin-impact.fandom.com/wiki/Archon_Quest) \n"
+        "and the individual chapter and act pages of the Genshin Impact Wiki. \n"
+        "Fandom serves a Cloudflare challenge to plain HTTP clients, \n"
+        "so the pages were read through the MediaWiki API \n"
+        "(`/api.php?action=query&prop=revisions&rvprop=content`) instead.",
+        "",
+        "2. **Durations from playthrough uploads.** \n"
+        "For every act, YouTube was searched twice \n"
+        "(once by chapter plus act label plus act title, once by act title alone) \n"
+        "and the top results were collected with their runtime, title, uploader, \n"
+        "view count and URL. \n"
+        "Acts with a thin result pool got a third, region-specific query.",
+        "",
+        "3. **Screening.** \n"
+        "A candidate is discarded when its title marks it as something other than \n"
+        "a hands-on playthrough of exactly that act: \n"
+        "cutscene reels, cinematic edits, lore explainers, guides and reaction videos; \n"
+        "livestreams and let's-plays, whose idle chatter inflates runtime; \n"
+        "multi-act compilations such as \"Acts 9 & 10\" or \"Full Sumeru Archon Quest\"; \n"
+        "and uploads whose title does not name the act \n"
+        "either by name or by chapter plus act number. \n"
+        "Of the survivors, anything below half or above 1.8 times the median \n"
+        "is dropped as a truncated or padded upload.",
+        "",
+        "4. **Estimate.** \n"
+        "The published figure is the **median** of the accepted uploads, \n"
+        "and the range is their minimum and maximum. \n"
+        "Confidence is *high* at eight or more uploads spanning a factor under 1.6, \n"
+        "*medium* at six or more spanning a factor under 2.2, \n"
+        "and *low* otherwise.",
+        "",
+        "## What these numbers do and do not mean",
+        "",
+        "- They measure **video runtime of someone playing the act**, \n"
+        "which is the closest available proxy for how long the act takes. \n"
+        "They are not official figures; \n"
+        "HoYoverse does not publish act lengths.",
+        "- Runtime includes the traversal, dialogue and combat \n"
+        "that a player cannot skip, \n"
+        "but it also includes whatever detours the uploader took, \n"
+        "and it excludes the time a first-time player spends \n"
+        "re-reading dialogue or dying to a boss. \n"
+        "Treat the median as a middle estimate and the range as the real spread.",
+        "- Uploaders play at different speeds, \n"
+        "skip cutscenes to different degrees, \n"
+        "and record on different game versions. \n"
+        "Acts that were rebalanced or shortened after release \n"
+        "may be measured against older, longer uploads.",
+        "- The newest acts (Nod-Krai's later acts, Chapter VII) \n"
+        "have the fewest uploads to draw on, \n"
+        "so their figures are the softest. \n"
+        "They are marked *low* or *medium* confidence accordingly.",
+        "- Interlude Chapter acts \n"
+        "(*The Crane Returns on the Wind*, *Perilous Trail*, \n"
+        "*Inversion of Genesis*, *Paralogism*) \n"
+        "are Archon Quests but not part of the main chapter progression, \n"
+        "so they are outside this report's scope.",
+        "",
+        "## Files",
+        "",
+        "- One markdown file per chapter, listed in the table above. \n"
+        "Each act section carries a collapsed evidence table \n"
+        "with runtime, video title, uploader, view count and URL \n"
+        "for every accepted upload.",
+        "- `data/analysis.json` holds the same evidence in machine-readable form, \n"
+        "including the rejected candidates and the reason each was rejected.",
+        "- `data/acts.tsv` is the act list extracted from the wiki.",
+        "- `data/evidence/` holds the raw harvest, one file per act, \n"
+        "before any screening was applied.",
+        "- `data/versions.json` maps each act to its release version, \n"
+        "as categorized on the wiki.",
+        "- `data/chapter_keys.json` and `data/compilations.txt` \n"
+        "are the screening inputs described under Method.",
+        "- `pipeline/` holds the scripts that produced all of this: \n"
+        "`harvest.sh` collects the candidates, \n"
+        "`topup.sh` widens a thin act's pool, \n"
+        "`analyze.py` screens them and computes the statistics, \n"
+        "and `gen_docs.py` renders these markdown files from `analysis.json`. \n"
+        "Re-running `analyze.py` over the harvested evidence \n"
+        "reproduces `data/analysis.json` exactly.",
+        "",
+        f"Data collected {DATE}.",
+        "",
+    ]
+    return "\n".join(lines)
+
+
+DATE = "2026-08-18"
+
+
+def main():
+    analysis = json.loads((SRC / "analysis.json").read_text())
+    act_text = json.loads((SRC / "act_text.json").read_text())
+    versions = json.loads((SRC / "versions.json").read_text())
+    by_chapter = {}
+    for act in analysis:
+        by_chapter.setdefault(act["chapter_id"], []).append(act)
+
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "data").mkdir(exist_ok=True)
+    for chap in CHAPTERS:
+        doc = chapter_doc(chap, by_chapter[chap["id"]], act_text, versions)
+        write(OUT / f"{chap['slug']}.md", doc)
+        print("wrote", chap["slug"] + ".md")
+    write(OUT / "README.md", readme(CHAPTERS, by_chapter))
+    shutil.copy(SRC / "analysis.json", OUT / "data" / "analysis.json")
+    shutil.copy(SRC / "acts.tsv", OUT / "data" / "acts.tsv")
+    print("wrote README.md and data/")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,10 @@
+{
+ "prologue": ["mondstadt", "prologue"],
+ "ch1": ["liyue", "chapter 1", "chapter i"],
+ "ch2": ["inazuma", "chapter 2", "chapter ii"],
+ "ch3": ["sumeru", "chapter 3", "chapter iii"],
+ "ch4": ["fontaine", "chapter 4", "chapter iv"],
+ "ch5": ["natlan", "chapter 5", "chapter v"],
+ "sotwm": ["nod-krai", "nod krai", "welkin moon", "luna", "chapter 6", "chapter vi"],
+ "ch7": ["snezhnaya", "chapter 7", "chapter vii"]
+}
