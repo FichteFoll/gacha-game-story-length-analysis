@@ -53,6 +53,9 @@ COMPILATION = re.compile(
     re.I,
 )
 
+# "Acts 9 & 10", "Act V and VI": a free second opinion on two acts at once.
+BUNDLE = re.compile(r"acts? +([ivx]+|\d+) *(?:&|and|\+|,) *([ivx]+|\d+)\b", re.I)
+
 STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
              "under", "amidst", "without", "over", "with", "from"}
 
@@ -67,6 +70,7 @@ SPAN_MINIMUM = 900           # ... and this many seconds, before a span is used
 PART_SAMPLES = 3             # uploads needed before a quest part's time is kept
 IQR_SAMPLES = 8              # ... and before the middle half beats the extremes
 UNSTABLE_DRIFT = 0.10        # median move against the baseline that means "soft"
+BUNDLE_TOLERANCE = 0.15      # how far a bundle's runtime may sit from the sum
 
 
 def compilation_re(workdir):
@@ -359,6 +363,55 @@ def trim_outliers(kept):
     return [r for r in kept if not r["rejected"]]
 
 
+def bundle_acts(title, chapter):
+    """The two acts a bundled upload's title says it covers, if both are known."""
+    match = BUNDLE.search(title)
+    if not match:
+        return []
+    wanted = [int(g) if g.isdigit() else ROMAN.get(g.upper())
+              for g in match.groups()]
+    found = [chapter.get(n) for n in wanted]
+    return found if all(found) else []
+
+
+def cross_check(acts):
+    """Bundled uploads audit the acts they bundle, at no extra request.
+
+    A video covering acts N and N+1 should run about as long as the two medians
+    put together. It usually does, and where it does not, one of the two is
+    wrong: cheap evidence that costs nothing, since these uploads were harvested
+    anyway and are sitting in the rejected pile.
+    """
+    by_chapter = {}
+    for act in acts:
+        by_chapter.setdefault(act["chapter_id"], {})[act_number(act["act_label"])] = act
+
+    runtimes, seen = {}, set()
+    for act in acts:
+        for row in act["candidates"]:
+            bundled = bundle_acts(row["title"], by_chapter[act["chapter_id"]])
+            if not bundled or row["url"] in seen:
+                continue
+            seen.add(row["url"])
+            key = (act["chapter_id"], tuple(a["act_label"] for a in bundled))
+            runtimes.setdefault(key, (bundled, []))[1].append(
+                row.get("runtime", row["seconds"]))
+
+    lines = []
+    for (chapter, labels), (bundled, seconds) in sorted(runtimes.items()):
+        expected = sum(a["stats"]["median"] or 0 for a in bundled)
+        measured = round(statistics.median(seconds) / 60)
+        if not expected:
+            continue
+        off = measured / expected - 1
+        flag = "  <-- check these two" if abs(off) > BUNDLE_TOLERANCE else ""
+        uploads = f"{len(seconds)} bundled upload" + ("s" if len(seconds) > 1 else "")
+        lines.append(f"{chapter:>10} {' + '.join(labels):<20} "
+                     f"medians {expected} min vs {measured} min "
+                     f"across {uploads} ({off:+.0%}){flag}")
+    return lines
+
+
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     compare = argv[argv.index("--compare") + 1] if "--compare" in argv else None
@@ -404,6 +457,11 @@ def main(argv):
               f"med={s['median']} mean={s['trimmed_mean']} "
               f"range={s['low']}-{s['high']}{iqr}"
               f"  {act['act_title'][:40]}{flag}")
+
+    checks = cross_check(out)
+    if checks:
+        print("\ncross-check against multi-act uploads:")
+        print("\n".join(checks))
     return 0
 
 
