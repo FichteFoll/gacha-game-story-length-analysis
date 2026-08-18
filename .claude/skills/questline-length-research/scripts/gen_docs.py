@@ -206,7 +206,8 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
         "",
         "## At a glance",
         "",
-        "| Act | Title | Estimate | Middle half | Uploads | Confidence |",
+        f"| {report.config.get('unit', 'Act')} | Title | Estimate "
+        f"| Middle half | Uploads | Confidence |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
     for a in acts:
@@ -216,7 +217,8 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
             f"| {hm(bounds(s)[0])} - {hm(bounds(s)[1])} | {s['n']} "
             f"| {confidence(s)} |")
     head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "",
-             prose(chap["pacing"], facts), "", "## Acts", ""]
+             prose(chap["pacing"], facts), "",
+             f"## {report.config.get('unit', 'Act')}s", ""]
     for a in acts:
         parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
         head.append(act_section(report, a, parts, versions, version_index, facts,
@@ -300,6 +302,7 @@ def method(report):
         "livestreams and let's-plays, whose idle chatter inflates runtime; \n"
         f"multi-act compilations such as {report.config['compilations']}, \n"
         "unless their chapter markers located this act inside them; \n"
+        + partials_clause(report) +
         "and uploads whose title does not name the act \n"
         "either by name or by chapter plus act number. \n"
         f"Of the survivors, anything below half or above {LONG_OUTLIER} times "
@@ -329,6 +332,16 @@ def method(report):
     ]
 
 
+def partials_clause(report):
+    """What an upload covering less than one act looks like, where that happens.
+
+    Only some games have the habit, so the clause is the report's to write and
+    absent everywhere else, in step with data/partials.txt.
+    """
+    partials = report.config.get("partials")
+    return f"{partials}; \n" if partials else ""
+
+
 def limits(report):
     """What the numbers are, and the report's own caveats after the shared ones."""
     shared = [
@@ -351,7 +364,14 @@ def limits(report):
     return shared + [f"- {c}" for c in report.config["caveats"]]
 
 
-def files_section():
+def steering_inputs(report):
+    """The tail of the input list, which partials.txt joins where it exists."""
+    if (report.data / "partials.txt").exists():
+        return ", `data/compilations.txt` \nand `data/partials.txt`"
+    return " and `data/compilations.txt`"
+
+
+def files_section(report):
     return [
         "- One markdown file per chapter, listed in the table above. \n"
         "Each act section carries a collapsed evidence table \n"
@@ -373,7 +393,7 @@ def files_section():
         "- `data/quest_parts.json` lists the quest parts of each act, \n"
         "in the order the wiki gives them.",
         "- `data/wiki.json`, `data/game.txt`, `data/chapter_keys.json`, \n"
-        "`data/query_templates.txt` and `data/compilations.txt` \n"
+        f"`data/query_templates.txt`{steering_inputs(report)} \n"
         "are the inputs the pipeline is steered with, described under Method.",
         "- The scripts themselves live in the `questline-length-research` skill \n"
         "(`.claude/skills/questline-length-research/scripts/`), \n"
@@ -408,7 +428,7 @@ def readme(report, by_chapter):
         "",
         f"**Total for the whole main questline: {hm(grand)}** "
         f"({sum(len(a) for a in by_chapter.values())} entries "
-        f"counting acts, preludes and interludes, "
+        f"counting {report.config.get('entries_are', 'acts, preludes and interludes')}, "
         f"measured against {n_videos} accepted uploads "
         f"out of {n_screened} candidates).\n"
         "That figure is the sum of the per-act medians, "
@@ -428,9 +448,9 @@ def readme(report, by_chapter):
             f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
     lines += [
         "",
-        "## Longest and shortest acts",
+        f"## Longest and shortest {report.config.get('unit', 'Act').lower()}s",
         "",
-        "| | Act | Estimate |",
+        f"| | {report.config.get('unit', 'Act')} | Estimate |",
         "| --- | --- | --- |",
     ]
     ranked = sorted((a for acts in by_chapter.values() for a in acts),
@@ -445,7 +465,7 @@ def readme(report, by_chapter):
                      f"| {hm(a['stats']['median'])} |")
     lines += ["", "## Method", ""] + method(report)
     lines += ["", "## What these numbers do and do not mean", ""] + limits(report)
-    lines += ["", "## Files", ""] + files_section()
+    lines += ["", "## Files", ""] + files_section(report)
     lines += ["", f"Data collected {report.config['date']}.", ""]
     return "\n".join(lines)
 
