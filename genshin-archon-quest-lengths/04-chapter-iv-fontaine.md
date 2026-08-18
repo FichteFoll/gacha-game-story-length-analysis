@@ -10,14 +10,14 @@ and watches Focalors execute herself to void the prophecy.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Prelude of Blancheur and Noirceur | 3 h 24 min | 1 h 47 min - 3 h 53 min | 9 | medium |
-| Act II | As Light Rain Falls Without Reason | 2 h 40 min | 1 h 35 min - 3 h 18 min | 11 | medium |
-| Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 29 min - 2 h 43 min | 10 | medium |
-| Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 24 min - 3 h 02 min | 9 | high |
-| Act V | Masquerade of the Guilty | 4 h 50 min | 4 h 15 min - 6 h 43 min | 8 | high |
-| Act VI | Bedtime Story | 1 h 18 min | 56 min - 1 h 26 min | 9 | high |
+| Act I | Prelude of Blancheur and Noirceur | 3 h 24 min | 3 h 02 min - 3 h 50 min | 9 | medium |
+| Act II | As Light Rain Falls Without Reason | 2 h 40 min | 2 h 27 min - 2 h 58 min | 11 | high |
+| Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 47 min - 2 h 27 min | 10 | medium |
+| Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 30 min - 2 h 47 min | 9 | high |
+| Act V | Masquerade of the Guilty | 4 h 50 min | 4 h 29 min - 5 h 19 min | 8 | high |
+| Act VI | Bedtime Story | 1 h 18 min | 1 h 14 min - 1 h 22 min | 9 | high |
 
 **Total: 17 h 10 min**
 
@@ -37,7 +37,7 @@ Fontaine, Lyney and Lynette,
 and an opera-house trial over the stolen Hydro Gnosis.
 
 - **Estimated length:** 3 h 24 min
-- **Sampled range:** 1 h 47 min to 3 h 53 min across 9 playthrough uploads (5 further candidates screened out)
+- **Sampled range:** 3 h 02 min to 3 h 50 min for the middle half (full spread 1 h 47 min to 3 h 53 min) across 9 playthrough uploads (5 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
@@ -67,8 +67,8 @@ Furina and Neuvillette, the Oratrice,
 and a trial that sentences the Traveler to the Fortress of Meropide.
 
 - **Estimated length:** 2 h 40 min
-- **Sampled range:** 1 h 35 min to 3 h 18 min across 11 playthrough uploads (1 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 2 h 27 min to 2 h 58 min for the middle half (full spread 1 h 35 min to 3 h 18 min) across 11 playthrough uploads (1 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
 - **Measured from the uploader's chapter markers:** 3 of 11 uploads
@@ -100,7 +100,7 @@ the escape,
 and the first hard evidence for the prophecy of dissolution.
 
 - **Estimated length:** 2 h 14 min
-- **Sampled range:** 1 h 29 min to 2 h 43 min across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 1 h 47 min to 2 h 27 min for the middle half (full spread 1 h 29 min to 2 h 43 min) across 10 playthrough uploads (1 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
@@ -131,7 +131,7 @@ Elynas and the Melusines, Childe underwater,
 and the primordial sea beginning to rise.
 
 - **Estimated length:** 2 h 44 min
-- **Sampled range:** 2 h 24 min to 3 h 02 min across 9 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 2 h 30 min to 2 h 47 min for the middle half (full spread 2 h 24 min to 3 h 02 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
@@ -163,7 +163,7 @@ and Neuvillette taking the seat of judgment.
 The single longest act in the game.
 
 - **Estimated length:** 4 h 50 min
-- **Sampled range:** 4 h 15 min to 6 h 43 min across 8 playthrough uploads (4 further candidates screened out)
+- **Sampled range:** 4 h 29 min to 5 h 19 min for the middle half (full spread 4 h 15 min to 6 h 43 min) across 8 playthrough uploads (4 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.2
@@ -191,7 +191,7 @@ Traveler chapter: a cold case in Fontaine
 that turns into memories that should not exist.
 
 - **Estimated length:** 1 h 18 min
-- **Sampled range:** 56 min to 1 h 26 min across 9 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 1 h 14 min to 1 h 22 min for the middle half (full spread 56 min to 1 h 26 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.7

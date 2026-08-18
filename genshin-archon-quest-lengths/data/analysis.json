@@ -226,6 +226,9 @@
    "median": 53,
    "low": 35,
    "high": 96,
+   "q1": 46,
+   "q3": 64,
+   "trimmed_mean": 56,
    "measured": 1,
    "parts": {}
   }
@@ -461,6 +464,9 @@
    "median": 73,
    "low": 48,
    "high": 113,
+   "q1": 62,
+   "q3": 84,
+   "trimmed_mean": 73,
    "measured": 1,
    "parts": {}
   }
@@ -682,6 +688,9 @@
    "median": 57,
    "low": 41,
    "high": 99,
+   "q1": 48,
+   "q3": 70,
+   "trimmed_mean": 61,
    "measured": 1,
    "parts": {}
   }
@@ -891,6 +900,9 @@
    "median": 66,
    "low": 33,
    "high": 96,
+   "q1": 60,
+   "q3": 83,
+   "trimmed_mean": 69,
    "measured": 2,
    "parts": {}
   }
@@ -1122,6 +1134,9 @@
    "median": 109,
    "low": 84,
    "high": 125,
+   "q1": 99,
+   "q3": 112,
+   "trimmed_mean": 106,
    "measured": 2,
    "parts": {}
   }
@@ -1350,6 +1365,9 @@
    "median": 119,
    "low": 100,
    "high": 140,
+   "q1": 108,
+   "q3": 126,
+   "trimmed_mean": 118,
    "measured": 2,
    "parts": {}
   }
@@ -1565,6 +1583,9 @@
    "median": 36,
    "low": 27,
    "high": 52,
+   "q1": 28,
+   "q3": 45,
+   "trimmed_mean": 36,
    "measured": 2,
    "parts": {}
   }
@@ -1762,6 +1783,9 @@
    "median": 72,
    "low": 52,
    "high": 88,
+   "q1": 59,
+   "q3": 83,
+   "trimmed_mean": 71,
    "measured": 0,
    "parts": {}
   }
@@ -1940,6 +1964,9 @@
    "median": 65,
    "low": 55,
    "high": 69,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 64,
    "measured": 0,
    "parts": {}
   }
@@ -2177,6 +2204,9 @@
    "median": 175,
    "low": 114,
    "high": 193,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 167,
    "measured": 2,
    "parts": {}
   }
@@ -2408,6 +2438,9 @@
    "median": 50,
    "low": 43,
    "high": 61,
+   "q1": 45,
+   "q3": 57,
+   "trimmed_mean": 51,
    "measured": 1,
    "parts": {}
   }
@@ -2615,6 +2648,9 @@
    "median": 142,
    "low": 97,
    "high": 204,
+   "q1": 117,
+   "q3": 149,
+   "trimmed_mean": 140,
    "measured": 0,
    "parts": {}
   }
@@ -2830,6 +2866,9 @@
    "median": 58,
    "low": 42,
    "high": 97,
+   "q1": 49,
+   "q3": 60,
+   "trimmed_mean": 56,
    "measured": 1,
    "parts": {}
   }
@@ -3267,6 +3306,9 @@
    "median": 208,
    "low": 102,
    "high": 271,
+   "q1": 147,
+   "q3": 226,
+   "trimmed_mean": 197,
    "measured": 1,
    "parts": {}
   }
@@ -3505,6 +3547,9 @@
    "median": 144,
    "low": 86,
    "high": 178,
+   "q1": 103,
+   "q3": 157,
+   "trimmed_mean": 133,
    "measured": 2,
    "parts": {}
   }
@@ -3730,6 +3775,9 @@
    "median": 112,
    "low": 103,
    "high": 120,
+   "q1": 107,
+   "q3": 116,
+   "trimmed_mean": 112,
    "measured": 2,
    "parts": {}
   }
@@ -3949,6 +3997,9 @@
    "median": 131,
    "low": 78,
    "high": 160,
+   "q1": 128,
+   "q3": 141,
+   "trimmed_mean": 130,
    "measured": 1,
    "parts": {}
   }
@@ -4158,6 +4209,9 @@
    "median": 271,
    "low": 158,
    "high": 314,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 267,
    "measured": 2,
    "parts": {}
   }
@@ -4378,6 +4432,9 @@
    "median": 96,
    "low": 75,
    "high": 113,
+   "q1": 81,
+   "q3": 98,
+   "trimmed_mean": 92,
    "measured": 1,
    "parts": {}
   }
@@ -4615,6 +4672,9 @@
    "median": 204,
    "low": 107,
    "high": 233,
+   "q1": 182,
+   "q3": 230,
+   "trimmed_mean": 197,
    "measured": 1,
    "parts": {}
   }
@@ -4877,6 +4937,9 @@
    "median": 160,
    "low": 95,
    "high": 198,
+   "q1": 147,
+   "q3": 178,
+   "trimmed_mean": 158,
    "measured": 3,
    "parts": {
     "Like the Faint Moonlight of Yesteryear": 34,
@@ -5116,6 +5179,9 @@
    "median": 134,
    "low": 89,
    "high": 163,
+   "q1": 107,
+   "q3": 147,
+   "trimmed_mean": 131,
    "measured": 2,
    "parts": {}
   }
@@ -5346,6 +5412,9 @@
    "median": 164,
    "low": 144,
    "high": 182,
+   "q1": 150,
+   "q3": 167,
+   "trimmed_mean": 161,
    "measured": 2,
    "parts": {}
   }
@@ -5543,6 +5612,9 @@
    "median": 290,
    "low": 255,
    "high": 403,
+   "q1": 269,
+   "q3": 319,
+   "trimmed_mean": 301,
    "measured": 0,
    "parts": {}
   }
@@ -5752,6 +5824,9 @@
    "median": 78,
    "low": 56,
    "high": 86,
+   "q1": 74,
+   "q3": 82,
+   "trimmed_mean": 77,
    "measured": 0,
    "parts": {}
   }
@@ -6001,6 +6076,9 @@
    "median": 152,
    "low": 96,
    "high": 188,
+   "q1": 122,
+   "q3": 175,
+   "trimmed_mean": 148,
    "measured": 3,
    "parts": {
     "Natlan! A New Adventure": 63,
@@ -6220,6 +6298,9 @@
    "median": 164,
    "low": 108,
    "high": 191,
+   "q1": 148,
+   "q3": 177,
+   "trimmed_mean": 160,
    "measured": 1,
    "parts": {}
   }
@@ -6720,6 +6801,9 @@
    "median": 150,
    "low": 78,
    "high": 241,
+   "q1": 141,
+   "q3": 165,
+   "trimmed_mean": 151,
    "measured": 4,
    "parts": {
     "All Names are Noble": 29,
@@ -6939,6 +7023,9 @@
    "median": 197,
    "low": 174,
    "high": 232,
+   "q1": 182,
+   "q3": 218,
+   "trimmed_mean": 199,
    "measured": 1,
    "parts": {}
   }
@@ -7150,6 +7237,9 @@
    "median": 52,
    "low": 35,
    "high": 63,
+   "q1": 42,
+   "q3": 56,
+   "trimmed_mean": 50,
    "measured": 2,
    "parts": {}
   }
@@ -7338,6 +7428,9 @@
    "median": 214,
    "low": 123,
    "high": 241,
+   "q1": 180,
+   "q3": 226,
+   "trimmed_mean": 201,
    "measured": 0,
    "parts": {}
   }
@@ -7570,6 +7663,9 @@
    "median": 116,
    "low": 101,
    "high": 138,
+   "q1": 111,
+   "q3": 124,
+   "trimmed_mean": 117,
    "measured": 1,
    "parts": {}
   }
@@ -7782,6 +7878,9 @@
    "median": 149,
    "low": 111,
    "high": 240,
+   "q1": 134,
+   "q3": 159,
+   "trimmed_mean": 153,
    "measured": 1,
    "parts": {}
   }
@@ -8172,6 +8271,9 @@
    "median": 283,
    "low": 153,
    "high": 456,
+   "q1": 233,
+   "q3": 292,
+   "trimmed_mean": 279,
    "measured": 2,
    "parts": {}
   }
@@ -8427,6 +8529,9 @@
    "median": 201,
    "low": 156,
    "high": 280,
+   "q1": 181,
+   "q3": 226,
+   "trimmed_mean": 205,
    "measured": 2,
    "parts": {}
   }
@@ -8657,6 +8762,9 @@
    "median": 141,
    "low": 122,
    "high": 154,
+   "q1": 135,
+   "q3": 149,
+   "trimmed_mean": 141,
    "measured": 1,
    "parts": {}
   }
@@ -8901,6 +9009,9 @@
    "median": 239,
    "low": 151,
    "high": 260,
+   "q1": 212,
+   "q3": 248,
+   "trimmed_mean": 234,
    "measured": 2,
    "parts": {}
   }
@@ -9495,6 +9606,9 @@
    "median": 154,
    "low": 98,
    "high": 227,
+   "q1": 144,
+   "q3": 172,
+   "trimmed_mean": 157,
    "measured": 3,
    "parts": {}
   }
@@ -9701,6 +9815,9 @@
    "median": 178,
    "low": 126,
    "high": 241,
+   "q1": 170,
+   "q3": 192,
+   "trimmed_mean": 181,
    "measured": 0,
    "parts": {}
   }
@@ -10362,6 +10479,9 @@
    "median": 176,
    "low": 145,
    "high": 198,
+   "q1": 164,
+   "q3": 184,
+   "trimmed_mean": 175,
    "measured": 2,
    "parts": {}
   }
@@ -10641,6 +10761,9 @@
    "median": 204,
    "low": 191,
    "high": 230,
+   "q1": 197,
+   "q3": 210,
+   "trimmed_mean": 205,
    "measured": 1,
    "parts": {}
   }
@@ -10943,6 +11066,9 @@
    "median": 157,
    "low": 142,
    "high": 186,
+   "q1": 151,
+   "q3": 168,
+   "trimmed_mean": 158,
    "measured": 3,
    "parts": {}
   }
@@ -11535,6 +11661,9 @@
    "median": 240,
    "low": 117,
    "high": 274,
+   "q1": 143,
+   "q3": 257,
+   "trimmed_mean": 216,
    "measured": 2,
    "parts": {}
   }
@@ -11736,6 +11865,9 @@
    "median": 242,
    "low": 200,
    "high": 315,
+   "q1": 222,
+   "q3": 259,
+   "trimmed_mean": 246,
    "measured": 0,
    "parts": {}
   }
@@ -11955,6 +12087,9 @@
    "median": 267,
    "low": 256,
    "high": 427,
+   "q1": 259,
+   "q3": 342,
+   "trimmed_mean": 299,
    "measured": 1,
    "parts": {}
   }

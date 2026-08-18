@@ -9,15 +9,15 @@ to keep the Sacred Flame burning.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 1 h 36 min - 3 h 08 min | 9 | medium |
-| Act II | Black Stone Under a White Stone | 2 h 44 min | 1 h 48 min - 3 h 11 min | 8 | medium |
-| Act III | Beyond the Smoke and Mirrors | 2 h 30 min | 1 h 18 min - 4 h 01 min | 21 | low |
-| Act IV | The Rainbow Destined to Burn | 3 h 17 min | 2 h 54 min - 3 h 52 min | 10 | high |
-| Interlude | All Fires Fuel the Flame | 52 min | 35 min - 1 h 03 min | 10 | medium |
-| Act V | Incandescent Ode of Resurrection | 3 h 34 min | 2 h 03 min - 4 h 01 min | 8 | medium |
-| Act VI | A Space and Time for You | 1 h 56 min | 1 h 41 min - 2 h 18 min | 10 | high |
+| Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 55 min | 9 | medium |
+| Act II | Black Stone Under a White Stone | 2 h 44 min | 2 h 28 min - 2 h 57 min | 8 | high |
+| Act III | Beyond the Smoke and Mirrors | 2 h 30 min | 2 h 21 min - 2 h 45 min | 21 | high |
+| Act IV | The Rainbow Destined to Burn | 3 h 17 min | 3 h 02 min - 3 h 38 min | 10 | high |
+| Interlude | All Fires Fuel the Flame | 52 min | 42 min - 56 min | 10 | medium |
+| Act V | Incandescent Ode of Resurrection | 3 h 34 min | 3 h 00 min - 3 h 46 min | 8 | medium |
+| Act VI | A Space and Time for You | 1 h 56 min | 1 h 51 min - 2 h 04 min | 10 | high |
 
 **Total: 17 h 25 min**
 
@@ -39,7 +39,7 @@ Mualani, Kachina, Ancient Names,
 and the pilgrimage of the Sacred Flame.
 
 - **Estimated length:** 2 h 32 min
-- **Sampled range:** 1 h 36 min to 3 h 08 min across 9 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 2 h 02 min to 2 h 55 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
@@ -69,8 +69,8 @@ The Ode of Resurrection fails to bring Kachina back,
 and the Abyss turns out to have tailored a disaster for every tribe.
 
 - **Estimated length:** 2 h 44 min
-- **Sampled range:** 1 h 48 min to 3 h 11 min across 8 playthrough uploads (4 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 2 h 28 min to 2 h 57 min for the middle half (full spread 1 h 48 min to 3 h 11 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
@@ -98,8 +98,8 @@ Mavuika mobilizes the tribes and the Adventurers' Guild together
 while Capitano's purpose in Natlan comes into focus.
 
 - **Estimated length:** 2 h 30 min
-- **Sampled range:** 1 h 18 min to 4 h 01 min across 21 playthrough uploads (7 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 2 h 21 min to 2 h 45 min for the middle half (full spread 1 h 18 min to 4 h 01 min) across 21 playthrough uploads (7 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
 - **Measured from the uploader's chapter markers:** 4 of 21 uploads
@@ -141,7 +141,7 @@ the Abyss' full assault,
 and Capitano's end.
 
 - **Estimated length:** 3 h 17 min
-- **Sampled range:** 2 h 54 min to 3 h 52 min across 10 playthrough uploads (0 further candidates screened out)
+- **Sampled range:** 3 h 02 min to 3 h 38 min for the middle half (full spread 2 h 54 min to 3 h 52 min) across 10 playthrough uploads (0 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
@@ -174,7 +174,7 @@ A deliberate cooldown between Act IV and Act V.
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 52 min
-- **Sampled range:** 35 min to 1 h 03 min across 10 playthrough uploads (0 further candidates screened out)
+- **Sampled range:** 42 min to 56 min for the middle half (full spread 35 min to 1 h 03 min) across 10 playthrough uploads (0 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.2
@@ -205,7 +205,7 @@ The Night Kingdom, the truth about Mavuika's bargain,
 and the price already paid for the Ode of Resurrection.
 
 - **Estimated length:** 3 h 34 min
-- **Sampled range:** 2 h 03 min to 4 h 01 min across 8 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 3 h 00 min to 3 h 46 min for the middle half (full spread 2 h 03 min to 4 h 01 min) across 8 playthrough uploads (3 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.3
@@ -233,7 +233,7 @@ Traveler chapter: the Loom of Fate
 and the closest thing yet to a reunion with the sibling.
 
 - **Estimated length:** 1 h 56 min
-- **Sampled range:** 1 h 41 min to 2 h 18 min across 10 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 1 h 51 min to 2 h 04 min for the middle half (full spread 1 h 41 min to 2 h 18 min) across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.7

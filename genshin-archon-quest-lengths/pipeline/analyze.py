@@ -61,6 +61,7 @@ LONG_OUTLIER = 1.8           # multiple of the median above which uploads drop
 SPAN_COVERAGE = 0.6          # markers must cover this much of a single-act upload
 SPAN_MINIMUM = 900           # ... and this many seconds, before a span is used
 PART_SAMPLES = 3             # uploads needed before a quest part's time is kept
+IQR_SAMPLES = 8              # ... and before the middle half beats the extremes
 
 
 def compilation_re(workdir):
@@ -287,6 +288,37 @@ def part_medians(kept, parts):
             if len(timings.get(part, [])) >= PART_SAMPLES}
 
 
+def spread(secs):
+    """Full spread, plus the interquartile bounds once the sample carries them.
+
+    One padded upload widens a min-max range that is otherwise tight, and says
+    more about that uploader than about the act. From eight uploads on there is
+    enough of a distribution for the middle half to describe it better.
+    """
+    if not secs:
+        return dict(low=None, high=None, q1=None, q3=None)
+    out = dict(low=round(min(secs) / 60), high=round(max(secs) / 60),
+               q1=None, q3=None)
+    if len(secs) >= IQR_SAMPLES:
+        q1, _, q3 = statistics.quantiles(secs, n=4)
+        out.update(q1=round(q1 / 60), q3=round(q3 / 60))
+    return out
+
+
+def trimmed_mean(secs, drop=0.1):
+    """Mean without the top and bottom tenth, as a check on the median.
+
+    Not published: it is here so that a distribution the median hides
+    (a bimodal pool of "act only" and "act plus side content" uploads, say)
+    shows up as a gap between the two figures in the summary.
+    """
+    if not secs:
+        return None
+    cut = int(len(secs) * drop)
+    kept = sorted(secs)[cut:len(secs) - cut] or sorted(secs)
+    return round(statistics.fmean(kept) / 60)
+
+
 def trim_outliers(kept):
     if len(kept) < 3:
         return kept
@@ -323,8 +355,8 @@ def main(argv):
         act.update(candidates=rows, kept=kept, stats=dict(
             n=len(secs),
             median=round(statistics.median(secs) / 60) if secs else None,
-            low=round(min(secs) / 60) if secs else None,
-            high=round(max(secs) / 60) if secs else None,
+            **spread(secs),
+            trimmed_mean=trimmed_mean(secs),
             measured=sum(1 for r in kept if r.get("measured")),
             parts=part_medians(kept, parts)))
         out.append(act)
@@ -333,8 +365,10 @@ def main(argv):
     for act in out:
         s = act["stats"]
         flag = "  <-- thin, top up or widen the queries" if s["n"] < 6 else ""
+        iqr = f" iqr={s['q1']}-{s['q3']}" if s["q1"] else ""
         print(f"{act['chapter_id']:>10} {act['act_label']:<16} n={s['n']:<3}"
-              f"med={s['median']} range={s['low']}-{s['high']}"
+              f"med={s['median']} mean={s['trimmed_mean']} "
+              f"range={s['low']}-{s['high']}{iqr}"
               f"  {act['act_title'][:40]}{flag}")
     return 0
 

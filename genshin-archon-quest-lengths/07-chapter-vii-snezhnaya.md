@@ -8,10 +8,10 @@ and where the sibling's requested journey was always meant to end.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 20 min - 5 h 15 min | 8 | high |
-| Act II | Wraith's Nocturne | 4 h 27 min | 4 h 16 min - 7 h 07 min | 9 | medium |
+| Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 42 min - 4 h 19 min | 8 | high |
+| Act II | Wraith's Nocturne | 4 h 27 min | 4 h 19 min - 5 h 42 min | 9 | medium |
 
 **Total: 8 h 29 min**
 
@@ -31,7 +31,7 @@ Farewell at The Flagship, then into Snezhnaya,
 where Paimon starts feeling the cold in a way she should not.
 
 - **Estimated length:** 4 h 02 min
-- **Sampled range:** 3 h 20 min to 5 h 15 min across 8 playthrough uploads (4 further candidates screened out)
+- **Sampled range:** 3 h 42 min to 4 h 19 min for the middle half (full spread 3 h 20 min to 5 h 15 min) across 8 playthrough uploads (4 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.0
@@ -59,7 +59,7 @@ The Korolevskiy Theater, Lelek's confession,
 and the ballet that stops mid-performance.
 
 - **Estimated length:** 4 h 27 min
-- **Sampled range:** 4 h 16 min to 7 h 07 min across 9 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 4 h 19 min to 5 h 42 min for the middle half (full spread 4 h 16 min to 7 h 07 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** -
 - **Released in:** 7.0

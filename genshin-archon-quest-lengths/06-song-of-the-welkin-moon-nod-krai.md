@@ -10,19 +10,19 @@ and finally deliver the Chapter III title drop.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prelude | The Journey Home | 2 h 29 min | 1 h 51 min - 4 h 00 min | 9 | medium |
-| Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min | 2 h 33 min - 7 h 36 min | 13 | low |
-| Act II | Elegy of Dust and Lamplight | 3 h 21 min | 2 h 36 min - 4 h 40 min | 10 | medium |
-| Act III | A Nation That Doesn't Exist | 2 h 21 min | 2 h 02 min - 2 h 34 min | 10 | high |
-| Act IV | An Elegy for Faded Moonlight | 3 h 59 min | 2 h 31 min - 4 h 20 min | 10 | medium |
-| Act V | A Nocturne of the Far North | 2 h 34 min | 1 h 38 min - 3 h 47 min | 24 | low |
-| Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 06 min - 4 h 01 min | 10 | medium |
-| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 25 min - 3 h 18 min | 21 | high |
-| Act VIII | True Moon | 3 h 24 min | 3 h 11 min - 3 h 50 min | 9 | high |
-| Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 22 min - 3 h 06 min | 10 | high |
-| Act X | Truth Amongst the Pages of Purana | 4 h 00 min | 1 h 57 min - 4 h 34 min | 12 | low |
+| Prelude | The Journey Home | 2 h 29 min | 2 h 14 min - 2 h 39 min | 9 | high |
+| Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min | 3 h 53 min - 4 h 52 min | 13 | medium |
+| Act II | Elegy of Dust and Lamplight | 3 h 21 min | 3 h 01 min - 3 h 46 min | 10 | high |
+| Act III | A Nation That Doesn't Exist | 2 h 21 min | 2 h 15 min - 2 h 29 min | 10 | high |
+| Act IV | An Elegy for Faded Moonlight | 3 h 59 min | 3 h 32 min - 4 h 08 min | 10 | high |
+| Act V | A Nocturne of the Far North | 2 h 34 min | 2 h 24 min - 2 h 52 min | 24 | high |
+| Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 50 min - 3 h 12 min | 10 | high |
+| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 44 min - 3 h 04 min | 21 | high |
+| Act VIII | True Moon | 3 h 24 min | 3 h 17 min - 3 h 30 min | 9 | high |
+| Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 31 min - 2 h 48 min | 10 | high |
+| Act X | Truth Amongst the Pages of Purana | 4 h 00 min | 2 h 23 min - 4 h 17 min | 12 | low |
 
 **Total: 35 h 22 min**
 
@@ -44,8 +44,8 @@ and a strange woman washed ashore looking for someone.
 Ineffa's introduction.
 
 - **Estimated length:** 2 h 29 min
-- **Sampled range:** 1 h 51 min to 4 h 00 min across 9 playthrough uploads (2 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 2 h 14 min to 2 h 39 min for the middle half (full spread 1 h 51 min to 4 h 00 min) across 9 playthrough uploads (2 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.8
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
@@ -75,8 +75,8 @@ with Sandrone already tracking the Traveler.
 One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 43 min
-- **Sampled range:** 2 h 33 min to 7 h 36 min across 13 playthrough uploads (12 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 3 h 53 min to 4 h 52 min for the middle half (full spread 2 h 33 min to 7 h 36 min) across 13 playthrough uploads (12 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
 - **Measured from the uploader's chapter markers:** 2 of 13 uploads
@@ -110,8 +110,8 @@ the Kuuvahki Cannon repair,
 and Rerir regaining physical form.
 
 - **Estimated length:** 3 h 21 min
-- **Sampled range:** 2 h 36 min to 4 h 40 min across 10 playthrough uploads (2 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 3 h 01 min to 3 h 46 min for the middle half (full spread 2 h 36 min to 4 h 40 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
@@ -141,7 +141,7 @@ Hunting Rerir across the kuuvahki-rich islands
 with Flins, Aino, Lauma, and Jahoda.
 
 - **Estimated length:** 2 h 21 min
-- **Sampled range:** 2 h 02 min to 2 h 34 min across 10 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 2 h 15 min to 2 h 29 min for the middle half (full spread 2 h 02 min to 2 h 34 min) across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
@@ -173,8 +173,8 @@ Arlecchino and Sandrone circle each other,
 and fate starts closing in.
 
 - **Estimated length:** 3 h 59 min
-- **Sampled range:** 2 h 31 min to 4 h 20 min across 10 playthrough uploads (2 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 3 h 32 min to 4 h 08 min for the middle half (full spread 2 h 31 min to 4 h 20 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
@@ -204,8 +204,8 @@ Only two quest parts, around Moon-Prayer Night,
 with Columbina weakening after the fight with Rerir.
 
 - **Estimated length:** 2 h 34 min
-- **Sampled range:** 1 h 38 min to 3 h 47 min across 24 playthrough uploads (15 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 2 h 24 min to 2 h 52 min for the middle half (full spread 1 h 38 min to 3 h 47 min) across 24 playthrough uploads (15 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
 - **Measured from the uploader's chapter markers:** 3 of 24 uploads
@@ -250,8 +250,8 @@ the full history of Teyvat's three moons,
 and the search for Columbina's true name.
 
 - **Estimated length:** 2 h 58 min
-- **Sampled range:** 2 h 06 min to 4 h 01 min across 10 playthrough uploads (2 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 2 h 50 min to 3 h 12 min for the middle half (full spread 2 h 06 min to 4 h 01 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
 - **Quest parts (4):** Where Does Her Name Rest?; The Night the Moon Returns Home; Return to the Moon; The Empty Courtyard
@@ -279,7 +279,7 @@ and the search for Columbina's true name.
 North to Dottore's lab with the Fatui as temporary allies.
 
 - **Estimated length:** 2 h 56 min
-- **Sampled range:** 2 h 25 min to 3 h 18 min across 21 playthrough uploads (25 further candidates screened out)
+- **Sampled range:** 2 h 44 min to 3 h 04 min for the middle half (full spread 2 h 25 min to 3 h 18 min) across 21 playthrough uploads (25 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
@@ -322,7 +322,7 @@ the Wanderer's rescue,
 and the Welkin Moon's homecoming.
 
 - **Estimated length:** 3 h 24 min
-- **Sampled range:** 3 h 11 min to 3 h 50 min across 9 playthrough uploads (9 further candidates screened out)
+- **Sampled range:** 3 h 17 min to 3 h 30 min for the middle half (full spread 3 h 11 min to 3 h 50 min) across 9 playthrough uploads (9 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
@@ -352,7 +352,7 @@ Back to Sumeru through Collei's letter:
 identities in Sumeru City have been switched around.
 
 - **Estimated length:** 2 h 37 min
-- **Sampled range:** 2 h 22 min to 3 h 06 min across 10 playthrough uploads (7 further candidates screened out)
+- **Sampled range:** 2 h 31 min to 2 h 48 min for the middle half (full spread 2 h 22 min to 3 h 06 min) across 10 playthrough uploads (7 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
@@ -383,7 +383,7 @@ Kaveh, Alhaitham, and Thoth open the Aaru,
 and Chapter III finally gets its title drop.
 
 - **Estimated length:** 4 h 00 min
-- **Sampled range:** 1 h 57 min to 4 h 34 min across 12 playthrough uploads (33 further candidates screened out)
+- **Sampled range:** 2 h 23 min to 4 h 17 min for the middle half (full spread 1 h 57 min to 4 h 34 min) across 12 playthrough uploads (33 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)

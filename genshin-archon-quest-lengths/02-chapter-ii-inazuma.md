@@ -10,13 +10,13 @@ and confronts the Raiden Shogun over what eternity costs her people.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Prologue | Autumn Winds, Scarlet Leaves | 1 h 05 min | 55 min - 1 h 09 min | 7 | medium |
 | Act I | The Immovable God and the Eternal Euthymia | 2 h 55 min | 1 h 54 min - 3 h 13 min | 7 | medium |
-| Act II | Stillness, the Sublimation of Shadow | 50 min | 43 min - 1 h 01 min | 11 | high |
-| Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 37 min - 3 h 24 min | 9 | medium |
-| Act IV | Requiem of the Echoing Depths | 58 min | 42 min - 1 h 37 min | 10 | low |
+| Act II | Stillness, the Sublimation of Shadow | 50 min | 45 min - 57 min | 11 | medium |
+| Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 57 min - 2 h 29 min | 9 | medium |
+| Act IV | Requiem of the Echoing Depths | 58 min | 49 min - 1 h 00 min | 10 | high |
 
 **Total: 8 h 10 min**
 
@@ -94,8 +94,8 @@ and uncovering the Delusion factory.
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 50 min
-- **Sampled range:** 43 min to 1 h 01 min across 11 playthrough uploads (1 further candidates screened out)
-- **Confidence:** high
+- **Sampled range:** 45 min to 57 min for the middle half (full spread 43 min to 1 h 01 min) across 11 playthrough uploads (1 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
@@ -127,7 +127,7 @@ Signora dies in a duel,
 and the Vision Hunt Decree is repealed.
 
 - **Estimated length:** 2 h 22 min
-- **Sampled range:** 1 h 37 min to 3 h 24 min across 9 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 1 h 57 min to 2 h 29 min for the middle half (full spread 1 h 37 min to 3 h 24 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.1
@@ -156,8 +156,8 @@ Enkanomiya, the Black Serpent Knights,
 and Dainsleif's account of the sibling's part in the cataclysm.
 
 - **Estimated length:** 58 min
-- **Sampled range:** 42 min to 1 h 37 min across 10 playthrough uploads (1 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 42 min to 1 h 37 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads

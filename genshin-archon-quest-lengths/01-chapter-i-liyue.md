@@ -9,13 +9,13 @@ to the Fatui of his own free will.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Of the Land Amidst Monoliths | 1 h 06 min | 33 min - 1 h 36 min | 8 | low |
-| Act II | Farewell, Archaic Lord | 1 h 49 min | 1 h 24 min - 2 h 05 min | 8 | high |
-| Act III | A New Star Approaches | 1 h 59 min | 1 h 40 min - 2 h 20 min | 9 | high |
-| Act IV - Prelude | Bough Keeper: Dainsleif | 36 min | 27 min - 52 min | 10 | medium |
-| Act IV | We Will Be Reunited | 1 h 12 min | 52 min - 1 h 28 min | 10 | medium |
+| Act I | Of the Land Amidst Monoliths | 1 h 06 min | 1 h 00 min - 1 h 23 min | 8 | medium |
+| Act II | Farewell, Archaic Lord | 1 h 49 min | 1 h 39 min - 1 h 52 min | 8 | high |
+| Act III | A New Star Approaches | 1 h 59 min | 1 h 48 min - 2 h 06 min | 9 | high |
+| Act IV - Prelude | Bough Keeper: Dainsleif | 36 min | 28 min - 45 min | 10 | low |
+| Act IV | We Will Be Reunited | 1 h 12 min | 59 min - 1 h 23 min | 10 | medium |
 
 **Total: 6 h 42 min**
 
@@ -37,8 +37,8 @@ Rex Lapis falls,
 and the Traveler flees the Millelith as the prime suspect.
 
 - **Estimated length:** 1 h 06 min
-- **Sampled range:** 33 min to 1 h 36 min across 8 playthrough uploads (3 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 1 h 00 min to 1 h 23 min for the middle half (full spread 33 min to 1 h 36 min) across 8 playthrough uploads (3 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 23
 - **Released in:** 1.0
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
@@ -67,7 +67,7 @@ the three perfumes, Guizhong's memory,
 and a lesson in what contracts mean in Liyue.
 
 - **Estimated length:** 1 h 49 min
-- **Sampled range:** 1 h 24 min to 2 h 05 min across 8 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 1 h 39 min to 1 h 52 min for the middle half (full spread 1 h 24 min to 2 h 05 min) across 8 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 25
 - **Released in:** 1.0
@@ -97,7 +97,7 @@ Childe is beaten,
 and Zhongli reveals that the whole thing was his own retirement plan.
 
 - **Estimated length:** 1 h 59 min
-- **Sampled range:** 1 h 40 min to 2 h 20 min across 9 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 1 h 48 min to 2 h 06 min for the middle half (full spread 1 h 40 min to 2 h 20 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 28
 - **Released in:** 1.1
@@ -128,8 +128,8 @@ and the Khaenri'ah backstory behind the Abyss Order.
 The shortest entry in the questline.
 
 - **Estimated length:** 36 min
-- **Sampled range:** 27 min to 52 min across 10 playthrough uploads (1 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 28 min to 45 min for the middle half (full spread 27 min to 52 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 28
 - **Released in:** 1.3
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
@@ -158,7 +158,7 @@ Dainsleif leads the Traveler to the Abyss Order's ritual,
 where the sibling is revealed as its leader.
 
 - **Estimated length:** 1 h 12 min
-- **Sampled range:** 52 min to 1 h 28 min across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 59 min to 1 h 23 min for the middle half (full spread 52 min to 1 h 28 min) across 10 playthrough uploads (1 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 28
 - **Released in:** 1.4

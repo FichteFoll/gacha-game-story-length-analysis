@@ -9,11 +9,11 @@ against the corrupted dragon Dvalin.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | The Outlander Who Caught the Wind | 53 min | 35 min - 1 h 36 min | 11 | low |
-| Act II | For a Tomorrow Without Tears | 1 h 13 min | 48 min - 1 h 53 min | 10 | low |
-| Act III | Song of the Dragon and Freedom | 57 min | 41 min - 1 h 39 min | 9 | low |
+| Act I | The Outlander Who Caught the Wind | 53 min | 46 min - 1 h 04 min | 11 | medium |
+| Act II | For a Tomorrow Without Tears | 1 h 13 min | 1 h 02 min - 1 h 24 min | 10 | medium |
+| Act III | Song of the Dragon and Freedom | 57 min | 48 min - 1 h 10 min | 9 | medium |
 
 **Total: 3 h 03 min**
 
@@ -34,8 +34,8 @@ Arrival in Mondstadt with Amber, the first Stormterror attack,
 and the introduction to the Knights of Favonius.
 
 - **Estimated length:** 53 min
-- **Sampled range:** 35 min to 1 h 36 min across 11 playthrough uploads (2 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 46 min to 1 h 04 min for the middle half (full spread 35 min to 1 h 36 min) across 11 playthrough uploads (2 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** -
 - **Released in:** 1.0
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
@@ -67,8 +67,8 @@ the Abyss Order's hand in Dvalin's corruption comes to light,
 and the attempt to reach the dragon through his memories fails.
 
 - **Estimated length:** 1 h 13 min
-- **Sampled range:** 48 min to 1 h 53 min across 10 playthrough uploads (1 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 1 h 02 min to 1 h 24 min for the middle half (full spread 48 min to 1 h 53 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 10
 - **Released in:** 1.0
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
@@ -99,8 +99,8 @@ Dvalin is freed at the Light Guiding Ceremony,
 and Signora takes Barbatos' Gnosis.
 
 - **Estimated length:** 57 min
-- **Sampled range:** 41 min to 1 h 39 min across 9 playthrough uploads (2 further candidates screened out)
-- **Confidence:** low
+- **Sampled range:** 48 min to 1 h 10 min for the middle half (full spread 41 min to 1 h 39 min) across 9 playthrough uploads (2 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 18
 - **Released in:** 1.0
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads

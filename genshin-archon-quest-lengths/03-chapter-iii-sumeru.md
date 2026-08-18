@@ -9,14 +9,14 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Through Mists of Smoke and Forests Dark | 3 h 28 min | 1 h 42 min - 4 h 31 min | 14 | low |
-| Act II | The Morn a Thousand Roses Brings | 2 h 24 min | 1 h 26 min - 2 h 58 min | 10 | medium |
-| Act III | Dreams, Emptiness, Deception | 1 h 52 min | 1 h 43 min - 2 h 00 min | 9 | high |
-| Act IV | King Deshret and the Three Magi | 2 h 11 min | 1 h 18 min - 2 h 40 min | 8 | medium |
+| Act I | Through Mists of Smoke and Forests Dark | 3 h 28 min | 2 h 27 min - 3 h 46 min | 14 | low |
+| Act II | The Morn a Thousand Roses Brings | 2 h 24 min | 1 h 43 min - 2 h 37 min | 10 | low |
+| Act III | Dreams, Emptiness, Deception | 1 h 52 min | 1 h 47 min - 1 h 56 min | 9 | high |
+| Act IV | King Deshret and the Three Magi | 2 h 11 min | 2 h 08 min - 2 h 21 min | 8 | high |
 | Act V | Akasha Pulses, the Kalpa Flame Rises | 4 h 31 min | 2 h 38 min - 5 h 14 min | 7 | medium |
-| Act VI | Caribert | 1 h 36 min | 1 h 15 min - 1 h 53 min | 9 | high |
+| Act VI | Caribert | 1 h 36 min | 1 h 21 min - 1 h 38 min | 9 | high |
 
 **Total: 16 h 02 min**
 
@@ -37,7 +37,7 @@ the Withering, Eleazar, the Aranara,
 and the Akasha's grip on Sumeru City.
 
 - **Estimated length:** 3 h 28 min
-- **Sampled range:** 1 h 42 min to 4 h 31 min across 14 playthrough uploads (15 further candidates screened out)
+- **Sampled range:** 2 h 27 min to 3 h 46 min for the middle half (full spread 1 h 42 min to 4 h 31 min) across 14 playthrough uploads (15 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
@@ -72,8 +72,8 @@ The Sabzeruz Festival repeats itself until the Traveler breaks the loop
 and pulls Nahida out of the Akademiya's dream.
 
 - **Estimated length:** 2 h 24 min
-- **Sampled range:** 1 h 26 min to 2 h 58 min across 10 playthrough uploads (2 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 1 h 43 min to 2 h 37 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
@@ -103,7 +103,7 @@ Nahida joins the party properly,
 and the Akademiya's god-making project behind Scaramouche surfaces.
 
 - **Estimated length:** 1 h 52 min
-- **Sampled range:** 1 h 43 min to 2 h 00 min across 9 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 1 h 47 min to 1 h 56 min for the middle half (full spread 1 h 43 min to 2 h 00 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
@@ -133,8 +133,8 @@ Into the desert with Cyno and Candace,
 chasing King Deshret's legacy and the cause of Eleazar.
 
 - **Estimated length:** 2 h 11 min
-- **Sampled range:** 1 h 18 min to 2 h 40 min across 8 playthrough uploads (4 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 2 h 08 min to 2 h 21 min for the middle half (full spread 1 h 18 min to 2 h 40 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
@@ -192,7 +192,7 @@ Traveler chapter: Dainsleif, Kaeya,
 and the sinner Caribert at the edge of Khaenri'ah.
 
 - **Estimated length:** 1 h 36 min
-- **Sampled range:** 1 h 15 min to 1 h 53 min across 9 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 1 h 21 min to 1 h 38 min for the middle half (full spread 1 h 15 min to 1 h 53 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.5

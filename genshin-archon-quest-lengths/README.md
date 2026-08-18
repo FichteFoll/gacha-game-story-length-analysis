@@ -92,11 +92,20 @@ Of the survivors, anything below half or above 1.8 times the median
 is dropped as a truncated or padded upload.
 
 6. **Estimate.**
-The published figure is the **median** of the accepted uploads,
-and the range is their minimum and maximum.
-Confidence is *high* at eight or more uploads spanning a factor under 1.6,
-*medium* at six or more spanning a factor under 2.2,
-and *low* otherwise.
+The published figure is the **median** of the accepted uploads.
+From eight uploads on, the published range is the **middle half**
+(the interquartile range), with the full spread given alongside it:
+one padded upload widens a min-max range that is otherwise tight,
+and says more about that uploader than about the act.
+Below eight uploads there is no distribution to speak of
+and the range is the minimum and maximum.
+Confidence is *high* at eight or more uploads
+whose middle half spans a factor under 1.25,
+and *medium* at six or more under 1.5.
+Where the sample is too small for an interquartile range,
+the same ladder runs on the full spread at 1.6 and 2.2,
+which is the looser test the extremes deserve.
+Everything else is *low*.
 
 ## What these numbers do and do not mean
 

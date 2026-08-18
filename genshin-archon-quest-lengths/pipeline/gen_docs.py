@@ -19,6 +19,11 @@ DATA = OUT / "data"
 
 WIKI = "https://genshin-impact.fandom.com/wiki/"
 
+# The middle half of a sample is tighter than its extremes by construction, so it
+# is held to a tighter factor: the two ladders are meant to rate alike.
+SPREAD_HIGH = {True: 1.25, False: 1.6}
+SPREAD_MEDIUM = {True: 1.5, False: 2.2}
+
 
 def write(path, text):
     cleaned = "\n".join(line.rstrip() for line in text.splitlines()) + "\n"
@@ -43,14 +48,23 @@ def released_in(act, versions, version_index):
     return f"{name} ({number})" if number and number != name else name
 
 
+def bounds(stats):
+    """The middle half where the sample carries it, the full spread otherwise."""
+    if stats.get("q1") and stats.get("q3"):
+        return stats["q1"], stats["q3"]
+    return stats["low"], stats["high"]
+
+
 def confidence(stats):
-    n, low, high = stats["n"], stats["low"], stats["high"]
+    n = stats["n"]
     if not n:
         return "none"
+    low, high = bounds(stats)
     ratio = high / max(low, 1)
-    if n >= 8 and ratio <= 1.6:
+    interquartile = bool(stats.get("q1"))
+    if n >= 8 and ratio <= SPREAD_HIGH[interquartile]:
         return "high"
-    if n >= 6 and ratio <= 2.2:
+    if n >= 6 and ratio <= SPREAD_MEDIUM[interquartile]:
         return "medium"
     return "low"
 
@@ -88,6 +102,15 @@ def evidence_table(act):
     return "\n".join(lines)
 
 
+def ranged(stats):
+    """`2 h 10 min to 2 h 40 min (middle half of 12; full spread ...)`."""
+    low, high = stats["low"], stats["high"]
+    if not (stats.get("q1") and stats.get("q3")):
+        return f"{hm(low)} to {hm(high)}"
+    return (f"{hm(stats['q1'])} to {hm(stats['q3'])} for the middle half "
+            f"(full spread {hm(low)} to {hm(high)})")
+
+
 def part_list(parts, timings):
     """Quest parts in wiki order, timed where enough uploads marked them out."""
     return "; ".join(f"{p} ({hm(timings[p])})" if p in timings else p
@@ -106,7 +129,7 @@ def act_section(act, parts, versions, version_index, facts, superlative):
         note,
         "",
         f"- **Estimated length:** {hm(s['median'])}",
-        f"- **Sampled range:** {hm(s['low'])} to {hm(s['high'])} "
+        f"- **Sampled range:** {ranged(s)} "
         f"across {s['n']} playthrough uploads "
         f"({screened} further candidates screened out)",
         f"- **Confidence:** {confidence(s)}",
@@ -139,14 +162,15 @@ def chapter_doc(chap, acts, quest_parts, versions, version_index, superlative):
         "",
         "## At a glance",
         "",
-        "| Act | Title | Estimate | Sampled range | Uploads | Confidence |",
+        "| Act | Title | Estimate | Middle half | Uploads | Confidence |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
     for a in acts:
         s = a["stats"]
         head.append(
             f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
-            f"| {hm(s['low'])} - {hm(s['high'])} | {s['n']} | {confidence(s)} |")
+            f"| {hm(bounds(s)[0])} - {hm(bounds(s)[1])} | {s['n']} "
+            f"| {confidence(s)} |")
     head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "",
              prose(chap["pacing"], facts), "", "## Acts", ""]
     for a in acts:
@@ -275,11 +299,20 @@ def readme(chapters, by_chapter):
         "is dropped as a truncated or padded upload.",
         "",
         "6. **Estimate.** \n"
-        "The published figure is the **median** of the accepted uploads, \n"
-        "and the range is their minimum and maximum. \n"
-        "Confidence is *high* at eight or more uploads spanning a factor under 1.6, \n"
-        "*medium* at six or more spanning a factor under 2.2, \n"
-        "and *low* otherwise.",
+        "The published figure is the **median** of the accepted uploads. \n"
+        "From eight uploads on, the published range is the **middle half** \n"
+        "(the interquartile range), with the full spread given alongside it: \n"
+        "one padded upload widens a min-max range that is otherwise tight, \n"
+        "and says more about that uploader than about the act. \n"
+        "Below eight uploads there is no distribution to speak of \n"
+        "and the range is the minimum and maximum. \n"
+        "Confidence is *high* at eight or more uploads \n"
+        "whose middle half spans a factor under 1.25, \n"
+        "and *medium* at six or more under 1.5. \n"
+        "Where the sample is too small for an interquartile range, \n"
+        "the same ladder runs on the full spread at 1.6 and 2.2, \n"
+        "which is the looser test the extremes deserve. \n"
+        "Everything else is *low*.",
         "",
         "## What these numbers do and do not mean",
         "",
