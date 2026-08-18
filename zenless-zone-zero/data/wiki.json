@@ -1,0 +1,7 @@
+{
+ "host": "zenless-zone-zero.fandom.com",
+ "name": "Zenless Zone Zero Wiki",
+ "released_in": "Released in Version (.+)",
+ "version_page": "Version/{version}",
+ "version_fields": {"number": "version", "date": "date"}
+}

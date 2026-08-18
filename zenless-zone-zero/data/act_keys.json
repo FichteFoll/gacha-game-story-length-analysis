@@ -1,0 +1,13 @@
+{
+ "s1|Chapter 1": ["^(?!.*intermission)(?!.*\\((a|b)\\))"],
+ "s1|Chapter 1 Intermission": ["intermission", "zero zone"],
+ "s1|Chapter 2": ["^(?!.*interlude)(?!.*\\((a|b)\\))"],
+ "s1|Chapter 2 Interlude": ["^(?!.*\\((a|b)\\))"],
+ "s1|Chapter 3": ["^(?!.*\\((a|b)\\))"],
+ "s1|Chapter 4": ["^(?!.*\\((a|b)\\))"],
+ "s1|Chapter 5": ["^(?!.*\\((a|b)\\))"],
+ "s1|Epilogue (A)": ["\\(a\\)", "\\bpart a\\b", "1\\.6"],
+ "s1|Epilogue (B)": ["\\(b\\)", "\\bpart b\\b", "1\\.7"],
+ "s2|Epilogue (A)": ["\\(a\\)", "\\bpart a\\b", "2\\.7"],
+ "s2|Epilogue (B)": ["\\(b\\)", "\\bpart b\\b", "2\\.8"]
+}

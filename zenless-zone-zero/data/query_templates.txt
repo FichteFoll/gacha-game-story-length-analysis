@@ -1,0 +1,4 @@
+{game} {chapter} {act_label} {act_title} full walkthrough no commentary
+{game} {act_title} full story walkthrough
+{game} {number} main story quest {act_title} full walkthrough
+{game} {version} {chapter} {act_label} full quest gameplay

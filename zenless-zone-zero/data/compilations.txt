@@ -1,0 +1,3 @@
+(full|entire|complete|whole) season\b(?!.*(chapter|interlude|epilogue))
+all (seasons|main stories)
+supercut
