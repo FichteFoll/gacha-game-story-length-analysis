@@ -4,21 +4,21 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: 112 h 37 min** (45 entries counting acts, preludes and interludes, measured against 449 accepted uploads out of 672 candidates).
+**Total for the whole main questline: 112 h 23 min** (45 entries counting acts, preludes and interludes, measured against 463 accepted uploads out of 672 candidates).
 That figure is the sum of the per-act medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
 
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 3 h 07 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
-| Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 46 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
-| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 11 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
+| Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 3 h 03 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
+| Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 42 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
+| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 10 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
 | Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 02 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
-| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 15 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
-| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 26 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
-| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 23 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
-| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 | 2 | 8 h 27 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
+| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 10 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
+| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 25 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
+| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 22 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
+| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 | 2 | 8 h 29 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 
 ## Longest and shortest acts
 
@@ -27,11 +27,11 @@ That figure is the sum of the per-act medians, so treat it as an order of magnit
 | longest | Chapter IV, Act V: Masquerade of the Guilty | 4 h 50 min |
 | longest | Song of the Welkin Moon, Act I: A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min |
 | longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 31 min |
-| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 25 min |
-| longest | Song of the Welkin Moon, Act IV: An Elegy for Faded Moonlight | 4 h 03 min |
-| shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 37 min |
+| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 27 min |
+| longest | Chapter VII, Act I: Everwinter Without Mercy | 4 h 02 min |
+| shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 36 min |
 | shortest | Chapter II, Act II: Stillness, the Sublimation of Shadow | 50 min |
-| shortest | Chapter V, Interlude: All Fires Fuel the Flame | 50 min |
+| shortest | Chapter V, Interlude: All Fires Fuel the Flame | 52 min |
 
 ## Method
 
@@ -54,7 +54,7 @@ because they have far fewer uploads to draw on.
 Each result was collected with its runtime, title, uploader,
 view count and URL.
 
-2b. **A second pass over the candidates worth measuring.**
+3. **A second pass over the candidates worth measuring.**
 The search listing gives rounded view counts and no upload date,
 so every candidate that was not discarded outright
 is fetched again in full.
@@ -64,18 +64,34 @@ YouTube rate-limits these requests,
 so the pass covers as many as it manages
 and the rest keep their figures from the search listing.
 
-3. **Screening.**
+4. **Locating the act inside the upload.**
+Where an uploader marked out their video with chapter markers,
+the markers are matched against the act's quest parts,
+its title and its number,
+and the act is measured from those markers rather than from
+the video's total runtime.
+That drops the uploader's pre-roll and detours from the measurement,
+turns an upload covering two acts into evidence for each of them,
+and, where enough uploads marked the same quest part,
+gives that part its own median.
+A marker set that covers less than 60 percent
+of a single-act upload is ignored:
+those markers were something other than the quest parts,
+and trusting them would under-measure the act.
+
+5. **Screening.**
 A candidate is discarded when its title marks it as something other than
 a hands-on playthrough of exactly that act:
 cutscene reels, cinematic edits, lore explainers, guides and reaction videos;
 livestreams and let's-plays, whose idle chatter inflates runtime;
-multi-act compilations such as "Acts 9 & 10" or "Full Sumeru Archon Quest";
+multi-act compilations such as "Acts 9 & 10" or "Full Sumeru Archon Quest",
+unless their chapter markers located this act inside them;
 and uploads whose title does not name the act
 either by name or by chapter plus act number.
 Of the survivors, anything below half or above 1.8 times the median
 is dropped as a truncated or padded upload.
 
-4. **Estimate.**
+6. **Estimate.**
 The published figure is the **median** of the accepted uploads,
 and the range is their minimum and maximum.
 Confidence is *high* at eight or more uploads spanning a factor under 1.6,

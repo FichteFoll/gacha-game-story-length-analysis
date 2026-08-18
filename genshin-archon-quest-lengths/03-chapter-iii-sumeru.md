@@ -41,6 +41,7 @@ and the Akasha's grip on Sumeru City.
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
+- **Measured from the uploader's chapter markers:** 1 of 14 uploads
 - **Quest parts (7):** A Forest of Change; Further Observation; Chronic Illness; Silent Seeker of Knowledge; The Trail of the God of Wisdom; Lost in Prosperity; Ever So Close
 
 <details>
@@ -75,6 +76,7 @@ and pulls Nahida out of the Akademiya's dream.
 - **Confidence:** medium
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
+- **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (8):** The Coming of the Sabzeruz Festival; The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn
 
 <details>
@@ -105,6 +107,7 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
+- **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (3):** Like a Triumphant Hero; The Gaze From a Certain God; The Four at Loggerheads
 
 <details>
@@ -134,6 +137,7 @@ chasing King Deshret's legacy and the cause of Eleazar.
 - **Confidence:** medium
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (3):** The Missing Village Keepers; Cry From the Eleazar Hospital; Secret of the Scorching Desert
 
 <details>
@@ -164,6 +168,7 @@ One of the three longest acts in the game.
 - **Confidence:** medium
 - **Adventure Rank gate:** 35
 - **Released in:** 3.2
+- **Measured from the uploader's chapter markers:** 2 of 7 uploads
 - **Quest parts (5):** Through the Predawn Night; As by a God's Side; Jnagarbha Day; Where the Boat of Consciousness Lies; A Toast to Victory
 
 <details>
@@ -191,6 +196,7 @@ and the sinner Caribert at the edge of Khaenri'ah.
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.5
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (4):** Destined Encounter; Fortune-Mocking Pedigree; A Lamenter at Fate's End; Portended Fate
 
 <details>

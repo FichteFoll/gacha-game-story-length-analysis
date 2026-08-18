@@ -1,6 +1,6 @@
 # Chapter IV: Masquerade of the Guilty
 
-**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 15 min**
+**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 10 min**
 
 A prophecy says Fontaine will dissolve into the waters.
 Between courtroom trials, a prison at the bottom of the sea,
@@ -13,13 +13,13 @@ and watches Focalors execute herself to void the prophecy.
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Prelude of Blancheur and Noirceur | 3 h 24 min | 1 h 47 min - 3 h 53 min | 9 | medium |
-| Act II | As Light Rain Falls Without Reason | 2 h 45 min | 1 h 35 min - 3 h 18 min | 11 | medium |
+| Act II | As Light Rain Falls Without Reason | 2 h 40 min | 1 h 35 min - 3 h 18 min | 11 | medium |
 | Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 29 min - 2 h 43 min | 10 | medium |
 | Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 24 min - 3 h 02 min | 9 | high |
 | Act V | Masquerade of the Guilty | 4 h 50 min | 4 h 15 min - 6 h 43 min | 8 | high |
 | Act VI | Bedtime Story | 1 h 18 min | 56 min - 1 h 26 min | 9 | high |
 
-**Total: 17 h 15 min**
+**Total: 17 h 10 min**
 
 ## Pacing
 
@@ -41,6 +41,7 @@ and an opera-house trial over the stolen Hydro Gnosis.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** Soloist's Prologue; The City of Rains and Remembrance; Lies Cast Shadows Under Gathered Lights
 
 <details>
@@ -65,12 +66,13 @@ and an opera-house trial over the stolen Hydro Gnosis.
 Furina and Neuvillette, the Oratrice,
 and a trial that sentences the Traveler to the Fortress of Meropide.
 
-- **Estimated length:** 2 h 45 min
+- **Estimated length:** 2 h 40 min
 - **Sampled range:** 1 h 35 min to 3 h 18 min across 11 playthrough uploads (1 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
-- **Quest parts (3):** Like the Faint Moonlight of Yesteryear; The Truth, Lost With the Rain; When All Return to the Waters
+- **Measured from the uploader's chapter markers:** 3 of 11 uploads
+- **Quest parts (3):** Like the Faint Moonlight of Yesteryear (34 min); The Truth, Lost With the Rain (56 min); When All Return to the Waters (1 h 24 min)
 
 <details>
 <summary>Evidence</summary>
@@ -80,11 +82,11 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 | 1 h 35 min | Archon Quest - As Light Rain Falls Without Reason \| Chapter4-Like The Faint Moonlight Of Yesteryear | FightMatrix Gaming | ~62 | n/a | <https://www.youtube.com/watch?v=hLAhAbkmqwQ> |
 | 1 h 53 min | As Light Rain Falls Without Reason Full Quest Genshin Impact  | Epic Nithan | 38 | 2025-09-07 | <https://www.youtube.com/watch?v=SoDJdDUEt00> |
 | 2 h 27 min | Genshin Impact - Fontaine Archon Quest Act 2 (4.0) \| Full Story Walkthrough (No Commentary) | Elrinell Gaming | 39 | 2026-02-19 | <https://www.youtube.com/watch?v=ZojAufn_FZc> |
+| 2 h 28 min | As Light Rain Falls Without Reason — Fontaine Archon Quest, Chapter IV: Act II \| Genshin Impact 4.0 | Mr. Trajet | 347 | 2023-08-19 | <https://www.youtube.com/watch?v=f02h-AYxarg> |
 | 2 h 36 min | Archon Quest Chapter IV: Act II Full Story HD \| As Light Rain Falls Without Reason \| Genshin Impact | Noxxis Gaming | 74,026 | 2023-08-16 | <https://www.youtube.com/watch?v=j6JyW3oi97M> |
 | 2 h 40 min | Genshin Impact: As Light Rain Falls Without Reason \| FONTAINE ARCHON QUEST ACT 2 CHAPTER IV \| 4K60 | Genshin Quests and Guides | 29,695 | 2023-08-19 | <https://www.youtube.com/watch?v=FdDP-hk7plw> |
 | 2 h 45 min | Genshin Impact \| Fontaine archon quest - As light rain falls without reason \| No commentary | why | ~34 | n/a | <https://www.youtube.com/watch?v=yMLC7k9s2Us> |
 | 2 h 53 min | Archon Quest Chapter IV: Act II Full Story 4K 60FPS \| As the Light Rain Falls Without Reason \| 4.0 | Headstart Gaming | 594 | 2023-08-19 | <https://www.youtube.com/watch?v=ELEzUqMtjWo> |
-| 2 h 55 min | As Light Rain Falls Without Reason — Fontaine Archon Quest, Chapter IV: Act II \| Genshin Impact 4.0 | Mr. Trajet | 347 | 2023-08-19 | <https://www.youtube.com/watch?v=f02h-AYxarg> |
 | 2 h 58 min | Fontaine Archon Quest: Act II - "As Light Rain Falls Without Reason" (Gameplay) \| Genshin Impact | LegendSpell | 36 | 2023-08-18 | <https://www.youtube.com/watch?v=mfCDk7YCCWY> |
 | 3 h 00 min | As Light Rain Falls Without Reason Full story \| Fontaine Archon Quest part 2 \|  Genshin Impact | Rubieco | ~227 | n/a | <https://www.youtube.com/watch?v=f8RcrPK13oY> |
 | 3 h 18 min | Genshin Impact - Chapter 4 Act 2: As Light Rain Falls Without Reason \| Full Story JP Dub EN Sub 4K | Gudaoko | ~840 | n/a | <https://www.youtube.com/watch?v=qbrb-uMUw2I> |
@@ -102,6 +104,7 @@ and the first hard evidence for the prophecy of dissolution.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
+- **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (4):** A Tea Party Most Thorny; Fortress of Meropide; The Proscribed, Hidden in Plain Sight; Lost in Deep Seas
 
 <details>
@@ -132,6 +135,7 @@ and the primordial sea beginning to rise.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
+- **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (5):** Into the Deepwater Murk; The Truth Shrouded in Shadow; Secret Keepers and Forbidden Zones; Calamitous Tread; A Moment's Respite
 
 <details>

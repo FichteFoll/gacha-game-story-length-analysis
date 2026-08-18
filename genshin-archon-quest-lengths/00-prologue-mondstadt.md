@@ -1,6 +1,6 @@
 # Prologue: The Outlander Who Caught the Wind
 
-**Region:** Mondstadt | **Game versions:** 1.0 | **Entries:** 3 | **Estimated chapter length: 3 h 07 min**
+**Region:** Mondstadt | **Game versions:** 1.0 | **Entries:** 3 | **Estimated chapter length: 3 h 03 min**
 
 The Traveler is torn from their sibling by an unknown god,
 washes up in Mondstadt with Paimon,
@@ -11,16 +11,16 @@ against the corrupted dragon Dvalin.
 
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | The Outlander Who Caught the Wind | 57 min | 35 min - 1 h 36 min | 10 | low |
-| Act II | For a Tomorrow Without Tears | 1 h 13 min | 51 min - 1 h 53 min | 10 | low |
+| Act I | The Outlander Who Caught the Wind | 53 min | 35 min - 1 h 36 min | 11 | low |
+| Act II | For a Tomorrow Without Tears | 1 h 13 min | 48 min - 1 h 53 min | 10 | low |
 | Act III | Song of the Dragon and Freedom | 57 min | 41 min - 1 h 39 min | 9 | low |
 
-**Total: 3 h 07 min**
+**Total: 3 h 03 min**
 
 ## Pacing
 
 Every act here lands within about a quarter hour of an hour
-(57 min to 1 h 13 min).
+(53 min to 1 h 13 min).
 Mondstadt is the tutorial region,
 so quest parts are small, combat is trivial at the intended Adventure Rank,
 and the walking distances are short.
@@ -33,11 +33,12 @@ Expect roughly a single evening for the whole Prologue.
 Arrival in Mondstadt with Amber, the first Stormterror attack,
 and the introduction to the Knights of Favonius.
 
-- **Estimated length:** 57 min
-- **Sampled range:** 35 min to 1 h 36 min across 10 playthrough uploads (3 further candidates screened out)
+- **Estimated length:** 53 min
+- **Sampled range:** 35 min to 1 h 36 min across 11 playthrough uploads (2 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** -
 - **Released in:** 1.0
+- **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (8):** Bird's Eye View; Unexpected Power; Forest Rendezvous; Wind-Riding Knight; Going Upon the Breeze; City of Freedom; Dragon Storm; Knights of Favonius
 
 <details>
@@ -46,6 +47,7 @@ and the introduction to the Knights of Favonius.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 35 min | Mondstadt Archon Quest \| Act 1: The Outlander Who Caught the Wind \| Genshin Impact | Rubieco | ~788 | n/a | <https://www.youtube.com/watch?v=e18WQaWtRBE> |
+| 46 min | Full Mondstadt Archon Quest - Genshin Impact | Fayato | 128,313 | 2024-06-07 | <https://www.youtube.com/watch?v=pyZqEkMDjUg> |
 | 46 min | Genshin Impact – Act 1: The Outlander Who Caught the Wind (No Commentary Playthrough) | FAZ OFFICIAL | ~45 | n/a | <https://www.youtube.com/watch?v=oRZjAkfJ1Fo> |
 | 47 min | The Outlander Who Caught The Wind \| Mondstadt Archon Quest: Act 1 \| Patch 1.0 \| Genshin Impact | 𝐑𝐨𝐛𝐢𝐧 | ~36 | n/a | <https://www.youtube.com/watch?v=v3_wDw3oVYo> |
 | 49 min | Archon Quest Prologue Act 1 The Outlander Who Caught the Wind - Genshin Impact Full Gameplay | Diary James | 427 | 2021-08-26 | <https://www.youtube.com/watch?v=V0EUGAQgkbk> |
@@ -65,10 +67,11 @@ the Abyss Order's hand in Dvalin's corruption comes to light,
 and the attempt to reach the dragon through his memories fails.
 
 - **Estimated length:** 1 h 13 min
-- **Sampled range:** 51 min to 1 h 53 min across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 48 min to 1 h 53 min across 10 playthrough uploads (1 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 10
 - **Released in:** 1.0
+- **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (12):** Shadow Over Mondstadt; Unexpected Encounter; That Green Fellow; Let the Wind Lead; Venti's Plan; Venti's New Plan; Wild Escape; Behind the Scenes; Chasing Shadows; State of the Holy Lyre der Himmel; Crystal Tears; Reunion With the Dragon
 
 <details>
@@ -76,7 +79,7 @@ and the attempt to reach the dragon through his memories fails.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 51 min | Genshin Impact - Prologue, Act II: For a Tomorrow Without Tears | Harmonea | 688 | 2021-01-29 | <https://www.youtube.com/watch?v=Jot_zia-qqk> |
+| 48 min | Genshin Impact - Prologue, Act II: For a Tomorrow Without Tears | Harmonea | 688 | 2021-01-29 | <https://www.youtube.com/watch?v=Jot_zia-qqk> |
 | 1 h 01 min | Genshin Impact – Act 2: For a Tomorrow Without Tears (No Commentary Playthrough) | FAZ OFFICIAL | 36 | 2026-04-07 | <https://www.youtube.com/watch?v=kMrwOZUrOho> |
 | 1 h 02 min | For A Tomorrow Without Tears \| Mondstadt Archon Quest: Act 2 \| Patch 1.0 \| Genshin Impact | 𝐑𝐨𝐛𝐢𝐧 | 23 | 2023-09-10 | <https://www.youtube.com/watch?v=cPg6JvUfDk0> |
 | 1 h 03 min | ARCHON QUEST [Prologue Chapter: ACT II] - For a Tomorrow Without Tears Quest \| Genshin Impact 1.0 | • • DUO LEVELING • • | 15 | 2026-06-24 | <https://www.youtube.com/watch?v=UKV_jNd5gY8> |
@@ -100,6 +103,7 @@ and Signora takes Barbatos' Gnosis.
 - **Confidence:** low
 - **Adventure Rank gate:** 18
 - **Released in:** 1.0
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (8):** Abyss Mage; Hurdle; Empty Abode; Light Guiding Ceremony; Calm Before the Storm; A Long Shot; When the Wind Dies Down; Ending Note
 
 <details>

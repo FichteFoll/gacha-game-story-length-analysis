@@ -88,6 +88,12 @@ def evidence_table(act):
     return "\n".join(lines)
 
 
+def part_list(parts, timings):
+    """Quest parts in wiki order, timed where enough uploads marked them out."""
+    return "; ".join(f"{p} ({hm(timings[p])})" if p in timings else p
+                     for p in parts)
+
+
 def act_section(act, parts, versions, version_index, facts, superlative):
     key = f"{act['chapter_id']}|{act['act_label']}"
     s = act["stats"]
@@ -107,9 +113,12 @@ def act_section(act, parts, versions, version_index, facts, superlative):
         f"- **Adventure Rank gate:** {ar_for(act)}",
         f"- **Released in:** {released_in(act, versions, version_index)}",
     ]
+    if s.get("measured"):
+        body.append(f"- **Measured from the uploader's chapter markers:** "
+                    f"{s['measured']} of {s['n']} uploads")
     if parts:
-        listed = "; ".join(p.split(" (")[0] for p in parts)
-        body.append(f"- **Quest parts ({len(parts)}):** {listed}")
+        body.append(f"- **Quest parts ({len(parts)}):** "
+                    f"{part_list(parts, s.get('parts', {}))}")
     body += ["", "<details>", "<summary>Evidence</summary>", "",
              evidence_table(act), "", "</details>", ""]
     return "\n".join(body)
@@ -228,7 +237,7 @@ def readme(chapters, by_chapter):
         "Each result was collected with its runtime, title, uploader, \n"
         "view count and URL.",
         "",
-        "2b. **A second pass over the candidates worth measuring.** \n"
+        "3. **A second pass over the candidates worth measuring.** \n"
         "The search listing gives rounded view counts and no upload date, \n"
         "so every candidate that was not discarded outright \n"
         "is fetched again in full. \n"
@@ -238,18 +247,34 @@ def readme(chapters, by_chapter):
         "so the pass covers as many as it manages \n"
         "and the rest keep their figures from the search listing.",
         "",
-        "3. **Screening.** \n"
+        "4. **Locating the act inside the upload.** \n"
+        "Where an uploader marked out their video with chapter markers, \n"
+        "the markers are matched against the act's quest parts, \n"
+        "its title and its number, \n"
+        "and the act is measured from those markers rather than from \n"
+        "the video's total runtime. \n"
+        "That drops the uploader's pre-roll and detours from the measurement, \n"
+        "turns an upload covering two acts into evidence for each of them, \n"
+        "and, where enough uploads marked the same quest part, \n"
+        "gives that part its own median. \n"
+        "A marker set that covers less than 60 percent \n"
+        "of a single-act upload is ignored: \n"
+        "those markers were something other than the quest parts, \n"
+        "and trusting them would under-measure the act.",
+        "",
+        "5. **Screening.** \n"
         "A candidate is discarded when its title marks it as something other than \n"
         "a hands-on playthrough of exactly that act: \n"
         "cutscene reels, cinematic edits, lore explainers, guides and reaction videos; \n"
         "livestreams and let's-plays, whose idle chatter inflates runtime; \n"
-        "multi-act compilations such as \"Acts 9 & 10\" or \"Full Sumeru Archon Quest\"; \n"
+        "multi-act compilations such as \"Acts 9 & 10\" or \"Full Sumeru Archon Quest\", \n"
+        "unless their chapter markers located this act inside them; \n"
         "and uploads whose title does not name the act \n"
         "either by name or by chapter plus act number. \n"
         "Of the survivors, anything below half or above 1.8 times the median \n"
         "is dropped as a truncated or padded upload.",
         "",
-        "4. **Estimate.** \n"
+        "6. **Estimate.** \n"
         "The published figure is the **median** of the accepted uploads, \n"
         "and the range is their minimum and maximum. \n"
         "Confidence is *high* at eight or more uploads spanning a factor under 1.6, \n"

@@ -16,6 +16,8 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/enriched.tsv        optional second-pass metadata (enrich.sh):
                                      exact duration, upload date, exact view
                                      count and the uploader's chapter markers
+       <workdir>/quest_parts.json    optional {chapter_id|act_label: [part, ...]},
+                                     what the chapter markers are matched against
 Writes <workdir>/analysis.json       accepted and rejected candidates plus stats
 and prints a one-line-per-act summary for eyeballing.
 
@@ -56,6 +58,9 @@ ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
 TITLE_MATCH_RATIO = 0.6      # share of act-title words a video title must carry
 SHORT_OUTLIER = 0.5          # fraction of the median below which uploads drop
 LONG_OUTLIER = 1.8           # multiple of the median above which uploads drop
+SPAN_COVERAGE = 0.6          # markers must cover this much of a single-act upload
+SPAN_MINIMUM = 900           # ... and this many seconds, before a span is used
+PART_SAMPLES = 3             # uploads needed before a quest part's time is kept
 
 
 def compilation_re(workdir):
@@ -158,6 +163,57 @@ def maybe_json(field):
     return None if field == "NA" else json.loads(field)
 
 
+def names_act_number(text, act):
+    num = act_number(act["act_label"])
+    if num is None:
+        return False
+    roman = next(k for k, v in ROMAN.items() if v == num).lower()
+    return bool(re.search(rf"\bact:? *(?:{num}|{roman})\b", text.lower()))
+
+
+def part_named(marker_title, parts):
+    """The quest part this marker is named after, if any."""
+    return next((p for p in parts if matches_act_title(marker_title, p)), None)
+
+
+def act_markers(act, chapters, parts):
+    """The markers of one upload that belong to this act, as (marker, part).
+
+    Walkthrough uploads very often name their chapter markers after the quest
+    parts, which is what makes an act locatable inside a longer video: it is how
+    an "Acts 9 & 10" compilation becomes evidence for each act separately, and
+    how the uploader's pre-roll and detours stay out of the measurement.
+    """
+    out = []
+    for marker in chapters:
+        title = marker.get("title") or ""
+        part = part_named(title, parts)
+        if part or matches_act_title(title, act["act_title"]) \
+                or names_act_number(title, act):
+            out.append((marker, part))
+    return out
+
+
+def marker_seconds(marker):
+    return max(0, (marker.get("end_time") or 0) - (marker.get("start_time") or 0))
+
+
+def act_span(act, chapters, parts, duration, bundled):
+    """Measured length of this act inside an upload, or None if not locatable.
+
+    A span that covers only a fraction of a single-act upload means the markers
+    were not the quest parts after all, and trusting it would under-measure the
+    act; for an upload that genuinely covers several acts there is no such floor.
+    """
+    matched = act_markers(act, chapters, parts)
+    span = sum(marker_seconds(m) for m, _ in matched)
+    if not matched or span < SPAN_MINIMUM:
+        return None
+    if not bundled and duration and span < SPAN_COVERAGE * duration:
+        return None
+    return span
+
+
 def load_acts(workdir):
     acts = []
     for line in (workdir / "acts.tsv").read_text().splitlines():
@@ -171,7 +227,7 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, compilation, enriched):
+def candidates_for(act, workdir, chapter_keys, compilation, enriched, parts):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -195,8 +251,40 @@ def candidates_for(act, workdir, chapter_keys, compilation, enriched):
         if exact:
             row.update(seconds=exact["seconds"] or row["seconds"],
                        views=exact["views"], upload_date=exact["upload_date"])
+            measure_from_markers(row, act, exact["chapters"], parts)
         rows.append(row)
     return rows
+
+
+def measure_from_markers(row, act, chapters, parts):
+    """Replace an upload's runtime with the part of it that is this act.
+
+    An upload rejected only for covering several acts, or for a title that does
+    not name this one, is readmitted when its markers say where this act runs:
+    the measurement no longer depends on the title being right about the scope.
+    """
+    bundled = bool(row["rejected"])
+    span = act_span(act, chapters, parts, row["seconds"], bundled)
+    if span is None:
+        return
+    row["runtime"] = row["seconds"]
+    row["seconds"] = span
+    row["measured"] = "chapter-markers"
+    row["parts"] = {part: marker_seconds(marker)
+                    for marker, part in act_markers(act, chapters, parts) if part}
+    row["rejected"] = [r for r in row["rejected"]
+                       if r not in ("multi-act", "act-mismatch")]
+
+
+def part_medians(kept, parts):
+    """Median minutes per quest part, over the uploads that timed it."""
+    timings = {}
+    for row in kept:
+        for part, seconds in row.get("parts", {}).items():
+            timings.setdefault(part, []).append(seconds)
+    return {part: round(statistics.median(timings[part]) / 60)
+            for part in parts
+            if len(timings.get(part, [])) >= PART_SAMPLES}
 
 
 def trim_outliers(kept):
@@ -222,10 +310,13 @@ def main(argv):
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     compilation = compilation_re(workdir)
     enriched = load_enriched(workdir)
+    quest_parts = load_json(workdir, "quest_parts.json")
 
     out = []
     for act in acts:
-        rows = candidates_for(act, workdir, chapter_keys, compilation, enriched)
+        parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
+        rows = candidates_for(act, workdir, chapter_keys, compilation, enriched,
+                              parts)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])
         secs = [r["seconds"] for r in kept]
@@ -233,7 +324,9 @@ def main(argv):
             n=len(secs),
             median=round(statistics.median(secs) / 60) if secs else None,
             low=round(min(secs) / 60) if secs else None,
-            high=round(max(secs) / 60) if secs else None))
+            high=round(max(secs) / 60) if secs else None,
+            measured=sum(1 for r in kept if r.get("measured")),
+            parts=part_medians(kept, parts)))
         out.append(act)
 
     (workdir / "analysis.json").write_text(json.dumps(out, indent=1))

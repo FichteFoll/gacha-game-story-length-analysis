@@ -1,6 +1,6 @@
 # Chapter VII: Everwinter Without Mercy
 
-**Region:** Snezhnaya | **Game versions:** 7.0 | **Entries:** 2 | **Estimated chapter length: 8 h 27 min**
+**Region:** Snezhnaya | **Game versions:** 7.0 | **Entries:** 2 | **Estimated chapter length: 8 h 29 min**
 
 The Traveler reaches Snezhnaya,
 where the Tsaritsa has been gathering the Gnoses
@@ -11,14 +11,14 @@ and where the sibling's requested journey was always meant to end.
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 20 min - 5 h 15 min | 8 | high |
-| Act II | Wraith's Nocturne | 4 h 25 min | 4 h 16 min - 7 h 07 min | 8 | medium |
+| Act II | Wraith's Nocturne | 4 h 27 min | 4 h 16 min - 7 h 07 min | 9 | medium |
 
-**Total: 8 h 27 min**
+**Total: 8 h 29 min**
 
 ## Pacing
 
 Only two acts exist so far,
-but both are long: 4 h 02 min and 4 h 25 min.
+but both are long: 4 h 02 min and 4 h 27 min.
 This is the newest content in the sample,
 and several uploads bundle both acts together,
 so per-act figures rest on a smaller pool than the older chapters.
@@ -58,11 +58,12 @@ where Paimon starts feeling the cold in a way she should not.
 The Korolevskiy Theater, Lelek's confession,
 and the ballet that stops mid-performance.
 
-- **Estimated length:** 4 h 25 min
-- **Sampled range:** 4 h 16 min to 7 h 07 min across 8 playthrough uploads (3 further candidates screened out)
+- **Estimated length:** 4 h 27 min
+- **Sampled range:** 4 h 16 min to 7 h 07 min across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** -
 - **Released in:** 7.0
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
 
 <details>
@@ -75,6 +76,7 @@ and the ballet that stops mid-performance.
 | 4 h 21 min | Snezhnaya Archon Quest Chapter VII: Act II Full Story \| Wraith's Nocturne \| Genshin Impact 7.0 | Noxxis Gaming | 980 | 2026-08-13 | <https://www.youtube.com/watch?v=PMBRWGd0Qko> |
 | 4 h 23 min | [FULL] Version 7.0 Archon Quest - Act II: "Wraith's Nocturne" (Genshin Impact) Lumine POV | zhonglis mora | 949 | 2026-08-13 | <https://www.youtube.com/watch?v=_HOUS1WkfZ0> |
 | 4 h 27 min | Genshin Impact 7.0 Snezhnaya Act 2 - New Archon Story Quest Full Walkthrough | Rubhen925 | 129,474 | 2026-08-12 | <https://www.youtube.com/watch?v=A5OQx4KYquk> |
+| 4 h 33 min | Wraith's Nocturne Chapter 7 Act 2 FULL Snezhnaya Archon Quest Genshin Impact | WoW Quests | 215 | 2026-08-16 | <https://www.youtube.com/watch?v=GJU3w3jbpOU> |
 | 4 h 41 min | Snezhnaya Archon Quest Act II: "Wraith's Nocturne" - Full Playthrough (Genshin Impact 7.0) | Abyss Breakdown | 13,906 | 2026-08-13 | <https://www.youtube.com/watch?v=MGVOfzFiKhU> |
 | 6 h 43 min | Wraith's Nocturne Snezhnaya Archon Quest Act II Playthrough \| Genshin Impact 7.0 | ennieee | 33,152 | 2026-08-14 | <https://www.youtube.com/watch?v=G0X0tDTP4aQ> |
 | 7 h 07 min | Genshin Impact 7.0 Archon Quest FULL Part 2 — Everwinter Without Mercy Ending + Wraith's Nocturne | Abhishek Tirkey | 1,730 | 2026-08-13 | <https://www.youtube.com/watch?v=_uYT37C4VoA> |

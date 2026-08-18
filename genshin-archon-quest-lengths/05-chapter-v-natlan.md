@@ -1,6 +1,6 @@
 # Chapter V: Incandescent Ode of Resurrection
 
-**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 26 min**
+**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 25 min**
 
 Natlan fights the Abyss with Ancient Names borrowed from the Night Kingdom.
 The Traveler joins the tribes, loses Capitano as an ally,
@@ -12,21 +12,21 @@ to keep the Sacred Flame burning.
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 1 h 36 min - 3 h 08 min | 9 | medium |
-| Act II | Black Stone Under a White Stone | 2 h 48 min | 2 h 27 min - 3 h 11 min | 8 | high |
-| Act III | Beyond the Smoke and Mirrors | 2 h 29 min | 1 h 18 min - 4 h 01 min | 20 | low |
+| Act II | Black Stone Under a White Stone | 2 h 44 min | 1 h 48 min - 3 h 11 min | 8 | medium |
+| Act III | Beyond the Smoke and Mirrors | 2 h 30 min | 1 h 18 min - 4 h 01 min | 21 | low |
 | Act IV | The Rainbow Destined to Burn | 3 h 17 min | 2 h 54 min - 3 h 52 min | 10 | high |
-| Interlude | All Fires Fuel the Flame | 50 min | 35 min - 1 h 03 min | 9 | medium |
+| Interlude | All Fires Fuel the Flame | 52 min | 35 min - 1 h 03 min | 10 | medium |
 | Act V | Incandescent Ode of Resurrection | 3 h 34 min | 2 h 03 min - 4 h 01 min | 8 | medium |
 | Act VI | A Space and Time for You | 1 h 56 min | 1 h 41 min - 2 h 18 min | 10 | high |
 
-**Total: 17 h 26 min**
+**Total: 17 h 25 min**
 
 ## Pacing
 
 Uniformly long without any single outlier:
 the numbered acts run from 1 h 56 min to 3 h 34 min.
 The Interlude is the exception,
-a one-part cooldown quest of 50 min.
+a one-part cooldown quest of 52 min.
 Natlan's mobility gadgets keep traversal overhead lower
 than Sumeru's despite the map size.
 
@@ -43,7 +43,8 @@ and the pilgrimage of the Sacred Flame.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
-- **Quest parts (3):** Natlan! A New Adventure; Pilgrimage of the Return of the Sacred Flame; Home of the Hot Springs
+- **Measured from the uploader's chapter markers:** 3 of 9 uploads
+- **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (43 min)
 
 <details>
 <summary>Evidence</summary>
@@ -55,8 +56,8 @@ and the pilgrimage of the Sacred Flame.
 | 2 h 13 min | Genshin Impact - Gameplay CHAPTER 5 ACT I: Flowers Resplendent on the Sun-Scorched Sojourn PART 22 | SilentPixie Gaming | ~47 | n/a | <https://www.youtube.com/watch?v=onkKzwcRKdc> |
 | 2 h 19 min | Flowers Resplendant on the Sun-Scorched Sojourn - Chapter V: Act 1 - Genshin Impact 5.0 | Sir Patty | 8 | 2024-09-01 | <https://www.youtube.com/watch?v=RwF_RWXhTfs> |
 | 2 h 32 min | Flowers Resplendent on the Sun-Scorched Sojourn Full Story Act 1 Archon Quest \|\| Genshin Impact | Brad203 | 12 | 2024-09-14 | <https://www.youtube.com/watch?v=LceGxkzV69o> |
-| 2 h 52 min | Genshin Impact - Chapter 5: Act 1 Gameplay | RosalynXenobiaGames | 5 | 2024-08-29 | <https://www.youtube.com/watch?v=Lt34rj8tUKE> |
-| 2 h 55 min | Natlan Archon Quest, Chapter V: Act I — Full Playthrough Part 1 \| Genshin Impact 5.0 | Mr. Trajet | 2,347 | 2024-08-29 | <https://www.youtube.com/watch?v=5V7ODPbaqVo> |
+| 2 h 41 min | Natlan Archon Quest, Chapter V: Act I — Full Playthrough Part 1 \| Genshin Impact 5.0 | Mr. Trajet | 2,347 | 2024-08-29 | <https://www.youtube.com/watch?v=5V7ODPbaqVo> |
+| 2 h 47 min | Genshin Impact - Chapter 5: Act 1 Gameplay | RosalynXenobiaGames | 5 | 2024-08-29 | <https://www.youtube.com/watch?v=Lt34rj8tUKE> |
 | 3 h 03 min | Natlan Archon Quest Act One! \| 5.0 Flowers Resplendent on the Sun-Scorched Sojourn Full Playthrough | Tori Noemi | 1,084 | 2024-08-30 | <https://www.youtube.com/watch?v=CGRJkGA9dko> |
 | 3 h 08 min | Genshin Impact - Chapter 5 Act 1: Flowers Resplendent on the Sun-Scorched Sojourn \| JP Dub EN Sub 4K | Gudaoko | ~591 | n/a | <https://www.youtube.com/watch?v=qOWbpI5uIag> |
 
@@ -67,11 +68,12 @@ and the pilgrimage of the Sacred Flame.
 The Ode of Resurrection fails to bring Kachina back,
 and the Abyss turns out to have tailored a disaster for every tribe.
 
-- **Estimated length:** 2 h 48 min
-- **Sampled range:** 2 h 27 min to 3 h 11 min across 8 playthrough uploads (4 further candidates screened out)
-- **Confidence:** high
+- **Estimated length:** 2 h 44 min
+- **Sampled range:** 1 h 48 min to 3 h 11 min across 8 playthrough uploads (4 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (5):** A Decision; To Reclaim an Ancient Name; Echoes of Life; Into Eternal Night; Past and Future
 
 <details>
@@ -79,11 +81,11 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 1 h 48 min | Natlan Archon Quest, Chapter V: Act II — Full Playthrough Part 2 \| Genshin Impact 5.0 | Mr. Trajet | 3,064 | 2024-09-01 | <https://www.youtube.com/watch?v=FDJI4Qt9kgQ> |
 | 2 h 27 min | Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT II: Black Stone Under a White Stone PART 23 | SilentPixie Gaming | ~28 | n/a | <https://www.youtube.com/watch?v=mJFHvNF2Ue0> |
 | 2 h 32 min | Genshin Impact PC Gameplay - Part 491 (Black Stone Under a White Stone) | Averse | 7 | 2024-10-15 | <https://www.youtube.com/watch?v=fsuJE0s9guI> |
 | 2 h 42 min | Natlan archon quest Chapter V: Act II - Black Stone Under a White Stone \| Genshin Impact 5.0 | TriMori | ~198 | n/a | <https://www.youtube.com/watch?v=mUi9bY4S3N0> |
 | 2 h 46 min | Archon Quest Chapter 5: Act 2 ""Black Stone Under a White Stone" \| 【Genshin Impact】 | LyurGG | 6,992 | 2025-01-05 | <https://www.youtube.com/watch?v=DjqoFROhwFk> |
-| 2 h 49 min | Natlan Archon Quest, Chapter V: Act II — Full Playthrough Part 2 \| Genshin Impact 5.0 | Mr. Trajet | 3,064 | 2024-09-01 | <https://www.youtube.com/watch?v=FDJI4Qt9kgQ> |
 | 2 h 53 min | Natlan Archon Quest Act 2 - Black Stone Under a White Stone \| Genshin Impact 5.0 | Streetwise Rhapsody | 35,121 | 2024-08-28 | <https://www.youtube.com/watch?v=KWflRWevNYQ> |
 | 2 h 58 min | Genshin Impact - Black Stone Under a White Stone Archon Quest - Full Walkthrough (No Commentary) | KookieQuest | 24 | 2025-02-04 | <https://www.youtube.com/watch?v=2VWw5ysV6Cw> |
 | 3 h 11 min | (JP Dub - EN Sub) Natlan's Archon Quest - Chapter V: Act II \| Genshin Impact | AndhraZX | ~50 | n/a | <https://www.youtube.com/watch?v=kaueHm7AouQ> |
@@ -95,12 +97,13 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 Mavuika mobilizes the tribes and the Adventurers' Guild together
 while Capitano's purpose in Natlan comes into focus.
 
-- **Estimated length:** 2 h 29 min
-- **Sampled range:** 1 h 18 min to 4 h 01 min across 20 playthrough uploads (8 further candidates screened out)
+- **Estimated length:** 2 h 30 min
+- **Sampled range:** 1 h 18 min to 4 h 01 min across 21 playthrough uploads (7 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
-- **Quest parts (3):** All Names are Noble; To Whence the Smoke Drifts; The Flickering Light Splits in Twain
+- **Measured from the uploader's chapter markers:** 4 of 21 uploads
+- **Quest parts (3):** All Names are Noble (29 min); To Whence the Smoke Drifts (1 h 00 min); The Flickering Light Splits in Twain (55 min)
 
 <details>
 <summary>Evidence</summary>
@@ -119,6 +122,7 @@ while Capitano's purpose in Natlan comes into focus.
 | 2 h 28 min | Archon Quest Chapter 5: Act 3 - Beyond the Smoke and Mirrors [Genshin Impact][5.1] | Enthy | ~1,780 | n/a | <https://www.youtube.com/watch?v=mSc9Ty0wUb4> |
 | 2 h 30 min | Genshin Impact 5.1 Archon Quest Act 3 Full Story Walkthrough 4K 60 FPS Beyond the Smoke and Mirrors | Headstart Gaming | 77 | 2024-11-19 | <https://www.youtube.com/watch?v=9otAn9NNkwo> |
 | 2 h 33 min | Version 5.1 Natlan Archon Quest Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact | Streetwise Rhapsody | ~22,387 | n/a | <https://www.youtube.com/watch?v=MoGJIhsHfR8> |
+| 2 h 40 min | Full Natlan Archon Quest - Genshin Impact | Fayato | 299,705 | 2025-01-01 | <https://www.youtube.com/watch?v=MW47dZPf29w> |
 | 2 h 42 min | Archon Quest Chapter 5: Act 3 "Beyond the Smoke and Mirrors" \| 【Genshin Impact】 | LyurGG | 15,556 | 2025-01-06 | <https://www.youtube.com/watch?v=6fitS-EdM1Q> |
 | 2 h 43 min | Chapter 5: Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact \| ASJ Gaming | ASJ Gaming | ~47 | n/a | <https://www.youtube.com/watch?v=xeOVvjYC3gI> |
 | 2 h 44 min | Beyond the Smoke and Mirrors Genshin Impact | WoW Quests | ~17,772 | n/a | <https://www.youtube.com/watch?v=Tx4YORXcxr4> |
@@ -141,6 +145,7 @@ and Capitano's end.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
+- **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (6):** Beneath the Secret Source; As One We Watch the Setting Sun; The Surging Darkness; Despair Engulfs the Heavens; No One Fights Alone; A Fuel Named "Fate"
 
 <details>
@@ -168,11 +173,12 @@ the tribes rebuild after the invasion.
 A deliberate cooldown between Act IV and Act V.
 One of the three shortest entries in the questline.
 
-- **Estimated length:** 50 min
-- **Sampled range:** 35 min to 1 h 03 min across 9 playthrough uploads (1 further candidates screened out)
+- **Estimated length:** 52 min
+- **Sampled range:** 35 min to 1 h 03 min across 10 playthrough uploads (0 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.2
+- **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (1):** For the Same Land
 
 <details>
@@ -185,6 +191,7 @@ One of the three shortest entries in the questline.
 | 42 min | Genshin Impact Interlude Chapter: All Fire Fuel the Flame (Full Walkthrough) #walkthrough  | FightMatrix Gaming | ~38 | n/a | <https://www.youtube.com/watch?v=wLkLHcQVdKo> |
 | 48 min | Genshin Impact - FULL Gameplay [No Commentary] CHAPTER 5 Interlude: All Fires Fuel the Flame PART 26 | SilentPixie Gaming | 11 | 2026-01-17 | <https://www.youtube.com/watch?v=VoMk8TZN_zA> |
 | 50 min | Genshin Impact - Chapter V - All Fires Fuel the Flame - Full Walkthrough | Pik | 59 | 2024-12-02 | <https://www.youtube.com/watch?v=Is00qjSssWc> |
+| 53 min | Full Natlan Archon Quest - Genshin Impact | Fayato | 299,705 | 2025-01-01 | <https://www.youtube.com/watch?v=MW47dZPf29w> |
 | 53 min | All Fires Fuel The Flame (Archon Quest)\|Genshin Impact [No Commentary] | Bella Silverstar2 | 103 | 2024-11-22 | <https://www.youtube.com/watch?v=SAdH3xluTYA> |
 | 55 min | Natlan Archon Quest Chapter V: Interlude - All Fires Fuel the Flame \| Genshin Impact \| KingKingCross | KingKingCross | 13 | 2025-03-25 | <https://www.youtube.com/watch?v=QFDRMqOtO7s> |
 | 59 min | Archon Quest "Chapter V: Interlude - All Fires Fuel the Flame" | Mystrix Gaming | 8,727 | 2024-11-20 | <https://www.youtube.com/watch?v=hl5acDFLpmA> |
@@ -230,6 +237,7 @@ and the closest thing yet to a reunion with the sibling.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.7
+- **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** The Key That Unlocks Fate; "Savior"; A Space and Time Without You
 
 <details>

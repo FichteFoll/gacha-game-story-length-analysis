@@ -1,6 +1,6 @@
 # Chapter II: Omnipresence Over Mortals
 
-**Region:** Inazuma | **Game versions:** 1.6 - 2.6 | **Entries:** 5 | **Estimated chapter length: 8 h 11 min**
+**Region:** Inazuma | **Game versions:** 1.6 - 2.6 | **Entries:** 5 | **Estimated chapter length: 8 h 10 min**
 
 Inazuma has sealed itself off under the Sakoku Decree
 and the Vision Hunt Decree.
@@ -13,17 +13,17 @@ and confronts the Raiden Shogun over what eternity costs her people.
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Prologue | Autumn Winds, Scarlet Leaves | 1 h 05 min | 55 min - 1 h 09 min | 7 | medium |
-| Act I | The Immovable God and the Eternal Euthymia | 2 h 56 min | 2 h 32 min - 3 h 13 min | 7 | medium |
+| Act I | The Immovable God and the Eternal Euthymia | 2 h 55 min | 1 h 54 min - 3 h 13 min | 7 | medium |
 | Act II | Stillness, the Sublimation of Shadow | 50 min | 43 min - 1 h 01 min | 11 | high |
 | Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 37 min - 3 h 24 min | 9 | medium |
-| Act IV | Requiem of the Echoing Depths | 58 min | 42 min - 1 h 02 min | 9 | high |
+| Act IV | Requiem of the Echoing Depths | 58 min | 42 min - 1 h 37 min | 10 | low |
 
-**Total: 8 h 11 min**
+**Total: 8 h 10 min**
 
 ## Pacing
 
 The most uneven chapter in the game.
-Act I and Act III are marathon acts of 2 h 56 min and 2 h 22 min,
+Act I and Act III are marathon acts of 2 h 55 min and 2 h 22 min,
 while Act II consists of only two quest parts
 and takes 50 min.
 Act IV (Enkanomiya) arrived much later than the rest
@@ -63,11 +63,12 @@ to get the Traveler into a sealed Inazuma.
 Ritou, the Sacred Sakura Cleansing Ritual,
 and a first audience with the Raiden Shogun that ends in defeat.
 
-- **Estimated length:** 2 h 56 min
-- **Sampled range:** 2 h 32 min to 3 h 13 min across 7 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 2 h 55 min
+- **Sampled range:** 1 h 54 min to 3 h 13 min across 7 playthrough uploads (4 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
+- **Measured from the uploader's chapter markers:** 2 of 7 uploads
 - **Quest parts (8):** Setting Sail; Confessions of an Outlander; Ritou Escape Plan; Three Wishes; The Meaning of Meaningless Waiting; To Treat the Well-Meaning Well; A Swordmaster's Path Is Paved With Broken Blades; A Flower Blooms in a Prison
 
 <details>
@@ -75,11 +76,11 @@ and a first audience with the Raiden Shogun that ends in defeat.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 1 h 54 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | 2021-07-24 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
 | 2 h 32 min | Genshin Impact FULL GAME [No Commentary] CH2 ACT I: The Immovable God and the Eternal Euthymia PART6 | SilentPixie Gaming | 10 | 2026-01-05 | <https://www.youtube.com/watch?v=QAPRg0qGqTI> |
 | 2 h 53 min | Archon Quest "Chapter II: Act I - The Immovable God and the Eternal Euthymia" | LyurGG | 252,838 | 2021-07-21 | <https://www.youtube.com/watch?v=9s_Tx49YhEU> |
 | 2 h 55 min | Genshin Impact - Archon Quest Chapter 2: Act 1 [The Immovable God and the Eternal Euthymia] | BadBoy18 | 4,603 | 2021-07-21 | <https://www.youtube.com/watch?v=MpmXvHxd54E> |
 | 2 h 56 min | Chapter 2: Act 1 - The Immovable God and the Eternal Euthymia \| Archon Quest \| Genshin Impact | ASJ Gaming | 2 | 2023-04-09 | <https://www.youtube.com/watch?v=qTzJRc6rRE8> |
-| 3 h 00 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | 2021-07-24 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
 | 3 h 04 min | The Immovable God and the Eternal Euthymia [Genshin Impact playthrough] | GamingGlee | 17 | 2022-02-11 | <https://www.youtube.com/watch?v=PK1hi04S7qk> |
 | 3 h 13 min | Genshin Impact Walkthrough Part 482 - Chapter II: Act I - The Immovable God and the Eternal Euthymia | MG PlayX | 545 | 2021-11-16 | <https://www.youtube.com/watch?v=KT71hDb3Xm8> |
 
@@ -97,6 +98,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
+- **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (2):** Amidst Stormy Judgment; In the Name of the Resistance
 
 <details>
@@ -154,10 +156,11 @@ Enkanomiya, the Black Serpent Knights,
 and Dainsleif's account of the sibling's part in the cataclysm.
 
 - **Estimated length:** 58 min
-- **Sampled range:** 42 min to 1 h 02 min across 9 playthrough uploads (2 further candidates screened out)
-- **Confidence:** high
+- **Sampled range:** 42 min to 1 h 37 min across 10 playthrough uploads (1 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6
+- **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** In the Depths, an Unexpected Reunion; The Grave of the Guarded; Memories of Inteyvat; The Black Serpent Knights' Glory
 
 <details>
@@ -174,6 +177,7 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 | 58 min | Archon Quest Chapter 2: Act 4 “Requiem of the Echoing Depths” \| 【Genshin Impact】 | LyurGG | ~406,918 | n/a | <https://www.youtube.com/watch?v=aTxviUjwnaY> |
 | 59 min | Genshin Impact -   Requiem Of The Echoing Depths  \|\| FULL GAMEPLAY \|\| CHAPTER II ACT IV + PART 1 | Plusnotminus | 19 | 2022-03-31 | <https://www.youtube.com/watch?v=8oa4ywZyiOg> |
 | 1 h 02 min | The Chasm Archon Quest \| Requiem of the Echoing Depths \| Chapter 2 : Act 4 \| Genshin Impact | ArchitSenpai | 28 | 2022-04-02 | <https://www.youtube.com/watch?v=AhT65ZX4Y3U> |
+| 1 h 37 min | Requiem of the Echoing Depths Genshin Impact (Chapter 2 Act 4) | WoW Quests | 83,246 | 2022-03-30 | <https://www.youtube.com/watch?v=NYKhNYs6bk0> |
 
 </details>
 
