@@ -64,15 +64,27 @@ def wiki_link(title):
     return f"[{title}]({WIKI}{title.replace(' ', '_')})"
 
 
+def views(row):
+    """Exact where the second pass reached the video, approximate otherwise."""
+    if row["views"] in (None, "NA", "None", ""):
+        return "n/a"
+    count = f"{int(row['views']):,}"
+    return count if row.get("upload_date") else f"~{count}"
+
+
+def uploaded(row):
+    date = row.get("upload_date")
+    return f"{date[:4]}-{date[4:6]}-{date[6:]}" if date else "n/a"
+
+
 def evidence_table(act):
-    lines = ["| Length | Video title | Uploader | Views | URL |",
-             "| --- | --- | --- | --- | --- |"]
+    lines = ["| Length | Video title | Uploader | Views | Uploaded | URL |",
+             "| --- | --- | --- | --- | --- | --- |"]
     for r in act["kept"]:
         title = r["title"].replace("|", "\\|")
         uploader = r["uploader"].replace("|", "\\|")
-        views = "n/a" if r["views"] in ("NA", "None", "") else f"{int(r['views']):,}"
-        lines.append(f"| {hm(r['seconds'] / 60)} | {title} | {uploader} | {views} "
-                     f"| <{r['url']}> |")
+        lines.append(f"| {hm(r['seconds'] / 60)} | {title} | {uploader} "
+                     f"| {views(r)} | {uploaded(r)} | <{r['url']}> |")
     return "\n".join(lines)
 
 
@@ -207,11 +219,24 @@ def readme(chapters, by_chapter):
         "(`/api.php?action=query&prop=revisions&rvprop=content`) instead.",
         "",
         "2. **Durations from playthrough uploads.** \n"
-        "For every act, YouTube was searched twice \n"
-        "(once by chapter plus act label plus act title, once by act title alone) \n"
-        "and the top results were collected with their runtime, title, uploader, \n"
-        "view count and URL. \n"
-        "Acts with a thin result pool got a third, region-specific query.",
+        "For every act, YouTube was searched four ways: \n"
+        "by chapter plus act label plus act title, by act title alone, \n"
+        "and twice by the patch branding recent uploads use instead of act titles \n"
+        "(\"Genshin Impact 6.6 Act 10 ...\"). \n"
+        "Acts released within the last four versions are searched twice as deep, \n"
+        "because they have far fewer uploads to draw on. \n"
+        "Each result was collected with its runtime, title, uploader, \n"
+        "view count and URL.",
+        "",
+        "2b. **A second pass over the candidates worth measuring.** \n"
+        "The search listing gives rounded view counts and no upload date, \n"
+        "so every candidate that was not discarded outright \n"
+        "is fetched again in full. \n"
+        "That yields exact view counts and upload dates, \n"
+        "and the uploader's own chapter markers. \n"
+        "YouTube rate-limits these requests, \n"
+        "so the pass covers as many as it manages \n"
+        "and the rest keep their figures from the search listing.",
         "",
         "3. **Screening.** \n"
         "A candidate is discarded when its title marks it as something other than \n"
@@ -262,8 +287,10 @@ def readme(chapters, by_chapter):
         "",
         "- One markdown file per chapter, listed in the table above. \n"
         "Each act section carries a collapsed evidence table \n"
-        "with runtime, video title, uploader, view count and URL \n"
-        "for every accepted upload.",
+        "with runtime, video title, uploader, view count, upload date and URL \n"
+        "for every accepted upload. \n"
+        "A view count prefixed with `~` came from the search listing \n"
+        "and is rounded; the rest are exact.",
         "- `data/analysis.json` holds the same evidence in machine-readable form, \n"
         "including the rejected candidates and the reason each was rejected.",
         "- `data/acts.tsv` is the act list extracted from the wiki.",

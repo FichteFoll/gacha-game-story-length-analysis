@@ -13,6 +13,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
                                      version branding uploaders title by
        <workdir>/compilations.txt    optional extra compilation regexes, one per
                                      line, e.g. "full sumeru archon quest"
+       <workdir>/enriched.tsv        optional second-pass metadata (enrich.sh):
+                                     exact duration, upload date, exact view
+                                     count and the uploader's chapter markers
 Writes <workdir>/analysis.json       accepted and rejected candidates plus stats
 and prints a one-line-per-act summary for eyeballing.
 
@@ -128,6 +131,33 @@ def load_json(workdir, name):
     return json.loads(path.read_text()) if path.exists() else {}
 
 
+def load_enriched(workdir):
+    """URL -> exact metadata from the full extraction pass, where it exists.
+
+    The harvest runs with --flat-playlist, whose view counts are rounded and
+    which reports no upload date at all. YouTube throttles full extraction, so
+    this covers whatever enrich.sh has managed to fetch so far and the rest
+    falls back to the harvested figures.
+    """
+    path = workdir / "enriched.tsv"
+    if not path.exists():
+        return {}
+    out = {}
+    for line in path.read_text().splitlines():
+        f = line.split("\t")
+        if len(f) < 5:
+            continue
+        duration, date, views, chapters = (maybe_json(x) for x in f[1:5])
+        out[f[0]] = dict(seconds=duration, upload_date=date, views=views,
+                         chapters=chapters or [])
+    return out
+
+
+def maybe_json(field):
+    """yt-dlp prints a bare NA for a field the video does not have."""
+    return None if field == "NA" else json.loads(field)
+
+
 def load_acts(workdir):
     acts = []
     for line in (workdir / "acts.tsv").read_text().splitlines():
@@ -141,7 +171,7 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, compilation):
+def candidates_for(act, workdir, chapter_keys, compilation, enriched):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -159,8 +189,13 @@ def candidates_for(act, workdir, chapter_keys, compilation):
         if not (matches_act_title(title, act["act_title"])
                 or matches_act_number(title, act, chapter_keys)):
             reasons.append("act-mismatch")
-        rows.append(dict(seconds=int(f[0]), title=title, uploader=f[2], url=f[3],
-                         views=f[4] if len(f) > 4 else "NA", rejected=reasons))
+        row = dict(seconds=int(f[0]), title=title, uploader=f[2], url=f[3],
+                   views=f[4] if len(f) > 4 else "NA", rejected=reasons)
+        exact = enriched.get(f[3])
+        if exact:
+            row.update(seconds=exact["seconds"] or row["seconds"],
+                       views=exact["views"], upload_date=exact["upload_date"])
+        rows.append(row)
     return rows
 
 
@@ -186,10 +221,11 @@ def main(argv):
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     compilation = compilation_re(workdir)
+    enriched = load_enriched(workdir)
 
     out = []
     for act in acts:
-        rows = candidates_for(act, workdir, chapter_keys, compilation)
+        rows = candidates_for(act, workdir, chapter_keys, compilation, enriched)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])
         secs = [r["seconds"] for r in kept]

@@ -45,11 +45,24 @@ so the pages were read through the MediaWiki API
 (`/api.php?action=query&prop=revisions&rvprop=content`) instead.
 
 2. **Durations from playthrough uploads.**
-For every act, YouTube was searched twice
-(once by chapter plus act label plus act title, once by act title alone)
-and the top results were collected with their runtime, title, uploader,
+For every act, YouTube was searched four ways:
+by chapter plus act label plus act title, by act title alone,
+and twice by the patch branding recent uploads use instead of act titles
+("Genshin Impact 6.6 Act 10 ...").
+Acts released within the last four versions are searched twice as deep,
+because they have far fewer uploads to draw on.
+Each result was collected with its runtime, title, uploader,
 view count and URL.
-Acts with a thin result pool got a third, region-specific query.
+
+2b. **A second pass over the candidates worth measuring.**
+The search listing gives rounded view counts and no upload date,
+so every candidate that was not discarded outright
+is fetched again in full.
+That yields exact view counts and upload dates,
+and the uploader's own chapter markers.
+YouTube rate-limits these requests,
+so the pass covers as many as it manages
+and the rest keep their figures from the search listing.
 
 3. **Screening.**
 A candidate is discarded when its title marks it as something other than
@@ -100,8 +113,10 @@ so they are outside this report's scope.
 
 - One markdown file per chapter, listed in the table above.
 Each act section carries a collapsed evidence table
-with runtime, video title, uploader, view count and URL
+with runtime, video title, uploader, view count, upload date and URL
 for every accepted upload.
+A view count prefixed with `~` came from the search listing
+and is rounded; the rest are exact.
 - `data/analysis.json` holds the same evidence in machine-readable form,
 including the rejected candidates and the reason each was rejected.
 - `data/acts.tsv` is the act list extracted from the wiki.

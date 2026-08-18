@@ -46,15 +46,15 @@ to get the Traveler into a sealed Inazuma.
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 55 min | Genshin Impact - Archon Quest - Chapter II: Prologue - Autumn Winds, Scarlet Leaves Full Story Quest | POTKCS | 2,405 | <https://www.youtube.com/watch?v=O3drNvF7fgg> |
-| 1 h 01 min | Genshin Impact: Chapter 2: Prologue - Autumn Winds, Scarlet Leaves (Walkthrough) | Jeremy Hooi | 18,782 | <https://www.youtube.com/watch?v=IjLZlu4ky3A> |
-| 1 h 02 min | Chapter II Prologue - Autumn Winds, Scarlet Leaves Walkthrough l Genshin Impact (No Commentary) | Wu Jizun | 109 | <https://www.youtube.com/watch?v=YTaOFq94CAo> |
-| 1 h 05 min | "Autumn Winds, Scarlet Leaves" Full Archon Quest Gameplay - Genshin Impact | holyballs | 6,632 | <https://www.youtube.com/watch?v=jxa584S5Gzs> |
-| 1 h 07 min | Autumn Winds, Scarlet Leaves — Chapter II: Prologue - Archon Quest (Inazuma) \| Genshin Impact | Mr. Trajet | 1,844 | <https://www.youtube.com/watch?v=rAPMEpeMiZw> |
-| 1 h 07 min | Genshin Impact - Archon Quest Chapter 2: Prologue [Autumn Winds, Scarlet Leaves] | BadBoy18 | 410 | <https://www.youtube.com/watch?v=i5vyeYaJ0bM> |
-| 1 h 09 min | Archon Quest Chapter 2: Autumn Winds, Scarlet Leaves \| Genshin Impact | LyurGG | 105,158 | <https://www.youtube.com/watch?v=jBwBjMsEXVk> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 55 min | Genshin Impact - Archon Quest - Chapter II: Prologue - Autumn Winds, Scarlet Leaves Full Story Quest | POTKCS | 2,405 | 2021-06-30 | <https://www.youtube.com/watch?v=O3drNvF7fgg> |
+| 1 h 01 min | Genshin Impact: Chapter 2: Prologue - Autumn Winds, Scarlet Leaves (Walkthrough) | Jeremy Hooi | 18,783 | 2021-06-29 | <https://www.youtube.com/watch?v=IjLZlu4ky3A> |
+| 1 h 02 min | Chapter II Prologue - Autumn Winds, Scarlet Leaves Walkthrough l Genshin Impact (No Commentary) | Wu Jizun | 109 | 2021-06-30 | <https://www.youtube.com/watch?v=YTaOFq94CAo> |
+| 1 h 05 min | "Autumn Winds, Scarlet Leaves" Full Archon Quest Gameplay - Genshin Impact | holyballs | ~6,632 | n/a | <https://www.youtube.com/watch?v=jxa584S5Gzs> |
+| 1 h 07 min | Autumn Winds, Scarlet Leaves — Chapter II: Prologue - Archon Quest (Inazuma) \| Genshin Impact | Mr. Trajet | ~1,844 | n/a | <https://www.youtube.com/watch?v=rAPMEpeMiZw> |
+| 1 h 07 min | Genshin Impact - Archon Quest Chapter 2: Prologue [Autumn Winds, Scarlet Leaves] | BadBoy18 | ~410 | n/a | <https://www.youtube.com/watch?v=i5vyeYaJ0bM> |
+| 1 h 09 min | Archon Quest Chapter 2: Autumn Winds, Scarlet Leaves \| Genshin Impact | LyurGG | ~105,158 | n/a | <https://www.youtube.com/watch?v=jBwBjMsEXVk> |
 
 </details>
 
@@ -73,15 +73,15 @@ and a first audience with the Raiden Shogun that ends in defeat.
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 2 h 32 min | Genshin Impact FULL GAME [No Commentary] CH2 ACT I: The Immovable God and the Eternal Euthymia PART6 | SilentPixie Gaming | 10 | <https://www.youtube.com/watch?v=QAPRg0qGqTI> |
-| 2 h 53 min | Archon Quest "Chapter II: Act I - The Immovable God and the Eternal Euthymia" | LyurGG | 252,831 | <https://www.youtube.com/watch?v=9s_Tx49YhEU> |
-| 2 h 55 min | Genshin Impact - Archon Quest Chapter 2: Act 1 [The Immovable God and the Eternal Euthymia] | BadBoy18 | 4,603 | <https://www.youtube.com/watch?v=MpmXvHxd54E> |
-| 2 h 56 min | Chapter 2: Act 1 - The Immovable God and the Eternal Euthymia \| Archon Quest \| Genshin Impact | ASJ Gaming | 2 | <https://www.youtube.com/watch?v=qTzJRc6rRE8> |
-| 3 h 00 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
-| 3 h 04 min | The Immovable God and the Eternal Euthymia [Genshin Impact playthrough] | GamingGlee | 17 | <https://www.youtube.com/watch?v=PK1hi04S7qk> |
-| 3 h 13 min | Genshin Impact Walkthrough Part 482 - Chapter II: Act I - The Immovable God and the Eternal Euthymia | MG PlayX | 545 | <https://www.youtube.com/watch?v=KT71hDb3Xm8> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 32 min | Genshin Impact FULL GAME [No Commentary] CH2 ACT I: The Immovable God and the Eternal Euthymia PART6 | SilentPixie Gaming | 10 | 2026-01-05 | <https://www.youtube.com/watch?v=QAPRg0qGqTI> |
+| 2 h 53 min | Archon Quest "Chapter II: Act I - The Immovable God and the Eternal Euthymia" | LyurGG | 252,838 | 2021-07-21 | <https://www.youtube.com/watch?v=9s_Tx49YhEU> |
+| 2 h 55 min | Genshin Impact - Archon Quest Chapter 2: Act 1 [The Immovable God and the Eternal Euthymia] | BadBoy18 | 4,603 | 2021-07-21 | <https://www.youtube.com/watch?v=MpmXvHxd54E> |
+| 2 h 56 min | Chapter 2: Act 1 - The Immovable God and the Eternal Euthymia \| Archon Quest \| Genshin Impact | ASJ Gaming | 2 | 2023-04-09 | <https://www.youtube.com/watch?v=qTzJRc6rRE8> |
+| 3 h 00 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | 2021-07-24 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
+| 3 h 04 min | The Immovable God and the Eternal Euthymia [Genshin Impact playthrough] | GamingGlee | 17 | 2022-02-11 | <https://www.youtube.com/watch?v=PK1hi04S7qk> |
+| 3 h 13 min | Genshin Impact Walkthrough Part 482 - Chapter II: Act I - The Immovable God and the Eternal Euthymia | MG PlayX | 545 | 2021-11-16 | <https://www.youtube.com/watch?v=KT71hDb3Xm8> |
 
 </details>
 
@@ -102,19 +102,19 @@ One of the three shortest entries in the questline.
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 43 min | Genshin Impact - FULL GAME [No Commentary] CH2 ACT II: Stillness, the Sublimation of Shadow PART 7 | SilentPixie Gaming | 26 | <https://www.youtube.com/watch?v=kHGgS57zdjE> |
-| 45 min | Inazuma Archon Quest Chapter II, Act II: Stillness, the Sublimation of Shadow (Genshin Impact) | Drunk Cocogoat | 165 | <https://www.youtube.com/watch?v=8KlKG5abhVg> |
-| 45 min | Genshin Impact #38: Stillness, the Sublimation of Shadow [No Commentary Gameplay] | Maîtrise | 1,378 | <https://www.youtube.com/watch?v=mz-QWauKIfw> |
-| 47 min | Stillness the Sublimation of Shadow Genshin Impact | ZaFrostPet | 10,403 | <https://www.youtube.com/watch?v=ozWvYCwTe_g> |
-| 48 min | To the Resistance! [Stillness, the Sublimation of Shadow Archon Quest] \| Genshin Impact [2.0 Update] | Twigzzy16 | 63 | <https://www.youtube.com/watch?v=6YfD2CqseQI> |
-| 50 min | Stillness, the Sublimation of Shadow — Archon Quest Chapter II: Act II \| Genshin Impac | Mr. Trajet | 883 | <https://www.youtube.com/watch?v=O0FL7uUCZ3s> |
-| 54 min | Chapter II: Act II - "Stillness, the Sublimation of Shadow" (Walkthrough) \| Genshin Impact | LegendSpell | 409 | <https://www.youtube.com/watch?v=feK2Gj3BnTE> |
-| 54 min | Genshin Impact - Archon Quest Chapter II: Act II Stillness, the Sublimation of Shadow | Aya Impact | 94 | <https://www.youtube.com/watch?v=yRbsrEO1i4c> |
-| 57 min | Archon Quest "Chapter II: Act II - "Stillness, the Sublimation of Shadow" | LyurGG | 266,018 | <https://www.youtube.com/watch?v=WkphzWQhMxE> |
-| 1 h 01 min | Stillness, the Sublimation of Shadow \| Genshin Impact - Archon Quests | jangcoizi | 9 | <https://www.youtube.com/watch?v=V1MmKSI1f-k> |
-| 1 h 01 min | Genshin Impact - Archon Quest Chapter 2: Act 2 [Stillness, The Sublimation Of Shadow] Version 2.0 | BadBoy18 | 954 | <https://www.youtube.com/watch?v=6llJwgW39mc> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 43 min | Genshin Impact - FULL GAME [No Commentary] CH2 ACT II: Stillness, the Sublimation of Shadow PART 7 | SilentPixie Gaming | 26 | 2026-01-05 | <https://www.youtube.com/watch?v=kHGgS57zdjE> |
+| 45 min | Inazuma Archon Quest Chapter II, Act II: Stillness, the Sublimation of Shadow (Genshin Impact) | Drunk Cocogoat | 165 | 2021-07-26 | <https://www.youtube.com/watch?v=8KlKG5abhVg> |
+| 45 min | Genshin Impact #38: Stillness, the Sublimation of Shadow [No Commentary Gameplay] | Maîtrise | ~1,378 | n/a | <https://www.youtube.com/watch?v=mz-QWauKIfw> |
+| 47 min | Stillness the Sublimation of Shadow Genshin Impact | ZaFrostPet | ~10,403 | n/a | <https://www.youtube.com/watch?v=ozWvYCwTe_g> |
+| 48 min | To the Resistance! [Stillness, the Sublimation of Shadow Archon Quest] \| Genshin Impact [2.0 Update] | Twigzzy16 | 63 | 2021-08-03 | <https://www.youtube.com/watch?v=6YfD2CqseQI> |
+| 50 min | Stillness, the Sublimation of Shadow — Archon Quest Chapter II: Act II \| Genshin Impac | Mr. Trajet | 883 | 2021-08-03 | <https://www.youtube.com/watch?v=O0FL7uUCZ3s> |
+| 54 min | Chapter II: Act II - "Stillness, the Sublimation of Shadow" (Walkthrough) \| Genshin Impact | LegendSpell | ~409 | n/a | <https://www.youtube.com/watch?v=feK2Gj3BnTE> |
+| 54 min | Genshin Impact - Archon Quest Chapter II: Act II Stillness, the Sublimation of Shadow | Aya Impact | ~94 | n/a | <https://www.youtube.com/watch?v=yRbsrEO1i4c> |
+| 57 min | Archon Quest "Chapter II: Act II - "Stillness, the Sublimation of Shadow" | LyurGG | 266,024 | 2021-07-21 | <https://www.youtube.com/watch?v=WkphzWQhMxE> |
+| 1 h 01 min | Stillness, the Sublimation of Shadow \| Genshin Impact - Archon Quests | jangcoizi | 9 | 2021-12-28 | <https://www.youtube.com/watch?v=V1MmKSI1f-k> |
+| 1 h 01 min | Genshin Impact - Archon Quest Chapter 2: Act 2 [Stillness, The Sublimation Of Shadow] Version 2.0 | BadBoy18 | 955 | 2021-07-22 | <https://www.youtube.com/watch?v=6llJwgW39mc> |
 
 </details>
 
@@ -134,17 +134,17 @@ and the Vision Hunt Decree is repealed.
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 1 h 37 min | Omnipresence over mortals \| Genshin Impact 2.1 Archon Quest | Frooxz | 123 | <https://www.youtube.com/watch?v=V61CMYh9M_g> |
-| 1 h 44 min | Genshin Impact - Archon Quest [Chapter II : Act III - Omnipresence Over Mortals] Part 1 | Aya Impact | 52 | <https://www.youtube.com/watch?v=jZj0mbvHW0o> |
-| 2 h 10 min | Archon Quest "Chapter II Act III - Omnipresence Over Mortals" - Genshin Impact | genshinboya | 75 | <https://www.youtube.com/watch?v=Nzf16_tK4Oo> |
-| 2 h 18 min | Omnipresence Over Mortals — Archon Quest Chapter II: Act III \| Genshin Impact | Mr. Trajet | 1,215 | <https://www.youtube.com/watch?v=dKNnb0A9nw0> |
-| 2 h 22 min | Chapter II: Act III - "Omnipresence Over Mortals" (Walkthrough) \| Genshin Impact | LegendSpell | 90 | <https://www.youtube.com/watch?v=_mfYSbGYkZ8> |
-| 2 h 29 min | Archon Quest "Chapter II: Act III - Omnipresence Over Mortals" - Genshin Impact | LyurGG | 758,888 | <https://www.youtube.com/watch?v=q5rGnGsyfIU> |
-| 2 h 29 min | Omnipresence over Mortals: The Full Raiden Archon Quest | ymustisignin | 127 | <https://www.youtube.com/watch?v=0tJCgYbyGVc> |
-| 2 h 30 min | Genshin Impact - Archon Quest Chapter 2: Act 3 [Omnipresence Over Mortals] Version 2.1 | BadBoy18 | 2,055 | <https://www.youtube.com/watch?v=lPIGbsa2-RI> |
-| 3 h 24 min | Chapter II: Act III - "Omnipresence Over Mortals" Archon Quest! [No Commentary] \| Genshin Impact | Smartin Spartan | 3,120 | <https://www.youtube.com/watch?v=74_GYY26pYA> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 1 h 37 min | Omnipresence over mortals \| Genshin Impact 2.1 Archon Quest | Frooxz | 123 | 2021-09-05 | <https://www.youtube.com/watch?v=V61CMYh9M_g> |
+| 1 h 44 min | Genshin Impact - Archon Quest [Chapter II : Act III - Omnipresence Over Mortals] Part 1 | Aya Impact | 52 | 2021-09-01 | <https://www.youtube.com/watch?v=jZj0mbvHW0o> |
+| 2 h 10 min | Archon Quest "Chapter II Act III - Omnipresence Over Mortals" - Genshin Impact | genshinboya | 75 | 2021-09-01 | <https://www.youtube.com/watch?v=Nzf16_tK4Oo> |
+| 2 h 18 min | Omnipresence Over Mortals — Archon Quest Chapter II: Act III \| Genshin Impact | Mr. Trajet | ~1,215 | n/a | <https://www.youtube.com/watch?v=dKNnb0A9nw0> |
+| 2 h 22 min | Chapter II: Act III - "Omnipresence Over Mortals" (Walkthrough) \| Genshin Impact | LegendSpell | ~90 | n/a | <https://www.youtube.com/watch?v=_mfYSbGYkZ8> |
+| 2 h 28 min | Omnipresence over Mortals: The Full Raiden Archon Quest | ymustisignin | 127 | 2021-09-02 | <https://www.youtube.com/watch?v=0tJCgYbyGVc> |
+| 2 h 29 min | Archon Quest "Chapter II: Act III - Omnipresence Over Mortals" - Genshin Impact | LyurGG | 758,898 | 2021-09-01 | <https://www.youtube.com/watch?v=q5rGnGsyfIU> |
+| 2 h 30 min | Genshin Impact - Archon Quest Chapter 2: Act 3 [Omnipresence Over Mortals] Version 2.1 | BadBoy18 | ~2,055 | n/a | <https://www.youtube.com/watch?v=lPIGbsa2-RI> |
+| 3 h 24 min | Chapter II: Act III - "Omnipresence Over Mortals" Archon Quest! [No Commentary] \| Genshin Impact | Smartin Spartan | 3,120 | 2021-09-01 | <https://www.youtube.com/watch?v=74_GYY26pYA> |
 
 </details>
 
@@ -163,17 +163,17 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 42 min | Genshin Impact ~ Requiem of the Echoing Depths (No Commentary) | Twilight Star | 48 | <https://www.youtube.com/watch?v=XuSHYMyUNs8> |
-| 49 min | Genshin Impact Archon Quest Act IV: Requiem of the Echoing Depths (JPN Dub - No Commentary) | Kendrick Alberto | 31 | <https://www.youtube.com/watch?v=UDQ3t_Mk_Zg> |
-| 49 min | Dainsleif and Traveler Quests \| Requiem of the Echoing Depths Full Story \| Genshin Impact | Rubieco | 442 | <https://www.youtube.com/watch?v=bqUMEBi9Dms> |
-| 55 min | Chasm Archon Quest With Dainsleif \| Chapter II: Act IV "Requiem of the Echoing Depths" (HD English) | Noxxis Gaming | 32,775 | <https://www.youtube.com/watch?v=Cc9rtktenJk> |
-| 58 min | Genshin Impact #51: Requiem of the Echoing Depths [No Commentary Gameplay] | Maîtrise | 693 | <https://www.youtube.com/watch?v=kIWEXnZ1SFg> |
-| 58 min | Traveler Archon Quest "Chapter II: Act IV – Requiem of the Echoing Depths" (Full) \| Genshin Impact | LegendSpell | 5 | <https://www.youtube.com/watch?v=pdYoC-ieSmw> |
-| 58 min | Archon Quest Chapter 2: Act 4 “Requiem of the Echoing Depths” \| 【Genshin Impact】 | LyurGG | 406,918 | <https://www.youtube.com/watch?v=aTxviUjwnaY> |
-| 59 min | Genshin Impact -   Requiem Of The Echoing Depths  \|\| FULL GAMEPLAY \|\| CHAPTER II ACT IV + PART 1 | Plusnotminus | 19 | <https://www.youtube.com/watch?v=8oa4ywZyiOg> |
-| 1 h 02 min | The Chasm Archon Quest \| Requiem of the Echoing Depths \| Chapter 2 : Act 4 \| Genshin Impact | ArchitSenpai | 28 | <https://www.youtube.com/watch?v=AhT65ZX4Y3U> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 42 min | Genshin Impact ~ Requiem of the Echoing Depths (No Commentary) | Twilight Star | ~48 | n/a | <https://www.youtube.com/watch?v=XuSHYMyUNs8> |
+| 49 min | Genshin Impact Archon Quest Act IV: Requiem of the Echoing Depths (JPN Dub - No Commentary) | Kendrick Alberto | 31 | 2022-04-01 | <https://www.youtube.com/watch?v=UDQ3t_Mk_Zg> |
+| 49 min | Dainsleif and Traveler Quests \| Requiem of the Echoing Depths Full Story \| Genshin Impact | Rubieco | 442 | 2023-02-27 | <https://www.youtube.com/watch?v=bqUMEBi9Dms> |
+| 55 min | Chasm Archon Quest With Dainsleif \| Chapter II: Act IV "Requiem of the Echoing Depths" (HD English) | Noxxis Gaming | 32,778 | 2022-03-30 | <https://www.youtube.com/watch?v=Cc9rtktenJk> |
+| 58 min | Genshin Impact #51: Requiem of the Echoing Depths [No Commentary Gameplay] | Maîtrise | ~693 | n/a | <https://www.youtube.com/watch?v=kIWEXnZ1SFg> |
+| 58 min | Traveler Archon Quest "Chapter II: Act IV – Requiem of the Echoing Depths" (Full) \| Genshin Impact | LegendSpell | ~5 | n/a | <https://www.youtube.com/watch?v=pdYoC-ieSmw> |
+| 58 min | Archon Quest Chapter 2: Act 4 “Requiem of the Echoing Depths” \| 【Genshin Impact】 | LyurGG | ~406,918 | n/a | <https://www.youtube.com/watch?v=aTxviUjwnaY> |
+| 59 min | Genshin Impact -   Requiem Of The Echoing Depths  \|\| FULL GAMEPLAY \|\| CHAPTER II ACT IV + PART 1 | Plusnotminus | 19 | 2022-03-31 | <https://www.youtube.com/watch?v=8oa4ywZyiOg> |
+| 1 h 02 min | The Chasm Archon Quest \| Requiem of the Echoing Depths \| Chapter 2 : Act 4 \| Genshin Impact | ArchitSenpai | 28 | 2022-04-02 | <https://www.youtube.com/watch?v=AhT65ZX4Y3U> |
 
 </details>
 
