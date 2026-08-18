@@ -7,6 +7,10 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/evidence/*.tsv      harvested candidates
        <workdir>/chapter_keys.json   optional {chapter_id: [identifying words]},
                                      used by the act-number fallback match
+       <workdir>/versions.json       optional, act title -> release version
+       <workdir>/version_index.json  optional, version -> {number, date};
+                                     both extend the chapter keys with the
+                                     version branding uploaders title by
        <workdir>/compilations.txt    optional extra compilation regexes, one per
                                      line, e.g. "full sumeru archon quest"
 Writes <workdir>/analysis.json       accepted and rejected candidates plus stats
@@ -96,6 +100,34 @@ def matches_act_number(video_title, act, chapter_keys):
     return any(k.lower() in low for k in keys)
 
 
+def version_keys(workdir, acts):
+    """Per chapter, the version names and patch numbers its acts shipped in.
+
+    Recent uploads are branded by patch rather than by chapter ("Genshin Impact
+    6.6 Act 10"), so the version is the only chapter identifier in the title.
+    Derived per chapter rather than hand-listed, because a brand attached to the
+    wrong chapter would let one chapter's uploads count as another's evidence.
+    """
+    versions = load_json(workdir, "versions.json")
+    index = load_json(workdir, "version_index.json")
+    keys = {}
+    for act in acts:
+        name = versions.get(act["act_title"])
+        if not name:
+            continue
+        brands = keys.setdefault(act["chapter_id"], set())
+        brands.add(name)
+        number = index.get(name, {}).get("number")
+        if number:
+            brands.add(number)
+    return {chapter: sorted(brands) for chapter, brands in keys.items()}
+
+
+def load_json(workdir, name):
+    path = workdir / name
+    return json.loads(path.read_text()) if path.exists() else {}
+
+
 def load_acts(workdir):
     acts = []
     for line in (workdir / "acts.tsv").read_text().splitlines():
@@ -149,12 +181,14 @@ def main(argv):
         print(__doc__)
         return 2
     workdir = pathlib.Path(argv[1])
-    keys_file = workdir / "chapter_keys.json"
-    chapter_keys = json.loads(keys_file.read_text()) if keys_file.exists() else {}
+    acts = load_acts(workdir)
+    chapter_keys = load_json(workdir, "chapter_keys.json")
+    for chapter, brands in version_keys(workdir, acts).items():
+        chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     compilation = compilation_re(workdir)
 
     out = []
-    for act in load_acts(workdir):
+    for act in acts:
         rows = candidates_for(act, workdir, chapter_keys, compilation)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])
