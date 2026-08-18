@@ -44,17 +44,11 @@ REJECT = re.compile(
     r"\blive\b|livestream|\bstream\b|let'?s play|lets play|\U0001F534",
     re.I,
 )
-# Genuine multi-act uploads. Note that "full archon quest" is deliberately NOT
-# listed: it is the usual phrasing for a complete single act, not a compilation.
-COMPILATION = re.compile(
-    r"all acts|full chapter|entire chapter|complete chapter|whole chapter|"
-    r"acts? \d+ ?(&|and|\+|,) ?\d+|acts? [ivx]+ ?(&|and|\+|,) ?[ivx]+|"
-    r"acts? \d+ ?- ?\d+|marathon",
-    re.I,
-)
-
-# "Acts 9 & 10", "Act V and VI": a free second opinion on two acts at once.
-BUNDLE = re.compile(r"acts? +([ivx]+|\d+) *(?:&|and|\+|,) *([ivx]+|\d+)\b", re.I)
+# What an upload calls the whole of a chapter. Kept short on purpose, and
+# terminated by a word boundary: "arc" without one turns every "Full Archon
+# Quest" (the normal phrasing for one complete act) into a compilation.
+# Anything else a game's uploaders say belongs in <workdir>/compilations.txt.
+CONTAINER = r"chapter|episode|arc"
 
 STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
              "under", "amidst", "without", "over", "with", "from"}
@@ -73,15 +67,44 @@ UNSTABLE_DRIFT = 0.10        # median move against the baseline that means "soft
 BUNDLE_TOLERANCE = 0.15      # how far a bundle's runtime may sit from the sum
 
 
-def compilation_re(workdir):
-    """COMPILATION plus any franchise-specific phrasings supplied by the caller."""
+def unit_pattern(acts):
+    """`acts?`: how this game's uploads name one act, from the act labels.
+
+    Genshin numbers its acts "Act I" and Wuthering Waves "Act 1", but a game
+    that says "Episode 2" would otherwise have every bundle and compilation of
+    its episodes read as a single-act upload.
+    """
+    units = {act_unit(a["act_label"]).lower() for a in acts
+             if act_number(a["act_label"])}
+    return "|".join(sorted(f"{u}s?" for u in units)) or "acts?"
+
+
+def compilation_re(workdir, acts):
+    """Genuine multi-act uploads, in this game's wording.
+
+    Note that "full archon quest" is deliberately not matched: "full <questline>"
+    is the usual phrasing for a complete single act, not for a compilation.
+    """
+    units = unit_pattern(acts)
+    patterns = [
+        rf"all {units}",
+        rf"(?:full|entire|complete|whole) (?:{CONTAINER})s?\b",
+        rf"(?:{units}) \d+ ?(?:&|and|\+|,) ?\d+",
+        rf"(?:{units}) [ivx]+ ?(?:&|and|\+|,) ?[ivx]+",
+        rf"(?:{units}) \d+ ?- ?\d+",
+        r"marathon",
+    ]
     extra_file = workdir / "compilations.txt"
-    if not extra_file.exists():
-        return COMPILATION
-    extra = [l.strip() for l in extra_file.read_text().splitlines() if l.strip()]
-    if not extra:
-        return COMPILATION
-    return re.compile(COMPILATION.pattern + "|" + "|".join(extra), re.I)
+    if extra_file.exists():
+        patterns += [l.strip() for l in extra_file.read_text().splitlines()
+                     if l.strip()]
+    return re.compile("|".join(patterns), re.I)
+
+
+def bundle_re(acts):
+    """"Acts 9 & 10", "Act V and VI": a free second opinion on two acts at once."""
+    return re.compile(rf"(?:{unit_pattern(acts)}) +([ivx]+|\d+) *"
+                      rf"(?:&|and|\+|,) *([ivx]+|\d+)\b", re.I)
 
 
 def title_words(text):
@@ -98,7 +121,18 @@ def matches_act_title(video_title, act_title):
 
 
 def act_number(act_label):
-    return ROMAN.get(act_label.replace("Act", "").split("-")[0].strip().upper())
+    """`Act IV - Prelude` -> 4, in roman or arabic, `Interlude` -> None."""
+    numbered = act_label.split("-")[0].split()
+    if not numbered:
+        return None
+    last = numbered[-1]
+    return int(last) if last.isdigit() else ROMAN.get(last.upper())
+
+
+def act_unit(act_label):
+    """`Act IV` -> `Act`: the word this game numbers its acts with."""
+    words = act_label.split("-")[0].split()
+    return words[0] if len(words) > 1 else "act"
 
 
 def matches_act_number(video_title, act, chapter_keys):
@@ -113,7 +147,8 @@ def matches_act_number(video_title, act, chapter_keys):
         return False
     low = video_title.lower()
     roman = next(k for k, v in ROMAN.items() if v == num).lower()
-    if not re.search(rf"\bact:? +(?:{num}|{roman})\b", low):
+    unit = act_unit(act["act_label"]).lower()
+    if not re.search(rf"\b{unit}:? +(?:{num}|{roman})\b", low):
         return False
     return any(k.lower() in low for k in keys)
 
@@ -178,7 +213,8 @@ def names_act_number(text, act):
     if num is None:
         return False
     roman = next(k for k, v in ROMAN.items() if v == num).lower()
-    return bool(re.search(rf"\bact:? *(?:{num}|{roman})\b", text.lower()))
+    unit = act_unit(act["act_label"]).lower()
+    return bool(re.search(rf"\b{unit}:? *(?:{num}|{roman})\b", text.lower()))
 
 
 def part_named(marker_title, parts):
@@ -363,9 +399,9 @@ def trim_outliers(kept):
     return [r for r in kept if not r["rejected"]]
 
 
-def bundle_acts(title, chapter):
+def bundle_acts(bundle, title, chapter):
     """The two acts a bundled upload's title says it covers, if both are known."""
-    match = BUNDLE.search(title)
+    match = bundle.search(title)
     if not match:
         return []
     wanted = [int(g) if g.isdigit() else ROMAN.get(g.upper())
@@ -382,6 +418,7 @@ def cross_check(acts):
     wrong: cheap evidence that costs nothing, since these uploads were harvested
     anyway and are sitting in the rejected pile.
     """
+    bundle = bundle_re(acts)
     by_chapter = {}
     for act in acts:
         by_chapter.setdefault(act["chapter_id"], {})[act_number(act["act_label"])] = act
@@ -389,7 +426,7 @@ def cross_check(acts):
     runtimes, seen = {}, set()
     for act in acts:
         for row in act["candidates"]:
-            bundled = bundle_acts(row["title"], by_chapter[act["chapter_id"]])
+            bundled = bundle_acts(bundle, row["title"], by_chapter[act["chapter_id"]])
             if not bundled or row["url"] in seen:
                 continue
             seen.add(row["url"])
@@ -424,7 +461,7 @@ def main(argv):
     chapter_keys = load_json(workdir, "chapter_keys.json")
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
-    compilation = compilation_re(workdir)
+    compilation = compilation_re(workdir, acts)
     enriched = load_enriched(workdir)
     quest_parts = load_json(workdir, "quest_parts.json")
 

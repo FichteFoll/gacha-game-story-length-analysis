@@ -6,6 +6,8 @@ moves a median cannot leave a stale figure behind in a sentence.
 """
 import re
 
+from analyze import act_number
+
 WORDS = ["zero", "one", "two", "three", "four", "five", "six",
          "seven", "eight", "nine", "ten", "eleven", "twelve"]
 
@@ -90,7 +92,7 @@ def chapter_facts(acts, quest_parts=None):
     """The values the authored prose may interpolate, keyed by placeholder name."""
     quest_parts = quest_parts or {}
     ranked = sorted(acts, key=median_of)
-    numbered = [a for a in acts if a["act_label"].startswith("Act ")]
+    numbered = [a for a in acts if act_number(a["act_label"])]
     facts = {
         "n_entries": word(len(acts)),
         "n_acts": word(len(numbered)),
