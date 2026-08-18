@@ -1,8 +1,9 @@
 """Quantities derived from analysis.json.
 
-The authored prose in chapter_text.py states no number of its own: it carries
-placeholders that are filled from here at render time, so a re-harvest that
-moves a median cannot leave a stale figure behind in a sentence.
+The authored prose in a report's markdown states no number of its own: it
+carries `<!--f:NAME-->` markers that gen_docs.py fills from here on every run,
+so a re-harvest that moves a median cannot leave a stale figure behind in a
+sentence.
 """
 import re
 
