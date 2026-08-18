@@ -1,4 +1,4 @@
-# Gacha Quest Lengths
+# Gacha Game Story Length Analysis
 
 How long the story questlines of gacha games take,
 chapter by chapter and act by act,
