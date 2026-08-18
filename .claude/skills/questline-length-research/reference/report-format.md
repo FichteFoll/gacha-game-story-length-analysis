@@ -1,17 +1,21 @@
 # Report format
 
-The layout below is what the Genshin Impact Archon Quest report used.
-Generate it from `analysis.json` with a script rather than by hand,
+The layout below is what the Genshin Impact Archon Quest report used,
+and what `scripts/gen_docs.py` renders for any report.
+It is generated from `analysis.json`, never written by hand,
 so a re-harvest can regenerate every file.
 
 ## Files
 
 ```
-<output>/README.md                     index, method, caveats
-<output>/00-<chapter-slug>.md          one per chapter, numbered in story order
-<output>/data/analysis.json            accepted and rejected candidates, with reasons
-<output>/data/acts.tsv                 act list extracted from the wiki
-<output>/data/versions.json            act to release version, as sourced
+<report>/README.md                     index, method, caveats
+<report>/00-<chapter-slug>.md          one per chapter, numbered in story order
+<report>/report.py                     game configuration and authored prose
+<report>/claims.py                     what that prose asserts about the data
+<report>/data/wiki.json                which wiki, and how it records versions
+<report>/data/analysis.json            accepted and rejected candidates, with reasons
+<report>/data/acts.tsv                 act list extracted from the wiki
+<report>/data/versions.json            act to release version, as sourced
 ```
 
 ## Chapter file
@@ -45,7 +49,7 @@ traversal load, acts that are outliers and why>
 - **Estimated length:** 2 h 32 min
 - **Sampled range:** 2 h 11 min to 2 h 48 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (5 further candidates screened out)
 - **Confidence:** medium
-- **Adventure Rank gate:** 40
+- **Adventure Rank gate:** 40      <- named by `gate_label`, omitted without one
 - **Released in:** Luna VII (6.6)
 - **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 9 uploads
@@ -81,3 +85,6 @@ See [README.md](README.md) for the method and its limits.
   A reader who sees "9 accepted, 5 screened out"
   knows the filtering was real without having to open the JSON.
 - Order chapters by story order in the filename prefix, not alphabetically.
+- The method section and the shared caveats are rendered from the pipeline's own
+  constants; what a game words differently (its searches, its compilation
+  phrasings, its publisher) comes from `report.py`.
