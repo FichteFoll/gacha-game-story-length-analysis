@@ -23,6 +23,7 @@ WIKI = "https://genshin-impact.fandom.com/wiki/"
 # is held to a tighter factor: the two ladders are meant to rate alike.
 SPREAD_HIGH = {True: 1.25, False: 1.6}
 SPREAD_MEDIUM = {True: 1.5, False: 2.2}
+UNSTABLE_DRIFT = 0.10   # median move against an earlier query set that means "soft"
 
 
 def write(path, text):
@@ -59,6 +60,11 @@ def confidence(stats):
     n = stats["n"]
     if not n:
         return "none"
+    drift = stats.get("drift")
+    # A median that moves when the query set changes was never settled, whatever
+    # the sample size and spread say about it.
+    if drift is not None and abs(drift) >= UNSTABLE_DRIFT:
+        return "low"
     low, high = bounds(stats)
     ratio = high / max(low, 1)
     interquartile = bool(stats.get("q1"))
@@ -136,6 +142,9 @@ def act_section(act, parts, versions, version_index, facts, superlative):
         f"- **Adventure Rank gate:** {ar_for(act)}",
         f"- **Released in:** {released_in(act, versions, version_index)}",
     ]
+    if s.get("drift") is not None:
+        body.append(f"- **Stability:** median {s['drift']:+.0%} "
+                    f"against an earlier, independent query set")
     if s.get("measured"):
         body.append(f"- **Measured from the uploader's chapter markers:** "
                     f"{s['measured']} of {s['n']} uploads")
@@ -312,7 +321,12 @@ def readme(chapters, by_chapter):
         "Where the sample is too small for an interquartile range, \n"
         "the same ladder runs on the full spread at 1.6 and 2.2, \n"
         "which is the looser test the extremes deserve. \n"
-        "Everything else is *low*.",
+        "Everything else is *low*, \n"
+        "as is any act whose median moved by 10 percent or more \n"
+        "against the earlier, independent set of queries \n"
+        "(`analyze.py --compare`): \n"
+        "a figure that moves when the queries change was never settled, \n"
+        "whatever its sample size says.",
         "",
         "## What these numbers do and do not mean",
         "",
@@ -368,9 +382,14 @@ def readme(chapters, by_chapter):
         "`harvest.sh` collects the candidates, \n"
         "`topup.sh` widens a thin act's pool, \n"
         "`analyze.py` screens them and computes the statistics, \n"
+        "`enrich.sh` fetches exact metadata and chapter markers for the survivors, \n"
         "and `gen_docs.py` renders these markdown files from `analysis.json`. \n"
-        "Re-running `analyze.py` over the harvested evidence \n"
-        "reproduces `data/analysis.json` exactly.",
+        "Re-running \n"
+        "`analyze.py data --compare data/baseline.json` \n"
+        "over the harvested evidence reproduces `data/analysis.json` exactly.",
+        "- `data/baseline.json` holds the per-act medians \n"
+        "from the first, independent set of queries, \n"
+        "which is what the stability figure is measured against.",
         "- Every figure in the prose is interpolated from `analysis.json` \n"
         "by `pipeline/facts.py` rather than written by hand, \n"
         "and the claims the prose makes in words \n"

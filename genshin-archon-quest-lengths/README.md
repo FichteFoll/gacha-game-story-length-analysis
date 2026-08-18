@@ -105,7 +105,12 @@ and *medium* at six or more under 1.5.
 Where the sample is too small for an interquartile range,
 the same ladder runs on the full spread at 1.6 and 2.2,
 which is the looser test the extremes deserve.
-Everything else is *low*.
+Everything else is *low*,
+as is any act whose median moved by 10 percent or more
+against the earlier, independent set of queries
+(`analyze.py --compare`):
+a figure that moves when the queries change was never settled,
+whatever its sample size says.
 
 ## What these numbers do and do not mean
 
@@ -161,9 +166,14 @@ are the screening inputs described under Method.
 `harvest.sh` collects the candidates,
 `topup.sh` widens a thin act's pool,
 `analyze.py` screens them and computes the statistics,
+`enrich.sh` fetches exact metadata and chapter markers for the survivors,
 and `gen_docs.py` renders these markdown files from `analysis.json`.
-Re-running `analyze.py` over the harvested evidence
-reproduces `data/analysis.json` exactly.
+Re-running
+`analyze.py data --compare data/baseline.json`
+over the harvested evidence reproduces `data/analysis.json` exactly.
+- `data/baseline.json` holds the per-act medians
+from the first, independent set of queries,
+which is what the stability figure is measured against.
 - Every figure in the prose is interpolated from `analysis.json`
 by `pipeline/facts.py` rather than written by hand,
 and the claims the prose makes in words

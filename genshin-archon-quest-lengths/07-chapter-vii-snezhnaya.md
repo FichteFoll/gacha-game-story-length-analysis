@@ -35,6 +35,7 @@ where Paimon starts feeling the cold in a way she should not.
 - **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (4):** Into the Wind, Into the Frigid North; Gunfire in the Silent Lands; Great Deeds on the Tundra; Silence Alone is Disfavored
 
 <details>
@@ -63,6 +64,7 @@ and the ballet that stops mid-performance.
 - **Confidence:** medium
 - **Adventure Rank gate:** -
 - **Released in:** 7.0
+- **Stability:** median +1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
 

@@ -41,6 +41,7 @@ to get the Traveler into a sealed Inazuma.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 1.6
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (3):** A Path Through the Storm; The Crux Clash; Follow the Wind
 
 <details>
@@ -68,6 +69,7 @@ and a first audience with the Raiden Shogun that ends in defeat.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
+- **Stability:** median -1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 7 uploads
 - **Quest parts (8):** Setting Sail; Confessions of an Outlander; Ritou Escape Plan; Three Wishes; The Meaning of Meaningless Waiting; To Treat the Well-Meaning Well; A Swordmaster's Path Is Paved With Broken Blades; A Flower Blooms in a Prison
 
@@ -98,6 +100,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (2):** Amidst Stormy Judgment; In the Name of the Resistance
 
@@ -131,6 +134,7 @@ and the Vision Hunt Decree is repealed.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.1
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (9):** Sword, Fish, Resistance; Those Who Yearn for the Gods' Gaze; Delusion; The Servant's Path; Proof of Guilt; Blind Loyalty, Reckless Courage; Duel Before the Throne; The Omnipresent God; Wishes
 
 <details>
@@ -160,6 +164,7 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** In the Depths, an Unexpected Reunion; The Grave of the Guarded; Memories of Inteyvat; The Black Serpent Knights' Glory
 

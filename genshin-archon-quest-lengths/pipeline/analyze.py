@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Screen harvested video candidates per act and compute duration statistics.
 
-Usage: analyze.py <workdir>
+Usage: analyze.py <workdir> [--compare <baseline>]
 
 Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/evidence/*.tsv      harvested candidates
@@ -18,6 +18,10 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
                                      count and the uploader's chapter markers
        <workdir>/quest_parts.json    optional {chapter_id|act_label: [part, ...]},
                                      what the chapter markers are matched against
+       <baseline>                    optional earlier analysis.json, or the
+                                     {chapter_id|act_label: minutes} map derived
+                                     from one; each act's median is compared
+                                     against it and the drift is recorded
 Writes <workdir>/analysis.json       accepted and rejected candidates plus stats
 and prints a one-line-per-act summary for eyeballing.
 
@@ -62,6 +66,7 @@ SPAN_COVERAGE = 0.6          # markers must cover this much of a single-act uplo
 SPAN_MINIMUM = 900           # ... and this many seconds, before a span is used
 PART_SAMPLES = 3             # uploads needed before a quest part's time is kept
 IQR_SAMPLES = 8              # ... and before the middle half beats the extremes
+UNSTABLE_DRIFT = 0.10        # median move against the baseline that means "soft"
 
 
 def compilation_re(workdir):
@@ -319,6 +324,29 @@ def trimmed_mean(secs, drop=0.1):
     return round(statistics.fmean(kept) / 60)
 
 
+def load_baseline(path):
+    """{chapter_id|act_label: median minutes}, from either shape of input."""
+    data = json.loads(pathlib.Path(path).read_text())
+    if isinstance(data, dict):
+        return data
+    return {f"{a['chapter_id']}|{a['act_label']}": a["stats"]["median"]
+            for a in data if a["stats"]["median"]}
+
+
+def drift_against(baseline, act):
+    """How far this act's median moved, as a fraction of the earlier one.
+
+    An act whose median moves when the query set changes was never settled,
+    whatever its sample size says, and this measures that instead of leaving it
+    to a reviewer's judgement.
+    """
+    was = baseline.get(f"{act['chapter_id']}|{act['act_label']}")
+    now = act["stats"]["median"]
+    if not was or not now:
+        return None
+    return round((now - was) / was, 3)
+
+
 def trim_outliers(kept):
     if len(kept) < 3:
         return kept
@@ -332,10 +360,13 @@ def trim_outliers(kept):
 
 
 def main(argv):
-    if len(argv) != 2:
+    args = [a for a in argv[1:] if not a.startswith("--")]
+    compare = argv[argv.index("--compare") + 1] if "--compare" in argv else None
+    if len(args) != 1 + bool(compare):
         print(__doc__)
         return 2
-    workdir = pathlib.Path(argv[1])
+    workdir = pathlib.Path(args[0])
+    baseline = load_baseline(compare) if compare else {}
     acts = load_acts(workdir)
     chapter_keys = load_json(workdir, "chapter_keys.json")
     for chapter, brands in version_keys(workdir, acts).items():
@@ -359,6 +390,7 @@ def main(argv):
             trimmed_mean=trimmed_mean(secs),
             measured=sum(1 for r in kept if r.get("measured")),
             parts=part_medians(kept, parts)))
+        act["stats"]["drift"] = drift_against(baseline, act) if baseline else None
         out.append(act)
 
     (workdir / "analysis.json").write_text(json.dumps(out, indent=1))
@@ -366,6 +398,8 @@ def main(argv):
         s = act["stats"]
         flag = "  <-- thin, top up or widen the queries" if s["n"] < 6 else ""
         iqr = f" iqr={s['q1']}-{s['q3']}" if s["q1"] else ""
+        if s["drift"] is not None and abs(s["drift"]) >= UNSTABLE_DRIFT:
+            flag = f"  <-- median moved {s['drift']:+.0%} against the baseline"
         print(f"{act['chapter_id']:>10} {act['act_label']:<16} n={s['n']:<3}"
               f"med={s['median']} mean={s['trimmed_mean']} "
               f"range={s['low']}-{s['high']}{iqr}"

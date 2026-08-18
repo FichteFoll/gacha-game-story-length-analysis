@@ -41,6 +41,7 @@ and an opera-house trial over the stolen Hydro Gnosis.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** Soloist's Prologue; The City of Rains and Remembrance; Lies Cast Shadows Under Gathered Lights
 
@@ -71,6 +72,7 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
+- **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 11 uploads
 - **Quest parts (3):** Like the Faint Moonlight of Yesteryear (34 min); The Truth, Lost With the Rain (56 min); When All Return to the Waters (1 h 24 min)
 
@@ -104,6 +106,7 @@ and the first hard evidence for the prophecy of dissolution.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (4):** A Tea Party Most Thorny; Fortress of Meropide; The Proscribed, Hidden in Plain Sight; Lost in Deep Seas
 
@@ -135,6 +138,7 @@ and the primordial sea beginning to rise.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (5):** Into the Deepwater Murk; The Truth Shrouded in Shadow; Secret Keepers and Forbidden Zones; Calamitous Tread; A Moment's Respite
 
@@ -167,6 +171,7 @@ The single longest act in the game.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.2
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (6):** Deluge of Wrathful Waters; Meeting Is Also Parting; Hunters, Prophets; Apocalypse; The Opera of Noirceur and Blancheur; Finale
 
 <details>
@@ -195,6 +200,7 @@ that turns into memories that should not exist.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.7
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (3):** Cold Case Commission; Memories That Should Not Exist; World-Order Narration
 
 <details>

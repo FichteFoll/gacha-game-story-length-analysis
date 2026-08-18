@@ -48,6 +48,7 @@ Ineffa's introduction.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.8
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** Flamelets; Smoldering; Searing
 
@@ -79,6 +80,7 @@ One of the three longest acts in the game.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
+- **Stability:** median -2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 13 uploads
 - **Quest parts (3):** Where the Moon Rises; Reunion Beneath the Moonlight; In the Shadows of Night
 
@@ -114,6 +116,7 @@ and Rerir regaining physical form.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (5):** Fulminations and Undercurrents; The Dark Side of Memory; One There Was, Who Hunted the Moon; The Ashen-White Order Burns; Rest Beyond Reach
 
@@ -145,6 +148,7 @@ with Flins, Aino, Lauma, and Jahoda.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** Hidden in the Shadows; Special Operation; Everlasting As the Moon
 
@@ -177,6 +181,7 @@ and fate starts closing in.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
+- **Stability:** median -2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (3):** All Is Foretold; Dance of Death: Serpent and Scorpion; Echoes of Fate
 
@@ -208,6 +213,7 @@ with Columbina weakening after the fight with Rerir.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
+- **Stability:** median +2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 24 uploads
 - **Quest parts (2):** In the Shifting Light of the Moon; Ripples That Will Never Reach
 
@@ -254,6 +260,7 @@ and the search for Columbina's true name.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (4):** Where Does Her Name Rest?; The Night the Moon Returns Home; Return to the Moon; The Empty Courtyard
 
 <details>
@@ -283,6 +290,7 @@ North to Dottore's lab with the Fatui as temporary allies.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 21 uploads
 - **Quest parts (3):** Moonless Night; Where Our Space and Time Intersect; Tracing the Footsteps of the Past
 
@@ -326,6 +334,7 @@ and the Welkin Moon's homecoming.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** The First Sliver of Moonlight; Descending Moon; Welkin Moon's Homecoming
 
@@ -356,6 +365,7 @@ identities in Sumeru City have been switched around.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (3):** Where Flowers Awaken; A Divergence Leading to Oneself; Ancient Shadows Re-Emerge
 
@@ -387,6 +397,7 @@ and Chapter III finally gets its title drop.
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
+- **Stability:** median -9% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (4):** Darkness Looming; A Tower Unto Wisdom and Folly; Truth Amongst the Pages of Purana; Your Past Is Like a Garden
 

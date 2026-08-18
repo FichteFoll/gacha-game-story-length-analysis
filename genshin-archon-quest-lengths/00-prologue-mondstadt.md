@@ -38,6 +38,7 @@ and the introduction to the Knights of Favonius.
 - **Confidence:** medium
 - **Adventure Rank gate:** -
 - **Released in:** 1.0
+- **Stability:** median -7% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (8):** Bird's Eye View; Unexpected Power; Forest Rendezvous; Wind-Riding Knight; Going Upon the Breeze; City of Freedom; Dragon Storm; Knights of Favonius
 
@@ -71,6 +72,7 @@ and the attempt to reach the dragon through his memories fails.
 - **Confidence:** medium
 - **Adventure Rank gate:** 10
 - **Released in:** 1.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (12):** Shadow Over Mondstadt; Unexpected Encounter; That Green Fellow; Let the Wind Lead; Venti's Plan; Venti's New Plan; Wild Escape; Behind the Scenes; Chasing Shadows; State of the Holy Lyre der Himmel; Crystal Tears; Reunion With the Dragon
 
@@ -103,6 +105,7 @@ and Signora takes Barbatos' Gnosis.
 - **Confidence:** medium
 - **Adventure Rank gate:** 18
 - **Released in:** 1.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (8):** Abyss Mage; Hurdle; Empty Abode; Light Guiding Ceremony; Calm Before the Storm; A Long Shot; When the Wind Dies Down; Ending Note
 

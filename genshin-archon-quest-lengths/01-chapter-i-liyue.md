@@ -41,6 +41,7 @@ and the Traveler flees the Millelith as the prime suspect.
 - **Confidence:** medium
 - **Adventure Rank gate:** 23
 - **Released in:** 1.0
+- **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (3):** Rite of Descension; An Impromptu Change of Plan; Dust to Dust
 
@@ -71,6 +72,7 @@ and a lesson in what contracts mean in Liyue.
 - **Confidence:** high
 - **Adventure Rank gate:** 25
 - **Released in:** 1.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (7):** An Organization Known as Wangsheng; Moonfinger; Three Poignant Perfumes; The Realm Within; Downtown; Guizhong; Zhongli's Treat
 
@@ -101,6 +103,7 @@ and Zhongli reveals that the whole thing was his own retirement plan.
 - **Confidence:** high
 - **Adventure Rank gate:** 28
 - **Released in:** 1.1
+- **Stability:** median -1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (6):** The Floating Palace; Equilibrium; Solitary Fragrance; Heart of Glaze; Turning Point; The Fond Farewell
 
@@ -132,6 +135,7 @@ The shortest entry in the questline.
 - **Confidence:** low
 - **Adventure Rank gate:** 28
 - **Released in:** 1.3
+- **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 
 <details>
@@ -162,6 +166,7 @@ where the sibling is revealed as its leader.
 - **Confidence:** medium
 - **Adventure Rank gate:** 28
 - **Released in:** 1.4
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (4):** Involuntary Sacrifice; A Herald Without Adherents; Dishonorable Trial; A Soul Set Apart
 
 <details>

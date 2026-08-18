@@ -43,6 +43,7 @@ and the pilgrimage of the Sacred Flame.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (43 min)
 
@@ -73,6 +74,7 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
+- **Stability:** median -2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (5):** A Decision; To Reclaim an Ancient Name; Echoes of Life; Into Eternal Night; Past and Future
 
@@ -102,6 +104,7 @@ while Capitano's purpose in Natlan comes into focus.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
+- **Stability:** median +3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 21 uploads
 - **Quest parts (3):** All Names are Noble (29 min); To Whence the Smoke Drifts (1 h 00 min); The Flickering Light Splits in Twain (55 min)
 
@@ -145,6 +148,7 @@ and Capitano's end.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (6):** Beneath the Secret Source; As One We Watch the Setting Sun; The Surging Darkness; Despair Engulfs the Heavens; No One Fights Alone; A Fuel Named "Fate"
 
@@ -178,6 +182,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.2
+- **Stability:** median +4% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (1):** For the Same Land
 
@@ -209,6 +214,7 @@ and the price already paid for the Ode of Resurrection.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.3
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (5):** Subterranean Ruins; As the Sun Rises and Sets; Journey of Stars and Flames; Where All Hopes Lie; When All Becomes a Monument
 
 <details>
@@ -237,6 +243,7 @@ and the closest thing yet to a reunion with the sibling.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.7
+- **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** The Key That Unlocks Fate; "Savior"; A Space and Time Without You
 
