@@ -1,6 +1,6 @@
 # Chapter III: Truth Amongst the Pages of Purana
 
-**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 02 min**
+**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 04 min**
 
 The Akademiya has locked Sumeru's Archon away and rules through the Akasha.
 The Traveler frees Nahida from a looping dream,
@@ -11,20 +11,20 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Through Mists of Smoke and Forests Dark | 3 h 28 min | 2 h 27 min - 3 h 46 min | 14 | low |
-| Act II | The Morn a Thousand Roses Brings | 2 h 24 min | 1 h 43 min - 2 h 37 min | 10 | low |
+| Act I | Through Mists of Smoke and Forests Dark | 3 h 30 min | 2 h 28 min - 3 h 44 min | 15 | low |
+| Act II | The Morn a Thousand Roses Brings | 2 h 27 min | 1 h 48 min - 2 h 43 min | 11 | low |
 | Act III | Dreams, Emptiness, Deception | 1 h 52 min | 1 h 47 min - 1 h 56 min | 9 | high |
-| Act IV | King Deshret and the Three Magi | 2 h 11 min | 2 h 08 min - 2 h 21 min | 8 | high |
-| Act V | Akasha Pulses, the Kalpa Flame Rises | 4 h 31 min | 2 h 38 min - 5 h 14 min | 7 | medium |
+| Act IV | King Deshret and the Three Magi | 2 h 12 min | 2 h 08 min - 2 h 21 min | 9 | high |
+| Act V | Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min | 4 h 01 min - 4 h 51 min | 14 | high |
 | Act VI | Caribert | 1 h 36 min | 1 h 21 min - 1 h 38 min | 9 | high |
 
-**Total: 16 h 02 min**
+**Total: 16 h 04 min**
 
 ## Pacing
 
 Where the questline changes scale,
 with four of the six acts past two hours
-and Act V as the chapter centrepiece at 4 h 31 min.
+and Act V as the chapter centrepiece at 4 h 27 min.
 Sumeru also adds heavy traversal,
 so uploads vary more here than in earlier chapters.
 
@@ -36,13 +36,13 @@ Arrival in the rainforest with Collei and Tighnari:
 the Withering, Eleazar, the Aranara,
 and the Akasha's grip on Sumeru City.
 
-- **Estimated length:** 3 h 28 min
-- **Sampled range:** 2 h 27 min to 3 h 46 min for the middle half (full spread 1 h 42 min to 4 h 31 min) across 14 playthrough uploads (15 further candidates screened out)
+- **Estimated length:** 3 h 30 min
+- **Sampled range:** 2 h 28 min to 3 h 44 min for the middle half (full spread 1 h 42 min to 4 h 31 min) across 15 playthrough uploads (14 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
-- **Stability:** median +3% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 14 uploads
+- **Stability:** median +4% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 15 uploads
 - **Quest parts (7):** A Forest of Change; Further Observation; Chronic Illness; Silent Seeker of Knowledge; The Trail of the God of Wisdom; Lost in Prosperity; Ever So Close
 
 <details>
@@ -50,19 +50,20 @@ and the Akasha's grip on Sumeru City.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 42 min | Genshin Impact 3.0 Chapter 3 Act 1: Through the Mists of Smoke and Forests Dark (Part 1) JP DUBBED | KCGamer | ~23 | n/a | <https://www.youtube.com/watch?v=aoA_su1l7Zs> |
-| 2 h 11 min | Sumeru Changes EVERYTHING!! \| Genshin Impact 3.0 Archon Quest Act 1 | Doro44 | ~97,671 | n/a | <https://www.youtube.com/watch?v=GHbUxD53xc4> |
-| 2 h 22 min | The Sumeru Archon Quest BEGINS! (ACT I PART 1) \| Genshin Impact 3.0 | BranOnline | ~163,514 | n/a | <https://www.youtube.com/watch?v=bNl1s-2nruE> |
+| 1 h 42 min | Genshin Impact 3.0 Chapter 3 Act 1: Through the Mists of Smoke and Forests Dark (Part 1) JP DUBBED | KCGamer | 23 | 2022-08-25 | <https://www.youtube.com/watch?v=aoA_su1l7Zs> |
+| 2 h 11 min | Sumeru Changes EVERYTHING!! \| Genshin Impact 3.0 Archon Quest Act 1 | Doro44 | 97,671 | 2022-08-30 | <https://www.youtube.com/watch?v=GHbUxD53xc4> |
+| 2 h 22 min | The Sumeru Archon Quest BEGINS! (ACT I PART 1) \| Genshin Impact 3.0 | BranOnline | 163,513 | 2022-08-26 | <https://www.youtube.com/watch?v=bNl1s-2nruE> |
 | 2 h 28 min | Chapter 3: Act 1 - Through Mists of Smoke and Forests Dark \| Part 1 \| Archon Quest \| Genshin Impact | ASJ Gaming | 82 | 2023-07-30 | <https://www.youtube.com/watch?v=OYQekUPOKt0> |
 | 3 h 15 min | 3.0 Sumeru Archon Quest Act 1 \| Through Mists of Smoke and Forests Dark - No Commentary EN Dub | Liloupar | 10 | 2025-08-12 | <https://www.youtube.com/watch?v=9sv_zUmGYd0> |
-| 3 h 20 min | Genshin Impact FULL GAME [No Commentary] CH3 ACT I: Through Mists of Smoke and Forests Dark PART 10 | SilentPixie Gaming | ~10 | n/a | <https://www.youtube.com/watch?v=lOVYHKDjhy4> |
-| 3 h 25 min | Archon Quest Chapter 3: Act 1 "Through Mists of Smoke and Forests Dark" \| 【Genshin Impact】 | LyurGG | ~6,874 | n/a | <https://www.youtube.com/watch?v=bGx4WG0h820> |
+| 3 h 20 min | Genshin Impact FULL GAME [No Commentary] CH3 ACT I: Through Mists of Smoke and Forests Dark PART 10 | SilentPixie Gaming | 10 | 2026-01-06 | <https://www.youtube.com/watch?v=lOVYHKDjhy4> |
+| 3 h 25 min | Archon Quest Chapter 3: Act 1 "Through Mists of Smoke and Forests Dark" \| 【Genshin Impact】 | LyurGG | 6,876 | 2025-05-22 | <https://www.youtube.com/watch?v=bGx4WG0h820> |
+| 3 h 30 min | Full Sumeru Archon Quest - Genshin Impact | Fayato | 346,179 | 2024-06-16 | <https://www.youtube.com/watch?v=gxjF9KTXKU4> |
 | 3 h 32 min | Genshin Impact Sumeru Archon Quest Act 1 \| Through the Mists of Smoke and Forests Dark\|No Commentary | Heedone Gaming | 41 | 2023-08-15 | <https://www.youtube.com/watch?v=RB-5bevjrLY> |
-| 3 h 34 min | Through Mists Of Smoke And Forests Dark Full Story \| Sumeru 3.0 Archon Quest Part 1 \| Genshin Impact | Noxxis Gaming | ~50,301 | n/a | <https://www.youtube.com/watch?v=US-q-fgQdzA> |
-| 3 h 36 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark | Mr. Moe's Game Quest | ~3 | n/a | <https://www.youtube.com/watch?v=VQLtVxLGfTk> |
-| 3 h 44 min | JP Dub Sumeru Archon Quest Chapter 3 Act 1 - Through Mists of Smoke and Dark Forest - Genshin Impact | DimBra | ~433 | n/a | <https://www.youtube.com/watch?v=Ms-Gb-VktE4> |
-| 3 h 54 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark" | Mystrix Gaming | ~149,501 | n/a | <https://www.youtube.com/watch?v=euI6OPiji5k> |
-| 4 h 09 min | Through Mists of Smoke and Forest Dark - Chapter 3 ACT 1 Archon Quest \| Genshin Impact 3.0 | Streetwise Rhapsody | ~7,058 | n/a | <https://www.youtube.com/watch?v=ZDpo1_hFrDs> |
+| 3 h 34 min | Through Mists Of Smoke And Forests Dark Full Story \| Sumeru 3.0 Archon Quest Part 1 \| Genshin Impact | Noxxis Gaming | 50,301 | 2022-08-26 | <https://www.youtube.com/watch?v=US-q-fgQdzA> |
+| 3 h 36 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark | Mr. Moe's Game Quest | 3 | 2025-07-26 | <https://www.youtube.com/watch?v=VQLtVxLGfTk> |
+| 3 h 44 min | JP Dub Sumeru Archon Quest Chapter 3 Act 1 - Through Mists of Smoke and Dark Forest - Genshin Impact | DimBra | 433 | 2022-08-28 | <https://www.youtube.com/watch?v=Ms-Gb-VktE4> |
+| 3 h 54 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark" | Mystrix Gaming | 149,501 | 2022-08-25 | <https://www.youtube.com/watch?v=euI6OPiji5k> |
+| 4 h 09 min | Through Mists of Smoke and Forest Dark - Chapter 3 ACT 1 Archon Quest \| Genshin Impact 3.0 | Streetwise Rhapsody | 7,058 | 2022-08-24 | <https://www.youtube.com/watch?v=ZDpo1_hFrDs> |
 | 4 h 31 min | SUMERU ARCHON QUEST ⭐️ Chapter III: Act I - “Through Mists of Smoke and Forests Dark” NO COMMENTARY | Chiko | 9 | 2024-11-18 | <https://www.youtube.com/watch?v=dp0i9w7vOi4> |
 
 </details>
@@ -72,14 +73,14 @@ and the Akasha's grip on Sumeru City.
 The Sabzeruz Festival repeats itself until the Traveler breaks the loop
 and pulls Nahida out of the Akademiya's dream.
 
-- **Estimated length:** 2 h 24 min
-- **Sampled range:** 1 h 43 min to 2 h 37 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Estimated length:** 2 h 27 min
+- **Sampled range:** 1 h 48 min to 2 h 43 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 11 playthrough uploads (1 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 10 uploads
-- **Quest parts (8):** The Coming of the Sabzeruz Festival; The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn
+- **Stability:** median +2% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 5 of 11 uploads
+- **Quest parts (8):** The Coming of the Sabzeruz Festival (22 min); The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn (8 min)
 
 <details>
 <summary>Evidence</summary>
@@ -91,11 +92,12 @@ and pulls Nahida out of the Akademiya's dream.
 | 1 h 48 min | The Morn a Thousand Roses Brings Genshin Impact | WoW Quests | ~11,384 | n/a | <https://www.youtube.com/watch?v=wrQKD7-bQbo> |
 | 1 h 51 min | Genshin Impact - Chapter III: Act II The Morn a Thousand Roses Brings Part 1 | Aya Impact | 127 | 2022-08-25 | <https://www.youtube.com/watch?v=PquwhPPYHoE> |
 | 2 h 21 min | The Morn a Thousand Roses Brings (Full Walkthrough) \| Archon Quest Chapter III: Act II | ArcadeAura Gamer | 59 | 2025-09-05 | <https://www.youtube.com/watch?v=ZjuFPVFlXpc> |
+| 2 h 27 min | The Morn a Thousand Roses Brings — Chapter III: Act II (Sumeru Archon Quest) \| Genshin Impact | Mr. Trajet | 654 | 2022-08-27 | <https://www.youtube.com/watch?v=dqIysUtQlQ4> |
 | 2 h 27 min | Genshin Impact FULL GAME [No Commentary] CHAPTER 3 ACT II: The Morn a Thousand Roses Brings PART 11 | SilentPixie Gaming | 10 | 2026-01-07 | <https://www.youtube.com/watch?v=dXWAfZJlfTQ> |
 | 2 h 32 min | The Morn A Thousand Roses Brings Full Story \| Sumeru 3.0 Archon Quest Part 2 \| Genshin Impact | Noxxis Gaming | 64,720 | 2022-08-27 | <https://www.youtube.com/watch?v=EIiBjrXo3o4> |
-| 2 h 35 min | The Morn a Thousand Roses Brings — Chapter III: Act II (Sumeru Archon Quest) \| Genshin Impact | Mr. Trajet | ~654 | n/a | <https://www.youtube.com/watch?v=dqIysUtQlQ4> |
 | 2 h 43 min | Archon Quest Chapter 3: Act 2 "The Morn a Thousand Roses Brings" \| 【Genshin Impact】 | LyurGG | 6,469 | 2025-05-26 | <https://www.youtube.com/watch?v=2c5cPsTFrYk> |
-| 2 h 58 min | The Morn a Thousand Roses Brings (Chapter III Act II) (No Commentary \| Japanese Audio) | hilidukes | ~20 | n/a | <https://www.youtube.com/watch?v=msdz_YpEbQA> |
+| 2 h 44 min | Full Sumeru Archon Quest - Genshin Impact | Fayato | 346,179 | 2024-06-16 | <https://www.youtube.com/watch?v=gxjF9KTXKU4> |
+| 2 h 58 min | The Morn a Thousand Roses Brings (Chapter III Act II) (No Commentary \| Japanese Audio) | hilidukes | 20 | 2022-09-24 | <https://www.youtube.com/watch?v=msdz_YpEbQA> |
 
 </details>
 
@@ -124,7 +126,7 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 | 1 h 51 min | Dreams, Emptiness, Deception Full Quest Genshin Impact  | Epic Nithan | 37 | 2025-09-03 | <https://www.youtube.com/watch?v=UuMKJQ5FhiQ> |
 | 1 h 52 min | Dreams, Emptiness, Deception Full Story \| Sumeru Version 3.1 Archon Quest Part 3 \| Genshin Impact | Noxxis Gaming | 63,285 | 2022-09-28 | <https://www.youtube.com/watch?v=7zFj9KAXVMI> |
 | 1 h 55 min | Genshin Impact Dreams, Emptiness, Deception Archon Quest! Chapter 3 Act 3 Full Quest! | Kuroyukihime | ~269 | n/a | <https://www.youtube.com/watch?v=vVZu1X37WYA> |
-| 1 h 56 min | GENSHIN IMPACT - Archon Quest Chapter 3 Act 3 \| Dreams, Emptiness, and Deception \| FULL Gameplay PC | GamePlayTru | ~163 | n/a | <https://www.youtube.com/watch?v=kjkx93nqV1Q> |
+| 1 h 56 min | GENSHIN IMPACT - Archon Quest Chapter 3 Act 3 \| Dreams, Emptiness, and Deception \| FULL Gameplay PC | GamePlayTru | 163 | 2023-02-13 | <https://www.youtube.com/watch?v=kjkx93nqV1Q> |
 | 1 h 56 min | Archon Quest "Chapter III: Act III - Dreams, Emptiness, Deception" | Mystrix Gaming | 94,446 | 2022-09-28 | <https://www.youtube.com/watch?v=5GnUSUuPbnI> |
 | 2 h 00 min | Sumeru Archon Quest Chapter III ACT III \| Dreams, Emptiness, and Deception (Genshin Impact) | ThisisHori | 209 | 2022-09-29 | <https://www.youtube.com/watch?v=116B_b8Wv_M> |
 
@@ -135,13 +137,13 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 Into the desert with Cyno and Candace,
 chasing King Deshret's legacy and the cause of Eleazar.
 
-- **Estimated length:** 2 h 11 min
-- **Sampled range:** 2 h 08 min to 2 h 21 min for the middle half (full spread 1 h 18 min to 2 h 40 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 2 h 12 min
+- **Sampled range:** 2 h 08 min to 2 h 21 min for the middle half (full spread 1 h 18 min to 2 h 40 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 8 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (3):** The Missing Village Keepers; Cry From the Eleazar Hospital; Secret of the Scorching Desert
 
 <details>
@@ -149,10 +151,11 @@ chasing King Deshret's legacy and the cause of Eleazar.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 18 min | The King Deshret and Three Magi Part #1 - Archon Quest Sumeru - Genshin Impact | Jerry Greyscale | ~17 | n/a | <https://www.youtube.com/watch?v=lEyzB1lePYQ> |
+| 1 h 18 min | The King Deshret and Three Magi Part #1 - Archon Quest Sumeru - Genshin Impact | Jerry Greyscale | 17 | 2023-06-02 | <https://www.youtube.com/watch?v=lEyzB1lePYQ> |
 | 2 h 08 min | Genshin Impact FULL GAME [No Commentary] CHAPTER 3 ACT IV: King Deshret and the Three Magi - PART 13 | SilentPixie Gaming | 9 | 2026-01-07 | <https://www.youtube.com/watch?v=dWWvCO4oBp8> |
-| 2 h 08 min | Archon Quest Chapter III: Act IV - King Deshret and the Three Magi \| Genshin Impact | NitroLinx | ~11 | n/a | <https://www.youtube.com/watch?v=yEgOnwwwqmI> |
+| 2 h 08 min | Archon Quest Chapter III: Act IV - King Deshret and the Three Magi \| Genshin Impact | NitroLinx | 11 | 2023-09-01 | <https://www.youtube.com/watch?v=yEgOnwwwqmI> |
 | 2 h 09 min | Genshin Impact \| Archon Quest Chapter III: Act IV - “King Deshret and the Three Magi" (Chinese Dub) | Kallysta | ~45 | n/a | <https://www.youtube.com/watch?v=uUGIMwbs1jw> |
+| 2 h 12 min | Full Sumeru Archon Quest - Genshin Impact | Fayato | 346,179 | 2024-06-16 | <https://www.youtube.com/watch?v=gxjF9KTXKU4> |
 | 2 h 13 min | King Deshret and the Three Magi Full Story, 3.1 Sumeru Archon Quest Act IV - Genshin Impact | LokiGamingZero | 55 | 2022-10-03 | <https://www.youtube.com/watch?v=MSY41wKTCpE> |
 | 2 h 20 min | King Deshret And The Three Magi Full Story \| Sumeru Version 3.1 Archon Quest Part 4 \| Genshin Impact | Noxxis Gaming | 112,390 | 2022-09-28 | <https://www.youtube.com/watch?v=FfIXAtTeVeM> |
 | 2 h 22 min | GENSHIN IMPACT - Archon Quest Chapter 3 Act 4 \| King Deshret and the Three Magi \| FULL Gameplay PC | GamePlayTru | 131 | 2023-02-18 | <https://www.youtube.com/watch?v=3UzMR3or-bU> |
@@ -167,13 +170,13 @@ Shouki no Kami, one of Dottore's segments,
 and Nahida taking back the Akasha.
 One of the three longest acts in the game.
 
-- **Estimated length:** 4 h 31 min
-- **Sampled range:** 2 h 38 min to 5 h 14 min across 7 playthrough uploads (3 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 4 h 27 min
+- **Sampled range:** 4 h 01 min to 4 h 51 min for the middle half (full spread 2 h 12 min to 5 h 14 min) across 14 playthrough uploads (5 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.2
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 7 uploads
+- **Stability:** median -2% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 14 uploads
 - **Quest parts (5):** Through the Predawn Night; As by a God's Side; Jnagarbha Day; Where the Boat of Consciousness Lies; A Toast to Victory
 
 <details>
@@ -181,10 +184,17 @@ One of the three longest acts in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 2 h 12 min | Chapter 3: Act 5 - Akasha Pulses, the Kalpa Flame Rises \| JP Dub EN Sub | kiira | 2 | 2023-02-08 | <https://www.youtube.com/watch?v=7Igrm-ovnBM> |
 | 2 h 38 min | Akasha Pulses the Kalpa Flame Rises Chapter III Act V Genshin Impact | WoW Quests | 52,683 | 2022-11-02 | <https://www.youtube.com/watch?v=XarO84Oee8M> |
-| 4 h 18 min | Akasha Pulses, The Kalpa Flame Rises Full Story \| Version 3.2 Archon Quest Part 5 \| Genshin Impact | Noxxis Gaming | ~121,498 | n/a | <https://www.youtube.com/watch?v=aFQzXiGnzY4> |
+| 3 h 59 min | Archon Quest Chapter 3: Act 5 \| Sumeru Archon Quest \| Genshin Impact 3.2 | Mkenen | 64,959 | 2022-11-02 | <https://www.youtube.com/watch?v=MwECtP42jdY> |
+| 4 h 02 min | Sumeru Archon Quest \| Akasha Pulses, the Kalpa Flame Rises \| Genshin Impact | Rubieco | 144 | 2022-11-11 | <https://www.youtube.com/watch?v=Vl0S7DS1dv8> |
+| 4 h 16 min | 3.2 Sumeru Archon Quest Act 5 \| Akasha Pulses, the Kalpa Flame Rises - No Commentary EN Dub | Liloupar | ~34 | n/a | <https://www.youtube.com/watch?v=qeA0bkQoXno> |
+| 4 h 18 min | Akasha Pulses, The Kalpa Flame Rises Full Story \| Version 3.2 Archon Quest Part 5 \| Genshin Impact | Noxxis Gaming | 121,498 | 2022-11-02 | <https://www.youtube.com/watch?v=aFQzXiGnzY4> |
+| 4 h 24 min | Sumeru Archon Quest FINALE Act 5 My Mind Is BLOWN!! \| Genshin Impact 3.2 | Doro44 | 347,909 | 2022-11-08 | <https://www.youtube.com/watch?v=NJ0_TDDVBOI> |
 | 4 h 29 min | Akasha Pulses, the Kalpa Flame Rises Chapter 3: Act V - Archon Quest \| Genshin Impact 3.2 | Streetwise Rhapsody | 40,041 | 2022-11-02 | <https://www.youtube.com/watch?v=59oHu7WVVcc> |
 | 4 h 31 min | Genshin Impact FULLGAME [No Commentary] CHAPTER 3 ACT V: Akasha Pulses, the Kalpa Flame Rises PART14 | SilentPixie Gaming | 19 | 2026-01-08 | <https://www.youtube.com/watch?v=N4cMCIbO7Us> |
+| 4 h 40 min | Full Sumeru Archon Quest - Genshin Impact | Fayato | 346,179 | 2024-06-16 | <https://www.youtube.com/watch?v=gxjF9KTXKU4> |
+| 4 h 49 min | Genshin Impact 3.2 Sumeru Archon Quest Act 5 - Full Story Quest | RedNomad | 707 | 2022-11-05 | <https://www.youtube.com/watch?v=nKVKiGDYVaU> |
 | 4 h 58 min | Genshin Impact 3.2 \| Archon Quest Chapter III: Act V - “Akasha Pulses, the Kalpa Flame Rises" | Kallysta | ~125 | n/a | <https://www.youtube.com/watch?v=yqpp3R-Fo1U> |
 | 5 h 00 min | Akasha Pulses, the Kalpa Flame Rises [FULL] \| JP DUB ENG SUB \| Sumeru Archon Quest Gameplay 3.2 | AZURGRIM | 5,472 | 2022-11-02 | <https://www.youtube.com/watch?v=AXlIDVkKWq4> |
 | 5 h 14 min | Sumeru Archon Quest Chapter III ACT V \| Akasha Pulses, the Kalpa Flame Rises (Genshin Impact) | ThisisHori | 274 | 2022-11-04 | <https://www.youtube.com/watch?v=Ot2ss2KlkTE> |
@@ -211,10 +221,10 @@ and the sinner Caribert at the edge of Khaenri'ah.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 15 min | Full Caribert Archon Quest - Genshin Impact 3.5 | Fayato | 148,363 | 2023-03-01 | <https://www.youtube.com/watch?v=F6h2a_8A72E> |
-| 1 h 21 min | Genshin Impact 3.5 Archon Quest Full Story -  Caribert | Phantom Hero | ~50 | n/a | <https://www.youtube.com/watch?v=d8z-J_my66M> |
+| 1 h 21 min | Genshin Impact 3.5 Archon Quest Full Story -  Caribert | Phantom Hero | 50 | 2023-04-11 | <https://www.youtube.com/watch?v=d8z-J_my66M> |
 | 1 h 22 min | Archon Quest Chapter III: Act VI "Caribert" - Sub IND / Dub JP | Sheele | ~906 | n/a | <https://www.youtube.com/watch?v=y8HJqbYM8tI> |
-| 1 h 32 min | Genshin Impact 3.5 - New Caribert Archon Quest Full Walkthrough | Rubhen925 | ~60,551 | n/a | <https://www.youtube.com/watch?v=iZhzXQT95e0> |
-| 1 h 36 min | Genshin Impact Archon Quest – Caribert (Full Playthrough) \| No Commentary \| Chapter 3 Act 6 | On High Seas | ~28 | n/a | <https://www.youtube.com/watch?v=bDo5SQjBaaI> |
+| 1 h 32 min | Genshin Impact 3.5 - New Caribert Archon Quest Full Walkthrough | Rubhen925 | 60,552 | 2023-03-01 | <https://www.youtube.com/watch?v=iZhzXQT95e0> |
+| 1 h 36 min | Genshin Impact Archon Quest – Caribert (Full Playthrough) \| No Commentary \| Chapter 3 Act 6 | On High Seas | 28 | 2025-05-18 | <https://www.youtube.com/watch?v=bDo5SQjBaaI> |
 | 1 h 36 min | Genshin Impact Chapter III Act VI \| JP Voice \| No Commentary \| 6th Anniversary \| 4K60 \| BACK TO 2020 | LamLN | 8 | 2026-05-18 | <https://www.youtube.com/watch?v=KpiBbVpYkk4> |
 | 1 h 37 min | Genshin Impact ver 3.5 Archon Quest "Caribert" \| FULL WALKTHROUGH & SPOILERS | Kakuchopurei | 985 | 2023-03-01 | <https://www.youtube.com/watch?v=Lwh0xK74e24> |
 | 1 h 38 min | New Archon Quest \| Chapter 3: Act 6 \| Caribert \| Full Walkthrough \| Genshin 3.5 | ArchitSenpai | 2,242 | 2023-03-03 | <https://www.youtube.com/watch?v=7isn35nl6pI> |

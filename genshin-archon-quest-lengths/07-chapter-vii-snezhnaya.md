@@ -45,9 +45,9 @@ where Paimon starts feeling the cold in a way she should not.
 | --- | --- | --- | --- | --- | --- |
 | 3 h 20 min | Archon Quest Chapter 7: Act 1 - Everwinter Without Mercy [Genshin Impact][7.0] | Enthy | 285 | 2026-08-12 | <https://www.youtube.com/watch?v=YWusyPvYaVo> |
 | 3 h 37 min | Everwinter Without Mercy - Chapter VII: Act 1 (Full Archon Story) \| Genshin impact 70. | Sir Patty | 17 | 2026-08-13 | <https://www.youtube.com/watch?v=AjYCFGNM8Ok> |
-| 3 h 56 min | [FULL] Version 7.0 Archon Quest - Act I: "Everwinter Without Mercy" (Genshin Impact) Lumine POV | zhonglis mora | ~850 | n/a | <https://www.youtube.com/watch?v=cs3QavAidbI> |
+| 3 h 56 min | [FULL] Version 7.0 Archon Quest - Act I: "Everwinter Without Mercy" (Genshin Impact) Lumine POV | zhonglis mora | 866 | 2026-08-13 | <https://www.youtube.com/watch?v=cs3QavAidbI> |
 | 3 h 56 min | Snezhnaya Archon Quest Chapter VII: Act I Full Story \| Everwinter Without Mercy \| Genshin Impact 7.0 | Noxxis Gaming | 1,779 | 2026-08-12 | <https://www.youtube.com/watch?v=Anbii96NMgw> |
-| 4 h 07 min | Genshin Impact — Chapter VII: Act I \| Everwinter Without Mercy \| NO COMMENTARY | Just Zy | ~17 | n/a | <https://www.youtube.com/watch?v=ma8UEhrm3WQ> |
+| 4 h 07 min | Genshin Impact — Chapter VII: Act I \| Everwinter Without Mercy \| NO COMMENTARY | Just Zy | 17 | 2026-08-12 | <https://www.youtube.com/watch?v=ma8UEhrm3WQ> |
 | 4 h 17 min | Snezhnaya Archon Quest Act I: "Everwinter Without Mercy" - Full Playthrough (Genshin Impact 7.0) | Abyss Breakdown | 17,879 | 2026-08-12 | <https://www.youtube.com/watch?v=91pAaFXDDag> |
 | 4 h 20 min | Everwinter Without Mercy \| Snezhnaya Archon Quest Act I Full Gameplay \| Genshin impact 7.0 | Rdx Dealer  | 194 | 2026-08-13 | <https://www.youtube.com/watch?v=aHhCIHVxwWI> |
 | 5 h 15 min | Everwinter Without Mercy Snezhnaya Archon Quest Act I Playthrough \| Genshin Impact 7.0 | ennieee | 14,296 | 2026-08-12 | <https://www.youtube.com/watch?v=u_xRPUOpg5A> |
@@ -58,6 +58,7 @@ where Paimon starts feeling the cold in a way she should not.
 
 The Korolevskiy Theater, Lelek's confession,
 and the ballet that stops mid-performance.
+One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 27 min
 - **Sampled range:** 4 h 19 min to 5 h 42 min for the middle half (full spread 4 h 16 min to 7 h 07 min) across 9 playthrough uploads (2 further candidates screened out)

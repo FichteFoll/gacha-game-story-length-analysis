@@ -4,19 +4,19 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: 112 h 23 min** (45 entries counting acts, preludes and interludes, measured against 463 accepted uploads out of 672 candidates).
+**Total for the whole main questline: 112 h 26 min** (45 entries counting acts, preludes and interludes, measured against 489 accepted uploads out of 698 candidates).
 That figure is the sum of the per-act medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
 
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 3 h 03 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
+| Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 2 h 53 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
 | Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 42 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
-| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 10 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
-| Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 02 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
-| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 10 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
-| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 25 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
+| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 12 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
+| Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 04 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
+| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 16 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
+| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 28 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
 | Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 22 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
 | Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 | 2 | 8 h 29 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 
@@ -26,12 +26,12 @@ That figure is the sum of the per-act medians, so treat it as an order of magnit
 | --- | --- | --- |
 | longest | Chapter IV, Act V: Masquerade of the Guilty | 4 h 50 min |
 | longest | Song of the Welkin Moon, Act I: A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min |
-| longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 31 min |
 | longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 27 min |
+| longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min |
 | longest | Chapter VII, Act I: Everwinter Without Mercy | 4 h 02 min |
 | shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 36 min |
 | shortest | Chapter II, Act II: Stillness, the Sublimation of Shadow | 50 min |
-| shortest | Chapter V, Interlude: All Fires Fuel the Flame | 52 min |
+| shortest | Prologue, Act I: The Outlander Who Caught the Wind | 52 min |
 
 ## Method
 
@@ -99,12 +99,10 @@ one padded upload widens a min-max range that is otherwise tight,
 and says more about that uploader than about the act.
 Below eight uploads there is no distribution to speak of
 and the range is the minimum and maximum.
-Confidence is *high* at eight or more uploads
-whose middle half spans a factor under 1.25,
-and *medium* at six or more under 1.5.
-Where the sample is too small for an interquartile range,
-the same ladder runs on the full spread at 1.6 and 2.2,
-which is the looser test the extremes deserve.
+Nothing is rated above *low* on fewer than eight uploads.
+From there, confidence is *high*
+when the middle half spans a factor under 1.25
+and *medium* under 1.5.
 Everything else is *low*,
 as is any act whose median moved by 10 percent or more
 against the earlier, independent set of queries

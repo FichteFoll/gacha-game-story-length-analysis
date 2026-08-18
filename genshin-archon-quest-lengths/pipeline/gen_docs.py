@@ -19,10 +19,12 @@ DATA = OUT / "data"
 
 WIKI = "https://genshin-impact.fandom.com/wiki/"
 
-# The middle half of a sample is tighter than its extremes by construction, so it
-# is held to a tighter factor: the two ladders are meant to rate alike.
-SPREAD_HIGH = {True: 1.25, False: 1.6}
-SPREAD_MEDIUM = {True: 1.5, False: 2.2}
+# Nothing rates above low on fewer than eight uploads, whatever its spread: a
+# handful of uploads that happen to agree is a coincidence, not a measurement.
+# From eight on there is an interquartile range, and it is held to these factors.
+MIN_SAMPLES = 8
+SPREAD_HIGH = 1.25
+SPREAD_MEDIUM = 1.5
 UNSTABLE_DRIFT = 0.10   # median move against an earlier query set that means "soft"
 
 
@@ -65,14 +67,13 @@ def confidence(stats):
     # the sample size and spread say about it.
     if drift is not None and abs(drift) >= UNSTABLE_DRIFT:
         return "low"
+    if n < MIN_SAMPLES:
+        return "low"
     low, high = bounds(stats)
     ratio = high / max(low, 1)
-    interquartile = bool(stats.get("q1"))
-    if n >= 8 and ratio <= SPREAD_HIGH[interquartile]:
+    if ratio <= SPREAD_HIGH:
         return "high"
-    if n >= 6 and ratio <= SPREAD_MEDIUM[interquartile]:
-        return "medium"
-    return "low"
+    return "medium" if ratio <= SPREAD_MEDIUM else "low"
 
 
 def ar_for(act):
@@ -315,12 +316,10 @@ def readme(chapters, by_chapter):
         "and says more about that uploader than about the act. \n"
         "Below eight uploads there is no distribution to speak of \n"
         "and the range is the minimum and maximum. \n"
-        "Confidence is *high* at eight or more uploads \n"
-        "whose middle half spans a factor under 1.25, \n"
-        "and *medium* at six or more under 1.5. \n"
-        "Where the sample is too small for an interquartile range, \n"
-        "the same ladder runs on the full spread at 1.6 and 2.2, \n"
-        "which is the looser test the extremes deserve. \n"
+        "Nothing is rated above *low* on fewer than eight uploads. \n"
+        "From there, confidence is *high* \n"
+        "when the middle half spans a factor under 1.25 \n"
+        "and *medium* under 1.5. \n"
         "Everything else is *low*, \n"
         "as is any act whose median moved by 10 percent or more \n"
         "against the earlier, independent set of queries \n"
