@@ -19,7 +19,8 @@ against the corrupted dragon Dvalin.
 
 ## Pacing
 
-Every act here lands within about a quarter hour of an hour.
+Every act here lands within about a quarter hour of an hour
+(57 min to 1 h 13 min).
 Mondstadt is the tutorial region,
 so quest parts are small, combat is trivial at the intended Adventure Rank,
 and the walking distances are short.

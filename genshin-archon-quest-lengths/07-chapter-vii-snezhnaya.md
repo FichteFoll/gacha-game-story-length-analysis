@@ -18,7 +18,7 @@ and where the sibling's requested journey was always meant to end.
 ## Pacing
 
 Only two acts exist so far,
-but both are long: roughly four hours each.
+but both are long: 4 h 02 min and 4 h 25 min.
 This is the newest content in the sample,
 and several uploads bundle both acts together,
 so per-act figures rest on a smaller pool than the older chapters.

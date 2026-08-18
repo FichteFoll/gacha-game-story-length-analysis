@@ -22,10 +22,9 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 
 ## Pacing
 
-Where the questline changes scale.
-Four of the six acts run past two hours,
-and Act V is the chapter centrepiece
-at roughly four and a half hours,
+Where the questline changes scale,
+with four of the six acts past two hours
+and Act V as the chapter centrepiece at 4 h 31 min,
 one of the three longest acts in the game.
 Sumeru also adds heavy traversal,
 so uploads vary more here than in earlier chapters.

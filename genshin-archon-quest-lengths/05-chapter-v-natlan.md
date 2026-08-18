@@ -24,9 +24,9 @@ to keep the Sacred Flame burning.
 ## Pacing
 
 Uniformly long without any single outlier:
-the numbered acts cluster between two and three and a half hours.
+the numbered acts run from 1 h 56 min to 3 h 34 min.
 The Interlude is the exception,
-a one-part cooldown quest of well under an hour.
+a one-part cooldown quest of 50 min.
 Natlan's mobility gadgets keep traversal overhead lower
 than Sumeru's despite the map size.
 
@@ -157,7 +157,8 @@ and Capitano's end.
 
 ### Interlude - [All Fires Fuel the Flame](https://genshin-impact.fandom.com/wiki/All_Fires_Fuel_the_Flame)
 
-One quest part: the tribes rebuild after the invasion.
+Just one quest part:
+the tribes rebuild after the invasion.
 A deliberate cooldown between Act IV and Act V.
 
 - **Estimated length:** 50 min

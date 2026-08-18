@@ -23,10 +23,9 @@ and watches Focalors execute herself to void the prophecy.
 
 ## Pacing
 
-The most consistently long chapter.
-Five of its six acts sit above two hours,
-and Act V is the longest act outside Nod-Krai,
-at close to five hours.
+The most consistently long chapter,
+with five of its six acts above two hours
+and Act V, at 4 h 50 min, the longest act outside Nod-Krai.
 Fontaine's acts are cutscene-dense rather than traversal-dense,
 which is why the sampled uploads agree unusually closely.
 

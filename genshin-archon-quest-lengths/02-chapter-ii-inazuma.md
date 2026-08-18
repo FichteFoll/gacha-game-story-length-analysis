@@ -23,9 +23,9 @@ and confronts the Raiden Shogun over what eternity costs her people.
 ## Pacing
 
 The most uneven chapter in the game.
-Act I and Act III are marathon acts of two and a half to three hours,
+Act I and Act III are marathon acts of 2 h 56 min and 2 h 22 min,
 while Act II consists of only two quest parts
-and takes well under an hour.
+and takes 50 min.
 Act IV (Enkanomiya) arrived much later than the rest
 and plays as a compact epilogue.
 
@@ -87,7 +87,7 @@ and a first audience with the Raiden Shogun that ends in defeat.
 
 ### Act II - [Stillness, the Sublimation of Shadow](https://genshin-impact.fandom.com/wiki/Stillness,_the_Sublimation_of_Shadow)
 
-Two quest parts only:
+Only two quest parts:
 joining Sangonomiya Kokomi's resistance
 and uncovering the Delusion factory.
 

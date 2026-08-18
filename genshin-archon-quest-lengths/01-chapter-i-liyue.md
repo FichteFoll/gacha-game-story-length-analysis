@@ -22,7 +22,8 @@ to the Fatui of his own free will.
 ## Pacing
 
 A clear step up from the Prologue:
-Acts II and III roughly double the Prologue's per-act length,
+Acts II and III (1 h 49 min and 2 h 00 min)
+roughly double the Prologue's per-act length,
 largely because of the Osial set piece and the Childe fight.
 Act IV - Prelude is the shortest entry in the entire questline,
 a single conversation-heavy quest with Dainsleif.

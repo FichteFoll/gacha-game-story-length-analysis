@@ -29,9 +29,9 @@ and finally deliver the Chapter III title drop.
 ## Pacing
 
 By far the largest chapter: eleven entries,
-and a running time comparable to Sumeru and Fontaine combined.
-Act I alone is the single longest act in the game
-at roughly five hours.
+and a running time of 35 h 53 min,
+comparable to Sumeru and Fontaine combined.
+Act I alone is the single longest act in the game, at 4 h 50 min.
 The later acts are also the most recent content sampled,
 so their evidence pools are the thinnest and their spreads the widest.
 
@@ -190,7 +190,7 @@ and fate starts closing in.
 
 ### Act V - [A Nocturne of the Far North](https://genshin-impact.fandom.com/wiki/A_Nocturne_of_the_Far_North)
 
-Two quest parts around Moon-Prayer Night,
+Only two quest parts, around Moon-Prayer Night,
 with Columbina weakening after the fight with Rerir.
 
 - **Estimated length:** 2 h 31 min

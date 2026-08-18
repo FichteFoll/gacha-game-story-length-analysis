@@ -9,7 +9,8 @@ CHAPTERS = [
               "washes up in Mondstadt with Paimon, \n"
               "and gets pulled into the Knights of Favonius' struggle \n"
               "against the corrupted dragon Dvalin.",
-        pacing="Every act here lands within about a quarter hour of an hour. \n"
+        pacing="Every act here lands within about a quarter hour of an hour \n"
+               "({shortest_len} to {longest_len}). \n"
                "Mondstadt is the tutorial region, \n"
                "so quest parts are small, combat is trivial at the intended Adventure Rank, \n"
                "and the walking distances are short. \n"
@@ -24,7 +25,8 @@ CHAPTERS = [
               "and the investigation that follows ends with Morax handing his Gnosis \n"
               "to the Fatui of his own free will.",
         pacing="A clear step up from the Prologue: \n"
-               "Acts II and III roughly double the Prologue's per-act length, \n"
+               "Acts II and III ({len_Act_II} and {len_Act_III}) \n"
+               "roughly double the Prologue's per-act length, \n"
                "largely because of the Osial set piece and the Childe fight. \n"
                "Act IV - Prelude is the shortest entry in the entire questline, \n"
                "a single conversation-heavy quest with Dainsleif.",
@@ -39,9 +41,9 @@ CHAPTERS = [
               "kills the Fatui Harbinger Signora in a duel, \n"
               "and confronts the Raiden Shogun over what eternity costs her people.",
         pacing="The most uneven chapter in the game. \n"
-               "Act I and Act III are marathon acts of two and a half to three hours, \n"
-               "while Act II consists of only two quest parts \n"
-               "and takes well under an hour. \n"
+               "Act I and Act III are marathon acts of {len_Act_I} and {len_Act_III}, \n"
+               "while Act II consists of only {parts_Act_II} quest parts \n"
+               "and takes {len_Act_II}. \n"
                "Act IV (Enkanomiya) arrived much later than the rest \n"
                "and plays as a compact epilogue.",
     ),
@@ -53,10 +55,9 @@ CHAPTERS = [
               "The Traveler frees Nahida from a looping dream, \n"
               "crosses the desert with Cyno and Candace, \n"
               "and storms the Divine Throne to break the Akademiya's god-making project.",
-        pacing="Where the questline changes scale. \n"
-               "Four of the six acts run past two hours, \n"
-               "and Act V is the chapter centrepiece \n"
-               "at roughly four and a half hours, \n"
+        pacing="Where the questline changes scale, \n"
+               "with {n_above_2h} of the {n_entries} acts past two hours \n"
+               "and Act V as the chapter centrepiece at {len_Act_V}, \n"
                "one of the three longest acts in the game. \n"
                "Sumeru also adds heavy traversal, \n"
                "so uploads vary more here than in earlier chapters.",
@@ -70,10 +71,9 @@ CHAPTERS = [
               "and a rising primordial tide, \n"
               "the Traveler uncovers Furina's five-hundred-year performance \n"
               "and watches Focalors execute herself to void the prophecy.",
-        pacing="The most consistently long chapter. \n"
-               "Five of its six acts sit above two hours, \n"
-               "and Act V is the longest act outside Nod-Krai, \n"
-               "at close to five hours. \n"
+        pacing="The most consistently long chapter, \n"
+               "with {n_above_2h} of its {n_entries} acts above two hours \n"
+               "and Act V, at {len_Act_V}, the longest act outside Nod-Krai. \n"
                "Fontaine's acts are cutscene-dense rather than traversal-dense, \n"
                "which is why the sampled uploads agree unusually closely.",
     ),
@@ -86,9 +86,9 @@ CHAPTERS = [
               "and learns what Mavuika has been quietly paying \n"
               "to keep the Sacred Flame burning.",
         pacing="Uniformly long without any single outlier: \n"
-               "the numbered acts cluster between two and three and a half hours. \n"
+               "the numbered acts run from {acts_low} to {acts_high}. \n"
                "The Interlude is the exception, \n"
-               "a one-part cooldown quest of well under an hour. \n"
+               "a {parts_Interlude}-part cooldown quest of {len_Interlude}. \n"
                "Natlan's mobility gadgets keep traversal overhead lower \n"
                "than Sumeru's despite the map size.",
     ),
@@ -101,10 +101,10 @@ CHAPTERS = [
               "converge on Columbina's fading identity. \n"
               "The final two acts return to Sumeru \n"
               "and finally deliver the Chapter III title drop.",
-        pacing="By far the largest chapter: eleven entries, \n"
-               "and a running time comparable to Sumeru and Fontaine combined. \n"
-               "Act I alone is the single longest act in the game \n"
-               "at roughly five hours. \n"
+        pacing="By far the largest chapter: {n_entries} entries, \n"
+               "and a running time of {total}, \n"
+               "comparable to Sumeru and Fontaine combined. \n"
+               "Act I alone is the single longest act in the game, at {len_Act_I}. \n"
                "The later acts are also the most recent content sampled, \n"
                "so their evidence pools are the thinnest and their spreads the widest.",
     ),
@@ -115,8 +115,8 @@ CHAPTERS = [
         blurb="The Traveler reaches Snezhnaya, \n"
               "where the Tsaritsa has been gathering the Gnoses \n"
               "and where the sibling's requested journey was always meant to end.",
-        pacing="Only two acts exist so far, \n"
-               "but both are long: roughly four hours each. \n"
+        pacing="Only {n_entries} acts exist so far, \n"
+               "but both are long: {len_Act_I} and {len_Act_II}. \n"
                "This is the newest content in the sample, \n"
                "and several uploads bundle both acts together, \n"
                "so per-act figures rest on a smaller pool than the older chapters.",
@@ -150,7 +150,7 @@ ACT_NOTES = {
                     "to get the Traveler into a sealed Inazuma.",
     "ch2|Act I": "Ritou, the Sacred Sakura Cleansing Ritual, \n"
                  "and a first audience with the Raiden Shogun that ends in defeat.",
-    "ch2|Act II": "Two quest parts only: \n"
+    "ch2|Act II": "Only {parts_Act_II} quest parts: \n"
                   "joining Sangonomiya Kokomi's resistance \n"
                   "and uncovering the Delusion factory.",
     "ch2|Act III": "Yae Miko opens the way into the Plane of Euthymia, \n"
@@ -198,7 +198,8 @@ ACT_NOTES = {
     "ch5|Act IV": "The strike against the Fatui and the Secret Source, \n"
                   "the Abyss' full assault, \n"
                   "and Capitano's end.",
-    "ch5|Interlude": "One quest part: the tribes rebuild after the invasion. \n"
+    "ch5|Interlude": "Just {parts_Interlude} quest part: \n"
+                     "the tribes rebuild after the invasion. \n"
                      "A deliberate cooldown between Act IV and Act V.",
     "ch5|Act V": "The Night Kingdom, the truth about Mavuika's bargain, \n"
                  "and the price already paid for the Ode of Resurrection.",
@@ -218,7 +219,7 @@ ACT_NOTES = {
     "sotwm|Act IV": "Columbina in tow, Albedo and Durin return, \n"
                     "Arlecchino and Sandrone circle each other, \n"
                     "and fate starts closing in.",
-    "sotwm|Act V": "Two quest parts around Moon-Prayer Night, \n"
+    "sotwm|Act V": "Only {parts_Act_V} quest parts, around Moon-Prayer Night, \n"
                    "with Columbina weakening after the fight with Rerir.",
     "sotwm|Act VI": "The Hyperborean ruins, \n"
                     "the full history of Teyvat's three moons, \n"

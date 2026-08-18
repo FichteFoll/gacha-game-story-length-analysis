@@ -4,6 +4,7 @@ import json
 import pathlib
 
 from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
+from facts import chapter_facts, chapter_total, hm, median_of
 
 OUT = pathlib.Path(__file__).parent.parent
 DATA = OUT / "data"
@@ -16,9 +17,13 @@ def write(path, text):
     path.write_text(cleaned)
 
 
-def prose(text):
-    """Keep the authored semantic line breaks, without the trailing spaces."""
-    return text.replace(" \n", "\n")
+def prose(text, facts=None):
+    """Keep the authored semantic line breaks, and fill in the derived figures.
+
+    An unknown placeholder raises KeyError rather than rendering a stale number.
+    """
+    text = text.replace(" \n", "\n")
+    return text.format_map(facts) if facts else text
 
 
 def released_in(act, versions):
@@ -29,13 +34,6 @@ def released_in(act, versions):
     return (f"{fallback}, per the sampled upload titles "
             f"(the wiki has no release-version category for this act yet)"
             if fallback else "unknown")
-
-
-def hm(minutes):
-    if minutes is None:
-        return "n/a"
-    h, m = divmod(int(round(minutes)), 60)
-    return f"{h} h {m:02d} min" if h else f"{m} min"
 
 
 def confidence(stats):
@@ -71,14 +69,14 @@ def evidence_table(act):
     return "\n".join(lines)
 
 
-def act_section(act, parts, versions):
+def act_section(act, parts, versions, facts):
     key = f"{act['chapter_id']}|{act['act_label']}"
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
     body = [
         f"### {act['act_label']} - {wiki_link(act['act_title'])}",
         "",
-        prose(ACT_NOTES.get(key, "")),
+        prose(ACT_NOTES.get(key, ""), facts),
         "",
         f"- **Estimated length:** {hm(s['median'])}",
         f"- **Sampled range:** {hm(s['low'])} to {hm(s['high'])} "
@@ -97,7 +95,8 @@ def act_section(act, parts, versions):
 
 
 def chapter_doc(chap, acts, quest_parts, versions):
-    total = sum(a["stats"]["median"] or 0 for a in acts)
+    total = chapter_total(acts)
+    facts = chapter_facts(acts, quest_parts)
     head = [
         f"# {chap['title']}",
         "",
@@ -106,7 +105,7 @@ def chapter_doc(chap, acts, quest_parts, versions):
         f"**Entries:** {len(acts)} | "
         f"**Estimated chapter length: {hm(total)}**",
         "",
-        prose(chap["blurb"]),
+        prose(chap["blurb"], facts),
         "",
         "## At a glance",
         "",
@@ -118,11 +117,11 @@ def chapter_doc(chap, acts, quest_parts, versions):
         head.append(
             f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
             f"| {hm(s['low'])} - {hm(s['high'])} | {s['n']} | {confidence(s)} |")
-    head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "", prose(chap["pacing"]), "",
-             "## Acts", ""]
+    head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "",
+             prose(chap["pacing"], facts), "", "## Acts", ""]
     for a in acts:
         parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
-        head.append(act_section(a, parts, versions))
+        head.append(act_section(a, parts, versions, facts))
     head += [
         "## Sources",
         "",
@@ -137,8 +136,7 @@ def chapter_doc(chap, acts, quest_parts, versions):
 
 
 def readme(chapters, by_chapter):
-    grand = sum(a["stats"]["median"] or 0
-                for acts in by_chapter.values() for a in acts)
+    grand = sum(chapter_total(acts) for acts in by_chapter.values())
     n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
     n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
     lines = [
@@ -164,7 +162,7 @@ def readme(chapters, by_chapter):
     ]
     for chap in chapters:
         acts = by_chapter[chap["id"]]
-        total = sum(a["stats"]["median"] or 0 for a in acts)
+        total = chapter_total(acts)
         lines.append(
             f"| {chap['title']} | {chap['region']} | {chap['versions']} "
             f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
@@ -176,7 +174,7 @@ def readme(chapters, by_chapter):
         "| --- | --- | --- |",
     ]
     ranked = sorted((a for acts in by_chapter.values() for a in acts),
-                    key=lambda a: a["stats"]["median"] or 0)
+                    key=median_of)
     for a in reversed(ranked[-5:]):
         lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
                      f"{a['act_label']}: {a['act_title']} "
