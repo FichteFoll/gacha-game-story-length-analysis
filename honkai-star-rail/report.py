@@ -23,7 +23,6 @@ REPORT = dict(
     # Two names for it here, Trailblaze Level and Equilibrium Level, so the
     # values carry the name and the label stays the neutral half.
     gate_label="Level",
-    publisher="HoYoverse",
     # What this game numbers its acts with, and what the entry count counts,
     # for the renderer's own headings.
     unit="Mission",

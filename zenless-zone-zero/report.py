@@ -29,7 +29,6 @@ REPORT = dict(
     # Rank-Up commissions, but the wiki records no requirement per chapter, so
     # there is nothing to put in a gate column. See the caveats.
     gate_label=None,
-    publisher="HoYoverse",
     # What this game numbers its acts with, and what the entry count counts,
     # for the renderer's own headings.
     unit="Chapter",

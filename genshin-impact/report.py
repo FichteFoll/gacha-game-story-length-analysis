@@ -18,7 +18,6 @@ REPORT = dict(
     # The account-level requirement acts are gated behind, as the game names it.
     # None for a game that gates its story some other way.
     gate_label="Adventure Rank",
-    publisher="HoYoverse",
     # What the searches in data/query_templates.txt do, in words.
     queries="For every act, YouTube was searched four ways: \n"
             "by chapter plus act label plus act title, by act title alone, \n"
