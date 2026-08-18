@@ -8,6 +8,7 @@ before it writes a single file.
 
 Vocabulary:
     count_above(chapter, minutes, n)      at least n entries longer than `minutes`
+    none_above(chapter, minutes)          no entry is longer than `minutes`
     median_between(chapter, act, lo, hi)  this act's estimate is within [lo, hi]
     rank_at_most(chapter, act, k, scope)  this act is among the k longest
     is_extreme(chapter, act, end, scope)  this act is the longest/shortest
@@ -43,6 +44,15 @@ def count_above(chapter, minutes, n, quote):
         got = _count_above(index[chapter], minutes)
         return got >= n, f"{got} entries above {minutes} min, expected {n} or more"
     return Claim(quote, f"{chapter}: {n}+ entries above {minutes} min", check)
+
+
+def none_above(chapter, minutes, quote):
+    """The companion to count_above, for prose that says a chapter stays under
+    something ("nothing before Penacony passes three hours")."""
+    def check(index):
+        got = _count_above(index[chapter], minutes)
+        return got == 0, f"{got} entries above {minutes} min, expected none"
+    return Claim(quote, f"{chapter}: nothing above {minutes} min", check)
 
 
 def median_between(chapter, act_label, lo, hi, quote):

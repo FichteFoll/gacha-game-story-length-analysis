@@ -1,0 +1,7 @@
+{
+ "host": "honkai-star-rail.fandom.com",
+ "name": "Honkai: Star Rail Wiki",
+ "released_in": "Released in Version (.+)",
+ "version_page": "Version/{version}",
+ "version_fields": {"number": "version", "date": "release_date"}
+}

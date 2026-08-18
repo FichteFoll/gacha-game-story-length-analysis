@@ -48,6 +48,16 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   (Herta Space Station, Jarilo-VI, ...) rather than by numbered chapter.
   Use the world as the chapter and the mission as the act,
   and put the world in `chapter_keys.json`: uploads title by world name.
+  The wiki itself calls one mission a chapter and numbers them game-wide,
+  so `Welcome to Arcadia` is "the twenty-first Trailblaze Mission chapter";
+  numbering them within their world reads better and searches no worse.
+  The overview page carries the quest parts of every mission,
+  so `quest_parts.json` needs no per-mission fetch.
+  Finality Missions and the Trial of Equilibrium
+  are in the sequence but not in the main progression;
+  the report so far leaves both out.
+  Its uploaders split a mission across several uploads more than any other
+  game looked at, which is what `partials.txt` exists for.
 - **Zenless Zone Zero.** Phaethon's Story is cut into chapters and interludes.
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves

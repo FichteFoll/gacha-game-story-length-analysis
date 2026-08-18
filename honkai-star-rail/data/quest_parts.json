@@ -1,0 +1,257 @@
+{
+ "herta|Mission 1": [
+  "Chaos In the Deep",
+  "Eye of the Storm",
+  "A Moment of Peace",
+  "Lingering Shadows",
+  "Simulated Universe: First Closed Beta",
+  "The Voyage Continues",
+  "Drifting Between the Stars"
+ ],
+ "jarilo|Mission 1": [
+  "A Grand Cool Adventure",
+  "Travelers on a Winter Night",
+  "Everwinter Night",
+  "You Can Run, But You Can't Hide",
+  "Hide-and-Seek",
+  "The Eighth and Final Rule",
+  "Long Wait for the Blade's Edge",
+  "Ones Fallen Into the Abyss",
+  "A Sunset Rendezvous",
+  "The Past Will Return as an Avalanche",
+  "Lying in Rust",
+  "To Rot or to Burn",
+  "Not Good With Farewells"
+ ],
+ "jarilo|Mission 2": [
+  "Cleanse in the Darkness Outside",
+  "Unattainable Idol",
+  "Young Guard",
+  "Soldiers Stay Silent",
+  "The Stars Are Cold Toys",
+  "Roads to the Past Have Long Been Closed",
+  "The Dawn Here...",
+  "The Return",
+  "In the Dangerous Muddy Swamp",
+  "No Time for Me, My Friend",
+  "Silent Galaxy"
+ ],
+ "luofu|Mission 1": [
+  "An Invitation Without Proffer",
+  "Amidst the Mara-Struck",
+  "Devising Stratagems",
+  "Scattered Memories of Hooded Past",
+  "The Hound Chases the Fox",
+  "Stars Spun, Prescience Sprung",
+  "New Friends Bring New Joy",
+  "Omniscient Inquiry of Arcana",
+  "Wood Sprouts Anew, Fate Tilts Askew",
+  "Tranquil Amidst Turmoil",
+  "Humming Antlers, Entwined Horns"
+ ],
+ "luofu|Mission 2": [
+  "Desolate Depths of Despair",
+  "Dragon Mislay, Dreams Astray",
+  "Oblation Obtained, Order Ordained",
+  "A Dragon Gallant, Its Ocean Distant",
+  "Demise of Immortality, Finale of Calamity"
+ ],
+ "luofu|Mission 3": [
+  "Obsequies Performed, A Long Road Ahead"
+ ],
+ "penacony|Mission 1": [
+  "Long Day's Journey Into Night",
+  "The Knocking at Ungodly Hours",
+  "The Youths Who Chase Dreams",
+  "Sleepless Night",
+  "Tales from the Golden Age",
+  "Good Omen, My Friend",
+  "Lullaby of the North Wind",
+  "Gentleness, the Name of Nocturne",
+  "Through a Glass Darkly",
+  "Should One Awaken at Midnight",
+  "Whodunit"
+ ],
+ "penacony|Mission 2": [
+  "The Devil in Velvet",
+  "Lost Generation",
+  "Double Indemnity",
+  "When the Sacred Ginmill Closes",
+  "Heaven is a Place on Earth",
+  "Why Do the Heathen Rage?",
+  "The Tell-Tale Heart",
+  "All the Sad Tales",
+  "A Walk Among the Tombstones"
+ ],
+ "penacony|Mission 3": [
+  "The Great Train Robbery",
+  "The Fool Always Rings Twice",
+  "Small Town Grotesque",
+  "The Public Enemy",
+  "Bullet & Brain",
+  "The Only Path to Tomorrow",
+  "Seabiscuit",
+  "Beauty and Destruction",
+  "Then Wake to Weep",
+  "Everything that Rises Must Converge",
+  "The Sun Also Rises",
+  "And on the Eighth Day"
+ ],
+ "penacony|Mission 4": [
+  "Unconquered",
+  "All About Eve",
+  "Rivers Run Without Return",
+  "Life is But a Drifting Dream",
+  "Soldier's Pay",
+  "A Thousand Bells at Dawn",
+  "Stranger in a Strange Land"
+ ],
+ "penacony|Mission 5": [
+  "All Who Wakes",
+  "The Departed Will Return First",
+  "A Misfortune of Survivors",
+  "Reality is But Dream's Echo",
+  "Sound of Farewell Hums Reunion",
+  "Bow Out At Moment of Début",
+  "A New Venture on the Eighth Dawn"
+ ],
+ "amphoreus|Mission 1": [
+  "Silver Chariot, Away to that Blackened Land",
+  "Distant Travelers, Listen to this World's Prayer",
+  "Night Stars, Accompany My Slumber",
+  "Wasteland, Hark Back Glory of Old",
+  "Night Veil, Shroud the Silent Past",
+  "Kremnos, Cleanse Thy Rusted Blood (I)",
+  "A Cleansing of Gold",
+  "Kremnos, Cleanse Thy Rusted Blood (II)",
+  "A Witch's Scientific Repose",
+  "Hero, Bear Thy Coreflame"
+ ],
+ "amphoreus|Mission 2": [
+  "Strife, Dispel the Accompanying Fears",
+  "Glory, Turn From Imbibed Poison",
+  "Grove, Wherefore Are the Wise Silent",
+  "Lamentations, Bring Not Empty Tears",
+  "Memories, Veiled in Blazing Mist",
+  "Passages, Knocking Echoes in Dreams",
+  "Nemesis, Scorched by Golden Blood",
+  "Throne, End Those Long Years Forlorn",
+  "Passage, Reveal the Past Once More"
+ ],
+ "amphoreus|Mission 3": [
+  "Spindle, Laboring to Weave the Tapestry of Time",
+  "Olive, Cast to the Conference Chair",
+  "Papyrus, Read the Blasphemer's Will",
+  "Debate, Discourse Without Spears",
+  "Broken Dream, Enlighten From the Beyond",
+  "Pathstrider, Set Sail Upon the River of Souls",
+  "Death, Dripping Like Morning Dew",
+  "Ferryman, Ferry Me Across the Stream of Souls",
+  "Sea of Flowers, Adored Only by Death",
+  "Citizen, Listen to Those Roaring Tides",
+  "Scholar, Let Us Meet Again Before the Gates of Truth",
+  "Homeward Journey, Never Look Back Upon the Path Whence You Came",
+  "Witch's Mirrored Reversal"
+ ],
+ "amphoreus|Mission 4": [
+  "Stars, Cleanse the Troubled Thoughts",
+  "Scrolls, Turn the Blade's Gaze",
+  "Chest, Bear the Bygone Dust",
+  "Golden Thread, Relay the Savior's Fate",
+  "Grove, Judge the Past and Present",
+  "Poet, Speak of the Sky Through Me (I)",
+  "Poet, Speak of the Sky Through Me (II)",
+  "Slate, Why Neglect That Light's Shade",
+  "Dawn, Shine at the World's End"
+ ],
+ "amphoreus|Mission 5": [
+  "Hero, Honor That Crimson Call",
+  "Mother, Parted by the Turning of Seasons",
+  "Hero, Return to That Peace of Home",
+  "Hero, Shatter That Woeful Effigy",
+  "Hero, Ignite That Primal Sun",
+  "Hero, Sing That Anthem of Creation"
+ ],
+ "amphoreus|Mission 6": [
+  "Time, Ferry Me Through Ages",
+  "Sun, Repel Stars and Pale Moon",
+  "Wanderer, Decipher the Waxen Imprints",
+  "Zephyr, Uplift Bygone Dust Cloudsward",
+  "Nectar, Saturate the Hollow Treecore",
+  "Sea, Bury the Wine-Dark Dreams",
+  "Captives, Behold the Expanse Beyond Light"
+ ],
+ "amphoreus|Mission 7": [
+  "Night, Coming Before Dawn Breaks",
+  "Homecoming, Within Sight Yet Beyond Grasp",
+  "Traveler, Find Truth Beyond the Illusion",
+  "Memokeeper, Backtrack the Destiny's Current",
+  "Blazing Sun, Illuminate the Path for the Lost",
+  "Earth, Bear the Suffering of All",
+  "Great Tomb, Hide the Secrets of Incarnations",
+  "Reunion, Promise of Tears and Smiles",
+  "Gods, Sound the Anthem of Creation"
+ ],
+ "amphoreus|Mission 8": [
+  "Dawn, Caress the Distant Lands Once More",
+  "Traverse Stars and Stride Cosmos",
+  "The Witch's Ardent Research",
+  "Hero, Return to Dawn in Mortality",
+  "Pages, Ripples That Engrave Memories",
+  "Silver Chariot, Part With That Humanity's Epic",
+  "Fallen Petals, Leave Fading Traces of Fragrance",
+  "Tale, End Upon The First Encounter"
+ ],
+ "planarcadia|Mission 1": [
+  "Phantasmoon, the Merciful Queen",
+  "Topological Structure of an Imagenated City",
+  "Artwork in the Age of Mechanical Reproduction",
+  "Fundamentals of Imagenesis",
+  "Killers Don't Get Vacations",
+  "Symbolic Exchange and Detection",
+  "Here's Your Fifteen Minutes of Fame",
+  "Medical Disputes on the Ship of Fools",
+  "The Discreet Charm of a Streamer Girl",
+  "The Indifference of Those Who Yet Live"
+ ],
+ "planarcadia|Mission 2": [
+  "Portrait of a Middle-Aged Artist",
+  "Society of the Spectacle and Its Enemies",
+  "Confessions of a Righteous Sinner",
+  "The Bum's as Holy as the Seraphim",
+  "Simulacra and Simulation, or Even the Just",
+  "Echoes from a Sombre Empire",
+  "Real Holy Laughter!"
+ ],
+ "planarcadia|Mission 3": [
+  "Philosophy of the Tourist",
+  "In the Shadow of the Millennium",
+  "A Superhero Caught in a Moral Dilemma",
+  "If We Spoke in Laughter",
+  "Howls, White Noise, or What You Feel",
+  "A Resounding Gong or a Clashing Cymbal",
+  "Mass Deaths and Detective Fiction",
+  "Postmodern Imagenesis",
+  "Metaphors We Live By",
+  "Serotonin Exposure Phobia",
+  "The Generative Grammar of Liquid Modernity",
+  "Happiness, or a Fatal Ailment",
+  "Arcadia Revisited"
+ ],
+ "planarcadia|Mission 4": [
+  "Illusion of the End",
+  "Living Sacrifice for Gods and Mortals",
+  "Arcadia of Mystery and Terror",
+  "Best Farewell to the World",
+  "Primeval and Other Times",
+  "Yesterday's World",
+  "Non-Existent State"
+ ],
+ "planarcadia|Mission 5": [
+  "How I Met Your Father",
+  "To Be or Not to Be",
+  "The Comedy of Errors",
+  "Every Arcadian Corner All At Once",
+  "Limelight"
+ ]
+}

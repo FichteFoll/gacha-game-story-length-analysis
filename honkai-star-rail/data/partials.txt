@@ -1,0 +1,7 @@
+<quest part>
+\bpart\.? ?\d+\b
+\bpart ?[ivx]+\b
+\bpart (one|two|three|four|five|six|seven|eight|nine|ten)\b
+\bwalkthrough ?\.? ?(\d+|[ivx]+)\b
+\bep(isode)?\.? ?\d+\b
+\b\d ?/ ?\d\b

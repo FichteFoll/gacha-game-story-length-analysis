@@ -1,0 +1,3 @@
+all (quests|story|missions|chapters)
+full (herta space station|jarilo ?-? ?vi|belobog|xianzhou|luofu|penacony|amphoreus|planarcadia)( \d\.\d)? (main |trailblaze )?(story|storyline|questline|quests?|missions?)
+supercut

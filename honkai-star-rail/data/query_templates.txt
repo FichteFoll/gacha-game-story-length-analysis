@@ -1,0 +1,4 @@
+{chapter} {act_title} full walkthrough no commentary
+{act_title} full quest gameplay
+{game} {number} {act_title} trailblaze mission
+{game} {version} {chapter} trailblaze mission walkthrough
