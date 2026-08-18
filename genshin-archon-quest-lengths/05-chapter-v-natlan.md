@@ -1,6 +1,6 @@
 # Chapter V: Incandescent Ode of Resurrection
 
-**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 23 min**
+**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 26 min**
 
 Natlan fights the Abyss with Ancient Names borrowed from the Night Kingdom.
 The Traveler joins the tribes, loses Capitano as an ally,
@@ -13,13 +13,13 @@ to keep the Sacred Flame burning.
 | --- | --- | --- | --- | --- | --- |
 | Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 1 h 36 min - 3 h 08 min | 9 | medium |
 | Act II | Black Stone Under a White Stone | 2 h 48 min | 2 h 27 min - 3 h 11 min | 8 | high |
-| Act III | Beyond the Smoke and Mirrors | 2 h 26 min | 1 h 18 min - 4 h 01 min | 14 | low |
+| Act III | Beyond the Smoke and Mirrors | 2 h 29 min | 1 h 18 min - 4 h 01 min | 20 | low |
 | Act IV | The Rainbow Destined to Burn | 3 h 17 min | 2 h 54 min - 3 h 52 min | 10 | high |
 | Interlude | All Fires Fuel the Flame | 50 min | 35 min - 1 h 03 min | 9 | medium |
 | Act V | Incandescent Ode of Resurrection | 3 h 34 min | 2 h 03 min - 4 h 01 min | 8 | medium |
 | Act VI | A Space and Time for You | 1 h 56 min | 1 h 41 min - 2 h 18 min | 10 | high |
 
-**Total: 17 h 23 min**
+**Total: 17 h 26 min**
 
 ## Pacing
 
@@ -95,8 +95,8 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 Mavuika mobilizes the tribes and the Adventurers' Guild together
 while Capitano's purpose in Natlan comes into focus.
 
-- **Estimated length:** 2 h 26 min
-- **Sampled range:** 1 h 18 min to 4 h 01 min across 14 playthrough uploads (3 further candidates screened out)
+- **Estimated length:** 2 h 29 min
+- **Sampled range:** 1 h 18 min to 4 h 01 min across 20 playthrough uploads (8 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
@@ -108,6 +108,7 @@ while Capitano's purpose in Natlan comes into focus.
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
 | 1 h 18 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 2(No Commentary) | Gaming_Dino | 6 | <https://www.youtube.com/watch?v=ZLf8dHlZfBw> |
+| 1 h 21 min | 5.1 Archon Quest - "Beyond the Smoke and Mirrors" Part 3 HD Genshin Impact | Clips of Genshin | 54 | <https://www.youtube.com/watch?v=36YYOszSYZs> |
 | 2 h 00 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 1(No Commentary) | Gaming_Dino | 6 | <https://www.youtube.com/watch?v=zJCv_DCMG9A> |
 | 2 h 15 min | Natlan Archon Quest Act 3 Beyond The Smoke And Mirrors (No Commentary) | RaxDotVie | 37 | <https://www.youtube.com/watch?v=njeLLyQPb8U> |
 | 2 h 21 min | Genshin Impact - FULL Gameplay [No Commentary] CHAPTER 5 ACT III: Beyond the Smoke and Mirror PART24 | SilentPixie Gaming | 10 | <https://www.youtube.com/watch?v=Kr25c6Ftaks> |
@@ -115,11 +116,16 @@ while Capitano's purpose in Natlan comes into focus.
 | 2 h 23 min | Natlan Archon Quest Act 3 Beyond The Smoke and Mirrors | JohnnyxWolf_ | 21 | <https://www.youtube.com/watch?v=8apRQNx1is0> |
 | 2 h 25 min | Chapter V: Act 3 - Beyond the Smoke and Mirrors (Full story) - Genshin Impact 5.1 | Sir Patty | 50 | <https://www.youtube.com/watch?v=ejcbpRrQKuc> |
 | 2 h 27 min | Beyond the Smoke and Mirrors - Natlan Archon Quest Act 3 \| ( No Commentary Gameplay ) | Captain PANIC | 25 | <https://www.youtube.com/watch?v=7PDwGyOye18> |
+| 2 h 28 min | Archon Quest Chapter 5: Act 3 - Beyond the Smoke and Mirrors [Genshin Impact][5.1] | Enthy | 1,780 | <https://www.youtube.com/watch?v=mSc9Ty0wUb4> |
 | 2 h 30 min | Genshin Impact 5.1 Archon Quest Act 3 Full Story Walkthrough 4K 60 FPS Beyond the Smoke and Mirrors | Headstart Gaming | 77 | <https://www.youtube.com/watch?v=9otAn9NNkwo> |
+| 2 h 33 min | Version 5.1 Natlan Archon Quest Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact | Streetwise Rhapsody | 22,387 | <https://www.youtube.com/watch?v=MoGJIhsHfR8> |
 | 2 h 42 min | Archon Quest Chapter 5: Act 3 "Beyond the Smoke and Mirrors" \| 【Genshin Impact】 | LyurGG | 15,554 | <https://www.youtube.com/watch?v=6fitS-EdM1Q> |
 | 2 h 43 min | Chapter 5: Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact \| ASJ Gaming | ASJ Gaming | 47 | <https://www.youtube.com/watch?v=xeOVvjYC3gI> |
+| 2 h 44 min | Beyond the Smoke and Mirrors Genshin Impact | WoW Quests | 17,772 | <https://www.youtube.com/watch?v=Tx4YORXcxr4> |
+| 2 h 46 min | Archon Quest Chapter 5: Act 3 – Beyond the Smoke and Mirrors \| Full Story Quest \| 【Genshin Impact】 | Mr. Moe's Game Quest | 10 | <https://www.youtube.com/watch?v=R6QYEKP5fOc> |
 | 2 h 47 min | Genshin Impact 5.1 Archon Quest \| Beyond The Smoke And Mirrors \| Chapter 5 ACT III (NO COMMENTARY) | Regis Gaming | 5 | <https://www.youtube.com/watch?v=7LyV3cqPohk> |
 | 2 h 50 min | Archon Quest "Chapter V: Act III -  Beyond the Smoke and Mirrors" | Mystrix Gaming | 9,444 | <https://www.youtube.com/watch?v=zPvpfIbJpSU> |
+| 3 h 06 min | Beyond the Smoke and Mirrors - Genshin Impact Chapter 5 Act 3 | Wolverine Plays Games | 35 | <https://www.youtube.com/watch?v=7hghdeljlNI> |
 | 4 h 01 min | Chapter 5: Act III \| Beyond the Smoke and Mirrors \| Genshin Impact | Rita Kamishiro | 1,264 | <https://www.youtube.com/watch?v=8YCtVELE3Lw> |
 
 </details>

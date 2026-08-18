@@ -1,6 +1,6 @@
 # Song of the Welkin Moon (unofficially Chapter VI)
 
-**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 53 min**
+**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 23 min**
 
 Ineffa leads the Traveler out of Natlan to Nod-Krai,
 where the Wild Hunt, the Fatui, and the history of Teyvat's three moons
@@ -13,25 +13,25 @@ and finally deliver the Chapter III title drop.
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Prelude | The Journey Home | 2 h 29 min | 2 h 11 min - 4 h 00 min | 9 | medium |
-| Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 50 min | 3 h 22 min - 7 h 36 min | 8 | low |
+| Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min | 2 h 33 min - 7 h 36 min | 13 | low |
 | Act II | Elegy of Dust and Lamplight | 3 h 21 min | 2 h 36 min - 4 h 40 min | 10 | medium |
 | Act III | A Nation That Doesn't Exist | 2 h 21 min | 2 h 02 min - 2 h 34 min | 10 | high |
 | Act IV | An Elegy for Faded Moonlight | 4 h 03 min | 3 h 08 min - 4 h 20 min | 10 | high |
-| Act V | A Nocturne of the Far North | 2 h 31 min | 1 h 48 min - 3 h 01 min | 7 | medium |
+| Act V | A Nocturne of the Far North | 2 h 37 min | 1 h 38 min - 3 h 47 min | 21 | low |
 | Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 06 min - 4 h 01 min | 10 | medium |
-| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 1 h 46 min - 3 h 16 min | 7 | medium |
+| Act VII | A Traveler on a Winter's Night | 2 h 55 min | 1 h 46 min - 3 h 18 min | 22 | medium |
 | Act VIII | True Moon | 3 h 24 min | 3 h 11 min - 3 h 50 min | 8 | high |
 | Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 22 min - 3 h 06 min | 8 | high |
-| Act X | Truth Amongst the Pages of Purana | 4 h 23 min | 2 h 16 min - 7 h 00 min | 5 | low |
+| Act X | Truth Amongst the Pages of Purana | 3 h 55 min | 1 h 57 min - 4 h 34 min | 11 | low |
 
-**Total: 35 h 53 min**
+**Total: 35 h 23 min**
 
 ## Pacing
 
 By far the largest chapter: eleven entries,
-and a running time of 35 h 53 min,
+and a running time of 35 h 23 min,
 comparable to Sumeru and Fontaine combined.
-Act I alone runs 4 h 50 min.
+Act I alone runs 4 h 43 min.
 The later acts are also the most recent content sampled,
 so their evidence pools are the thinnest and their spreads the widest.
 
@@ -71,10 +71,10 @@ Ineffa's introduction.
 
 Departure from Natlan and arrival in Nod-Krai,
 with Sandrone already tracking the Traveler.
-Tied with Chapter IV, Act V for the longest act in the game.
+One of the three longest acts in the game.
 
-- **Estimated length:** 4 h 50 min
-- **Sampled range:** 3 h 22 min to 7 h 36 min across 8 playthrough uploads (3 further candidates screened out)
+- **Estimated length:** 4 h 43 min
+- **Sampled range:** 2 h 33 min to 7 h 36 min across 13 playthrough uploads (12 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
@@ -85,9 +85,14 @@ Tied with Chapter IV, Act V for the longest act in the game.
 
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
+| 2 h 33 min | A Dance of Snowy Tides and Hoarfrost Groves Genshin Impact | ZaFrostPet | 17,522 | <https://www.youtube.com/watch?v=XGlbTG9pgaU> |
+| 3 h 18 min | \| 2K \| Full Archon Quest Song Of The Welkin Moon - Act I A Dance of Snowy Tides and Hoarfrost Groves | LamLN | 261 | <https://www.youtube.com/watch?v=73OuZw2tNF4> |
 | 3 h 22 min | Song of the Welkin Moon: Act 1 \| A Dance of Snowy Tides and Hoarfrost Groves \| Walkthrough \| Eng VA  | FightMatrix Gaming | 13 | <https://www.youtube.com/watch?v=aD4uyfjSo28> |
+| 4 h 23 min | Nod-Krai Act 1 Luna I Archon Quest Full Story \| Dance Of Snowy Tides Hoarfrost Groves \| Genshin 6.0 | Noxxis Gaming | 9,663 | <https://www.youtube.com/watch?v=bB6NJ6yGwUI> |
 | 4 h 29 min | Song of Welkin Moon: Act I - A Dance of Snowy Tides and Hoarfrost Groves \| Genshin v6.0 Archon Quest | ViPlays | 1 | <https://www.youtube.com/watch?v=oeCI_iEOcis> |
+| 4 h 43 min | Version 6.0 Archon Quest Luna 1, Act 1 Full Gameplay - Genshin Impact | MaakuPlays | 4,001 | <https://www.youtube.com/watch?v=oNLQxffb0JU> |
 | 4 h 43 min | A dance of Snowy Tides and Hoarfrost Groves [Song of the Welkin Moon Act 1] 6.0 Genshin Impact | Rubieco | 690 | <https://www.youtube.com/watch?v=NJOeJwrgRr8> |
+| 4 h 47 min | Version 6.0 Archon Quest ACT 1: A Dance of Snowy Tides and Hoarfrost Groves \| Genshin Impact Luna I | Streetwise Rhapsody | 77,128 | <https://www.youtube.com/watch?v=nqalWv2ZUl0> |
 | 4 h 49 min | A Dance of Snowy Tides and Hoarfrost Groves FULL QUEST Genshin Impact | WoW Quests | 11,882 | <https://www.youtube.com/watch?v=xlntoTsv0xw> |
 | 4 h 51 min | Song of the Welkin Moon: Act I (Part 1) — Full Playthrough \| Genshin Impact 6.0 'Luna I' | Mr. Trajet | 6,046 | <https://www.youtube.com/watch?v=HCOuGk3kqWs> |
 | 4 h 54 min | Genshin Impact 6.0 Archon Quest Act 1 Full Walkthrough [4K 60FPS] - Nod-Krai Luna I | Headstart Gaming | 321 | <https://www.youtube.com/watch?v=WdBvsqNjOOU> |
@@ -193,9 +198,9 @@ and fate starts closing in.
 Only two quest parts, around Moon-Prayer Night,
 with Columbina weakening after the fight with Rerir.
 
-- **Estimated length:** 2 h 31 min
-- **Sampled range:** 1 h 48 min to 3 h 01 min across 7 playthrough uploads (8 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 37 min
+- **Sampled range:** 1 h 38 min to 3 h 47 min across 21 playthrough uploads (18 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
 - **Quest parts (2):** In the Shifting Light of the Moon; Ripples That Will Never Reach
@@ -205,13 +210,27 @@ with Columbina weakening after the fight with Rerir.
 
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
+| 1 h 38 min | A Nocturne of the far North \|\| Nod Krai Archon Quest\|\| Genshin Impact  | InfernoOp | 9 | <https://www.youtube.com/watch?v=fvAZRvWEa94> |
 | 1 h 48 min | THE FROZEN TRUTH ❄️ Song Of The Welkin Moon Act 5 \| A Nocturne of the Far North (Full Walkthrough) | FightMatrix Gaming | 13 | <https://www.youtube.com/watch?v=QoKlm1j2heg> |
+| 2 h 18 min | Version 6.2 Archon Quest ACT 5 - Genshin Impact Luna III | GorillaG 🦍 | 118 | <https://www.youtube.com/watch?v=FD8YpmNf0Jw> |
+| 2 h 20 min | Nod Krai Archon Quest Act 5 "A Nocturne of the Far North" Quest Genshin Impact 6.2 Gameplay [2k] | Uncle Kyong | 0 | <https://www.youtube.com/watch?v=mE4h2eQkiHA> |
+| 2 h 24 min | [FULL] Luna III Act 5 Archon Quest (Genshin Impact Version 6.2) | zhonglis mora | 443 | <https://www.youtube.com/watch?v=pPvrBl9M7qs> |
 | 2 h 24 min | Nod-Krai Archon Quest Act 5 \| Genshin Impact 6.2 Luna III \| (CN audio) No commentary | Lvxingzhe Ana | 10 | <https://www.youtube.com/watch?v=KG50HoPN1BE> |
 | 2 h 27 min | Nod-Krai Act 5 Luna III Archon Quest Full Story \| A Nocturne Of The Far North \| Genshin Impact 6.2 | Noxxis Gaming | 3,435 | <https://www.youtube.com/watch?v=NWwJpOazA3Y> |
 | 2 h 31 min | A Nocturne of the Far North: Full Archon Quest Walkthrough \| Genshin Impact 6.2 4K HDR | RTXMonkey | 344 | <https://www.youtube.com/watch?v=4hL7T3G-4YE> |
+| 2 h 34 min | Genshin Impact - Archon Quest Luna 3 - Act 5: A Nocturne of the Far North - Full Walkthrough | Momizy Gaming | 55 | <https://www.youtube.com/watch?v=EYUUXmuU0vk> |
 | 2 h 35 min | Archon Quest - Song of the Welkin Moon Act 5 A Nocturne of the Far North    Luna III) PART - 41 | BLACKOUT GAMING | 14 | <https://www.youtube.com/watch?v=8nrydY8PcNs> |
 | 2 h 37 min | Genshin Impact 6.2 Archon Quest Act 5 Full Walkthrough [4K 60FPS] - Nod-Krai Luna III | Headstart Gaming | 99 | <https://www.youtube.com/watch?v=eP5MBnc_05E> |
+| 2 h 38 min | Genshin Impact 6.2 Archon Quest Act 5 - "A Nocturne of the Far North" No commentary \|\| Full Gameplay | NotQualifiedEnough | 18 | <https://www.youtube.com/watch?v=2teeEdCge1Y> |
+| 2 h 38 min | A Nocturne of the Far North \| Nod-Krai Archon Quest Act V \| Genshin Impact | Davor Gaming | 38 | <https://www.youtube.com/watch?v=88kBBMlMlrA> |
+| 2 h 38 min | Song of the Welkin Moon: Act 5 - A Nocturne of the Far North [Genshin Impact 6.2] | esthetekgames | 53 | <https://www.youtube.com/watch?v=wiLXn4OozOg> |
+| 2 h 49 min | Drunk Trini does Nod Krai 6.2 Archon Quest A Nocturne of the Far North Act 5 | Must Be Chad | 33 | <https://www.youtube.com/watch?v=61Vgqo_QN2o> |
+| 2 h 52 min | A Nocturne of the Far North [Song of the Welkin Moon Act 5] 6 2 Genshin Impact | Rubieco | 164 | <https://www.youtube.com/watch?v=uDTPldOLPMk> |
+| 2 h 59 min | Genshin Impact (6.2) Luna 3 Act 5 [A Nocturne of the Far North] Full Game | FervidTwo Gaming | 15 | <https://www.youtube.com/watch?v=nS_p-lgvVCY> |
+| 3 h 00 min | A Nocturne of the Far North FULL QUEST Genshin Impact | WoW Quests | 24,390 | <https://www.youtube.com/watch?v=X64b9A0kTok> |
 | 3 h 01 min | 6.2 Archon Quest ACT 5: A Nocturne of the Far North \| Genshin Impact | Hoppie426TheGamer | 1 | <https://www.youtube.com/watch?v=dbiUnuhqUwk> |
+| 3 h 11 min | Version 6.2, A Nocturne of the Far North (Act 5) | 20th MIKE | 73 | <https://www.youtube.com/watch?v=UAyrmXB-b68> |
+| 3 h 47 min | "I WANT HER PLAYABLE NOW!" - A Nocturne of the Far North (Full Playthrough) #GenshinImpact | Lionmight Gaming | 490 | <https://www.youtube.com/watch?v=L0Y2TUo46G0> |
 
 </details>
 
@@ -250,8 +269,8 @@ and the search for Columbina's true name.
 
 North to Dottore's lab with the Fatui as temporary allies.
 
-- **Estimated length:** 2 h 56 min
-- **Sampled range:** 1 h 46 min to 3 h 16 min across 7 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 2 h 55 min
+- **Sampled range:** 1 h 46 min to 3 h 18 min across 22 playthrough uploads (24 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
@@ -263,12 +282,27 @@ North to Dottore's lab with the Fatui as temporary allies.
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
 | 1 h 46 min | A Traveler on a Winter's Night Song of the Welkin Moon Act VII Genshin Impact | ZaFrostPet | 11,375 | <https://www.youtube.com/watch?v=t4RL1Ib03C0> |
+| 2 h 25 min | Genshin Impact:Archon Quest:A Traveler On A Winter Night | Don27 | 5 | <https://www.youtube.com/watch?v=d2R0V9ZYoK8> |
+| 2 h 32 min | Genshin Impact PC \| A Traveler on a Winter’s Night – Main Story Quest Full Gameplay Part 1 | F2P | 15 | <https://www.youtube.com/watch?v=Kjihg9T-ezU> |
+| 2 h 38 min | Genshin Impact - A Traveler on a Winter's Night [ Act VII ] [ FULL QUEST ] | Arcade Glory | 40 | <https://www.youtube.com/watch?v=n-8rKbtVDbA> |
+| 2 h 43 min | [FULL] Luna IV Act 7 Archon Quest (Genshin Impact Version 6.3) Lumine POV | zhonglis mora | 4,465 | <https://www.youtube.com/watch?v=Ug3SxNvmTR8> |
+| 2 h 43 min | Genshin Impact 6.3 Nod-Krai Act 7 - New Archon Quest Full Walkthrough | Ryuzk | 742 | <https://www.youtube.com/watch?v=8w3E8f8K9uo> |
 | 2 h 44 min | Nod-Krai Act 7 Luna IV Archon Quest Full Story \| A Traveler On A Winter's Night \| Genshin Impact 6.3 | Noxxis Gaming | 3,088 | <https://www.youtube.com/watch?v=cqY46plcrhQ> |
+| 2 h 51 min | Nod-Krai Archon Quest ✦ ACT 7 ✦ Luna 4 / 6.3 ✦ Genshin Impact | Nara Haruna | 33 | <https://www.youtube.com/watch?v=8oeFYqQLl_U> |
+| 2 h 54 min | SWM- Act VII: A Traveler On a Winter’s Night – Complete Quest Walkthrough \| Genshin Impact | V0id | 45 | <https://www.youtube.com/watch?v=YzUXU_CRG_A> |
+| 2 h 54 min | Genshin Impact 6.3 Act VII : A Traveler on a Winter's Night & Act VIII : True Moon Full Story | MMOJACKX57 | 3,911 | <https://www.youtube.com/watch?v=3ZySKCuCD3k> |
 | 2 h 55 min | LUNA 4 Archon Quest - ACT 7 \| Genshin Impact | Infinity Iris Gaming | 1,130 | <https://www.youtube.com/watch?v=VkOuV_6tgt4> |
+| 2 h 56 min | Genshin Impact – Song of the Welkin Moon Act 7: A Traveler on a Winter's Night 🌙❄️ PART - 43 | BLACKOUT GAMING | 18 | <https://www.youtube.com/watch?v=puxLEZYhWAs> |
+| 2 h 56 min | A Traveler on a Winter's Night [Song of the Welkin Moon Act 7] 6.3 Genshin Impact | Rubieco | 117 | <https://www.youtube.com/watch?v=rBFCjG64lak> |
 | 2 h 56 min | A Traveler on a Winter's Night Full Archon Quest Walkthrough \| Genshin Impact 4K 60FPS RTX | RTXMonkey | 185 | <https://www.youtube.com/watch?v=dkpXAcBNoxU> |
+| 2 h 58 min | Genshin Impact 6 3 Full Walkthrough \| A Traveler on a Winter’s Night (Luna 4 Act 7) | LoRDMaX | 72 | <https://www.youtube.com/watch?v=4ZKXi2TGvtg> |
 | 3 h 01 min | A Traveler on a Winter's Night FULL QUEST Genshin Impact | WoW Quests | 15,268 | <https://www.youtube.com/watch?v=2uchNZ3YMpY> |
+| 3 h 01 min | A Traveler on a Winter's Night \| Genshin Impact 6.3 - Archon Quest Act 7 | Casual Oni | 12 | <https://www.youtube.com/watch?v=fuF1AcTnuR4> |
+| 3 h 07 min | Genshin Impact Luna IV Archon Quest ACT 7 full walkthrough | Lee | 53 | <https://www.youtube.com/watch?v=br1UrJutE4E> |
 | 3 h 09 min | Song of the Welkin Moon Act: VII - Complete Story \| Genshin Impact | Nyxienx | 31 | <https://www.youtube.com/watch?v=FjDMtWqvfwk> |
+| 3 h 09 min | Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII | Kuroyukihime | 66 | <https://www.youtube.com/watch?v=SWVwkwcJr5c> |
 | 3 h 16 min | Nod krai Archon Quest Act 7 "A Traveler on a Winter's Night" Walkthrough \| Genshin Impact \| Luna IV | Mikiyuki | 5 | <https://www.youtube.com/watch?v=o8YaGT3Bvbg> |
+| 3 h 18 min | 6.3 Archon Quest ACT 7: A Traveler on a Winter's Night \| Genshin Impact | Hoppie426TheGamer | 2 | <https://www.youtube.com/watch?v=hcbdUFqxDSk> |
 
 </details>
 
@@ -334,8 +368,8 @@ identities in Sumeru City have been switched around.
 Kaveh, Alhaitham, and Thoth open the Aaru,
 and Chapter III finally gets its title drop.
 
-- **Estimated length:** 4 h 23 min
-- **Sampled range:** 2 h 16 min to 7 h 00 min across 5 playthrough uploads (11 further candidates screened out)
+- **Estimated length:** 3 h 55 min
+- **Sampled range:** 1 h 57 min to 4 h 34 min across 11 playthrough uploads (34 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
@@ -346,11 +380,17 @@ and Chapter III finally gets its title drop.
 
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
+| 1 h 57 min | Archon Quest: Chapter III: Truth Amongst the Pages of Purana \ Act III: Dreams, Emptiness, Deception | Gameplay 4 All | 125 | <https://www.youtube.com/watch?v=0XiBaONPKvg> |
 | 2 h 16 min | Truth Amongst the Pages of Purana FULL QUEST Genshin Impact | WoW Quests | 25,291 | <https://www.youtube.com/watch?v=jQyiEYeCC3I> |
+| 2 h 21 min | Genshin Impact - Truth Amongst the Pages of Purana Full Quest Walkthrough (4K 60FPS) | Vanguard Gameplay 4K | 32 | <https://www.youtube.com/watch?v=fn2E3GbvFak> |
+| 2 h 30 min | Genshin Impact 6.6 Act 9 Truth Amongst the Pages of Purana - FULL Playthrough | HopTaku Gaming | 272 | <https://www.youtube.com/watch?v=7Rq75uxNZbA> |
+| 3 h 48 min | Genshin Impact 6.6 Luna 7 Act 10 Archon Quest Full Walkthrough | XPPathway | 69 | <https://www.youtube.com/watch?v=9yHHRq-pBBA> |
+| 3 h 55 min | Nod-Krai Archon Quest Act 10 – Luna VII \| Full Story Walkthrough | Ryuzk | 62 | <https://www.youtube.com/watch?v=VnWCSed4IIE> |
+| 4 h 04 min | Nod-Krai Act 10 Luna VII Archon Quest Full Story \| Of Myriad Paths, Flux, Dissolution \| Genshin 6.6 | Noxxis Gaming | 9,007 | <https://www.youtube.com/watch?v=8YcMkIFj1Xc> |
 | 4 h 13 min | Genshin Impact 6.6 Act 10 Truth Amongst the Pages of Purana - FULL Playthrough | HopTaku Gaming | 522 | <https://www.youtube.com/watch?v=oOu15S7LewQ> |
+| 4 h 18 min | Archon Quest \| Song of the Welkin Moon : Act X \| Truth Amongst the Pages of Purana \| Genshin Impact | Senthu Gamer | 8 | <https://www.youtube.com/watch?v=3lC4S_CVjhM> |
 | 4 h 23 min | Song of the Welkin Moon Act: X - Complete Story \| Genshin Impact | Nyxienx | 329 | <https://www.youtube.com/watch?v=S5tHS32UU3g> |
 | 4 h 34 min | Genshin Impact \| Song of the Welkin Moon: Act X \| Mission Walkthrough \| No Commentary | PangYe | 102 | <https://www.youtube.com/watch?v=Yc5wOb3YPH4> |
-| 7 h 00 min | Truth Amongst the Pages of Purana Full Quest \| Genshin Impact 6.6 (Luna VII) | jieun | 975 | <https://www.youtube.com/watch?v=Uk51BZq7LPw> |
 
 </details>
 

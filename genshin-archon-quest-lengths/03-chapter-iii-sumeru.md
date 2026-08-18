@@ -1,6 +1,6 @@
 # Chapter III: Truth Amongst the Pages of Purana
 
-**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 15 h 56 min**
+**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 02 min**
 
 The Akademiya has locked Sumeru's Archon away and rules through the Akasha.
 The Traveler frees Nahida from a looping dream,
@@ -11,14 +11,14 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 
 | Act | Title | Estimate | Sampled range | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Through Mists of Smoke and Forests Dark | 3 h 22 min | 1 h 42 min - 4 h 31 min | 8 | low |
+| Act I | Through Mists of Smoke and Forests Dark | 3 h 28 min | 1 h 42 min - 4 h 31 min | 14 | low |
 | Act II | The Morn a Thousand Roses Brings | 2 h 24 min | 1 h 26 min - 2 h 58 min | 10 | medium |
 | Act III | Dreams, Emptiness, Deception | 1 h 52 min | 1 h 43 min - 2 h 00 min | 9 | high |
 | Act IV | King Deshret and the Three Magi | 2 h 11 min | 1 h 18 min - 2 h 40 min | 8 | medium |
 | Act V | Akasha Pulses, the Kalpa Flame Rises | 4 h 31 min | 2 h 38 min - 5 h 14 min | 7 | medium |
 | Act VI | Caribert | 1 h 36 min | 1 h 15 min - 1 h 53 min | 9 | high |
 
-**Total: 15 h 56 min**
+**Total: 16 h 02 min**
 
 ## Pacing
 
@@ -36,8 +36,8 @@ Arrival in the rainforest with Collei and Tighnari:
 the Withering, Eleazar, the Aranara,
 and the Akasha's grip on Sumeru City.
 
-- **Estimated length:** 3 h 22 min
-- **Sampled range:** 1 h 42 min to 4 h 31 min across 8 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 3 h 28 min
+- **Sampled range:** 1 h 42 min to 4 h 31 min across 14 playthrough uploads (15 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
@@ -49,12 +49,18 @@ and the Akasha's grip on Sumeru City.
 | Length | Video title | Uploader | Views | URL |
 | --- | --- | --- | --- | --- |
 | 1 h 42 min | Genshin Impact 3.0 Chapter 3 Act 1: Through the Mists of Smoke and Forests Dark (Part 1) JP DUBBED | KCGamer | 23 | <https://www.youtube.com/watch?v=aoA_su1l7Zs> |
+| 2 h 11 min | Sumeru Changes EVERYTHING!! \| Genshin Impact 3.0 Archon Quest Act 1 | Doro44 | 97,671 | <https://www.youtube.com/watch?v=GHbUxD53xc4> |
+| 2 h 22 min | The Sumeru Archon Quest BEGINS! (ACT I PART 1) \| Genshin Impact 3.0 | BranOnline | 163,514 | <https://www.youtube.com/watch?v=bNl1s-2nruE> |
 | 2 h 28 min | Chapter 3: Act 1 - Through Mists of Smoke and Forests Dark \| Part 1 \| Archon Quest \| Genshin Impact | ASJ Gaming | 82 | <https://www.youtube.com/watch?v=OYQekUPOKt0> |
 | 3 h 15 min | 3.0 Sumeru Archon Quest Act 1 \| Through Mists of Smoke and Forests Dark - No Commentary EN Dub | Liloupar | 10 | <https://www.youtube.com/watch?v=9sv_zUmGYd0> |
 | 3 h 20 min | Genshin Impact FULL GAME [No Commentary] CH3 ACT I: Through Mists of Smoke and Forests Dark PART 10 | SilentPixie Gaming | 10 | <https://www.youtube.com/watch?v=lOVYHKDjhy4> |
 | 3 h 25 min | Archon Quest Chapter 3: Act 1 "Through Mists of Smoke and Forests Dark" \| 【Genshin Impact】 | LyurGG | 6,874 | <https://www.youtube.com/watch?v=bGx4WG0h820> |
 | 3 h 32 min | Genshin Impact Sumeru Archon Quest Act 1 \| Through the Mists of Smoke and Forests Dark\|No Commentary | Heedone Gaming | 41 | <https://www.youtube.com/watch?v=RB-5bevjrLY> |
+| 3 h 34 min | Through Mists Of Smoke And Forests Dark Full Story \| Sumeru 3.0 Archon Quest Part 1 \| Genshin Impact | Noxxis Gaming | 50,301 | <https://www.youtube.com/watch?v=US-q-fgQdzA> |
+| 3 h 36 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark | Mr. Moe's Game Quest | 3 | <https://www.youtube.com/watch?v=VQLtVxLGfTk> |
+| 3 h 44 min | JP Dub Sumeru Archon Quest Chapter 3 Act 1 - Through Mists of Smoke and Dark Forest - Genshin Impact | DimBra | 433 | <https://www.youtube.com/watch?v=Ms-Gb-VktE4> |
 | 3 h 54 min | Archon Quest "Chapter III: Act I - Through Mists of Smoke and Forests Dark" | Mystrix Gaming | 149,501 | <https://www.youtube.com/watch?v=euI6OPiji5k> |
+| 4 h 09 min | Through Mists of Smoke and Forest Dark - Chapter 3 ACT 1 Archon Quest \| Genshin Impact 3.0 | Streetwise Rhapsody | 7,058 | <https://www.youtube.com/watch?v=ZDpo1_hFrDs> |
 | 4 h 31 min | SUMERU ARCHON QUEST ⭐️ Chapter III: Act I - “Through Mists of Smoke and Forests Dark” NO COMMENTARY | Chiko | 9 | <https://www.youtube.com/watch?v=dp0i9w7vOi4> |
 
 </details>

@@ -1,0 +1,4 @@
+{chapter} {act_label} {act_title} full walkthrough no commentary
+{act_title} full quest gameplay
+{game} {number} Act {act_number} {act_title}
+{game} {version} archon quest act {act_number} walkthrough

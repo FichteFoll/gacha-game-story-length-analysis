@@ -156,7 +156,7 @@ and the primordial sea beginning to rise.
 The flood, Furina's five-hundred-year act,
 Focalors' self-execution,
 and Neuvillette taking the seat of judgment.
-Tied with Song of the Welkin Moon, Act I for the longest act in the game.
+The single longest act in the game.
 
 - **Estimated length:** 4 h 50 min
 - **Sampled range:** 4 h 15 min to 6 h 43 min across 8 playthrough uploads (4 further candidates screened out)
