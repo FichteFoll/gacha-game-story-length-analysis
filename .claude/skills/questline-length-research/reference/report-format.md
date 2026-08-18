@@ -25,9 +25,9 @@ so a re-harvest can regenerate every file.
 
 ## At a glance
 
-| Act | Title | Estimate | Sampled range | Uploads | Confidence |
+| Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | ... | 2 h 32 min | 1 h 36 min - 3 h 08 min | 9 | medium |
+| Act I | ... | 2 h 32 min | 2 h 11 min - 2 h 48 min | 9 | medium |
 
 **Total: H h MM min**
 
@@ -43,18 +43,23 @@ traversal load, acts that are outliers and why>
 <one or two lines on what happens, no spoiler warning theatre, just the beats>
 
 - **Estimated length:** 2 h 32 min
-- **Sampled range:** 1 h 36 min to 3 h 08 min across 9 playthrough uploads (5 further candidates screened out)
+- **Sampled range:** 2 h 11 min to 2 h 48 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (5 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
-- **Released in:** 5.0
-- **Quest parts (3):** Part one; Part two; Part three
+- **Released in:** Luna VII (6.6)
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 4 of 9 uploads
+- **Quest parts (3):** Part one (34 min); Part two (56 min); Part three
 
 <details>
 <summary>Evidence</summary>
 
-| Length | Video title | Uploader | Views | URL |
-| --- | --- | --- | --- | --- |
-| 1 h 36 min | ... | ... | 12,345 | <https://www.youtube.com/watch?v=...> |
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 1 h 36 min | ... | ... | 12,345 | 2026-05-20 | <https://www.youtube.com/watch?v=...> |
+
+A `~` on a view count marks one that is still the rounded figure
+from the search listing rather than an exact one.
 
 </details>
 
