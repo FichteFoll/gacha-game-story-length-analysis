@@ -27,7 +27,7 @@ The most consistently long chapter,
 with five of its six acts above two hours
 and Act V, at 4 h 50 min, as its centrepiece.
 Fontaine's acts are cutscene-dense rather than traversal-dense,
-which is why the sampled uploads agree unusually closely.
+which is why the sampled uploads agree as closely as they do.
 
 ## Acts
 

@@ -22,7 +22,7 @@ and confronts the Raiden Shogun over what eternity costs her people.
 
 ## Pacing
 
-The most uneven chapter in the game.
+Uneven in a way the earlier chapters are not.
 Act I and Act III are marathon acts of 2 h 55 min and 2 h 22 min,
 while Act II consists of only two quest parts
 and takes 50 min.

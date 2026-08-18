@@ -40,7 +40,7 @@ CHAPTERS = [
               "The Traveler joins the Watatsumi resistance, \n"
               "kills the Fatui Harbinger Signora in a duel, \n"
               "and confronts the Raiden Shogun over what eternity costs her people.",
-        pacing="The most uneven chapter in the game. \n"
+        pacing="Uneven in a way the earlier chapters are not. \n"
                "Act I and Act III are marathon acts of {len_Act_I} and {len_Act_III}, \n"
                "while Act II consists of only {parts_Act_II} quest parts \n"
                "and takes {len_Act_II}. \n"
@@ -74,7 +74,7 @@ CHAPTERS = [
                "with {n_above_2h} of its {n_entries} acts above two hours \n"
                "and Act V, at {len_Act_V}, as its centrepiece. \n"
                "Fontaine's acts are cutscene-dense rather than traversal-dense, \n"
-               "which is why the sampled uploads agree unusually closely.",
+               "which is why the sampled uploads agree as closely as they do.",
     ),
     dict(
         id="ch5", slug="05-chapter-v-natlan", wiki_page="Chapter V", region="Natlan",
