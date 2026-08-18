@@ -120,5 +120,10 @@ are the screening inputs described under Method.
 and `gen_docs.py` renders these markdown files from `analysis.json`.
 Re-running `analyze.py` over the harvested evidence
 reproduces `data/analysis.json` exactly.
+- Every figure in the prose is interpolated from `analysis.json`
+by `pipeline/facts.py` rather than written by hand,
+and the claims the prose makes in words
+are asserted in `pipeline/claims.py` before any file is written.
+A claim that no longer holds fails the build.
 
 Data collected 2026-08-18.

@@ -1,9 +1,17 @@
 #!/usr/bin/env python3
-"""Render the per-chapter markdown reports from analysis.json and the authored prose."""
+"""Render the per-chapter markdown reports from analysis.json and the authored prose.
+
+Usage: gen_docs.py [--no-verify]
+
+Every claim in claims.py is checked against analysis.json before anything is
+written; --no-verify renders anyway, for inspecting what a failing claim produces.
+"""
 import json
 import pathlib
+import sys
 
 from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
+from claims import failures
 from facts import chapter_facts, chapter_total, hm, median_of, superlatives
 
 OUT = pathlib.Path(__file__).parent.parent
@@ -274,6 +282,11 @@ def readme(chapters, by_chapter):
         "and `gen_docs.py` renders these markdown files from `analysis.json`. \n"
         "Re-running `analyze.py` over the harvested evidence \n"
         "reproduces `data/analysis.json` exactly.",
+        "- Every figure in the prose is interpolated from `analysis.json` \n"
+        "by `pipeline/facts.py` rather than written by hand, \n"
+        "and the claims the prose makes in words \n"
+        "are asserted in `pipeline/claims.py` before any file is written. \n"
+        "A claim that no longer holds fails the build.",
         "",
         f"Data collected {DATE}.",
         "",
@@ -284,10 +297,21 @@ def readme(chapters, by_chapter):
 DATE = "2026-08-18"
 
 
-def main():
+def main(argv):
+    verify = "--no-verify" not in argv[1:]
     analysis = json.loads((DATA / "analysis.json").read_text())
     quest_parts = json.loads((DATA / "quest_parts.json").read_text())
     versions = json.loads((DATA / "versions.json").read_text())
+    broken = failures(analysis)
+    if broken:
+        print("the prose no longer matches the data:\n", file=sys.stderr)
+        for line in broken:
+            print(f"  {line}\n", file=sys.stderr)
+        if verify:
+            print(f"{len(broken)} claim(s) failed, nothing written "
+                  f"(--no-verify to render anyway)", file=sys.stderr)
+            return 1
+
     superlative = superlatives(analysis)
     by_chapter = {}
     for act in analysis:
@@ -300,7 +324,8 @@ def main():
         print("wrote", chap["slug"] + ".md")
     write(OUT / "README.md", readme(CHAPTERS, by_chapter))
     print("wrote README.md")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main(sys.argv))
