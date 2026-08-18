@@ -160,6 +160,7 @@ and Capitano's end.
 Just one quest part:
 the tribes rebuild after the invasion.
 A deliberate cooldown between Act IV and Act V.
+One of the three shortest entries in the questline.
 
 - **Estimated length:** 50 min
 - **Sampled range:** 35 min to 1 h 03 min across 9 playthrough uploads (1 further candidates screened out)

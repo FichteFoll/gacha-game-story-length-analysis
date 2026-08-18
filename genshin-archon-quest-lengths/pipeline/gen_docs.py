@@ -4,7 +4,7 @@ import json
 import pathlib
 
 from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
-from facts import chapter_facts, chapter_total, hm, median_of
+from facts import chapter_facts, chapter_total, hm, median_of, superlatives
 
 OUT = pathlib.Path(__file__).parent.parent
 DATA = OUT / "data"
@@ -69,14 +69,16 @@ def evidence_table(act):
     return "\n".join(lines)
 
 
-def act_section(act, parts, versions, facts):
+def act_section(act, parts, versions, facts, superlative):
     key = f"{act['chapter_id']}|{act['act_label']}"
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
+    note = "\n".join(filter(None, [prose(ACT_NOTES.get(key, ""), facts),
+                                   superlative.get(key)]))
     body = [
         f"### {act['act_label']} - {wiki_link(act['act_title'])}",
         "",
-        prose(ACT_NOTES.get(key, ""), facts),
+        note,
         "",
         f"- **Estimated length:** {hm(s['median'])}",
         f"- **Sampled range:** {hm(s['low'])} to {hm(s['high'])} "
@@ -94,7 +96,7 @@ def act_section(act, parts, versions, facts):
     return "\n".join(body)
 
 
-def chapter_doc(chap, acts, quest_parts, versions):
+def chapter_doc(chap, acts, quest_parts, versions, superlative):
     total = chapter_total(acts)
     facts = chapter_facts(acts, quest_parts)
     head = [
@@ -121,7 +123,7 @@ def chapter_doc(chap, acts, quest_parts, versions):
              prose(chap["pacing"], facts), "", "## Acts", ""]
     for a in acts:
         parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
-        head.append(act_section(a, parts, versions, facts))
+        head.append(act_section(a, parts, versions, facts, superlative))
     head += [
         "## Sources",
         "",
@@ -286,12 +288,14 @@ def main():
     analysis = json.loads((DATA / "analysis.json").read_text())
     quest_parts = json.loads((DATA / "quest_parts.json").read_text())
     versions = json.loads((DATA / "versions.json").read_text())
+    superlative = superlatives(analysis)
     by_chapter = {}
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)
 
     for chap in CHAPTERS:
-        doc = chapter_doc(chap, by_chapter[chap["id"]], quest_parts, versions)
+        doc = chapter_doc(chap, by_chapter[chap["id"]], quest_parts, versions,
+                          superlative)
         write(OUT / f"{chap['slug']}.md", doc)
         print("wrote", chap["slug"] + ".md")
     write(OUT / "README.md", readme(CHAPTERS, by_chapter))

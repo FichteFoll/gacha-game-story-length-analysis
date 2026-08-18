@@ -31,7 +31,7 @@ and finally deliver the Chapter III title drop.
 By far the largest chapter: eleven entries,
 and a running time of 35 h 53 min,
 comparable to Sumeru and Fontaine combined.
-Act I alone is the single longest act in the game, at 4 h 50 min.
+Act I alone runs 4 h 50 min.
 The later acts are also the most recent content sampled,
 so their evidence pools are the thinnest and their spreads the widest.
 
@@ -71,7 +71,7 @@ Ineffa's introduction.
 
 Departure from Natlan and arrival in Nod-Krai,
 with Sandrone already tracking the Traveler.
-The single longest act in the game.
+Tied with Chapter IV, Act V for the longest act in the game.
 
 - **Estimated length:** 4 h 50 min
 - **Sampled range:** 3 h 22 min to 7 h 36 min across 8 playthrough uploads (3 further candidates screened out)

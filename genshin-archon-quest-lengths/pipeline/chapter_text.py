@@ -28,8 +28,8 @@ CHAPTERS = [
                "Acts II and III ({len_Act_II} and {len_Act_III}) \n"
                "roughly double the Prologue's per-act length, \n"
                "largely because of the Osial set piece and the Childe fight. \n"
-               "Act IV - Prelude is the shortest entry in the entire questline, \n"
-               "a single conversation-heavy quest with Dainsleif.",
+               "Act IV - Prelude is a single conversation-heavy quest \n"
+               "with Dainsleif, at {len_Act_IV_Prelude}.",
     ),
     dict(
         id="ch2", slug="02-chapter-ii-inazuma", wiki_page="Chapter II", region="Inazuma",
@@ -57,8 +57,7 @@ CHAPTERS = [
               "and storms the Divine Throne to break the Akademiya's god-making project.",
         pacing="Where the questline changes scale, \n"
                "with {n_above_2h} of the {n_entries} acts past two hours \n"
-               "and Act V as the chapter centrepiece at {len_Act_V}, \n"
-               "one of the three longest acts in the game. \n"
+               "and Act V as the chapter centrepiece at {len_Act_V}. \n"
                "Sumeru also adds heavy traversal, \n"
                "so uploads vary more here than in earlier chapters.",
     ),
@@ -73,7 +72,7 @@ CHAPTERS = [
               "and watches Focalors execute herself to void the prophecy.",
         pacing="The most consistently long chapter, \n"
                "with {n_above_2h} of its {n_entries} acts above two hours \n"
-               "and Act V, at {len_Act_V}, the longest act outside Nod-Krai. \n"
+               "and Act V, at {len_Act_V}, as its centrepiece. \n"
                "Fontaine's acts are cutscene-dense rather than traversal-dense, \n"
                "which is why the sampled uploads agree unusually closely.",
     ),
@@ -104,7 +103,7 @@ CHAPTERS = [
         pacing="By far the largest chapter: {n_entries} entries, \n"
                "and a running time of {total}, \n"
                "comparable to Sumeru and Fontaine combined. \n"
-               "Act I alone is the single longest act in the game, at {len_Act_I}. \n"
+               "Act I alone runs {len_Act_I}. \n"
                "The later acts are also the most recent content sampled, \n"
                "so their evidence pools are the thinnest and their spreads the widest.",
     ),
@@ -169,8 +168,7 @@ ACT_NOTES = {
                   "chasing King Deshret's legacy and the cause of Eleazar.",
     "ch3|Act V": "The assault on the Divine Throne: \n"
                  "Shouki no Kami, one of Dottore's segments, \n"
-                 "and Nahida taking back the Akasha. \n"
-                 "One of the three longest acts in the game.",
+                 "and Nahida taking back the Akasha.",
     "ch3|Act VI": "Traveler chapter: Dainsleif, Kaeya, \n"
                   "and the sinner Caribert at the edge of Khaenri'ah.",
     "ch4|Act I": "Fontaine, Lyney and Lynette, \n"
@@ -184,8 +182,7 @@ ACT_NOTES = {
                   "and the primordial sea beginning to rise.",
     "ch4|Act V": "The flood, Furina's five-hundred-year act, \n"
                  "Focalors' self-execution, \n"
-                 "and Neuvillette taking the seat of judgment. \n"
-                 "The longest act outside Nod-Krai.",
+                 "and Neuvillette taking the seat of judgment.",
     "ch4|Act VI": "Traveler chapter: a cold case in Fontaine \n"
                   "that turns into memories that should not exist.",
     "ch5|Act I": "Farewells in Fontaine, then Natlan: \n"
@@ -209,8 +206,7 @@ ACT_NOTES = {
                      "and a strange woman washed ashore looking for someone. \n"
                      "Ineffa's introduction.",
     "sotwm|Act I": "Departure from Natlan and arrival in Nod-Krai, \n"
-                   "with Sandrone already tracking the Traveler. \n"
-                   "The single longest act in the game.",
+                   "with Sandrone already tracking the Traveler.",
     "sotwm|Act II": "Nasha Town under Wild Hunt incursion, \n"
                     "the Kuuvahki Cannon repair, \n"
                     "and Rerir regaining physical form.",

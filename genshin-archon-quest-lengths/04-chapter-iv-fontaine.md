@@ -25,7 +25,7 @@ and watches Focalors execute herself to void the prophecy.
 
 The most consistently long chapter,
 with five of its six acts above two hours
-and Act V, at 4 h 50 min, the longest act outside Nod-Krai.
+and Act V, at 4 h 50 min, as its centrepiece.
 Fontaine's acts are cutscene-dense rather than traversal-dense,
 which is why the sampled uploads agree unusually closely.
 
@@ -156,7 +156,7 @@ and the primordial sea beginning to rise.
 The flood, Furina's five-hundred-year act,
 Focalors' self-execution,
 and Neuvillette taking the seat of judgment.
-The longest act outside Nod-Krai.
+Tied with Song of the Welkin Moon, Act I for the longest act in the game.
 
 - **Estimated length:** 4 h 50 min
 - **Sampled range:** 4 h 15 min to 6 h 43 min across 8 playthrough uploads (4 further candidates screened out)

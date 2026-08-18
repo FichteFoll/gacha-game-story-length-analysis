@@ -90,6 +90,7 @@ and a first audience with the Raiden Shogun that ends in defeat.
 Only two quest parts:
 joining Sangonomiya Kokomi's resistance
 and uncovering the Delusion factory.
+One of the three shortest entries in the questline.
 
 - **Estimated length:** 50 min
 - **Sampled range:** 43 min to 1 h 01 min across 11 playthrough uploads (1 further candidates screened out)

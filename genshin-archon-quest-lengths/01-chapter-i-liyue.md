@@ -25,8 +25,8 @@ A clear step up from the Prologue:
 Acts II and III (1 h 49 min and 2 h 00 min)
 roughly double the Prologue's per-act length,
 largely because of the Osial set piece and the Childe fight.
-Act IV - Prelude is the shortest entry in the entire questline,
-a single conversation-heavy quest with Dainsleif.
+Act IV - Prelude is a single conversation-heavy quest
+with Dainsleif, at 37 min.
 
 ## Acts
 
@@ -120,6 +120,7 @@ and Zhongli reveals that the whole thing was his own retirement plan.
 
 A single quest: Dainsleif introduces himself
 and the Khaenri'ah backstory behind the Abyss Order.
+The shortest entry in the questline.
 
 - **Estimated length:** 37 min
 - **Sampled range:** 27 min to 52 min across 9 playthrough uploads (2 further candidates screened out)
