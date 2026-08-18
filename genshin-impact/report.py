@@ -1,4 +1,45 @@
-"""Authored prose for the report: chapter framing and per-act one-liners."""
+"""This report's configuration and its authored prose.
+
+The generic renderer in the skill's `gen_docs.py` reads everything game-specific
+from here: what the questline and its level gate are called, which wiki page
+documents the structure, and the framing prose the method text sits between.
+No number is written down here; the prose carries placeholders that `facts.py`
+fills at render time.
+"""
+
+REPORT = dict(
+    title="Genshin Impact Archon Questline: How Long Each Act Takes",
+    intro="Duration estimates for every main act of the Archon Quest storyline, \n"
+          "from the Mondstadt Prologue to Chapter VII, \n"
+          "each one backed by the YouTube playthroughs it was measured from.",
+    # The wiki page that documents the questline as a whole, linked from the
+    # method section and from every chapter's sources.
+    overview_page="Archon Quest",
+    # The account-level requirement acts are gated behind, as the game names it.
+    # None for a game that gates its story some other way.
+    gate_label="Adventure Rank",
+    publisher="HoYoverse",
+    # What the searches in data/query_templates.txt do, in words.
+    queries="For every act, YouTube was searched four ways: \n"
+            "by chapter plus act label plus act title, by act title alone, \n"
+            "and twice by the patch branding recent uploads use instead of act titles \n"
+            "(\"Genshin Impact 6.6 Act 10 ...\").",
+    # Two compilation titles this game's uploaders actually use, for the reader.
+    compilations="\"Acts 9 & 10\" or \"Full Sumeru Archon Quest\"",
+    # Limits of this report in particular, beyond the ones every report shares.
+    caveats=[
+        "The newest acts (Nod-Krai's later acts, Chapter VII) \n"
+        "have the fewest uploads to draw on, \n"
+        "so their figures are the softest. \n"
+        "They are marked *low* or *medium* confidence accordingly.",
+        "Interlude Chapter acts \n"
+        "(*The Crane Returns on the Wind*, *Perilous Trail*, \n"
+        "*Inversion of Genesis*, *Paralogism*) \n"
+        "are Archon Quests but not part of the main chapter progression, \n"
+        "so they are outside this report's scope.",
+    ],
+    date="2026-08-18",
+)
 
 CHAPTERS = [
     dict(
@@ -235,10 +276,10 @@ ACT_NOTES = {
 }
 
 # Adventure Rank gates, from the Archon Quest overview page.
-AR = {
+GATES = {
     "prologue|Act I": "-", "prologue|Act II": "10", "prologue|Act III": "18",
     "ch1|Act I": "23", "ch1|Act II": "25", "ch1|Act III": "28",
     "ch1|Act IV - Prelude": "28", "ch1|Act IV": "28",
     "ch7|Act I": "18", "ch7|Act II": "-",
 }
-AR_DEFAULT = {"ch2": "30", "ch3": "35", "ch4": "40", "ch5": "40", "sotwm": "40"}
+GATE_DEFAULT = {"ch2": "30", "ch3": "35", "ch4": "40", "ch5": "40", "sotwm": "40"}

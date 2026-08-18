@@ -1,10 +1,10 @@
-"""Assertions over analysis.json for what the prose still says in words.
+"""The vocabulary a report's claims.py writes its assertions in.
 
 Figures the prose interpolates cannot go stale. Adjectives can: "marathon acts",
 "the chapter centrepiece", "by far the largest chapter" are claims about the data
-that survive any re-harvest unchallenged. Each one is written down here next to
-the sentence it guards, and gen_docs.py evaluates the lot before it writes a
-single file.
+that survive any re-harvest unchallenged. Each one is written down in the report's
+own `claims.py` next to the sentence it guards, and gen_docs.py evaluates the lot
+before it writes a single file.
 
 Vocabulary:
     count_above(chapter, minutes, n)      at least n entries longer than `minutes`
@@ -89,49 +89,13 @@ def largest_chapter(chapter, quote):
     return Claim(quote, f"{chapter}: largest chapter", check)
 
 
-CLAIMS = [
-    median_between("prologue", "Act I", 45, 75,
-                   "Every act here lands within about a quarter hour of an hour"),
-    median_between("prologue", "Act II", 45, 75,
-                   "Every act here lands within about a quarter hour of an hour"),
-    median_between("prologue", "Act III", 45, 75,
-                   "Every act here lands within about a quarter hour of an hour"),
-
-    median_between("ch1", "Act II", 100, 140,
-                   "Acts II and III roughly double the Prologue's per-act length"),
-    median_between("ch1", "Act III", 100, 140,
-                   "Acts II and III roughly double the Prologue's per-act length"),
-
-    median_between("ch2", "Act I", 120, 240, "marathon acts"),
-    median_between("ch2", "Act III", 120, 240, "marathon acts"),
-    is_extreme("ch2", "Act II", "min", "while Act II consists of only two quest "
-               "parts and takes {len_Act_II}"),
-
-    count_above("ch3", 120, 4, "Where the questline changes scale"),
-    is_extreme("ch3", "Act V", "max", "Act V as the chapter centrepiece"),
-
-    count_above("ch4", 120, 5, "The most consistently long chapter"),
-    is_extreme("ch4", "Act V", "max", "and Act V, at {len_Act_V}, as its centrepiece"),
-
-    is_extreme("ch5", "Interlude", "min", "The Interlude is the exception"),
-
-    largest_chapter("sotwm", "By far the largest chapter"),
-    total_ratio_between("sotwm", ["ch3", "ch4"], 0.9, 1.2,
-                        "a running time comparable to Sumeru and Fontaine combined"),
-    rank_at_most("sotwm", "Act I", 3, "Act I alone runs {len_Act_I}", scope="global"),
-
-    rank_at_most("ch7", "Act I", 10, "but both are long", scope="global"),
-    rank_at_most("ch7", "Act II", 10, "but both are long", scope="global"),
-]
-
-
-def failures(analysis):
+def failures(analysis, claims):
     """Every claim that no longer holds, as human-readable lines."""
     index = {}
     for act in analysis:
         index.setdefault(act["chapter_id"], []).append(act)
     out = []
-    for claim in CLAIMS:
+    for claim in claims:
         ok, detail = claim.check(index)
         if not ok:
             out.append(f"{claim.describe}\n    but {detail}\n    guards: "

@@ -1,31 +1,37 @@
 #!/usr/bin/env python3
 """Render the per-chapter markdown reports from analysis.json and the authored prose.
 
-Usage: gen_docs.py [--no-verify]
+Usage: gen_docs.py <reportdir> [--no-verify]
 
-Every claim in claims.py is checked against analysis.json before anything is
-written; --no-verify renders anyway, for inspecting what a failing claim produces.
+Reads  <reportdir>/report.py    the game's configuration and the authored prose
+       <reportdir>/claims.py    what that prose asserts about the data
+       <reportdir>/data/        the vault, analysis.json above all
+Writes <reportdir>/README.md    index, method and caveats
+       <reportdir>/<slug>.md    one per chapter, in story order
+
+Every claim in the report's claims.py is checked against analysis.json before
+anything is written; --no-verify renders anyway, for inspecting what a failing
+claim produces.
+
+Nothing here is game-specific: what the questline, its level gate and its wiki
+are called comes from report.py and data/wiki.json, so a second game is a new
+report directory rather than a second copy of this file.
 """
 import json
 import pathlib
 import sys
 
-from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS
-from claims import failures
-from facts import chapter_facts, chapter_total, hm, median_of, superlatives
+from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
+                     UNSTABLE_DRIFT)
+from assertions import failures
+from facts import chapter_facts, chapter_total, hm, median_of, superlatives, word
+from queries import RECENT_VERSIONS
 
-OUT = pathlib.Path(__file__).parent.parent
-DATA = OUT / "data"
-
-WIKI = "https://genshin-impact.fandom.com/wiki/"
-
-# Nothing rates above low on fewer than eight uploads, whatever its spread: a
-# handful of uploads that happen to agree is a coincidence, not a measurement.
-# From eight on there is an interquartile range, and it is held to these factors.
-MIN_SAMPLES = 8
+# The interquartile factors the confidence rating is graded on. Their companion
+# thresholds (the eight-upload floor, the 10 percent drift) come from analyze.py,
+# which screens against the same numbers.
 SPREAD_HIGH = 1.25
 SPREAD_MEDIUM = 1.5
-UNSTABLE_DRIFT = 0.10   # median move against an earlier query set that means "soft"
 
 
 def write(path, text):
@@ -80,13 +86,34 @@ def confidence(stats):
     return "medium" if ratio <= SPREAD_MEDIUM else "low"
 
 
-def ar_for(act):
-    key = f"{act['chapter_id']}|{act['act_label']}"
-    return AR.get(key, AR_DEFAULT.get(act["chapter_id"], "-"))
+class Report:
+    """One report directory: its configuration, its prose and its wiki."""
 
+    def __init__(self, path):
+        self.path = pathlib.Path(path)
+        self.data = self.path / "data"
+        sys.path.insert(0, str(self.path))
+        import claims
+        import report
+        self.claims = claims.CLAIMS
+        self.config = report.REPORT
+        self.chapters = report.CHAPTERS
+        self.act_notes = report.ACT_NOTES
+        self.gates = report.GATES
+        self.gate_default = report.GATE_DEFAULT
+        wiki = json.loads((self.data / "wiki.json").read_text())
+        self.wiki_name = wiki["name"]
+        self.wiki = f"https://{wiki['host']}/wiki/"
 
-def wiki_link(title):
-    return f"[{title}]({WIKI}{title.replace(' ', '_')})"
+    def json(self, name):
+        return json.loads((self.data / name).read_text())
+
+    def link(self, title):
+        return f"[{title}]({self.wiki}{title.replace(' ', '_')})"
+
+    def gate_for(self, act):
+        key = f"{act['chapter_id']}|{act['act_label']}"
+        return self.gates.get(key, self.gate_default.get(act["chapter_id"], "-"))
 
 
 def views(row):
@@ -128,14 +155,14 @@ def part_list(parts, timings):
                      for p in parts)
 
 
-def act_section(act, parts, versions, version_index, facts, superlative):
+def act_section(report, act, parts, versions, version_index, facts, superlative):
     key = f"{act['chapter_id']}|{act['act_label']}"
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
-    note = "\n".join(filter(None, [prose(ACT_NOTES.get(key, ""), facts),
+    note = "\n".join(filter(None, [prose(report.act_notes.get(key, ""), facts),
                                    superlative.get(key)]))
     body = [
-        f"### {act['act_label']} - {wiki_link(act['act_title'])}",
+        f"### {act['act_label']} - {report.link(act['act_title'])}",
         "",
         note,
         "",
@@ -144,9 +171,11 @@ def act_section(act, parts, versions, version_index, facts, superlative):
         f"across {s['n']} playthrough uploads "
         f"({plural(screened, 'further candidate')} screened out)",
         f"- **Confidence:** {confidence(s)}",
-        f"- **Adventure Rank gate:** {ar_for(act)}",
-        f"- **Released in:** {released_in(act, versions, version_index)}",
     ]
+    if report.config["gate_label"]:
+        body.append(f"- **{report.config['gate_label']} gate:** "
+                    f"{report.gate_for(act)}")
+    body.append(f"- **Released in:** {released_in(act, versions, version_index)}")
     if s.get("drift") is not None:
         body.append(f"- **Stability:** median {s['drift']:+.0%} "
                     f"against an earlier, independent query set")
@@ -161,7 +190,8 @@ def act_section(act, parts, versions, version_index, facts, superlative):
     return "\n".join(body)
 
 
-def chapter_doc(chap, acts, quest_parts, versions, version_index, superlative):
+def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
+                superlative):
     total = chapter_total(acts)
     facts = chapter_facts(acts, quest_parts)
     head = [
@@ -189,14 +219,19 @@ def chapter_doc(chap, acts, quest_parts, versions, version_index, superlative):
              prose(chap["pacing"], facts), "", "## Acts", ""]
     for a in acts:
         parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
-        head.append(act_section(a, parts, versions, version_index, facts,
+        head.append(act_section(report, a, parts, versions, version_index, facts,
                                 superlative))
+    overview = report.config["overview_page"]
+    gate = report.config["gate_label"]
+    sourced = "Questline structure, act titles, quest parts"
+    if gate:
+        sourced += f" and {gate} gates"
     head += [
         "## Sources",
         "",
-        f"- Questline structure, act titles, quest parts and Adventure Rank gates: "
-        f"{wiki_link(chap['wiki_page'])} "
-        f"and [Archon Quest]({WIKI}Archon_Quest) on the Genshin Impact Wiki (Fandom).",
+        f"- {sourced}: "
+        f"{report.link(chap['wiki_page'])} "
+        f"and {report.link(overview)} on the {report.wiki_name} (Fandom).",
         "- Durations: the YouTube uploads listed under each act above. \n"
         "See [README.md](README.md) for the method and its limits.",
         "",
@@ -204,73 +239,31 @@ def chapter_doc(chap, acts, quest_parts, versions, version_index, superlative):
     return "\n".join(head)
 
 
-def readme(chapters, by_chapter):
-    grand = sum(chapter_total(acts) for acts in by_chapter.values())
-    n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
-    n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
-    lines = [
-        "# Genshin Impact Archon Questline: How Long Each Act Takes",
-        "",
-        "Duration estimates for every main act of the Archon Quest storyline, \n"
-        "from the Mondstadt Prologue to Chapter VII, \n"
-        "each one backed by the YouTube playthroughs it was measured from.",
-        "",
-        f"**Total for the whole main questline: {hm(grand)}** "
-        f"({sum(len(a) for a in by_chapter.values())} entries "
-        f"counting acts, preludes and interludes, "
-        f"measured against {n_videos} accepted uploads "
-        f"out of {n_screened} candidates).\n"
-        "That figure is the sum of the per-act medians, "
-        "so treat it as an order of magnitude "
-        "rather than a number anyone actually clocked end to end.",
-        "",
-        "## Chapters",
-        "",
-        "| Chapter | Region | Versions | Entries | Estimated length | Detail |",
-        "| --- | --- | --- | --- | --- | --- |",
-    ]
-    for chap in chapters:
-        acts = by_chapter[chap["id"]]
-        total = chapter_total(acts)
-        lines.append(
-            f"| {chap['title']} | {chap['region']} | {chap['versions']} "
-            f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
-    lines += [
-        "",
-        "## Longest and shortest acts",
-        "",
-        "| | Act | Estimate |",
-        "| --- | --- | --- |",
-    ]
-    ranked = sorted((a for acts in by_chapter.values() for a in acts),
-                    key=median_of)
-    for a in reversed(ranked[-5:]):
-        lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
-                     f"{a['act_label']}: {a['act_title']} "
-                     f"| {hm(a['stats']['median'])} |")
-    for a in ranked[:3]:
-        lines.append(f"| shortest | {a['chapter_title'].split(':')[0]}, "
-                     f"{a['act_label']}: {a['act_title']} "
-                     f"| {hm(a['stats']['median'])} |")
-    lines += [
-        "",
-        "## Method",
-        "",
+def method(report):
+    """The pipeline, described for a reader who did not run it.
+
+    Every threshold quoted here is interpolated from the constant that enforces
+    it, so a change to the screening cannot leave the method text describing the
+    old one.
+    """
+    overview = report.config["overview_page"]
+    gate = report.config["gate_label"]
+    sourced = "The chapter and act list, the act titles, the quest parts"
+    if gate:
+        sourced += f" \nand the {gate} gates"
+    return [
         "1. **Structure from the wiki.** \n"
-        "The chapter and act list, the act titles, the quest parts \n"
-        "and the Adventure Rank gates come from the \n"
-        "[Archon Quest page](https://genshin-impact.fandom.com/wiki/Archon_Quest) \n"
-        "and the individual chapter and act pages of the Genshin Impact Wiki. \n"
+        f"{sourced} come from the \n"
+        f"[{overview} page]({report.wiki}{overview.replace(' ', '_')}) \n"
+        f"and the individual chapter and act pages of the {report.wiki_name}. \n"
         "Fandom serves a Cloudflare challenge to plain HTTP clients, \n"
         "so the pages were read through the MediaWiki API \n"
         "(`/api.php?action=query&prop=revisions&rvprop=content`) instead.",
         "",
         "2. **Durations from playthrough uploads.** \n"
-        "For every act, YouTube was searched four ways: \n"
-        "by chapter plus act label plus act title, by act title alone, \n"
-        "and twice by the patch branding recent uploads use instead of act titles \n"
-        "(\"Genshin Impact 6.6 Act 10 ...\"). \n"
-        "Acts released within the last four versions are searched twice as deep, \n"
+        f"{report.config['queries']} \n"
+        f"Acts released within the last {word(RECENT_VERSIONS)} versions "
+        f"are searched twice as deep, \n"
         "because they have far fewer uploads to draw on. \n"
         "Each result was collected with its runtime, title, uploader, \n"
         "view count and URL.",
@@ -295,7 +288,7 @@ def readme(chapters, by_chapter):
         "turns an upload covering two acts into evidence for each of them, \n"
         "and, where enough uploads marked the same quest part, \n"
         "gives that part its own median. \n"
-        "A marker set that covers less than 60 percent \n"
+        f"A marker set that covers less than {round(SPAN_COVERAGE * 100)} percent \n"
         "of a single-act upload is ignored: \n"
         "those markers were something other than the quest parts, \n"
         "and trusting them would under-measure the act.",
@@ -305,38 +298,44 @@ def readme(chapters, by_chapter):
         "a hands-on playthrough of exactly that act: \n"
         "cutscene reels, cinematic edits, lore explainers, guides and reaction videos; \n"
         "livestreams and let's-plays, whose idle chatter inflates runtime; \n"
-        "multi-act compilations such as \"Acts 9 & 10\" or \"Full Sumeru Archon Quest\", \n"
+        f"multi-act compilations such as {report.config['compilations']}, \n"
         "unless their chapter markers located this act inside them; \n"
         "and uploads whose title does not name the act \n"
         "either by name or by chapter plus act number. \n"
-        "Of the survivors, anything below half or above 1.8 times the median \n"
+        f"Of the survivors, anything below half or above {LONG_OUTLIER} times "
+        f"the median \n"
         "is dropped as a truncated or padded upload.",
         "",
         "6. **Estimate.** \n"
         "The published figure is the **median** of the accepted uploads. \n"
-        "From eight uploads on, the published range is the **middle half** \n"
+        f"From {word(MIN_SAMPLES)} uploads on, the published range is "
+        f"the **middle half** \n"
         "(the interquartile range), with the full spread given alongside it: \n"
         "one padded upload widens a min-max range that is otherwise tight, \n"
         "and says more about that uploader than about the act. \n"
-        "Below eight uploads there is no distribution to speak of \n"
+        f"Below {word(MIN_SAMPLES)} uploads there is no distribution to speak of \n"
         "and the range is the minimum and maximum. \n"
-        "Nothing is rated above *low* on fewer than eight uploads. \n"
+        f"Nothing is rated above *low* on fewer than {word(MIN_SAMPLES)} uploads. \n"
         "From there, confidence is *high* \n"
-        "when the middle half spans a factor under 1.25 \n"
-        "and *medium* under 1.5. \n"
+        f"when the middle half spans a factor under {SPREAD_HIGH} \n"
+        f"and *medium* under {SPREAD_MEDIUM}. \n"
         "Everything else is *low*, \n"
-        "as is any act whose median moved by 10 percent or more \n"
+        f"as is any act whose median moved by {round(UNSTABLE_DRIFT * 100)} "
+        f"percent or more \n"
         "against the earlier, independent set of queries \n"
         "(`analyze.py --compare`): \n"
         "a figure that moves when the queries change was never settled, \n"
         "whatever its sample size says.",
-        "",
-        "## What these numbers do and do not mean",
-        "",
+    ]
+
+
+def limits(report):
+    """What the numbers are, and the report's own caveats after the shared ones."""
+    shared = [
         "- They measure **video runtime of someone playing the act**, \n"
         "which is the closest available proxy for how long the act takes. \n"
         "They are not official figures; \n"
-        "HoYoverse does not publish act lengths.",
+        f"{report.config['publisher']} does not publish act lengths.",
         "- Runtime includes the traversal, dialogue and combat \n"
         "that a player cannot skip, \n"
         "but it also includes whatever detours the uploader took, \n"
@@ -348,18 +347,12 @@ def readme(chapters, by_chapter):
         "and record on different game versions. \n"
         "Acts that were rebalanced or shortened after release \n"
         "may be measured against older, longer uploads.",
-        "- The newest acts (Nod-Krai's later acts, Chapter VII) \n"
-        "have the fewest uploads to draw on, \n"
-        "so their figures are the softest. \n"
-        "They are marked *low* or *medium* confidence accordingly.",
-        "- Interlude Chapter acts \n"
-        "(*The Crane Returns on the Wind*, *Perilous Trail*, \n"
-        "*Inversion of Genesis*, *Paralogism*) \n"
-        "are Archon Quests but not part of the main chapter progression, \n"
-        "so they are outside this report's scope.",
-        "",
-        "## Files",
-        "",
+    ]
+    return shared + [f"- {c}" for c in report.config["caveats"]]
+
+
+def files_section():
+    return [
         "- One markdown file per chapter, listed in the table above. \n"
         "Each act section carries a collapsed evidence table \n"
         "with runtime, video title, uploader, view count, upload date and URL \n"
@@ -375,13 +368,16 @@ def readme(chapters, by_chapter):
         "as categorized on the wiki, \n"
         "and `data/version_index.json` gives each version \n"
         "its patch number and release date. \n"
-        "Both are fetched by `pipeline/fetch_versions.py` before the harvest, \n"
+        "Both are fetched by `fetch_versions.py` before the harvest, \n"
         "because the harvest searches for version-branded upload titles.",
         "- `data/quest_parts.json` lists the quest parts of each act, \n"
         "in the order the wiki gives them.",
-        "- `data/chapter_keys.json` and `data/compilations.txt` \n"
-        "are the screening inputs described under Method.",
-        "- `pipeline/` holds the scripts that produced all of this: \n"
+        "- `data/wiki.json`, `data/game.txt`, `data/chapter_keys.json`, \n"
+        "`data/query_templates.txt` and `data/compilations.txt` \n"
+        "are the inputs the pipeline is steered with, described under Method.",
+        "- The scripts themselves live in the `questline-length-research` skill \n"
+        "(`.claude/skills/questline-length-research/scripts/`), \n"
+        "shared by every report in this repository: \n"
         "`harvest.sh` collects the candidates, \n"
         "`topup.sh` widens a thin act's pool, \n"
         "`analyze.py` screens them and computes the statistics, \n"
@@ -394,27 +390,79 @@ def readme(chapters, by_chapter):
         "from the first, independent set of queries, \n"
         "which is what the stability figure is measured against.",
         "- Every figure in the prose is interpolated from `analysis.json` \n"
-        "by `pipeline/facts.py` rather than written by hand, \n"
+        "rather than written by hand, \n"
         "and the claims the prose makes in words \n"
-        "are asserted in `pipeline/claims.py` before any file is written. \n"
+        "are asserted in `claims.py` before any file is written. \n"
         "A claim that no longer holds fails the build.",
-        "",
-        f"Data collected {DATE}.",
-        "",
     ]
+
+
+def readme(report, by_chapter):
+    grand = sum(chapter_total(acts) for acts in by_chapter.values())
+    n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
+    n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
+    lines = [
+        f"# {report.config['title']}",
+        "",
+        report.config["intro"],
+        "",
+        f"**Total for the whole main questline: {hm(grand)}** "
+        f"({sum(len(a) for a in by_chapter.values())} entries "
+        f"counting acts, preludes and interludes, "
+        f"measured against {n_videos} accepted uploads "
+        f"out of {n_screened} candidates).\n"
+        "That figure is the sum of the per-act medians, "
+        "so treat it as an order of magnitude "
+        "rather than a number anyone actually clocked end to end.",
+        "",
+        "## Chapters",
+        "",
+        "| Chapter | Region | Versions | Entries | Estimated length | Detail |",
+        "| --- | --- | --- | --- | --- | --- |",
+    ]
+    for chap in report.chapters:
+        acts = by_chapter[chap["id"]]
+        total = chapter_total(acts)
+        lines.append(
+            f"| {chap['title']} | {chap['region']} | {chap['versions']} "
+            f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
+    lines += [
+        "",
+        "## Longest and shortest acts",
+        "",
+        "| | Act | Estimate |",
+        "| --- | --- | --- |",
+    ]
+    ranked = sorted((a for acts in by_chapter.values() for a in acts),
+                    key=median_of)
+    for a in reversed(ranked[-5:]):
+        lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
+                     f"{a['act_label']}: {a['act_title']} "
+                     f"| {hm(a['stats']['median'])} |")
+    for a in ranked[:3]:
+        lines.append(f"| shortest | {a['chapter_title'].split(':')[0]}, "
+                     f"{a['act_label']}: {a['act_title']} "
+                     f"| {hm(a['stats']['median'])} |")
+    lines += ["", "## Method", ""] + method(report)
+    lines += ["", "## What these numbers do and do not mean", ""] + limits(report)
+    lines += ["", "## Files", ""] + files_section()
+    lines += ["", f"Data collected {report.config['date']}.", ""]
     return "\n".join(lines)
 
 
-DATE = "2026-08-18"
-
-
 def main(argv):
+    args = [a for a in argv[1:] if not a.startswith("--")]
+    if len(args) != 1:
+        print(__doc__)
+        return 2
     verify = "--no-verify" not in argv[1:]
-    analysis = json.loads((DATA / "analysis.json").read_text())
-    quest_parts = json.loads((DATA / "quest_parts.json").read_text())
-    versions = json.loads((DATA / "versions.json").read_text())
-    version_index = json.loads((DATA / "version_index.json").read_text())
-    broken = failures(analysis)
+    report = Report(args[0])
+    analysis = report.json("analysis.json")
+    quest_parts = report.json("quest_parts.json")
+    versions = report.json("versions.json")
+    version_index = report.json("version_index.json")
+
+    broken = failures(analysis, report.claims)
     if broken:
         print("the prose no longer matches the data:\n", file=sys.stderr)
         for line in broken:
@@ -429,12 +477,12 @@ def main(argv):
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)
 
-    for chap in CHAPTERS:
-        doc = chapter_doc(chap, by_chapter[chap["id"]], quest_parts, versions,
-                          version_index, superlative)
-        write(OUT / f"{chap['slug']}.md", doc)
+    for chap in report.chapters:
+        doc = chapter_doc(report, chap, by_chapter[chap["id"]], quest_parts,
+                          versions, version_index, superlative)
+        write(report.path / f"{chap['slug']}.md", doc)
         print("wrote", chap["slug"] + ".md")
-    write(OUT / "README.md", readme(CHAPTERS, by_chapter))
+    write(report.path / "README.md", readme(report, by_chapter))
     print("wrote README.md")
     return 0
 

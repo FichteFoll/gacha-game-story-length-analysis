@@ -154,13 +154,16 @@ before any screening was applied.
 as categorized on the wiki,
 and `data/version_index.json` gives each version
 its patch number and release date.
-Both are fetched by `pipeline/fetch_versions.py` before the harvest,
+Both are fetched by `fetch_versions.py` before the harvest,
 because the harvest searches for version-branded upload titles.
 - `data/quest_parts.json` lists the quest parts of each act,
 in the order the wiki gives them.
-- `data/chapter_keys.json` and `data/compilations.txt`
-are the screening inputs described under Method.
-- `pipeline/` holds the scripts that produced all of this:
+- `data/wiki.json`, `data/game.txt`, `data/chapter_keys.json`,
+`data/query_templates.txt` and `data/compilations.txt`
+are the inputs the pipeline is steered with, described under Method.
+- The scripts themselves live in the `questline-length-research` skill
+(`.claude/skills/questline-length-research/scripts/`),
+shared by every report in this repository:
 `harvest.sh` collects the candidates,
 `topup.sh` widens a thin act's pool,
 `analyze.py` screens them and computes the statistics,
@@ -173,9 +176,9 @@ over the harvested evidence reproduces `data/analysis.json` exactly.
 from the first, independent set of queries,
 which is what the stability figure is measured against.
 - Every figure in the prose is interpolated from `analysis.json`
-by `pipeline/facts.py` rather than written by hand,
+rather than written by hand,
 and the claims the prose makes in words
-are asserted in `pipeline/claims.py` before any file is written.
+are asserted in `claims.py` before any file is written.
 A claim that no longer holds fails the build.
 
 Data collected 2026-08-18.
