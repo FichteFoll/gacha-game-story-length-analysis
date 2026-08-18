@@ -13,6 +13,11 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
                                      version branding uploaders title by
        <workdir>/compilations.txt    optional extra compilation regexes, one per
                                      line, e.g. "full sumeru archon quest"
+       <workdir>/partials.txt        optional regexes for uploads covering less
+                                     than one act, one per line, e.g. "part 3",
+                                     plus the line "<quest part>" for titles
+                                     naming one of the act's own quest parts;
+                                     the mirror image of compilations.txt
        <workdir>/enriched.tsv        optional second-pass metadata (enrich.sh):
                                      exact duration, upload date, exact view
                                      count and the uploader's chapter markers
@@ -49,6 +54,8 @@ REJECT = re.compile(
 # Quest" (the normal phrasing for one complete act) into a compilation.
 # Anything else a game's uploaders say belongs in <workdir>/compilations.txt.
 CONTAINER = r"chapter|episode|arc"
+# The partials.txt line that stands for "names one of this act's quest parts".
+QUEST_PART = "<quest part>"
 
 STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
              "under", "amidst", "without", "over", "with", "from"}
@@ -58,6 +65,7 @@ ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
 
 TITLE_MATCH_RATIO = 0.6      # share of act-title words a video title must carry
 SHORT_OUTLIER = 0.5          # fraction of the median below which uploads drop
+PARTIAL_READMIT = 0.75       # ... and below which a "part 3" upload stays out
 LONG_OUTLIER = 1.8           # multiple of the median above which uploads drop
 SPAN_COVERAGE = 0.6          # markers must cover this much of a single-act upload
 SPAN_MINIMUM = 900           # ... and this many seconds, before a span is used
@@ -94,11 +102,42 @@ def compilation_re(workdir, acts):
         rf"(?:{units}) \d+ ?- ?\d+",
         r"marathon",
     ]
-    extra_file = workdir / "compilations.txt"
-    if extra_file.exists():
-        patterns += [l.strip() for l in extra_file.read_text().splitlines()
-                     if l.strip()]
-    return re.compile("|".join(patterns), re.I)
+    return re.compile("|".join(patterns + extra_patterns(workdir,
+                                                         "compilations.txt")),
+                      re.I)
+
+
+def extra_patterns(workdir, name):
+    """The per-report regexes in <workdir>/<name>, one per line."""
+    path = workdir / name
+    return [l.strip() for l in path.read_text().splitlines() if l.strip()] \
+        if path.exists() else []
+
+
+def partial_test(workdir):
+    """`(title, parts) -> covers less than one act`, the compilation's mirror.
+
+    Where a game's acts run for hours, many uploaders split one act across
+    several uploads, and such an upload's runtime measures the split rather than
+    the act. Left to the outlier trim they are not merely dropped: enough of them
+    drag the median they are trimmed against down with them, until the complete
+    uploads are the ones that look like the outliers.
+
+    Both ways of saying "part of an act" are per report. The literal patterns are
+    the lines of partials.txt; the line "<quest part>" additionally reads a title
+    naming one of the act's own quest parts as a split, which is opt-in because a
+    game whose uploaders title a complete act after its closing quest part would
+    otherwise lose every upload it has. Returns None where the report says
+    nothing, which is every game that has no partials.txt.
+    """
+    patterns = extra_patterns(workdir, "partials.txt")
+    by_quest_part = QUEST_PART in patterns
+    literal = [p for p in patterns if p != QUEST_PART]
+    regex = re.compile("|".join(literal), re.I) if literal else None
+    if not (regex or by_quest_part):
+        return None
+    return lambda title, parts: bool(regex and regex.search(title)) \
+        or (by_quest_part and part_named(title, parts) is not None)
 
 
 def bundle_re(acts):
@@ -273,7 +312,8 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, compilation, enriched, parts):
+def candidates_for(act, workdir, chapter_keys, compilation, partial, enriched,
+                   parts):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -288,6 +328,8 @@ def candidates_for(act, workdir, chapter_keys, compilation, enriched, parts):
             reasons.append("not-a-playthrough")
         if compilation.search(title):
             reasons.append("multi-act")
+        if partial and partial(title, parts):
+            reasons.append("part-of-an-act")
         if not (matches_act_title(title, act["act_title"])
                 or matches_act_number(title, act, chapter_keys)):
             reasons.append("act-mismatch")
@@ -387,6 +429,28 @@ def drift_against(baseline, act):
     return round((now - was) / was, 3)
 
 
+def readmit_partials(rows):
+    """Undo a "part of an act" rejection where the runtime contradicts the title.
+
+    Some uploaders number the acts of a series ("Part 3: In Our Time"), others
+    number the halves of one act, and the wording does not tell the two apart.
+    The runtime does: an upload as long as the act the unambiguous uploads
+    measured is covering that act, whatever it calls itself. The median is seeded
+    from those unambiguous uploads alone, and readmission asks for more of it
+    than the outlier trim would, because the title has already said this upload
+    is a fragment.
+    """
+    solid = [r["seconds"] for r in rows if not r["rejected"]]
+    if not solid:
+        return
+    median = statistics.median(solid)
+    for row in rows:
+        if row["rejected"] != ["part-of-an-act"]:
+            continue
+        if PARTIAL_READMIT * median <= row["seconds"] <= LONG_OUTLIER * median:
+            row["rejected"] = []
+
+
 def trim_outliers(kept):
     if len(kept) < 3:
         return kept
@@ -462,14 +526,16 @@ def main(argv):
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     compilation = compilation_re(workdir, acts)
+    partial = partial_test(workdir)
     enriched = load_enriched(workdir)
     quest_parts = load_json(workdir, "quest_parts.json")
 
     out = []
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
-        rows = candidates_for(act, workdir, chapter_keys, compilation, enriched,
-                              parts)
+        rows = candidates_for(act, workdir, chapter_keys, compilation, partial,
+                              enriched, parts)
+        readmit_partials(rows)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])
         secs = [r["seconds"] for r in kept]

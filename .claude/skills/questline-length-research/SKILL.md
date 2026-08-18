@@ -40,6 +40,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/chapter_keys.json   words that identify each chapter in a title
 <report>/data/query_templates.txt the YouTube searches to run per act
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
+<report>/data/partials.txt       phrasings for less than one act, if the game has any
 <report>/report.py                the game's configuration and the authored prose
 <report>/claims.py                what that prose asserts about the data
 ```
@@ -210,6 +211,19 @@ Discard, by title:
   Careful: "Full Archon Quest" on its own is the normal phrasing
   for one complete act, not a compilation. Do not filter it.
   A compilation whose chapter markers locate the act is readmitted, measured.
+- **part of an act**: "Part 3", "Walkthrough II", or a title naming
+  a single quest part of the act.
+  Where an act runs for hours, uploaders split it,
+  and a split's runtime measures the split.
+  This one is off unless `<workdir>/partials.txt` says otherwise,
+  because what a split is called differs per game;
+  the line `<quest part>` in that file additionally reads
+  a title naming one of the act's quest parts as a split.
+  An upload whose runtime matches what the unambiguous uploads measured
+  is readmitted whatever it calls itself.
+  Leaving these to the outlier trim does not work:
+  enough of them drag the median they are trimmed against down with them,
+  until the complete uploads are the ones that look like outliers.
 - **wrong act**: the title must name the act,
   either by title words or by act number *and* chapter identifier
   (supply the identifiers in `<workdir>/chapter_keys.json`;
