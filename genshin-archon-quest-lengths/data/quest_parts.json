@@ -1,0 +1,289 @@
+{
+ "prologue|Act I": [
+  "Bird's Eye View",
+  "Unexpected Power",
+  "Forest Rendezvous",
+  "Wind-Riding Knight",
+  "Going Upon the Breeze",
+  "City of Freedom",
+  "Dragon Storm",
+  "Knights of Favonius"
+ ],
+ "prologue|Act II": [
+  "Shadow Over Mondstadt",
+  "Unexpected Encounter",
+  "That Green Fellow",
+  "Let the Wind Lead",
+  "Venti's Plan",
+  "Venti's New Plan",
+  "Wild Escape",
+  "Behind the Scenes",
+  "Chasing Shadows",
+  "State of the Holy Lyre der Himmel",
+  "Crystal Tears",
+  "Reunion With the Dragon"
+ ],
+ "prologue|Act III": [
+  "Abyss Mage",
+  "Hurdle",
+  "Empty Abode",
+  "Light Guiding Ceremony",
+  "Calm Before the Storm",
+  "A Long Shot",
+  "When the Wind Dies Down",
+  "Ending Note"
+ ],
+ "ch1|Act I": [
+  "Rite of Descension",
+  "An Impromptu Change of Plan",
+  "Dust to Dust"
+ ],
+ "ch1|Act II": [
+  "An Organization Known as Wangsheng",
+  "Moonfinger",
+  "Three Poignant Perfumes",
+  "The Realm Within",
+  "Downtown",
+  "Guizhong",
+  "Zhongli's Treat"
+ ],
+ "ch1|Act III": [
+  "The Floating Palace",
+  "Equilibrium",
+  "Solitary Fragrance",
+  "Heart of Glaze",
+  "Turning Point",
+  "The Fond Farewell"
+ ],
+ "ch1|Act IV": [
+  "Involuntary Sacrifice",
+  "A Herald Without Adherents",
+  "Dishonorable Trial",
+  "A Soul Set Apart"
+ ],
+ "ch2|Prologue": [
+  "A Path Through the Storm",
+  "The Crux Clash",
+  "Follow the Wind"
+ ],
+ "ch2|Act I": [
+  "Setting Sail",
+  "Confessions of an Outlander",
+  "Ritou Escape Plan",
+  "Three Wishes",
+  "The Meaning of Meaningless Waiting",
+  "To Treat the Well-Meaning Well",
+  "A Swordmaster's Path Is Paved With Broken Blades",
+  "A Flower Blooms in a Prison"
+ ],
+ "ch2|Act II": [
+  "Amidst Stormy Judgment",
+  "In the Name of the Resistance"
+ ],
+ "ch2|Act III": [
+  "Sword, Fish, Resistance",
+  "Those Who Yearn for the Gods' Gaze",
+  "Delusion",
+  "The Servant's Path",
+  "Proof of Guilt",
+  "Blind Loyalty, Reckless Courage",
+  "Duel Before the Throne",
+  "The Omnipresent God",
+  "Wishes"
+ ],
+ "ch2|Act IV": [
+  "In the Depths, an Unexpected Reunion",
+  "The Grave of the Guarded",
+  "Memories of Inteyvat",
+  "The Black Serpent Knights' Glory"
+ ],
+ "ch3|Act I": [
+  "A Forest of Change",
+  "Further Observation",
+  "Chronic Illness",
+  "Silent Seeker of Knowledge",
+  "The Trail of the God of Wisdom",
+  "Lost in Prosperity",
+  "Ever So Close"
+ ],
+ "ch3|Act II": [
+  "The Coming of the Sabzeruz Festival",
+  "The Arrival of the Sabzeruz Festival",
+  "The Continuation of the Sabzeruz Festival",
+  "The Samsara of the Sabzeruz Festival",
+  "The Causality of the Sabzeruz Festival",
+  "The Empty Illusions of the Sabzeruz Festival",
+  "The End of the Sabzeruz Festival",
+  "Dawn"
+ ],
+ "ch3|Act III": [
+  "Like a Triumphant Hero",
+  "The Gaze From a Certain God",
+  "The Four at Loggerheads"
+ ],
+ "ch3|Act IV": [
+  "The Missing Village Keepers",
+  "Cry From the Eleazar Hospital",
+  "Secret of the Scorching Desert"
+ ],
+ "ch3|Act V": [
+  "Through the Predawn Night",
+  "As by a God's Side",
+  "Jnagarbha Day",
+  "Where the Boat of Consciousness Lies",
+  "A Toast to Victory"
+ ],
+ "ch3|Act VI": [
+  "Destined Encounter",
+  "Fortune-Mocking Pedigree",
+  "A Lamenter at Fate's End",
+  "Portended Fate"
+ ],
+ "ch4|Act I": [
+  "Soloist's Prologue",
+  "The City of Rains and Remembrance",
+  "Lies Cast Shadows Under Gathered Lights"
+ ],
+ "ch4|Act II": [
+  "Like the Faint Moonlight of Yesteryear",
+  "The Truth, Lost With the Rain",
+  "When All Return to the Waters"
+ ],
+ "ch4|Act III": [
+  "A Tea Party Most Thorny",
+  "Fortress of Meropide",
+  "The Proscribed, Hidden in Plain Sight",
+  "Lost in Deep Seas"
+ ],
+ "ch4|Act IV": [
+  "Into the Deepwater Murk",
+  "The Truth Shrouded in Shadow",
+  "Secret Keepers and Forbidden Zones",
+  "Calamitous Tread",
+  "A Moment's Respite"
+ ],
+ "ch4|Act V": [
+  "Deluge of Wrathful Waters",
+  "Meeting Is Also Parting",
+  "Hunters, Prophets",
+  "Apocalypse",
+  "The Opera of Noirceur and Blancheur",
+  "Finale"
+ ],
+ "ch4|Act VI": [
+  "Cold Case Commission",
+  "Memories That Should Not Exist",
+  "World-Order Narration"
+ ],
+ "ch5|Act I": [
+  "Natlan! A New Adventure",
+  "Pilgrimage of the Return of the Sacred Flame",
+  "Home of the Hot Springs"
+ ],
+ "ch5|Act II": [
+  "A Decision",
+  "To Reclaim an Ancient Name",
+  "Echoes of Life",
+  "Into Eternal Night",
+  "Past and Future"
+ ],
+ "ch5|Act III": [
+  "All Names are Noble",
+  "To Whence the Smoke Drifts",
+  "The Flickering Light Splits in Twain"
+ ],
+ "ch5|Act IV": [
+  "Beneath the Secret Source",
+  "As One We Watch the Setting Sun",
+  "The Surging Darkness",
+  "Despair Engulfs the Heavens",
+  "No One Fights Alone",
+  "A Fuel Named \"Fate\""
+ ],
+ "ch5|Interlude": [
+  "For the Same Land"
+ ],
+ "ch5|Act V": [
+  "Subterranean Ruins",
+  "As the Sun Rises and Sets",
+  "Journey of Stars and Flames",
+  "Where All Hopes Lie",
+  "When All Becomes a Monument"
+ ],
+ "ch5|Act VI": [
+  "The Key That Unlocks Fate",
+  "\"Savior\"",
+  "A Space and Time Without You"
+ ],
+ "sotwm|Prelude": [
+  "Flamelets",
+  "Smoldering",
+  "Searing"
+ ],
+ "sotwm|Act I": [
+  "Where the Moon Rises",
+  "Reunion Beneath the Moonlight",
+  "In the Shadows of Night"
+ ],
+ "sotwm|Act II": [
+  "Fulminations and Undercurrents",
+  "The Dark Side of Memory",
+  "One There Was, Who Hunted the Moon",
+  "The Ashen-White Order Burns",
+  "Rest Beyond Reach"
+ ],
+ "sotwm|Act III": [
+  "Hidden in the Shadows",
+  "Special Operation",
+  "Everlasting As the Moon"
+ ],
+ "sotwm|Act IV": [
+  "All Is Foretold",
+  "Dance of Death: Serpent and Scorpion",
+  "Echoes of Fate"
+ ],
+ "sotwm|Act V": [
+  "In the Shifting Light of the Moon",
+  "Ripples That Will Never Reach"
+ ],
+ "sotwm|Act VI": [
+  "Where Does Her Name Rest?",
+  "The Night the Moon Returns Home",
+  "Return to the Moon",
+  "The Empty Courtyard"
+ ],
+ "sotwm|Act VII": [
+  "Moonless Night",
+  "Where Our Space and Time Intersect",
+  "Tracing the Footsteps of the Past"
+ ],
+ "sotwm|Act VIII": [
+  "The First Sliver of Moonlight",
+  "Descending Moon",
+  "Welkin Moon's Homecoming"
+ ],
+ "sotwm|Act IX": [
+  "Where Flowers Awaken",
+  "A Divergence Leading to Oneself",
+  "Ancient Shadows Re-Emerge"
+ ],
+ "sotwm|Act X": [
+  "Darkness Looming",
+  "A Tower Unto Wisdom and Folly",
+  "Truth Amongst the Pages of Purana",
+  "Your Past Is Like a Garden"
+ ],
+ "ch7|Act I": [
+  "Into the Wind, Into the Frigid North",
+  "Gunfire in the Silent Lands",
+  "Great Deeds on the Tundra",
+  "Silence Alone is Disfavored"
+ ],
+ "ch7|Act II": [
+  "The White Curtain Falls",
+  "Lelek's Confession",
+  "Winter's Mysterious Silence",
+  "Wraith's Nocturne",
+  "Mistilteinn"
+ ]
+}

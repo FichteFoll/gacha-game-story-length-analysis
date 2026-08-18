@@ -109,6 +109,8 @@ including the rejected candidates and the reason each was rejected.
 before any screening was applied.
 - `data/versions.json` maps each act to its release version,
 as categorized on the wiki.
+- `data/quest_parts.json` lists the quest parts of each act,
+in the order the wiki gives them.
 - `data/chapter_keys.json` and `data/compilations.txt`
 are the screening inputs described under Method.
 - `pipeline/` holds the scripts that produced all of this:

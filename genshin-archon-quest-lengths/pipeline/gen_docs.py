@@ -2,12 +2,11 @@
 """Render the per-chapter markdown reports from analysis.json and the authored prose."""
 import json
 import pathlib
-import shutil
 
 from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
 
-SRC = pathlib.Path(__file__).parent
 OUT = pathlib.Path(__file__).parent.parent
+DATA = OUT / "data"
 
 WIKI = "https://genshin-impact.fandom.com/wiki/"
 
@@ -97,7 +96,7 @@ def act_section(act, parts, versions):
     return "\n".join(body)
 
 
-def chapter_doc(chap, acts, act_text, versions):
+def chapter_doc(chap, acts, quest_parts, versions):
     total = sum(a["stats"]["median"] or 0 for a in acts)
     head = [
         f"# {chap['title']}",
@@ -122,7 +121,7 @@ def chapter_doc(chap, acts, act_text, versions):
     head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "", prose(chap["pacing"]), "",
              "## Acts", ""]
     for a in acts:
-        parts = act_text.get(f"{a['chapter_id']}|{a['act_label']}", {}).get("quests", [])
+        parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
         head.append(act_section(a, parts, versions))
     head += [
         "## Sources",
@@ -264,6 +263,8 @@ def readme(chapters, by_chapter):
         "before any screening was applied.",
         "- `data/versions.json` maps each act to its release version, \n"
         "as categorized on the wiki.",
+        "- `data/quest_parts.json` lists the quest parts of each act, \n"
+        "in the order the wiki gives them.",
         "- `data/chapter_keys.json` and `data/compilations.txt` \n"
         "are the screening inputs described under Method.",
         "- `pipeline/` holds the scripts that produced all of this: \n"
@@ -284,23 +285,19 @@ DATE = "2026-08-18"
 
 
 def main():
-    analysis = json.loads((SRC / "analysis.json").read_text())
-    act_text = json.loads((SRC / "act_text.json").read_text())
-    versions = json.loads((SRC / "versions.json").read_text())
+    analysis = json.loads((DATA / "analysis.json").read_text())
+    quest_parts = json.loads((DATA / "quest_parts.json").read_text())
+    versions = json.loads((DATA / "versions.json").read_text())
     by_chapter = {}
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)
 
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "data").mkdir(exist_ok=True)
     for chap in CHAPTERS:
-        doc = chapter_doc(chap, by_chapter[chap["id"]], act_text, versions)
+        doc = chapter_doc(chap, by_chapter[chap["id"]], quest_parts, versions)
         write(OUT / f"{chap['slug']}.md", doc)
         print("wrote", chap["slug"] + ".md")
     write(OUT / "README.md", readme(CHAPTERS, by_chapter))
-    shutil.copy(SRC / "analysis.json", OUT / "data" / "analysis.json")
-    shutil.copy(SRC / "acts.tsv", OUT / "data" / "acts.tsv")
-    print("wrote README.md and data/")
+    print("wrote README.md")
 
 
 if __name__ == "__main__":
