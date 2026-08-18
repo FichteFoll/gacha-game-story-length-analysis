@@ -104,7 +104,7 @@ The banquet's long middle,
 the Great Septimus,
 and the sense of rowing against a current
 that keeps pulling everyone back into the past.
-One of the three longest acts in the game.
+One of the three longest missions in the game.
 
 - **Estimated length:** 7 h 46 min
 - **Sampled range:** 5 h 17 min to 9 h 02 min across 7 playthrough uploads (22 further candidates screened out)
@@ -199,6 +199,6 @@ and seeing the way ahead means looking back first.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [Penacony](https://honkai-star-rail.fandom.com/wiki/Penacony) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [Penacony](https://honkai-star-rail.fandom.com/wiki/Penacony) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

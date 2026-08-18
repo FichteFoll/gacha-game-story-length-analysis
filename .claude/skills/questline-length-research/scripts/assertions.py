@@ -11,6 +11,7 @@ Vocabulary:
     none_above(chapter, minutes)          no entry is longer than `minutes`
     median_between(chapter, act, lo, hi)  this act's estimate is within [lo, hi]
     rank_at_most(chapter, act, k, scope)  this act is among the k longest
+    sample_at_most(chapter, act, n)       this act rests on n uploads or fewer
     is_extreme(chapter, act, end, scope)  this act is the longest/shortest
     total_ratio_between(chapter, others, lo, hi)
                                           chapter total over the others' combined
@@ -60,6 +61,15 @@ def median_between(chapter, act_label, lo, hi, quote):
         got = median_of(_act(index, chapter, act_label))
         return lo <= got <= hi, f"{act_label} is {got} min, expected {lo}-{hi}"
     return Claim(quote, f"{chapter} {act_label}: {lo}-{hi} min", check)
+
+
+def sample_at_most(chapter, act_label, n, quote):
+    """For prose that calls a pool thin ("rests on a handful of uploads"): the
+    wording stops being true the moment a re-harvest finds more of them."""
+    def check(index):
+        got = _act(index, chapter, act_label)["stats"]["n"]
+        return got <= n, f"{act_label} rests on {got} uploads, expected {n} or fewer"
+    return Claim(quote, f"{chapter} {act_label}: at most {n} uploads", check)
 
 
 def rank_at_most(chapter, act_label, k, quote, scope="global"):

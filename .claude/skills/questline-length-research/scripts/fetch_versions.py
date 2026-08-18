@@ -29,6 +29,7 @@ import json
 import pathlib
 import re
 import sys
+from datetime import datetime
 import urllib.parse
 import urllib.request
 
@@ -49,12 +50,18 @@ def api(host, **params):
         return json.load(response)
 
 
-def act_titles(workdir):
+def act_pages(workdir):
+    """Act title -> the wiki page documenting it, which carries the category.
+
+    The two differ wherever acts.tsv names a page in its fifth column, which is
+    what a game whose act titles are not page titles needs.
+    """
     seen = {}
     for line in (workdir / "acts.tsv").read_text().splitlines():
         if line.strip():
-            seen[line.split("\t")[3]] = None
-    return list(seen)
+            title, *page = line.split("\t")[3:]
+            seen[title] = page[0] if page else title
+    return seen
 
 
 def categories(host, titles):
@@ -77,11 +84,12 @@ def categories(host, titles):
         params.update(response["continue"])
 
 
-def released_in(wiki, titles):
+def released_in(wiki, pages):
     """Act title -> version name, from the "Released in Version X" category."""
     if not wiki["released_in"]:
-        return {t: None for t in titles}
+        return {t: None for t in pages}
     pattern = re.compile(f"^Category:{wiki['released_in']}$")
+    titles = list(dict.fromkeys(pages.values()))
     out = {}
     for start in range(0, len(titles), BATCH):
         for title, cats in categories(wiki["host"],
@@ -90,14 +98,34 @@ def released_in(wiki, titles):
             out[title] = versions[0] if versions else None
     # Redirects and normalisation can rename a page, so report on what was asked
     # for rather than on what came back.
-    return {t: out.get(t) for t in titles}
+    return {act: out.get(page) for act, page in pages.items()}
+
+
+def iso_date(value):
+    """`July 29, 2026` and `2024-07-04 10:00` both as `2026-07-29`, or unchanged.
+
+    One wiki writes both forms, sometimes on neighbouring version pages, and the
+    dates are sorted against each other to decide which acts count as recent, so
+    a spelled-out month left as it stands would sort after every real date.
+    """
+    if not value:
+        return None
+    plain = re.sub(r"\s*\d{1,2}:\d{2}.*$", "", value).strip()
+    plain = re.sub(r"(?<=\d)(st|nd|rd|th)\b", "", plain)   # September 4th, 2025
+    for fmt in ("%Y-%m-%d", "%B %d, %Y", "%d %B %Y", "%b %d, %Y"):
+        try:
+            return datetime.strptime(plain, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    return value
 
 
 def version_details(wiki, names):
     """Version name -> {number, date}, from the version page's infobox."""
     number_field, date_field = (wiki["version_fields"][k]
                                 for k in ("number", "date"))
-    field = re.compile(rf"^\|\s*({number_field}|{date_field})\s*=\s*(\S+)", re.M)
+    field = re.compile(rf"^\|\s*({number_field}|{date_field})\s*=\s*(.+?)\s*$",
+                       re.M)
     out = {}
     for name in names:
         page = wiki["version_page"].format(version=name)
@@ -105,7 +133,7 @@ def version_details(wiki, names):
                        prop="wikitext")["parse"]["wikitext"]["*"]
         fields = dict(field.findall(wikitext))
         out[name] = {"number": fields.get(number_field, name),
-                     "date": fields.get(date_field)}
+                     "date": iso_date(fields.get(date_field))}
     return out
 
 
@@ -121,7 +149,7 @@ def main(argv):
     workdir = pathlib.Path(argv[1])
     wiki = load_wiki(workdir)
 
-    versions = released_in(wiki, act_titles(workdir))
+    versions = released_in(wiki, act_pages(workdir))
     index = version_details(wiki, sorted(set(filter(None, versions.values()))))
 
     (workdir / "versions.json").write_text(

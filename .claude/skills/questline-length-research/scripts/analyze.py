@@ -7,6 +7,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/evidence/*.tsv      harvested candidates
        <workdir>/chapter_keys.json   optional {chapter_id: [identifying words]},
                                      used by the act-number fallback match
+       <workdir>/act_keys.json       optional {chapter_id|act_label: [regex]},
+                                     what a title must carry to be about this act
+                                     rather than the one it shares its name with
        <workdir>/versions.json       optional, act title -> release version
        <workdir>/version_index.json  optional, version -> {number, date};
                                      both extend the chapter keys with the
@@ -63,6 +66,13 @@ STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
 ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
          "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12}
 
+
+def numerals(number):
+    """`1|i`: how a title may write this act's number, roman numeral where there
+    is one. A game that opens on a Chapter 0 has no roman half."""
+    roman = next((k for k, v in ROMAN.items() if v == number), None)
+    return "|".join(filter(None, [str(number), roman and roman.lower()]))
+
 TITLE_MATCH_RATIO = 0.6      # share of act-title words a video title must carry
 SHORT_OUTLIER = 0.5          # fraction of the median below which uploads drop
 PARTIAL_READMIT = 0.75       # ... and below which a "part 3" upload stays out
@@ -87,6 +97,15 @@ def unit_pattern(acts):
     return "|".join(sorted(f"{u}s?" for u in units)) or "acts?"
 
 
+def container_pattern(acts):
+    """The words for the whole of a chapter, minus the one this game numbers acts
+    with: a game whose act *is* a chapter would otherwise read every "Full
+    Chapter 3" as a compilation of the chapters it is one of.
+    """
+    unit = {act_unit(a["act_label"]).lower() for a in acts}
+    return "|".join(w for w in CONTAINER.split("|") if w not in unit) or CONTAINER
+
+
 def compilation_re(workdir, acts):
     """Genuine multi-act uploads, in this game's wording.
 
@@ -96,7 +115,7 @@ def compilation_re(workdir, acts):
     units = unit_pattern(acts)
     patterns = [
         rf"all {units}",
-        rf"(?:full|entire|complete|whole) (?:{CONTAINER})s?\b",
+        rf"(?:full|entire|complete|whole) (?:{container_pattern(acts)})s?\b",
         rf"(?:{units}) \d+ ?(?:&|and|\+|,) ?\d+",
         rf"(?:{units}) [ivx]+ ?(?:&|and|\+|,) ?[ivx]+",
         rf"(?:{units}) \d+ ?- ?\d+",
@@ -185,11 +204,29 @@ def matches_act_number(video_title, act, chapter_keys):
     if num is None or not keys:
         return False
     low = video_title.lower()
-    roman = next(k for k, v in ROMAN.items() if v == num).lower()
     unit = act_unit(act["act_label"]).lower()
-    if not re.search(rf"\b{unit}:? +(?:{num}|{roman})\b", low):
+    if not re.search(rf"\b{unit}:? +(?:{numerals(num)})\b", low):
         return False
     return any(k.lower() in low for k in keys)
+
+
+def act_key_test(workdir):
+    """`(act, title) -> the title may be about this act`, from act_keys.json.
+
+    Two acts sometimes carry the same name, because the game shipped one act's
+    halves a version apart and the wiki tells them apart by a suffix the title
+    matching cannot see ("... (A)" against "... (B)"). An act that declares
+    distinguishing marks accepts only titles carrying one of them, which also
+    keeps an upload that names neither half out of both pools.
+    """
+    keys = {k: re.compile("|".join(v), re.I)
+            for k, v in load_json(workdir, "act_keys.json").items()}
+
+    def is_this_act(act, title):
+        marks = keys.get(f"{act['chapter_id']}|{act['act_label']}")
+        return marks is None or bool(marks.search(title))
+
+    return is_this_act
 
 
 def version_keys(workdir, acts):
@@ -251,9 +288,8 @@ def names_act_number(text, act):
     num = act_number(act["act_label"])
     if num is None:
         return False
-    roman = next(k for k, v in ROMAN.items() if v == num).lower()
     unit = act_unit(act["act_label"]).lower()
-    return bool(re.search(rf"\b{unit}:? *(?:{num}|{roman})\b", text.lower()))
+    return bool(re.search(rf"\b{unit}:? *(?:{numerals(num)})\b", text.lower()))
 
 
 def part_named(marker_title, parts):
@@ -300,20 +336,27 @@ def act_span(act, chapters, parts, duration, bundled):
 
 
 def load_acts(workdir):
+    """The act list, with the wiki page each act is documented on.
+
+    The page is the optional fifth column, because an act's display title is
+    often not a page title: a game that ships one act in two halves is written
+    up under one of them, and a chapter page is named `Chapter VII` rather than
+    `Chapter VII: Everwinter Without Mercy`.
+    """
     acts = []
     for line in (workdir / "acts.tsv").read_text().splitlines():
         if not line.strip():
             continue
-        chap_id, chap_title, act_label, act_title = line.split("\t")
+        chap_id, chap_title, act_label, act_title, *rest = line.split("\t")
         acts.append(dict(
             chapter_id=chap_id, chapter_title=chap_title, act_label=act_label,
-            act_title=act_title,
+            act_title=act_title, wiki_page=rest[0] if rest else act_title,
             slug=re.sub(r"[^A-Za-z0-9_-]", "_", f"{chap_id}_{act_label}")))
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, compilation, partial, enriched,
-                   parts):
+def candidates_for(act, workdir, chapter_keys, act_keys, compilation, partial,
+                   enriched, parts):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -330,8 +373,9 @@ def candidates_for(act, workdir, chapter_keys, compilation, partial, enriched,
             reasons.append("multi-act")
         if partial and partial(title, parts):
             reasons.append("part-of-an-act")
-        if not (matches_act_title(title, act["act_title"])
-                or matches_act_number(title, act, chapter_keys)):
+        if not act_keys(act, title) \
+                or not (matches_act_title(title, act["act_title"])
+                        or matches_act_number(title, act, chapter_keys)):
             reasons.append("act-mismatch")
         row = dict(seconds=int(f[0]), title=title, uploader=f[2], url=f[3],
                    views=f[4] if len(f) > 4 else "NA", rejected=reasons)
@@ -491,7 +535,8 @@ def cross_check(acts):
     for act in acts:
         for row in act["candidates"]:
             bundled = bundle_acts(bundle, row["title"], by_chapter[act["chapter_id"]])
-            if not bundled or row["url"] in seen:
+            if not bundled or row["url"] in seen \
+                    or "not-a-playthrough" in row["rejected"]:
                 continue
             seen.add(row["url"])
             key = (act["chapter_id"], tuple(a["act_label"] for a in bundled))
@@ -525,6 +570,7 @@ def main(argv):
     chapter_keys = load_json(workdir, "chapter_keys.json")
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
+    act_keys = act_key_test(workdir)
     compilation = compilation_re(workdir, acts)
     partial = partial_test(workdir)
     enriched = load_enriched(workdir)
@@ -533,8 +579,8 @@ def main(argv):
     out = []
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
-        rows = candidates_for(act, workdir, chapter_keys, compilation, partial,
-                              enriched, parts)
+        rows = candidates_for(act, workdir, chapter_keys, act_keys, compilation,
+                              partial, enriched, parts)
         readmit_partials(rows)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])

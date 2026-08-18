@@ -38,6 +38,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/game.txt            the game's name, as uploaders spell it
 <report>/data/acts.tsv            the questline structure (step 1)
 <report>/data/chapter_keys.json   words that identify each chapter in a title
+<report>/data/act_keys.json       marks that tell two same-named acts apart
 <report>/data/query_templates.txt the YouTube searches to run per act
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
 <report>/data/partials.txt       phrasings for less than one act, if the game has any
@@ -53,6 +54,16 @@ Zenless Zone Zero cuts Phaethon's Story into chapters.
 Whatever the game calls the smaller unit,
 put that word in the act label (`Act 3`, `Episode 2`),
 because the screening reads the unit off the label.
+
+Pick the unit the *uploads* are titled after, not the one the wiki files under.
+Zenless Zone Zero releases each Season 1 chapter in an (A) and a (B) half,
+and the wiki writes one page per half,
+but no upload covers a half or says which half it is,
+so the report's act is the whole chapter.
+Where the halves shipped a version apart, uploaders do say,
+and those halves are separate acts.
+An act list that measures a unit nobody uploads
+is a pool of half-length videos counted as whole ones.
 
 `data/wiki.json` carries the host and the wiki's own name,
 plus how it records release versions where that differs from the default
@@ -103,8 +114,14 @@ Write the structure to `<workdir>/acts.tsv`,
 one act per line, tab separated:
 
 ```
-chapter_id <TAB> chapter_title <TAB> act_label <TAB> act_title
+chapter_id <TAB> chapter_title <TAB> act_label <TAB> act_title [<TAB> wiki page]
 ```
+
+The fifth column is optional and defaults to the act title.
+Name a page there whenever the two differ:
+where an act is documented under one of its halves,
+or under a page title the display title is only part of.
+It is what the version lookup queries and what the report links.
 
 Then confirm the extracted list against the wiki's own overview page before measuring anything.
 An act list that silently misses an interlude produces a report that is wrong everywhere.
@@ -205,7 +222,10 @@ Discard, by title:
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
 - **multi-act compilations**: "Acts 9 & 10", "Full Sumeru Archon Quest", "all acts".
   The unit ("act", "episode") comes from the act labels,
-  the container ("chapter", "episode", "arc") is fixed,
+  the container ("chapter", "episode", "arc") is fixed
+  minus whatever this game numbers its acts with
+  (a game whose act *is* a chapter would otherwise read
+  every "Full Chapter 3" as a compilation of chapters),
   and anything else this game's uploaders say
   goes in `<workdir>/compilations.txt`.
   Careful: "Full Archon Quest" on its own is the normal phrasing
@@ -230,6 +250,19 @@ Discard, by title:
   the version names and patch numbers are added per chapter automatically).
   Requiring both halves is what stops "Snezhnaya Act 1"
   from being counted as evidence for a different chapter's Act I.
+- **the wrong one of two same-named acts**: where the title match cannot tell
+  two acts apart, give the pair their distinguishing marks in
+  `<workdir>/act_keys.json`, keyed `"<chapter_id>|<act_label>"`:
+  a title then has to carry one of them to count as evidence for that act.
+  Zenless Zone Zero's epilogue halves differ only by a "(A)" or "(B)"
+  that the word matching never sees,
+  and an upload that names neither half is evidence for neither.
+  The same file is the place for a negative mark,
+  written as a lookahead (`^(?!.*interlude)`),
+  where a title matching "Chapter 2" would otherwise
+  count for "Chapter 2 Interlude" as well,
+  or where an act's own title is degenerate:
+  the words of "The Zero Zone" are in every Zenless Zone Zero upload's title.
 
 Then drop anything below half or above 1.8 times the median as truncated or padded.
 
@@ -331,6 +364,16 @@ and the build should either fail or correct itself.
   the page is `Chapter VII`, not `Chapter VII: Everwinter Without Mercy`.
   Link the page name, and verify it resolves through the API before publishing.
 - Do not assert release versions from memory. Query them, before harvesting.
+- A wiki writes its release dates in more than one format
+  (`2024-07-04 10:00` next to `September 4th, 2025`),
+  and the dates are sorted against each other to decide which acts are recent.
+  `fetch_versions.py` normalises what it recognises;
+  print the index and look at it before harvesting,
+  because an unparsed date sorts after every real one
+  and makes the wrong acts look new.
+- A wiki may categorise the launch content under a beta version
+  (Zenless Zone Zero's prologue is `Released in Version 0.13`, a 2022 closed test).
+  That is what the wiki says, so publish it, and explain it in the caveats.
 - Do not assert a wiki host, an overview page or an infobox field from memory
   either. One `action=query&meta=siteinfo` call settles the host,
   and one `titles=` call settles whether a page exists.

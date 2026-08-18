@@ -12,7 +12,7 @@ There is no application here and no test suite;
 the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
-(`genshin-impact/` and `honkai-star-rail/`),
+(`genshin-impact/`, `honkai-star-rail/` and `zenless-zone-zero/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` (configuration and authored prose) and `claims.py`.
@@ -29,7 +29,8 @@ what a game differs in belongs in its `data/` or its `report.py`.
 
 ## Commands
 
-All commands are run from a report directory (`genshin-impact/`, `honkai-star-rail/`);
+All commands are run from a report directory
+(`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -83,7 +84,8 @@ Generic, in the skill's `scripts/`, parameterised by `<workdir>` or `<report>`:
 and `gen_docs.py` (layout).
 
 Report-specific: `data/` (`wiki.json`, `game.txt`, `acts.tsv`,
-`chapter_keys.json`, `compilations.txt`, `partials.txt`, `query_templates.txt`),
+`chapter_keys.json`, `act_keys.json`, `compilations.txt`, `partials.txt`,
+`query_templates.txt`),
 `report.py` (the game's configuration and the authored prose)
 and `claims.py` (the assertions guarding that prose).
 
@@ -93,6 +95,7 @@ What games disagree about is already parameterised:
 the wiki and its version infobox (`data/wiki.json`),
 the word acts are numbered with (read off the labels in `acts.tsv`),
 what an upload titled as less than one act looks like (`data/partials.txt`),
+what tells two same-named acts apart (`data/act_keys.json`),
 the level gate's name, the questline page and the renderer's nouns
 (`report.py`).
 

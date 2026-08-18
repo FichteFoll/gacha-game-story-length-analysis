@@ -41,7 +41,7 @@ The Express reaches the Eternal Land
 where three Paths intersect,
 and joins the flame-chase
 that Amphoreus has been running for longer than anyone admits.
-The single longest act in the game.
+The single longest mission in the game.
 
 - **Estimated length:** 8 h 20 min
 - **Sampled range:** 7 h 33 min to 9 h 28 min for the middle half (full spread 6 h 57 min to 11 h 32 min) across 9 playthrough uploads (14 further candidates screened out)
@@ -301,6 +301,6 @@ asked to be remembered rather than mourned.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [Amphoreus](https://honkai-star-rail.fandom.com/wiki/Amphoreus) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [Amphoreus](https://honkai-star-rail.fandom.com/wiki/Amphoreus) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

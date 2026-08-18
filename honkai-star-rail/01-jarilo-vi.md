@@ -92,6 +92,6 @@ by handing the planet to the Stellaron.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [Jarilo-VI](https://honkai-star-rail.fandom.com/wiki/Jarilo-VI) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [Jarilo-VI](https://honkai-star-rail.fandom.com/wiki/Jarilo-VI) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

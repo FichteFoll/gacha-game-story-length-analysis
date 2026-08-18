@@ -10,7 +10,7 @@ wikis rename pages, and the young ones are still being built.
 | --- | --- | --- | --- | --- |
 | Genshin Impact | `genshin-impact.fandom.com` | Genshin Impact Wiki | `Archon Quest` | Adventure Rank |
 | Honkai: Star Rail | `honkai-star-rail.fandom.com` | Honkai: Star Rail Wiki | `Trailblaze Mission` | Trailblaze Level (Equilibrium Level for difficulty) |
-| Zenless Zone Zero | `zenless-zone-zero.fandom.com` | Zenless Zone Zero Wiki | `Phaethon's Story` (`Main Story` redirects to it) | Inter-Knot Level |
+| Zenless Zone Zero | `zenless-zone-zero.fandom.com` | Zenless Zone Zero Wiki | `Phaethon's Story` (`Main Story` redirects to it) | Inter-Knot Level, but not recorded per chapter; leave `gate_label` unset |
 | Wuthering Waves | `wutheringwaves.fandom.com` | Wuthering Waves Wiki | `Main Quest` | Union Level |
 | Arknights: Endfield | `endfield.fandom.com` | Arknights: Endfield Wiki | `Mission` | none found; leave `gate_label` unset |
 
@@ -58,7 +58,21 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   the report so far leaves both out.
   Its uploaders split a mission across several uploads more than any other
   game looked at, which is what `partials.txt` exists for.
-- **Zenless Zone Zero.** Phaethon's Story is cut into chapters and interludes.
+- **Zenless Zone Zero.** Phaethon's Story is cut into seasons,
+  and a season into chapters with an intermission, an interlude and an epilogue
+  among them. Use the season as the chapter and the chapter as the act.
+  The structure is not on `Phaethon's Story` itself, which only transcludes it:
+  read `Season 1`, `Season 2` and `Season 3`, or `Template:Chapter Navbox`,
+  which carries all three plus the headers the chapters group under.
+  The pages are named after the chapter's title, not after "Chapter 1A",
+  and the quest parts are the links under each page's `Episodes` heading.
+  Every chapter ships in an (A) and a (B) half;
+  chapters 1 to 5 shipped both halves in one version and are uploaded as one
+  chapter, the two epilogues shipped a version apart and are uploaded apart.
+  The wiki records no Inter-Knot Level per chapter, only the other direction:
+  the Senior Proxy rank-up requires the Chapter 2 Interlude commission.
+  Expect low confidence across Season 1: the game is dialogue-heavy,
+  the dialogue is skippable, and its uploads disagree by a factor of three.
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves
   and expect low confidence throughout: the upload pool is young.

@@ -5,7 +5,7 @@ from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
 **Total for the whole main questline: 118 h 11 min** (24 entries counting missions, measured against 244 accepted uploads out of 652 candidates).
-That figure is the sum of the per-act medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
+That figure is the sum of the per-mission medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
 
@@ -34,10 +34,10 @@ That figure is the sum of the per-act medians, so treat it as an order of magnit
 ## Method
 
 1. **Structure from the wiki.**
-The chapter and act list, the act titles, the quest parts
+The chapter and mission list, the mission titles, the quest parts
 and the Level gates come from the
 [Trailblaze Mission page](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission)
-and the individual chapter and act pages of the Honkai: Star Rail Wiki.
+and the individual chapter and mission pages of the Honkai: Star Rail Wiki.
 Fandom serves a Cloudflare challenge to plain HTTP clients,
 so the pages were read through the MediaWiki API
 (`/api.php?action=query&prop=revisions&rvprop=content`) instead.
@@ -47,7 +47,7 @@ For every mission, YouTube was searched four ways:
 by world plus mission title, by mission title alone,
 and twice by the patch branding recent uploads use instead of mission titles
 ("Honkai: Star Rail 4.4 Planarcadia Trailblaze Mission Walkthrough").
-Acts released within the last four versions are searched twice as deep,
+Missions released within the last four versions are searched twice as deep,
 because they have far fewer uploads to draw on.
 Each result was collected with its runtime, title, uploader,
 view count and URL.
@@ -62,34 +62,34 @@ YouTube rate-limits these requests,
 so the pass covers as many as it manages
 and the rest keep their figures from the search listing.
 
-4. **Locating the act inside the upload.**
+4. **Locating the mission inside the upload.**
 Where an uploader marked out their video with chapter markers,
-the markers are matched against the act's quest parts,
+the markers are matched against the mission's quest parts,
 its title and its number,
-and the act is measured from those markers rather than from
+and the mission is measured from those markers rather than from
 the video's total runtime.
 That drops the uploader's pre-roll and detours from the measurement,
-turns an upload covering two acts into evidence for each of them,
+turns an upload covering two missions into evidence for each of them,
 and, where enough uploads marked the same quest part,
 gives that part its own median.
 A marker set that covers less than 60 percent
-of a single-act upload is ignored:
+of a single-mission upload is ignored:
 those markers were something other than the quest parts,
-and trusting them would under-measure the act.
+and trusting them would under-measure the mission.
 
 5. **Screening.**
 A candidate is discarded when its title marks it as something other than
-a hands-on playthrough of exactly that act:
+a hands-on playthrough of exactly that mission:
 cutscene reels, cinematic edits, lore explainers, guides and reaction videos;
 livestreams and let's-plays, whose idle chatter inflates runtime;
-multi-act compilations such as "Full Amphoreus Trailblaze Quest" or "100% all missions",
-unless their chapter markers located this act inside them;
+multi-mission compilations such as "Full Amphoreus Trailblaze Quest" or "100% all missions",
+unless their chapter markers located this mission inside them;
 uploads covering part of a mission rather than all of it,
 which in this game means both the numbered kind ("Part 3")
 and the kind titled after a single quest part of the mission,
 unless their runtime says they cover the mission after all;
-and uploads whose title does not name the act
-either by name or by chapter plus act number.
+and uploads whose title does not name the mission
+either by name or by chapter plus mission number.
 Of the survivors, anything below half or above 1.8 times the median
 is dropped as a truncated or padded upload.
 
@@ -98,7 +98,7 @@ The published figure is the **median** of the accepted uploads.
 From eight uploads on, the published range is the **middle half**
 (the interquartile range), with the full spread given alongside it:
 one padded upload widens a min-max range that is otherwise tight,
-and says more about that uploader than about the act.
+and says more about that uploader than about the mission.
 Below eight uploads there is no distribution to speak of
 and the range is the minimum and maximum.
 Nothing is rated above *low* on fewer than eight uploads.
@@ -106,7 +106,7 @@ From there, confidence is *high*
 when the middle half spans a factor under 1.25
 and *medium* under 1.5.
 Everything else is *low*,
-as is any act whose median moved by 10 percent or more
+as is any mission whose median moved by 10 percent or more
 against the earlier, independent set of queries
 (`analyze.py --compare`):
 a figure that moves when the queries change was never settled,
@@ -114,10 +114,10 @@ whatever its sample size says.
 
 ## What these numbers do and do not mean
 
-- They measure **video runtime of someone playing the act**,
-which is the closest available proxy for how long the act takes.
+- They measure **video runtime of someone playing the mission**,
+which is the closest available proxy for how long the mission takes.
 They are not official figures;
-HoYoverse does not publish act lengths.
+HoYoverse does not publish mission lengths.
 - Runtime includes the traversal, dialogue and combat
 that a player cannot skip,
 but it also includes whatever detours the uploader took,
@@ -127,7 +127,7 @@ Treat the median as a middle estimate and the range as the real spread.
 - Uploaders play at different speeds,
 skip cutscenes to different degrees,
 and record on different game versions.
-Acts that were rebalanced or shortened after release
+Missions that were rebalanced or shortened after release
 may be measured against older, longer uploads.
 - The 1.0 missions are the hardest of all to measure.
 The uploads that exist are the oldest on YouTube,
@@ -153,7 +153,7 @@ so both are outside this report's scope.
 ## Files
 
 - One markdown file per chapter, listed in the table above.
-Each act section carries a collapsed evidence table
+Each mission section carries a collapsed evidence table
 with runtime, video title, uploader, view count, upload date and URL
 for every accepted upload.
 A view count prefixed with `~` came from the search listing

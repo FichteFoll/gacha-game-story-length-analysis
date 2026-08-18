@@ -129,6 +129,6 @@ The shortest entry in the questline.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [The Xianzhou Luofu](https://honkai-star-rail.fandom.com/wiki/The_Xianzhou_Luofu) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [The Xianzhou Luofu](https://honkai-star-rail.fandom.com/wiki/The_Xianzhou_Luofu) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

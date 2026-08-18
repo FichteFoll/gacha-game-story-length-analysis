@@ -61,6 +61,16 @@ def plural(count, noun):
     return f"{count} {noun}" + ("" if count == 1 else "s")
 
 
+def unit(report):
+    """What this game calls one entry, lowercased, for the renderer's own prose.
+
+    The pipeline calls it an act throughout, and the file and script names in
+    the Files section keep that word, but a report on chapters or missions
+    should not describe itself in a vocabulary the game never uses.
+    """
+    return report.config.get("unit", "Act").lower()
+
+
 def bounds(stats):
     """The middle half where the sample carries it, the full spread otherwise."""
     if stats.get("q1") and stats.get("q3"):
@@ -108,8 +118,10 @@ class Report:
     def json(self, name):
         return json.loads((self.data / name).read_text())
 
-    def link(self, title):
-        return f"[{title}]({self.wiki}{title.replace(' ', '_')})"
+    def link(self, title, page=None):
+        """A wiki link, under a display title the page is not always named after."""
+        page = page or title
+        return f"[{title}]({self.wiki}{page.replace(' ', '_')})"
 
     def gate_for(self, act):
         key = f"{act['chapter_id']}|{act['act_label']}"
@@ -162,7 +174,8 @@ def act_section(report, act, parts, versions, version_index, facts, superlative)
     note = "\n".join(filter(None, [prose(report.act_notes.get(key, ""), facts),
                                    superlative.get(key)]))
     body = [
-        f"### {act['act_label']} - {report.link(act['act_title'])}",
+        f"### {act['act_label']} - "
+        f"{report.link(act['act_title'], act.get('wiki_page'))}",
         "",
         note,
         "",
@@ -225,7 +238,7 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
                                 superlative))
     overview = report.config["overview_page"]
     gate = report.config["gate_label"]
-    sourced = "Questline structure, act titles, quest parts"
+    sourced = f"Questline structure, {unit(report)} titles, quest parts"
     if gate:
         sourced += f" and {gate} gates"
     head += [
@@ -234,7 +247,7 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
         f"- {sourced}: "
         f"{report.link(chap['wiki_page'])} "
         f"and {report.link(overview)} on the {report.wiki_name} (Fandom).",
-        "- Durations: the YouTube uploads listed under each act above. \n"
+        f"- Durations: the YouTube uploads listed under each {unit(report)} above. \n"
         "See [README.md](README.md) for the method and its limits.",
         "",
     ]
@@ -250,21 +263,23 @@ def method(report):
     """
     overview = report.config["overview_page"]
     gate = report.config["gate_label"]
-    sourced = "The chapter and act list, the act titles, the quest parts"
+    sourced = (f"The chapter and {unit(report)} list, the {unit(report)} titles, "
+              f"the quest parts")
     if gate:
         sourced += f" \nand the {gate} gates"
     return [
         "1. **Structure from the wiki.** \n"
         f"{sourced} come from the \n"
         f"[{overview} page]({report.wiki}{overview.replace(' ', '_')}) \n"
-        f"and the individual chapter and act pages of the {report.wiki_name}. \n"
+        f"and the individual chapter and {unit(report)} pages of the {report.wiki_name}. \n"
         "Fandom serves a Cloudflare challenge to plain HTTP clients, \n"
         "so the pages were read through the MediaWiki API \n"
         "(`/api.php?action=query&prop=revisions&rvprop=content`) instead.",
         "",
         "2. **Durations from playthrough uploads.** \n"
         f"{report.config['queries']} \n"
-        f"Acts released within the last {word(RECENT_VERSIONS)} versions "
+        f"{unit(report).capitalize()}s released within the last "
+        f"{word(RECENT_VERSIONS)} versions "
         f"are searched twice as deep, \n"
         "because they have far fewer uploads to draw on. \n"
         "Each result was collected with its runtime, title, uploader, \n"
@@ -280,31 +295,31 @@ def method(report):
         "so the pass covers as many as it manages \n"
         "and the rest keep their figures from the search listing.",
         "",
-        "4. **Locating the act inside the upload.** \n"
+        f"4. **Locating the {unit(report)} inside the upload.** \n"
         "Where an uploader marked out their video with chapter markers, \n"
-        "the markers are matched against the act's quest parts, \n"
+        f"the markers are matched against the {unit(report)}'s quest parts, \n"
         "its title and its number, \n"
-        "and the act is measured from those markers rather than from \n"
+        f"and the {unit(report)} is measured from those markers rather than from \n"
         "the video's total runtime. \n"
         "That drops the uploader's pre-roll and detours from the measurement, \n"
-        "turns an upload covering two acts into evidence for each of them, \n"
+        f"turns an upload covering two {unit(report)}s into evidence for each of them, \n"
         "and, where enough uploads marked the same quest part, \n"
         "gives that part its own median. \n"
         f"A marker set that covers less than {round(SPAN_COVERAGE * 100)} percent \n"
-        "of a single-act upload is ignored: \n"
+        f"of a single-{unit(report)} upload is ignored: \n"
         "those markers were something other than the quest parts, \n"
-        "and trusting them would under-measure the act.",
+        f"and trusting them would under-measure the {unit(report)}.",
         "",
         "5. **Screening.** \n"
         "A candidate is discarded when its title marks it as something other than \n"
-        "a hands-on playthrough of exactly that act: \n"
+        f"a hands-on playthrough of exactly that {unit(report)}: \n"
         "cutscene reels, cinematic edits, lore explainers, guides and reaction videos; \n"
         "livestreams and let's-plays, whose idle chatter inflates runtime; \n"
-        f"multi-act compilations such as {report.config['compilations']}, \n"
-        "unless their chapter markers located this act inside them; \n"
+        f"multi-{unit(report)} compilations such as {report.config['compilations']}, \n"
+        f"unless their chapter markers located this {unit(report)} inside them; \n"
         + partials_clause(report) +
-        "and uploads whose title does not name the act \n"
-        "either by name or by chapter plus act number. \n"
+        f"and uploads whose title does not name the {unit(report)} \n"
+        f"either by name or by chapter plus {unit(report)} number. \n"
         f"Of the survivors, anything below half or above {LONG_OUTLIER} times "
         f"the median \n"
         "is dropped as a truncated or padded upload.",
@@ -315,7 +330,7 @@ def method(report):
         f"the **middle half** \n"
         "(the interquartile range), with the full spread given alongside it: \n"
         "one padded upload widens a min-max range that is otherwise tight, \n"
-        "and says more about that uploader than about the act. \n"
+        f"and says more about that uploader than about the {unit(report)}. \n"
         f"Below {word(MIN_SAMPLES)} uploads there is no distribution to speak of \n"
         "and the range is the minimum and maximum. \n"
         f"Nothing is rated above *low* on fewer than {word(MIN_SAMPLES)} uploads. \n"
@@ -323,7 +338,8 @@ def method(report):
         f"when the middle half spans a factor under {SPREAD_HIGH} \n"
         f"and *medium* under {SPREAD_MEDIUM}. \n"
         "Everything else is *low*, \n"
-        f"as is any act whose median moved by {round(UNSTABLE_DRIFT * 100)} "
+        f"as is any {unit(report)} whose median moved by "
+        f"{round(UNSTABLE_DRIFT * 100)} "
         f"percent or more \n"
         "against the earlier, independent set of queries \n"
         "(`analyze.py --compare`): \n"
@@ -345,10 +361,10 @@ def partials_clause(report):
 def limits(report):
     """What the numbers are, and the report's own caveats after the shared ones."""
     shared = [
-        "- They measure **video runtime of someone playing the act**, \n"
-        "which is the closest available proxy for how long the act takes. \n"
+        f"- They measure **video runtime of someone playing the {unit(report)}**, \n"
+        f"which is the closest available proxy for how long the {unit(report)} takes. \n"
         "They are not official figures; \n"
-        f"{report.config['publisher']} does not publish act lengths.",
+        f"{report.config['publisher']} does not publish {unit(report)} lengths.",
         "- Runtime includes the traversal, dialogue and combat \n"
         "that a player cannot skip, \n"
         "but it also includes whatever detours the uploader took, \n"
@@ -358,7 +374,7 @@ def limits(report):
         "- Uploaders play at different speeds, \n"
         "skip cutscenes to different degrees, \n"
         "and record on different game versions. \n"
-        "Acts that were rebalanced or shortened after release \n"
+        f"{unit(report).capitalize()}s that were rebalanced or shortened after release \n"
         "may be measured against older, longer uploads.",
     ]
     return shared + [f"- {c}" for c in report.config["caveats"]]
@@ -374,7 +390,7 @@ def steering_inputs(report):
 def files_section(report):
     return [
         "- One markdown file per chapter, listed in the table above. \n"
-        "Each act section carries a collapsed evidence table \n"
+        f"Each {unit(report)} section carries a collapsed evidence table \n"
         "with runtime, video title, uploader, view count, upload date and URL \n"
         "for every accepted upload. \n"
         "A view count prefixed with `~` came from the search listing \n"
@@ -431,7 +447,7 @@ def readme(report, by_chapter):
         f"counting {report.config.get('entries_are', 'acts, preludes and interludes')}, "
         f"measured against {n_videos} accepted uploads "
         f"out of {n_screened} candidates).\n"
-        "That figure is the sum of the per-act medians, "
+        f"That figure is the sum of the per-{unit(report)} medians, "
         "so treat it as an order of magnitude "
         "rather than a number anyone actually clocked end to end.",
         "",
@@ -492,7 +508,7 @@ def main(argv):
                   f"(--no-verify to render anyway)", file=sys.stderr)
             return 1
 
-    superlative = superlatives(analysis)
+    superlative = superlatives(analysis, report.config.get("unit", "Act").lower())
     by_chapter = {}
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)

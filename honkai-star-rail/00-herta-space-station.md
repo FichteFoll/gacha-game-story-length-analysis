@@ -57,6 +57,6 @@ One of the three shortest entries in the questline.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [Herta Space Station](https://honkai-star-rail.fandom.com/wiki/Herta_Space_Station) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [Herta Space Station](https://honkai-star-rail.fandom.com/wiki/Herta_Space_Station) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

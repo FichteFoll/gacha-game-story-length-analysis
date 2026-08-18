@@ -37,7 +37,7 @@ Arrival in the painted paradise:
 Phantasmoon, imagenesis,
 and the reward THEY left behind
 for anyone who wants a minute of godhood.
-One of the three longest acts in the game.
+One of the three longest missions in the game.
 
 - **Estimated length:** 8 h 01 min
 - **Sampled range:** 4 h 40 min to 9 h 51 min across 7 playthrough uploads (16 further candidates screened out)
@@ -215,6 +215,6 @@ the realm of death.
 
 ## Sources
 
-- Questline structure, act titles, quest parts and Level gates: [Planarcadia](https://honkai-star-rail.fandom.com/wiki/Planarcadia) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
-- Durations: the YouTube uploads listed under each act above.
+- Questline structure, mission titles, quest parts and Level gates: [Planarcadia](https://honkai-star-rail.fandom.com/wiki/Planarcadia) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

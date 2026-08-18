@@ -4,6 +4,7 @@
   "chapter_title": "Herta Space Station",
   "act_label": "Mission 1",
   "act_title": "Today Is Yesterday's Tomorrow",
+  "wiki_page": "Today Is Yesterday's Tomorrow",
   "slug": "herta_Mission_1",
   "candidates": [
    {
@@ -341,6 +342,7 @@
   "chapter_title": "Jarilo-VI",
   "act_label": "Mission 1",
   "act_title": "In the Withering Wintry Night",
+  "wiki_page": "In the Withering Wintry Night",
   "slug": "jarilo_Mission_1",
   "candidates": [
    {
@@ -847,6 +849,7 @@
   "chapter_title": "Jarilo-VI",
   "act_label": "Mission 2",
   "act_title": "In the Sweltering Morning Sun",
+  "wiki_page": "In the Sweltering Morning Sun",
   "slug": "jarilo_Mission_2",
   "candidates": [
    {
@@ -1171,6 +1174,7 @@
   "chapter_title": "The Xianzhou Luofu",
   "act_label": "Mission 1",
   "act_title": "Windswept Wanderlust",
+  "wiki_page": "Windswept Wanderlust",
   "slug": "luofu_Mission_1",
   "candidates": [
    {
@@ -1574,6 +1578,7 @@
   "chapter_title": "The Xianzhou Luofu",
   "act_label": "Mission 2",
   "act_title": "Topclouded Towerthrust",
+  "wiki_page": "Topclouded Towerthrust",
   "slug": "luofu_Mission_2",
   "candidates": [
    {
@@ -1870,6 +1875,7 @@
   "chapter_title": "The Xianzhou Luofu",
   "act_label": "Mission 3",
   "act_title": "Karmic Clouds Faded, War Banners Folded",
+  "wiki_page": "Karmic Clouds Faded, War Banners Folded",
   "slug": "luofu_Mission_3",
   "candidates": [
    {
@@ -2173,6 +2179,7 @@
   "chapter_title": "Penacony",
   "act_label": "Mission 1",
   "act_title": "The Sound and the Fury",
+  "wiki_page": "The Sound and the Fury",
   "slug": "penacony_Mission_1",
   "candidates": [
    {
@@ -2540,6 +2547,7 @@
   "chapter_title": "Penacony",
   "act_label": "Mission 2",
   "act_title": "Cat Among Pigeons",
+  "wiki_page": "Cat Among Pigeons",
   "slug": "penacony_Mission_2",
   "candidates": [
    {
@@ -2940,6 +2948,7 @@
   "chapter_title": "Penacony",
   "act_label": "Mission 3",
   "act_title": "In Our Time",
+  "wiki_page": "In Our Time",
   "slug": "penacony_Mission_3",
   "candidates": [
    {
@@ -3322,6 +3331,7 @@
   "chapter_title": "Penacony",
   "act_label": "Mission 4",
   "act_title": "Farewell, Penacony",
+  "wiki_page": "Farewell, Penacony",
   "slug": "penacony_Mission_4",
   "candidates": [
    {
@@ -3638,6 +3648,7 @@
   "chapter_title": "Penacony",
   "act_label": "Mission 5",
   "act_title": "A New Venture on the Eighth Dawn",
+  "wiki_page": "A New Venture on the Eighth Dawn",
   "slug": "penacony_Mission_5",
   "candidates": [
    {
@@ -3968,6 +3979,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 1",
   "act_title": "Heroic Saga of Flame-Chase",
+  "wiki_page": "Heroic Saga of Flame-Chase",
   "slug": "amphoreus_Mission_1",
   "candidates": [
    {
@@ -4330,6 +4342,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 2",
   "act_title": "Light Slips the Gate, Shadow Greets the Throne",
+  "wiki_page": "Light Slips the Gate, Shadow Greets the Throne",
   "slug": "amphoreus_Mission_2",
   "candidates": [
    {
@@ -4733,6 +4746,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 3",
   "act_title": "Through the Petals in the Land of Repose",
+  "wiki_page": "Through the Petals in the Land of Repose",
   "slug": "amphoreus_Mission_3",
   "candidates": [
    {
@@ -5143,6 +5157,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 4",
   "act_title": "The Fall at Dawn's Rise",
+  "wiki_page": "The Fall at Dawn's Rise",
   "slug": "amphoreus_Mission_4",
   "candidates": [
    {
@@ -5537,6 +5552,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 5",
   "act_title": "For the Sun is Set to Die",
+  "wiki_page": "For the Sun is Set to Die",
   "slug": "amphoreus_Mission_5",
   "candidates": [
    {
@@ -5907,6 +5923,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 6",
   "act_title": "Before Their Deaths",
+  "wiki_page": "Before Their Deaths",
   "slug": "amphoreus_Mission_6",
   "candidates": [
    {
@@ -6212,6 +6229,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 7",
   "act_title": "Back to Earth in Evernight",
+  "wiki_page": "Back to Earth in Evernight",
   "slug": "amphoreus_Mission_7",
   "candidates": [
    {
@@ -6516,6 +6534,7 @@
   "chapter_title": "Amphoreus",
   "act_label": "Mission 8",
   "act_title": "As Tomorrow Became Yesterday",
+  "wiki_page": "As Tomorrow Became Yesterday",
   "slug": "amphoreus_Mission_8",
   "candidates": [
    {
@@ -6898,6 +6917,7 @@
   "chapter_title": "Planarcadia",
   "act_label": "Mission 1",
   "act_title": "Welcome to Arcadia",
+  "wiki_page": "Welcome to Arcadia",
   "slug": "planarcadia_Mission_1",
   "candidates": [
    {
@@ -7218,6 +7238,7 @@
   "chapter_title": "Planarcadia",
   "act_label": "Mission 2",
   "act_title": "Unraveled for Daybreak",
+  "wiki_page": "Unraveled for Daybreak",
   "slug": "planarcadia_Mission_2",
   "candidates": [
    {
@@ -7727,6 +7748,7 @@
   "chapter_title": "Planarcadia",
   "act_label": "Mission 3",
   "act_title": "So Laughed the Masses",
+  "wiki_page": "So Laughed the Masses",
   "slug": "planarcadia_Mission_3",
   "candidates": [
    {
@@ -8240,6 +8262,7 @@
   "chapter_title": "Planarcadia",
   "act_label": "Mission 4",
   "act_title": "The Lethe Below the Living",
+  "wiki_page": "The Lethe Below the Living",
   "slug": "planarcadia_Mission_4",
   "candidates": [
    {
@@ -8885,6 +8908,7 @@
   "chapter_title": "Planarcadia",
   "act_label": "Mission 5",
   "act_title": "In Ravages Does the Whistle Sound",
+  "wiki_page": "In Ravages Does the Whistle Sound",
   "slug": "planarcadia_Mission_5",
   "candidates": [
    {

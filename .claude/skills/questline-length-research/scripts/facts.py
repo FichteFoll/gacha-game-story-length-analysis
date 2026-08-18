@@ -60,11 +60,13 @@ def rank(act, acts, longest=True):
     return 1 + sum(1 for o in acts if better(o))
 
 
-def superlatives(acts):
+def superlatives(acts, unit="act"):
     """Generated superlative sentences, keyed "<chapter id>|<act label>".
 
     Derived rather than authored, so the phrase can only turn up on an act that
-    currently holds the position, and ties are stated as ties.
+    currently holds the position, and ties are stated as ties. `unit` is what
+    this game calls one of them, so a report on chapters does not talk about
+    acts.
     """
     out = {}
     for act in acts:
@@ -73,10 +75,11 @@ def superlatives(acts):
                 if o is not act and median_of(o) == median_of(act)]
         if high == 1:
             others = " and ".join(act_name(o) for o in tied)
-            sentence = (f"Tied with {others} for the longest act in the game."
-                        if tied else "The single longest act in the game.")
+            sentence = (f"Tied with {others} for the longest {unit} in the game."
+                        if tied else f"The single longest {unit} in the game.")
         elif high <= EXTREME_DEPTH:
-            sentence = f"One of the {word(EXTREME_DEPTH)} longest acts in the game."
+            sentence = (f"One of the {word(EXTREME_DEPTH)} longest {unit}s "
+                        f"in the game.")
         elif low == 1 and not tied:
             sentence = "The shortest entry in the questline."
         elif low <= EXTREME_DEPTH:
