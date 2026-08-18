@@ -51,6 +51,10 @@ def released_in(act, versions, version_index):
     return f"{name} ({number})" if number and number != name else name
 
 
+def plural(count, noun):
+    return f"{count} {noun}" + ("" if count == 1 else "s")
+
+
 def bounds(stats):
     """The middle half where the sample carries it, the full spread otherwise."""
     if stats.get("q1") and stats.get("q3"):
@@ -138,7 +142,7 @@ def act_section(act, parts, versions, version_index, facts, superlative):
         f"- **Estimated length:** {hm(s['median'])}",
         f"- **Sampled range:** {ranged(s)} "
         f"across {s['n']} playthrough uploads "
-        f"({screened} further candidates screened out)",
+        f"({plural(screened, 'further candidate')} screened out)",
         f"- **Confidence:** {confidence(s)}",
         f"- **Adventure Rank gate:** {ar_for(act)}",
         f"- **Released in:** {released_in(act, versions, version_index)}",

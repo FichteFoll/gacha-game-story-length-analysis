@@ -104,7 +104,7 @@ the escape,
 and the first hard evidence for the prophecy of dissolution.
 
 - **Estimated length:** 2 h 14 min
-- **Sampled range:** 1 h 47 min to 2 h 27 min for the middle half (full spread 1 h 29 min to 2 h 43 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 1 h 47 min to 2 h 27 min for the middle half (full spread 1 h 29 min to 2 h 43 min) across 10 playthrough uploads (1 further candidate screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1

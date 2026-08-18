@@ -74,7 +74,7 @@ The Sabzeruz Festival repeats itself until the Traveler breaks the loop
 and pulls Nahida out of the Akademiya's dream.
 
 - **Estimated length:** 2 h 27 min
-- **Sampled range:** 1 h 48 min to 2 h 43 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 11 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 1 h 48 min to 2 h 43 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 11 playthrough uploads (1 further candidate screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0

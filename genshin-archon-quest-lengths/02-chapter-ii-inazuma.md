@@ -106,7 +106,7 @@ and uncovering the Delusion factory.
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 50 min
-- **Sampled range:** 45 min to 57 min for the middle half (full spread 43 min to 1 h 01 min) across 11 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 45 min to 57 min for the middle half (full spread 43 min to 1 h 01 min) across 11 playthrough uploads (1 further candidate screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
@@ -170,7 +170,7 @@ Enkanomiya, the Black Serpent Knights,
 and Dainsleif's account of the sibling's part in the cataclysm.
 
 - **Estimated length:** 58 min
-- **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 42 min to 1 h 37 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 42 min to 1 h 37 min) across 10 playthrough uploads (1 further candidate screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6

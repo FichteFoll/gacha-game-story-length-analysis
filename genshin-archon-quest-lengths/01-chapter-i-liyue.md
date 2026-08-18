@@ -131,7 +131,7 @@ and the Khaenri'ah backstory behind the Abyss Order.
 The shortest entry in the questline.
 
 - **Estimated length:** 36 min
-- **Sampled range:** 28 min to 45 min for the middle half (full spread 27 min to 52 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 28 min to 45 min for the middle half (full spread 27 min to 52 min) across 10 playthrough uploads (1 further candidate screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 28
 - **Released in:** 1.3
@@ -162,7 +162,7 @@ Dainsleif leads the Traveler to the Abyss Order's ritual,
 where the sibling is revealed as its leader.
 
 - **Estimated length:** 1 h 12 min
-- **Sampled range:** 58 min to 1 h 23 min for the middle half (full spread 52 min to 1 h 28 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 58 min to 1 h 23 min for the middle half (full spread 52 min to 1 h 28 min) across 10 playthrough uploads (1 further candidate screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 28
 - **Released in:** 1.4

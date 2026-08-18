@@ -69,7 +69,7 @@ the Abyss Order's hand in Dvalin's corruption comes to light,
 and the attempt to reach the dragon through his memories fails.
 
 - **Estimated length:** 1 h 04 min
-- **Sampled range:** 1 h 02 min to 1 h 23 min for the middle half (full spread 48 min to 1 h 53 min) across 10 playthrough uploads (1 further candidates screened out)
+- **Sampled range:** 1 h 02 min to 1 h 23 min for the middle half (full spread 48 min to 1 h 53 min) across 10 playthrough uploads (1 further candidate screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 10
 - **Released in:** 1.0
