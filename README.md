@@ -10,7 +10,10 @@ each act lists the uploads it was measured from,
 with runtime, uploader, view count, upload date and URL,
 and the rejected candidates are kept too,
 each with the reason it was rejected.
-Nothing in the published prose is a hand-written number.
+The prose around them is written by hand,
+but its numbers are not:
+each sits in a placeholder that the pipeline fills from that evidence,
+and what the words claim beyond the numbers is asserted against it.
 
 ## Reports
 
@@ -160,8 +163,14 @@ are the inputs the pipeline is steered with,
 joined by `data/partials.txt` where the game's uploaders split acts
 across videos,
 and by `data/act_keys.json` where a chapter has two acts of the same name.
-- `report.py` is the game's configuration and its authored prose,
-and `claims.py` the assertions that prose is checked against.
+- `report.py` is the game's configuration and structure,
+and `claims.py` the assertions the prose is checked against.
+
+The published markdown itself is hand-written.
+Wherever a figure or a generated block belongs in it,
+the file carries a placeholder written as an HTML comment,
+and the pipeline rewrites the contents of those placeholders
+and nothing else.
 
 The scripts live once, in the `questline-length-research` skill
 (`.claude/skills/questline-length-research/scripts/`),
@@ -170,7 +179,7 @@ shared by every report and specific to none:
 `topup.sh` widens a thin act's pool,
 `analyze.py` screens them and computes the statistics,
 `enrich.sh` fetches exact metadata and chapter markers for the survivors,
-and `gen_docs.py` renders the markdown from `analysis.json`.
+and `gen_docs.py` fills the marked regions of the markdown from `analysis.json`.
 Adding a game is a new report directory, never a change to a script.
 
 ## Reproducing a report
@@ -183,13 +192,15 @@ python3 $SKILL/analyze.py data --compare data/baseline.json
 python3 $SKILL/gen_docs.py .
 ```
 
-That round trip reproduces every tracked file byte for byte
-from the harvested evidence.
+That round trip rewrites every derived figure and every generated table
+in the tracked markdown from the harvested evidence,
+and leaves the authored prose around them untouched:
+on unchanged evidence it reproduces the tracked files byte for byte.
 Re-running the harvest itself needs `yt-dlp` and takes tens of minutes;
 the harvest, enrichment and top-up scripts are all resumable.
 
-Every figure in the published prose is interpolated from `analysis.json`
-rather than written by hand,
+Every figure in the published prose sits in a placeholder
+filled from `analysis.json` rather than written by hand,
 and the claims the prose makes in words
 ("the longest act in the game", "the chapter centrepiece")
 are asserted in each report's `claims.py` before any file is written.

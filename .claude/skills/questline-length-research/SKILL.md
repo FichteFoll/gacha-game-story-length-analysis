@@ -36,6 +36,8 @@ of the games already looked at.
 One directory per game, named after the game, holding only what is game-specific:
 
 ```
+<report>/README.md                the authored index, with its placeholders
+<report>/00-<chapter-slug>.md     the authored chapter files, one per chapter
 <report>/data/wiki.json           which wiki, and how it records versions
 <report>/data/game.txt            the game's name, as uploaders spell it
 <report>/data/acts.tsv            the questline structure (step 1)
@@ -44,8 +46,8 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/query_templates.txt the YouTube searches to run per act
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
 <report>/data/partials.txt       phrasings for less than one act, if the game has any
-<report>/report.py                the game's configuration and the authored prose
-<report>/claims.py                what that prose asserts about the data
+<report>/report.py                the game's configuration and structure
+<report>/claims.py                what the prose asserts about the data
 ```
 
 Every game names its story hierarchy differently.
@@ -72,10 +74,16 @@ plus how it records release versions where that differs from the default
 (`released_in`, `version_page`, `version_fields`; see `scripts/fetch_versions.py`).
 Set `released_in` to `null` for a wiki that does not categorize by version at all.
 
-`report.py` carries the report's title and intro, the wiki page that documents
-the questline, the level gate's name (`gate_label`, `None` for a game without one),
-the per-game wording the method section quotes,
-the caveats that apply to this report only, and the authored prose.
+`report.py` carries no prose.
+It holds the wiki page that documents the questline (`overview_page`),
+the level gate's name (`gate_label`, `None` for a game without one)
+and the gates themselves, the unit noun, the collection date,
+and the chapter list with each chapter's id, slug, wiki page,
+region, versions and title.
+The report's title, its intro, its method wording and its caveats
+are written in `<report>/README.md`,
+and a chapter's blurb, pacing paragraph and act notes
+in that chapter's own markdown file.
 
 ## Step 1: get the structure from the wiki
 
@@ -315,29 +323,71 @@ and that is a measurement rather than a judgement call.
 
 Print the accepted and rejected candidates for the widest-spread acts and read them.
 Every pass so far has found the filters both over- and under-rejecting on the first try.
-Fix the patterns, re-run, and only then generate the report.
+Fix the patterns, re-run, and only then write the report.
 
 ## Step 8: write the report
 
+You write the markdown; the pipeline fills in the derived parts:
+
 ```bash
-scripts/gen_docs.py <report> [--no-verify]
+scripts/gen_docs.py <report> [--no-verify] [--scaffold]
 ```
 
 Per chapter: header line with region, versions, entry count and chapter total;
 a short story blurb; an at-a-glance act table; a pacing paragraph
 explaining *why* the chapter times out the way it does;
 then one section per act with the metadata, the quest parts and the evidence table.
-The renderer is generic; what it renders comes from the report's
-`report.py` (configuration and prose) and `claims.py`.
+The blurb, the pacing paragraph, the act notes, the headings and the sources
+are hand-written in the chapter file itself,
+and so are the report `README.md`'s intro, method wording and caveats.
+Everything derived sits in a placeholder in that same file,
+which `gen_docs.py` rewrites in place, leaving every other byte alone.
+The filler is generic; the structure it needs
+(chapter ids, slugs, wiki pages, regions, versions, gates, the unit noun)
+comes from the report's `report.py`, and the claims from its `claims.py`.
+
+The placeholders are HTML comments, in two forms:
+
+- an inline value, `<!--f:NAME-->2 h 10 min<!--/f-->`,
+  both markers on the same line and never nested inside another `f:` marker,
+  `NAME` naming a fact computed from `analysis.json`;
+- a generated block,
+  `<!--gen:KIND[ attr="value" ...]-->` ... `<!--/gen-->`,
+  each marker on a line of its own,
+  for a table or a bullet list:
+  `chapters`, `extremes` and `thresholds` in the report `README.md`,
+  `heading`, `glance`, `act-heading act="Act I"`, `stats act="Act I"`
+  and `evidence act="Act I"` in a chapter file.
+
+Keep a `gen:` block out of any paragraph, with a blank line on either side:
+a line holding only an HTML comment starts an HTML block in CommonMark
+and splits the paragraph in two.
+A value inside a sentence is therefore always the inline `f:` form,
+and it never spans a line break.
+An unknown name or kind, or an unterminated marker, fails the build.
+
+An act that `analysis.json` has and the markdown does not also fails the build,
+naming the act;
+`--scaffold` writes the stub sections for it instead,
+which is what to run after a re-harvest has turned up a new act.
+The scaffolded prose, and a new chapter's `## Sources` section,
+still have to be written by hand.
 
 See `reference/report-format.md` for the exact layout that worked.
 
 **Do not write a number into the prose.** Prose written against a mental model
 of the data is wrong roughly as often as it is checked, and it goes stale the
-moment a re-harvest moves a median. Instead:
+moment a re-harvest moves a median.
+Nothing stops you from typing a figure into a sentence any more,
+now that the sentences are markdown rather than Python format strings,
+so this is a rule you keep rather than one the filler enforces.
+Instead:
 
-- give the prose placeholders and fill them from the analysis at render time
-  ("{n_above_2h} of its {n_entries} acts sit above two hours");
+- put every figure in an `f:` marker, filled from the analysis on every run
+  ("<!--f:n_above_2h-->4<!--/f--> of its <!--f:n_entries-->6<!--/f--> acts
+  sit above two hours");
+  a marker naming a fact that does not exist fails the build,
+  which is the guarantee a hand-typed number does not get;
 - generate superlatives from a ranking computed over all acts,
   so "the longest act in the game" can only appear where it is true,
   and a tie is stated as a tie;
@@ -345,6 +395,8 @@ moment a re-harvest moves a median. Instead:
   ("marathon acts", "the chapter centrepiece", "by far the largest chapter")
   as an assertion over the analysis, evaluated before any file is written,
   failing the build with the sentence it guards.
+  These claims are what is left guarding a figure that was typed in by hand,
+  so write them for the numbers the words depend on as well.
 
 The vocabulary for those assertions is in `scripts/assertions.py`;
 the assertions themselves belong in the report's own `claims.py`.
