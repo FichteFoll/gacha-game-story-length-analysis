@@ -12,7 +12,7 @@ There is no application here and no test suite;
 the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
-(currently `genshin-archon-quest-lengths/`),
+(currently `genshin-impact/`),
 each self-contained: `README.md` plus one file per chapter,
 a `data/` vault, and a `pipeline/` copy of the scripts that produced it.
 
@@ -27,7 +27,7 @@ and vice versa, or the next report starts from the stale version.
 
 ## Commands
 
-All commands are run from the report directory (e.g. `genshin-archon-quest-lengths/`);
+All commands are run from the report directory (e.g. `genshin-impact/`);
 `<workdir>` is `data`.
 
 ```bash
