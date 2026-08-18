@@ -1,0 +1,122 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## What this repository is
+
+A data pipeline plus its published output:
+duration estimates for the story questlines of gacha games,
+measured from YouTube playthrough uploads
+because the publishers document no playtimes.
+There is no application here and no test suite;
+the deliverable is markdown, and the pipeline is what makes it reproducible.
+
+One top-level directory per game report
+(currently `genshin-archon-quest-lengths/`),
+each self-contained: `README.md` plus one file per chapter,
+a `data/` vault, and a `pipeline/` copy of the scripts that produced it.
+
+The reusable method lives in the skill
+`.claude/skills/questline-length-research/`,
+whose `SKILL.md` is the authoritative procedure (steps 1 to 8) and pitfall list.
+Read it before touching the pipeline:
+it explains *why* each screening rule and confidence threshold exists,
+and the per-report `pipeline/` directory is a copy of `scripts/` from there.
+Any change to a generic script must be carried back into the skill,
+and vice versa, or the next report starts from the stale version.
+
+## Commands
+
+All commands are run from the report directory (e.g. `genshin-archon-quest-lengths/`);
+`<workdir>` is `data`.
+
+```bash
+python3 pipeline/fetch_versions.py data <wiki-host>   # step 2, before harvesting
+pipeline/harvest.sh data [jobs] [--only <slug>,...]   # step 3, yt-dlp searches
+pipeline/enrich.sh data [jobs]                        # step 4, full extraction
+python3 pipeline/analyze.py data --compare data/baseline.json   # step 5, writes analysis.json
+printf '<slug>|<query>\n' | pipeline/topup.sh data [n]          # step 6, thin acts
+python3 pipeline/gen_docs.py                          # step 8, renders the markdown
+```
+
+`analyze.py data --compare data/baseline.json` followed by `gen_docs.py`
+reproduces every tracked file byte for byte;
+that round trip is the closest thing to a test suite here, so run it
+after any pipeline change and check `git status` comes back clean.
+
+`harvest.sh`, `enrich.sh` and `topup.sh` hit the network through `yt-dlp`
+and take tens of minutes: background them.
+All three are resumable (harvest skips acts that already have an evidence file,
+enrich skips URLs already in `enriched.tsv`),
+so an interrupted run is simply re-run.
+YouTube starts answering "Sign in to confirm you're not a bot"
+after a few hundred full extractions;
+`analyze.py` falls back to the harvested figures, so retry later rather than fighting it.
+
+`gen_docs.py --no-verify` renders despite failing claims, for inspection only.
+
+## Architecture
+
+Data flows in one direction, each stage writing a file the next one reads:
+
+```
+wiki (MediaWiki API) -> acts.tsv, quest_parts.json, versions.json, version_index.json
+queries.py (templates x act) -> harvest.sh -> data/evidence/<chapter>_<act>.tsv
+analyze.py (screening) -> analysis.json -> enrich.sh -> enriched.tsv -> analyze.py again
+analysis.json -> facts.py / claims.py / chapter_text.py -> gen_docs.py -> *.md
+```
+
+`analyze.py` runs twice by design: the first pass decides which candidates
+are worth a full extraction, the second folds `enriched.tsv` back in
+so acts can be measured from the uploader's chapter markers
+rather than from whole-video runtime.
+
+Generic versus report-specific, inside `pipeline/`:
+
+- Generic, byte-identical to the skill's `scripts/`, parameterised by `<workdir>`:
+  `fetch_versions.py`, `queries.py`, `harvest.sh`, `enrich.sh`, `topup.sh`, `analyze.py`.
+- Report-specific, paths hardcoded relative to the report directory:
+  `gen_docs.py` (layout), `chapter_text.py` (authored prose),
+  `facts.py` (quantities derived from `analysis.json`),
+  `claims.py` (assertions guarding the prose).
+
+Everything a new game needs to differ in should therefore be data in `data/`
+(`chapter_keys.json`, `compilations.txt`, `query_templates.txt`, `acts.tsv`),
+not an edit to a generic script.
+
+### The prose must not contain hand-written numbers
+
+This is the invariant the whole reporting half exists to protect.
+`chapter_text.py` carries placeholders (`{len_Act_II}`, `{n_entries}`),
+filled from `facts.py` at render time; an unknown placeholder raises `KeyError`
+rather than rendering a stale figure.
+Superlatives come from a ranking computed over all acts, so
+"the longest act in the game" can only appear where it is true.
+Claims the prose makes in *words* ("marathon acts", "the chapter centrepiece")
+are written down in `claims.py` next to the sentence they guard,
+and `gen_docs.py` evaluates all of them before writing a single file:
+a claim that no longer holds fails the build and names the sentence to fix.
+When editing prose, add or adjust the guarding claim in the same change.
+
+### Statistics conventions
+
+The published estimate is always the **median**, never a single runtime.
+From eight uploads on the published range is the interquartile range,
+with the full spread alongside; below eight it is min to max.
+Nothing rates above *low* confidence on fewer than eight uploads;
+then *high* under a 1.25 interquartile factor and *medium* under 1.5.
+An act whose median moved 10 percent or more against `data/baseline.json`
+is *low* by definition, whatever its sample size.
+These thresholds are duplicated as constants in both `analyze.py` and
+`gen_docs.py` (`MIN_SAMPLES`, `SPREAD_HIGH`, `SPREAD_MEDIUM`, `UNSTABLE_DRIFT`);
+change them together.
+
+## Conventions
+
+- Markdown and generated prose use semantic line breaks
+  (one clause per line, breaking after periods and commas and before conjunctions).
+  `gen_docs.py` preserves the authored breaks, so keep them in `chapter_text.py`.
+- Python 3.14, standard library only. `yt-dlp` is the sole external tool.
+- Say plainly what the numbers are: video runtime of someone else playing,
+  as a proxy for act length. Not official, includes the uploader's detours,
+  excludes a first-timer's re-reading and deaths.
