@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Planarcadia
 
 **Region:** Planarcadia | **Game versions:** 4.0 - 4.4 | **Entries:** 5 | **Estimated chapter length: 27 h 43 min**
+<!--/gen-->
 
 A paradise inside a painted scroll,
 with a vacant divine throne and a reward for whoever entertains
@@ -10,6 +12,7 @@ and Elation turns out to have a bill attached.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Welcome to Arcadia | 8 h 01 min | 4 h 40 min - 9 h 51 min | 7 | low |
@@ -17,26 +20,30 @@ and Elation turns out to have a bill attached.
 | Mission 3 | So Laughed the Masses | 4 h 36 min | 4 h 10 min - 4 h 50 min | 11 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
+<!--/gen-->
 
-**Total: 27 h 43 min**
+**Total: <!--f:total-->27 h 43 min<!--/f-->**
 
 ## Pacing
 
-The opening mission is the longest, at 8 h 01 min,
+The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
 and the four after it settle between
-4 h 11 min and 6 h 31 min.
+<!--f:shortest_len-->4 h 11 min<!--/f--> and <!--f:len_Mission_2-->6 h 31 min<!--/f-->.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
 and its figures the least settled.
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [Welcome to Arcadia](https://honkai-star-rail.fandom.com/wiki/Welcome_to_Arcadia)
+<!--/gen-->
 
 Arrival in the painted paradise:
 Phantasmoon, imagenesis,
 and the reward THEY left behind
 for anyone who wants a minute of godhood.
+<!--gen:stats act="Mission 1"-->
 One of the three longest missions in the game.
 
 - **Estimated length:** 8 h 01 min
@@ -46,7 +53,9 @@ One of the three longest missions in the game.
 - **Released in:** 4.0
 - **Stability:** median -4% against an earlier, independent query set
 - **Quest parts (10):** Phantasmoon, the Merciful Queen; Topological Structure of an Imagenated City; Artwork in the Age of Mechanical Reproduction; Fundamentals of Imagenesis; Killers Don't Get Vacations; Symbolic Exchange and Detection; Here's Your Fifteen Minutes of Fame; Medical Disputes on the Ship of Fools; The Discreet Charm of a Streamer Girl; The Indifference of Those Who Yet Live
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -61,12 +70,16 @@ One of the three longest missions in the game.
 | 9 h 51 min | Honkai Star Rail 4.0 – Welcome to Arcadia Full Story – Trailblaze Mission | Kuroyukihime | 148 | 2026-03-30 | <https://www.youtube.com/watch?v=M-9A74lmZsg> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 2"-->
 ### Mission 2 - [Unraveled for Daybreak](https://honkai-star-rail.fandom.com/wiki/Unraveled_for_Daybreak)
+<!--/gen-->
 
 Happiness painted over pain,
 the living seeking justice for the dead,
 and a hero's name that some carry and some betray.
+<!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 6 h 31 min
 - **Sampled range:** 5 h 56 min to 6 h 51 min for the middle half (full spread 4 h 48 min to 7 h 52 min) across 10 playthrough uploads (28 further candidates screened out)
@@ -75,7 +88,9 @@ and a hero's name that some carry and some betray.
 - **Released in:** 4.1
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (7):** Portrait of a Middle-Aged Artist; Society of the Spectacle and Its Enemies; Confessions of a Righteous Sinner; The Bum's as Holy as the Seraphim; Simulacra and Simulation, or Even the Just; Echoes from a Sombre Empire; Real Holy Laughter!
+<!--/gen-->
 
+<!--gen:evidence act="Mission 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -93,13 +108,17 @@ and a hero's name that some carry and some betray.
 | 7 h 52 min | Unraveled For Daybreak, Full Story Complete Walkthrough, Trailblaze Mission Honkai Star Rail 4.1 | Kuroyukihime | ~275 | n/a | <https://www.youtube.com/watch?v=w-WgFiXU1Tc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 3"-->
 ### Mission 3 - [So Laughed the Masses](https://honkai-star-rail.fandom.com/wiki/So_Laughed_the_Masses)
+<!--/gen-->
 
 Near the spire's peak the Fool works the crowd
 like a marionette theater,
 handing out the freedom of Elation
 and the chains that come with it.
+<!--gen:stats act="Mission 3"-->
 
 - **Estimated length:** 4 h 36 min
 - **Sampled range:** 4 h 10 min to 4 h 50 min for the middle half (full spread 3 h 34 min to 5 h 17 min) across 11 playthrough uploads (29 further candidates screened out)
@@ -108,7 +127,9 @@ and the chains that come with it.
 - **Released in:** 4.2
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (13):** Philosophy of the Tourist; In the Shadow of the Millennium; A Superhero Caught in a Moral Dilemma; If We Spoke in Laughter; Howls, White Noise, or What You Feel; A Resounding Gong or a Clashing Cymbal; Mass Deaths and Detective Fiction; Postmodern Imagenesis; Metaphors We Live By; Serotonin Exposure Phobia; The Generative Grammar of Liquid Modernity; Happiness, or a Fatal Ailment; Arcadia Revisited
+<!--/gen-->
 
+<!--gen:evidence act="Mission 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -127,12 +148,16 @@ and the chains that come with it.
 | 5 h 17 min | HONKAI STAR RAIL 4.2 FULL Story Quest - So Laughed the Masses [No Commentary \| JP Dub \| 4K 60FPS] | AJ's Gaming Lyfe | ~34 | n/a | <https://www.youtube.com/watch?v=djiAyQKCzcw> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 4"-->
 ### Mission 4 - [The Lethe Below the Living](https://honkai-star-rail.fandom.com/wiki/The_Lethe_Below_the_Living)
+<!--/gen-->
 
 Down to the painting's edge
 where the Lethe runs and memories surface,
 among wanderers looking for a last rest.
+<!--gen:stats act="Mission 4"-->
 
 - **Estimated length:** 4 h 11 min
 - **Sampled range:** 3 h 49 min to 4 h 25 min for the middle half (full spread 2 h 26 min to 5 h 19 min) across 20 playthrough uploads (22 further candidates screened out)
@@ -142,7 +167,9 @@ among wanderers looking for a last rest.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 20 uploads
 - **Quest parts (7):** Illusion of the End; Living Sacrifice for Gods and Mortals; Arcadia of Mystery and Terror; Best Farewell to the World; Primeval and Other Times; Yesterday's World; Non-Existent State
+<!--/gen-->
 
+<!--gen:evidence act="Mission 4"-->
 <details>
 <summary>Evidence</summary>
 
@@ -170,12 +197,16 @@ among wanderers looking for a last rest.
 | 5 h 19 min | Honkai Star Rail: Trailblaze Quest The Lethe Below the Living | CydraGames | 12 | 2026-06-08 | <https://www.youtube.com/watch?v=n9pr-t5FJuA> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 5"-->
 ### Mission 5 - [In Ravages Does the Whistle Sound](https://honkai-star-rail.fandom.com/wiki/In_Ravages_Does_the_Whistle_Sound)
+<!--/gen-->
 
 The Navigator sets a course for the apocalypse,
 and only the Trailblaze finds a way through
 the realm of death.
+<!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 4 h 24 min
 - **Sampled range:** 4 h 13 min to 4 h 42 min for the middle half (full spread 3 h 53 min to 5 h 56 min) across 19 playthrough uploads (28 further candidates screened out)
@@ -185,7 +216,9 @@ the realm of death.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 19 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
+<!--/gen-->
 
+<!--gen:evidence act="Mission 5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -212,6 +245,7 @@ the realm of death.
 | 5 h 56 min | In Ravages, Does the Whistle Sound? (Trailblazer Quest) - Honkai: Star Rail | Gear | 3 | 2026-08-08 | <https://www.youtube.com/watch?v=7KbTxYEBpTI> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

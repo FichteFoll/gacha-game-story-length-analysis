@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Penacony
 
 **Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 22 h 46 min**
+<!--/gen-->
 
 A hedonistic dream resort throws a Charmony Festival,
 two murders happen that could not have happened,
@@ -9,6 +11,7 @@ on the Watchmaker's legacy.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | The Sound and the Fury | 4 h 28 min | 3 h 53 min - 5 h 17 min | 9 | medium |
@@ -16,27 +19,31 @@ on the Watchmaker's legacy.
 | Mission 3 | In Our Time | 7 h 46 min | 5 h 17 min - 9 h 02 min | 7 | low |
 | Mission 4 | Farewell, Penacony | 2 h 45 min | 2 h 34 min - 3 h 17 min | 11 | medium |
 | Mission 5 | A New Venture on the Eighth Dawn | 2 h 21 min | 2 h 16 min - 2 h 28 min | 10 | high |
+<!--/gen-->
 
-**Total: 22 h 46 min**
+**Total: <!--f:total-->22 h 46 min<!--/f-->**
 
 ## Pacing
 
 Where the questline changes scale.
-three of Penacony's five missions run past three hours,
+<!--f:n_above_3h-->three<!--/f--> of Penacony's <!--f:n_entries-->five<!--/f--> missions run past three hours,
 where before it only Jarilo-VI and the Luofu
 had one at all,
-and *In Our Time* alone takes 7 h 46 min.
+and *<!--f:longest_title-->In Our Time<!--/f-->* alone takes <!--f:longest_len-->7 h 46 min<!--/f-->.
 The last two missions are the wind-down,
-at 2 h 45 min and 2 h 21 min.
+at <!--f:len_Mission_4-->2 h 45 min<!--/f--> and <!--f:len_Mission_5-->2 h 21 min<!--/f-->.
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [The Sound and the Fury](https://honkai-star-rail.fandom.com/wiki/The_Sound_and_the_Fury)
+<!--/gen-->
 
 Into the Dreamscape for the Charmony Festival,
 and a first pass through Penacony's guests,
 hosts and Family,
 ending on a murder that cannot have happened.
+<!--gen:stats act="Mission 1"-->
 
 - **Estimated length:** 4 h 28 min
 - **Sampled range:** 3 h 53 min to 5 h 17 min for the middle half (full spread 2 h 30 min to 5 h 45 min) across 9 playthrough uploads (13 further candidates screened out)
@@ -46,7 +53,9 @@ ending on a murder that cannot have happened.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (11):** Long Day's Journey Into Night; The Knocking at Ungodly Hours; The Youths Who Chase Dreams; Sleepless Night; Tales from the Golden Age; Good Omen, My Friend; Lullaby of the North Wind; Gentleness, the Name of Nocturne; Through a Glass Darkly; Should One Awaken at Midnight; Whodunit
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -63,13 +72,17 @@ ending on a murder that cannot have happened.
 | 5 h 45 min | (JP Dub - EN Sub) The Sound and the Fury \| Honkai: Star Rail | AndhraZX | 156 | 2024-03-03 | <https://www.youtube.com/watch?v=yNd-UOWwduc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 2"-->
 ### Mission 2 - [Cat Among Pigeons](https://honkai-star-rail.fandom.com/wiki/Cat_Among_Pigeons)
+<!--/gen-->
 
 Two impossible murders and two guests with no interest
 in the legacy,
 who between them start prying open
 the mystery of the Watchmaker.
+<!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 5 h 26 min
 - **Sampled range:** 5 h 02 min to 6 h 06 min for the middle half (full spread 4 h 17 min to 6 h 13 min) across 10 playthrough uploads (12 further candidates screened out)
@@ -79,7 +92,9 @@ the mystery of the Watchmaker.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 10 uploads
 - **Quest parts (9):** The Devil in Velvet; Lost Generation; Double Indemnity; When the Sacred Ginmill Closes; Heaven is a Place on Earth; Why Do the Heathen Rage?; The Tell-Tale Heart; All the Sad Tales; A Walk Among the Tombstones
+<!--/gen-->
 
+<!--gen:evidence act="Mission 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -97,13 +112,17 @@ the mystery of the Watchmaker.
 | 6 h 13 min | Aventurine's VA Plays 2.1 Trailblaze Mission - The Devil in Velvet \| Honkai Star Rail | CamdenVA | 119,432 | 2024-03-29 | <https://www.youtube.com/watch?v=KNzo-8MoE0I> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 3"-->
 ### Mission 3 - [In Our Time](https://honkai-star-rail.fandom.com/wiki/In_Our_Time)
+<!--/gen-->
 
 The banquet's long middle,
 the Great Septimus,
 and the sense of rowing against a current
 that keeps pulling everyone back into the past.
+<!--gen:stats act="Mission 3"-->
 One of the three longest missions in the game.
 
 - **Estimated length:** 7 h 46 min
@@ -114,7 +133,9 @@ One of the three longest missions in the game.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 7 uploads
 - **Quest parts (12):** The Great Train Robbery; The Fool Always Rings Twice; Small Town Grotesque; The Public Enemy; Bullet & Brain; The Only Path to Tomorrow; Seabiscuit; Beauty and Destruction; Then Wake to Weep; Everything that Rises Must Converge; The Sun Also Rises; And on the Eighth Day
+<!--/gen-->
 
+<!--gen:evidence act="Mission 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -129,12 +150,16 @@ One of the three longest missions in the game.
 | 9 h 02 min | Honkai Star Rail - Chapter 3 Part 3: In Our Time \| Penacony \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | 12,563 | 2024-05-10 | <https://www.youtube.com/watch?v=9NVZg3v9D-k> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 4"-->
 ### Mission 4 - [Farewell, Penacony](https://honkai-star-rail.fandom.com/wiki/Farewell,_Penacony)
+<!--/gen-->
 
 The final encore on the stage of dreams:
 the Family's accounts settled,
 and everyone heading for their next stop.
+<!--gen:stats act="Mission 4"-->
 
 - **Estimated length:** 2 h 45 min
 - **Sampled range:** 2 h 34 min to 3 h 17 min for the middle half (full spread 2 h 15 min to 3 h 49 min) across 11 playthrough uploads (9 further candidates screened out)
@@ -144,7 +169,9 @@ and everyone heading for their next stop.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 11 uploads
 - **Quest parts (7):** Unconquered; All About Eve; Rivers Run Without Return; Life is But a Drifting Dream; Soldier's Pay; A Thousand Bells at Dawn; Stranger in a Strange Land
+<!--/gen-->
 
+<!--gen:evidence act="Mission 4"-->
 <details>
 <summary>Evidence</summary>
 
@@ -163,12 +190,16 @@ and everyone heading for their next stop.
 | 3 h 49 min | Full 2.3 Main Quest "Farewell Penacony" & Doing Divergence Universe in Honkai Star Rail | XRicWarX | 40 | 2024-06-20 | <https://www.youtube.com/watch?v=yqNowvlmc3M> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 5"-->
 ### Mission 5 - [A New Venture on the Eighth Dawn](https://honkai-star-rail.fandom.com/wiki/A_New_Venture_on_the_Eighth_Dawn)
+<!--/gen-->
 
 A late return to the Dreamscape.
 Some come back, some leave for good,
 and seeing the way ahead means looking back first.
+<!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 2 h 21 min
 - **Sampled range:** 2 h 16 min to 2 h 28 min for the middle half (full spread 2 h 07 min to 2 h 58 min) across 10 playthrough uploads (12 further candidates screened out)
@@ -178,7 +209,9 @@ and seeing the way ahead means looking back first.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (7):** All Who Wakes; The Departed Will Return First; A Misfortune of Survivors; Reality is But Dream's Echo; Sound of Farewell Hums Reunion; Bow Out At Moment of Début; A New Venture on the Eighth Dawn
+<!--/gen-->
 
+<!--gen:evidence act="Mission 5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -196,6 +229,7 @@ and seeing the way ahead means looking back first.
 | 2 h 58 min | Honkai Star Rail 2.7 \| A New Venture on the Eighth Dawn \| Trailblaze Mission | MaL AnimsGaming | 46 | 2025-12-20 | <https://www.youtube.com/watch?v=9Va0qFUdiy8> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

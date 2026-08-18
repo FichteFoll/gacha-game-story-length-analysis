@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Amphoreus
 
 **Region:** Amphoreus, the Eternal Land | **Game versions:** 3.0 - 3.7 | **Entries:** 8 | **Estimated chapter length: 52 h 14 min**
+<!--/gen-->
 
 A world locked in a doomed cycle,
 where twelve Chrysos Heirs chase Coreflames
@@ -10,6 +12,7 @@ and stays for all of it.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Heroic Saga of Flame-Chase | 8 h 20 min | 7 h 33 min - 9 h 28 min | 9 | medium |
@@ -20,27 +23,31 @@ and stays for all of it.
 | Mission 6 | Before Their Deaths | 6 h 01 min | 5 h 48 min - 6 h 38 min | 10 | high |
 | Mission 7 | Back to Earth in Evernight | 5 h 14 min | 4 h 58 min - 5 h 19 min | 12 | high |
 | Mission 8 | As Tomorrow Became Yesterday | 6 h 18 min | 5 h 56 min - 6 h 30 min | 12 | high |
+<!--/gen-->
 
-**Total: 52 h 14 min**
+**Total: <!--f:total-->52 h 14 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter:
-eight missions and 52 h 14 min in total,
+<!--f:n_entries-->eight<!--/f--> missions and <!--f:total-->52 h 14 min<!--/f--> in total,
 released across the whole of the 3.x cycle.
 Every one of them runs past three hours.
-*Heroic Saga of Flame-Chase*, the arrival on Amphoreus, is the longest
-at 8 h 20 min,
-and even the shortest, *For the Sun is Set to Die*, takes 4 h 37 min.
+*<!--f:longest_title-->Heroic Saga of Flame-Chase<!--/f-->*, the arrival on Amphoreus, is the longest
+at <!--f:longest_len-->8 h 20 min<!--/f-->,
+and even the shortest, *<!--f:shortest_title-->For the Sun is Set to Die<!--/f-->*, takes <!--f:shortest_len-->4 h 37 min<!--/f-->.
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [Heroic Saga of Flame-Chase](https://honkai-star-rail.fandom.com/wiki/Heroic_Saga_of_Flame-Chase)
+<!--/gen-->
 
 The Express reaches the Eternal Land
 where three Paths intersect,
 and joins the flame-chase
 that Amphoreus has been running for longer than anyone admits.
+<!--gen:stats act="Mission 1"-->
 The single longest mission in the game.
 
 - **Estimated length:** 8 h 20 min
@@ -51,7 +58,9 @@ The single longest mission in the game.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (10):** Silver Chariot, Away to that Blackened Land; Distant Travelers, Listen to this World's Prayer; Night Stars, Accompany My Slumber; Wasteland, Hark Back Glory of Old; Night Veil, Shroud the Silent Past; Kremnos, Cleanse Thy Rusted Blood (I); A Cleansing of Gold; Kremnos, Cleanse Thy Rusted Blood (II); A Witch's Scientific Repose; Hero, Bear Thy Coreflame
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -68,12 +77,16 @@ The single longest mission in the game.
 | 11 h 32 min | Honkai: Star Rail 3.0 Quest \| Heroic Saga of Flame-Chase \| No Commentary | DForce Gaming | 127 | 2025-01-26 | <https://www.youtube.com/watch?v=4kjtKBK9gAo> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 2"-->
 ### Mission 2 - [Light Slips the Gate, Shadow Greets the Throne](https://honkai-star-rail.fandom.com/wiki/Light_Slips_the_Gate,_Shadow_Greets_the_Throne)
+<!--/gen-->
 
 The homecoming is exiled and the departing set out:
 one generation of Chrysos Heirs rises
 as another wilts.
+<!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 6 h 44 min
 - **Sampled range:** 6 h 37 min to 7 h 27 min for the middle half (full spread 3 h 30 min to 7 h 59 min) across 9 playthrough uploads (19 further candidates screened out)
@@ -83,7 +96,9 @@ as another wilts.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (9):** Strife, Dispel the Accompanying Fears; Glory, Turn From Imbibed Poison; Grove, Wherefore Are the Wise Silent; Lamentations, Bring Not Empty Tears; Memories, Veiled in Blazing Mist; Passages, Knocking Echoes in Dreams; Nemesis, Scorched by Golden Blood; Throne, End Those Long Years Forlorn; Passage, Reveal the Past Once More
+<!--/gen-->
 
+<!--gen:evidence act="Mission 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -100,12 +115,16 @@ as another wilts.
 | 7 h 59 min | Honkai Star Rail - Chapter 4 Act 2: Light Slips the Gate, Shadow Greets the Throne \| Amphoreus | Gudaoko | ~2,478 | n/a | <https://www.youtube.com/watch?v=wZXpDh5eUtc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 3"-->
 ### Mission 3 - [Through the Petals in the Land of Repose](https://honkai-star-rail.fandom.com/wiki/Through_the_Petals_in_the_Land_of_Repose)
+<!--/gen-->
 
 Across the River of Souls into the land of repose,
 among the Antila flowers,
 the dead of the past and the wanderers of the future.
+<!--gen:stats act="Mission 3"-->
 
 - **Estimated length:** 7 h 40 min
 - **Sampled range:** 7 h 27 min to 8 h 07 min for the middle half (full spread 4 h 42 min to 8 h 29 min) across 9 playthrough uploads (18 further candidates screened out)
@@ -115,7 +134,9 @@ the dead of the past and the wanderers of the future.
 - **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (13):** Spindle, Laboring to Weave the Tapestry of Time; Olive, Cast to the Conference Chair; Papyrus, Read the Blasphemer's Will; Debate, Discourse Without Spears; Broken Dream, Enlighten From the Beyond; Pathstrider, Set Sail Upon the River of Souls; Death, Dripping Like Morning Dew; Ferryman, Ferry Me Across the Stream of Souls; Sea of Flowers, Adored Only by Death; Citizen, Listen to Those Roaring Tides; Scholar, Let Us Meet Again Before the Gates of Truth; Homeward Journey, Never Look Back Upon the Path Whence You Came; Witch's Mirrored Reversal
+<!--/gen-->
 
+<!--gen:evidence act="Mission 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -132,12 +153,16 @@ the dead of the past and the wanderers of the future.
 | 8 h 29 min | Through the Petals in the Land of Repose ((Full playthrough)) \| Honkai Star Rail 3.2 | Lait-la Rose | 13 | 2025-12-21 | <https://www.youtube.com/watch?v=Bmc1GDDlttE> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 4"-->
 ### Mission 4 - [The Fall at Dawn's Rise](https://honkai-star-rail.fandom.com/wiki/The_Fall_at_Dawn's_Rise)
+<!--/gen-->
 
 For a new sun to rise,
 the sky's last eye has to be put out.
 The mission that turns the cycle over.
+<!--gen:stats act="Mission 4"-->
 
 - **Estimated length:** 7 h 20 min
 - **Sampled range:** 6 h 36 min to 7 h 25 min for the middle half (full spread 4 h 55 min to 8 h 44 min) across 9 playthrough uploads (18 further candidates screened out)
@@ -147,7 +172,9 @@ The mission that turns the cycle over.
 - **Stability:** median -0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (9):** Stars, Cleanse the Troubled Thoughts; Scrolls, Turn the Blade's Gaze; Chest, Bear the Bygone Dust; Golden Thread, Relay the Savior's Fate; Grove, Judge the Past and Present; Poet, Speak of the Sky Through Me (I); Poet, Speak of the Sky Through Me (II); Slate, Why Neglect That Light's Shade; Dawn, Shine at the World's End
+<!--/gen-->
 
+<!--gen:evidence act="Mission 4"-->
 <details>
 <summary>Evidence</summary>
 
@@ -164,13 +191,17 @@ The mission that turns the cycle over.
 | 8 h 44 min | Honkai Star Rail - Chapter 4 Act 4: The Fall at Dawn's Rise \| Amphoreus Full Story JP Dub EN Sub 4K | Gudaoko | ~3,712 | n/a | <https://www.youtube.com/watch?v=kIQJf770m38> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 5"-->
 ### Mission 5 - [For the Sun is Set to Die](https://honkai-star-rail.fandom.com/wiki/For_the_Sun_is_Set_to_Die)
+<!--/gen-->
 
 The Paean of Era Nova,
 and the shortest mission on Amphoreus:
 the nymphs' chase of the scorching dawn,
-told in six quest parts.
+told in <!--f:parts_Mission_5-->six<!--/f--> quest parts.
+<!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 4 h 37 min
 - **Sampled range:** 3 h 57 min to 4 h 51 min for the middle half (full spread 2 h 47 min to 5 h 03 min) across 9 playthrough uploads (18 further candidates screened out)
@@ -180,7 +211,9 @@ told in six quest parts.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (6):** Hero, Honor That Crimson Call; Mother, Parted by the Turning of Seasons; Hero, Return to That Peace of Home; Hero, Shatter That Woeful Effigy; Hero, Ignite That Primal Sun; Hero, Sing That Anthem of Creation
+<!--/gen-->
 
+<!--gen:evidence act="Mission 5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -197,11 +230,15 @@ told in six quest parts.
 | 5 h 03 min | HONKAI STAR RAIL 3.4 Story Quest - For the Sun is Set to Die [No Commentary \| Japanese Dub \| 4K] | AJ's Gaming Lyfe | 44 | 2025-07-05 | <https://www.youtube.com/watch?v=Bjp9pOP0G_0> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 6"-->
 ### Mission 6 - [Before Their Deaths](https://honkai-star-rail.fandom.com/wiki/Before_Their_Deaths)
+<!--/gen-->
 
 Countless embers over the firmament,
 and the one star that has stayed constant through all of it.
+<!--gen:stats act="Mission 6"-->
 
 - **Estimated length:** 6 h 01 min
 - **Sampled range:** 5 h 48 min to 6 h 38 min for the middle half (full spread 5 h 16 min to 7 h 43 min) across 10 playthrough uploads (10 further candidates screened out)
@@ -211,7 +248,9 @@ and the one star that has stayed constant through all of it.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (7):** Time, Ferry Me Through Ages; Sun, Repel Stars and Pale Moon; Wanderer, Decipher the Waxen Imprints; Zephyr, Uplift Bygone Dust Cloudsward; Nectar, Saturate the Hollow Treecore; Sea, Bury the Wine-Dark Dreams; Captives, Behold the Expanse Beyond Light
+<!--/gen-->
 
+<!--gen:evidence act="Mission 6"-->
 <details>
 <summary>Evidence</summary>
 
@@ -229,12 +268,16 @@ and the one star that has stayed constant through all of it.
 | 7 h 43 min | Before Their Deaths（Full Quest）Honkai Star Rail 3.5 Trailblaze Mission | Kuroyukihime (backup channel) | ~11 | n/a | <https://www.youtube.com/watch?v=znK1SSoccck> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 7"-->
 ### Mission 7 - [Back to Earth in Evernight](https://honkai-star-rail.fandom.com/wiki/Back_to_Earth_in_Evernight)
+<!--/gen-->
 
 Night wanes, the outlanders march without rest,
 and the reunion is set for the edge of the world
 where the morning star rises.
+<!--gen:stats act="Mission 7"-->
 
 - **Estimated length:** 5 h 14 min
 - **Sampled range:** 4 h 58 min to 5 h 19 min for the middle half (full spread 4 h 20 min to 6 h 49 min) across 12 playthrough uploads (4 further candidates screened out)
@@ -244,7 +287,9 @@ where the morning star rises.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (9):** Night, Coming Before Dawn Breaks; Homecoming, Within Sight Yet Beyond Grasp; Traveler, Find Truth Beyond the Illusion; Memokeeper, Backtrack the Destiny's Current; Blazing Sun, Illuminate the Path for the Lost; Earth, Bear the Suffering of All; Great Tomb, Hide the Secrets of Incarnations; Reunion, Promise of Tears and Smiles; Gods, Sound the Anthem of Creation
+<!--/gen-->
 
+<!--gen:evidence act="Mission 7"-->
 <details>
 <summary>Evidence</summary>
 
@@ -264,11 +309,15 @@ where the morning star rises.
 | 6 h 49 min | Version 3.6 FULL STORY PLAYTHROUGH — Back to Earth in Evernight \| Honkai: Star Rail ft. Cyrene | Unreal Dreamer | ~20,246 | n/a | <https://www.youtube.com/watch?v=ZUGAhbuTrbY> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 8"-->
 ### Mission 8 - [As Tomorrow Became Yesterday](https://honkai-star-rail.fandom.com/wiki/As_Tomorrow_Became_Yesterday)
+<!--/gen-->
 
 The close of the Amphoreus saga,
 asked to be remembered rather than mourned.
+<!--gen:stats act="Mission 8"-->
 
 - **Estimated length:** 6 h 18 min
 - **Sampled range:** 5 h 56 min to 6 h 30 min for the middle half (full spread 5 h 35 min to 9 h 12 min) across 12 playthrough uploads (8 further candidates screened out)
@@ -278,7 +327,9 @@ asked to be remembered rather than mourned.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 12 uploads
 - **Quest parts (8):** Dawn, Caress the Distant Lands Once More; Traverse Stars and Stride Cosmos; The Witch's Ardent Research; Hero, Return to Dawn in Mortality; Pages, Ripples That Engrave Memories; Silver Chariot, Part With That Humanity's Epic; Fallen Petals, Leave Fading Traces of Fragrance; Tale, End Upon The First Encounter
+<!--/gen-->
 
+<!--gen:evidence act="Mission 8"-->
 <details>
 <summary>Evidence</summary>
 
@@ -298,6 +349,7 @@ asked to be remembered rather than mourned.
 | 9 h 12 min | As Tomorrow Became Yesterday (3.7 FULL Story Quest) Honkai Star Rail (English dubbing and subtitles) | Kuroyukihime | ~215 | n/a | <https://www.youtube.com/watch?v=ogDxojaoRW4> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

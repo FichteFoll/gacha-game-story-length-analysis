@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # The Xianzhou Luofu
 
 **Region:** The Xianzhou Luofu | **Game versions:** 1.0 - 1.3 | **Entries:** 3 | **Estimated chapter length: 6 h 37 min**
+<!--/gen-->
 
 A generation ship of immortals with a Stellaron in its hold
 and a sacred tree growing again after centuries of being dead.
@@ -9,31 +11,36 @@ and it takes all three missions for that reason to surface.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Windswept Wanderlust | 3 h 21 min | 2 h 31 min - 4 h 17 min | 9 | low |
 | Mission 2 | Topclouded Towerthrust | 2 h 00 min | 1 h 44 min - 2 h 21 min | 10 | medium |
 | Mission 3 | Karmic Clouds Faded, War Banners Folded | 1 h 16 min | 57 min - 1 h 22 min | 9 | medium |
+<!--/gen-->
 
-**Total: 6 h 37 min**
+**Total: <!--f:total-->6 h 37 min<!--/f-->**
 
 ## Pacing
 
 A long opening mission and then a steep taper:
-3 h 21 min, 2 h 00 min, 1 h 16 min.
+<!--f:len_Mission_1-->3 h 21 min<!--/f-->, <!--f:len_Mission_2-->2 h 00 min<!--/f-->, <!--f:len_Mission_3-->1 h 16 min<!--/f-->.
 The Luofu was released over four versions rather than in one drop,
 and the last mission is an epilogue of
-one quest part,
+<!--f:parts_Mission_3-->one<!--/f--> quest part,
 the shortest entry in the game.
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [Windswept Wanderlust](https://honkai-star-rail.fandom.com/wiki/Windswept_Wanderlust)
+<!--/gen-->
 
 The Express is diverted to the Luofu,
 where the Mara-struck, the Cloud Knights
 and a stirring Ambrosial Arbor
 all point at the same buried problem.
+<!--gen:stats act="Mission 1"-->
 
 - **Estimated length:** 3 h 21 min
 - **Sampled range:** 2 h 31 min to 4 h 17 min for the middle half (full spread 2 h 18 min to 4 h 56 min) across 9 playthrough uploads (19 further candidates screened out)
@@ -43,7 +50,9 @@ all point at the same buried problem.
 - **Stability:** median +30% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (11):** An Invitation Without Proffer; Amidst the Mara-Struck; Devising Stratagems; Scattered Memories of Hooded Past; The Hound Chases the Fox; Stars Spun, Prescience Sprung; New Friends Bring New Joy; Omniscient Inquiry of Arcana; Wood Sprouts Anew, Fate Tilts Askew; Tranquil Amidst Turmoil; Humming Antlers, Entwined Horns
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -60,13 +69,17 @@ all point at the same buried problem.
 | 4 h 56 min | Trailblaze Mission \| Windswept Wanderlust \| Honkai Star Rail 1.0 | Brocollei | ~27 | n/a | <https://www.youtube.com/watch?v=p9NgSoVU2QY> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 2"-->
 ### Mission 2 - [Topclouded Towerthrust](https://honkai-star-rail.fandom.com/wiki/Topclouded_Towerthrust)
+<!--/gen-->
 
 Someone else brought a Stellaron aboard,
 the Arbor is growing again,
 and the Stellaron Hunters' reason for luring the Trailblazer here
 finally surfaces.
+<!--gen:stats act="Mission 2"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 2 h 00 min
@@ -76,7 +89,9 @@ One of the three shortest entries in the questline.
 - **Released in:** 1.2
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (5):** Desolate Depths of Despair; Dragon Mislay, Dreams Astray; Oblation Obtained, Order Ordained; A Dragon Gallant, Its Ocean Distant; Demise of Immortality, Finale of Calamity
+<!--/gen-->
 
+<!--gen:evidence act="Mission 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -94,12 +109,16 @@ One of the three shortest entries in the questline.
 | 3 h 23 min | Topclouded Towerthrust • Honkai Star Rail | JungTutis | 52 | 2023-07-20 | <https://www.youtube.com/watch?v=1_0KUeI2zoI> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 3"-->
 ### Mission 3 - [Karmic Clouds Faded, War Banners Folded](https://honkai-star-rail.fandom.com/wiki/Karmic_Clouds_Faded,_War_Banners_Folded)
+<!--/gen-->
 
 A single quest part:
 the clean-up after the Arbor goes quiet,
 and goodbyes on the Luofu.
+<!--gen:stats act="Mission 3"-->
 The shortest entry in the questline.
 
 - **Estimated length:** 1 h 16 min
@@ -109,7 +128,9 @@ The shortest entry in the questline.
 - **Released in:** 1.3
 - **Stability:** median -5% against an earlier, independent query set
 - **Quest parts (1):** Obsequies Performed, A Long Road Ahead
+<!--/gen-->
 
+<!--gen:evidence act="Mission 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -126,6 +147,7 @@ The shortest entry in the questline.
 | 1 h 35 min | Karmic Clouds Faded. War Banners Folded \| Trailblaze Mission 1.3 \| Honkai Star Rail | BLAZE | 17 | 2023-08-30 | <https://www.youtube.com/watch?v=M4b0CRaXTTA> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

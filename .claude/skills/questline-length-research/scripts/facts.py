@@ -91,6 +91,25 @@ def superlatives(acts, unit="act"):
     return out
 
 
+def report_facts(acts, unit="Act", game="", date=""):
+    """The report-scope values, keyed by placeholder name.
+
+    Everything here is a property of the report as a whole rather than of one
+    chapter, so the report README can interpolate it; a chapter file sees these
+    alongside its own chapter_facts().
+    """
+    return {
+        "grand_total": hm(chapter_total(acts)),
+        "n_report_entries": str(len(acts)),
+        "n_videos": str(sum(a["stats"]["n"] for a in acts)),
+        "n_candidates": str(sum(len(a["candidates"]) for a in acts)),
+        "unit": unit.lower(),
+        "units": f"{unit.lower()}s",
+        "game": game,
+        "date": date,
+    }
+
+
 def chapter_facts(acts, quest_parts=None):
     """The values the authored prose may interpolate, keyed by placeholder name."""
     quest_parts = quest_parts or {}

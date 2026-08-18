@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter I: Farewell, Archaic Lord
 
 **Region:** Liyue | **Game versions:** 1.0 - 1.4 | **Entries:** 5 | **Estimated chapter length: 6 h 42 min**
+<!--/gen-->
 
 Rex Lapis is apparently assassinated at the Rite of Descension,
 the Traveler is framed for it,
@@ -9,6 +11,7 @@ to the Fatui of his own free will.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Of the Land Amidst Monoliths | 1 h 06 min | 1 h 00 min - 1 h 23 min | 8 | medium |
@@ -16,25 +19,29 @@ to the Fatui of his own free will.
 | Act III | A New Star Approaches | 1 h 59 min | 1 h 48 min - 2 h 06 min | 9 | high |
 | Act IV - Prelude | Bough Keeper: Dainsleif | 36 min | 28 min - 45 min | 10 | low |
 | Act IV | We Will Be Reunited | 1 h 12 min | 58 min - 1 h 23 min | 10 | medium |
+<!--/gen-->
 
-**Total: 6 h 42 min**
+**Total: <!--f:total-->6 h 42 min<!--/f-->**
 
 ## Pacing
 
 A clear step up from the Prologue:
-Acts II and III (1 h 49 min and 1 h 59 min)
+Acts II and III (<!--f:len_Act_II-->1 h 49 min<!--/f--> and <!--f:len_Act_III-->1 h 59 min<!--/f-->)
 roughly double the Prologue's per-act length,
 largely because of the Osial set piece and the Childe fight.
 Act IV - Prelude is a single conversation-heavy quest
-with Dainsleif, at 36 min.
+with Dainsleif, at <!--f:len_Act_IV_Prelude-->36 min<!--/f-->.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [Of the Land Amidst Monoliths](https://genshin-impact.fandom.com/wiki/Of_the_Land_Amidst_Monoliths)
+<!--/gen-->
 
 The Rite of Descension goes wrong,
 Rex Lapis falls,
 and the Traveler flees the Millelith as the prime suspect.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 1 h 06 min
 - **Sampled range:** 1 h 00 min to 1 h 23 min for the middle half (full spread 33 min to 1 h 36 min) across 8 playthrough uploads (3 further candidates screened out)
@@ -44,7 +51,9 @@ and the Traveler flees the Millelith as the prime suspect.
 - **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (3):** Rite of Descension; An Impromptu Change of Plan; Dust to Dust
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -60,12 +69,16 @@ and the Traveler flees the Millelith as the prime suspect.
 | 1 h 36 min | Of the Land Amidst Monoliths Genshin Impact (Archon Quest Chapter 1 Act 1) | ZaFrostPet | 67,906 | 2020-10-20 | <https://www.youtube.com/watch?v=OsGi1Duzwpk> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [Farewell, Archaic Lord](https://genshin-impact.fandom.com/wiki/Farewell,_Archaic_Lord)
+<!--/gen-->
 
 Working the funeral rites with Zhongli:
 the three perfumes, Guizhong's memory,
 and a lesson in what contracts mean in Liyue.
+<!--gen:stats act="Act II"-->
 
 - **Estimated length:** 1 h 49 min
 - **Sampled range:** 1 h 39 min to 1 h 52 min for the middle half (full spread 1 h 24 min to 2 h 05 min) across 8 playthrough uploads (3 further candidates screened out)
@@ -75,7 +88,9 @@ and a lesson in what contracts mean in Liyue.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (7):** An Organization Known as Wangsheng; Moonfinger; Three Poignant Perfumes; The Realm Within; Downtown; Guizhong; Zhongli's Treat
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -91,12 +106,16 @@ and a lesson in what contracts mean in Liyue.
 | 2 h 05 min | Genshin Impact Walkthrough Part 99 - Chapter 1: Act 2 - Farewell, the Archaic Lord (No Commentary) | MG PlayX | 1,250 | 2021-02-24 | <https://www.youtube.com/watch?v=WKgspKT1WXo> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [A New Star Approaches](https://genshin-impact.fandom.com/wiki/A_New_Star_Approaches)
+<!--/gen-->
 
 Osial rises, the Jade Chamber falls,
 Childe is beaten,
 and Zhongli reveals that the whole thing was his own retirement plan.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 1 h 59 min
 - **Sampled range:** 1 h 48 min to 2 h 06 min for the middle half (full spread 1 h 40 min to 2 h 20 min) across 9 playthrough uploads (2 further candidates screened out)
@@ -106,7 +125,9 @@ and Zhongli reveals that the whole thing was his own retirement plan.
 - **Stability:** median -1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (6):** The Floating Palace; Equilibrium; Solitary Fragrance; Heart of Glaze; Turning Point; The Fond Farewell
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -123,11 +144,15 @@ and Zhongli reveals that the whole thing was his own retirement plan.
 | 2 h 20 min | Genshin Impact - [ Chapter I: Act III ] A New Star Approaches Complete Walkthrough | MegChanYT | 828 | 2020-12-23 | <https://www.youtube.com/watch?v=c_bpF-dfpmA> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV - Prelude"-->
 ### Act IV - Prelude - [Bough Keeper: Dainsleif](https://genshin-impact.fandom.com/wiki/Bough_Keeper:_Dainsleif)
+<!--/gen-->
 
 A single quest: Dainsleif introduces himself
 and the Khaenri'ah backstory behind the Abyss Order.
+<!--gen:stats act="Act IV - Prelude"-->
 The shortest entry in the questline.
 
 - **Estimated length:** 36 min
@@ -137,7 +162,9 @@ The shortest entry in the questline.
 - **Released in:** 1.3
 - **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
+<!--/gen-->
 
+<!--gen:evidence act="Act IV - Prelude"-->
 <details>
 <summary>Evidence</summary>
 
@@ -155,11 +182,15 @@ The shortest entry in the questline.
 | 52 min | Dainsleif Chapter 1 : Act IV - Prelude | m2mdohkun | 224 | 2022-01-16 | <https://www.youtube.com/watch?v=_fVBKzTFeso> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV"-->
 ### Act IV - [We Will Be Reunited](https://genshin-impact.fandom.com/wiki/We_Will_Be_Reunited)
+<!--/gen-->
 
 Dainsleif leads the Traveler to the Abyss Order's ritual,
 where the sibling is revealed as its leader.
+<!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 1 h 12 min
 - **Sampled range:** 58 min to 1 h 23 min for the middle half (full spread 52 min to 1 h 28 min) across 10 playthrough uploads (1 further candidate screened out)
@@ -168,7 +199,9 @@ where the sibling is revealed as its leader.
 - **Released in:** 1.4
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (4):** Involuntary Sacrifice; A Herald Without Adherents; Dishonorable Trial; A Soul Set Apart
+<!--/gen-->
 
+<!--gen:evidence act="Act IV"-->
 <details>
 <summary>Evidence</summary>
 
@@ -186,6 +219,7 @@ where the sibling is revealed as its leader.
 | 1 h 28 min | Genshin Impact: We Will Be Reunited Full Story Quest & iOS/Android Gameplay Walkthrough Part 232 | App Unwrapper | 978 | 2021-04-12 | <https://www.youtube.com/watch?v=PKAGKB6K0JE> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter IV: Masquerade of the Guilty
 
 **Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 16 min**
+<!--/gen-->
 
 A prophecy says Fontaine will dissolve into the waters.
 Between courtroom trials, a prison at the bottom of the sea,
@@ -10,6 +12,7 @@ and watches Focalors execute herself to void the prophecy.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Prelude of Blancheur and Noirceur | 3 h 27 min | 3 h 03 min - 3 h 50 min | 10 | medium |
@@ -18,23 +21,27 @@ and watches Focalors execute herself to void the prophecy.
 | Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 30 min - 2 h 47 min | 9 | high |
 | Act V | Masquerade of the Guilty | 4 h 50 min | 4 h 29 min - 5 h 19 min | 8 | high |
 | Act VI | Bedtime Story | 1 h 18 min | 1 h 14 min - 1 h 22 min | 9 | high |
+<!--/gen-->
 
-**Total: 17 h 16 min**
+**Total: <!--f:total-->17 h 16 min<!--/f-->**
 
 ## Pacing
 
 The most consistently long chapter,
-with five of its six acts above two hours
-and Act V, at 4 h 50 min, as its centrepiece.
+with <!--f:n_above_2h-->five<!--/f--> of its <!--f:n_entries-->six<!--/f--> acts above two hours
+and Act V, at <!--f:len_Act_V-->4 h 50 min<!--/f-->, as its centrepiece.
 Fontaine's acts are cutscene-dense rather than traversal-dense,
 which is why the sampled uploads agree as closely as they do.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [Prelude of Blancheur and Noirceur](https://genshin-impact.fandom.com/wiki/Prelude_of_Blancheur_and_Noirceur)
+<!--/gen-->
 
 Fontaine, Lyney and Lynette,
 and an opera-house trial over the stolen Hydro Gnosis.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 3 h 27 min
 - **Sampled range:** 3 h 03 min to 3 h 50 min for the middle half (full spread 1 h 47 min to 3 h 53 min) across 10 playthrough uploads (4 further candidates screened out)
@@ -44,7 +51,9 @@ and an opera-house trial over the stolen Hydro Gnosis.
 - **Stability:** median +2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (3):** Soloist's Prologue; The City of Rains and Remembrance; Lies Cast Shadows Under Gathered Lights
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -62,11 +71,15 @@ and an opera-house trial over the stolen Hydro Gnosis.
 | 3 h 53 min | Fontaine Archon Quest: Act I - "Prelude of Blancheur and Noirceur" (Full Gameplay) \| Genshin Impact | LegendSpell | 72 | 2023-08-18 | <https://www.youtube.com/watch?v=MYNfrY8-4BQ> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [As Light Rain Falls Without Reason](https://genshin-impact.fandom.com/wiki/As_Light_Rain_Falls_Without_Reason)
+<!--/gen-->
 
 Furina and Neuvillette, the Oratrice,
 and a trial that sentences the Traveler to the Fortress of Meropide.
+<!--gen:stats act="Act II"-->
 
 - **Estimated length:** 2 h 43 min
 - **Sampled range:** 2 h 27 min to 2 h 56 min for the middle half (full spread 1 h 35 min to 3 h 18 min) across 12 playthrough uploads (0 further candidates screened out)
@@ -76,7 +89,9 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 - **Stability:** median -1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 12 uploads
 - **Quest parts (3):** Like the Faint Moonlight of Yesteryear (34 min); The Truth, Lost With the Rain (56 min); When All Return to the Waters (1 h 24 min)
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -96,12 +111,16 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 | 3 h 18 min | Genshin Impact - Chapter 4 Act 2: As Light Rain Falls Without Reason \| Full Story JP Dub EN Sub 4K | Gudaoko | ~840 | n/a | <https://www.youtube.com/watch?v=qbrb-uMUw2I> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [To the Stars Shining in the Depths](https://genshin-impact.fandom.com/wiki/To_the_Stars_Shining_in_the_Depths)
+<!--/gen-->
 
 Life under Wriothesley in Meropide,
 the escape,
 and the first hard evidence for the prophecy of dissolution.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 2 h 14 min
 - **Sampled range:** 1 h 47 min to 2 h 27 min for the middle half (full spread 1 h 29 min to 2 h 43 min) across 10 playthrough uploads (1 further candidate screened out)
@@ -111,7 +130,9 @@ and the first hard evidence for the prophecy of dissolution.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (4):** A Tea Party Most Thorny; Fortress of Meropide; The Proscribed, Hidden in Plain Sight; Lost in Deep Seas
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -129,11 +150,15 @@ and the first hard evidence for the prophecy of dissolution.
 | 2 h 43 min | Fontaine Archon Quest: Act III - "To the Stars Shining in the Depths" (Gameplay) \| Genshin Impact | LegendSpell | 19 | 2023-09-29 | <https://www.youtube.com/watch?v=YGizeeh1oho> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV"-->
 ### Act IV - [Cataclysm's Quickening](https://genshin-impact.fandom.com/wiki/Cataclysm's_Quickening)
+<!--/gen-->
 
 Elynas and the Melusines, Childe underwater,
 and the primordial sea beginning to rise.
+<!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 2 h 44 min
 - **Sampled range:** 2 h 30 min to 2 h 47 min for the middle half (full spread 2 h 24 min to 3 h 02 min) across 9 playthrough uploads (2 further candidates screened out)
@@ -143,7 +168,9 @@ and the primordial sea beginning to rise.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 9 uploads
 - **Quest parts (5):** Into the Deepwater Murk (31 min); The Truth Shrouded in Shadow (44 min); Secret Keepers and Forbidden Zones (20 min); Calamitous Tread (50 min); A Moment's Respite (15 min)
+<!--/gen-->
 
+<!--gen:evidence act="Act IV"-->
 <details>
 <summary>Evidence</summary>
 
@@ -160,12 +187,16 @@ and the primordial sea beginning to rise.
 | 3 h 02 min | Fontaine Archon Quest Chapter IV Act IV: Cataclysm’s Quickening \| Genshin Impact | Davor Gaming | 74 | 2023-10-14 | <https://www.youtube.com/watch?v=8qw28ps5IhM> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act V"-->
 ### Act V - [Masquerade of the Guilty](https://genshin-impact.fandom.com/wiki/Masquerade_of_the_Guilty)
+<!--/gen-->
 
 The flood, Furina's five-hundred-year act,
 Focalors' self-execution,
 and Neuvillette taking the seat of judgment.
+<!--gen:stats act="Act V"-->
 The single longest act in the game.
 
 - **Estimated length:** 4 h 50 min
@@ -175,7 +206,9 @@ The single longest act in the game.
 - **Released in:** 4.2
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (6):** Deluge of Wrathful Waters; Meeting Is Also Parting; Hunters, Prophets; Apocalypse; The Opera of Noirceur and Blancheur; Finale
+<!--/gen-->
 
+<!--gen:evidence act="Act V"-->
 <details>
 <summary>Evidence</summary>
 
@@ -191,11 +224,15 @@ The single longest act in the game.
 | 6 h 43 min | Genshin Impact - Archon Quest Chapter 4 (Part 1): Masquerade of the Guilty - Full Walkthrough | Momizy Gaming | 7 | 2025-12-30 | <https://www.youtube.com/watch?v=U3b6P64JtzM> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act VI"-->
 ### Act VI - [Bedtime Story](https://genshin-impact.fandom.com/wiki/Bedtime_Story)
+<!--/gen-->
 
 Traveler chapter: a cold case in Fontaine
 that turns into memories that should not exist.
+<!--gen:stats act="Act VI"-->
 
 - **Estimated length:** 1 h 18 min
 - **Sampled range:** 1 h 14 min to 1 h 22 min for the middle half (full spread 56 min to 1 h 26 min) across 9 playthrough uploads (3 further candidates screened out)
@@ -204,7 +241,9 @@ that turns into memories that should not exist.
 - **Released in:** 4.7
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (3):** Cold Case Commission; Memories That Should Not Exist; World-Order Narration
+<!--/gen-->
 
+<!--gen:evidence act="Act VI"-->
 <details>
 <summary>Evidence</summary>
 
@@ -221,6 +260,7 @@ that turns into memories that should not exist.
 | 1 h 26 min | Bedtime Story 【Chapter IV: Act VI】 Archon Quest \| Genshin Impact (JP Dub) | Yui Neko Ch. | 15 | 2024-08-14 | <https://www.youtube.com/watch?v=-REH74XOGVs> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

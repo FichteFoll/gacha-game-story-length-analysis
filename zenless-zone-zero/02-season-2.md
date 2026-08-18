@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Season 2
 
 **Region:** Waifei Peninsula: Yunkui Summit and Suibian Temple | **Game versions:** 2.0 - 2.8 | **Entries:** 9 | **Estimated chapter length: 37 h 51 min**
+<!--/gen-->
 
 Neon and asphalt give way to cloud-covered mountains,
 a temple in disrepair and a disciple who insists on repairing it.
@@ -10,6 +12,7 @@ that the peninsula has been outrunning for generations.
 
 ## At a glance
 
+<!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 1 | Where Clouds Embrace the Dawn | 4 h 31 min | 4 h 05 min - 5 h 20 min | 13 | medium |
@@ -21,28 +24,32 @@ that the peninsula has been outrunning for generations.
 | Interlude | Encore for an Old Dream | 5 h 03 min | 4 h 47 min - 5 h 55 min | 11 | high |
 | Epilogue (A) | New: Eridan Sunset (A) | 3 h 14 min | 2 h 54 min - 3 h 33 min | 13 | high |
 | Epilogue (B) | New: Eridan Sunset (B) | 2 h 42 min | 2 h 26 min - 2 h 50 min | 15 | high |
+<!--/gen-->
 
-**Total: 37 h 51 min**
+**Total: <!--f:total-->37 h 51 min<!--/f-->**
 
 ## Pacing
 
 Where the story changes scale:
-eight of Season 2's nine entries run past three hours,
-and *To Be Fuel for the Night*, the season's climax,
-alone takes 6 h 49 min:
+<!--f:n_above_3h-->eight<!--/f--> of Season 2's <!--f:n_entries-->nine<!--/f--> entries run past three hours,
+and *<!--f:longest_title-->To Be Fuel for the Night<!--/f-->*, the season's climax,
+alone takes <!--f:longest_len-->6 h 49 min<!--/f-->:
 the longest single entry in the game.
 Around it the season is remarkably even,
-every other entry landing between 2 h 42 min
-and 5 h 03 min.
+every other entry landing between <!--f:len_Epilogue_B-->2 h 42 min<!--/f-->
+and <!--f:len_Interlude-->5 h 03 min<!--/f-->.
 
 ## Chapters
 
+<!--gen:act-heading act="Chapter 1"-->
 ### Chapter 1 - [Where Clouds Embrace the Dawn](https://zenless-zone-zero.fandom.com/wiki/Where_Clouds_Embrace_the_Dawn)
+<!--/gen-->
 
 The vestiges of a past calamity herald the beginning of another.
 Arrival on the Waifei Peninsula,
 and a restoration project at Suibian Temple
 that nobody but its disciple believes in.
+<!--gen:stats act="Chapter 1"-->
 
 - **Estimated length:** 4 h 31 min
 - **Sampled range:** 4 h 05 min to 5 h 20 min for the middle half (full spread 3 h 33 min to 6 h 19 min) across 13 playthrough uploads (8 further candidates screened out)
@@ -51,7 +58,9 @@ that nobody but its disciple believes in.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 - **Quest parts (11):** Yunkui Visitor; Attack from the Shadows; Dispel the Darkness; Welcome to Suibian Temple!; Land of Rising Turmoil; Eaves and Brackets, Renewed in Light; Lurking Menace in the Shadows; Calamity Casts a Shadow, Yet Shows No Sign; Lurking Waves; Yunkui Disciples Re-Emerge; The Storm Has Settled, but Ripples Remain
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -72,13 +81,17 @@ that nobody but its disciple believes in.
 | 6 h 19 min | ZZZ - Where Clouds Embrace the Dawn - Season 2 chapter 1 complete story (walkthrough/ no commentary) | CorporalOdin2 | ~66 | n/a | <https://www.youtube.com/watch?v=mZ_RkMqHnXQ> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 2"-->
 ### Chapter 2 - [The Impending Crash of Waves](https://zenless-zone-zero.fandom.com/wiki/The_Impending_Crash_of_Waves)
+<!--/gen-->
 
 Echoes of the aftermath linger,
 as destiny treads softly back to shore.
 A safety inspection, a pursuit across Sailume Bay,
 and the source of the Obscuras.
+<!--gen:stats act="Chapter 2"-->
 
 - **Estimated length:** 4 h 06 min
 - **Sampled range:** 3 h 39 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 13 playthrough uploads (8 further candidates screened out)
@@ -86,7 +99,9 @@ and the source of the Obscuras.
 - **Released in:** 2.1
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (7):** Safety Inspection; Prank Perpetrator; Sailume Bay Pursuit; Source of the Obscuras; Secret Past; A Bond Returned; Echoes of Melody Linger
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -107,13 +122,17 @@ and the source of the Obscuras.
 | 4 h 54 min | ZZZ - The Impending Crash of Waves - Season 2 chapter 2 complete story (walkthrough/ no commentary) | CorporalOdin2 | 28 | 2025-08-09 | <https://www.youtube.com/watch?v=SQB_KYU98tc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 3"-->
 ### Chapter 3 - [Do Not Go Gentle Into That Good Night](https://zenless-zone-zero.fandom.com/wiki/Do_Not_Go_Gentle_Into_That_Good_Night)
+<!--/gen-->
 
 The embers of last night still linger,
 spoiling the calm of a quiet dream.
 The winner's rules, a soldier's creed,
 and a story that refuses to end where it should.
+<!--gen:stats act="Chapter 3"-->
 
 - **Estimated length:** 3 h 43 min
 - **Sampled range:** 3 h 29 min to 4 h 14 min for the middle half (full spread 3 h 20 min to 5 h 21 min) across 13 playthrough uploads (8 further candidates screened out)
@@ -121,7 +140,9 @@ and a story that refuses to end where it should.
 - **Released in:** 2.2
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (8):** Last Night, Ashes; Fuel to the Fire; The Winner's Rules; Source of Fire; Soldier's Creed; Dawn, Karmic Fire; An Incomplete Story; Ending at Last...?
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -142,13 +163,17 @@ and a story that refuses to end where it should.
 | 5 h 21 min | [Main Quest] Season 2 Chapter 3: Do Not Go Gentle Into That Good Night (Zenless Zone Zero) | ThisisHori | ~144 | n/a | <https://www.youtube.com/watch?v=uX7_3MInbqw> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 4"-->
 ### Chapter 4 - [Memories of Dreams Bygone](https://zenless-zone-zero.fandom.com/wiki/Memories_of_Dreams_Bygone)
+<!--/gen-->
 
 The pain of being awake comes from dreams that once existed.
 A town that should not be inhabited,
 a slumbering mystery underneath it,
 and a rescue that costs more than it saves.
+<!--gen:stats act="Chapter 4"-->
 
 - **Estimated length:** 3 h 31 min
 - **Sampled range:** 3 h 15 min to 3 h 53 min for the middle half (full spread 2 h 17 min to 5 h 54 min) across 15 playthrough uploads (9 further candidates screened out)
@@ -156,7 +181,9 @@ and a rescue that costs more than it saves.
 - **Released in:** 2.3
 - **Stability:** median +2% against an earlier, independent query set
 - **Quest parts (8):** New Training; "The Town"; Slumbering Mystery; Embrace Darkness; Rescue Operation; Grant a New Dream; The Final Song; Unexpected Fate
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 4"-->
 <details>
 <summary>Evidence</summary>
 
@@ -179,12 +206,16 @@ and a rescue that costs more than it saves.
 | 5 h 54 min | Season 2 - Chapter 4 - Memories of Dreams Bygone - Zenless Zone Zero version 2.3 | siotomatte | ~3 | n/a | <https://www.youtube.com/watch?v=pbuSip58Wls> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 5"-->
 ### Chapter 5 - [On the Precipice of the Abyss](https://zenless-zone-zero.fandom.com/wiki/On_the_Precipice_of_the_Abyss)
+<!--/gen-->
 
 When you gaze into the abyss, the abyss gazes back.
 A new resident, dark tides,
 and the question of who has been watching all along.
+<!--gen:stats act="Chapter 5"-->
 
 - **Estimated length:** 4 h 12 min
 - **Sampled range:** 4 h 03 min to 4 h 50 min for the middle half (full spread 3 h 46 min to 5 h 30 min) across 13 playthrough uploads (7 further candidates screened out)
@@ -192,7 +223,9 @@ and the question of who has been watching all along.
 - **Released in:** 2.4
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (7):** New Resident; Dark Tides Rising; Cryptic; Who Is Spying?; Fleeting Warmth; A Series of Changes; A Storm Brews
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -213,12 +246,16 @@ and the question of who has been watching all along.
 | 5 h 30 min | ZZZ 2.4 \| JP DUB \| S02 Chapter 5 - On the Precipice of the Abyss \| FULL STORY \| Zenless Zone Zero | Xheldon G.Archive | ~486 | n/a | <https://www.youtube.com/watch?v=LZm4sgo9Ubw> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 6"-->
 ### Chapter 6 - [To Be Fuel for the Night](https://zenless-zone-zero.fandom.com/wiki/To_Be_Fuel_for_the_Night)
+<!--/gen-->
 
 Even in the depth of the abyss, sparks can light up the night.
 The season's climax:
 the storm, the Creator, and the end of Season 2's arc.
+<!--gen:stats act="Chapter 6"-->
 The single longest chapter in the game.
 
 - **Estimated length:** 6 h 49 min
@@ -227,7 +264,9 @@ The single longest chapter in the game.
 - **Released in:** 2.5
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (12):** Before the Storm Settles; Good News, Bad News; Crisis Emerges; A Brief Rest; Keeper of the Qingming Sword; A foreseen Conclusion; A Sudden Turn of Events; Secrets Beneath the Ice; "Our" Connection; Mortal Form; The Oath; Epilogue
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 6"-->
 <details>
 <summary>Evidence</summary>
 
@@ -247,13 +286,17 @@ The single longest chapter in the game.
 | 11 h 11 min | Zenless Zone Zero - S2 Chapter 6.1: To Be Fuel for the Night \| Full Walkthrough \| No Commentary | Retroplay A-Z | ~42 | n/a | <https://www.youtube.com/watch?v=gravoXzc2uc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Interlude"-->
 ### Interlude - [Encore for an Old Dream](https://zenless-zone-zero.fandom.com/wiki/Encore_for_an_Old_Dream)
+<!--/gen-->
 
 Once old dreams fade into the night,
 we'll reunite in the delusions of dawn.
 A festival commission that turns into
 a case about the Construct series.
+<!--gen:stats act="Interlude"-->
 One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 03 min
@@ -262,7 +305,9 @@ One of the three longest chapters in the game.
 - **Released in:** 2.6
 - **Stability:** median -0% against an earlier, independent query set
 - **Quest parts (8):** Pre-Festival Unexpected Commission; Prelude to Delusion; Construct Series Case; Startled Awake from Old Dreams; Courage and Hidden Wounds; She once promised...; Yearlight Ceremony Emergency Plan; This Night Is Gilded
+<!--/gen-->
 
+<!--gen:evidence act="Interlude"-->
 <details>
 <summary>Evidence</summary>
 
@@ -281,13 +326,17 @@ One of the three longest chapters in the game.
 | 6 h 14 min | Zenless Zone Zero - Encore For An Old Dream - 2.6 Main Quest \|\| 4K Full Story \|\| | RÆIN | 9 | 2026-07-17 | <https://www.youtube.com/watch?v=Qw98NtmV1Uo> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Epilogue (A)"-->
 ### Epilogue (A) - [New: Eridan Sunset (A)](https://zenless-zone-zero.fandom.com/wiki/New:_Eridan_Sunset_(A))
+<!--/gen-->
 
 Yet now, the past buries its champions.
 The Hollow Champion Competition starts,
 a ragtag crew signs up,
 and the first stage goes about as well as expected.
+<!--gen:stats act="Epilogue (A)"-->
 
 - **Estimated length:** 3 h 14 min
 - **Sampled range:** 2 h 54 min to 3 h 33 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 13 playthrough uploads (22 further candidates screened out)
@@ -295,7 +344,9 @@ and the first stage goes about as well as expected.
 - **Released in:** 2.7
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (8):** A New Variable; Hollow Champion Competition; Ragtag Crew; Chaotic First Stage; Interrupted Showdown; Drown in the Nightmare; Chaotic Revelry; Before the Sun Sets
+<!--/gen-->
 
+<!--gen:evidence act="Epilogue (A)"-->
 <details>
 <summary>Evidence</summary>
 
@@ -316,12 +367,16 @@ and the first stage goes about as well as expected.
 | 4 h 02 min | [Main Quest] Season 2 Epilogue: New: Eridan Sunset (A) | ThisisHori | ~95 | n/a | <https://www.youtube.com/watch?v=erxaNYq_9mA> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Epilogue (B)"-->
 ### Epilogue (B) - [New: Eridan Sunset (B)](https://zenless-zone-zero.fandom.com/wiki/New:_Eridan_Sunset_(B))
+<!--/gen-->
 
 The sun sets in the lowly west.
 Who here is awaiting the night?
 Looking for Ramiel, and the last word on the competition.
+<!--gen:stats act="Epilogue (B)"-->
 
 - **Estimated length:** 2 h 42 min
 - **Sampled range:** 2 h 26 min to 2 h 50 min for the middle half (full spread 2 h 24 min to 3 h 25 min) across 15 playthrough uploads (19 further candidates screened out)
@@ -329,7 +384,9 @@ Looking for Ramiel, and the last word on the competition.
 - **Released in:** 2.8
 - **Stability:** median -1% against an earlier, independent query set
 - **Quest parts (14):** Faint Clues and Traces; No Missing Person Notice Needed; Fragmented Clues; Rush into the Wildfire; Outer Ring Connections; Nitro-Fuel Detective; Knight's Debut; Strange Wolf Pack; Left Behind Keepsake; Similar Yet Different Nights; Behind Every Answer, a New Riddle; A Game of Hide and Seek; At Dusk; Guidance from Above
+<!--/gen-->
 
+<!--gen:evidence act="Epilogue (B)"-->
 <details>
 <summary>Evidence</summary>
 
@@ -352,6 +409,7 @@ Looking for Ramiel, and the last word on the competition.
 | 3 h 25 min | ZZZ - Eridan Sunset (B) - Season 2 Epilogue chapter complete story (walkthrough) | CorporalOdin2 | 13 | 2026-05-18 | <https://www.youtube.com/watch?v=QFqdXQH382k> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

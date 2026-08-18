@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter II: Omnipresence Over Mortals
 
 **Region:** Inazuma | **Game versions:** 1.6 - 2.6 | **Entries:** 5 | **Estimated chapter length: 8 h 12 min**
+<!--/gen-->
 
 Inazuma has sealed itself off under the Sakoku Decree
 and the Vision Hunt Decree.
@@ -10,6 +12,7 @@ and confronts the Raiden Shogun over what eternity costs her people.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Prologue | Autumn Winds, Scarlet Leaves | 1 h 07 min | 1 h 02 min - 1 h 10 min | 12 | high |
@@ -17,24 +20,28 @@ and confronts the Raiden Shogun over what eternity costs her people.
 | Act II | Stillness, the Sublimation of Shadow | 50 min | 45 min - 57 min | 11 | medium |
 | Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 57 min - 2 h 29 min | 9 | medium |
 | Act IV | Requiem of the Echoing Depths | 58 min | 49 min - 1 h 00 min | 10 | high |
+<!--/gen-->
 
-**Total: 8 h 12 min**
+**Total: <!--f:total-->8 h 12 min<!--/f-->**
 
 ## Pacing
 
 Uneven in a way the earlier chapters are not.
-Act I and Act III are marathon acts of 2 h 55 min and 2 h 22 min,
-while Act II consists of only two quest parts
-and takes 50 min.
+Act I and Act III are marathon acts of <!--f:len_Act_I-->2 h 55 min<!--/f--> and <!--f:len_Act_III-->2 h 22 min<!--/f-->,
+while Act II consists of only <!--f:parts_Act_II-->two<!--/f--> quest parts
+and takes <!--f:len_Act_II-->50 min<!--/f-->.
 Act IV (Enkanomiya) arrived much later than the rest
 and plays as a compact epilogue.
 
 ## Acts
 
+<!--gen:act-heading act="Prologue"-->
 ### Prologue - [Autumn Winds, Scarlet Leaves](https://genshin-impact.fandom.com/wiki/Autumn_Winds,_Scarlet_Leaves)
+<!--/gen-->
 
 Kazuha, Beidou, and the Crux run the Thunder Sword barrier
 to get the Traveler into a sealed Inazuma.
+<!--gen:stats act="Prologue"-->
 
 - **Estimated length:** 1 h 07 min
 - **Sampled range:** 1 h 02 min to 1 h 10 min for the middle half (full spread 55 min to 1 h 20 min) across 12 playthrough uploads (5 further candidates screened out)
@@ -44,7 +51,9 @@ to get the Traveler into a sealed Inazuma.
 - **Stability:** median +3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (3):** A Path Through the Storm; The Crux Clash; Follow the Wind
+<!--/gen-->
 
+<!--gen:evidence act="Prologue"-->
 <details>
 <summary>Evidence</summary>
 
@@ -64,11 +73,15 @@ to get the Traveler into a sealed Inazuma.
 | 1 h 20 min | Autumn Winds, Scarlet Leaves \| Genshin Impact - Archon Quests | jangcoizi | 26 | 2021-12-16 | <https://www.youtube.com/watch?v=28l1jl7sDoc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [The Immovable God and the Eternal Euthymia](https://genshin-impact.fandom.com/wiki/The_Immovable_God_and_the_Eternal_Euthymia)
+<!--/gen-->
 
 Ritou, the Sacred Sakura Cleansing Ritual,
 and a first audience with the Raiden Shogun that ends in defeat.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 2 h 55 min
 - **Sampled range:** 2 h 40 min to 3 h 08 min for the middle half (full spread 1 h 54 min to 3 h 18 min) across 11 playthrough uploads (11 further candidates screened out)
@@ -78,7 +91,9 @@ and a first audience with the Raiden Shogun that ends in defeat.
 - **Stability:** median -1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 11 uploads
 - **Quest parts (8):** Setting Sail; Confessions of an Outlander; Ritou Escape Plan; Three Wishes; The Meaning of Meaningless Waiting; To Treat the Well-Meaning Well; A Swordmaster's Path Is Paved With Broken Blades; A Flower Blooms in a Prison
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -97,12 +112,16 @@ and a first audience with the Raiden Shogun that ends in defeat.
 | 3 h 18 min | [Complete Quest] The Immovable God and the Eternal Euthymia (Chapter II: Act I) \| Genshin Impact | NJMH Nexus | 2,089 | 2021-07-21 | <https://www.youtube.com/watch?v=8QNr5hgX-3A> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [Stillness, the Sublimation of Shadow](https://genshin-impact.fandom.com/wiki/Stillness,_the_Sublimation_of_Shadow)
+<!--/gen-->
 
-Only two quest parts:
+Only <!--f:parts_Act_II-->two<!--/f--> quest parts:
 joining Sangonomiya Kokomi's resistance
 and uncovering the Delusion factory.
+<!--gen:stats act="Act II"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 50 min
@@ -113,7 +132,9 @@ One of the three shortest entries in the questline.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (2):** Amidst Stormy Judgment; In the Name of the Resistance
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -132,12 +153,16 @@ One of the three shortest entries in the questline.
 | 1 h 01 min | Genshin Impact - Archon Quest Chapter 2: Act 2 [Stillness, The Sublimation Of Shadow] Version 2.0 | BadBoy18 | 955 | 2021-07-22 | <https://www.youtube.com/watch?v=6llJwgW39mc> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [Omnipresence Over Mortals](https://genshin-impact.fandom.com/wiki/Omnipresence_Over_Mortals)
+<!--/gen-->
 
 Yae Miko opens the way into the Plane of Euthymia,
 Signora dies in a duel,
 and the Vision Hunt Decree is repealed.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 2 h 22 min
 - **Sampled range:** 1 h 57 min to 2 h 29 min for the middle half (full spread 1 h 37 min to 3 h 24 min) across 9 playthrough uploads (3 further candidates screened out)
@@ -146,7 +171,9 @@ and the Vision Hunt Decree is repealed.
 - **Released in:** 2.1
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (9):** Sword, Fish, Resistance; Those Who Yearn for the Gods' Gaze; Delusion; The Servant's Path; Proof of Guilt; Blind Loyalty, Reckless Courage; Duel Before the Throne; The Omnipresent God; Wishes
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -163,11 +190,15 @@ and the Vision Hunt Decree is repealed.
 | 3 h 24 min | Chapter II: Act III - "Omnipresence Over Mortals" Archon Quest! [No Commentary] \| Genshin Impact | Smartin Spartan | 3,120 | 2021-09-01 | <https://www.youtube.com/watch?v=74_GYY26pYA> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV"-->
 ### Act IV - [Requiem of the Echoing Depths](https://genshin-impact.fandom.com/wiki/Requiem_of_the_Echoing_Depths)
+<!--/gen-->
 
 Enkanomiya, the Black Serpent Knights,
 and Dainsleif's account of the sibling's part in the cataclysm.
+<!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 58 min
 - **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 42 min to 1 h 37 min) across 10 playthrough uploads (1 further candidate screened out)
@@ -177,7 +208,9 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** In the Depths, an Unexpected Reunion; The Grave of the Guarded; Memories of Inteyvat; The Black Serpent Knights' Glory
+<!--/gen-->
 
+<!--gen:evidence act="Act IV"-->
 <details>
 <summary>Evidence</summary>
 
@@ -195,6 +228,7 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 | 1 h 37 min | Requiem of the Echoing Depths Genshin Impact (Chapter 2 Act 4) | WoW Quests | 83,246 | 2022-03-30 | <https://www.youtube.com/watch?v=NYKhNYs6bk0> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

@@ -4,19 +4,22 @@ Duration estimates for every chapter of the main story,
 from the prologue on Sixth Street to the newest season in Roscaelifer,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: 71 h 02 min** (21 entries counting chapters, interludes and epilogues, measured against 271 accepted uploads out of 589 candidates).
-That figure is the sum of the per-chapter medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
+**Total for the whole main questline: <!--f:grand_total-->71 h 02 min<!--/f-->** (<!--f:n_report_entries-->21<!--/f--> entries counting chapters, interludes and epilogues, measured against <!--f:n_videos-->271<!--/f--> accepted uploads out of <!--f:n_candidates-->589<!--/f--> candidates).
+That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
 
+<!--gen:chapters-->
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Season 1 | New Eridu: Sixth Street, Lumina Square and the Outer Ring | 1.0 - 1.7 | 10 | 24 h 08 min | [01-season-1.md](01-season-1.md) |
 | Season 2 | Waifei Peninsula: Yunkui Summit and Suibian Temple | 2.0 - 2.8 | 9 | 37 h 51 min | [02-season-2.md](02-season-2.md) |
 | Season 3 | Roscaelifer | 3.0 - 3.1 | 2 | 9 h 03 min | [03-season-3.md](03-season-3.md) |
+<!--/gen-->
 
-## Longest and shortest chapters
+## Longest and shortest <!--f:units-->chapters<!--/f-->
 
+<!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
 | longest | Season 2, Chapter 6: To Be Fuel for the Night | 6 h 49 min |
@@ -27,13 +30,14 @@ That figure is the sum of the per-chapter medians, so treat it as an order of ma
 | shortest | Season 1, Chapter 1 Intermission: The Zero Zone | 1 h 25 min |
 | shortest | Season 1, Chapter 3: The Midnight Pursuit | 1 h 40 min |
 | shortest | Season 1, Chapter 0: Business x Strangeness x Justness | 1 h 57 min |
+<!--/gen-->
 
 ## Method
 
 The pipeline, the evidence vault it leaves behind
 and what these numbers do and do not mean
 are described in the [repository README](../README.md).
-Specific to Zenless Zone Zero:
+Specific to <!--f:game-->Zenless Zone Zero<!--/f-->:
 
 - **Structure:** the chapter and chapter list, the chapter titles, the quest parts come from the
 [Phaethon's Story page](https://zenless-zone-zero.fandom.com/wiki/Phaethon's_Story)
@@ -55,6 +59,7 @@ unless their runtime says they cover the chapter after all.
 
 The figures it screens and grades on:
 
+<!--gen:thresholds-->
 - Chapters released within the last four versions are searched twice as deep,
 because they have far fewer uploads to draw on.
 - A marker set covering less than 60 percent
@@ -72,6 +77,7 @@ It is *low* on fewer than eight uploads,
 and *low* for any chapter whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+<!--/gen-->
 
 ## Limits of this report
 
@@ -116,4 +122,4 @@ not a span located inside a longer upload.
 *The Long Goodbye* (3.1) is the newest chapter at the time of writing,
 and there is nothing to measure beyond it yet.
 
-Data collected 2026-08-18.
+Data collected <!--f:date-->2026-08-18<!--/f-->.

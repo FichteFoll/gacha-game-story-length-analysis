@@ -4,11 +4,12 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: 118 h 11 min** (24 entries counting missions, measured against 244 accepted uploads out of 652 candidates).
-That figure is the sum of the per-mission medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
+**Total for the whole main questline: <!--f:grand_total-->118 h 11 min<!--/f-->** (<!--f:n_report_entries-->24<!--/f--> entries counting missions, measured against <!--f:n_videos-->244<!--/f--> accepted uploads out of <!--f:n_candidates-->652<!--/f--> candidates).
+That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
 
+<!--gen:chapters-->
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Herta Space Station | Herta Space Station | 1.0 | 1 | 2 h 19 min | [00-herta-space-station.md](00-herta-space-station.md) |
@@ -17,9 +18,11 @@ That figure is the sum of the per-mission medians, so treat it as an order of ma
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 22 h 46 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 14 min | [04-amphoreus.md](04-amphoreus.md) |
 | Planarcadia | Planarcadia | 4.0 - 4.4 | 5 | 27 h 43 min | [05-planarcadia.md](05-planarcadia.md) |
+<!--/gen-->
 
-## Longest and shortest missions
+## Longest and shortest <!--f:units-->missions<!--/f-->
 
+<!--gen:extremes-->
 | | Mission | Estimate |
 | --- | --- | --- |
 | longest | Amphoreus, Mission 1: Heroic Saga of Flame-Chase | 8 h 20 min |
@@ -30,13 +33,14 @@ That figure is the sum of the per-mission medians, so treat it as an order of ma
 | shortest | The Xianzhou Luofu, Mission 3: Karmic Clouds Faded, War Banners Folded | 1 h 16 min |
 | shortest | The Xianzhou Luofu, Mission 2: Topclouded Towerthrust | 2 h 00 min |
 | shortest | Herta Space Station, Mission 1: Today Is Yesterday's Tomorrow | 2 h 19 min |
+<!--/gen-->
 
 ## Method
 
 The pipeline, the evidence vault it leaves behind
 and what these numbers do and do not mean
 are described in the [repository README](../README.md).
-Specific to Honkai: Star Rail:
+Specific to <!--f:game-->Honkai: Star Rail<!--/f-->:
 
 - **Structure:** the chapter and mission list, the mission titles, the quest parts
 and the Level gates come from the
@@ -57,6 +61,7 @@ unless their runtime says they cover the mission after all.
 
 The figures it screens and grades on:
 
+<!--gen:thresholds-->
 - Missions released within the last four versions are searched twice as deep,
 because they have far fewer uploads to draw on.
 - A marker set covering less than 60 percent
@@ -74,6 +79,7 @@ It is *low* on fewer than eight uploads,
 and *low* for any mission whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+<!--/gen-->
 
 ## Limits of this report
 
@@ -101,4 +107,4 @@ rather than story.
 Neither is part of the main progression,
 so both are outside this report's scope.
 
-Data collected 2026-08-18.
+Data collected <!--f:date-->2026-08-18<!--/f-->.

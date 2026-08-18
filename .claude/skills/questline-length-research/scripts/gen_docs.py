@@ -24,7 +24,8 @@ import sys
 from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
                      UNSTABLE_DRIFT)
 from assertions import failures
-from facts import chapter_facts, chapter_total, hm, median_of, superlatives, word
+from facts import (chapter_facts, chapter_total, hm, median_of, report_facts,
+                   superlatives, word)
 from queries import RECENT_VERSIONS
 
 # The interquartile factors the confidence rating is graded on. Their companion
@@ -39,13 +40,36 @@ def write(path, text):
     path.write_text(cleaned)
 
 
+class Marked(dict):
+    """Fact values wrapped in an inline placeholder marker, for format_map.
+
+    dict.__getitem__ still raises KeyError on an unknown name, so an unknown
+    placeholder fails the render rather than leaving a stale figure behind.
+    """
+
+    def __getitem__(self, key):
+        return marker(key, super().__getitem__(key))
+
+
+def marker(name, value):
+    """`<!--f:total-->9 h 03 min<!--/f-->`: a derived figure inside a sentence."""
+    return f"<!--f:{name}-->{value}<!--/f-->"
+
+
+def value(facts, name):
+    """The marked-up fact `name`, or a KeyError naming what is missing."""
+    return marker(name, facts[name])
+
+
 def prose(text, facts=None):
     """Keep the authored semantic line breaks, and fill in the derived figures.
 
     An unknown placeholder raises KeyError rather than rendering a stale number.
+    Every filled figure comes out inside an inline marker, so that the renderer
+    can find it again in the markdown it wrote.
     """
     text = text.replace(" \n", "\n")
-    return text.format_map(facts) if facts else text
+    return text.format_map(Marked(facts)) if facts else text
 
 
 def released_in(act, versions, version_index):
@@ -170,15 +194,24 @@ def part_list(parts, timings):
 
 def act_section(report, act, parts, versions, version_index, facts, superlative):
     key = f"{act['chapter_id']}|{act['act_label']}"
+    label = act["act_label"]
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
-    note = "\n".join(filter(None, [prose(report.act_notes.get(key, ""), facts),
-                                   superlative.get(key)]))
+    note = prose(report.act_notes.get(key, ""), facts)
+    sentence = superlative.get(key, "")
     body = [
-        f"### {act['act_label']} - "
+        f'<!--gen:act-heading act="{label}"-->',
+        f"### {label} - "
         f"{report.link(act['act_title'], act.get('wiki_page'))}",
+        "<!--/gen-->",
         "",
-        note,
+    ]
+    if note or not sentence:
+        body.append(note)
+    body.append(f'<!--gen:stats act="{label}"-->')
+    if sentence:
+        body.append(sentence)
+    body += [
         "",
         f"- **Estimated length:** {hm(s['median'])}",
         f"- **Sampled range:** {ranged(s)} "
@@ -199,8 +232,10 @@ def act_section(report, act, parts, versions, version_index, facts, superlative)
     if parts:
         body.append(f"- **Quest parts ({len(parts)}):** "
                     f"{part_list(parts, s.get('parts', {}))}")
-    body += ["", "<details>", "<summary>Evidence</summary>", "",
-             evidence_table(act), "", "</details>", ""]
+    body += ["<!--/gen-->", "",
+             f'<!--gen:evidence act="{label}"-->',
+             "<details>", "<summary>Evidence</summary>", "",
+             evidence_table(act), "", "</details>", "<!--/gen-->", ""]
     return "\n".join(body)
 
 
@@ -209,17 +244,20 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
     total = chapter_total(acts)
     facts = chapter_facts(acts, quest_parts)
     head = [
+        "<!--gen:heading-->",
         f"# {chap['title']}",
         "",
         f"**Region:** {chap['region']} | "
         f"**Game versions:** {chap['versions']} | "
         f"**Entries:** {len(acts)} | "
         f"**Estimated chapter length: {hm(total)}**",
+        "<!--/gen-->",
         "",
         prose(chap["blurb"], facts),
         "",
         "## At a glance",
         "",
+        "<!--gen:glance-->",
         f"| {report.config.get('unit', 'Act')} | Title | Estimate "
         f"| Middle half | Uploads | Confidence |",
         "| --- | --- | --- | --- | --- | --- |",
@@ -230,7 +268,8 @@ def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
             f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
             f"| {hm(bounds(s)[0])} - {hm(bounds(s)[1])} | {s['n']} "
             f"| {confidence(s)} |")
-    head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "",
+    head += ["<!--/gen-->", "",
+             f"**Total: {value(facts, 'total')}**", "", "## Pacing", "",
              prose(chap["pacing"], facts), "",
              f"## {report.config.get('unit', 'Act')}s", ""]
     for a in acts:
@@ -322,25 +361,26 @@ def limits(report):
 
 
 def readme(report, by_chapter):
-    grand = sum(chapter_total(acts) for acts in by_chapter.values())
-    n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
-    n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
+    all_acts = [a for acts in by_chapter.values() for a in acts]
+    facts = report_facts(all_acts, report.config.get("unit", "Act"), report.game,
+                         report.config["date"])
     lines = [
         f"# {report.config['title']}",
         "",
         report.config["intro"],
         "",
-        f"**Total for the whole main questline: {hm(grand)}** "
-        f"({sum(len(a) for a in by_chapter.values())} entries "
+        f"**Total for the whole main questline: {value(facts, 'grand_total')}** "
+        f"({value(facts, 'n_report_entries')} entries "
         f"counting {report.config.get('entries_are', 'acts, preludes and interludes')}, "
-        f"measured against {n_videos} accepted uploads "
-        f"out of {n_screened} candidates).\n"
-        f"That figure is the sum of the per-{unit(report)} medians, "
+        f"measured against {value(facts, 'n_videos')} accepted uploads "
+        f"out of {value(facts, 'n_candidates')} candidates).\n"
+        f"That figure is the sum of the per-{value(facts, 'unit')} medians, "
         "so treat it as an order of magnitude "
         "rather than a number anyone actually clocked end to end.",
         "",
         "## Chapters",
         "",
+        "<!--gen:chapters-->",
         "| Chapter | Region | Versions | Entries | Estimated length | Detail |",
         "| --- | --- | --- | --- | --- | --- |",
     ]
@@ -351,14 +391,15 @@ def readme(report, by_chapter):
             f"| {chap['title']} | {chap['region']} | {chap['versions']} "
             f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
     lines += [
+        "<!--/gen-->",
         "",
-        f"## Longest and shortest {report.config.get('unit', 'Act').lower()}s",
+        f"## Longest and shortest {value(facts, 'units')}",
         "",
+        "<!--gen:extremes-->",
         f"| | {report.config.get('unit', 'Act')} | Estimate |",
         "| --- | --- | --- |",
     ]
-    ranked = sorted((a for acts in by_chapter.values() for a in acts),
-                    key=median_of)
+    ranked = sorted(all_acts, key=median_of)
     for a in reversed(ranked[-5:]):
         lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
                      f"{a['act_label']}: {a['act_title']} "
@@ -368,20 +409,22 @@ def readme(report, by_chapter):
                      f"{a['act_label']}: {a['act_title']} "
                      f"| {hm(a['stats']['median'])} |")
     lines += [
+        "<!--/gen-->",
         "",
         "## Method",
         "",
         "The pipeline, the evidence vault it leaves behind \n"
         "and what these numbers do and do not mean \n"
         "are described in the [repository README](../README.md). \n"
-        f"Specific to {report.game}:",
+        f"Specific to {value(facts, 'game')}:",
         "",
     ] + method(report)
-    lines += ["", "The figures it screens and grades on:", ""] + thresholds(report)
-    lines += ["", "## Limits of this report", "",
+    lines += ["", "The figures it screens and grades on:", "",
+              "<!--gen:thresholds-->"] + thresholds(report)
+    lines += ["<!--/gen-->", "", "## Limits of this report", "",
               "Beyond the limits every report in this repository shares, \n"
               "listed in the [repository README](../README.md):", ""] + limits(report)
-    lines += ["", f"Data collected {report.config['date']}.", ""]
+    lines += ["", f"Data collected {value(facts, 'date')}.", ""]
     return "\n".join(lines)
 
 

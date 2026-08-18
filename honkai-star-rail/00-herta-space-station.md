@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Herta Space Station
 
 **Region:** Herta Space Station | **Game versions:** 1.0 | **Entries:** 1 | **Estimated chapter length: 2 h 19 min**
+<!--/gen-->
 
 A strange woman arrives at the Space Station at 23:44:59 system time,
 leaves a Stellaron in the Trailblazer's chest,
@@ -8,26 +10,31 @@ and the Astral Express crew picks up a new passenger on the way out.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Today Is Yesterday's Tomorrow | 2 h 19 min | 1 h 32 min - 2 h 39 min | 9 | low |
+<!--/gen-->
 
-**Total: 2 h 19 min**
+**Total: <!--f:total-->2 h 19 min<!--/f-->**
 
 ## Pacing
 
 The game's tutorial world, and the only one with a single mission.
-2 h 19 min covers the Stellaron, Kafka and the departure,
+<!--f:len_Mission_1-->2 h 19 min<!--/f--> covers the Stellaron, Kafka and the departure,
 which makes this the shortest chapter in the report by a wide margin
 and the only one that fits into an evening.
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [Today Is Yesterday's Tomorrow](https://honkai-star-rail.fandom.com/wiki/Today_Is_Yesterday's_Tomorrow)
+<!--/gen-->
 
 The Stellaron in the Space Station,
 Kafka's visit,
 and the Trailblazer's first departure aboard the Astral Express.
+<!--gen:stats act="Mission 1"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 2 h 19 min
@@ -37,7 +44,9 @@ One of the three shortest entries in the questline.
 - **Released in:** 1.0
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (7):** Chaos In the Deep; Eye of the Storm; A Moment of Peace; Lingering Shadows; Simulated Universe: First Closed Beta; The Voyage Continues; Drifting Between the Stars
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -54,6 +63,7 @@ One of the three shortest entries in the questline.
 | 2 h 56 min | HSR 4K \| Today is Yesterday's Tomorrow \| Main Story #1 \| JP Dub \| Honkai Star Rail 1.0 | London22Gaming | ~13 | n/a | <https://www.youtube.com/watch?v=q9VLPCP9CbE> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 
