@@ -17,6 +17,15 @@ each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` (configuration and authored prose) and `claims.py`.
 
+The root `README.md` is hand-written and holds what the reports share:
+the purpose, the links to them, the pipeline as prose,
+the limits of the measurement and the vault layout.
+It states no threshold, so that no number is maintained by hand;
+a report's own `README.md` carries only what its game does differently,
+plus the thresholds, which are interpolated from the constants.
+Anything that becomes true of every report belongs in the root README,
+not copied into each of them.
+
 Every script lives once, in the skill
 `.claude/skills/questline-length-research/`,
 whose `SKILL.md` is the authoritative procedure (steps 0 to 8) and pitfall list,

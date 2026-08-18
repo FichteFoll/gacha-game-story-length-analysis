@@ -19,7 +19,9 @@ of the games already looked at.
 ## What good output looks like
 
 - One markdown file per chapter,
-  plus a `README.md` index carrying the chapter table, the method and the caveats.
+  plus a `README.md` index carrying the chapter table, what this game's harvest
+  does differently, and the caveats that apply to this report only.
+  The shared procedure lives in the repository README, one level up.
 - Every act has: an estimate, the sampled range, the number of uploads behind it,
   a confidence rating, and a collapsed evidence table listing
   runtime, video title, uploader, view count and URL for each accepted upload.
@@ -72,7 +74,7 @@ Set `released_in` to `null` for a wiki that does not categorize by version at al
 
 `report.py` carries the report's title and intro, the wiki page that documents
 the questline, the level gate's name (`gate_label`, `None` for a game without one),
-the publisher, the per-game wording the method section quotes,
+the per-game wording the method section quotes,
 the caveats that apply to this report only, and the authored prose.
 
 ## Step 1: get the structure from the wiki

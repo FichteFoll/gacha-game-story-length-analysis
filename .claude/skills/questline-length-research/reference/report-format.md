@@ -8,7 +8,7 @@ so a re-harvest can regenerate every file.
 ## Files
 
 ```
-<report>/README.md                     index, method, caveats
+<report>/README.md                     index, game-specific method, caveats
 <report>/00-<chapter-slug>.md          one per chapter, numbered in story order
 <report>/report.py                     game configuration and authored prose
 <report>/claims.py                     what that prose asserts about the data
@@ -85,6 +85,8 @@ See [README.md](README.md) for the method and its limits.
   A reader who sees "9 accepted, 5 screened out"
   knows the filtering was real without having to open the JSON.
 - Order chapters by story order in the filename prefix, not alphabetically.
-- The method section and the shared caveats are rendered from the pipeline's own
-  constants; what a game words differently (its searches, its compilation
-  phrasings, its publisher) comes from `report.py`.
+- The shared procedure and the shared caveats live once, in the repository
+  README, which every report links to. A report's own method section carries
+  only what its game words differently (its wiki page, its searches, its
+  compilation and partial phrasings, all from `report.py`) and the thresholds,
+  which are rendered from the pipeline's own constants.
