@@ -62,7 +62,7 @@ and the ballet that stops mid-performance.
 - **Sampled range:** 4 h 16 min to 7 h 07 min across 8 playthrough uploads (3 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** -
-- **Released in:** 7.0, per the sampled upload titles (the wiki has no release-version category for this act yet)
+- **Released in:** 7.0
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
 
 <details>

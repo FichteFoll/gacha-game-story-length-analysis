@@ -10,7 +10,7 @@ import json
 import pathlib
 import sys
 
-from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS, VERSION_FALLBACK
+from chapter_text import AR, AR_DEFAULT, ACT_NOTES, CHAPTERS
 from claims import failures
 from facts import chapter_facts, chapter_total, hm, median_of, superlatives
 
@@ -34,14 +34,13 @@ def prose(text, facts=None):
     return text.format_map(facts) if facts else text
 
 
-def released_in(act, versions):
-    v = versions.get(act["act_title"])
-    if v:
-        return v
-    fallback = VERSION_FALLBACK.get(act["act_title"])
-    return (f"{fallback}, per the sampled upload titles "
-            f"(the wiki has no release-version category for this act yet)"
-            if fallback else "unknown")
+def released_in(act, versions, version_index):
+    """`Luna VII (6.6)`: the wiki's version name, plus its patch number."""
+    name = versions.get(act["act_title"])
+    if not name:
+        return "unknown"
+    number = version_index.get(name, {}).get("number")
+    return f"{name} ({number})" if number and number != name else name
 
 
 def confidence(stats):
@@ -77,7 +76,7 @@ def evidence_table(act):
     return "\n".join(lines)
 
 
-def act_section(act, parts, versions, facts, superlative):
+def act_section(act, parts, versions, version_index, facts, superlative):
     key = f"{act['chapter_id']}|{act['act_label']}"
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
@@ -94,7 +93,7 @@ def act_section(act, parts, versions, facts, superlative):
         f"({screened} further candidates screened out)",
         f"- **Confidence:** {confidence(s)}",
         f"- **Adventure Rank gate:** {ar_for(act)}",
-        f"- **Released in:** {released_in(act, versions)}",
+        f"- **Released in:** {released_in(act, versions, version_index)}",
     ]
     if parts:
         listed = "; ".join(p.split(" (")[0] for p in parts)
@@ -104,7 +103,7 @@ def act_section(act, parts, versions, facts, superlative):
     return "\n".join(body)
 
 
-def chapter_doc(chap, acts, quest_parts, versions, superlative):
+def chapter_doc(chap, acts, quest_parts, versions, version_index, superlative):
     total = chapter_total(acts)
     facts = chapter_facts(acts, quest_parts)
     head = [
@@ -131,7 +130,8 @@ def chapter_doc(chap, acts, quest_parts, versions, superlative):
              prose(chap["pacing"], facts), "", "## Acts", ""]
     for a in acts:
         parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
-        head.append(act_section(a, parts, versions, facts, superlative))
+        head.append(act_section(a, parts, versions, version_index, facts,
+                                superlative))
     head += [
         "## Sources",
         "",
@@ -270,7 +270,11 @@ def readme(chapters, by_chapter):
         "- `data/evidence/` holds the raw harvest, one file per act, \n"
         "before any screening was applied.",
         "- `data/versions.json` maps each act to its release version, \n"
-        "as categorized on the wiki.",
+        "as categorized on the wiki, \n"
+        "and `data/version_index.json` gives each version \n"
+        "its patch number and release date. \n"
+        "Both are fetched by `pipeline/fetch_versions.py` before the harvest, \n"
+        "because the harvest searches for version-branded upload titles.",
         "- `data/quest_parts.json` lists the quest parts of each act, \n"
         "in the order the wiki gives them.",
         "- `data/chapter_keys.json` and `data/compilations.txt` \n"
@@ -302,6 +306,7 @@ def main(argv):
     analysis = json.loads((DATA / "analysis.json").read_text())
     quest_parts = json.loads((DATA / "quest_parts.json").read_text())
     versions = json.loads((DATA / "versions.json").read_text())
+    version_index = json.loads((DATA / "version_index.json").read_text())
     broken = failures(analysis)
     if broken:
         print("the prose no longer matches the data:\n", file=sys.stderr)
@@ -319,7 +324,7 @@ def main(argv):
 
     for chap in CHAPTERS:
         doc = chapter_doc(chap, by_chapter[chap["id"]], quest_parts, versions,
-                          superlative)
+                          version_index, superlative)
         write(OUT / f"{chap['slug']}.md", doc)
         print("wrote", chap["slug"] + ".md")
     write(OUT / "README.md", readme(CHAPTERS, by_chapter))

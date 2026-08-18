@@ -108,7 +108,11 @@ including the rejected candidates and the reason each was rejected.
 - `data/evidence/` holds the raw harvest, one file per act,
 before any screening was applied.
 - `data/versions.json` maps each act to its release version,
-as categorized on the wiki.
+as categorized on the wiki,
+and `data/version_index.json` gives each version
+its patch number and release date.
+Both are fetched by `pipeline/fetch_versions.py` before the harvest,
+because the harvest searches for version-branded upload titles.
 - `data/quest_parts.json` lists the quest parts of each act,
 in the order the wiki gives them.
 - `data/chapter_keys.json` and `data/compilations.txt`

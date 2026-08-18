@@ -77,7 +77,7 @@ Tied with Chapter IV, Act V for the longest act in the game.
 - **Sampled range:** 3 h 22 min to 7 h 36 min across 8 playthrough uploads (3 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
-- **Released in:** Luna I
+- **Released in:** Luna I (6.0)
 - **Quest parts (3):** Where the Moon Rises; Reunion Beneath the Moonlight; In the Shadows of Night
 
 <details>
@@ -106,7 +106,7 @@ and Rerir regaining physical form.
 - **Sampled range:** 2 h 36 min to 4 h 40 min across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
-- **Released in:** Luna I
+- **Released in:** Luna I (6.0)
 - **Quest parts (5):** Fulminations and Undercurrents; The Dark Side of Memory; One There Was, Who Hunted the Moon; The Ashen-White Order Burns; Rest Beyond Reach
 
 <details>
@@ -136,7 +136,7 @@ with Flins, Aino, Lauma, and Jahoda.
 - **Sampled range:** 2 h 02 min to 2 h 34 min across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
-- **Released in:** Luna II
+- **Released in:** Luna II (6.1)
 - **Quest parts (3):** Hidden in the Shadows; Special Operation; Everlasting As the Moon
 
 <details>
@@ -167,7 +167,7 @@ and fate starts closing in.
 - **Sampled range:** 3 h 08 min to 4 h 20 min across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
-- **Released in:** Luna II
+- **Released in:** Luna II (6.1)
 - **Quest parts (3):** All Is Foretold; Dance of Death: Serpent and Scorpion; Echoes of Fate
 
 <details>
@@ -197,7 +197,7 @@ with Columbina weakening after the fight with Rerir.
 - **Sampled range:** 1 h 48 min to 3 h 01 min across 7 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
-- **Released in:** Luna III
+- **Released in:** Luna III (6.2)
 - **Quest parts (2):** In the Shifting Light of the Moon; Ripples That Will Never Reach
 
 <details>
@@ -225,7 +225,7 @@ and the search for Columbina's true name.
 - **Sampled range:** 2 h 06 min to 4 h 01 min across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
-- **Released in:** Luna III
+- **Released in:** Luna III (6.2)
 - **Quest parts (4):** Where Does Her Name Rest?; The Night the Moon Returns Home; Return to the Moon; The Empty Courtyard
 
 <details>
@@ -254,7 +254,7 @@ North to Dottore's lab with the Fatui as temporary allies.
 - **Sampled range:** 1 h 46 min to 3 h 16 min across 7 playthrough uploads (4 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
-- **Released in:** Luna IV (6.3), per the sampled upload titles (the wiki has no release-version category for this act yet)
+- **Released in:** Luna IV (6.3)
 - **Quest parts (3):** Moonless Night; Where Our Space and Time Intersect; Tracing the Footsteps of the Past
 
 <details>
@@ -282,7 +282,7 @@ and the Welkin Moon's homecoming.
 - **Sampled range:** 3 h 11 min to 3 h 50 min across 8 playthrough uploads (10 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
-- **Released in:** Luna IV (6.3), per the sampled upload titles (the wiki has no release-version category for this act yet)
+- **Released in:** Luna IV (6.3)
 - **Quest parts (3):** The First Sliver of Moonlight; Descending Moon; Welkin Moon's Homecoming
 
 <details>
@@ -310,7 +310,7 @@ identities in Sumeru City have been switched around.
 - **Sampled range:** 2 h 22 min to 3 h 06 min across 8 playthrough uploads (9 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
-- **Released in:** Luna VII (6.6), per the sampled upload titles (the wiki has no release-version category for this act yet)
+- **Released in:** Luna VII (6.6)
 - **Quest parts (3):** Where Flowers Awaken; A Divergence Leading to Oneself; Ancient Shadows Re-Emerge
 
 <details>
@@ -338,7 +338,7 @@ and Chapter III finally gets its title drop.
 - **Sampled range:** 2 h 16 min to 7 h 00 min across 5 playthrough uploads (11 further candidates screened out)
 - **Confidence:** low
 - **Adventure Rank gate:** 40
-- **Released in:** Luna VII (6.6), per the sampled upload titles (the wiki has no release-version category for this act yet)
+- **Released in:** Luna VII (6.6)
 - **Quest parts (4):** Darkness Looming; A Tower Unto Wisdom and Folly; Truth Amongst the Pages of Purana; Your Past Is Like a Garden
 
 <details>

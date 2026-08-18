@@ -242,13 +242,3 @@ AR = {
     "ch7|Act I": "18", "ch7|Act II": "-",
 }
 AR_DEFAULT = {"ch2": "30", "ch3": "35", "ch4": "40", "ch5": "40", "sotwm": "40"}
-
-# Acts the wiki has not categorized with a release version yet.
-# These fall back to the version named in the sampled upload titles.
-VERSION_FALLBACK = {
-    "A Traveler on a Winter's Night": "Luna IV (6.3)",
-    "True Moon": "Luna IV (6.3)",
-    "As All Falls to Emptiness": "Luna VII (6.6)",
-    "Truth Amongst the Pages of Purana": "Luna VII (6.6)",
-    "Wraith's Nocturne": "7.0",
-}
