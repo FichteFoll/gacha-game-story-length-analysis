@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """Fetch the release version of every act, and each version's number and date.
 
-Usage: fetch_versions.py <workdir> <wiki-host>
-       e.g. fetch_versions.py data genshin-impact.fandom.com
+Usage: fetch_versions.py <workdir>
 
 Reads  <workdir>/acts.tsv
+       <workdir>/wiki.json           which wiki, and how it records versions:
+                                     host, name, released_in, version_page,
+                                     version_fields (see DEFAULTS below)
 Writes <workdir>/versions.json       {act title: version name or null}
        <workdir>/version_index.json  {version name: {number, date}}
 
@@ -16,6 +18,12 @@ harvest how recent an act is.
 Fandom serves a Cloudflare challenge to plain HTTP clients on /wiki/<Page>, so
 everything here goes through the MediaWiki API, which is not challenged. The
 release version is not in the wikitext: it is a category the templates add.
+
+The defaults are what the HoYoverse-style wikis share, but the version infobox
+does differ between them (Genshin has |number and |date, Honkai: Star Rail has
+|version and |release_date), which is what version_fields is for. A game whose
+wiki does not categorize by version at all sets released_in to null: the harvest
+then searches by act title alone, and no act counts as recent.
 """
 import json
 import pathlib
@@ -26,7 +34,11 @@ import urllib.request
 
 AGENT = "Mozilla/5.0 (X11; Linux x86_64)"
 BATCH = 50                  # titles per API request, the MediaWiki limit
-RELEASED_IN = re.compile(r"^Category:Released in Version (.+)$")
+DEFAULTS = dict(
+    released_in=r"Released in Version (.+)",   # the category, minus "Category:"
+    version_page="Version/{version}",          # the page its infobox sits on
+    version_fields=dict(number="number", date="date"),
+)
 
 
 def api(host, **params):
@@ -65,39 +77,52 @@ def categories(host, titles):
         params.update(response["continue"])
 
 
-def released_in(host, titles):
+def released_in(wiki, titles):
     """Act title -> version name, from the "Released in Version X" category."""
+    if not wiki["released_in"]:
+        return {t: None for t in titles}
+    pattern = re.compile(f"^Category:{wiki['released_in']}$")
     out = {}
     for start in range(0, len(titles), BATCH):
-        for title, cats in categories(host, titles[start:start + BATCH]).items():
-            versions = [m.group(1) for m in map(RELEASED_IN.match, cats) if m]
+        for title, cats in categories(wiki["host"],
+                                      titles[start:start + BATCH]).items():
+            versions = [m.group(1) for m in map(pattern.match, cats) if m]
             out[title] = versions[0] if versions else None
     # Redirects and normalisation can rename a page, so report on what was asked
     # for rather than on what came back.
     return {t: out.get(t) for t in titles}
 
 
-def version_details(host, names):
-    """Version name -> {number, date}, from the Version/<name> infobox."""
+def version_details(wiki, names):
+    """Version name -> {number, date}, from the version page's infobox."""
+    number_field, date_field = (wiki["version_fields"][k]
+                                for k in ("number", "date"))
+    field = re.compile(rf"^\|\s*({number_field}|{date_field})\s*=\s*(\S+)", re.M)
     out = {}
     for name in names:
-        wikitext = api(host, action="parse", page=f"Version/{name}",
+        page = wiki["version_page"].format(version=name)
+        wikitext = api(wiki["host"], action="parse", page=page,
                        prop="wikitext")["parse"]["wikitext"]["*"]
-        fields = dict(re.findall(r"^\|\s*(number|date)\s*=\s*(\S+)", wikitext,
-                                 re.M))
-        out[name] = {"number": fields.get("number", name),
-                     "date": fields.get("date")}
+        fields = dict(field.findall(wikitext))
+        out[name] = {"number": fields.get(number_field, name),
+                     "date": fields.get(date_field)}
     return out
 
 
+def load_wiki(workdir):
+    """The wiki's conventions, over the defaults the HoYoverse-style wikis share."""
+    return {**DEFAULTS, **json.loads((workdir / "wiki.json").read_text())}
+
+
 def main(argv):
-    if len(argv) != 3:
+    if len(argv) != 2:
         print(__doc__)
         return 2
-    workdir, host = pathlib.Path(argv[1]), argv[2]
+    workdir = pathlib.Path(argv[1])
+    wiki = load_wiki(workdir)
 
-    versions = released_in(host, act_titles(workdir))
-    index = version_details(host, sorted(set(filter(None, versions.values()))))
+    versions = released_in(wiki, act_titles(workdir))
+    index = version_details(wiki, sorted(set(filter(None, versions.values()))))
 
     (workdir / "versions.json").write_text(
         json.dumps(dict(sorted(versions.items())), indent=1,

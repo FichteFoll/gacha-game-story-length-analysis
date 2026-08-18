@@ -1,4 +1,7 @@
 {
  "host": "genshin-impact.fandom.com",
- "name": "Genshin Impact Wiki"
+ "name": "Genshin Impact Wiki",
+ "released_in": "Released in Version (.+)",
+ "version_page": "Version/{version}",
+ "version_fields": {"number": "number", "date": "date"}
 }
