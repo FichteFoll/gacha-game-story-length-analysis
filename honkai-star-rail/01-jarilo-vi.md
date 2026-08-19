@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Jarilo-VI
 
 **Region:** Jarilo-VI: Belobog and the Underworld | **Game versions:** 1.0 | **Entries:** 2 | **Estimated chapter length: 6 h 32 min**
+<!--/gen-->
 
 A planet buried under an eternal blizzard,
 where a walled city rations its warmth
@@ -10,17 +12,19 @@ and ends up deciding how the two halves of Belobog settle it.
 
 ## At a glance
 
+<!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | In the Withering Wintry Night | 3 h 36 min | 2 h 12 min - 5 h 14 min | 7 | low |
 | Mission 2 | In the Sweltering Morning Sun | 2 h 56 min | 1 h 39 min - 3 h 54 min | 7 | low |
+<!--/gen-->
 
-**Total: 6 h 32 min**
+**Total: <!--f:total-->6 h 32 min<!--/f-->**
 
 ## Pacing
 
 Two missions, split by the descent into the Underworld:
-3 h 36 min and 2 h 56 min.
+<!--f:len_Mission_1-->3 h 36 min<!--/f--> and <!--f:len_Mission_2-->2 h 56 min<!--/f-->.
 The opener is the longer of the two,
 and the one the Trailblaze Level gate sits inside;
 the second is a straight run at Cocolia
@@ -31,12 +35,15 @@ for the reason given under the caveats in
 
 ## Missions
 
+<!--gen:act-heading act="Mission 1"-->
 ### Mission 1 - [In the Withering Wintry Night](https://honkai-star-rail.fandom.com/wiki/In_the_Withering_Wintry_Night)
+<!--/gen-->
 
 Arrival on a frozen planet,
 the descent into the Underworld,
 and the fight to free its people from the cage Svarog built
 to keep them safe.
+<!--gen:stats act="Mission 1"-->
 
 - **Estimated length:** 3 h 36 min
 - **Sampled range:** 2 h 12 min to 5 h 14 min across 7 playthrough uploads (34 further candidates screened out)
@@ -45,7 +52,9 @@ to keep them safe.
 - **Released in:** 1.0
 - **Stability:** median +6% against an earlier, independent query set
 - **Quest parts (13):** A Grand Cool Adventure; Travelers on a Winter Night; Everwinter Night; You Can Run, But You Can't Hide; Hide-and-Seek; The Eighth and Final Rule; Long Wait for the Blade's Edge; Ones Fallen Into the Abyss; A Sunset Rendezvous; The Past Will Return as an Avalanche; Lying in Rust; To Rot or to Burn; Not Good With Farewells
+<!--/gen-->
 
+<!--gen:evidence act="Mission 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -60,12 +69,16 @@ to keep them safe.
 | 5 h 14 min | Trailblaze Mission "Jarilo-VI - In the Withering Wintry Night" | Mystrix Gaming | ~175 | n/a | <https://www.youtube.com/watch?v=jNQSQHL_ZAU> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Mission 2"-->
 ### Mission 2 - [In the Sweltering Morning Sun](https://honkai-star-rail.fandom.com/wiki/In_the_Sweltering_Morning_Sun)
+<!--/gen-->
 
 Back to the Overworld to face Cocolia,
 the ruler who was preserving Belobog's freedom
 by handing the planet to the Stellaron.
+<!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 2 h 56 min
 - **Sampled range:** 1 h 39 min to 3 h 54 min across 7 playthrough uploads (17 further candidates screened out)
@@ -74,7 +87,9 @@ by handing the planet to the Stellaron.
 - **Released in:** 1.0
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (11):** Cleanse in the Darkness Outside; Unattainable Idol; Young Guard; Soldiers Stay Silent; The Stars Are Cold Toys; Roads to the Past Have Long Been Closed; The Dawn Here...; The Return; In the Dangerous Muddy Swamp; No Time for Me, My Friend; Silent Galaxy
+<!--/gen-->
 
+<!--gen:evidence act="Mission 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -89,6 +104,7 @@ by handing the planet to the Stellaron.
 | 3 h 54 min | Belobog: In the Sweltering Morning Sun \| Trailblaze Mission \| Honkai Star Rail | Cyf | 24 | 2023-05-16 | <https://www.youtube.com/watch?v=JGxk00Ssxnw> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

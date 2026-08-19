@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter V: Incandescent Ode of Resurrection
 
 **Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 28 min**
+<!--/gen-->
 
 Natlan fights the Abyss with Ancient Names borrowed from the Night Kingdom.
 The Traveler joins the tribes, loses Capitano as an ally,
@@ -9,6 +11,7 @@ to keep the Sacred Flame burning.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 55 min | 9 | medium |
@@ -18,25 +21,29 @@ to keep the Sacred Flame burning.
 | Interlude | All Fires Fuel the Flame | 52 min | 42 min - 56 min | 10 | medium |
 | Act V | Incandescent Ode of Resurrection | 3 h 34 min | 3 h 00 min - 3 h 46 min | 8 | medium |
 | Act VI | A Space and Time for You | 1 h 56 min | 1 h 51 min - 2 h 04 min | 10 | high |
+<!--/gen-->
 
-**Total: 17 h 28 min**
+**Total: <!--f:total-->17 h 28 min<!--/f-->**
 
 ## Pacing
 
 Uniformly long without any single outlier:
-the numbered acts run from 1 h 56 min to 3 h 34 min.
+the numbered acts run from <!--f:acts_low-->1 h 56 min<!--/f--> to <!--f:acts_high-->3 h 34 min<!--/f-->.
 The Interlude is the exception,
-a one-part cooldown quest of 52 min.
+a <!--f:parts_Interlude-->one<!--/f-->-part cooldown quest of <!--f:len_Interlude-->52 min<!--/f-->.
 Natlan's mobility gadgets keep traversal overhead lower
 than Sumeru's despite the map size.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [Flowers Resplendent on the Sun-Scorched Sojourn](https://genshin-impact.fandom.com/wiki/Flowers_Resplendent_on_the_Sun-Scorched_Sojourn)
+<!--/gen-->
 
 Farewells in Fontaine, then Natlan:
 Mualani, Kachina, Ancient Names,
 and the pilgrimage of the Sacred Flame.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 2 h 32 min
 - **Sampled range:** 2 h 02 min to 2 h 55 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (3 further candidates screened out)
@@ -46,7 +53,9 @@ and the pilgrimage of the Sacred Flame.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (43 min)
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -63,11 +72,15 @@ and the pilgrimage of the Sacred Flame.
 | 3 h 08 min | Genshin Impact - Chapter 5 Act 1: Flowers Resplendent on the Sun-Scorched Sojourn \| JP Dub EN Sub 4K | Gudaoko | ~591 | n/a | <https://www.youtube.com/watch?v=qOWbpI5uIag> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [Black Stone Under a White Stone](https://genshin-impact.fandom.com/wiki/Black_Stone_Under_a_White_Stone)
+<!--/gen-->
 
 The Ode of Resurrection fails to bring Kachina back,
 and the Abyss turns out to have tailored a disaster for every tribe.
+<!--gen:stats act="Act II"-->
 
 - **Estimated length:** 2 h 44 min
 - **Sampled range:** 2 h 28 min to 2 h 57 min for the middle half (full spread 1 h 48 min to 3 h 11 min) across 8 playthrough uploads (4 further candidates screened out)
@@ -77,7 +90,9 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 - **Stability:** median -2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (5):** A Decision; To Reclaim an Ancient Name; Echoes of Life; Into Eternal Night; Past and Future
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -93,11 +108,15 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 | 3 h 11 min | (JP Dub - EN Sub) Natlan's Archon Quest - Chapter V: Act II \| Genshin Impact | AndhraZX | 50 | 2024-10-07 | <https://www.youtube.com/watch?v=kaueHm7AouQ> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [Beyond the Smoke and Mirrors](https://genshin-impact.fandom.com/wiki/Beyond_the_Smoke_and_Mirrors)
+<!--/gen-->
 
 Mavuika mobilizes the tribes and the Adventurers' Guild together
 while Capitano's purpose in Natlan comes into focus.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 2 h 33 min
 - **Sampled range:** 2 h 22 min to 2 h 44 min for the middle half (full spread 1 h 18 min to 4 h 01 min) across 23 playthrough uploads (5 further candidates screened out)
@@ -107,7 +126,9 @@ while Capitano's purpose in Natlan comes into focus.
 - **Stability:** median +5% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 7 of 23 uploads
 - **Quest parts (3):** All Names are Noble (29 min); To Whence the Smoke Drifts (1 h 04 min); The Flickering Light Splits in Twain (58 min)
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -138,12 +159,16 @@ while Capitano's purpose in Natlan comes into focus.
 | 4 h 01 min | Chapter 5: Act III \| Beyond the Smoke and Mirrors \| Genshin Impact | Rita Kamishiro | 1,264 | 2025-01-07 | <https://www.youtube.com/watch?v=8YCtVELE3Lw> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV"-->
 ### Act IV - [The Rainbow Destined to Burn](https://genshin-impact.fandom.com/wiki/The_Rainbow_Destined_to_Burn)
+<!--/gen-->
 
 The strike against the Fatui and the Secret Source,
 the Abyss' full assault,
 and Capitano's end.
+<!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 3 h 17 min
 - **Sampled range:** 3 h 02 min to 3 h 38 min for the middle half (full spread 2 h 54 min to 3 h 52 min) across 10 playthrough uploads (0 further candidates screened out)
@@ -153,7 +178,9 @@ and Capitano's end.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (6):** Beneath the Secret Source; As One We Watch the Setting Sun; The Surging Darkness; Despair Engulfs the Heavens; No One Fights Alone; A Fuel Named "Fate"
+<!--/gen-->
 
+<!--gen:evidence act="Act IV"-->
 <details>
 <summary>Evidence</summary>
 
@@ -171,12 +198,16 @@ and Capitano's end.
 | 3 h 52 min | Genshin Impact - Chapter 5 Act 4: The Rainbow Destined to Burn \| Natlan Full Story JP Dub EN Sub 4K | Gudaoko | 1,068 | 2024-10-11 | <https://www.youtube.com/watch?v=YMlo5mLx2yM> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Interlude"-->
 ### Interlude - [All Fires Fuel the Flame](https://genshin-impact.fandom.com/wiki/All_Fires_Fuel_the_Flame)
+<!--/gen-->
 
-Just one quest part:
+Just <!--f:parts_Interlude-->one<!--/f--> quest part:
 the tribes rebuild after the invasion.
 A deliberate cooldown between Act IV and Act V.
+<!--gen:stats act="Interlude"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 52 min
@@ -187,7 +218,9 @@ One of the three shortest entries in the questline.
 - **Stability:** median +4% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (1):** For the Same Land
+<!--/gen-->
 
+<!--gen:evidence act="Interlude"-->
 <details>
 <summary>Evidence</summary>
 
@@ -205,11 +238,15 @@ One of the three shortest entries in the questline.
 | 1 h 03 min | Genshin Impact - Chapter 5 Interlude: All Fires Fuel The Flame \| Natlan Full Story JP Dub EN Sub 4K | Gudaoko | 401 | 2024-11-20 | <https://www.youtube.com/watch?v=hKDfGk0Gd8Q> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act V"-->
 ### Act V - [Incandescent Ode of Resurrection](https://genshin-impact.fandom.com/wiki/Incandescent_Ode_of_Resurrection)
+<!--/gen-->
 
 The Night Kingdom, the truth about Mavuika's bargain,
 and the price already paid for the Ode of Resurrection.
+<!--gen:stats act="Act V"-->
 
 - **Estimated length:** 3 h 34 min
 - **Sampled range:** 3 h 00 min to 3 h 46 min for the middle half (full spread 2 h 03 min to 4 h 01 min) across 8 playthrough uploads (3 further candidates screened out)
@@ -219,7 +256,9 @@ and the price already paid for the Ode of Resurrection.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (5):** Subterranean Ruins; As the Sun Rises and Sets; Journey of Stars and Flames; Where All Hopes Lie; When All Becomes a Monument
+<!--/gen-->
 
+<!--gen:evidence act="Act V"-->
 <details>
 <summary>Evidence</summary>
 
@@ -235,11 +274,15 @@ and the price already paid for the Ode of Resurrection.
 | 4 h 01 min | Genshin Impact \| Incandescent ode of Resurrection (full quest no commentary) | Akoya | 14 | 2025-01-14 | <https://www.youtube.com/watch?v=guybIcFQrB8> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act VI"-->
 ### Act VI - [A Space and Time for You](https://genshin-impact.fandom.com/wiki/A_Space_and_Time_for_You)
+<!--/gen-->
 
 Traveler chapter: the Loom of Fate
 and the closest thing yet to a reunion with the sibling.
+<!--gen:stats act="Act VI"-->
 
 - **Estimated length:** 1 h 56 min
 - **Sampled range:** 1 h 51 min to 2 h 04 min for the middle half (full spread 1 h 41 min to 2 h 18 min) across 10 playthrough uploads (2 further candidates screened out)
@@ -249,7 +292,9 @@ and the closest thing yet to a reunion with the sibling.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (3):** The Key That Unlocks Fate; "Savior"; A Space and Time Without You
+<!--/gen-->
 
+<!--gen:evidence act="Act VI"-->
 <details>
 <summary>Evidence</summary>
 
@@ -267,6 +312,7 @@ and the closest thing yet to a reunion with the sibling.
 | 2 h 18 min | Genshin Impact \| Chapter V: Act VI – A Space and Time for You (Full Quest) \| No Commentary Gameplay | Vjack Gaming YT | 80 | 2025-08-12 | <https://www.youtube.com/watch?v=GHfMkOq4WzY> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

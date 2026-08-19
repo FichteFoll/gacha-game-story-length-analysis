@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Season 1
 
 **Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 24 h 08 min**
+<!--/gen-->
 
 A brother and sister run a video store on Sixth Street by day
 and smuggle people through the Hollows as Phaethon by night.
@@ -11,6 +13,7 @@ are all pulling at the same thread.
 
 ## At a glance
 
+<!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 0 | Business x Strangeness x Justness | 1 h 57 min | 1 h 13 min - 2 h 16 min | 8 | low |
@@ -23,18 +26,19 @@ are all pulling at the same thread.
 | Chapter 5 | A Storm of Falling Stars | 2 h 25 min | 2 h 09 min - 2 h 43 min | 12 | medium |
 | Epilogue (A) | Bury Your Tears With the Past (A) | 3 h 47 min | 3 h 14 min - 4 h 13 min | 12 | medium |
 | Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 44 min | 3 h 27 min - 4 h 13 min | 13 | high |
+<!--/gen-->
 
-**Total: 24 h 08 min**
+**Total: <!--f:total-->24 h 08 min<!--/f-->**
 
 ## Pacing
 
 The season the game teaches you with,
 and by a distance the cheapest to get through:
-ten entries and 24 h 08 min in total.
+<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->24 h 08 min<!--/f--> in total.
 The two epilogue halves stand apart from the rest,
-at 3 h 47 min and 3 h 44 min;
-everything before them sits between 1 h 25 min
-and 2 h 59 min.
+at <!--f:len_Epilogue_A-->3 h 47 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 44 min<!--/f-->;
+everything before them sits between <!--f:shortest_len-->1 h 25 min<!--/f-->
+and <!--f:len_Chapter_4-->2 h 59 min<!--/f-->.
 These are also the least settled figures in the report:
 Season 1 is mostly dialogue, dialogue is skippable,
 and the uploads disagree accordingly.
@@ -42,11 +46,14 @@ See the caveats in [README.md](README.md).
 
 ## Chapters
 
+<!--gen:act-heading act="Chapter 0"-->
 ### Chapter 0 - [Business x Strangeness x Justness](https://zenless-zone-zero.fandom.com/wiki/Business_x_Strangeness_x_Justness)
+<!--/gen-->
 
 The prologue: a Hollow, a Bangboo,
 and the two halves of Phaethon meeting the client
 who turns the video store into a business.
+<!--gen:stats act="Chapter 0"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 1 h 57 min
@@ -56,7 +63,9 @@ One of the three shortest entries in the questline.
 - **Stability:** median +2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (9):** A Surprise; Hollow Survival Guide; Mutated Corruption; Proxy Business; Emergency; Hacking Attack; Reconnected; "Fairy"; Prologue: Intermission
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 0"-->
 <details>
 <summary>Evidence</summary>
 
@@ -72,13 +81,17 @@ One of the three shortest entries in the questline.
 | 2 h 50 min | Zenless Zone Zero - Prologue: Business X Strangeness X Justness \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | 1,964 | 2024-07-06 | <https://www.youtube.com/watch?v=q76J7yLOOY0> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 1"-->
 ### Chapter 1 - [Cat's Lost & Found](https://zenless-zone-zero.fandom.com/wiki/Cat's_Lost_&_Found_(A))
+<!--/gen-->
 
 A lost cat, a client with two tails,
 and an escort job through an abandoned rally point
 that turns out to be about
 what a Vagrant left behind rather than what was lost.
+<!--gen:stats act="Chapter 1"-->
 
 - **Estimated length:** 2 h 14 min
 - **Sampled range:** 1 h 50 min to 2 h 38 min for the middle half (full spread 1 h 29 min to 3 h 06 min) across 13 playthrough uploads (12 further candidates screened out)
@@ -86,7 +99,9 @@ what a Vagrant left behind rather than what was lost.
 - **Released in:** 0.13
 - **Stability:** median +14% against an earlier, independent query set
 - **Quest parts (12):** An Uninvited Guest; Client with Two Tails; Abandoned Rally Point; Lost Item; Explosive Last Train; Doubts Arise; Hidden Stories; Unexpected Captives; Second Rescue; Endlessness; Vagrant's Final Resting Place; Chapter 1 Intermission
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -107,13 +122,17 @@ what a Vagrant left behind rather than what was lost.
 | 3 h 06 min | Chapter 001: Cat's Lost and Found \| (A & B) \| Wise ENG Gameplay (Zenless Zone Zero) | O-E Games | ~64 | n/a | <https://www.youtube.com/watch?v=S9_PYJik1S4> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 1 Intermission"-->
 ### Chapter 1 Intermission - [The Zero Zone](https://zenless-zone-zero.fandom.com/wiki/The_Zero_Zone)
+<!--/gen-->
 
 A restricted area,
 an encounter that should not be there,
 and a pursuit the game does not tell you
 was a chapter of its own until it is over.
+<!--gen:stats act="Chapter 1 Intermission"-->
 The shortest entry in the questline.
 
 - **Estimated length:** 1 h 25 min
@@ -122,7 +141,9 @@ The shortest entry in the questline.
 - **Released in:** 1.0
 - **Stability:** median -10% against an earlier, independent query set
 - **Quest parts (3):** Restricted Area Investigation; Mysterious Encounter; Frontline Pursuit
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 1 Intermission"-->
 <details>
 <summary>Evidence</summary>
 
@@ -139,12 +160,16 @@ The shortest entry in the questline.
 | 2 h 28 min | [C001] Phaetheon's Story: Intermission: The Zero Zone \| 1.0 Zenless Zone Zero | Rubieco | ~537 | n/a | <https://www.youtube.com/watch?v=kY1R8KgPh7Q> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 2"-->
 ### Chapter 2 - [A Call From the Hollow's Heart](https://zenless-zone-zero.fandom.com/wiki/A_Call_From_the_Hollow's_Heart_(A))
+<!--/gen-->
 
 Belobog Heavy Industries takes a commission it cannot finish,
 and the Proxy walks into a Hollow
 with a prototype, two sisters and a Steel Devourer in it.
+<!--gen:stats act="Chapter 2"-->
 
 - **Estimated length:** 1 h 59 min
 - **Sampled range:** 1 h 25 min to 2 h 56 min across 5 playthrough uploads (46 further candidates screened out)
@@ -152,7 +177,9 @@ with a prototype, two sisters and a Steel Devourer in it.
 - **Released in:** 1.0
 - **Stability:** median -24% against an earlier, independent query set
 - **Quest parts (10):** Assigned Commission; Problem Child; The Essence of Being a Bro; The Only Embrace; Savior's Mission; That Name; Searching for the Prototype; Sisters; Steel Devourer; Call That Name
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -165,8 +192,11 @@ with a prototype, two sisters and a Steel Devourer in it.
 | 2 h 56 min | [C002] Phaetheon's Story: A Call From the Hollow's Heart \| 1.0 Zenless Zone Zero | Rubieco | ~399 | n/a | <https://www.youtube.com/watch?v=q1YP-8zXdsQ> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 2 Interlude"-->
 ### Chapter 2 Interlude - [Mission Unthinkable](https://zenless-zone-zero.fandom.com/wiki/Mission_Unthinkable_(A))
+<!--/gen-->
 
 The Public Security Bureau's turn:
 a theft case on Sixth Street,
@@ -174,6 +204,7 @@ an unexpected reunion,
 and the commission *Invisible Assistant*,
 which the game also uses
 as the gate to the Senior Proxy rank.
+<!--gen:stats act="Chapter 2 Interlude"-->
 
 - **Estimated length:** 1 h 58 min
 - **Sampled range:** 1 h 15 min to 2 h 34 min for the middle half (full spread 1 h 06 min to 3 h 40 min) across 16 playthrough uploads (13 further candidates screened out)
@@ -182,7 +213,9 @@ as the gate to the Senior Proxy rank.
 - **Stability:** median -7% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 16 uploads
 - **Quest parts (10):** Crisis on the Street Corner; Unexpected Reunion; Unproductive Visit; Sixth Street Theft Case; Invisible Assistant (21 min); Emerging Crisis; Emergency Operation; Shared Beliefs; Moment to Counterattack; We'll Meet Again
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 2 Interlude"-->
 <details>
 <summary>Evidence</summary>
 
@@ -206,12 +239,16 @@ as the gate to the Senior Proxy rank.
 | 3 h 40 min | [Main Quest Chapter 2 Interlude] Mission Unthinkable (Zenless Zone Zero) | ThisisHori | ~552 | n/a | <https://www.youtube.com/watch?v=Zl5KOqLaCBU> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 3"-->
 ### Chapter 3 - [The Midnight Pursuit](https://zenless-zone-zero.fandom.com/wiki/The_Midnight_Pursuit_(A))
+<!--/gen-->
 
 A mysterious letter, a perilous building,
 and Victoria Housekeeping cleaning up something
 far darker than a hotel.
+<!--gen:stats act="Chapter 3"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 1 h 40 min
@@ -220,7 +257,9 @@ One of the three shortest entries in the questline.
 - **Released in:** 1.0
 - **Stability:** median -32% against an earlier, independent query set
 - **Quest parts (12):** A Mysterious Letter; First Exploration of a Perilous Building; Friends Old and New; Ascending Dance; Close, Yet Worlds Apart; Power Restored; An Uninvited Guest; Darkest Hour; Shocking Conspiracy; Rescue Mission; A Close Call; Into the Darkness
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 3"-->
 <details>
 <summary>Evidence</summary>
 
@@ -240,13 +279,17 @@ One of the three shortest entries in the questline.
 | 2 h 45 min | [C003] Phaetheon's Story: Midnight Pursuit \| 1.0 Zenless Zone Zero | Rubieco | 521 | 2024-07-10 | <https://www.youtube.com/watch?v=3xN6erK5v-Q> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 4"-->
 ### Chapter 4 - [Tour de Inferno](https://zenless-zone-zero.fandom.com/wiki/Tour_de_Inferno_(A))
+<!--/gen-->
 
 Out past the city into Cinder Lake,
 where the Sons of Calydon race,
 the legends are louder than the facts,
 and the flames turn out to be someone's business plan.
+<!--gen:stats act="Chapter 4"-->
 
 - **Estimated length:** 2 h 59 min
 - **Sampled range:** 2 h 38 min to 3 h 22 min for the middle half (full spread 1 h 44 min to 4 h 44 min) across 13 playthrough uploads (12 further candidates screened out)
@@ -254,7 +297,9 @@ and the flames turn out to be someone's business plan.
 - **Released in:** 1.2
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (11):** A Different Path; Outer Ring Journey; Beneath the Legend; Data Collection; Source Procurement; Leak Scandal; Tracking Operation; Ridu Holidays; Tour de Inferno; The Hero Returns; Gates of the Past
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 4"-->
 <details>
 <summary>Evidence</summary>
 
@@ -275,13 +320,17 @@ and the flames turn out to be someone's business plan.
 | 4 h 44 min | [Main Quest Chapter 4] Tour de Inferno (Zenless Zone Zero) | ThisisHori | ~69 | n/a | <https://www.youtube.com/watch?v=2WO4Wlo0Yeg> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 5"-->
 ### Chapter 5 - [A Storm of Falling Stars](https://zenless-zone-zero.fandom.com/wiki/A_Storm_of_Falling_Stars_(A))
+<!--/gen-->
 
 Strike down the schemes threatening New Eridu
 like a bolt of lightning:
 a temporary partner, a falling star,
 and the Bringer's scheme underneath both.
+<!--gen:stats act="Chapter 5"-->
 
 - **Estimated length:** 2 h 25 min
 - **Sampled range:** 2 h 09 min to 2 h 43 min for the middle half (full spread 1 h 13 min to 3 h 26 min) across 12 playthrough uploads (9 further candidates screened out)
@@ -289,7 +338,9 @@ and the Bringer's scheme underneath both.
 - **Released in:** 1.4
 - **Stability:** median +3% against an earlier, independent query set
 - **Quest parts (9):** Temporary Partner; The Day of Falling Into the Hollow; Quick Inspection; Dead End; Bringer's Scheme; Boundless Illusions; Emergency Pursuit; Thousand Miles, Unparalleled; Buried Past
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -309,13 +360,17 @@ and the Bringer's scheme underneath both.
 | 3 h 26 min | Zenless Zone Zero 1.4 - ‘A Storm of Falling Stars’ - Chapter 5 Main Story Quest | Chiko | ~5 | n/a | <https://www.youtube.com/watch?v=u-RNZD9Fv3I> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Epilogue (A)"-->
 ### Epilogue (A) - [Bury Your Tears With the Past (A)](https://zenless-zone-zero.fandom.com/wiki/Bury_Your_Tears_With_the_Past_(A))
+<!--/gen-->
 
 Through his veins flows a curse called "fate".
 The first half of the Season 1 epilogue:
 a gentleman's visit, a raffle,
 and a phantom thief working the moonlight.
+<!--gen:stats act="Epilogue (A)"-->
 
 - **Estimated length:** 3 h 47 min
 - **Sampled range:** 3 h 14 min to 4 h 13 min for the middle half (full spread 2 h 14 min to 4 h 24 min) across 12 playthrough uploads (11 further candidates screened out)
@@ -323,7 +378,9 @@ and a phantom thief working the moonlight.
 - **Released in:** 1.6
 - **Stability:** median -1% against an earlier, independent query set
 - **Quest parts (11):** A Gentleman's Visit; With great power comes great...; The Mysterious Young Lady's Gaze; Phantom Thief in the Moonlight; Destined to Meet Again; Revenge Against New Eridu; Unlucky Gift; Dark Side; Behind the Scenes; Before Taking the Stage; Destiny at Your Fingertips
+<!--/gen-->
 
+<!--gen:evidence act="Epilogue (A)"-->
 <details>
 <summary>Evidence</summary>
 
@@ -343,13 +400,17 @@ and a phantom thief working the moonlight.
 | 4 h 24 min | ZZZ -  Bury Your Tears With the Past (A) - complete story (walkthrough / no commentary) | CorporalOdin2 | 356 | 2025-03-13 | <https://www.youtube.com/watch?v=WT1jXJjc0eg> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Epilogue (B)"-->
 ### Epilogue (B) - [Bury Your Tears With the Past (B)](https://zenless-zone-zero.fandom.com/wiki/Bury_Your_Tears_With_the_Past_(B))
+<!--/gen-->
 
 She foresaw hardship,
 but "destiny" would rather sing an ode to hope.
 The second half closes Season 1
 on the Mockingbird and the sacrifice core.
+<!--gen:stats act="Epilogue (B)"-->
 
 - **Estimated length:** 3 h 44 min
 - **Sampled range:** 3 h 27 min to 4 h 13 min for the middle half (full spread 3 h 17 min to 5 h 18 min) across 13 playthrough uploads (10 further candidates screened out)
@@ -357,7 +418,9 @@ on the Mockingbird and the sacrifice core.
 - **Released in:** 1.7
 - **Stability:** median +6% against an earlier, independent query set
 - **Quest parts (11):** Is This the End or the Beginning?; Sacrifices & Exaltists; Fate Rises and Falls, But You Are the Beacon; Who Will Get the Sacrifice Core; Fate is Never Biased; The Mockingbird's Still Alive; Long-Lost Harmony; Those With Steadfast Ambition; Applause for the Mockingbird; The Ending She Foresaw; The Song for Tomorrow
+<!--/gen-->
 
+<!--gen:evidence act="Epilogue (B)"-->
 <details>
 <summary>Evidence</summary>
 
@@ -378,6 +441,7 @@ on the Mockingbird and the sacrifice core.
 | 5 h 18 min | ZZZ 1.7 \| JP DUB \| S01 Epilogue - Bury Your Tears With The Past (B) \| FULL STORY \| Zenless Zone Zero | Xheldon G.Archive | ~311 | n/a | <https://www.youtube.com/watch?v=YiI7RXbG42w> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

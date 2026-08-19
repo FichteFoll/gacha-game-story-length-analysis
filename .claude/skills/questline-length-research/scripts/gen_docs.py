@@ -1,16 +1,41 @@
 #!/usr/bin/env python3
-"""Render the per-chapter markdown reports from analysis.json and the authored prose.
+"""Fill the marked regions of a report's authored markdown from analysis.json.
 
-Usage: gen_docs.py <reportdir> [--no-verify]
+Usage: gen_docs.py <reportdir> [--no-verify] [--scaffold]
 
-Reads  <reportdir>/report.py    the game's configuration and the authored prose
-       <reportdir>/claims.py    what that prose asserts about the data
+Reads  <reportdir>/report.py    the game's configuration and structure
+       <reportdir>/claims.py    what the authored prose asserts about the data
        <reportdir>/data/        the vault, analysis.json above all
-Writes <reportdir>/README.md    index, method and caveats
-       <reportdir>/<slug>.md    one per chapter, in story order
+Fills  <reportdir>/README.md    its chapter table, extremes table and thresholds
+       <reportdir>/<slug>.md    one per chapter, in story order: the heading and
+                                the at-a-glance table, and for every act its
+                                heading, its figures and its evidence
+
+The markdown files are hand-written. Only the marked regions are rewritten:
+
+    <!--f:NAME-->value<!--/f-->            a derived figure inside a sentence
+    <!--gen:KIND attr="value"-->           a derived block, on lines of its own
+    ...body...
+    <!--/gen-->
+
+The prose around a marker is left as its author wrote it, apart from one
+normalisation over the whole text: every line is right-stripped and the file ends
+in a single newline, so a two-space hard line break does not survive. An unknown
+NAME or
+KIND, a marker that is not paired up as above, or an act label the analysis does
+not know, is an error naming the file and the marker; nothing is written then, so
+a renamed act cannot silently leave a stale figure behind, nor a broken marker
+cost the author the prose around it.
+
+An act the analysis knows but the markdown has no section for is an error too,
+because filling in place cannot publish what nobody wrote a home for; --scaffold
+adds the stub sections, and the prose in them is then the author's to write. It
+is the one exception to the promise above: a stub has to be on disk to be filled,
+so a --scaffold run that then fails leaves the stubs behind, unfilled. Re-running
+it once the error is fixed completes them.
 
 Every claim in the report's claims.py is checked against analysis.json before
-anything is written; --no-verify renders anyway, for inspecting what a failing
+anything is written; --no-verify fills anyway, for inspecting what a failing
 claim produces.
 
 Nothing here is game-specific: what the questline, its level gate and its wiki
@@ -19,12 +44,14 @@ report directory rather than a second copy of this file.
 """
 import json
 import pathlib
+import re
 import sys
 
 from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
                      UNSTABLE_DRIFT)
 from assertions import failures
-from facts import chapter_facts, chapter_total, hm, median_of, superlatives, word
+from facts import (chapter_facts, chapter_total, hm, median_of, report_facts,
+                   superlatives, word)
 from queries import RECENT_VERSIONS
 
 # The interquartile factors the confidence rating is graded on. Their companion
@@ -33,19 +60,117 @@ from queries import RECENT_VERSIONS
 SPREAD_HIGH = 1.25
 SPREAD_MEDIUM = 1.5
 
+BLOCK = re.compile(r"<!--gen:(?P<kind>[a-z-]+)(?P<attrs>[^>]*)-->\n"
+                   r"(?P<body>.*?)<!--/gen-->", re.DOTALL)
+INLINE = re.compile(r"<!--f:(?P<name>\w+)-->[^\n]*?<!--/f-->")
+# Deliberately laxer than the two above, so that a marker they cannot match is
+# still seen by the scan and named for what is wrong with it.
+MARKER = re.compile(r"<!--(?P<close>/?)(?P<form>gen|f)(?::(?P<rest>[^>]*))?-->")
+ATTR = re.compile(r'(\w+)="([^"]*)"')
+OPENING = re.compile(r"<!--gen:(?P<kind>[a-z-]+)(?P<attrs>[^>]*)-->")
+
+# The three regions every act needs. An act holding some but not all of them is
+# a gap too, but not one a stub can close: see coverage_gaps().
+ACT_REGIONS = frozenset({"act-heading", "stats", "evidence"})
+
+
+class MarkerError(Exception):
+    """A marker the filler cannot fill. The message names file and marker."""
+
 
 def write(path, text):
     cleaned = "\n".join(line.rstrip() for line in text.splitlines()) + "\n"
     path.write_text(cleaned)
 
 
-def prose(text, facts=None):
-    """Keep the authored semantic line breaks, and fill in the derived figures.
+def fill(path, regions, facts):
+    """The file's text with every marked region rewritten, the rest as it stands."""
+    text = path.read_text()
+    expected = scan(path, text, regions, facts)
 
-    An unknown placeholder raises KeyError rather than rendering a stale number.
+    def block(match):
+        kind, attrs = match["kind"], match["attrs"]
+        try:
+            body = regions[kind](dict(ATTR.findall(attrs)))
+        except MarkerError as e:
+            raise MarkerError(f"{path}: <!--gen:{kind}{attrs}-->: {e}") from None
+        return f"<!--gen:{kind}{attrs}-->\n" + "\n".join(body) + "\n<!--/gen-->"
+
+    def inline(match):
+        return marked(match["name"], facts[match["name"]])
+
+    text, blocks = BLOCK.subn(block, text)
+    text, values = INLINE.subn(inline, text)
+    if (blocks, values) != expected:
+        raise MarkerError(f"{path}: filled {blocks} of {expected[0]} region(s) "
+                          f"and {values} of {expected[1]} value(s); "
+                          f"refusing to write a file this run did not fill whole")
+    return text
+
+
+def line_of(text, pos):
+    return text.count("\n", 0, pos) + 1
+
+
+def alone_on_line(text, match):
+    line_start = text.rfind("\n", 0, match.start()) + 1
+    return (match.start() == line_start
+            and text[match.end():match.end() + 1] in ("\n", ""))
+
+
+def scan(path, text, regions, facts):
+    """Validate every marker in the file as read, and count what must be filled.
+
+    BLOCK and INLINE cannot be trusted to discover a broken marker themselves:
+    their bodies are non-greedy, so an opener whose closer is missing matches
+    from there to the *next* region's closer, and substituting that match would
+    delete the authored text and the marker in between while leaving the
+    opener and closer counts balanced. So the file is checked before anything is
+    replaced, and fill() compares what it filled against the count returned
+    here. Every message names the file, the line and the marker at fault.
     """
-    text = text.replace(" \n", "\n")
-    return text.format_map(facts) if facts else text
+    counts = {"gen": 0, "f": 0}
+    unclosed = {"gen": None, "f": None}
+
+    def at(match):
+        return f"{path}:{line_of(text, match.start())}"
+
+    for m in MARKER.finditer(text):
+        form = m["form"]
+        pending = unclosed[form]
+        if m["close"]:
+            if pending is None:
+                raise MarkerError(f"{at(m)}: {m[0]} without an opening marker")
+            if form == "f" and at(pending) != at(m):
+                raise MarkerError(f"{at(pending)}: {pending[0]} must be closed "
+                                  f"on the line it opens on")
+            if form == "gen" and not alone_on_line(text, m):
+                raise MarkerError(f"{at(m)}: {m[0]} must sit on a line of its own")
+            unclosed[form] = None
+            counts[form] += 1
+            continue
+        if pending is not None:
+            raise MarkerError(f"{at(pending)}: {pending[0]} is never closed")
+        rest = m["rest"] or ""
+        if form == "gen":
+            kind = rest.split(maxsplit=1)[0] if rest else ""
+            if kind not in regions:
+                raise MarkerError(f"{path}: unknown region <!--gen:{kind}-->")
+            if not alone_on_line(text, m):
+                raise MarkerError(f"{at(m)}: {m[0]} must sit on a line of its own")
+        elif rest not in facts:
+            raise MarkerError(f"{path}: unknown value <!--f:{rest}-->")
+        unclosed[form] = m
+
+    for pending in unclosed.values():
+        if pending is not None:
+            raise MarkerError(f"{at(pending)}: {pending[0]} is never closed")
+    return counts["gen"], counts["f"]
+
+
+def marked(name, value):
+    """`<!--f:total-->9 h 03 min<!--/f-->`: a derived figure inside a sentence."""
+    return f"<!--f:{name}-->{value}<!--/f-->"
 
 
 def released_in(act, versions, version_index):
@@ -62,7 +187,7 @@ def plural(count, noun):
 
 
 def unit(report):
-    """What this game calls one entry, lowercased, for the renderer's own prose.
+    """What this game calls one entry, lowercased, for the generated text.
 
     The pipeline calls it an act throughout, and the file and script names in
     the Files section keep that word, but a report on chapters or missions
@@ -97,7 +222,7 @@ def confidence(stats):
 
 
 class Report:
-    """One report directory: its configuration, its prose and its wiki."""
+    """One report directory: its configuration, its structure and its wiki."""
 
     def __init__(self, path):
         self.path = pathlib.Path(path)
@@ -108,11 +233,9 @@ class Report:
         self.claims = claims.CLAIMS
         self.config = report.REPORT
         self.chapters = report.CHAPTERS
-        self.act_notes = report.ACT_NOTES
         self.gates = report.GATES
         self.gate_default = report.GATE_DEFAULT
         wiki = json.loads((self.data / "wiki.json").read_text())
-        self.wiki_name = wiki["name"]
         self.game = (self.data / "game.txt").read_text().strip()
         self.wiki = f"https://{wiki['host']}/wiki/"
 
@@ -150,7 +273,7 @@ def evidence_table(act):
         uploader = r["uploader"].replace("|", "\\|")
         lines.append(f"| {hm(r['seconds'] / 60)} | {title} | {uploader} "
                      f"| {views(r)} | {uploaded(r)} | <{r['url']}> |")
-    return "\n".join(lines)
+    return lines
 
 
 def ranged(stats):
@@ -168,17 +291,18 @@ def part_list(parts, timings):
                      for p in parts)
 
 
-def act_section(report, act, parts, versions, version_index, facts, superlative):
-    key = f"{act['chapter_id']}|{act['act_label']}"
+def act_heading(report, act):
+    return [f"### {act['act_label']} - "
+            f"{report.link(act['act_title'], act.get('wiki_page'))}"]
+
+
+def act_stats(report, act, parts, versions, version_index, superlative):
+    """The derived superlative sentence, where there is one, and the bullets."""
     s = act["stats"]
     screened = len(act["candidates"]) - s["n"]
-    note = "\n".join(filter(None, [prose(report.act_notes.get(key, ""), facts),
-                                   superlative.get(key)]))
-    body = [
-        f"### {act['act_label']} - "
-        f"{report.link(act['act_title'], act.get('wiki_page'))}",
-        "",
-        note,
+    sentence = superlative.get(f"{act['chapter_id']}|{act['act_label']}", "")
+    body = [sentence] if sentence else []
+    body += [
         "",
         f"- **Estimated length:** {hm(s['median'])}",
         f"- **Sampled range:** {ranged(s)} "
@@ -199,88 +323,60 @@ def act_section(report, act, parts, versions, version_index, facts, superlative)
     if parts:
         body.append(f"- **Quest parts ({len(parts)}):** "
                     f"{part_list(parts, s.get('parts', {}))}")
-    body += ["", "<details>", "<summary>Evidence</summary>", "",
-             evidence_table(act), "", "</details>", ""]
-    return "\n".join(body)
+    return body
 
 
-def chapter_doc(report, chap, acts, quest_parts, versions, version_index,
-                superlative):
-    total = chapter_total(acts)
-    facts = chapter_facts(acts, quest_parts)
-    head = [
+def evidence_block(act):
+    return ["<details>", "<summary>Evidence</summary>", ""] \
+        + evidence_table(act) + ["", "</details>"]
+
+
+def heading(chap, acts):
+    return [
         f"# {chap['title']}",
         "",
         f"**Region:** {chap['region']} | "
         f"**Game versions:** {chap['versions']} | "
         f"**Entries:** {len(acts)} | "
-        f"**Estimated chapter length: {hm(total)}**",
-        "",
-        prose(chap["blurb"], facts),
-        "",
-        "## At a glance",
-        "",
-        f"| {report.config.get('unit', 'Act')} | Title | Estimate "
-        f"| Middle half | Uploads | Confidence |",
-        "| --- | --- | --- | --- | --- | --- |",
+        f"**Estimated chapter length: {hm(chapter_total(acts))}**",
     ]
+
+
+def glance_table(report, acts):
+    lines = [f"| {report.config.get('unit', 'Act')} | Title | Estimate "
+             f"| Middle half | Uploads | Confidence |",
+             "| --- | --- | --- | --- | --- | --- |"]
     for a in acts:
         s = a["stats"]
-        head.append(
+        lines.append(
             f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
             f"| {hm(bounds(s)[0])} - {hm(bounds(s)[1])} | {s['n']} "
             f"| {confidence(s)} |")
-    head += ["", f"**Total: {hm(total)}**", "", "## Pacing", "",
-             prose(chap["pacing"], facts), "",
-             f"## {report.config.get('unit', 'Act')}s", ""]
-    for a in acts:
-        parts = quest_parts.get(f"{a['chapter_id']}|{a['act_label']}", [])
-        head.append(act_section(report, a, parts, versions, version_index, facts,
-                                superlative))
-    overview = report.config["overview_page"]
-    gate = report.config["gate_label"]
-    sourced = f"Questline structure, {unit(report)} titles, quest parts"
-    if gate:
-        sourced += f" and {gate} gates"
-    head += [
-        "## Sources",
-        "",
-        f"- {sourced}: "
-        f"{report.link(chap['wiki_page'])} "
-        f"and {report.link(overview)} on the {report.wiki_name} (Fandom).",
-        f"- Durations: the YouTube uploads listed under each {unit(report)} above. \n"
-        "See [README.md](README.md) for the method and its limits.",
-        "",
-    ]
-    return "\n".join(head)
+    return lines
 
 
-def method(report):
-    """What this game's harvest and screening do that another game's does not.
+def chapters_table(report, by_chapter):
+    lines = ["| Chapter | Region | Versions | Entries | Estimated length | Detail |",
+             "| --- | --- | --- | --- | --- | --- |"]
+    for chap in report.chapters:
+        acts = by_chapter[chap["id"]]
+        lines.append(
+            f"| {chap['title']} | {chap['region']} | {chap['versions']} "
+            f"| {len(acts)} | {hm(chapter_total(acts))} "
+            f"| [{chap['slug']}.md]({chap['slug']}.md) |")
+    return lines
 
-    The procedure itself is described once, in the repository README; only the
-    game's own wiki, queries and upload habits are written down here.
-    """
-    overview = report.config["overview_page"]
-    gate = report.config["gate_label"]
-    sourced = (f"the chapter and {unit(report)} list, the {unit(report)} titles, "
-               "the quest parts")
-    if gate:
-        sourced += f" \nand the {gate} gates"
-    lines = [
-        f"- **Structure:** {sourced} come from the \n"
-        f"[{overview} page]({report.wiki}{overview.replace(' ', '_')}) \n"
-        f"and the individual chapter and {unit(report)} pages "
-        f"of the {report.wiki_name}.",
-        f"- **Searches:** {report.config['queries']}",
-        f"- **Compilations:** multi-{unit(report)} uploads such as \n"
-        f"{report.config['compilations']}, \n"
-        f"which count only where their chapter markers \n"
-        f"located this {unit(report)} inside them.",
-    ]
-    partials = report.config.get("partials")
-    if partials:
-        lines.append(f"- **Partial uploads:** {partials}.")
+
+def extremes_table(report, all_acts):
+    lines = [f"| | {report.config.get('unit', 'Act')} | Estimate |",
+             "| --- | --- | --- |"]
+    ranked = sorted(all_acts, key=median_of)
+    for kind, picked in (("longest", reversed(ranked[-5:])),
+                         ("shortest", ranked[:3])):
+        for a in picked:
+            lines.append(f"| {kind} | {a['chapter_title'].split(':')[0]}, "
+                         f"{a['act_label']}: {a['act_title']} "
+                         f"| {hm(a['stats']['median'])} |")
     return lines
 
 
@@ -316,73 +412,189 @@ def thresholds(report):
     ]
 
 
-def limits(report):
-    """The caveats of this game, on top of the ones every report shares."""
-    return [f"- {c}" for c in report.config["caveats"]]
+def readme_regions(report, by_chapter, all_acts):
+    return {
+        "chapters": lambda attrs: chapters_table(report, by_chapter),
+        "extremes": lambda attrs: extremes_table(report, all_acts),
+        "thresholds": lambda attrs: thresholds(report),
+    }
 
 
-def readme(report, by_chapter):
-    grand = sum(chapter_total(acts) for acts in by_chapter.values())
-    n_videos = sum(a["stats"]["n"] for acts in by_chapter.values() for a in acts)
-    n_screened = sum(len(a["candidates"]) for acts in by_chapter.values() for a in acts)
-    lines = [
-        f"# {report.config['title']}",
-        "",
-        report.config["intro"],
-        "",
-        f"**Total for the whole main questline: {hm(grand)}** "
-        f"({sum(len(a) for a in by_chapter.values())} entries "
-        f"counting {report.config.get('entries_are', 'acts, preludes and interludes')}, "
-        f"measured against {n_videos} accepted uploads "
-        f"out of {n_screened} candidates).\n"
-        f"That figure is the sum of the per-{unit(report)} medians, "
-        "so treat it as an order of magnitude "
-        "rather than a number anyone actually clocked end to end.",
-        "",
-        "## Chapters",
-        "",
-        "| Chapter | Region | Versions | Entries | Estimated length | Detail |",
-        "| --- | --- | --- | --- | --- | --- |",
-    ]
+def chapter_regions(report, chap, acts, quest_parts, versions, version_index,
+                    superlative):
+    by_label = {a["act_label"]: a for a in acts}
+
+    def act_of(attrs):
+        label = attrs.get("act")
+        act = by_label.get(label)
+        if not act:
+            raise MarkerError(f"no {unit(report)} labelled {label!r} "
+                              f"in {chap['id']}")
+        return act
+
+    def stats_region(attrs):
+        act = act_of(attrs)
+        parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
+        return act_stats(report, act, parts, versions, version_index, superlative)
+
+    return {
+        "heading": lambda attrs: heading(chap, acts),
+        "glance": lambda attrs: glance_table(report, acts),
+        "act-heading": lambda attrs: act_heading(report, act_of(attrs)),
+        "stats": stats_region,
+        "evidence": lambda attrs: evidence_block(act_of(attrs)),
+    }
+
+
+def act_of_marker(match):
+    """The act label an opening marker carries, or None where it names no act."""
+    return dict(ATTR.findall(match["attrs"])).get("act")
+
+
+def act_regions_present(text):
+    """Which of the three act regions each act label already has in the file."""
+    present = {}
+    for m in OPENING.finditer(text):
+        label = act_of_marker(m)
+        if label is None:
+            continue
+        present.setdefault(label, set()).add(m["kind"])
+    return present
+
+
+def coverage_gaps(report, by_chapter):
+    """What the markdown does not cover, split by what --scaffold can do about it.
+
+    Returns the chapter files and the acts a stub can be written for, in story
+    order, and the gaps a stub cannot close: a chapter the analysis knows nothing
+    about, which has no figures to fill a file with, and an act holding some but
+    not all of its three regions, where a stub would come to sit beside the
+    regions already there and publish that act twice over.
+    """
+    files, acts, refused = [], [], []
     for chap in report.chapters:
-        acts = by_chapter[chap["id"]]
-        total = chapter_total(acts)
-        lines.append(
-            f"| {chap['title']} | {chap['region']} | {chap['versions']} "
-            f"| {len(acts)} | {hm(total)} | [{chap['slug']}.md]({chap['slug']}.md) |")
-    lines += [
+        found = by_chapter.get(chap["id"], [])
+        if not found:
+            refused.append(f"{chap['id']} ({chap['title']}) has nothing in "
+                           f"analysis.json, so {chap['slug']}.md cannot be "
+                           f"filled; drop it from CHAPTERS or harvest it")
+            continue
+        path = report.path / f"{chap['slug']}.md"
+        if path.exists():
+            present = act_regions_present(path.read_text())
+        else:
+            files.append(chap)
+            present = {}
+        for act in found:
+            have = present.get(act["act_label"], set())
+            if ACT_REGIONS <= have:
+                continue
+            where = f"{chap['id']}|{act['act_label']} ({act['act_title']})"
+            if not have:
+                acts.append((chap, act))
+                continue
+            refused.append(f"{where} has only its "
+                           f"{', '.join(sorted(have))} region(s) in "
+                           f"{path.name}; write the rest beside them by hand, "
+                           f"or delete them and re-run with --scaffold")
+    return files, acts, refused
+
+
+def chapter_skeleton(report):
+    """A chapter file's authored frame: its regions, and gaps for its prose."""
+    paragraph = ["", "", ""]  # a blank line to write on, blank lines either side
+    return ["<!--gen:heading-->", "<!--/gen-->"] + paragraph + [
+        "## At a glance",
         "",
-        f"## Longest and shortest {report.config.get('unit', 'Act').lower()}s",
+        "<!--gen:glance-->", "<!--/gen-->",
         "",
-        f"| | {report.config.get('unit', 'Act')} | Estimate |",
-        "| --- | --- | --- |",
-    ]
-    ranked = sorted((a for acts in by_chapter.values() for a in acts),
-                    key=median_of)
-    for a in reversed(ranked[-5:]):
-        lines.append(f"| longest | {a['chapter_title'].split(':')[0]}, "
-                     f"{a['act_label']}: {a['act_title']} "
-                     f"| {hm(a['stats']['median'])} |")
-    for a in ranked[:3]:
-        lines.append(f"| shortest | {a['chapter_title'].split(':')[0]}, "
-                     f"{a['act_label']}: {a['act_title']} "
-                     f"| {hm(a['stats']['median'])} |")
-    lines += [
+        f"**Total: {marked('total', '')}**",
         "",
-        "## Method",
-        "",
-        "The pipeline, the evidence vault it leaves behind \n"
-        "and what these numbers do and do not mean \n"
-        "are described in the [repository README](../README.md). \n"
-        f"Specific to {report.game}:",
-        "",
-    ] + method(report)
-    lines += ["", "The figures it screens and grades on:", ""] + thresholds(report)
-    lines += ["", "## Limits of this report", "",
-              "Beyond the limits every report in this repository shares, \n"
-              "listed in the [repository README](../README.md):", ""] + limits(report)
-    lines += ["", f"Data collected {report.config['date']}.", ""]
-    return "\n".join(lines)
+        "## Pacing",
+    ] + paragraph + [f"## {report.config.get('unit', 'Act')}s"]
+
+
+def act_stub(label):
+    """An act's three regions, with the blank line its note is written on."""
+    return [f'<!--gen:act-heading act="{label}"-->', "<!--/gen-->",
+            "",
+            f'<!--gen:stats act="{label}"-->', "<!--/gen-->",
+            "",
+            f'<!--gen:evidence act="{label}"-->', "<!--/gen-->",
+            ""]
+
+
+def act_anchor(path, text, following):
+    """Where an act's stub belongs: before the next act present, else before Sources.
+
+    The heading markers are recognised the same way act_regions_present() counts
+    them, so that an act the coverage check found cannot go missing here and
+    leave the stub at the end of the section, out of analysis order.
+    """
+    heads = {}
+    for m in OPENING.finditer(text):
+        if m["kind"] == "act-heading":
+            heads.setdefault(act_of_marker(m), m)
+    for label in following:
+        m = heads.get(label)
+        if not m:
+            continue
+        if not alone_on_line(text, m):
+            raise MarkerError(f"{path}:{line_of(text, m.start())}: {m[0]} must "
+                              f"sit on a line of its own for a stub to be "
+                              f"placed before it")
+        return m.start()
+    m = re.search(r"^## Sources$", text, re.MULTILINE)
+    return m.start() if m else len(text)
+
+
+def add_stubs(report, missing_files, missing_acts, by_chapter):
+    for chap in missing_files:
+        write(report.path / f"{chap['slug']}.md",
+              "\n".join(chapter_skeleton(report)))
+
+    by_path = {}
+    for chap, act in missing_acts:
+        by_path.setdefault(report.path / f"{chap['slug']}.md", []).append(act)
+    for path, acts in by_path.items():
+        text = path.read_text()
+        order = [a["act_label"] for a in by_chapter[acts[0]["chapter_id"]]]
+        # Back to front, so every stub can anchor on an act already in place and
+        # the analysis order survives however many of them are missing at once.
+        for act in reversed(acts):
+            following = order[order.index(act["act_label"]) + 1:]
+            anchor = act_anchor(path, text, following)
+            before = text[:anchor]
+            # A gen: marker needs a blank line above it, which the anchor already
+            # has where it is a heading or another act, but not at end of file.
+            if not before.endswith("\n\n"):
+                before += "\n"
+            text = before + "\n".join(act_stub(act["act_label"])) + "\n" \
+                + text[anchor:]
+        write(path, text)
+
+
+def report_gaps(missing_files, missing_acts):
+    print("the markdown does not cover everything in analysis.json:\n",
+          file=sys.stderr)
+    for chap in missing_files:
+        print(f"  no {chap['slug']}.md for {chap['title']}", file=sys.stderr)
+    for chap, act in missing_acts:
+        print(f"  {chap['id']}|{act['act_label']} ({act['act_title']})",
+              file=sys.stderr)
+    print("\nrun with --scaffold to add stub sections", file=sys.stderr)
+
+
+def report_stubs(report, missing_files, missing_acts):
+    for chap in missing_files:
+        print(f"scaffolded {chap['slug']}.md")
+    for chap, act in missing_acts:
+        print(f"scaffolded {chap['slug']}.md: {act['act_label']} "
+              f"({act['act_title']})")
+    print(f"still to be written by hand: each new {unit(report)}'s note")
+    if missing_files:
+        print("and, for each new file, its blurb, its pacing paragraph "
+              "and its ## Sources section")
 
 
 def main(argv):
@@ -391,6 +603,7 @@ def main(argv):
         print(__doc__)
         return 2
     verify = "--no-verify" not in argv[1:]
+    scaffold = "--scaffold" in argv[1:]
     report = Report(args[0])
     analysis = report.json("analysis.json")
     quest_parts = report.json("quest_parts.json")
@@ -404,21 +617,58 @@ def main(argv):
             print(f"  {line}\n", file=sys.stderr)
         if verify:
             print(f"{len(broken)} claim(s) failed, nothing written "
-                  f"(--no-verify to render anyway)", file=sys.stderr)
+                  f"(--no-verify to fill anyway)", file=sys.stderr)
             return 1
 
-    superlative = superlatives(analysis, report.config.get("unit", "Act").lower())
+    superlative = superlatives(analysis, unit(report))
     by_chapter = {}
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)
+    facts = report_facts(analysis, report.config.get("unit", "Act"), report.game,
+                         report.config["date"])
 
-    for chap in report.chapters:
-        doc = chapter_doc(report, chap, by_chapter[chap["id"]], quest_parts,
-                          versions, version_index, superlative)
-        write(report.path / f"{chap['slug']}.md", doc)
-        print("wrote", chap["slug"] + ".md")
-    write(report.path / "README.md", readme(report, by_chapter))
-    print("wrote README.md")
+    missing_files, missing_acts, refused = coverage_gaps(report, by_chapter)
+    if refused:
+        print("the markdown cannot be filled as it stands:\n", file=sys.stderr)
+        for line in refused:
+            print(f"  {line}\n", file=sys.stderr)
+        print("--scaffold cannot close these; they are hand edits",
+              file=sys.stderr)
+        return 1
+    if missing_files or missing_acts:
+        if not scaffold:
+            report_gaps(missing_files, missing_acts)
+            return 1
+        try:
+            add_stubs(report, missing_files, missing_acts, by_chapter)
+        except MarkerError as e:
+            print(e, file=sys.stderr)
+            return 1
+        report_stubs(report, missing_files, missing_acts)
+
+    # Every file is filled before any is written, so a marker error in the last
+    # chapter does not leave the earlier ones rewritten. Every chapter has acts
+    # by here: coverage_gaps() refuses a report whose CHAPTERS runs ahead of its
+    # analysis, which is what keeps the lookup below total.
+    filled = {}
+    try:
+        for chap in report.chapters:
+            acts = by_chapter[chap["id"]]
+            regions = chapter_regions(report, chap, acts, quest_parts, versions,
+                                      version_index, superlative)
+            path = report.path / f"{chap['slug']}.md"
+            filled[path] = fill(path, regions,
+                                facts | chapter_facts(acts, quest_parts))
+        path = report.path / "README.md"
+        filled[path] = fill(path, readme_regions(report, by_chapter, analysis),
+                            facts)
+    except MarkerError as e:
+        print(e, file=sys.stderr)
+        return 1
+
+    for path, text in filled.items():
+        write(path, text)
+        print("filled", path.name)
     return 0
 
 

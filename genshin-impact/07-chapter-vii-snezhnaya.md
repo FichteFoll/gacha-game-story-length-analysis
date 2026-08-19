@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter VII: Everwinter Without Mercy
 
 **Region:** Snezhnaya | **Game versions:** 7.0 | **Entries:** 2 | **Estimated chapter length: 8 h 29 min**
+<!--/gen-->
 
 The Traveler reaches Snezhnaya,
 where the Tsaritsa has been gathering the Gnoses
@@ -8,27 +10,32 @@ and where the sibling's requested journey was always meant to end.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 42 min - 4 h 19 min | 8 | high |
 | Act II | Wraith's Nocturne | 4 h 27 min | 4 h 19 min - 5 h 42 min | 9 | medium |
+<!--/gen-->
 
-**Total: 8 h 29 min**
+**Total: <!--f:total-->8 h 29 min<!--/f-->**
 
 ## Pacing
 
-Only two acts exist so far,
-but both are long: 4 h 02 min and 4 h 27 min.
+Only <!--f:n_entries-->two<!--/f--> acts exist so far,
+but both are long: <!--f:len_Act_I-->4 h 02 min<!--/f--> and <!--f:len_Act_II-->4 h 27 min<!--/f-->.
 This is the newest content in the sample,
 and several uploads bundle both acts together,
 so per-act figures rest on a smaller pool than the older chapters.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [Everwinter Without Mercy](https://genshin-impact.fandom.com/wiki/Everwinter_Without_Mercy)
+<!--/gen-->
 
 Farewell at The Flagship, then into Snezhnaya,
 where Paimon starts feeling the cold in a way she should not.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 4 h 02 min
 - **Sampled range:** 3 h 42 min to 4 h 19 min for the middle half (full spread 3 h 20 min to 5 h 15 min) across 8 playthrough uploads (4 further candidates screened out)
@@ -37,7 +44,9 @@ where Paimon starts feeling the cold in a way she should not.
 - **Released in:** 7.0
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (4):** Into the Wind, Into the Frigid North; Gunfire in the Silent Lands; Great Deeds on the Tundra; Silence Alone is Disfavored
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -53,11 +62,15 @@ where Paimon starts feeling the cold in a way she should not.
 | 5 h 15 min | Everwinter Without Mercy Snezhnaya Archon Quest Act I Playthrough \| Genshin Impact 7.0 | ennieee | 14,296 | 2026-08-12 | <https://www.youtube.com/watch?v=u_xRPUOpg5A> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [Wraith's Nocturne](https://genshin-impact.fandom.com/wiki/Wraith's_Nocturne)
+<!--/gen-->
 
 The Korolevskiy Theater, Lelek's confession,
 and the ballet that stops mid-performance.
+<!--gen:stats act="Act II"-->
 One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 27 min
@@ -68,7 +81,9 @@ One of the three longest acts in the game.
 - **Stability:** median +1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -85,6 +100,7 @@ One of the three longest acts in the game.
 | 7 h 07 min | Genshin Impact 7.0 Archon Quest FULL Part 2 — Everwinter Without Mercy Ending + Wraith's Nocturne | Abhishek Tirkey | 1,730 | 2026-08-13 | <https://www.youtube.com/watch?v=_uYT37C4VoA> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

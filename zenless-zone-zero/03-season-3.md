@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Season 3
 
 **Region:** Roscaelifer | **Game versions:** 3.0 - 3.1 | **Entries:** 2 | **Estimated chapter length: 9 h 03 min**
+<!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
 inside a dream that nobody wakes from,
@@ -9,29 +11,34 @@ that nobody is quite awake to hear.
 
 ## At a glance
 
+<!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 1 | A Sleepwalker's Confession | 4 h 34 min | 4 h 18 min - 5 h 03 min | 18 | high |
 | Chapter 2 | The Long Goodbye | 4 h 29 min | 4 h 13 min - 4 h 41 min | 22 | high |
+<!--/gen-->
 
-**Total: 9 h 03 min**
+**Total: <!--f:total-->9 h 03 min<!--/f-->**
 
 ## Pacing
 
-Still being released: two chapters so far,
-9 h 03 min between them, at 4 h 34 min and 4 h 29 min.
+Still being released: <!--f:n_entries-->two<!--/f--> chapters so far,
+<!--f:total-->9 h 03 min<!--/f--> between them, at <!--f:len_Chapter_1-->4 h 34 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->.
 Both were written at the Season 2 scale rather than the Season 1 one,
 and both are recent enough
 that their evidence pools have had the least time to settle.
 
 ## Chapters
 
+<!--gen:act-heading act="Chapter 1"-->
 ### Chapter 1 - [A Sleepwalker's Confession](https://zenless-zone-zero.fandom.com/wiki/A_Sleepwalker's_Confession)
+<!--/gen-->
 
 I dreamed of another me,
 in a dream I would never wake up from.
 Landing in Roscaelifer,
 where the trouble starts before the luggage is unpacked.
+<!--gen:stats act="Chapter 1"-->
 One of the three longest chapters in the game.
 
 - **Estimated length:** 4 h 34 min
@@ -40,7 +47,9 @@ One of the three longest chapters in the game.
 - **Released in:** 3.0
 - **Stability:** median +1% against an earlier, independent query set
 - **Quest parts (16):** Journey's Beginning; New Landing Spot; First Encounter With Trouble; Seeing is Believing; One Into Three; About Past Treatment; A Different Kind of Rebirth; Special Power; Mission at Hand; Restoring the Energy Hub; Solutions Start With Investigations; Infiltration and Allies; Closing in on the Truth; Life or Death Escape; Angel Within Reach; Fading Light
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 1"-->
 <details>
 <summary>Evidence</summary>
 
@@ -66,14 +75,18 @@ One of the three longest chapters in the game.
 | 5 h 50 min | [Main Quest] Season 3 Chapter 1: A Sleepwalker's Confession (Zenless Zone Zero) | ThisisHori | 54 | 2026-07-23 | <https://www.youtube.com/watch?v=A9tU6tEHqX8> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Chapter 2"-->
 ### Chapter 2 - [The Long Goodbye](https://zenless-zone-zero.fandom.com/wiki/The_Long_Goodbye)
+<!--/gen-->
 
 Fate plucks the strings.
 Is this the prelude to tomorrow, or the finale of farewell?
 A visitor from beyond the curtain,
 the En-Nah Gang of the Retroflux Zone,
 and a game that was checkmated before it began.
+<!--gen:stats act="Chapter 2"-->
 
 - **Estimated length:** 4 h 29 min
 - **Sampled range:** 4 h 13 min to 4 h 41 min for the middle half (full spread 3 h 50 min to 4 h 46 min) across 22 playthrough uploads (12 further candidates screened out)
@@ -81,7 +94,9 @@ and a game that was checkmated before it began.
 - **Released in:** 3.1
 - **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (10):** Visitor from Beyond the Curtain; Phantom of Memory; En-Nah Gang of the Retroflux Zone; Learning to Work With a Dance Partner; The Real Culprit; A Checkmated Game; Beneath Wings Heavy and Soaked; Memories of the Forgotten; Into the Abyss With You; After the Curtain Falls...
+<!--/gen-->
 
+<!--gen:evidence act="Chapter 2"-->
 <details>
 <summary>Evidence</summary>
 
@@ -111,6 +126,7 @@ and a game that was checkmated before it began.
 | 4 h 46 min | Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye | Life is Wakaranai | ~40 | n/a | <https://www.youtube.com/watch?v=qvgndQ5dPGM> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Prologue: The Outlander Who Caught the Wind
 
 **Region:** Mondstadt | **Game versions:** 1.0 | **Entries:** 3 | **Estimated chapter length: 2 h 53 min**
+<!--/gen-->
 
 The Traveler is torn from their sibling by an unknown god,
 washes up in Mondstadt with Paimon,
@@ -9,18 +11,20 @@ against the corrupted dragon Dvalin.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | The Outlander Who Caught the Wind | 52 min | 46 min - 1 h 02 min | 11 | medium |
 | Act II | For a Tomorrow Without Tears | 1 h 04 min | 1 h 02 min - 1 h 23 min | 10 | low |
 | Act III | Song of the Dragon and Freedom | 57 min | 48 min - 1 h 10 min | 9 | medium |
+<!--/gen-->
 
-**Total: 2 h 53 min**
+**Total: <!--f:total-->2 h 53 min<!--/f-->**
 
 ## Pacing
 
 Every act here lands within about a quarter hour of an hour
-(52 min to 1 h 04 min).
+(<!--f:shortest_len-->52 min<!--/f--> to <!--f:longest_len-->1 h 04 min<!--/f-->).
 Mondstadt is the tutorial region,
 so quest parts are small, combat is trivial at the intended Adventure Rank,
 and the walking distances are short.
@@ -28,10 +32,13 @@ Expect roughly a single evening for the whole Prologue.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [The Outlander Who Caught the Wind](https://genshin-impact.fandom.com/wiki/The_Outlander_Who_Caught_the_Wind)
+<!--/gen-->
 
 Arrival in Mondstadt with Amber, the first Stormterror attack,
 and the introduction to the Knights of Favonius.
+<!--gen:stats act="Act I"-->
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 52 min
@@ -42,7 +49,9 @@ One of the three shortest entries in the questline.
 - **Stability:** median -9% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 11 uploads
 - **Quest parts (8):** Bird's Eye View; Unexpected Power; Forest Rendezvous; Wind-Riding Knight; Going Upon the Breeze; City of Freedom; Dragon Storm; Knights of Favonius
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -61,12 +70,16 @@ One of the three shortest entries in the questline.
 | 1 h 19 min | Genshin Impact #1: The Outlander Who Caught the Wind [No Commentary Gameplay] | Maîtrise | ~5,996 | n/a | <https://www.youtube.com/watch?v=osBjhCsT-H8> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [For a Tomorrow Without Tears](https://genshin-impact.fandom.com/wiki/For_a_Tomorrow_Without_Tears)
+<!--/gen-->
 
 Venti reveals himself,
 the Abyss Order's hand in Dvalin's corruption comes to light,
 and the attempt to reach the dragon through his memories fails.
+<!--gen:stats act="Act II"-->
 
 - **Estimated length:** 1 h 04 min
 - **Sampled range:** 1 h 02 min to 1 h 23 min for the middle half (full spread 48 min to 1 h 53 min) across 10 playthrough uploads (1 further candidate screened out)
@@ -76,7 +89,9 @@ and the attempt to reach the dragon through his memories fails.
 - **Stability:** median -12% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (12):** Shadow Over Mondstadt; Unexpected Encounter; That Green Fellow; Let the Wind Lead; Venti's Plan; Venti's New Plan; Wild Escape; Behind the Scenes; Chasing Shadows; State of the Holy Lyre der Himmel; Crystal Tears; Reunion With the Dragon
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -94,12 +109,16 @@ and the attempt to reach the dragon through his memories fails.
 | 1 h 53 min | Archon Quest: For a Tomorrow Without Tears - Genshin Impact \| Max Graphics & High Settings | Drake San Gaming | 410 | 2021-11-20 | <https://www.youtube.com/watch?v=I-99J977nNs> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [Song of the Dragon and Freedom](https://genshin-impact.fandom.com/wiki/Song_of_the_Dragon_and_Freedom)
+<!--/gen-->
 
 The Holy Lyre is recovered,
 Dvalin is freed at the Light Guiding Ceremony,
 and Signora takes Barbatos' Gnosis.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 57 min
 - **Sampled range:** 48 min to 1 h 10 min for the middle half (full spread 41 min to 1 h 39 min) across 9 playthrough uploads (2 further candidates screened out)
@@ -109,7 +128,9 @@ and Signora takes Barbatos' Gnosis.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (8):** Abyss Mage; Hurdle; Empty Abode; Light Guiding Ceremony; Calm Before the Storm; A Long Shot; When the Wind Dies Down; Ending Note
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -126,6 +147,7 @@ and Signora takes Barbatos' Gnosis.
 | 1 h 39 min | Genshin Impact #7: Song of the Dragon and Freedom [No Commentary Gameplay] | Maîtrise | 5,789 | 2020-10-01 | <https://www.youtube.com/watch?v=WmQ3vyQ1IyM> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

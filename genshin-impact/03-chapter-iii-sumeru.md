@@ -1,6 +1,8 @@
+<!--gen:heading-->
 # Chapter III: Truth Amongst the Pages of Purana
 
 **Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 04 min**
+<!--/gen-->
 
 The Akademiya has locked Sumeru's Archon away and rules through the Akasha.
 The Traveler frees Nahida from a looping dream,
@@ -9,6 +11,7 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 
 ## At a glance
 
+<!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Through Mists of Smoke and Forests Dark | 3 h 30 min | 2 h 28 min - 3 h 44 min | 15 | low |
@@ -17,24 +20,28 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 | Act IV | King Deshret and the Three Magi | 2 h 12 min | 2 h 08 min - 2 h 21 min | 9 | high |
 | Act V | Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min | 4 h 01 min - 4 h 51 min | 14 | high |
 | Act VI | Caribert | 1 h 36 min | 1 h 21 min - 1 h 38 min | 9 | high |
+<!--/gen-->
 
-**Total: 16 h 04 min**
+**Total: <!--f:total-->16 h 04 min<!--/f-->**
 
 ## Pacing
 
 Where the questline changes scale,
-with four of the six acts past two hours
-and Act V as the chapter centrepiece at 4 h 27 min.
+with <!--f:n_above_2h-->four<!--/f--> of the <!--f:n_entries-->six<!--/f--> acts past two hours
+and Act V as the chapter centrepiece at <!--f:len_Act_V-->4 h 27 min<!--/f-->.
 Sumeru also adds heavy traversal,
 so uploads vary more here than in earlier chapters.
 
 ## Acts
 
+<!--gen:act-heading act="Act I"-->
 ### Act I - [Through Mists of Smoke and Forests Dark](https://genshin-impact.fandom.com/wiki/Through_Mists_of_Smoke_and_Forests_Dark)
+<!--/gen-->
 
 Arrival in the rainforest with Collei and Tighnari:
 the Withering, Eleazar, the Aranara,
 and the Akasha's grip on Sumeru City.
+<!--gen:stats act="Act I"-->
 
 - **Estimated length:** 3 h 30 min
 - **Sampled range:** 2 h 28 min to 3 h 44 min for the middle half (full spread 1 h 42 min to 4 h 31 min) across 15 playthrough uploads (14 further candidates screened out)
@@ -44,7 +51,9 @@ and the Akasha's grip on Sumeru City.
 - **Stability:** median +4% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 15 uploads
 - **Quest parts (7):** A Forest of Change; Further Observation; Chronic Illness; Silent Seeker of Knowledge; The Trail of the God of Wisdom; Lost in Prosperity; Ever So Close
+<!--/gen-->
 
+<!--gen:evidence act="Act I"-->
 <details>
 <summary>Evidence</summary>
 
@@ -67,11 +76,15 @@ and the Akasha's grip on Sumeru City.
 | 4 h 31 min | SUMERU ARCHON QUEST ⭐️ Chapter III: Act I - “Through Mists of Smoke and Forests Dark” NO COMMENTARY | Chiko | 9 | 2024-11-18 | <https://www.youtube.com/watch?v=dp0i9w7vOi4> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act II"-->
 ### Act II - [The Morn a Thousand Roses Brings](https://genshin-impact.fandom.com/wiki/The_Morn_a_Thousand_Roses_Brings)
+<!--/gen-->
 
 The Sabzeruz Festival repeats itself until the Traveler breaks the loop
 and pulls Nahida out of the Akademiya's dream.
+<!--gen:stats act="Act II"-->
 
 - **Estimated length:** 2 h 27 min
 - **Sampled range:** 1 h 48 min to 2 h 43 min for the middle half (full spread 1 h 26 min to 2 h 58 min) across 11 playthrough uploads (1 further candidate screened out)
@@ -81,7 +94,9 @@ and pulls Nahida out of the Akademiya's dream.
 - **Stability:** median +2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 5 of 11 uploads
 - **Quest parts (8):** The Coming of the Sabzeruz Festival (22 min); The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn (8 min)
+<!--/gen-->
 
+<!--gen:evidence act="Act II"-->
 <details>
 <summary>Evidence</summary>
 
@@ -100,11 +115,15 @@ and pulls Nahida out of the Akademiya's dream.
 | 2 h 58 min | The Morn a Thousand Roses Brings (Chapter III Act II) (No Commentary \| Japanese Audio) | hilidukes | 20 | 2022-09-24 | <https://www.youtube.com/watch?v=msdz_YpEbQA> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act III"-->
 ### Act III - [Dreams, Emptiness, Deception](https://genshin-impact.fandom.com/wiki/Dreams,_Emptiness,_Deception)
+<!--/gen-->
 
 Nahida joins the party properly,
 and the Akademiya's god-making project behind Scaramouche surfaces.
+<!--gen:stats act="Act III"-->
 
 - **Estimated length:** 1 h 52 min
 - **Sampled range:** 1 h 47 min to 1 h 56 min for the middle half (full spread 1 h 43 min to 2 h 00 min) across 9 playthrough uploads (2 further candidates screened out)
@@ -114,7 +133,9 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (3):** Like a Triumphant Hero; The Gaze From a Certain God; The Four at Loggerheads
+<!--/gen-->
 
+<!--gen:evidence act="Act III"-->
 <details>
 <summary>Evidence</summary>
 
@@ -131,11 +152,15 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 | 2 h 00 min | Sumeru Archon Quest Chapter III ACT III \| Dreams, Emptiness, and Deception (Genshin Impact) | ThisisHori | 209 | 2022-09-29 | <https://www.youtube.com/watch?v=116B_b8Wv_M> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act IV"-->
 ### Act IV - [King Deshret and the Three Magi](https://genshin-impact.fandom.com/wiki/King_Deshret_and_the_Three_Magi)
+<!--/gen-->
 
 Into the desert with Cyno and Candace,
 chasing King Deshret's legacy and the cause of Eleazar.
+<!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 2 h 12 min
 - **Sampled range:** 2 h 08 min to 2 h 21 min for the middle half (full spread 1 h 18 min to 2 h 40 min) across 9 playthrough uploads (3 further candidates screened out)
@@ -145,7 +170,9 @@ chasing King Deshret's legacy and the cause of Eleazar.
 - **Stability:** median +1% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (3):** The Missing Village Keepers; Cry From the Eleazar Hospital; Secret of the Scorching Desert
+<!--/gen-->
 
+<!--gen:evidence act="Act IV"-->
 <details>
 <summary>Evidence</summary>
 
@@ -162,12 +189,16 @@ chasing King Deshret's legacy and the cause of Eleazar.
 | 2 h 40 min | King Deshret and the Three Magi \| Sumeru Archon Quest \| Genshin Impact | Rhytzui | 27 | 2024-09-12 | <https://www.youtube.com/watch?v=Q1POKUPLG4c> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act V"-->
 ### Act V - [Akasha Pulses, the Kalpa Flame Rises](https://genshin-impact.fandom.com/wiki/Akasha_Pulses,_the_Kalpa_Flame_Rises)
+<!--/gen-->
 
 The assault on the Divine Throne:
 Shouki no Kami, one of Dottore's segments,
 and Nahida taking back the Akasha.
+<!--gen:stats act="Act V"-->
 One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 27 min
@@ -178,7 +209,9 @@ One of the three longest acts in the game.
 - **Stability:** median -2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 14 uploads
 - **Quest parts (5):** Through the Predawn Night; As by a God's Side; Jnagarbha Day; Where the Boat of Consciousness Lies; A Toast to Victory
+<!--/gen-->
 
+<!--gen:evidence act="Act V"-->
 <details>
 <summary>Evidence</summary>
 
@@ -200,11 +233,15 @@ One of the three longest acts in the game.
 | 5 h 14 min | Sumeru Archon Quest Chapter III ACT V \| Akasha Pulses, the Kalpa Flame Rises (Genshin Impact) | ThisisHori | 274 | 2022-11-04 | <https://www.youtube.com/watch?v=Ot2ss2KlkTE> |
 
 </details>
+<!--/gen-->
 
+<!--gen:act-heading act="Act VI"-->
 ### Act VI - [Caribert](https://genshin-impact.fandom.com/wiki/Caribert)
+<!--/gen-->
 
 Traveler chapter: Dainsleif, Kaeya,
 and the sinner Caribert at the edge of Khaenri'ah.
+<!--gen:stats act="Act VI"-->
 
 - **Estimated length:** 1 h 36 min
 - **Sampled range:** 1 h 21 min to 1 h 38 min for the middle half (full spread 1 h 15 min to 1 h 53 min) across 9 playthrough uploads (3 further candidates screened out)
@@ -214,7 +251,9 @@ and the sinner Caribert at the edge of Khaenri'ah.
 - **Stability:** median +0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (4):** Destined Encounter; Fortune-Mocking Pedigree; A Lamenter at Fate's End; Portended Fate
+<!--/gen-->
 
+<!--gen:evidence act="Act VI"-->
 <details>
 <summary>Evidence</summary>
 
@@ -231,6 +270,7 @@ and the sinner Caribert at the edge of Khaenri'ah.
 | 1 h 53 min | SUMERU ARCHON QUEST ⭐️ Chapter III Act VI - “Caribert” -  NO COMMENTARY! | Chiko | 16 | 2024-12-23 | <https://www.youtube.com/watch?v=4VDn-msRaYU> |
 
 </details>
+<!--/gen-->
 
 ## Sources
 

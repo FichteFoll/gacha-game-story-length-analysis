@@ -15,14 +15,28 @@ One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/` and `zenless-zone-zero/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
-`report.py` (configuration and authored prose) and `claims.py`.
+`report.py` and `claims.py`.
+
+The markdown files in a report directory are hand-written.
+They carry the authored prose,
+and HTML-comment placeholders where a derived figure or a derived block belongs;
+`gen_docs.py` rewrites the contents of those placeholders in place
+and leaves the rest of the file as it found it,
+save for one normalisation it applies to the whole text:
+every line is right-stripped and the file ends in exactly one newline,
+so a two-space markdown hard line break does not survive a run.
+`report.py` therefore holds configuration and structure only
+(the wiki pages, the unit noun, the chapter metadata and the gates),
+with no prose in it,
+and `claims.py` holds the assertions guarding what the prose says in words.
 
 The root `README.md` is hand-written and holds what the reports share:
 the purpose, the links to them, the pipeline as prose,
 the limits of the measurement and the vault layout.
 It states no threshold, so that no number is maintained by hand;
 a report's own `README.md` carries only what its game does differently,
-plus the thresholds, which are interpolated from the constants.
+plus the thresholds, which are filled into its `gen:thresholds` block
+from the constants.
 Anything that becomes true of every report belongs in the root README,
 not copied into each of them.
 
@@ -49,11 +63,12 @@ $SKILL/harvest.sh data [jobs] [--only <slug>,...]     # step 3, yt-dlp searches
 $SKILL/enrich.sh data [jobs]                          # step 4, full extraction
 python3 $SKILL/analyze.py data --compare data/baseline.json   # step 5, writes analysis.json
 printf '<slug>|<query>\n' | $SKILL/topup.sh data [n]          # step 6, thin acts
-python3 $SKILL/gen_docs.py .                          # step 8, renders the markdown
+python3 $SKILL/gen_docs.py .                          # step 8, fills the markdown
 ```
 
 `analyze.py data --compare data/baseline.json` followed by `gen_docs.py .`
-reproduces every tracked file byte for byte;
+refills every marked region of every tracked markdown file
+and reproduces its current contents byte for byte;
 that round trip is the closest thing to a test suite here, so run it
 after any pipeline change and check `git status` comes back clean.
 
@@ -66,7 +81,12 @@ YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
 `analyze.py` falls back to the harvested figures, so retry later rather than fighting it.
 
-`gen_docs.py --no-verify` renders despite failing claims, for inspection only.
+`gen_docs.py --no-verify` fills the files despite failing claims,
+for inspection only.
+`gen_docs.py --scaffold` adds the stub sections
+for a chapter of `report.CHAPTERS` that has no markdown file,
+and for an act of `analysis.json` that its chapter's file does not cover;
+without it, such a gap fails the build and names the chapter or the act.
 
 ## Architecture
 
@@ -78,7 +98,7 @@ wiki (MediaWiki API, per data/wiki.json)
 queries.py (templates x act) -> harvest.sh -> data/evidence/<chapter>_<act>.tsv
 analyze.py (screening) -> analysis.json -> enrich.sh -> enriched.tsv -> analyze.py again
 analysis.json -> facts.py / assertions.py + the report's report.py and claims.py
-    -> gen_docs.py -> *.md
+    -> gen_docs.py -> the marked regions of the authored *.md
 ```
 
 `analyze.py` runs twice by design: the first pass decides which candidates
@@ -90,13 +110,14 @@ Generic, in the skill's `scripts/`, parameterised by `<workdir>` or `<report>`:
 `fetch_versions.py`, `queries.py`, `harvest.sh`, `enrich.sh`, `topup.sh`,
 `analyze.py`, `facts.py` (quantities derived from `analysis.json`),
 `assertions.py` (the vocabulary claims are written in)
-and `gen_docs.py` (layout).
+and `gen_docs.py` (the filler for the marked regions).
 
-Report-specific: `data/` (`wiki.json`, `game.txt`, `acts.tsv`,
+Report-specific: the authored `README.md` and chapter files,
+`data/` (`wiki.json`, `game.txt`, `acts.tsv`,
 `chapter_keys.json`, `act_keys.json`, `compilations.txt`, `partials.txt`,
 `query_templates.txt`),
-`report.py` (the game's configuration and the authored prose)
-and `claims.py` (the assertions guarding that prose).
+`report.py` (the game's configuration and structure)
+and `claims.py` (the assertions guarding the prose).
 
 A second game is therefore a new report directory,
 never a change to a script.
@@ -105,15 +126,26 @@ the wiki and its version infobox (`data/wiki.json`),
 the word acts are numbered with (read off the labels in `acts.tsv`),
 what an upload titled as less than one act looks like (`data/partials.txt`),
 what tells two same-named acts apart (`data/act_keys.json`),
-the level gate's name, the questline page and the renderer's nouns
-(`report.py`).
+the level gate's name and the unit noun
+(`report.py`, which also records the questline page
+that the authored markdown links by hand).
 
 ### The prose must not contain hand-written numbers
 
-This is the invariant the whole reporting half exists to protect.
-The prose in `report.py` carries placeholders (`{len_Act_II}`, `{n_entries}`),
-filled from `facts.py` at render time; an unknown placeholder raises `KeyError`
-rather than rendering a stale figure.
+This is the invariant the whole reporting half exists to protect,
+and since the prose moved into the markdown
+it is no longer enforced by `gen_docs.py` alone.
+What `gen_docs.py` still guarantees is narrow:
+a figure that sits inside an `f:` marker cannot go stale,
+because it is rewritten from `analysis.json` on every run,
+and a marker naming something `facts.py` does not compute
+fails the build with the file and the marker name
+rather than leaving a stale figure standing.
+A figure typed straight into a sentence, outside any marker,
+is now possible, and is caught only by the claims in `claims.py`.
+So the invariant holds by convention plus `claims.py`:
+put every number in a marker, and guard in words what words assert.
+
 Superlatives come from a ranking computed over all acts, so
 "the longest act in the game" can only appear where it is true.
 Claims the prose makes in *words* ("marathon acts", "the chapter centrepiece")
@@ -121,6 +153,44 @@ are written down in the report's `claims.py` next to the sentence they guard,
 and `gen_docs.py` evaluates all of them before writing a single file:
 a claim that no longer holds fails the build and names the sentence to fix.
 When editing prose, add or adjust the guarding claim in the same change.
+
+### The marker grammar
+
+Two forms, both HTML comments, so they are invisible in a rendered page:
+
+- an inline value, `<!--f:NAME-->2 h 10 min<!--/f-->`,
+  with both markers on the same line, never nested inside another `f:` marker,
+  and the value between them replaced on every run.
+  `NAME` is a key of the fact mapping for the file's scope:
+  `report_facts()` for a report `README.md`,
+  that merged with `chapter_facts()` for a chapter file.
+- a generated block,
+  `<!--gen:KIND[ attr="value" ...]-->` ... `<!--/gen-->`,
+  each marker on a line of its own,
+  with everything between them replaced on every run.
+  The kinds are `chapters`, `extremes` and `thresholds` in a report `README.md`,
+  and `heading`, `glance`, `act-heading`, `stats` and `evidence`
+  in a chapter file;
+  the three per-act kinds take an `act="<label>"` attribute.
+  The label alone identifies the act,
+  because the chapter id follows from which file the region sits in
+  (`report.CHAPTERS` maps `slug` to `id`).
+
+A `gen:` block belongs outside any paragraph,
+with a blank line before its opening and after its closing marker:
+a line holding only an HTML comment starts an HTML block in CommonMark
+and would split the paragraph in two,
+changing the rendered result even though the source text survives.
+The reports break that rule in one place, knowingly:
+a `gen:stats` opener follows the act note's last line directly,
+because the region starts at the derived superlative sentence,
+which belongs to the note's paragraph.
+Giving it its own blank line would change the published source,
+so the paragraph break in the rendered page is accepted instead.
+A value inside a sentence therefore uses the inline `f:` form only,
+and an `f:` marker never spans a line break.
+An unknown `NAME` or `KIND`, or an unterminated marker,
+is an error naming the file and the marker, not a silent pass.
 
 ### Statistics conventions
 
@@ -140,9 +210,10 @@ so a changed threshold rewrites its own description.
 
 ## Conventions
 
-- Markdown and generated prose use semantic line breaks
+- The authored markdown and the generated blocks use semantic line breaks
   (one clause per line, breaking after periods and commas and before conjunctions).
-  `gen_docs.py` preserves the authored breaks, so keep them in `report.py`.
+  `gen_docs.py` rewrites only the marked regions,
+  so the breaks in the authored markdown survive as written.
 - Python 3.14, standard library only. `yt-dlp` is the sole external tool.
 - Say plainly what the numbers are: video runtime of someone else playing,
   as a proxy for act length. Not official, includes the uploader's detours,

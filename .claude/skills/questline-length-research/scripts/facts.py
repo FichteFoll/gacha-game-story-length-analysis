@@ -1,8 +1,9 @@
 """Quantities derived from analysis.json.
 
-The authored prose in chapter_text.py states no number of its own: it carries
-placeholders that are filled from here at render time, so a re-harvest that
-moves a median cannot leave a stale figure behind in a sentence.
+The authored prose in a report's markdown states no number of its own: it
+carries `<!--f:NAME-->` markers that gen_docs.py fills from here on every run,
+so a re-harvest that moves a median cannot leave a stale figure behind in a
+sentence.
 """
 import re
 
@@ -89,6 +90,25 @@ def superlatives(acts, unit="act"):
             continue
         out[f"{act['chapter_id']}|{act['act_label']}"] = sentence
     return out
+
+
+def report_facts(acts, unit="Act", game="", date=""):
+    """The report-scope values, keyed by placeholder name.
+
+    Everything here is a property of the report as a whole rather than of one
+    chapter, so the report README can interpolate it; a chapter file sees these
+    alongside its own chapter_facts().
+    """
+    return {
+        "grand_total": hm(chapter_total(acts)),
+        "n_report_entries": str(len(acts)),
+        "n_videos": str(sum(a["stats"]["n"] for a in acts)),
+        "n_candidates": str(sum(len(a["candidates"]) for a in acts)),
+        "unit": unit.lower(),
+        "units": f"{unit.lower()}s",
+        "game": game,
+        "date": date,
+    }
 
 
 def chapter_facts(acts, quest_parts=None):
