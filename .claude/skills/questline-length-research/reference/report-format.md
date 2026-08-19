@@ -63,15 +63,14 @@ as in <!--f:len_Act_V-->4 h 50 min<!--/f--> >
 
 <one or two lines on what happens, no spoiler warning theatre, just the beats,
 any figure again an f: marker:
-<!--f:n_parts_Act_I-->3<!--/f--> >
-
+<!--f:parts_Act_I-->three<!--/f--> >
 <!--gen:stats act="Act I"-->
 <the derived superlative sentence, where the ranking gives one>
 
 - **Estimated length:** 2 h 32 min
 - **Sampled range:** 2 h 11 min to 2 h 48 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (5 further candidates screened out)
 - **Confidence:** medium
-- **Adventure Rank gate:** 40      <- named by `gate_label`, omitted without one
+- **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
 - **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 9 uploads
@@ -85,9 +84,6 @@ any figure again an f: marker:
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 36 min | ... | ... | 12,345 | 2026-05-20 | <https://www.youtube.com/watch?v=...> |
-
-A `~` on a view count marks one that is still the rounded figure
-from the search listing rather than an exact one.
 
 </details>
 <!--/gen-->
@@ -169,3 +165,13 @@ Data collected <!--f:date-->2026-08-18<!--/f-->.
   and the thresholds, which are filled from the pipeline's own constants.
 - Surround every `gen:` block with a blank line and keep it out of a paragraph;
   a value inside a sentence uses the inline `f:` form, on one line.
+  The one exception the reports themselves make is `gen:stats`,
+  whose opener follows the act note's last line directly,
+  because the derived superlative sentence belongs to that paragraph.
+  It costs a paragraph break in the rendered page,
+  which is the price of the region starting where the sentence does.
+- Nothing inside a `gen:` region survives a run,
+  annotations and explanations included.
+  The `- **<gate>:**` bullet appears only where `report.py` names a `gate_label`,
+  and a `~` on a view count marks one still rounded as the search listing gave it;
+  both are the filler's doing, so neither can be documented from inside the block.

@@ -169,8 +169,8 @@ and `claims.py` the assertions the prose is checked against.
 The published markdown itself is hand-written.
 Wherever a figure or a generated block belongs in it,
 the file carries a placeholder written as an HTML comment,
-and the pipeline rewrites the contents of those placeholders
-and nothing else.
+and the pipeline rewrites the contents of those placeholders,
+leaving the prose around them as it was written.
 
 The scripts live once, in the `questline-length-research` skill
 (`.claude/skills/questline-length-research/scripts/`),

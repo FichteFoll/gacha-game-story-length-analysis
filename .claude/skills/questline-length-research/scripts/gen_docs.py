@@ -18,7 +18,10 @@ The markdown files are hand-written. Only the marked regions are rewritten:
     ...body...
     <!--/gen-->
 
-Every other byte of a file is left as its author wrote it. An unknown NAME or
+The prose around a marker is left as its author wrote it, apart from one
+normalisation over the whole text: every line is right-stripped and the file ends
+in a single newline, so a two-space hard line break does not survive. An unknown
+NAME or
 KIND, a marker that is not paired up as above, or an act label the analysis does
 not know, is an error naming the file and the marker; nothing is written then, so
 a renamed act cannot silently leave a stale figure behind, nor a broken marker
@@ -81,7 +84,7 @@ def write(path, text):
 
 
 def fill(path, regions, facts):
-    """The file's text with every marked region rewritten, nothing else touched."""
+    """The file's text with every marked region rewritten, the rest as it stands."""
     text = path.read_text()
     expected = scan(path, text, regions, facts)
 

@@ -75,11 +75,13 @@ plus how it records release versions where that differs from the default
 Set `released_in` to `null` for a wiki that does not categorize by version at all.
 
 `report.py` carries no prose.
-It holds the wiki page that documents the questline (`overview_page`),
+It records the wiki page that documents the questline (`overview_page`),
+which no script reads any more and the authored markdown links by hand,
 the level gate's name (`gate_label`, `None` for a game without one)
 and the gates themselves, the unit noun, the collection date,
-and the chapter list with each chapter's id, slug, wiki page,
-region, versions and title.
+and the chapter list with each chapter's id, slug, region, versions and title,
+plus the chapter's own wiki page, which the markdown likewise links by hand
+(an act's page reaches the filler through `analysis.json` instead).
 The report's title, its intro, its method wording and its caveats
 are written in `<report>/README.md`,
 and a chapter's blurb, pacing paragraph and act notes
@@ -341,7 +343,9 @@ The blurb, the pacing paragraph, the act notes, the headings and the sources
 are hand-written in the chapter file itself,
 and so are the report `README.md`'s intro, method wording and caveats.
 Everything derived sits in a placeholder in that same file,
-which `gen_docs.py` rewrites in place, leaving every other byte alone.
+which `gen_docs.py` rewrites in place, leaving the prose around it as written
+(it does right-strip every line and end the file in one newline,
+so a two-space hard line break does not survive a run).
 The filler is generic; the structure it needs
 (chapter ids, slugs, wiki pages, regions, versions, gates, the unit noun)
 comes from the report's `report.py`, and the claims from its `claims.py`.
@@ -362,6 +366,11 @@ The placeholders are HTML comments, in two forms:
 Keep a `gen:` block out of any paragraph, with a blank line on either side:
 a line holding only an HTML comment starts an HTML block in CommonMark
 and splits the paragraph in two.
+The one exception the reports make is `gen:stats`,
+whose opener follows the act note's last line directly
+because the region starts at the derived superlative sentence;
+that costs a paragraph break in the rendered page,
+and is accepted rather than changing the published source.
 A value inside a sentence is therefore always the inline `f:` form,
 and it never spans a line break.
 An unknown name or kind, or an unterminated marker, fails the build.
@@ -384,8 +393,8 @@ so this is a rule you keep rather than one the filler enforces.
 Instead:
 
 - put every figure in an `f:` marker, filled from the analysis on every run
-  ("<!--f:n_above_2h-->4<!--/f--> of its <!--f:n_entries-->6<!--/f--> acts
-  sit above two hours");
+  ("<!--f:n_above_2h-->four<!--/f--> of its <!--f:n_entries-->six<!--/f--> acts
+  sit above two hours", the counts spelled out as `facts.py` renders them);
   a marker naming a fact that does not exist fails the build,
   which is the guarantee a hand-typed number does not get;
 - generate superlatives from a ranking computed over all acts,

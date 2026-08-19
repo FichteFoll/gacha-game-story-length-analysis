@@ -21,7 +21,10 @@ The markdown files in a report directory are hand-written.
 They carry the authored prose,
 and HTML-comment placeholders where a derived figure or a derived block belongs;
 `gen_docs.py` rewrites the contents of those placeholders in place
-and leaves every other byte of the file alone.
+and leaves the rest of the file as it found it,
+save for one normalisation it applies to the whole text:
+every line is right-stripped and the file ends in exactly one newline,
+so a two-space markdown hard line break does not survive a run.
 `report.py` therefore holds configuration and structure only
 (the wiki pages, the unit noun, the chapter metadata and the gates),
 with no prose in it,
@@ -123,8 +126,9 @@ the wiki and its version infobox (`data/wiki.json`),
 the word acts are numbered with (read off the labels in `acts.tsv`),
 what an upload titled as less than one act looks like (`data/partials.txt`),
 what tells two same-named acts apart (`data/act_keys.json`),
-the level gate's name, the questline page and the unit noun
-(`report.py`).
+the level gate's name and the unit noun
+(`report.py`, which also records the questline page
+that the authored markdown links by hand).
 
 ### The prose must not contain hand-written numbers
 
@@ -172,11 +176,17 @@ Two forms, both HTML comments, so they are invisible in a rendered page:
   because the chapter id follows from which file the region sits in
   (`report.CHAPTERS` maps `slug` to `id`).
 
-A `gen:` block never sits inside a paragraph,
-and always has a blank line before its opening and after its closing marker:
+A `gen:` block belongs outside any paragraph,
+with a blank line before its opening and after its closing marker:
 a line holding only an HTML comment starts an HTML block in CommonMark
 and would split the paragraph in two,
 changing the rendered result even though the source text survives.
+The reports break that rule in one place, knowingly:
+a `gen:stats` opener follows the act note's last line directly,
+because the region starts at the derived superlative sentence,
+which belongs to the note's paragraph.
+Giving it its own blank line would change the published source,
+so the paragraph break in the rendered page is accepted instead.
 A value inside a sentence therefore uses the inline `f:` form only,
 and an `f:` marker never spans a line break.
 An unknown `NAME` or `KIND`, or an unterminated marker,
@@ -202,7 +212,7 @@ so a changed threshold rewrites its own description.
 
 - The authored markdown and the generated blocks use semantic line breaks
   (one clause per line, breaking after periods and commas and before conjunctions).
-  `gen_docs.py` touches only the marked regions,
+  `gen_docs.py` rewrites only the marked regions,
   so the breaks in the authored markdown survive as written.
 - Python 3.14, standard library only. `yt-dlp` is the sole external tool.
 - Say plainly what the numbers are: video runtime of someone else playing,
