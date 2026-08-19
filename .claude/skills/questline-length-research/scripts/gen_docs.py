@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fill the marked regions of a report's authored markdown from analysis.json.
 
-Usage: gen_docs.py <reportdir> [--no-verify]
+Usage: gen_docs.py <reportdir> [--no-verify] [--scaffold]
 
 Reads  <reportdir>/report.py    the game's configuration and structure
        <reportdir>/claims.py    what the authored prose asserts about the data
@@ -23,6 +23,13 @@ KIND, a marker that is not paired up as above, or an act label the analysis does
 not know, is an error naming the file and the marker; nothing is written then, so
 a renamed act cannot silently leave a stale figure behind, nor a broken marker
 cost the author the prose around it.
+
+An act the analysis knows but the markdown has no section for is an error too,
+because filling in place cannot publish what nobody wrote a home for; --scaffold
+adds the stub sections, and the prose in them is then the author's to write. It
+is the one exception to the promise above: a stub has to be on disk to be filled,
+so a --scaffold run that then fails leaves the stubs behind, unfilled. Re-running
+it once the error is fixed completes them.
 
 Every claim in the report's claims.py is checked against analysis.json before
 anything is written; --no-verify fills anyway, for inspecting what a failing
@@ -57,6 +64,11 @@ INLINE = re.compile(r"<!--f:(?P<name>\w+)-->[^\n]*?<!--/f-->")
 # still seen by the scan and named for what is wrong with it.
 MARKER = re.compile(r"<!--(?P<close>/?)(?P<form>gen|f)(?::(?P<rest>[^>]*))?-->")
 ATTR = re.compile(r'(\w+)="([^"]*)"')
+OPENING = re.compile(r"<!--gen:(?P<kind>[a-z-]+)(?P<attrs>[^>]*)-->")
+
+# The three regions every act needs. An act holding some but not all of them is
+# a gap too, but not one a stub can close: see coverage_gaps().
+ACT_REGIONS = frozenset({"act-heading", "stats", "evidence"})
 
 
 class MarkerError(Exception):
@@ -431,12 +443,164 @@ def chapter_regions(report, chap, acts, quest_parts, versions, version_index,
     }
 
 
+def act_of_marker(match):
+    """The act label an opening marker carries, or None where it names no act."""
+    return dict(ATTR.findall(match["attrs"])).get("act")
+
+
+def act_regions_present(text):
+    """Which of the three act regions each act label already has in the file."""
+    present = {}
+    for m in OPENING.finditer(text):
+        label = act_of_marker(m)
+        if label is None:
+            continue
+        present.setdefault(label, set()).add(m["kind"])
+    return present
+
+
+def coverage_gaps(report, by_chapter):
+    """What the markdown does not cover, split by what --scaffold can do about it.
+
+    Returns the chapter files and the acts a stub can be written for, in story
+    order, and the gaps a stub cannot close: a chapter the analysis knows nothing
+    about, which has no figures to fill a file with, and an act holding some but
+    not all of its three regions, where a stub would come to sit beside the
+    regions already there and publish that act twice over.
+    """
+    files, acts, refused = [], [], []
+    for chap in report.chapters:
+        found = by_chapter.get(chap["id"], [])
+        if not found:
+            refused.append(f"{chap['id']} ({chap['title']}) has nothing in "
+                           f"analysis.json, so {chap['slug']}.md cannot be "
+                           f"filled; drop it from CHAPTERS or harvest it")
+            continue
+        path = report.path / f"{chap['slug']}.md"
+        if path.exists():
+            present = act_regions_present(path.read_text())
+        else:
+            files.append(chap)
+            present = {}
+        for act in found:
+            have = present.get(act["act_label"], set())
+            if ACT_REGIONS <= have:
+                continue
+            where = f"{chap['id']}|{act['act_label']} ({act['act_title']})"
+            if not have:
+                acts.append((chap, act))
+                continue
+            refused.append(f"{where} has only its "
+                           f"{', '.join(sorted(have))} region(s) in "
+                           f"{path.name}; write the rest beside them by hand, "
+                           f"or delete them and re-run with --scaffold")
+    return files, acts, refused
+
+
+def chapter_skeleton(report):
+    """A chapter file's authored frame: its regions, and gaps for its prose."""
+    paragraph = ["", "", ""]  # a blank line to write on, blank lines either side
+    return ["<!--gen:heading-->", "<!--/gen-->"] + paragraph + [
+        "## At a glance",
+        "",
+        "<!--gen:glance-->", "<!--/gen-->",
+        "",
+        f"**Total: {marked('total', '')}**",
+        "",
+        "## Pacing",
+    ] + paragraph + [f"## {report.config.get('unit', 'Act')}s"]
+
+
+def act_stub(label):
+    """An act's three regions, with the blank line its note is written on."""
+    return [f'<!--gen:act-heading act="{label}"-->', "<!--/gen-->",
+            "",
+            f'<!--gen:stats act="{label}"-->', "<!--/gen-->",
+            "",
+            f'<!--gen:evidence act="{label}"-->', "<!--/gen-->",
+            ""]
+
+
+def act_anchor(path, text, following):
+    """Where an act's stub belongs: before the next act present, else before Sources.
+
+    The heading markers are recognised the same way act_regions_present() counts
+    them, so that an act the coverage check found cannot go missing here and
+    leave the stub at the end of the section, out of analysis order.
+    """
+    heads = {}
+    for m in OPENING.finditer(text):
+        if m["kind"] == "act-heading":
+            heads.setdefault(act_of_marker(m), m)
+    for label in following:
+        m = heads.get(label)
+        if not m:
+            continue
+        if not alone_on_line(text, m):
+            raise MarkerError(f"{path}:{line_of(text, m.start())}: {m[0]} must "
+                              f"sit on a line of its own for a stub to be "
+                              f"placed before it")
+        return m.start()
+    m = re.search(r"^## Sources$", text, re.MULTILINE)
+    return m.start() if m else len(text)
+
+
+def add_stubs(report, missing_files, missing_acts, by_chapter):
+    for chap in missing_files:
+        write(report.path / f"{chap['slug']}.md",
+              "\n".join(chapter_skeleton(report)))
+
+    by_path = {}
+    for chap, act in missing_acts:
+        by_path.setdefault(report.path / f"{chap['slug']}.md", []).append(act)
+    for path, acts in by_path.items():
+        text = path.read_text()
+        order = [a["act_label"] for a in by_chapter[acts[0]["chapter_id"]]]
+        # Back to front, so every stub can anchor on an act already in place and
+        # the analysis order survives however many of them are missing at once.
+        for act in reversed(acts):
+            following = order[order.index(act["act_label"]) + 1:]
+            anchor = act_anchor(path, text, following)
+            before = text[:anchor]
+            # A gen: marker needs a blank line above it, which the anchor already
+            # has where it is a heading or another act, but not at end of file.
+            if not before.endswith("\n\n"):
+                before += "\n"
+            text = before + "\n".join(act_stub(act["act_label"])) + "\n" \
+                + text[anchor:]
+        write(path, text)
+
+
+def report_gaps(missing_files, missing_acts):
+    print("the markdown does not cover everything in analysis.json:\n",
+          file=sys.stderr)
+    for chap in missing_files:
+        print(f"  no {chap['slug']}.md for {chap['title']}", file=sys.stderr)
+    for chap, act in missing_acts:
+        print(f"  {chap['id']}|{act['act_label']} ({act['act_title']})",
+              file=sys.stderr)
+    print("\nrun with --scaffold to add stub sections", file=sys.stderr)
+
+
+def report_stubs(report, missing_files, missing_acts):
+    for chap in missing_files:
+        print(f"scaffolded {chap['slug']}.md")
+    for chap, act in missing_acts:
+        print(f"scaffolded {chap['slug']}.md: {act['act_label']} "
+              f"({act['act_title']})")
+    print(f"still to be written by hand: each new {unit(report)}'s note")
+    if missing_files:
+        print("and, for each new file, its blurb, its pacing paragraph "
+              "and its ## Sources section")
+
+
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     if len(args) != 1:
         print(__doc__)
         return 2
     verify = "--no-verify" not in argv[1:]
+    scaffold = "--scaffold" in argv[1:]
     report = Report(args[0])
     analysis = report.json("analysis.json")
     quest_parts = report.json("quest_parts.json")
@@ -460,8 +624,29 @@ def main(argv):
     facts = report_facts(analysis, report.config.get("unit", "Act"), report.game,
                          report.config["date"])
 
+    missing_files, missing_acts, refused = coverage_gaps(report, by_chapter)
+    if refused:
+        print("the markdown cannot be filled as it stands:\n", file=sys.stderr)
+        for line in refused:
+            print(f"  {line}\n", file=sys.stderr)
+        print("--scaffold cannot close these; they are hand edits",
+              file=sys.stderr)
+        return 1
+    if missing_files or missing_acts:
+        if not scaffold:
+            report_gaps(missing_files, missing_acts)
+            return 1
+        try:
+            add_stubs(report, missing_files, missing_acts, by_chapter)
+        except MarkerError as e:
+            print(e, file=sys.stderr)
+            return 1
+        report_stubs(report, missing_files, missing_acts)
+
     # Every file is filled before any is written, so a marker error in the last
-    # chapter does not leave the earlier ones rewritten.
+    # chapter does not leave the earlier ones rewritten. Every chapter has acts
+    # by here: coverage_gaps() refuses a report whose CHAPTERS runs ahead of its
+    # analysis, which is what keeps the lookup below total.
     filled = {}
     try:
         for chap in report.chapters:
