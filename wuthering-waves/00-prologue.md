@@ -61,7 +61,7 @@ and puts down the thing waiting at the bottom of it.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 20 min | Utterance of Marvels - Prologue: Act I \| Wuthering Waves Game Walkthrough \| No Commentary | ElcarlosBeta | 0 | 2024-06-13 | <https://www.youtube.com/watch?v=pPCpRnT9tyQ> |
-| 25 min | Wuthering Waves - Utterance of Marvels: I - Main Quest Walkthrough | Trophy Tom | ~495 | n/a | <https://www.youtube.com/watch?v=l-vxXX6agKw> |
+| 25 min | Wuthering Waves - Utterance of Marvels: I - Main Quest Walkthrough | Trophy Tom | 495 | 2024-05-23 | <https://www.youtube.com/watch?v=l-vxXX6agKw> |
 | 28 min | Wuthering Waves: Chapter 1 Act 1 \| Utterance of Marvels: l | EpicGamer | 23 | 2024-06-08 | <https://www.youtube.com/watch?v=fCQw4L0D-n0> |
 | 34 min | Wuthering Waves \| Prologue Act 1, 2 And Main Story Chapter 1 Act 1, 2 | JihoEcho | 455 | 2024-07-30 | <https://www.youtube.com/watch?v=_x7HRlf2RJs> |
 | 34 min | Wuthering Waves: Utterance of Marvels ACT: I & II FULL QUEST (4K/60fps PS5 Gameplay - No Commentary) | Sakibrex AdvGaming | 193 | 2025-06-03 | <https://www.youtube.com/watch?v=FGB6I5LZtN4> |
@@ -102,7 +102,7 @@ One of the three shortest entries in the questline.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 8 min | Wuthering Waves - Utterance of Marvels: II - Quest Walkthrough | Trophy Tom | 375 | 2024-05-23 | <https://www.youtube.com/watch?v=MfptioogvQw> |
-| 15 min | Main Quest - Utterance of Marvels: II - Wuthering Waves #2 | CHTS | ~23 | n/a | <https://www.youtube.com/watch?v=ragZkWuXIWo> |
+| 15 min | Main Quest - Utterance of Marvels: II - Wuthering Waves #2 | CHTS | 23 | 2024-05-25 | <https://www.youtube.com/watch?v=ragZkWuXIWo> |
 | 15 min | Wuthering Waves - Main Quests - Utterance Of Marvels: II | Authrone | 135 | 2024-05-23 | <https://www.youtube.com/watch?v=Rm8HuZPJrnM> |
 
 </details>

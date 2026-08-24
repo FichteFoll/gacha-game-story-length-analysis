@@ -79,9 +79,9 @@ then aboard the troupe liner bound for Ragunna.
 | 31 min | Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves | Fayato | 19,424 | 2025-10-09 | <https://www.youtube.com/watch?v=FH3Rw2NRzWk> |
 | 32 min | Wuthering Waves Chapter II Prologue \| Through the Sea Thou Break - Full 4K PS5 Gameplay Walkthrough | Sakibrex AdvGaming | 255 | 2025-07-07 | <https://www.youtube.com/watch?v=4pGD2j2g16w> |
 | 32 min | Wuthering Waves Main Quest: Rinascita Prologue - Through the Sea Thou Break | Drexyz | 92 | 2025-04-24 | <https://www.youtube.com/watch?v=YVuQ25IorZI> |
-| 37 min | Through the Sea Thou Break - Wuthering Waves - Prologue - Main Quest | Jig5aw 2 | ~11 | n/a | <https://www.youtube.com/watch?v=pCt6nVugiXA> |
+| 37 min | Through the Sea Thou Break - Wuthering Waves - Prologue - Main Quest | Jig5aw 2 | 11 | 2025-12-14 | <https://www.youtube.com/watch?v=pCt6nVugiXA> |
 | 41 min | Wuthering Waves [Main Story] [Ver 2.0] - Through the Sea Thou Break Walkthrough [No Commentary] | Fresh and Crispy Games | 7 | 2026-06-01 | <https://www.youtube.com/watch?v=BljgplCeXQU> |
-| 44 min | Wuthering Waves - Chapter 2 Prologue: Through the Sea Thou Break \| No Commentary | SamuRRai_Gamer | ~6 | n/a | <https://www.youtube.com/watch?v=lvKVHCVBgeY> |
+| 44 min | Wuthering Waves - Chapter 2 Prologue: Through the Sea Thou Break \| No Commentary | SamuRRai_Gamer | 6 | 2026-06-26 | <https://www.youtube.com/watch?v=lvKVHCVBgeY> |
 | 46 min | Wuthering Waves Part 9 - Welcome to Rinascita - No Commentary | GameZpoiint | 41 | 2026-06-09 | <https://www.youtube.com/watch?v=Fax66kXBlaE> |
 
 </details>
@@ -109,21 +109,21 @@ gondolas, and an Echo that loses control in the middle of it all.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 44 min | Wuthering Waves 2.0 - The Sacred Breeze So Often Breathes Quest (4K PS5 Gameplay) | Malachi Plays Games | ~140 | n/a | <https://www.youtube.com/watch?v=t3BQgsKwjX4> |
+| 44 min | Wuthering Waves 2.0 - The Sacred Breeze So Often Breathes Quest (4K PS5 Gameplay) | Malachi Plays Games | 140 | 2025-01-07 | <https://www.youtube.com/watch?v=t3BQgsKwjX4> |
 | 48 min | Wuthering Waves Chapter 2 Act 1: The Sacred Breeze So Often Breathe FULL QUEST Walkthrough (4K PS5) | Sakibrex AdvGaming | 461 | 2025-07-08 | <https://www.youtube.com/watch?v=WvOYhsVS-3Y> |
-| 53 min | Wuthering Waves Main Quest: Chapter 2 Act 1 - The Sacred Breeze So Often Breathes Full Gameplay | RTXMonkey | ~135 | n/a | <https://www.youtube.com/watch?v=tJS0BSjvgS4> |
-| 55 min | [WuWa 2.0] Chapter 2: Act 1 - The Sacred Breeze So Often Breathes \| Full Story Playthrough | EllooTV | ~8 | n/a | <https://www.youtube.com/watch?v=oIZgpL60Y3c> |
+| 53 min | Wuthering Waves Main Quest: Chapter 2 Act 1 - The Sacred Breeze So Often Breathes Full Gameplay | RTXMonkey | 135 | 2025-02-06 | <https://www.youtube.com/watch?v=tJS0BSjvgS4> |
+| 55 min | [WuWa 2.0] Chapter 2: Act 1 - The Sacred Breeze So Often Breathes \| Full Story Playthrough | EllooTV | 8 | 2026-06-20 | <https://www.youtube.com/watch?v=oIZgpL60Y3c> |
 | 1 h 00 min | Wuthering Waves – Chapter 2 Act I: The Sacred Breeze So Often Breathes | Sanolym | 13 | 2025-12-14 | <https://www.youtube.com/watch?v=JFYv_XuMUbw> |
 | 1 h 04 min | Wuthering Waves - Chapter 2 Act 1: The Sacred Breeze So Often Breathes \| No Commentary | SamuRRai_Gamer | 15 | 2026-06-26 | <https://www.youtube.com/watch?v=-KPK7Tp0kTo> |
 | 1 h 06 min | CHAPTER II - ACT I: THE SACRED BREEZE SO OFTEN BREATHS - WUTHERING WAVES | NYRIX | 8 | 2026-06-30 | <https://www.youtube.com/watch?v=KlPu5Yie7Ww> |
-| 1 h 08 min | WuWa Main Quest Rinascita 2 Act 1 Full Walkthrough \| Wuthering Waves 2.0 | Akabirama | ~11,240 | n/a | <https://www.youtube.com/watch?v=lI8f1FikABU> |
+| 1 h 08 min | WuWa Main Quest Rinascita 2 Act 1 Full Walkthrough \| Wuthering Waves 2.0 | Akabirama | 11,240 | 2025-01-04 | <https://www.youtube.com/watch?v=lI8f1FikABU> |
 | 1 h 08 min | [Wuthering Waves Main Quest] The Sacred Breeze So Often Breathes: Follow Phoebe Into The City | Authrone | 233 | 2025-01-11 | <https://www.youtube.com/watch?v=iOfxIRSfRR4> |
-| 1 h 11 min | Wuthering Waves [Main Story] [Ver 2.0] - The Sacred Breeze So Often Breathes Walkthrough [JP Dub]] | Fresh and Crispy Games | ~10 | n/a | <https://www.youtube.com/watch?v=qrbdCesDMiE> |
+| 1 h 11 min | Wuthering Waves [Main Story] [Ver 2.0] - The Sacred Breeze So Often Breathes Walkthrough [JP Dub]] | Fresh and Crispy Games | 10 | 2026-06-02 | <https://www.youtube.com/watch?v=qrbdCesDMiE> |
 | 1 h 17 min | Wuthering Waves - Chapter 2 Act 1: The Sacred Breeze So Often Breathes \| Full Story JP Dub EN Sub 4K | Gudaoko | 705 | 2025-01-06 | <https://www.youtube.com/watch?v=U1swTBrC8A4> |
 | 1 h 24 min | Wuthering Waves - Rinascita Main Quest ACT 1 - The Sacred Breeze So Often Breathes | Sho | 70 | 2025-01-02 | <https://www.youtube.com/watch?v=jBDOelqP8q4> |
 | 1 h 29 min | Rinascita ACT 1 & Prologue Full Quest Version Main Story Quest \| Wuthering Waves 2.0 | NeoBuns | 133 | 2025-01-04 | <https://www.youtube.com/watch?v=CoEWgHBkms0> |
 | 1 h 41 min | Wuthering Waves 2.0 Story - Chapter 2 Prologue: Through the Sea Thou Break & Act 1 (Female Rover) | QuestWatcher | 821 | 2025-12-29 | <https://www.youtube.com/watch?v=P234wWPiYfQ> |
-| 1 h 47 min | Version 2.0 Main Story Quest (4k60fps) - Rinascita ACT 1 & Prologue (Full Quest) \| Wuthering Waves | Krazili | ~145 | n/a | <https://www.youtube.com/watch?v=mnJ9YPtyvVQ> |
+| 1 h 47 min | Version 2.0 Main Story Quest (4k60fps) - Rinascita ACT 1 & Prologue (Full Quest) \| Wuthering Waves | Krazili | 145 | 2025-04-28 | <https://www.youtube.com/watch?v=mnJ9YPtyvVQ> |
 
 </details>
 <!--/gen-->
@@ -151,7 +151,7 @@ where the ones that attack turn out to be steered rather than mad.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 17 min | Veils Off in Sun or Shadow Wuthering Waves | WoW Quests | ~18,540 | n/a | <https://www.youtube.com/watch?v=tvmIQ-489gY> |
+| 1 h 17 min | Veils Off in Sun or Shadow Wuthering Waves | WoW Quests | 18,542 | 2025-01-02 | <https://www.youtube.com/watch?v=tvmIQ-489gY> |
 | 2 h 01 min | WuWa Main Quest Rinascita 2 Act 2 Full Walkthrough \| Wuthering Waves 2.0 | Akabirama | 13,601 | 2025-01-06 | <https://www.youtube.com/watch?v=XnOWt8bTk3Q> |
 | 2 h 09 min | Wuthering Waves Ch.2 Act 2: VEILS OFF IN SUN OR SHADOW - FULL QUEST GAMEPLAY! (4K PS5 No Commentery) | Sakibrex AdvGaming | 312 | 2025-07-09 | <https://www.youtube.com/watch?v=O-Ld9l24BxY> |
 | 2 h 19 min | Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves | Fayato | 19,424 | 2025-10-09 | <https://www.youtube.com/watch?v=FH3Rw2NRzWk> |
@@ -197,11 +197,11 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 | 2 h 22 min | Rinascita Act 3 - What Yesterday Wept, Today Doth Sing \| Wuthering Waves 2.0 Main Story Quest | GutsnCapture Gaming | 74 | 2025-01-27 | <https://www.youtube.com/watch?v=fBeysLT4VcY> |
 | 2 h 28 min | Wuthering Waves – Chapter 2 Act III: What Yesterday Wept, Today Doth Sing | Sanolym | 7 | 2025-12-30 | <https://www.youtube.com/watch?v=2ZPQACsgF7o> |
 | 2 h 29 min | Rinascita Act 3 (Full Quest) Version 2.0 Main Story Quest \| Wuthering Waves | NeoBuns | 3,549 | 2025-01-06 | <https://www.youtube.com/watch?v=dnHxsnA_VyU> |
-| 2 h 32 min | Wuthering Waves [Main Story] [Ver 2.0] - What Yesterday Wept, Today Doth Sing Walkthrough [JP Dub] | Fresh and Crispy Games | ~11 | n/a | <https://www.youtube.com/watch?v=r5ByjHaH-eY> |
+| 2 h 32 min | Wuthering Waves [Main Story] [Ver 2.0] - What Yesterday Wept, Today Doth Sing Walkthrough [JP Dub] | Fresh and Crispy Games | 11 | 2026-06-03 | <https://www.youtube.com/watch?v=r5ByjHaH-eY> |
 | 2 h 34 min | Wuthering Waves - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing \| No Commentary | SamuRRai_Gamer | 12 | 2026-06-27 | <https://www.youtube.com/watch?v=Dt8Q-uSuvZs> |
 | 2 h 34 min | Wuthering Waves 2.0 Story - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing (Male Rover) | QuestWatcher | 23 | 2026-04-20 | <https://www.youtube.com/watch?v=WgdlwpoW4TY> |
 | 2 h 34 min | WuWa Main Quest Rinascita 2 Act 3 Full Walkthrough \| Wuthering Waves  2.0 | Akabirama | 16,396 | 2025-01-06 | <https://www.youtube.com/watch?v=iMGcVaheRQg> |
-| 2 h 40 min | Wuthering Waves - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing \| Full Story JP Dub EN Sub | Gudaoko | ~898 | n/a | <https://www.youtube.com/watch?v=tXMOUYC1b7E> |
+| 2 h 40 min | Wuthering Waves - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing \| Full Story JP Dub EN Sub | Gudaoko | 898 | 2025-01-09 | <https://www.youtube.com/watch?v=tXMOUYC1b7E> |
 | 2 h 48 min | Wuthering Waves 2.0 Story — Act 3: What Yesterday Wept, Today Doth Sing | NaruVT | 2,606 | 2025-01-03 | <https://www.youtube.com/watch?v=BVgd5WWpgeE> |
 
 </details>
@@ -276,7 +276,7 @@ and down into the Avinoleum.
 | 3 h 20 min | The Maiden The Defier The Death Crier FULL QUEST Wuthering Waves | ZaFrostPet | 22,060 | 2025-03-29 | <https://www.youtube.com/watch?v=_FNi0vKLo-c> |
 | 3 h 23 min | Wuthering Waves - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier \| No Commentary | SamuRRai_Gamer | 13 | 2026-06-28 | <https://www.youtube.com/watch?v=UE-QU9FYFKs> |
 | 3 h 26 min | Wuthering Waves 2.2 Story - "The Maiden, The Defier, The Death Crier" Playthrough | ItsDaveTV Plays and ItsDaveTV | 87 | 2025-10-07 | <https://www.youtube.com/watch?v=bt0erQge4wI> |
-| 3 h 26 min | Wuthering Waves 2.2 Story - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier (Female Rover) | QuestWatcher | ~959 | n/a | <https://www.youtube.com/watch?v=u0hffCrguBQ> |
+| 3 h 26 min | Wuthering Waves 2.2 Story - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier (Female Rover) | QuestWatcher | 959 | 2026-01-04 | <https://www.youtube.com/watch?v=u0hffCrguBQ> |
 | 3 h 27 min | FULL Chapter 2 Act 4 Rinascita \| Wuthering Waves 2.2 "The Maiden, The Defier, The Death Crier" | T.H Bunn | 95 | 2025-03-27 | <https://www.youtube.com/watch?v=BkI79RNeySQ> |
 | 3 h 28 min | Wuthering Waves V.2.2 - 1 Main Quest Chapter 2 Act 4 [Eng Sub] [Ultrawide] | Adamantine | 62 | 2025-04-04 | <https://www.youtube.com/watch?v=KCsMy6gyHqk> |
 | 3 h 33 min | Wuthering Waves 3.4 Walkthrough PART 24 - The Maiden, The Defier, The Death Crier (PS5 1440p) | Gaming Reviving | 53 | 2026-07-03 | <https://www.youtube.com/watch?v=aT6KrxE5U1M> |
@@ -310,9 +310,9 @@ and earning Arsinosa's attention the hard way.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 41 min | Wuthering Waves - Main Quest "In Shadow of Glory" \| Epic PC Gameplay Walkthrough | F2P | ~522 | n/a | <https://www.youtube.com/watch?v=lPS-TNc32cA> |
-| 2 h 01 min | 🔥 Wuthering Waves Chapter 2 Act 5: SHADOW OF GLORY - EPIC 4K PS5 Gameplay! (FULL QUEST + BOSS FIGHT) | Sakibrex AdvGaming | ~427 | n/a | <https://www.youtube.com/watch?v=ogz0qpz1eNc> |
-| 2 h 01 min | Main Story Quest Act 5 Full Quest - Shadow of Glory - Version 2.4 \| Wuthering Waves | RSA The Gamer Boy | ~13 | n/a | <https://www.youtube.com/watch?v=nVKoIcmqcno> |
+| 1 h 41 min | Wuthering Waves - Main Quest "In Shadow of Glory" \| Epic PC Gameplay Walkthrough | F2P | 522 | 2025-06-16 | <https://www.youtube.com/watch?v=lPS-TNc32cA> |
+| 2 h 01 min | 🔥 Wuthering Waves Chapter 2 Act 5: SHADOW OF GLORY - EPIC 4K PS5 Gameplay! (FULL QUEST + BOSS FIGHT) | Sakibrex AdvGaming | 427 | 2025-07-13 | <https://www.youtube.com/watch?v=ogz0qpz1eNc> |
+| 2 h 01 min | Main Story Quest Act 5 Full Quest - Shadow of Glory - Version 2.4 \| Wuthering Waves | RSA The Gamer Boy | 13 | 2025-06-30 | <https://www.youtube.com/watch?v=nVKoIcmqcno> |
 | 2 h 20 min | Wuthering Waves 2.4 - New Main Story Quest Shadow of Glory Full Walkthrough \| First Half | OPEN GAMERZ | 102 | 2025-09-16 | <https://www.youtube.com/watch?v=6u4q_OCTYjo> |
 | 2 h 20 min | WuWa Main Quest Rinascita 2 Act 5 Full Walkthrough \| Wuthering Waves 2.4 | Akabirama | 13,115 | 2025-06-13 | <https://www.youtube.com/watch?v=1QZIL7zzTTo> |
 | 2 h 23 min | Wuthering Waves Walkthrough Part 404 - Chapter 2 Act 5: Shadow of Glory (No Commentary) | MG PlayX | 100 | 2025-06-17 | <https://www.youtube.com/watch?v=q_3cki4GdYI> |
@@ -353,7 +353,7 @@ and the first clear look at what Leviathan has been doing to Lupa.
 | 1 h 26 min | Flames of Heart \| Wuthering Waves (Story Quest - Full Quest) | SneakyDaisies | 10 | 2026-06-18 | <https://www.youtube.com/watch?v=MMIc9shB6bU> |
 | 1 h 29 min | Flames of Heart Main Quest (Almost Full Gameplay) | Veda D | 11 | 2025-07-14 | <https://www.youtube.com/watch?v=Rn01n9mkLMQ> |
 | 1 h 32 min | Flames of Heart \| Wuthering Waves 2.4 Story Quest Chapter II Act VI | GutsnCapture Gaming | 23 | 2025-07-11 | <https://www.youtube.com/watch?v=6epUvCZJIWk> |
-| 1 h 34 min | WUTHERING WAVES – Act VI Flames of Heart \| Full Quest Walkthrough (No Commentary) | Radger | ~43 | n/a | <https://www.youtube.com/watch?v=nOFxLt4E2hE> |
+| 1 h 34 min | WUTHERING WAVES – Act VI Flames of Heart \| Full Quest Walkthrough (No Commentary) | Radger | 43 | 2025-07-27 | <https://www.youtube.com/watch?v=nOFxLt4E2hE> |
 | 1 h 35 min | Wuthering Waves Walkthrough Part 424 - Chapter 2 Act 6: Flames of Heart (No Commentary) | MG PlayX | 78 | 2025-07-09 | <https://www.youtube.com/watch?v=O9D9XdXSj9k> |
 | 1 h 35 min | Version 2.4 Main Story Quest (Phase 2) Full Quest - Flames of Heart Act 6 \| Wuthering Waves | Streetwise Rhapsody | 31,046 | 2025-07-03 | <https://www.youtube.com/watch?v=pczz9YZ8aGQ> |
 | 1 h 39 min | Wuthering Waves 2.4 Story  (FRover EN Dub) — Act 6 Flames of Heart | NaruVT | 2,472 | 2025-07-03 | <https://www.youtube.com/watch?v=dNofp8zAoyE> |
@@ -425,13 +425,13 @@ a girl with nothing, fought her way into the Great Agon and out the other side.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 34 min | Wuthering Waves PC Gameplay \| Main Event: Rust, Sword and the Sun \| Full Walkthrough | F2P | ~41 | n/a | <https://www.youtube.com/watch?v=scl_dkZdCYI> |
+| 34 min | Wuthering Waves PC Gameplay \| Main Event: Rust, Sword and the Sun \| Full Walkthrough | F2P | 41 | 2025-09-03 | <https://www.youtube.com/watch?v=scl_dkZdCYI> |
 | 40 min | Wuthering Waves Rust, Sword and the Sun Full quest gameplay #wutheringwaves #wutheringwavesgameplay | thegamingmachine | 24 | 2025-08-14 | <https://www.youtube.com/watch?v=-bi1Oeh6p6Y> |
 | 43 min | Wuthering Waves - Chapter 2 Segue 1: Rust, Sword, and the Sun Overture \| No Commentary | SamuRRai_Gamer | 1 | 2026-07-04 | <https://www.youtube.com/watch?v=bZIJYS-9MmM> |
 | 44 min | Wuthering Waves 2.5 (PC) Walkthrough Main Quest Rust, Sword and The Sun | CyberFRZ | 12 | 2025-08-16 | <https://www.youtube.com/watch?v=llm9iwgCQCk> |
-| 46 min | Wuthering Waves 2.5 Story - Chapter 2 Augusta Segue Story: Rust, Sword and the Sun (Female Rover) | QuestWatcher | ~313 | n/a | <https://www.youtube.com/watch?v=utZk282oFEc> |
+| 46 min | Wuthering Waves 2.5 Story - Chapter 2 Augusta Segue Story: Rust, Sword and the Sun (Male Rover) | QuestWatcher | 16 | 2026-05-20 | <https://www.youtube.com/watch?v=m-Dr6OH75WQ> |
 | 46 min | Wuthering Waves Walkthrough Part 474 - Chapter 2 Segue: Rust, Sword, and the Sun Overture | MG PlayX | 57 | 2025-09-01 | <https://www.youtube.com/watch?v=ZbpqRLz4tgk> |
-| 49 min | Rust, Sword and the Sun \| Segue \| Main Quest \| Wuthering Waves | Jig5aw 2 | ~23 | n/a | <https://www.youtube.com/watch?v=mdM6x87vKUQ> |
+| 49 min | Rust, Sword and the Sun \| Segue \| Main Quest \| Wuthering Waves | Jig5aw 2 | 23 | 2026-05-12 | <https://www.youtube.com/watch?v=mdM6x87vKUQ> |
 | 52 min | Wuthering Waves [Main Story] [Ver 2.5] - Rust, Sword and the Sun Walkthrough [No Commentary] [JP] | Fresh and Crispy Games | 4 | 2026-06-14 | <https://www.youtube.com/watch?v=Omjk8MOwV08> |
 | 53 min | Rinascita II : Segue \|Overture Quest \|Rust, Sword and the Sun \|Augusta's Story \| Wuthering Waves 2.5 | Senthu Gamer | 25 | 2025-08-19 | <https://www.youtube.com/watch?v=X2ZQvpoUd-c> |
 | 54 min | [Wuthering Waves Main Quest] Rust, Sword And The Sun: Talk With Nestor And Learn About Ephor's Story | Authrone | 5,891 | 2025-08-14 | <https://www.youtube.com/watch?v=NEAhdPi4iIQ> |
@@ -472,7 +472,7 @@ and the Corrosaurus Tyrannos run down across the Asphodel Barrens.
 | 3 h 31 min | Rinascita II: Act VIII "By Sun's Burning Hand" Full Story Quest! \| Wuthering Waves 2.6 | Clusty | 10 | 2025-10-30 | <https://www.youtube.com/watch?v=X1iaEBnWqyM> |
 | 3 h 34 min | Wuthering Waves 2.6 Full Story Walkthrough \|  Act VIII – By Sun’s Burning Hand  \| Part 1 \| 4K 60FPS | GAMFO | 123 | 2025-12-23 | <https://www.youtube.com/watch?v=7RNd91fXpxo> |
 | 3 h 39 min | Wuwa 2.6 Main Quest Act- 8(Part-1) 'By Sun's Burning Hand' | Maurya Playz | 18 | 2025-08-31 | <https://www.youtube.com/watch?v=Gl2hZ25kOjk> |
-| 3 h 42 min | Wuthering Waves [Main Story] [Ver 2.6] - By Sun's Burning Hand Walkthrough [No Commentary] [JP Dub] | Fresh and Crispy Games | ~5 | n/a | <https://www.youtube.com/watch?v=qs_drYp4TbQ> |
+| 3 h 42 min | Wuthering Waves [Main Story] [Ver 2.6] - By Sun's Burning Hand Walkthrough [No Commentary] [JP Dub] | Fresh and Crispy Games | 5 | 2026-06-20 | <https://www.youtube.com/watch?v=qs_drYp4TbQ> |
 | 3 h 43 min | Wuthering Waves 2.6 \| Main Quest Ch. II Act VIII: By Sun's Burning Hand (Full Quest) \| 4K RTX 5090 | RTXMonkey | 112 | 2025-08-29 | <https://www.youtube.com/watch?v=yg2eHQLLUQY> |
 
 </details>
@@ -505,7 +505,7 @@ and what is behind it is not a hero's story.
 | 2 h 23 min | 'By Moon's Fated Light' \| Wuthering Waves 2.6 \| Chapter 2 Act 9 \| | SECO | 47 | 2025-09-20 | <https://www.youtube.com/watch?v=e49lYMeLPmY> |
 | 2 h 27 min | BY MOON'S FATED LIGHT - Version 2.6 Act 9 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 24 | 2025-09-23 | <https://www.youtube.com/watch?v=zrnFFxFIHbE> |
 | 2 h 30 min | Wuthering Waves 2.6 New Main Story Act IX | NoEmotion | 19 | 2025-09-21 | <https://www.youtube.com/watch?v=DS3WHmD-KrM> |
-| 2 h 32 min | Wuthering Waves 2.6 – Rinascita Chapter II: Act IX “By Moon’s Fated Light” | Esper | ~6 | n/a | <https://www.youtube.com/watch?v=uCANcNmSpH0> |
+| 2 h 31 min | Wuthering Waves 2.6 – Rinascita Chapter II: Act IX “By Moon’s Fated Light” | Esper | 6 | 2025-09-20 | <https://www.youtube.com/watch?v=uCANcNmSpH0> |
 | 2 h 34 min | WuWa Main Quest Rinascita 2 Act 9 Full Walkthrough \| Wuthering Waves 2.6 | Akabirama | 11,655 | 2025-09-18 | <https://www.youtube.com/watch?v=h7ISfmyzbXU> |
 | 2 h 35 min | Wuthering Waves - 4K - By Moon's Fated Light Story Quest | DRC Gamer | 564 | 2025-10-07 | <https://www.youtube.com/watch?v=Pf8RnDiBMEo> |
 | 2 h 35 min | Wuthering Waves 2.6 \| By Moon’s Fated Light - Phase 2 (Iuno Story Quest) Full Playthrough | Kiruno | 69 | 2025-09-17 | <https://www.youtube.com/watch?v=-jGgIPF4auw> |
@@ -559,9 +559,9 @@ into the Mad King's arena.
 | 1 h 59 min | Wuthering Waves Chapter 2 Act 10: The Bygone Shall Always Return | TheWayCafe Productions | 501 | 2025-10-14 | <https://www.youtube.com/watch?v=SFXRPcWJPuI> |
 | 1 h 59 min | Rinascita II Act X The Bygone Shall Always Return Main Quest \| Wuthering Waves Full Story | Clandestine_ | 10 | 2026-06-27 | <https://www.youtube.com/watch?v=Y9kg9SPZpwI> |
 | 2 h 09 min | Wuthering Waves 2.7 Main Quest The Bygone Shall Always Return part 1 #wutheringwaves #wuwa  | Shibam Roy | 22 | 2025-10-10 | <https://www.youtube.com/watch?v=Krewn5j3k8U> |
-| 2 h 09 min | Wuthering Waves [Main Story] [Ver 2.7] - The Bygone Shall Always Return Walkthrough [No Commentary] | Fresh and Crispy Games | ~16 | n/a | <https://www.youtube.com/watch?v=tNV_jPTb2NQ> |
+| 2 h 09 min | Wuthering Waves [Main Story] [Ver 2.7] - The Bygone Shall Always Return Walkthrough [No Commentary] | Fresh and Crispy Games | 16 | 2026-06-23 | <https://www.youtube.com/watch?v=tNV_jPTb2NQ> |
 | 2 h 15 min | Wuthering Waves 2.7 Chapter 2: Act X The Bygone Shall Always Return Main Quest | mwRover | 30 | 2026-02-22 | <https://www.youtube.com/watch?v=ZHnw1GGi5Eo> |
-| 2 h 56 min | Wuthering Waves Main Quest The Bygone Shall Always Return PS5 No Commentary Gameplay | pzmarquez | ~21 | n/a | <https://www.youtube.com/watch?v=plRZI-tqJ8Y> |
+| 2 h 56 min | Wuthering Waves Main Quest The Bygone Shall Always Return PS5 No Commentary Gameplay | pzmarquez | 21 | 2025-10-15 | <https://www.youtube.com/watch?v=plRZI-tqJ8Y> |
 
 </details>
 <!--/gen-->
@@ -590,7 +590,7 @@ One of the three longest acts in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 28 min | Dawn Breaks on Dark Tides FULL QUEST 2.7 Wuthering Waves | ZaFrostPet | ~7,555 | n/a | <https://www.youtube.com/watch?v=m7u2sfp3u8k> |
+| 2 h 28 min | Dawn Breaks on Dark Tides FULL QUEST 2.7 Wuthering Waves | ZaFrostPet | 7,555 | 2025-10-09 | <https://www.youtube.com/watch?v=m7u2sfp3u8k> |
 | 3 h 39 min | 'Dawn Breaks on Dark Tides' \| Chapter 2 Act 11 \| Wuthering Waves 2.7 | SECO | 45 | 2025-10-11 | <https://www.youtube.com/watch?v=dvSbDyxrLAY> |
 | 4 h 07 min | Wuthering Waves 2.7 Full Story Quest Walkthrough Part 2 - Ending [Act 11] | CGInferno | 6,550 | 2025-10-09 | <https://www.youtube.com/watch?v=7bSmOJcxMDY> |
 | 4 h 07 min | WuWa Main Quest Rinascita 2 Act 11 Dawn Breaks on Dark Tides Full Walkthrough \| Wuthering Waves 2.7 | Akabirama | 16,956 | 2025-10-11 | <https://www.youtube.com/watch?v=dbUo8JIsdXc> |
@@ -600,7 +600,7 @@ One of the three longest acts in the game.
 | 4 h 36 min | Wuthering Waves [Main Story] [Ver 2.7] - Dawn Breaks on Dark Tides Walkthrough [No Commentary] | Fresh and Crispy Games | 9 | 2026-06-24 | <https://www.youtube.com/watch?v=YsifZ3zyQ44> |
 | 4 h 41 min | 2.7 \|  Main Story Act - 11 \| Wuthering Waves \| Dawn Breaks on Dark Tides | Maurya Playz | 65 | 2025-10-17 | <https://www.youtube.com/watch?v=4NxX87hK4-Y> |
 | 5 h 50 min | Dawn Breaks on Dark Tides FULL QUEST Wuthering Waves 2.7 | NeoBuns | 1,326 | 2025-10-11 | <https://www.youtube.com/watch?v=I51oy83qSOY> |
-| 6 h 15 min | Wuthering Waves 2.7 Dawn Breaks on Dark Tides Full Playthrough NO COMMENTARY | DirksDgames | ~70 | n/a | <https://www.youtube.com/watch?v=gj9ao9jpSY4> |
+| 6 h 15 min | Wuthering Waves 2.7 Dawn Breaks on Dark Tides Full Playthrough NO COMMENTARY | DirksDgames | 70 | 2025-10-10 | <https://www.youtube.com/watch?v=gj9ao9jpSY4> |
 
 </details>
 <!--/gen-->
@@ -666,10 +666,10 @@ and the Error Cell it comes from is a city coming apart around its own people.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 13 min | Wuthering Waves Walkthrough Part 551 - Chapter 2 Act 12: Stagnant Dawn on Wastelands (No Commentary) | MG PlayX | ~64 | n/a | <https://www.youtube.com/watch?v=tk2ejzMYHAo> |
+| 2 h 13 min | Wuthering Waves Walkthrough Part 551 - Chapter 2 Act 12: Stagnant Dawn on Wastelands (No Commentary) | MG PlayX | 64 | 2025-11-26 | <https://www.youtube.com/watch?v=tk2ejzMYHAo> |
 | 2 h 18 min | Wuthering Waves Version 2.8 Main Story Quest (Full Quest) Stagnant Dawn of Wastelands | Streetwise Rhapsody | 24,268 | 2025-11-20 | <https://www.youtube.com/watch?v=i-R-bfOJSvE> |
 | 2 h 18 min | Wuthering Waves 2.8 "Stagnant Dawn on Wasteland" Full Main Quest | BSS Gaming | 883 | 2025-11-20 | <https://www.youtube.com/watch?v=bGskLXx1Beg> |
-| 2 h 20 min | FULL Chapter 2 Act 12 Chronorift Metropolis  \| Wuthering Waves 2.8 "Stagnant Dawn on Wastelands" | T.H Bunn | ~25 | n/a | <https://www.youtube.com/watch?v=pE7rfFfwv9o> |
+| 2 h 20 min | FULL Chapter 2 Act 12 Chronorift Metropolis  \| Wuthering Waves 2.8 "Stagnant Dawn on Wastelands" | T.H Bunn | 25 | 2025-11-20 | <https://www.youtube.com/watch?v=pE7rfFfwv9o> |
 | 2 h 20 min | STAGNANT DAWN ON WASTELANDS - Version 2.8 Act 12 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 28 | 2025-12-02 | <https://www.youtube.com/watch?v=Yrl2p1deyqs> |
 | 2 h 21 min | Wuthering Waves 2.8 - New Main Story Quest Gameplay \| Stagnant Dawn on Wastelands | Jonozoic | 72 | 2025-11-20 | <https://www.youtube.com/watch?v=DFQ36HOBZEg> |
 | 2 h 23 min | Wuthering Waves 2.8 Story - Chapter 2 Act 12: Stagnant Dawn on Wastelands (Female Rover) | QuestWatcher | 472 | 2026-01-24 | <https://www.youtube.com/watch?v=HI0cQzWTldY> |
@@ -677,7 +677,7 @@ and the Error Cell it comes from is a city coming apart around its own people.
 | 2 h 38 min | Wuthering Waves [Main Story] [Ver 2.8] - Stagnant Dawn on Wastelands Walkthrough [No Commentary] | Fresh and Crispy Games | 6 | 2026-06-27 | <https://www.youtube.com/watch?v=gduTYklgklk> |
 | 2 h 46 min | Wuthering Waves 2.8 Main Quests Chapter 2 Act 12: Stagnant Dawn on Wastelands | mwRover | 10 | 2026-02-07 | <https://www.youtube.com/watch?v=Hb1fgcy4J3w> |
 | 3 h 32 min | Wuthering Waves 2.8 Full Story Quest Walkthrough [Act 12 & Afterstory] | CGInferno | 5,383 | 2025-11-20 | <https://www.youtube.com/watch?v=y_3zeCZBCsI> |
-| 3 h 33 min | Main Story Quest (Full Quest) Stagnant Dawn of Wastelands \| Wuthering Waves Version 2.8 | Lotus Ch. | ~129 | n/a | <https://www.youtube.com/watch?v=o8L6aiOrjlU> |
+| 3 h 33 min | Main Story Quest (Full Quest) Stagnant Dawn of Wastelands \| Wuthering Waves Version 2.8 | Lotus Ch. | 129 | 2025-11-21 | <https://www.youtube.com/watch?v=o8L6aiOrjlU> |
 | 3 h 37 min | Wuthering Waves 2.8 Chisa Story - Chapter 2 Act 12 & Segue Playthrough | ItsDaveTV Plays and ItsDaveTV | 73 | 2025-11-20 | <https://www.youtube.com/watch?v=baVW-7aUFiI> |
 | 3 h 55 min | Wuthering Waves 2.8 Main Quest - "Chronorift Metropolis" Act 12 & Segue [JP Dub] \| No Commentary | Mikiyuki | 184 | 2025-11-20 | <https://www.youtube.com/watch?v=TyAH9O_EL-M> |
 
@@ -712,7 +712,7 @@ a cafe to redecorate, and a party that everyone is late for.
 | 1 h 12 min | [Wuthering Waves Main Quest] Flowing Starlight In The Iris: Take A Stroll With Chisa | Authrone | 367 | 2025-11-20 | <https://www.youtube.com/watch?v=2z-PemtTRgM> |
 | 1 h 15 min | Flowing Starlight In The Iris - Main Story Quest Version 2.8 ( Full Gameplay ) \| Wuthering Waves  | DIABLO PLAY'S  | 5 | 2025-11-22 | <https://www.youtube.com/watch?v=KCLSQm1biRU> |
 | 1 h 15 min | Wuthering Waves 2.8 Story - Chapter 2 Chisa Segue: Flowing Starlight in the Iris (Male Rover) | QuestWatcher | 18 | 2026-06-19 | <https://www.youtube.com/watch?v=yArt8ckBOvw> |
-| 1 h 17 min | Wuthering Waves Segue Quest \| Flowing Starlight in the Iris \| No Commentary | Ciamiko | ~11 | n/a | <https://www.youtube.com/watch?v=qcOAh_D5WC8> |
+| 1 h 17 min | Wuthering Waves Segue Quest \| Flowing Starlight in the Iris \| No Commentary | Ciamiko | 11 | 2026-01-18 | <https://www.youtube.com/watch?v=qcOAh_D5WC8> |
 | 1 h 26 min | Peaceful Quiet \| Wuthering Waves [Flowing Starlight in the Iris] Full Quest | FervidTwo Gaming | 15 | 2026-07-05 | <https://www.youtube.com/watch?v=E5QEPmWetHY> |
 
 </details>
