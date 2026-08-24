@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.4 | **Entries:** 5 | **Estimated chapter length: 27 h 43 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.4 | **Entries:** 5 | **Estimated chapter length: 27 h 47 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -17,12 +17,12 @@ and Elation turns out to have a bill attached.
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Welcome to Arcadia | 8 h 01 min | 4 h 40 min - 9 h 51 min | 7 | low |
 | Mission 2 | Unraveled for Daybreak | 6 h 31 min | 5 h 56 min - 6 h 51 min | 10 | high |
-| Mission 3 | So Laughed the Masses | 4 h 36 min | 4 h 10 min - 4 h 50 min | 11 | high |
+| Mission 3 | So Laughed the Masses | 4 h 40 min | 4 h 13 min - 5 h 01 min | 12 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->27 h 43 min<!--/f-->**
+**Total: <!--f:total-->27 h 47 min<!--/f-->**
 
 ## Pacing
 
@@ -120,12 +120,12 @@ handing out the freedom of Elation
 and the chains that come with it.
 <!--gen:stats act="Mission 3"-->
 
-- **Estimated length:** 4 h 36 min
-- **Sampled range:** 4 h 10 min to 4 h 50 min for the middle half (full spread 3 h 34 min to 5 h 17 min) across 11 playthrough uploads (29 further candidates screened out)
+- **Estimated length:** 4 h 40 min
+- **Sampled range:** 4 h 13 min to 5 h 01 min for the middle half (full spread 3 h 34 min to 5 h 27 min) across 12 playthrough uploads (28 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 - **Quest parts (13):** Philosophy of the Tourist; In the Shadow of the Millennium; A Superhero Caught in a Moral Dilemma; If We Spoke in Laughter; Howls, White Noise, or What You Feel; A Resounding Gong or a Clashing Cymbal; Mass Deaths and Detective Fiction; Postmodern Imagenesis; Metaphors We Live By; Serotonin Exposure Phobia; The Generative Grammar of Liquid Modernity; Happiness, or a Fatal Ailment; Arcadia Revisited
 <!--/gen-->
 
@@ -146,6 +146,7 @@ and the chains that come with it.
 | 4 h 50 min | Honkai Star Rail 4.2 - New Main Story Quest \| So Laughed the Masses | Jonozoic | 221 | 2026-04-23 | <https://www.youtube.com/watch?v=ZQkfl7BGvOw> |
 | 5 h 04 min | Honkai Star Rail 4.2 Trailblaze Mission - So Laughed the Masses | Omega197 | 39 | 2026-05-10 | <https://www.youtube.com/watch?v=R0NSPoQRoWE> |
 | 5 h 17 min | HONKAI STAR RAIL 4.2 FULL Story Quest - So Laughed the Masses [No Commentary \| JP Dub \| 4K 60FPS] | AJ's Gaming Lyfe | ~34 | n/a | <https://www.youtube.com/watch?v=djiAyQKCzcw> |
+| 5 h 27 min | 『Honkai Star Rail』4.2 ''So Laughed the Masses'' ❂ New Story Quest Full Walkthrough (HSR 4.2) | HEUBIOUS | ~151 | n/a | <https://www.youtube.com/watch?v=TwtWofYSIlg> |
 
 </details>
 <!--/gen-->

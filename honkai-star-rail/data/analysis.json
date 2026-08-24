@@ -3186,9 +3186,7 @@
     "uploader": "Fleon",
     "url": "https://www.youtube.com/watch?v=JKKm7IbD3dQ",
     "views": "31",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 1996,
@@ -3285,19 +3283,27 @@
     "views": 12563,
     "rejected": [],
     "upload_date": "20240510"
+   },
+   {
+    "seconds": 33954,
+    "title": "[Honkai: Star Rail] Ver. 2.2 - Main story 'In our time' [JP Dub|No commentary|Ultrawide]",
+    "uploader": "Fleon",
+    "url": "https://www.youtube.com/watch?v=JKKm7IbD3dQ",
+    "views": "31",
+    "rejected": []
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 466,
+   "n": 8,
+   "median": 471,
    "low": 317,
-   "high": 542,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 460,
+   "high": 566,
+   "q1": 437,
+   "q3": 538,
+   "trimmed_mean": 473,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.011
   }
  },
  {
@@ -7808,9 +7814,7 @@
     "uploader": "HEUBIOUS",
     "url": "https://www.youtube.com/watch?v=TwtWofYSIlg",
     "views": "151",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 15782,
@@ -8210,19 +8214,27 @@
     "url": "https://www.youtube.com/watch?v=djiAyQKCzcw",
     "views": "34",
     "rejected": []
+   },
+   {
+    "seconds": 19591,
+    "title": "\u300eHonkai Star Rail\u300f4.2 ''So Laughed the Masses'' \u2742 New Story Quest Full Walkthrough (HSR 4.2)",
+    "uploader": "HEUBIOUS",
+    "url": "https://www.youtube.com/watch?v=TwtWofYSIlg",
+    "views": "151",
+    "rejected": []
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 276,
+   "n": 12,
+   "median": 280,
    "low": 214,
-   "high": 317,
-   "q1": 250,
-   "q3": 290,
-   "trimmed_mean": 272,
+   "high": 327,
+   "q1": 253,
+   "q3": 301,
+   "trimmed_mean": 276,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.014
   }
  },
  {

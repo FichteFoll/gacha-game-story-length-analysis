@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Penacony
 
-**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 22 h 48 min**
+**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 22 h 53 min**
 <!--/gen-->
 
 A hedonistic dream resort throws a Charmony Festival,
@@ -16,12 +16,12 @@ on the Watchmaker's legacy.
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | The Sound and the Fury | 4 h 32 min | 3 h 42 min - 5 h 25 min | 8 | medium |
 | Mission 2 | Cat Among Pigeons | 5 h 26 min | 5 h 00 min - 6 h 08 min | 9 | high |
-| Mission 3 | In Our Time | 7 h 46 min | 5 h 17 min - 9 h 02 min | 7 | low |
+| Mission 3 | In Our Time | 7 h 51 min | 7 h 17 min - 8 h 58 min | 8 | high |
 | Mission 4 | Farewell, Penacony | 2 h 43 min | 2 h 29 min - 3 h 00 min | 10 | high |
 | Mission 5 | A New Venture on the Eighth Dawn | 2 h 21 min | 2 h 16 min - 2 h 28 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->22 h 48 min<!--/f-->**
+**Total: <!--f:total-->22 h 53 min<!--/f-->**
 
 ## Pacing
 
@@ -29,7 +29,7 @@ Where the questline changes scale.
 <!--f:n_above_3h-->three<!--/f--> of Penacony's <!--f:n_entries-->five<!--/f--> missions run past three hours,
 where before it only Jarilo-VI and the Luofu
 had one at all,
-and *<!--f:longest_title-->In Our Time<!--/f-->* alone takes <!--f:longest_len-->7 h 46 min<!--/f-->.
+and *<!--f:longest_title-->In Our Time<!--/f-->* alone takes <!--f:longest_len-->7 h 51 min<!--/f-->.
 The last two missions are the wind-down,
 at <!--f:len_Mission_4-->2 h 43 min<!--/f--> and <!--f:len_Mission_5-->2 h 21 min<!--/f-->.
 
@@ -123,13 +123,13 @@ that keeps pulling everyone back into the past.
 <!--gen:stats act="Mission 3"-->
 One of the three longest missions in the game.
 
-- **Estimated length:** 7 h 46 min
-- **Sampled range:** 5 h 17 min to 9 h 02 min across 7 playthrough uploads (22 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 7 h 51 min
+- **Sampled range:** 7 h 17 min to 8 h 58 min for the middle half (full spread 5 h 17 min to 9 h 26 min) across 8 playthrough uploads (21 further candidates screened out)
+- **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.2
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 7 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (12):** The Great Train Robbery; The Fool Always Rings Twice; Small Town Grotesque; The Public Enemy; Bullet & Brain; The Only Path to Tomorrow; Seabiscuit; Beauty and Destruction; Then Wake to Weep; Everything that Rises Must Converge; The Sun Also Rises; And on the Eighth Day
 <!--/gen-->
 
@@ -146,6 +146,7 @@ One of the three longest missions in the game.
 | 7 h 56 min | In Our Time - Version 2.2 Story Quest (Trailblaze Mission) Honkai Star Rail | Streetwise Rhapsody | 22,097 | 2024-05-09 | <https://www.youtube.com/watch?v=Hq9_odDfWS0> |
 | 8 h 49 min | New Penacony Story Quest Walkthrough Part 1:"In Our Time and on the Eighth Day" Honkai Star Rail 2.2 | HallowPmeister | 45 | 2024-05-11 | <https://www.youtube.com/watch?v=QVxMzZU_5yA> |
 | 9 h 02 min | Honkai Star Rail - Chapter 3 Part 3: In Our Time \| Penacony \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | 12,563 | 2024-05-10 | <https://www.youtube.com/watch?v=9NVZg3v9D-k> |
+| 9 h 26 min | [Honkai: Star Rail] Ver. 2.2 - Main story 'In our time' [JP Dub\|No commentary\|Ultrawide] | Fleon | ~31 | n/a | <https://www.youtube.com/watch?v=JKKm7IbD3dQ> |
 
 </details>
 <!--/gen-->

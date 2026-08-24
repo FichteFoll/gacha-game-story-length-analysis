@@ -118,7 +118,7 @@ def compilation_re(workdir, acts):
     """
     units = unit_pattern(acts)
     patterns = [
-        rf"all {units}",
+        rf"all (?:{units})",
         rf"(?:full|entire|complete|whole) (?:{container_pattern(acts)})s?\b",
         rf"(?:{units}) \d+ ?(?:&|and|\+|,) ?\d+",
         rf"(?:{units}) [ivx]+ ?(?:&|and|\+|,) ?[ivx]+",
@@ -217,7 +217,15 @@ def bundle_re(acts):
 
 
 def title_words(text):
-    return [w for w in re.findall(r"[a-z']+", text.lower())
+    """The words a title is matched on, apostrophes and all their spellings gone.
+
+    A quest called "The Nethermancer's Requiem" is uploaded as "Nethermancer's",
+    "Nethermancer’s" and "Nethermancers" in roughly equal measure, and a word
+    that differs from the act's only in its apostrophe would otherwise count for
+    nothing, which is enough to fail the match ratio on a two-word title.
+    """
+    text = text.lower().replace("’", "'").replace("ʼ", "'")
+    return [w.replace("'", "") for w in re.findall(r"[a-z']+", text)
             if w not in STOPWORDS and len(w) > 2]
 
 

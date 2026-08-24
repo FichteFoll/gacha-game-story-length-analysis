@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->118 h 21 min<!--/f-->** (<!--f:n_report_entries-->24<!--/f--> entries counting missions, measured against <!--f:n_videos-->240<!--/f--> accepted uploads out of <!--f:n_candidates-->652<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->118 h 30 min<!--/f-->** (<!--f:n_report_entries-->24<!--/f--> entries counting missions, measured against <!--f:n_videos-->242<!--/f--> accepted uploads out of <!--f:n_candidates-->652<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -15,9 +15,9 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | Herta Space Station | Herta Space Station | 1.0 | 1 | 2 h 19 min | [00-herta-space-station.md](00-herta-space-station.md) |
 | Jarilo-VI | Jarilo-VI: Belobog and the Underworld | 1.0 | 2 | 6 h 32 min | [01-jarilo-vi.md](01-jarilo-vi.md) |
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 45 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
-| Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 22 h 48 min | [03-penacony.md](03-penacony.md) |
+| Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 22 h 53 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 14 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.4 | 5 | 27 h 43 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.4 | 5 | 27 h 47 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->
@@ -27,7 +27,7 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | --- | --- | --- |
 | longest | Amphoreus, Mission 1: Heroic Saga of Flame-Chase | 8 h 20 min |
 | longest | Planarcadia, Mission 1: Welcome to Arcadia | 8 h 01 min |
-| longest | Penacony, Mission 3: In Our Time | 7 h 46 min |
+| longest | Penacony, Mission 3: In Our Time | 7 h 51 min |
 | longest | Amphoreus, Mission 3: Through the Petals in the Land of Repose | 7 h 40 min |
 | longest | Amphoreus, Mission 4: The Fall at Dawn's Rise | 7 h 20 min |
 | shortest | The Xianzhou Luofu, Mission 3: Karmic Clouds Faded, War Banners Folded | 1 h 16 min |

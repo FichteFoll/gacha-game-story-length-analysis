@@ -3130,19 +3130,22 @@
     "upload_date": "20220330"
    },
    {
-    "seconds": 5796,
+    "seconds": 6606,
     "title": "Requiem of the Echoing Depths Genshin Impact (Chapter 2 Act 4)",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=NYKhNYs6bk0",
     "views": 83246,
-    "rejected": [],
+    "rejected": [
+     "long-outlier"
+    ],
     "upload_date": "20220330",
     "runtime": 6606,
     "measured": "chapter-markers",
     "parts": {
      "In the Depths, an Unexpected Reunion": 3768,
      "The Grave of the Guarded": 1267,
-     "Memories of Inteyvat": 761
+     "Memories of Inteyvat": 761,
+     "The Black Serpent Knights' Glory": 810
     }
    },
    {
@@ -3253,33 +3256,17 @@
     "views": 28,
     "rejected": [],
     "upload_date": "20220402"
-   },
-   {
-    "seconds": 5796,
-    "title": "Requiem of the Echoing Depths Genshin Impact (Chapter 2 Act 4)",
-    "uploader": "WoW Quests",
-    "url": "https://www.youtube.com/watch?v=NYKhNYs6bk0",
-    "views": 83246,
-    "rejected": [],
-    "upload_date": "20220330",
-    "runtime": 6606,
-    "measured": "chapter-markers",
-    "parts": {
-     "In the Depths, an Unexpected Reunion": 3768,
-     "The Grave of the Guarded": 1267,
-     "Memories of Inteyvat": 761
-    }
    }
   ],
   "stats": {
-   "n": 10,
+   "n": 9,
    "median": 58,
    "low": 42,
-   "high": 97,
+   "high": 62,
    "q1": 49,
-   "q3": 60,
-   "trimmed_mean": 56,
-   "measured": 1,
+   "q3": 59,
+   "trimmed_mean": 54,
+   "measured": 0,
    "parts": {},
    "drift": 0.0
   }

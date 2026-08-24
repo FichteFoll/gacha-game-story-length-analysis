@@ -19,7 +19,7 @@ and confronts the Raiden Shogun over what eternity costs her people.
 | Act I | The Immovable God and the Eternal Euthymia | 2 h 55 min | 2 h 40 min - 3 h 08 min | 11 | high |
 | Act II | Stillness, the Sublimation of Shadow | 50 min | 45 min - 57 min | 11 | medium |
 | Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 57 min - 2 h 29 min | 9 | medium |
-| Act IV | Requiem of the Echoing Depths | 58 min | 49 min - 1 h 00 min | 10 | high |
+| Act IV | Requiem of the Echoing Depths | 58 min | 49 min - 59 min | 9 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->8 h 12 min<!--/f-->**
@@ -201,12 +201,11 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 <!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 58 min
-- **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 42 min to 1 h 37 min) across 10 playthrough uploads (1 further candidate screened out)
+- **Sampled range:** 49 min to 59 min for the middle half (full spread 42 min to 1 h 02 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6
 - **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** In the Depths, an Unexpected Reunion; The Grave of the Guarded; Memories of Inteyvat; The Black Serpent Knights' Glory
 <!--/gen-->
 
@@ -225,7 +224,6 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 | 58 min | Archon Quest Chapter 2: Act 4 “Requiem of the Echoing Depths” \| 【Genshin Impact】 | LyurGG | 406,930 | 2022-03-30 | <https://www.youtube.com/watch?v=aTxviUjwnaY> |
 | 59 min | Genshin Impact -   Requiem Of The Echoing Depths  \|\| FULL GAMEPLAY \|\| CHAPTER II ACT IV + PART 1 | Plusnotminus | 19 | 2022-03-31 | <https://www.youtube.com/watch?v=8oa4ywZyiOg> |
 | 1 h 02 min | The Chasm Archon Quest \| Requiem of the Echoing Depths \| Chapter 2 : Act 4 \| Genshin Impact | ArchitSenpai | 28 | 2022-04-02 | <https://www.youtube.com/watch?v=AhT65ZX4Y3U> |
-| 1 h 37 min | Requiem of the Echoing Depths Genshin Impact (Chapter 2 Act 4) | WoW Quests | 83,246 | 2022-03-30 | <https://www.youtube.com/watch?v=NYKhNYs6bk0> |
 
 </details>
 <!--/gen-->
