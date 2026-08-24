@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Xianzhou Luofu
 
-**Region:** The Xianzhou Luofu | **Game versions:** 1.0 - 1.3 | **Entries:** 3 | **Estimated chapter length: 6 h 37 min**
+**Region:** The Xianzhou Luofu | **Game versions:** 1.0 - 1.3 | **Entries:** 3 | **Estimated chapter length: 6 h 45 min**
 <!--/gen-->
 
 A generation ship of immortals with a Stellaron in its hold
@@ -14,17 +14,17 @@ and it takes all three missions for that reason to surface.
 <!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Mission 1 | Windswept Wanderlust | 3 h 21 min | 2 h 31 min - 4 h 17 min | 9 | low |
+| Mission 1 | Windswept Wanderlust | 3 h 29 min | 2 h 42 min - 4 h 26 min | 8 | low |
 | Mission 2 | Topclouded Towerthrust | 2 h 00 min | 1 h 44 min - 2 h 21 min | 10 | medium |
 | Mission 3 | Karmic Clouds Faded, War Banners Folded | 1 h 16 min | 57 min - 1 h 22 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->6 h 37 min<!--/f-->**
+**Total: <!--f:total-->6 h 45 min<!--/f-->**
 
 ## Pacing
 
 A long opening mission and then a steep taper:
-<!--f:len_Mission_1-->3 h 21 min<!--/f-->, <!--f:len_Mission_2-->2 h 00 min<!--/f-->, <!--f:len_Mission_3-->1 h 16 min<!--/f-->.
+<!--f:len_Mission_1-->3 h 29 min<!--/f-->, <!--f:len_Mission_2-->2 h 00 min<!--/f-->, <!--f:len_Mission_3-->1 h 16 min<!--/f-->.
 The Luofu was released over four versions rather than in one drop,
 and the last mission is an epilogue of
 <!--f:parts_Mission_3-->one<!--/f--> quest part,
@@ -42,13 +42,13 @@ and a stirring Ambrosial Arbor
 all point at the same buried problem.
 <!--gen:stats act="Mission 1"-->
 
-- **Estimated length:** 3 h 21 min
-- **Sampled range:** 2 h 31 min to 4 h 17 min for the middle half (full spread 2 h 18 min to 4 h 56 min) across 9 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 3 h 29 min
+- **Sampled range:** 2 h 42 min to 4 h 26 min for the middle half (full spread 2 h 18 min to 4 h 56 min) across 8 playthrough uploads (20 further candidates screened out)
 - **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +30% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 9 uploads
+- **Stability:** median +36% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (11):** An Invitation Without Proffer; Amidst the Mara-Struck; Devising Stratagems; Scattered Memories of Hooded Past; The Hound Chases the Fox; Stars Spun, Prescience Sprung; New Friends Bring New Joy; Omniscient Inquiry of Arcana; Wood Sprouts Anew, Fate Tilts Askew; Tranquil Amidst Turmoil; Humming Antlers, Entwined Horns
 <!--/gen-->
 
@@ -59,7 +59,6 @@ all point at the same buried problem.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 18 min | "Windswept Wanderlust" - Trouble in the Xianzhou Luofu (ENG Dub) \| Honkai Star Rai | TriMori | 3,572 | 2023-05-12 | <https://www.youtube.com/watch?v=kGTjX6bL7Mo> |
-| 2 h 29 min | "Windswept Wanderlust" - An unexpected journey to the Xianzhou Luofu (ENG Dub) \| Honkai Star Rail | TriMori | ~4,912 | n/a | <https://www.youtube.com/watch?v=X6Va8ab-ouw> |
 | 2 h 34 min | Windswept Wanderlust Part 2 - Trailblaze Mission #4 \| Honkai: Star Rail | Kallysta | ~523 | n/a | <https://www.youtube.com/watch?v=xHwyuk7_v4Y> |
 | 3 h 06 min | The Full Story of the Xianzhou Luofu (Version 1.0-1.3 Trailblaze Missions) \| Honkai: Star Rail | StarChases | 1,529 | 2023-10-07 | <https://www.youtube.com/watch?v=7yAFBeQCWJ0> |
 | 3 h 21 min | Windswept Wanderlust The Xianzhou Luofu Trailblaze Mission _ Honkai: Star Rail | Gouse Gaming Gallery | ~43 | n/a | <https://www.youtube.com/watch?v=-Zuk1HHGlwo> |

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Penacony
 
-**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 22 h 46 min**
+**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 22 h 48 min**
 <!--/gen-->
 
 A hedonistic dream resort throws a Charmony Festival,
@@ -14,14 +14,14 @@ on the Watchmaker's legacy.
 <!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Mission 1 | The Sound and the Fury | 4 h 28 min | 3 h 53 min - 5 h 17 min | 9 | medium |
-| Mission 2 | Cat Among Pigeons | 5 h 26 min | 5 h 02 min - 6 h 06 min | 10 | high |
+| Mission 1 | The Sound and the Fury | 4 h 32 min | 3 h 42 min - 5 h 25 min | 8 | medium |
+| Mission 2 | Cat Among Pigeons | 5 h 26 min | 5 h 00 min - 6 h 08 min | 9 | high |
 | Mission 3 | In Our Time | 7 h 46 min | 5 h 17 min - 9 h 02 min | 7 | low |
-| Mission 4 | Farewell, Penacony | 2 h 45 min | 2 h 34 min - 3 h 17 min | 11 | medium |
+| Mission 4 | Farewell, Penacony | 2 h 43 min | 2 h 29 min - 3 h 00 min | 10 | high |
 | Mission 5 | A New Venture on the Eighth Dawn | 2 h 21 min | 2 h 16 min - 2 h 28 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->22 h 46 min<!--/f-->**
+**Total: <!--f:total-->22 h 48 min<!--/f-->**
 
 ## Pacing
 
@@ -31,7 +31,7 @@ where before it only Jarilo-VI and the Luofu
 had one at all,
 and *<!--f:longest_title-->In Our Time<!--/f-->* alone takes <!--f:longest_len-->7 h 46 min<!--/f-->.
 The last two missions are the wind-down,
-at <!--f:len_Mission_4-->2 h 45 min<!--/f--> and <!--f:len_Mission_5-->2 h 21 min<!--/f-->.
+at <!--f:len_Mission_4-->2 h 43 min<!--/f--> and <!--f:len_Mission_5-->2 h 21 min<!--/f-->.
 
 ## Missions
 
@@ -45,13 +45,13 @@ hosts and Family,
 ending on a murder that cannot have happened.
 <!--gen:stats act="Mission 1"-->
 
-- **Estimated length:** 4 h 28 min
-- **Sampled range:** 3 h 53 min to 5 h 17 min for the middle half (full spread 2 h 30 min to 5 h 45 min) across 9 playthrough uploads (13 further candidates screened out)
+- **Estimated length:** 4 h 32 min
+- **Sampled range:** 3 h 42 min to 5 h 25 min for the middle half (full spread 2 h 30 min to 5 h 45 min) across 8 playthrough uploads (14 further candidates screened out)
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 9 uploads
+- **Stability:** median +2% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (11):** Long Day's Journey Into Night; The Knocking at Ungodly Hours; The Youths Who Chase Dreams; Sleepless Night; Tales from the Golden Age; Good Omen, My Friend; Lullaby of the North Wind; Gentleness, the Name of Nocturne; Through a Glass Darkly; Should One Awaken at Midnight; Whodunit
 <!--/gen-->
 
@@ -64,7 +64,6 @@ ending on a murder that cannot have happened.
 | 2 h 30 min | The Sound and the Fury Honkai Star Rail | WoW Quests | ~6,241 | n/a | <https://www.youtube.com/watch?v=vH39cS6m_zk> |
 | 3 h 31 min | 【HSR】The Sound and the Fury Quest [VOD] | Hiruha VODS | 3 | 2025-02-26 | <https://www.youtube.com/watch?v=DB3czLK4BWI> |
 | 4 h 15 min | Full Penacony Trailblaze Quest - Honkai Star Rail | Fayato | 47,450 | 2025-12-18 | <https://www.youtube.com/watch?v=8zWNmXWT9I4> |
-| 4 h 15 min | Full Penacony Trailblaze Quest - Honkai Star Rail ( OUTDATED ) | Fayato | 193,487 | 2024-06-19 | <https://www.youtube.com/watch?v=x1N8KzBTzHM> |
 | 4 h 28 min | Penacony 2.0 Trailblaze Mission (Full Story Quest) The Sound and the Fury \| Honkai Star Rail | Streetwise Rhapsody | 28,837 | 2024-02-06 | <https://www.youtube.com/watch?v=RdsGjvwZlII> |
 | 4 h 35 min | [Honkai: Star Rail] penacony trailblaze mission: the sound and the fury (2/6/2024) | Koga Hibino Ch.🩸 | ~19 | n/a | <https://www.youtube.com/watch?v=ZDv-PZ1y1nk> |
 | 5 h 01 min | Honkai: Star Rail - Chapter 3: Penacony: The Sound and Fury (Part 1) Gameplay | RosalynXenobiaGames | 13 | 2025-05-15 | <https://www.youtube.com/watch?v=Q54sRVdO8pU> |
@@ -85,12 +84,12 @@ the mystery of the Watchmaker.
 <!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 5 h 26 min
-- **Sampled range:** 5 h 02 min to 6 h 06 min for the middle half (full spread 4 h 17 min to 6 h 13 min) across 10 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 5 h 00 min to 6 h 08 min for the middle half (full spread 4 h 17 min to 6 h 13 min) across 9 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.1
 - **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 10 uploads
+- **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (9):** The Devil in Velvet; Lost Generation; Double Indemnity; When the Sacred Ginmill Closes; Heaven is a Place on Earth; Why Do the Heathen Rage?; The Tell-Tale Heart; All the Sad Tales; A Walk Among the Tombstones
 <!--/gen-->
 
@@ -105,7 +104,6 @@ the mystery of the Watchmaker.
 | 5 h 05 min | Penacony Trailblaze Mission: Cat Among Pigeons \| Honkai: Star Rail Version 2.1 | TriMori | 2,560 | 2024-03-29 | <https://www.youtube.com/watch?v=JSd07xV_7SQ> |
 | 5 h 14 min | Cat Among Pigeons - Version 2.1 Story Quest (Trailblaze Mission) Honkai Star Rail | Streetwise Rhapsody | 21,743 | 2024-03-27 | <https://www.youtube.com/watch?v=I59cnz5lTVk> |
 | 5 h 26 min | Full Penacony Trailblaze Quest - Honkai Star Rail | Fayato | 47,450 | 2025-12-18 | <https://www.youtube.com/watch?v=8zWNmXWT9I4> |
-| 5 h 26 min | Full Penacony Trailblaze Quest - Honkai Star Rail ( OUTDATED ) | Fayato | 193,487 | 2024-06-19 | <https://www.youtube.com/watch?v=x1N8KzBTzHM> |
 | 6 h 00 min | Cats Among Pigeons \| Honkai Star Rail 2.1 (Full Playthrough) | HaloMillennium | ~664 | n/a | <https://www.youtube.com/watch?v=XVslTfSfYjM> |
 | 6 h 05 min | (JP Dub - EN Sub) Cat Among Pigeons \| Honkai: Star Rail | AndhraZX | ~66 | n/a | <https://www.youtube.com/watch?v=oj-SOy8k3k8> |
 | 6 h 10 min | Honkai Star Rail - Chapter 3 Part 2: Cat Among Pigeons \| Penacony \| Full Story JP Dub EN Sub 4K | Gudaoko | 9,044 | 2024-03-29 | <https://www.youtube.com/watch?v=a9Xzht0Znuk> |
@@ -161,13 +159,13 @@ the Family's accounts settled,
 and everyone heading for their next stop.
 <!--gen:stats act="Mission 4"-->
 
-- **Estimated length:** 2 h 45 min
-- **Sampled range:** 2 h 34 min to 3 h 17 min for the middle half (full spread 2 h 15 min to 3 h 49 min) across 11 playthrough uploads (9 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 43 min
+- **Sampled range:** 2 h 29 min to 3 h 00 min for the middle half (full spread 2 h 15 min to 3 h 49 min) across 10 playthrough uploads (10 further candidates screened out)
+- **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.3
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 11 uploads
+- **Stability:** median -1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (7):** Unconquered; All About Eve; Rivers Run Without Return; Life is But a Drifting Dream; Soldier's Pay; A Thousand Bells at Dawn; Stranger in a Strange Land
 <!--/gen-->
 
@@ -186,7 +184,6 @@ and everyone heading for their next stop.
 | 2 h 48 min | Farewell......Penacony I Honkai star rail Penacony Trailblaze Mission 2.3 Full walkthrough | Junjunyt | 59 | 2024-06-25 | <https://www.youtube.com/watch?v=C4cRw2rkFFI> |
 | 2 h 55 min | Honkai Star Rail: Farewell, Penacony Playthrough \| No Commentary | Lomii | ~19 | n/a | <https://www.youtube.com/watch?v=PkNfSv227Xc> |
 | 3 h 17 min | Honkai Star Rail 2.3 - Farewell Penacony \| Trailblaze Mission | MaL AnimsGaming | 24 | 2025-09-06 | <https://www.youtube.com/watch?v=7LiKfYSr6mc> |
-| 3 h 33 min | Full 2.3 Main Quest "Farewell Penacony" & Doing Divergence Universe in Honkai Star Rail | XRicWarX | ~24 | n/a | <https://www.youtube.com/watch?v=WX3YYbeWs6Y> |
 | 3 h 49 min | Full 2.3 Main Quest "Farewell Penacony" & Doing Divergence Universe in Honkai Star Rail | XRicWarX | 40 | 2024-06-20 | <https://www.youtube.com/watch?v=yqNowvlmc3M> |
 
 </details>

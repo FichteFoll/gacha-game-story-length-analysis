@@ -1291,7 +1291,9 @@
     "uploader": "TriMori",
     "url": "https://www.youtube.com/watch?v=X6Va8ab-ouw",
     "views": "4912",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 8287,
@@ -1479,14 +1481,6 @@
     "upload_date": "20230512"
    },
    {
-    "seconds": 8919,
-    "title": "\"Windswept Wanderlust\" - An unexpected journey to the Xianzhou Luofu (ENG Dub) | Honkai Star Rail",
-    "uploader": "TriMori",
-    "url": "https://www.youtube.com/watch?v=X6Va8ab-ouw",
-    "views": "4912",
-    "rejected": []
-   },
-   {
     "seconds": 9212,
     "title": "Windswept Wanderlust Part 2 - Trailblaze Mission #4 | Honkai: Star Rail",
     "uploader": "Kallysta",
@@ -1561,16 +1555,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 201,
+   "n": 8,
+   "median": 209,
    "low": 138,
    "high": 296,
-   "q1": 151,
-   "q3": 257,
-   "trimmed_mean": 206,
+   "q1": 162,
+   "q3": 266,
+   "trimmed_mean": 213,
    "measured": 1,
    "parts": {},
-   "drift": 0.305
+   "drift": 0.357
   }
  },
  {
@@ -2411,7 +2405,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=x1N8KzBTzHM",
     "views": 193487,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20240619",
     "runtime": 72036,
     "measured": "chapter-markers",
@@ -2456,18 +2452,6 @@
     "rejected": [],
     "upload_date": "20251218",
     "runtime": 100007,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
-   {
-    "seconds": 15295,
-    "title": "Full Penacony Trailblaze Quest - Honkai Star Rail ( OUTDATED )",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=x1N8KzBTzHM",
-    "views": 193487,
-    "rejected": [],
-    "upload_date": "20240619",
-    "runtime": 72036,
     "measured": "chapter-markers",
     "parts": {}
    },
@@ -2530,16 +2514,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 268,
+   "n": 8,
+   "median": 272,
    "low": 150,
    "high": 345,
-   "q1": 233,
-   "q3": 317,
-   "trimmed_mean": 266,
-   "measured": 3,
+   "q1": 222,
+   "q3": 325,
+   "trimmed_mean": 267,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.015
   }
  },
  {
@@ -2605,7 +2589,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=x1N8KzBTzHM",
     "views": 193487,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20240619",
     "runtime": 72036,
     "measured": "chapter-markers",
@@ -2871,18 +2857,6 @@
     "parts": {}
    },
    {
-    "seconds": 19530,
-    "title": "Full Penacony Trailblaze Quest - Honkai Star Rail ( OUTDATED )",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=x1N8KzBTzHM",
-    "views": 193487,
-    "rejected": [],
-    "upload_date": "20240619",
-    "runtime": 72036,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
-   {
     "seconds": 21628,
     "title": "Cats Among Pigeons | Honkai Star Rail 2.1 (Full Playthrough)",
     "uploader": "HaloMillennium",
@@ -2931,14 +2905,14 @@
    }
   ],
   "stats": {
-   "n": 10,
+   "n": 9,
    "median": 326,
    "low": 257,
    "high": 373,
-   "q1": 302,
-   "q3": 366,
-   "trimmed_mean": 332,
-   "measured": 4,
+   "q1": 300,
+   "q3": 368,
+   "trimmed_mean": 329,
+   "measured": 3,
    "parts": {},
    "drift": 0.0
   }
@@ -3457,7 +3431,9 @@
     "uploader": "XRicWarX",
     "url": "https://www.youtube.com/watch?v=WX3YYbeWs6Y",
     "views": "24",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 8099,
@@ -3610,14 +3586,6 @@
     "upload_date": "20250906"
    },
    {
-    "seconds": 12767,
-    "title": "Full 2.3 Main Quest \"Farewell Penacony\" & Doing Divergence Universe in Honkai Star Rail",
-    "uploader": "XRicWarX",
-    "url": "https://www.youtube.com/watch?v=WX3YYbeWs6Y",
-    "views": "24",
-    "rejected": []
-   },
-   {
     "seconds": 13738,
     "title": "Full 2.3 Main Quest \"Farewell Penacony\" & Doing Divergence Universe in Honkai Star Rail",
     "uploader": "XRicWarX",
@@ -3631,16 +3599,16 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 165,
+   "n": 10,
+   "median": 163,
    "low": 135,
    "high": 229,
-   "q1": 154,
-   "q3": 197,
-   "trimmed_mean": 169,
+   "q1": 149,
+   "q3": 180,
+   "trimmed_mean": 164,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.012
   }
  },
  {
