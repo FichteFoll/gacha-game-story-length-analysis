@@ -44,6 +44,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/chapter_keys.json   words that identify each chapter in a title
 <report>/data/act_keys.json       marks that tell two same-named acts apart
 <report>/data/query_templates.txt the YouTube searches to run per act
+<report>/data/not_playthrough.txt phrasings for footage that is not the questline
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
 <report>/data/partials.txt       phrasings for less than one act, if the game has any
 <report>/report.py                the game's configuration and structure
@@ -231,6 +232,9 @@ Discard, by title:
 - **not a playthrough**: cutscene reels, cinematic edits, lore explainers,
   guides, reactions, soundtrack rips.
   A cutscene compilation of a four-hour act runs 40 minutes and would wreck the median.
+  The shared list covers what every pool carries;
+  a phrasing peculiar to this game ("exploration only", "VOD")
+  goes in `<workdir>/not_playthrough.txt`.
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
 - **multi-act compilations**: "Acts 9 & 10", "Full Sumeru Archon Quest", "all acts".
   The unit ("act", "episode") comes from the act labels,
@@ -242,6 +246,9 @@ Discard, by title:
   goes in `<workdir>/compilations.txt`.
   Careful: "Full Archon Quest" on its own is the normal phrasing
   for one complete act, not a compilation. Do not filter it.
+  A title that pins exactly one act by the unit and a numeral
+  ("FULL Chapter 2 - Process 3") is that act however it words its scope,
+  so the scope words are overruled rather than the other way round.
   A compilation whose chapter markers locate the act is readmitted, measured.
 - **part of an act**: "Part 3", "Walkthrough II", or a title naming
   a single quest part of the act.
@@ -262,6 +269,10 @@ Discard, by title:
   the version names and patch numbers are added per chapter automatically).
   Requiring both halves is what stops "Snezhnaya Act 1"
   from being counted as evidence for a different chapter's Act I.
+  A title that pins a *different* number of the same unit is out even where
+  the act's title words are all in it: an uploader who repeats one act's name
+  across a whole chapter ("Chapter 1 Process 4 - The Broken Lands")
+  is evidence for the number, not for the name.
 - **the wrong one of two same-named acts**: where the title match cannot tell
   two acts apart, give the pair their distinguishing marks in
   `<workdir>/act_keys.json`, keyed `"<chapter_id>|<act_label>"`:

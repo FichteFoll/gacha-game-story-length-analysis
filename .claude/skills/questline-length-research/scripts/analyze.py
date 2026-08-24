@@ -14,6 +14,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/version_index.json  optional, version -> {number, date};
                                      both extend the chapter keys with the
                                      version branding uploaders title by
+       <workdir>/not_playthrough.txt optional extra regexes for uploads that are
+                                     not hands-on questline footage at all,
+                                     one per line, e.g. "exploration only"
        <workdir>/compilations.txt    optional extra compilation regexes, one per
                                      line, e.g. "full sumeru archon quest"
        <workdir>/partials.txt        optional regexes for uploads covering less
@@ -126,6 +129,18 @@ def compilation_re(workdir, acts):
                       re.I)
 
 
+def reject_re(workdir):
+    """Uploads that are not hands-on questline footage, in this game's wording.
+
+    The shared list covers what every game's uploaders say; a game whose pool
+    carries a phrasing of its own ("exploration only") adds it in
+    <workdir>/not_playthrough.txt rather than in the shared regex above.
+    """
+    extra = extra_patterns(workdir, "not_playthrough.txt")
+    return re.compile("|".join([REJECT.pattern] + extra), re.I) if extra \
+        else REJECT
+
+
 def extra_patterns(workdir, name):
     """The per-report regexes in <workdir>/<name>, one per line."""
     path = workdir / name
@@ -157,6 +172,41 @@ def partial_test(workdir):
         return None
     return lambda title, parts: bool(regex and regex.search(title)) \
         or (by_quest_part and part_named(title, parts) is not None)
+
+
+def pin_re(acts):
+    """Matches the unit and the whole run of numerals a title labels it with.
+
+    The run matters as much as the first numeral: "Process I, II, III, IV"
+    names four acts, and reading only the first would make it look like an
+    upload pinned to Process I. A numeral that turns out to be the head of a
+    patch number is no act label at all ("Trailblaze Mission 1.3" is the
+    version, not mission one), so a following decimal disqualifies the run.
+    """
+    numeral = r"[ivx]+|\d+"
+    return re.compile(
+        rf"\b(?:{unit_pattern(acts)}):? *"
+        rf"((?:{numeral})(?: *(?:&|and|\+|,|-|to) *(?:{numeral}))*)(?!\.\d)\b",
+        re.I)
+
+
+def pinned_acts(pin, title):
+    """Every act number the title labels with the unit, as a set.
+
+    An upload whose title says which act it is settles two questions the
+    wording alone gets wrong: an uploader who repeats one act's title across a
+    whole chapter ("Chapter 1 Process 4 - The Broken Lands") is not evidence
+    for the act named, and a scope word next to a single act label ("FULL
+    Chapter 2 - Process 3") describes that act rather than a compilation.
+    """
+    out = set()
+    for run in pin.findall(title):
+        for token in re.split(r"[^A-Za-z0-9]+", run):
+            if token.isdigit():
+                out.add(int(token))
+            elif token.upper() in ROMAN:
+                out.add(ROMAN[token.upper()])
+    return out
 
 
 def bundle_re(acts):
@@ -355,25 +405,28 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, act_keys, compilation, partial,
-                   enriched, parts):
+def candidates_for(act, workdir, chapter_keys, act_keys, reject, compilation,
+                   pin, partial, enriched, parts):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
         return rows
+    number = act_number(act["act_label"])
     for line in path.read_text().splitlines():
         f = line.split("\t")
         if len(f) < 4 or not f[0].isdigit():
             continue
         title = f[1]
+        pinned = pinned_acts(pin, title)
         reasons = []
-        if REJECT.search(title):
+        if reject.search(title):
             reasons.append("not-a-playthrough")
-        if compilation.search(title):
+        if compilation.search(title) and pinned != {number}:
             reasons.append("multi-act")
         if partial and partial(title, parts):
             reasons.append("part-of-an-act")
         if not act_keys(act, title) \
+                or (pinned and number is not None and number not in pinned) \
                 or not (matches_act_title(title, act["act_title"])
                         or matches_act_number(title, act, chapter_keys)):
             reasons.append("act-mismatch")
@@ -571,7 +624,9 @@ def main(argv):
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     act_keys = act_key_test(workdir)
+    reject = reject_re(workdir)
     compilation = compilation_re(workdir, acts)
+    pin = pin_re(acts)
     partial = partial_test(workdir)
     enriched = load_enriched(workdir)
     quest_parts = load_json(workdir, "quest_parts.json")
@@ -579,8 +634,8 @@ def main(argv):
     out = []
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
-        rows = candidates_for(act, workdir, chapter_keys, act_keys, compilation,
-                              partial, enriched, parts)
+        rows = candidates_for(act, workdir, chapter_keys, act_keys, reject,
+                              compilation, pin, partial, enriched, parts)
         readmit_partials(rows)
         kept = trim_outliers([r for r in rows if not r["rejected"]])
         kept.sort(key=lambda r: r["seconds"])

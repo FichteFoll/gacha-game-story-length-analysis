@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Masquerade of the Guilty
 
-**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 16 min**
+**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 19 min**
 <!--/gen-->
 
 A prophecy says Fontaine will dissolve into the waters.
@@ -15,7 +15,7 @@ and watches Focalors execute herself to void the prophecy.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Prelude of Blancheur and Noirceur | 3 h 27 min | 3 h 03 min - 3 h 50 min | 10 | medium |
+| Act I | Prelude of Blancheur and Noirceur | 3 h 30 min | 3 h 04 min - 3 h 50 min | 11 | high |
 | Act II | As Light Rain Falls Without Reason | 2 h 43 min | 2 h 27 min - 2 h 56 min | 12 | high |
 | Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 47 min - 2 h 27 min | 10 | medium |
 | Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 30 min - 2 h 47 min | 9 | high |
@@ -23,7 +23,7 @@ and watches Focalors execute herself to void the prophecy.
 | Act VI | Bedtime Story | 1 h 18 min | 1 h 14 min - 1 h 22 min | 9 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 16 min<!--/f-->**
+**Total: <!--f:total-->17 h 19 min<!--/f-->**
 
 ## Pacing
 
@@ -43,13 +43,13 @@ Fontaine, Lyney and Lynette,
 and an opera-house trial over the stolen Hydro Gnosis.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 3 h 27 min
-- **Sampled range:** 3 h 03 min to 3 h 50 min for the middle half (full spread 1 h 47 min to 3 h 53 min) across 10 playthrough uploads (4 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 3 h 30 min
+- **Sampled range:** 3 h 04 min to 3 h 50 min for the middle half (full spread 1 h 47 min to 3 h 53 min) across 11 playthrough uploads (3 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 10 uploads
+- **Stability:** median +3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 11 uploads
 - **Quest parts (3):** Soloist's Prologue; The City of Rains and Remembrance; Lies Cast Shadows Under Gathered Lights
 <!--/gen-->
 
@@ -66,6 +66,7 @@ and an opera-house trial over the stolen Hydro Gnosis.
 | 3 h 24 min | Prelude of Blancheur and Noirceur Chapter 4 Act 1 Archon Quest Genshin Impact | WoW Quests | 8,542 | 2023-08-16 | <https://www.youtube.com/watch?v=WtUuTcqNnHU> |
 | 3 h 30 min | Archon Quest Chapter IV: Act I Full Story HD \| Prelude Of Blancheur & Noirceur \| Genshin Impact 4.0 | Noxxis Gaming | ~50,646 | n/a | <https://www.youtube.com/watch?v=vpKsmx-vOR8> |
 | 3 h 35 min | Full Fontaine Archon Quest - Genshin Impact | Fayato | 669,227 | 2023-11-09 | <https://www.youtube.com/watch?v=fyJbgnbOh2g> |
+| 3 h 40 min | Full Fontaine Archon Quest Act 1 - Genshin Impact 4.0 | Fayato | 128,563 | 2023-08-16 | <https://www.youtube.com/watch?v=6aQKq6ihyZU> |
 | 3 h 50 min | 🎬 Fontaine Act I - Prelude of Blancheur and Noirceur \| Genshin Impact 4.0 (No Commentary) | mimo.mp4 | 15 | 2023-09-12 | <https://www.youtube.com/watch?v=bCuJjF9cZ-g> |
 | 3 h 51 min | Genshin Impact - Fontaine Archon Quest: Act 1 [Full Playthrough - No Commentary] | Pyrogeist | 61 | 2023-09-13 | <https://www.youtube.com/watch?v=WGAG3GPugyw> |
 | 3 h 53 min | Fontaine Archon Quest: Act I - "Prelude of Blancheur and Noirceur" (Full Gameplay) \| Genshin Impact | LegendSpell | 72 | 2023-08-18 | <https://www.youtube.com/watch?v=MYNfrY8-4BQ> |
