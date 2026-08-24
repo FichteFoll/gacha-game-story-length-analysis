@@ -154,6 +154,11 @@ recent uploads are titled by patch branding rather than by act title
 so the harvest needs the branding to search for them,
 and the release date is what tells it which acts are recent.
 
+A wiki that records nothing per act, and states on each version's own page
+which acts that version shipped, is the one case where `versions.json` is
+written by hand: set `released_in` to null, write the mapping out from those
+sentences, and this script keeps it and indexes the versions it names.
+
 Check the printed count before moving on.
 The version infobox is not the same on every wiki
 (Genshin has `|number` and `|date`, Honkai: Star Rail `|version` and `|release_date`),

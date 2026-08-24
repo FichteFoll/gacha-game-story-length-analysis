@@ -24,6 +24,12 @@ does differ between them (Genshin has |number and |date, Honkai: Star Rail has
 |version and |release_date), which is what version_fields is for. A game whose
 wiki does not categorize by version at all sets released_in to null: the harvest
 then searches by act title alone, and no act counts as recent.
+
+Some wikis record which acts a version shipped instead on the version page, in
+prose no script can read ("New Main Story up to Chapter II Process VI"). There,
+set released_in to null and write versions.json by hand from those pages: a
+mapping already on disk is kept rather than overwritten with nulls, and the
+versions it names are still indexed from their infoboxes here.
 """
 import json
 import pathlib
@@ -84,10 +90,15 @@ def categories(host, titles):
         params.update(response["continue"])
 
 
-def released_in(wiki, pages):
-    """Act title -> version name, from the "Released in Version X" category."""
+def released_in(wiki, pages, recorded):
+    """Act title -> version name, from the "Released in Version X" category.
+
+    A wiki that does not categorize by version leaves the mapping to whatever
+    versions.json already records, so that a mapping read off the version pages
+    by hand survives a re-run instead of being flattened to nulls.
+    """
     if not wiki["released_in"]:
-        return {t: None for t in pages}
+        return {t: recorded.get(t) for t in pages}
     pattern = re.compile(f"^Category:{wiki['released_in']}$")
     titles = list(dict.fromkeys(pages.values()))
     out = {}
@@ -112,7 +123,7 @@ def iso_date(value):
         return None
     plain = re.sub(r"\s*\d{1,2}:\d{2}.*$", "", value).strip()
     plain = re.sub(r"(?<=\d)(st|nd|rd|th)\b", "", plain)   # September 4th, 2025
-    for fmt in ("%Y-%m-%d", "%B %d, %Y", "%d %B %Y", "%b %d, %Y"):
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%d %B %Y", "%b %d, %Y"):
         try:
             return datetime.strptime(plain, fmt).strftime("%Y-%m-%d")
         except ValueError:
@@ -149,7 +160,9 @@ def main(argv):
     workdir = pathlib.Path(argv[1])
     wiki = load_wiki(workdir)
 
-    versions = released_in(wiki, act_pages(workdir))
+    recorded = json.loads((workdir / "versions.json").read_text()) \
+        if (workdir / "versions.json").exists() else {}
+    versions = released_in(wiki, act_pages(workdir), recorded)
     index = version_details(wiki, sorted(set(filter(None, versions.values()))))
 
     (workdir / "versions.json").write_text(
