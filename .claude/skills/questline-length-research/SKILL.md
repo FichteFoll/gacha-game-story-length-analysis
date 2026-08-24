@@ -292,6 +292,16 @@ Discard, by title:
   or where an act's own title is degenerate:
   the words of "The Zero Zone" are in every Zenless Zone Zero upload's title.
 
+- **the same uploader twice**: an uploader who posts a single-act upload
+  *and* a compilation that contains it
+  offers one playthrough under two URLs,
+  and readmitting compilations by their chapter markers
+  makes that the common case rather than the rare one.
+  Only one row per uploader survives per act:
+  the marker-measured one, which is bounded by the act
+  rather than by where the upload starts and stops,
+  and between two of a kind the shorter one.
+
 Then drop anything below half or above 1.8 times the median as truncated or padded.
 
 Publish the median as the estimate.

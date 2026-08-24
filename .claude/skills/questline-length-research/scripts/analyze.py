@@ -37,7 +37,8 @@ Writes <workdir>/analysis.json       accepted and rejected candidates plus stats
 and prints a one-line-per-act summary for eyeballing.
 
 A candidate survives only if its title plausibly names this exact act and it is
-not a cutscene reel, a stream, a multi-act compilation or a truncated upload.
+not a cutscene reel, a stream, a multi-act compilation or a truncated upload,
+and only one candidate per uploader is counted per act.
 """
 import json
 import pathlib
@@ -548,6 +549,33 @@ def readmit_partials(rows):
             row["rejected"] = []
 
 
+def dedupe_uploaders(kept):
+    """One upload per uploader per act.
+
+    An uploader who publishes both a single-act upload and a compilation that
+    contains it offers one playthrough under two URLs, and readmitting the
+    compilation by its chapter markers made that the common case rather than
+    the rare one. Counting both weights the median towards whoever uploads
+    most, so the act keeps one row per uploader: the marker-measured one, being
+    bounded by the act rather than by where the upload starts and stops, and
+    between two of a kind the shorter, as the one carrying less of the
+    uploader's pre-roll and detours.
+
+    Runs after the outlier trim, so that the row it keeps is never one the trim
+    then discards, leaving that uploader unrepresented.
+    """
+    best = {}
+    for row in kept:
+        rank = (0 if row.get("measured") else 1, row["seconds"])
+        if row["uploader"] not in best or rank < best[row["uploader"]][0]:
+            best[row["uploader"]] = (rank, id(row))
+    winners = {ident for _, ident in best.values()}
+    for row in kept:
+        if id(row) not in winners:
+            row["rejected"] = ["same-uploader"]
+    return [r for r in kept if not r["rejected"]]
+
+
 def trim_outliers(kept):
     if len(kept) < 3:
         return kept
@@ -637,7 +665,8 @@ def main(argv):
         rows = candidates_for(act, workdir, chapter_keys, act_keys, reject,
                               compilation, pin, partial, enriched, parts)
         readmit_partials(rows)
-        kept = trim_outliers([r for r in rows if not r["rejected"]])
+        kept = dedupe_uploaders(
+            trim_outliers([r for r in rows if not r["rejected"]]))
         kept.sort(key=lambda r: r["seconds"])
         secs = [r["seconds"] for r in kept]
         act.update(candidates=rows, kept=kept, stats=dict(
