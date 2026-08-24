@@ -50,8 +50,8 @@ import sys
 from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
                      UNSTABLE_DRIFT)
 from assertions import failures
-from facts import (chapter_facts, chapter_total, hm, median_of, report_facts,
-                   superlatives, word)
+from facts import (chapter_facts, chapter_total, hm, median_of, plural_unit,
+                   report_facts, superlatives, word)
 from queries import RECENT_VERSIONS
 
 # The interquartile factors the confidence rating is graded on. Their companion
@@ -387,7 +387,7 @@ def thresholds(report):
     changed threshold rewrites its own description.
     """
     return [
-        f"- {unit(report).capitalize()}s released within the last "
+        f"- {plural_unit(unit(report)).capitalize()} released within the last "
         f"{word(RECENT_VERSIONS)} versions are searched twice as deep, \n"
         "because they have far fewer uploads to draw on.",
         f"- A marker set covering less than {round(SPAN_COVERAGE * 100)} percent \n"
@@ -511,7 +511,7 @@ def chapter_skeleton(report):
         f"**Total: {marked('total', '')}**",
         "",
         "## Pacing",
-    ] + paragraph + [f"## {report.config.get('unit', 'Act')}s"]
+    ] + paragraph + [f"## {plural_unit(report.config.get('unit', 'Act'))}"]
 
 
 def act_stub(label):

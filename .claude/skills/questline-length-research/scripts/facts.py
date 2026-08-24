@@ -18,6 +18,15 @@ def word(n):
     return WORDS[n] if n < len(WORDS) else str(n)
 
 
+def plural_unit(unit):
+    """`act` -> `acts`, `process` -> `processes`.
+
+    What a game calls one entry is its own word, and a bare -s turns the ones
+    that end in a sibilant into "processs" in every generated sentence.
+    """
+    return unit + ("es" if re.search(r"(s|x|z|ch|sh)$", unit) else "s")
+
+
 def hm(minutes):
     if minutes is None:
         return "n/a"
@@ -79,8 +88,8 @@ def superlatives(acts, unit="act"):
             sentence = (f"Tied with {others} for the longest {unit} in the game."
                         if tied else f"The single longest {unit} in the game.")
         elif high <= EXTREME_DEPTH:
-            sentence = (f"One of the {word(EXTREME_DEPTH)} longest {unit}s "
-                        f"in the game.")
+            sentence = (f"One of the {word(EXTREME_DEPTH)} longest "
+                        f"{plural_unit(unit)} in the game.")
         elif low == 1 and not tied:
             sentence = "The shortest entry in the questline."
         elif low <= EXTREME_DEPTH:
@@ -105,7 +114,7 @@ def report_facts(acts, unit="Act", game="", date=""):
         "n_videos": str(sum(a["stats"]["n"] for a in acts)),
         "n_candidates": str(sum(len(a["candidates"]) for a in acts)),
         "unit": unit.lower(),
-        "units": f"{unit.lower()}s",
+        "units": plural_unit(unit.lower()),
         "game": game,
         "date": date,
     }
