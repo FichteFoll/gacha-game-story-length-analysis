@@ -1,0 +1,7 @@
+full (huanglong|rinascita|lahai-?roi|roya frostlands|mengzhou|jinzhou)( main)?( quest| story)
+(full|entire|complete|whole) (main )?(story|questline|quest ?line)
+all (main )?quests
+(?:act|prologue|interlude) ?[ivx\d]* ?(?:&|and|\+) ?segue
+segue ?(?:&|and|\+) ?(?:act|prologue|interlude)
+prologue ?(?:&|and|\+) ?act
+act [ivx\d]+ ?(?:&|and|\+) ?prologue

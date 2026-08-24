@@ -23,6 +23,7 @@ and what the words claim beyond the numbers is asserted against it.
 | Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
 | Zenless Zone Zero | Phaethon's Story | [zenless-zone-zero/README.md](zenless-zone-zero/README.md) |
 | Arknights: Endfield | Main Missions | [arknights-endfield/README.md](arknights-endfield/README.md) |
+| Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |
 
 Each report opens with its own totals, its chapter index,
 its longest and shortest entries,
@@ -30,6 +31,7 @@ and the caveats that apply to that game in particular.
 The vocabulary differs by game:
 Genshin Impact numbers acts, Honkai: Star Rail numbers missions,
 Zenless Zone Zero numbers chapters, Arknights: Endfield numbers processes,
+Wuthering Waves numbers acts and leaves its segues unnumbered,
 and each report uses the word its game and its uploaders use.
 
 ## How the numbers are made

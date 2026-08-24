@@ -1,0 +1,7 @@
+{
+ "prologue|Prologue I": ["(?:marvels|prologue|act)\\W*(?:i|1)\\b(?![ivx0-9])"],
+ "prologue|Prologue II": ["(?:marvels|prologue|act)\\W*(?:ii|2)\\b(?![ivx0-9])"],
+ "ch1|Interlude": ["wuthering|wuwa"],
+ "ch3|Segue - IV": ["^(?!.*epilogue)"],
+ "ch3|Segue - V": ["epilogue"]
+}

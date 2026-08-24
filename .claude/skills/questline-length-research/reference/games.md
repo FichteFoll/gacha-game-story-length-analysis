@@ -66,6 +66,23 @@ Both shapes work; the report prints "name (number)" only when the two differ.
 - **Wuthering Waves.** Main Quests are divided into chapters,
   chapters into acts, and each act is gated behind a Union Level.
   The closest structural match to Genshin.
+  The whole structure is on `Main Quest`, and each chapter page repeats it
+  as a `List of Acts`; the act pages carry a `Quest Infobox` whose `actNum`
+  is the label ("IV", but also "Segue"), and only three acts have a
+  `List of Parts` for `quest_parts.json`.
+  Besides acts, a chapter holds a prologue, an interlude and any number of
+  **segues**, short afterstories the wiki lists in story order but does not
+  number; number them yourself for a unique act label, but write the label
+  so that `act_number()` cannot read a number out of it (`Segue - III`, not
+  `Segue III`), or every segue is searched for as that chapter's "Act 3".
+  The Union Level gate is real but barely recorded: the infobox `requirement`
+  is filled on two quest pages in four chapters, so most acts get no gate.
+  The prologue ships as `Utterance of Marvels: I` and `: II`, whose titles
+  differ only in a numeral the word matching never sees, so they need
+  `act_keys.json` the way Zenless Zone Zero's epilogue halves do;
+  so do `Wishes in the Bell` and `Wishes in the Bell: Epilogue`.
+  An event chapter doubles as the Chapter II interlude, and its `/Story` page
+  carries no version category even though each of its quest parts does.
 - **Honkai: Star Rail.** Trailblaze Missions are grouped by world
   (Herta Space Station, Jarilo-VI, ...) rather than by numbered chapter.
   Use the world as the chapter and the mission as the act,

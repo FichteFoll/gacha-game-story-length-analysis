@@ -1,0 +1,7 @@
+{
+ "host": "wutheringwaves.fandom.com",
+ "name": "Wuthering Waves Wiki",
+ "released_in": "Released in Version (.+)",
+ "version_page": "Version/{version}",
+ "version_fields": {"number": "version", "date": "date"}
+}

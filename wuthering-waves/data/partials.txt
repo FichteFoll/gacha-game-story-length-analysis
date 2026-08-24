@@ -1,0 +1,5 @@
+\bpart \d+\b
+\bpart (one|two|three|four|five|six)\b
+\bpt\.? ?\d+\b
+\[wuthering waves main quest\]
+[-–—] main quest \| wuthering waves
