@@ -824,7 +824,9 @@
     "uploader": "Prunalaul",
     "url": "https://www.youtube.com/watch?v=_YWnJ5tsnPs",
     "views": 3,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20251230"
    },
    {
@@ -1119,15 +1121,6 @@
     "upload_date": "20240713"
    },
    {
-    "seconds": 5967,
-    "title": "Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K]",
-    "uploader": "Prunalaul",
-    "url": "https://www.youtube.com/watch?v=_YWnJ5tsnPs",
-    "views": 3,
-    "rejected": [],
-    "upload_date": "20251230"
-   },
-   {
     "seconds": 6175,
     "title": "Chapter 1: Intermission | Full Chapter | Zenless Zone Zero",
     "uploader": "MysticStarX",
@@ -1146,16 +1139,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 85,
+   "n": 8,
+   "median": 78,
    "low": 46,
    "high": 148,
-   "q1": 57,
-   "q3": 101,
-   "trimmed_mean": 84,
+   "q1": 55,
+   "q3": 100,
+   "trimmed_mean": 82,
    "measured": 0,
    "parts": {},
-   "drift": -0.105
+   "drift": -0.179
   }
  },
  {
@@ -3981,7 +3974,9 @@
     "uploader": "RSA The Gamer Boy",
     "url": "https://www.youtube.com/watch?v=p3VgOE8WjRI",
     "views": "22",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 13132,
@@ -4159,14 +4154,6 @@
     "rejected": []
    },
    {
-    "seconds": 14592,
-    "title": "Bury Your Tears With the Past (B) - Zenless Zone Zero (ZZZ) - Version 1.7 Story Quest (Full Quest)",
-    "uploader": "RSA The Gamer Boy",
-    "url": "https://www.youtube.com/watch?v=p3VgOE8WjRI",
-    "views": "22",
-    "rejected": []
-   },
-   {
     "seconds": 15750,
     "title": "Zenless Zone Zero - Season 1 Epilogue: Bury Your Tears With the Past (B) | Full Story JP Dub EN Sub",
     "uploader": "Gudaoko",
@@ -4194,16 +4181,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 224,
+   "n": 12,
+   "median": 220,
    "low": 197,
    "high": 318,
    "q1": 207,
-   "q3": 253,
-   "trimmed_mean": 229,
+   "q3": 257,
+   "trimmed_mean": 227,
    "measured": 0,
    "parts": {},
-   "drift": 0.057
+   "drift": 0.038
   }
  },
  {
@@ -7903,7 +7890,9 @@
     "uploader": "R\u00c6IN",
     "url": "https://www.youtube.com/watch?v=01OUkj0SEfw",
     "views": 29,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260617"
    },
    {
@@ -8089,15 +8078,6 @@
     "upload_date": "20260620"
    },
    {
-    "seconds": 18151,
-    "title": "Zenless Zone Zero - A Sleepwalker's Confession - 3.0 Main Quest || Full Story ||",
-    "uploader": "R\u00c6IN",
-    "url": "https://www.youtube.com/watch?v=01OUkj0SEfw",
-    "views": 29,
-    "rejected": [],
-    "upload_date": "20260617"
-   },
-   {
     "seconds": 18343,
     "title": "Zenless Zone Zero - Story - Season 3 - Chapter 1 - A Sleepwalker's Confession",
     "uploader": "JehliuGamer",
@@ -8135,16 +8115,16 @@
    }
   ],
   "stats": {
-   "n": 18,
-   "median": 274,
+   "n": 17,
+   "median": 272,
    "low": 174,
    "high": 350,
-   "q1": 258,
-   "q3": 303,
-   "trimmed_mean": 278,
+   "q1": 256,
+   "q3": 299,
+   "trimmed_mean": 276,
    "measured": 0,
    "parts": {},
-   "drift": 0.007
+   "drift": 0.0
   }
  },
  {

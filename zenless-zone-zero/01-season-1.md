@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 1
 
-**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 24 h 08 min**
+**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 23 h 57 min**
 <!--/gen-->
 
 A brother and sister run a video store on Sixth Street by day
@@ -18,26 +18,26 @@ are all pulling at the same thread.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 0 | Business x Strangeness x Justness | 1 h 57 min | 1 h 13 min - 2 h 16 min | 8 | low |
 | Chapter 1 | Cat's Lost & Found | 2 h 14 min | 1 h 50 min - 2 h 38 min | 13 | low |
-| Chapter 1 Intermission | The Zero Zone | 1 h 25 min | 57 min - 1 h 41 min | 9 | low |
+| Chapter 1 Intermission | The Zero Zone | 1 h 18 min | 55 min - 1 h 40 min | 8 | low |
 | Chapter 2 | A Call From the Hollow's Heart | 1 h 59 min | 1 h 25 min - 2 h 56 min | 5 | low |
 | Chapter 2 Interlude | Mission Unthinkable | 1 h 58 min | 1 h 15 min - 2 h 34 min | 16 | low |
 | Chapter 3 | The Midnight Pursuit | 1 h 40 min | 1 h 28 min - 2 h 28 min | 12 | low |
 | Chapter 4 | Tour de Inferno | 2 h 59 min | 2 h 38 min - 3 h 22 min | 13 | medium |
 | Chapter 5 | A Storm of Falling Stars | 2 h 25 min | 2 h 09 min - 2 h 43 min | 12 | medium |
 | Epilogue (A) | Bury Your Tears With the Past (A) | 3 h 47 min | 3 h 14 min - 4 h 13 min | 12 | medium |
-| Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 44 min | 3 h 27 min - 4 h 13 min | 13 | high |
+| Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 40 min | 3 h 27 min - 4 h 17 min | 12 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->24 h 08 min<!--/f-->**
+**Total: <!--f:total-->23 h 57 min<!--/f-->**
 
 ## Pacing
 
 The season the game teaches you with,
 and by a distance the cheapest to get through:
-<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->24 h 08 min<!--/f--> in total.
+<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->23 h 57 min<!--/f--> in total.
 The two epilogue halves stand apart from the rest,
-at <!--f:len_Epilogue_A-->3 h 47 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 44 min<!--/f-->;
-everything before them sits between <!--f:shortest_len-->1 h 25 min<!--/f-->
+at <!--f:len_Epilogue_A-->3 h 47 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 40 min<!--/f-->;
+everything before them sits between <!--f:shortest_len-->1 h 18 min<!--/f-->
 and <!--f:len_Chapter_4-->2 h 59 min<!--/f-->.
 These are also the least settled figures in the report:
 Season 1 is mostly dialogue, dialogue is skippable,
@@ -135,11 +135,11 @@ was a chapter of its own until it is over.
 <!--gen:stats act="Chapter 1 Intermission"-->
 The shortest entry in the questline.
 
-- **Estimated length:** 1 h 25 min
-- **Sampled range:** 57 min to 1 h 41 min for the middle half (full spread 46 min to 2 h 28 min) across 9 playthrough uploads (18 further candidates screened out)
+- **Estimated length:** 1 h 18 min
+- **Sampled range:** 55 min to 1 h 40 min for the middle half (full spread 46 min to 2 h 28 min) across 8 playthrough uploads (19 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 1.0
-- **Stability:** median -10% against an earlier, independent query set
+- **Stability:** median -18% against an earlier, independent query set
 - **Quest parts (3):** Restricted Area Investigation; Mysterious Encounter; Frontline Pursuit
 <!--/gen-->
 
@@ -155,7 +155,6 @@ The shortest entry in the questline.
 | 1 h 11 min | ZZZ Main Quest Season 1 Chapter 1: Intermission Full Walkthrough \| Zenless Zone Zero | Akabirama | ~375 | n/a | <https://www.youtube.com/watch?v=I0zpyFGPwOo> |
 | 1 h 25 min | [PS5] Zenless Zone Zero - S1 Chapter 1 Intermission (No Commentary) | NexysGaming | ~12 | n/a | <https://www.youtube.com/watch?v=ro4SwO8zwJE> |
 | 1 h 31 min | Chapter 1: Intermission // ZENLESS ZONE ZERO [4K ULTRA 60FPS] | The Archivist | 43 | 2024-07-13 | <https://www.youtube.com/watch?v=9uREk_aQSgU> |
-| 1 h 39 min | Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K] | Prunalaul | 3 | 2025-12-30 | <https://www.youtube.com/watch?v=_YWnJ5tsnPs> |
 | 1 h 43 min | Chapter 1: Intermission \| Full Chapter \| Zenless Zone Zero | MysticStarX | 1,475 | 2024-07-17 | <https://www.youtube.com/watch?v=0CklG8dvq84> |
 | 2 h 28 min | [C001] Phaetheon's Story: Intermission: The Zero Zone \| 1.0 Zenless Zone Zero | Rubieco | ~537 | n/a | <https://www.youtube.com/watch?v=kY1R8KgPh7Q> |
 
@@ -412,11 +411,11 @@ The second half closes Season 1
 on the Mockingbird and the sacrifice core.
 <!--gen:stats act="Epilogue (B)"-->
 
-- **Estimated length:** 3 h 44 min
-- **Sampled range:** 3 h 27 min to 4 h 13 min for the middle half (full spread 3 h 17 min to 5 h 18 min) across 13 playthrough uploads (10 further candidates screened out)
+- **Estimated length:** 3 h 40 min
+- **Sampled range:** 3 h 27 min to 4 h 17 min for the middle half (full spread 3 h 17 min to 5 h 18 min) across 12 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 1.7
-- **Stability:** median +6% against an earlier, independent query set
+- **Stability:** median +4% against an earlier, independent query set
 - **Quest parts (11):** Is This the End or the Beginning?; Sacrifices & Exaltists; Fate Rises and Falls, But You Are the Beacon; Who Will Get the Sacrifice Core; Fate is Never Biased; The Mockingbird's Still Alive; Long-Lost Harmony; Those With Steadfast Ambition; Applause for the Mockingbird; The Ending She Foresaw; The Song for Tomorrow
 <!--/gen-->
 
@@ -435,7 +434,6 @@ on the Mockingbird and the sacrifice core.
 | 3 h 44 min | Bury Your Tears With The Past! Zenless Zone Zero: Version 1.7 Story (Season 1 Epilogue B) (PS5) | Salazar596  | ~21 | n/a | <https://www.youtube.com/watch?v=Q3gEG0EMs8M> |
 | 3 h 58 min | Bury Your Tears With the Past (B) - Zenless Zone Zero (ZZZ) - Version 1.7 Story Quest (Full Quest) | RSA The Gamer Boy | 31 | 2025-04-29 | <https://www.youtube.com/watch?v=AcLPAQA0sVI> |
 | 3 h 59 min | Bury Your Tears With The Past (B) - Main Story | Fiery | ~52 | n/a | <https://www.youtube.com/watch?v=SJu2-8aI_C0> |
-| 4 h 03 min | Bury Your Tears With the Past (B) - Zenless Zone Zero (ZZZ) - Version 1.7 Story Quest (Full Quest) | RSA The Gamer Boy | ~22 | n/a | <https://www.youtube.com/watch?v=p3VgOE8WjRI> |
 | 4 h 22 min | Zenless Zone Zero - Season 1 Epilogue: Bury Your Tears With the Past (B) \| Full Story JP Dub EN Sub | Gudaoko | 1,147 | 2025-04-24 | <https://www.youtube.com/watch?v=axPzWNtOKRM> |
 | 4 h 27 min | ZZZ -  Bury Your Tears With the Past (B) - complete story (walkthrough / no commentary) | CorporalOdin2 | 128 | 2025-04-23 | <https://www.youtube.com/watch?v=dS13Flgdoy8> |
 | 5 h 18 min | ZZZ 1.7 \| JP DUB \| S01 Epilogue - Bury Your Tears With The Past (B) \| FULL STORY \| Zenless Zone Zero | Xheldon G.Archive | ~311 | n/a | <https://www.youtube.com/watch?v=YiI7RXbG42w> |

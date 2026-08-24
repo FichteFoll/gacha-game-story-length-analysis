@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 3
 
-**Region:** Roscaelifer | **Game versions:** 3.0 - 3.1 | **Entries:** 2 | **Estimated chapter length: 9 h 03 min**
+**Region:** Roscaelifer | **Game versions:** 3.0 - 3.1 | **Entries:** 2 | **Estimated chapter length: 9 h 01 min**
 <!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
@@ -14,16 +14,16 @@ that nobody is quite awake to hear.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 1 | A Sleepwalker's Confession | 4 h 34 min | 4 h 18 min - 5 h 03 min | 18 | high |
+| Chapter 1 | A Sleepwalker's Confession | 4 h 32 min | 4 h 16 min - 4 h 59 min | 17 | high |
 | Chapter 2 | The Long Goodbye | 4 h 29 min | 4 h 13 min - 4 h 41 min | 22 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->9 h 03 min<!--/f-->**
+**Total: <!--f:total-->9 h 01 min<!--/f-->**
 
 ## Pacing
 
 Still being released: <!--f:n_entries-->two<!--/f--> chapters so far,
-<!--f:total-->9 h 03 min<!--/f--> between them, at <!--f:len_Chapter_1-->4 h 34 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->.
+<!--f:total-->9 h 01 min<!--/f--> between them, at <!--f:len_Chapter_1-->4 h 32 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->.
 Both were written at the Season 2 scale rather than the Season 1 one,
 and both are recent enough
 that their evidence pools have had the least time to settle.
@@ -41,11 +41,11 @@ where the trouble starts before the luggage is unpacked.
 <!--gen:stats act="Chapter 1"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 4 h 34 min
-- **Sampled range:** 4 h 18 min to 5 h 03 min for the middle half (full spread 2 h 54 min to 5 h 50 min) across 18 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 4 h 32 min
+- **Sampled range:** 4 h 16 min to 4 h 59 min for the middle half (full spread 2 h 54 min to 5 h 50 min) across 17 playthrough uploads (24 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.0
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median +0% against an earlier, independent query set
 - **Quest parts (16):** Journey's Beginning; New Landing Spot; First Encounter With Trouble; Seeing is Believing; One Into Three; About Past Treatment; A Different Kind of Rebirth; Special Power; Mission at Hand; Restoring the Energy Hub; Solutions Start With Investigations; Infiltration and Allies; Closing in on the Truth; Life or Death Escape; Angel Within Reach; Fading Light
 <!--/gen-->
 
@@ -68,7 +68,6 @@ One of the three longest chapters in the game.
 | 4 h 37 min | Zenless Zone Zero 3.0 NEW Main Story Quest \| A Sleepwalker's Confession Full Walkthrough | BSS Gaming | ~140 | n/a | <https://www.youtube.com/watch?v=qav6Y6JhJFU> |
 | 4 h 49 min | Zenless Zone Zero (PC) 3.0 \| A Sleepwalker's Confession \| FULL STORY WALKTHROUGH | Cipher | 75 | 2026-06-25 | <https://www.youtube.com/watch?v=68WfzdpzZWI> |
 | 4 h 53 min | Zenless Zone Zero Version 3.0: A Sleepwalker's Confession Full Quest Walkthrough \| 4K No Commentary | GamersPrey | 1,508 | 2026-06-20 | <https://www.youtube.com/watch?v=rY9TWftz9Ao> |
-| 5 h 03 min | Zenless Zone Zero - A Sleepwalker's Confession - 3.0 Main Quest \|\| Full Story \|\| | RÆIN | 29 | 2026-06-17 | <https://www.youtube.com/watch?v=01OUkj0SEfw> |
 | 5 h 06 min | Zenless Zone Zero - Story - Season 3 - Chapter 1 - A Sleepwalker's Confession | JehliuGamer | 135 | 2026-06-18 | <https://www.youtube.com/watch?v=OpS5uB1J-Zs> |
 | 5 h 17 min | Zenless Zone Zero v3.0 \| Season 3 Chapter 1 Main Story Quest \| A Sleepwalker's Confession (JP Dub) | JS Gaming Realm | 65 | 2026-07-19 | <https://www.youtube.com/watch?v=-ZWk2unZNMQ> |
 | 5 h 19 min | Zenless Zone Zero 3.0 A Sleepwalker's Confession Main Story Full Walkthrough no commentary | AdamSmashed | 295 | 2026-06-20 | <https://www.youtube.com/watch?v=4p4pgVnYn9A> |
