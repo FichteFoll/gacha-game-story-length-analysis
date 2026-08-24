@@ -12,7 +12,8 @@ There is no application here and no test suite;
 the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
-(`genshin-impact/`, `honkai-star-rail/` and `zenless-zone-zero/`),
+(`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`
+and `arknights-endfield/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -53,7 +54,8 @@ what a game differs in belongs in its `data/` or its `report.py`.
 ## Commands
 
 All commands are run from a report directory
-(`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`);
+(`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
+`arknights-endfield/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -114,8 +116,8 @@ and `gen_docs.py` (the filler for the marked regions).
 
 Report-specific: the authored `README.md` and chapter files,
 `data/` (`wiki.json`, `game.txt`, `acts.tsv`,
-`chapter_keys.json`, `act_keys.json`, `compilations.txt`, `partials.txt`,
-`query_templates.txt`),
+`chapter_keys.json`, `act_keys.json`, `not_playthrough.txt`,
+`compilations.txt`, `partials.txt`, `query_templates.txt`),
 `report.py` (the game's configuration and structure)
 and `claims.py` (the assertions guarding the prose).
 

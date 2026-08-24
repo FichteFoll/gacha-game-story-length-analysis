@@ -1,0 +1,7 @@
+\bpart\.? ?\d+\b
+\bpart ?[ivx]+\b
+\bpart (one|two|three|four|five|six|seven|eight|nine|ten)\b
+\bpt\.? ?\d+\b
+\bep(isode)?\.? ?\d+\b
+\b\d ?/ ?\d\b
+<quest part>

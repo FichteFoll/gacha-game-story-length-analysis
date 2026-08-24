@@ -1,0 +1,10 @@
+{
+ "host": "endfield.wiki.gg",
+ "name": "Endfield Talos Wiki",
+ "released_in": null,
+ "version_page": "{version}",
+ "version_fields": {
+  "number": "version",
+  "date": "asia start"
+ }
+}

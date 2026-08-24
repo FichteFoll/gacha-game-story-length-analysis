@@ -22,13 +22,14 @@ and what the words claim beyond the numbers is asserted against it.
 | Genshin Impact | Archon Quests | [genshin-impact/README.md](genshin-impact/README.md) |
 | Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
 | Zenless Zone Zero | Phaethon's Story | [zenless-zone-zero/README.md](zenless-zone-zero/README.md) |
+| Arknights: Endfield | Main Missions | [arknights-endfield/README.md](arknights-endfield/README.md) |
 
 Each report opens with its own totals, its chapter index,
 its longest and shortest entries,
 and the caveats that apply to that game in particular.
 The vocabulary differs by game:
 Genshin Impact numbers acts, Honkai: Star Rail numbers missions,
-Zenless Zone Zero numbers chapters,
+Zenless Zone Zero numbers chapters, Arknights: Endfield numbers processes,
 and each report uses the word its game and its uploaders use.
 
 ## How the numbers are made
@@ -40,7 +41,8 @@ together with the exact thresholds the screening and the ratings use.
 
 1. **Structure from the wiki.**
 The chapter and act list, the titles, the quest parts
-and the level gates come from the game's Fandom wiki.
+and the level gates come from the game's community wiki,
+which is a Fandom wiki for every game here but Arknights: Endfield.
 Fandom serves a Cloudflare challenge to plain HTTP clients,
 so the pages are read through the MediaWiki API
 (`/api.php?action=query&prop=revisions&rvprop=content`) instead.

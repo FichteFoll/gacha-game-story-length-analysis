@@ -1,0 +1,38 @@
+{
+ "ch1|Prologue": [
+  "^(?!.*\\bchapter ?(?:2|ii|two)\\b)"
+ ],
+ "ch1|Process I": [
+  "^(?!.*\\bchapter ?(?:2|ii|two)\\b)"
+ ],
+ "ch1|Process II": [
+  "^(?!.*\\bchapter ?(?:2|ii|two)\\b)"
+ ],
+ "ch1|Process III": [
+  "^(?!.*\\bchapter ?(?:2|ii|two)\\b)"
+ ],
+ "ch1|Process IV": [
+  "^(?!.*\\bchapter ?(?:2|ii|two)\\b)"
+ ],
+ "ch2|Process I": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process II": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process III": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process IV": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process V": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process VI": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process VII": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ]
+}

@@ -1,0 +1,2 @@
+all (main )?(missions|story|processes)
+(full|entire|complete|whole) (main )?(game|campaign)\b

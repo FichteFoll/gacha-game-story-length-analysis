@@ -12,16 +12,26 @@ wikis rename pages, and the young ones are still being built.
 | Honkai: Star Rail | `honkai-star-rail.fandom.com` | Honkai: Star Rail Wiki | `Trailblaze Mission` | Trailblaze Level (Equilibrium Level for difficulty) |
 | Zenless Zone Zero | `zenless-zone-zero.fandom.com` | Zenless Zone Zero Wiki | `Phaethon's Story` (`Main Story` redirects to it) | Inter-Knot Level, but not recorded per chapter; leave `gate_label` unset |
 | Wuthering Waves | `wutheringwaves.fandom.com` | Wuthering Waves Wiki | `Main Quest` | Union Level |
-| Arknights: Endfield | `endfield.fandom.com` | Arknights: Endfield Wiki | `Mission` | none found; leave `gate_label` unset |
+| Arknights: Endfield | `endfield.wiki.gg` | Endfield Talos Wiki | `Mission/Main` | none found; leave `gate_label` unset |
 
 `starrail.fandom.com` and `wuthering-waves.fandom.com` redirect;
 `arknights-endfield.fandom.com` does not exist,
 and `arknights.fandom.com` is the original game, not Endfield.
 
+Endfield is the one game here whose report does not read a Fandom wiki.
+`endfield.fandom.com` exists and answers, but its questline pages
+(`Chapter I`, `Chapter II`, `Undying Cinders`, `Path of Glory/Main Mission`)
+are zero-byte placeholders untouched since January 2026,
+and the only trace of the main missions on it is the requirement text of the
+achievement pages in `Category:Medals`. `endfield.wiki.gg` carries the whole
+structure on one page. It answers `api.php` the same way Fandom does, and it
+serves no Cloudflare challenge, but it does return a "Blocked" page to some
+requests; a repeat of the same request has gone through every time.
+
 ## Version infobox fields
 
-All five categorize their quest pages as `Released in Version <name>`
-and keep the infobox on `Version/<name>`,
+The four Fandom wikis categorize their quest pages as
+`Released in Version <name>` and keep the infobox on `Version/<name>`,
 so only `version_fields` in `data/wiki.json` differs:
 
 | Game | number | date |
@@ -30,7 +40,19 @@ so only `version_fields` in `data/wiki.json` differs:
 | Honkai: Star Rail | `version` | `release_date` |
 | Zenless Zone Zero | `version` | `date` |
 | Wuthering Waves | `version` | `date` |
-| Arknights: Endfield | `version` | `date` |
+| Arknights: Endfield | `version` | `asia start` |
+
+Endfield is the exception in both halves.
+Its version pages are named after the version
+(`Zeroth Directive`, not `Version/1.0`),
+so `version_page` is `{version}`,
+and they carry a per-server start time rather than one date.
+Nothing categorizes a mission by version at all:
+which processes a version shipped is stated in prose
+in that version's own `Missions` section
+("New Main Story up to Chapter II Process VI"),
+so `released_in` is null and `versions.json` is written by hand from
+those five sentences, which `fetch_versions.py` then leaves alone.
 
 Genshin is the odd one out in a second way:
 its recent versions are named (`Luna VII`) with the patch number alongside,

@@ -1,6 +1,6 @@
 ---
 name: questline-length-research
-description: Estimate how long the chapters and acts of a game's storyline take, by taking the questline structure from a Fandom wiki and measuring durations from YouTube playthrough uploads, then writing per-chapter markdown reports with a full evidence vault. Use for questions like "how long does each act of X take", "how long is chapter Y", or any request to time story content that has no official playtime figures.
+description: Estimate how long the chapters and acts of a game's storyline take, by taking the questline structure from a community wiki (Fandom or wiki.gg) and measuring durations from YouTube playthrough uploads, then writing per-chapter markdown reports with a full evidence vault. Use for questions like "how long does each act of X take", "how long is chapter Y", or any request to time story content that has no official playtime figures.
 ---
 
 # Questline length research from wiki structure plus video evidence
