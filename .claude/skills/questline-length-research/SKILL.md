@@ -224,12 +224,27 @@ YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
 The script is resumable and `analyze.py` falls back to the harvested figures,
 so do not fight it: retrying straight away buys a trickle and then stops again.
-Only a person can clear the block, by opening YouTube and solving the captcha,
-so say that the run hit the bot check,
+Say that the run hit the bot check,
 say how many URLs are still unenriched,
-and wait for the user to say it is solved.
-Then re-run `enrich.sh` (it resumes from `enriched.tsv`),
-and re-run `analyze.py` and `gen_docs.py` to fold the new markers in.
+and let the user decide between the two ways out.
+
+- **A captcha, solved in a browser.** Only a person can do it, and it lifts the
+block for a while rather than for good: the lift has been worth anywhere
+between a handful of URLs and a couple of hundred, and it has also come back
+on its own after an hour of doing nothing. Re-run `enrich.sh` when told it is
+solved; it resumes from `enriched.tsv`.
+- **Cookies**, which is the durable fix, because the block is on the client and
+a signed-in client is not subject to it. Set one of the two variables in
+`scripts/yt_auth.sh` — `YTDLP_COOKIES=<cookies.txt>` or
+`YTDLP_COOKIES_FROM_BROWSER=<browser>` — and all three network scripts pass
+it to `yt-dlp`. The browser form needs the browser's own cookie store, so it
+only works where the browser is: from a sandbox, ask the user to export a
+`cookies.txt` once and bind it in, or to run the script themselves.
+Say plainly that it means signing the requests in as somebody, and that the
+account is the one that wears the consequences, so it should be a throwaway.
+
+Either way, finish with `analyze.py` and `gen_docs.py`
+to fold the new markers in.
 
 ## Step 5: screen and compute
 

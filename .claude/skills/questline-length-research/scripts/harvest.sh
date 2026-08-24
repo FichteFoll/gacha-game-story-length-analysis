@@ -17,6 +17,8 @@
 set -uo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$HERE/yt_auth.sh"
+
 WORKDIR="${1:?usage: harvest.sh <workdir> [parallelism] [--only slug,...]}"
 JOBS="${2:-5}"
 ONLY=""
@@ -32,11 +34,13 @@ export TAB OUT
 search() {
   local slug="$1" depth="$2" query="$3" tmp
   tmp=$(mktemp)
-  timeout 240 yt-dlp --no-warnings --skip-download --flat-playlist \
+  yt_auth "$tmp.cookies"
+  timeout 240 yt-dlp "${YT_AUTH[@]+"${YT_AUTH[@]}"}" \
+    --no-warnings --skip-download --flat-playlist \
     --print "%(duration)s${TAB}%(title)s${TAB}%(uploader)s${TAB}%(webpage_url)s${TAB}%(view_count)s" \
     "ytsearch${depth}:${query}" 2>/dev/null > "$tmp"
   [[ -s "$tmp" ]] && flock "$OUT" bash -c "cat '$tmp' >> '$OUT/$slug.tsv.part'"
-  rm -f "$tmp"
+  rm -f "$tmp" "$tmp.cookies"
 }
 export -f search
 

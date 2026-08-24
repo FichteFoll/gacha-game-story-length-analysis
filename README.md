@@ -202,6 +202,10 @@ and leaves the authored prose around them untouched:
 on unchanged evidence it reproduces the tracked files byte for byte.
 Re-running the harvest itself needs `yt-dlp` and takes tens of minutes;
 the harvest, enrichment and top-up scripts are all resumable.
+Expect YouTube to answer "Sign in to confirm you're not a bot" partway through
+a long enrichment run: pick it up again later,
+or set `YTDLP_COOKIES=<cookies.txt>` or `YTDLP_COOKIES_FROM_BROWSER=<browser>`
+to have the three scripts sign their requests in.
 
 Every figure in the published prose sits in a placeholder
 filled from `analysis.json` rather than written by hand,

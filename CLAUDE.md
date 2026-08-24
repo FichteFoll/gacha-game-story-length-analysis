@@ -82,13 +82,21 @@ so an interrupted run is simply re-run.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
 `analyze.py` falls back to the harvested figures, so do not fight it.
-**Say so, and stop.** The block is cleared by a person solving the captcha in a
-browser, which nothing here can do, so tell the user the run hit the bot check
+**Say so, and stop.** Tell the user the run hit the bot check
 and how many URLs are still unenriched, and wait rather than retrying into it:
 a retry that is merely slower still returns almost nothing.
-Once the user says the captcha is solved, re-run `enrich.sh`,
-which resumes from `enriched.tsv`,
-then `analyze.py` and `gen_docs.py` to fold the new markers in.
+There are two ways out and the choice is the user's.
+A captcha solved in a browser lifts the block for a while, unpredictably —
+it has been worth anything from six URLs to a couple of hundred,
+and it has also lifted on its own after an hour.
+Cookies are the durable fix, because the block is on the client:
+set `YTDLP_COOKIES=<cookies.txt>` or `YTDLP_COOKIES_FROM_BROWSER=<browser>`
+(see `scripts/yt_auth.sh`) and `harvest.sh`, `enrich.sh` and `topup.sh`
+sign their requests in. Reading a browser's store only works where the browser
+is, so from a sandbox that means an exported `cookies.txt` bound in,
+or the user running the script themselves.
+Either way, finish with `analyze.py` and `gen_docs.py`
+to fold the new markers in.
 
 `gen_docs.py --no-verify` fills the files despite failing claims,
 for inspection only.
@@ -117,6 +125,7 @@ rather than from whole-video runtime.
 
 Generic, in the skill's `scripts/`, parameterised by `<workdir>` or `<report>`:
 `fetch_versions.py`, `queries.py`, `harvest.sh`, `enrich.sh`, `topup.sh`,
+`yt_auth.sh` (the cookie flags those three share),
 `analyze.py`, `facts.py` (quantities derived from `analysis.json`),
 `assertions.py` (the vocabulary claims are written in)
 and `gen_docs.py` (the filler for the marked regions).

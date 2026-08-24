@@ -14,7 +14,13 @@
 # chapter markers let analyze.py measure one act inside a longer video.
 #
 # Already-fetched URLs are skipped, so an interrupted run can just be re-run.
+#
+# Set YTDLP_COOKIES or YTDLP_COOKIES_FROM_BROWSER (see yt_auth.sh) to make the
+# requests as a signed-in client, which is what gets past the bot check.
 set -uo pipefail
+
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$HERE/yt_auth.sh"
 
 WORKDIR="${1:?usage: enrich.sh <workdir> [parallelism]}"
 JOBS="${2:-5}"
@@ -39,11 +45,12 @@ printf 'enriching %s of %s candidates\n' \
 fetch_one() {
   local tmp
   tmp=$(mktemp)
-  timeout 120 yt-dlp --no-warnings --skip-download \
+  yt_auth "$tmp.cookies"
+  timeout 120 yt-dlp "${YT_AUTH[@]+"${YT_AUTH[@]}"}" --no-warnings --skip-download \
     --print "%(webpage_url)s${TAB}%(duration)j${TAB}%(upload_date)j${TAB}%(view_count)j${TAB}%(chapters)j" \
     "$1" 2>/dev/null > "$tmp"
   [[ -s "$tmp" ]] && flock "$OUT" bash -c "cat '$tmp' >> '$OUT'"
-  rm -f "$tmp"
+  rm -f "$tmp" "$tmp.cookies"
 }
 export -f fetch_one
 

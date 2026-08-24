@@ -10,6 +10,9 @@
 # Rows are appended and re-deduplicated by URL, so running it twice is harmless.
 set -uo pipefail
 
+HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+source "$HERE/yt_auth.sh"
+
 WORKDIR="${1:?usage: topup.sh <workdir> [results-per-query] < queries.txt}"
 PER_QUERY="${2:-8}"
 OUT="$WORKDIR/evidence"
@@ -17,10 +20,14 @@ TAB=$'\t'
 export OUT PER_QUERY TAB
 
 topup() {
-  local slug="$1" query="$2" f="$OUT/$1.tsv"
-  timeout 240 yt-dlp --no-warnings --skip-download --flat-playlist \
+  local slug="$1" query="$2" f="$OUT/$1.tsv" jar
+  jar=$(mktemp)
+  yt_auth "$jar"
+  timeout 240 yt-dlp "${YT_AUTH[@]+"${YT_AUTH[@]}"}" \
+    --no-warnings --skip-download --flat-playlist \
     --print "%(duration)s${TAB}%(title)s${TAB}%(uploader)s${TAB}%(webpage_url)s${TAB}%(view_count)s" \
     "ytsearch${PER_QUERY}:$query" 2>/dev/null >> "$f"
+  rm -f "$jar"
   awk -F'\t' '!seen[$4]++' "$f" > "$f.tmp" && mv "$f.tmp" "$f"
   printf 'topped up %s (%s candidates)\n' "$slug" "$(wc -l < "$f")"
 }
