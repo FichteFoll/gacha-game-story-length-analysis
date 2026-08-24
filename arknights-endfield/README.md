@@ -5,7 +5,7 @@ from the prologue on the surface of Talos-II
 to the Wuling Very Large Rift,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->23 h 38 min<!--/f-->** (<!--f:n_report_entries-->12<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->167<!--/f--> accepted uploads out of <!--f:n_candidates-->512<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->23 h 38 min<!--/f-->** (<!--f:n_report_entries-->12<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->158<!--/f--> accepted uploads out of <!--f:n_candidates-->512<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->process<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.
@@ -15,8 +15,8 @@ rather than a number anyone actually clocked end to end.
 <!--gen:chapters-->
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Chapter I | Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | 1.0 | 5 | 8 h 30 min | [01-chapter-i.md](01-chapter-i.md) |
-| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City and the North Wuling Exclusion Zone | 1.0 - 1.4 | 7 | 15 h 08 min | [02-chapter-ii.md](02-chapter-ii.md) |
+| Chapter I | Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | 1.0 | 5 | 8 h 28 min | [01-chapter-i.md](01-chapter-i.md) |
+| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City and the North Wuling Exclusion Zone | 1.0 - 1.4 | 7 | 15 h 10 min | [02-chapter-ii.md](02-chapter-ii.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->processes<!--/f-->
@@ -25,13 +25,13 @@ rather than a number anyone actually clocked end to end.
 | | Process | Estimate |
 | --- | --- | --- |
 | longest | Chapter II, Process VII: Ruins in the Miasma | 4 h 34 min |
-| longest | Chapter II, Process III: The Long Feud | 2 h 59 min |
-| longest | Chapter I, Process I: The Broken Lands | 2 h 39 min |
+| longest | Chapter II, Process III: The Long Feud | 3 h 02 min |
+| longest | Chapter I, Process I: The Broken Lands | 2 h 38 min |
 | longest | Chapter I, Process III: Path of Ascension | 2 h 37 min |
-| longest | Chapter II, Process II: The Way of Water | 1 h 52 min |
-| shortest | Chapter I, Prologue: Prologue | 29 min |
+| longest | Chapter II, Process II: The Way of Water | 1 h 50 min |
+| shortest | Chapter I, Prologue: Prologue | 28 min |
 | shortest | Chapter I, Process II: The Turbid Heavens | 59 min |
-| shortest | Chapter II, Process V: Wrothful Tide | 1 h 04 min |
+| shortest | Chapter II, Process V: Wrothful Tide | 1 h 03 min |
 <!--/gen-->
 
 ## Method

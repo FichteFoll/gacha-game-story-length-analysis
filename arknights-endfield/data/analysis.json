@@ -88,7 +88,9 @@
     "uploader": "Made by The Boys",
     "url": "https://www.youtube.com/watch?v=YAhWqsJDubA",
     "views": 24,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260202"
    },
    {
@@ -126,7 +128,9 @@
     "uploader": "Made by The Boys",
     "url": "https://www.youtube.com/watch?v=uKsB2xkNXZk",
     "views": 15,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260220"
    },
    {
@@ -607,15 +611,6 @@
     "upload_date": "20260211"
    },
    {
-    "seconds": 1929,
-    "title": "Arknights Endfield - Main Story Quest - Chapter 1 & Prologue (Part 2) Playthrough",
-    "uploader": "Made by The Boys",
-    "url": "https://www.youtube.com/watch?v=uKsB2xkNXZk",
-    "views": 15,
-    "rejected": [],
-    "upload_date": "20260220"
-   },
-   {
     "seconds": 1971,
     "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 1",
     "uploader": "HaWuTsKi Archive",
@@ -635,28 +630,19 @@
     "views": 18,
     "rejected": [],
     "upload_date": "20260122"
-   },
-   {
-    "seconds": 2087,
-    "title": "Arknights Endfield - Main Story Quest - Chapter 1 & Prologue (Part 1) Playthrough",
-    "uploader": "Made by The Boys",
-    "url": "https://www.youtube.com/watch?v=YAhWqsJDubA",
-    "views": 24,
-    "rejected": [],
-    "upload_date": "20260202"
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 29,
+   "n": 14,
+   "median": 28,
    "low": 17,
-   "high": 35,
-   "q1": 26,
-   "q3": 32,
-   "trimmed_mean": 28,
+   "high": 34,
+   "q1": 25,
+   "q3": 29,
+   "trimmed_mean": 27,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.034
   }
  },
  {
@@ -787,7 +773,9 @@
     "uploader": "HOANGDG",
     "url": "https://www.youtube.com/watch?v=idZTBaKvZss",
     "views": 320,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260125"
    },
    {
@@ -1395,15 +1383,6 @@
     "upload_date": "20260124"
    },
    {
-    "seconds": 9675,
-    "title": "Arknights Endfield: Main Quest 1.0 - Chapter 1 - B\u1ea7u Tr\u1eddi U \u00c1m (The Broken Lands) - Part 2",
-    "uploader": "HOANGDG",
-    "url": "https://www.youtube.com/watch?v=idZTBaKvZss",
-    "views": 320,
-    "rejected": [],
-    "upload_date": "20260125"
-   },
-   {
     "seconds": 9845,
     "title": "Arknights Endfield Gameplay | Main Story Quest : Chapter 1 The Broken Lands (Process 1)",
     "uploader": "Mysterious Hero",
@@ -1456,16 +1435,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 159,
+   "n": 14,
+   "median": 158,
    "low": 87,
    "high": 239,
-   "q1": 126,
-   "q3": 171,
-   "trimmed_mean": 157,
+   "q1": 119,
+   "q3": 185,
+   "trimmed_mean": 156,
    "measured": 5,
    "parts": {},
-   "drift": -0.006
+   "drift": -0.013
   }
  },
  {
@@ -4598,7 +4577,9 @@
     "uploader": "Epic Nithan",
     "url": "https://www.youtube.com/watch?v=jy6AMRkzdnQ",
     "views": 56,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260210"
    },
    {
@@ -4718,15 +4699,6 @@
     }
    },
    {
-    "seconds": 6941,
-    "title": "The Way of Water Chapter II - Process II Full Quest Arknights Endfield",
-    "uploader": "Epic Nithan",
-    "url": "https://www.youtube.com/watch?v=jy6AMRkzdnQ",
-    "views": 56,
-    "rejected": [],
-    "upload_date": "20260210"
-   },
-   {
     "seconds": 6998,
     "title": "Chapter II Process I, II - Arknights Endfield",
     "uploader": "daesz",
@@ -4782,13 +4754,13 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 112,
+   "n": 12,
+   "median": 110,
    "low": 81,
    "high": 170,
-   "q1": 96,
+   "q1": 93,
    "q3": 127,
-   "trimmed_mean": 112,
+   "trimmed_mean": 111,
    "measured": 6,
    "parts": {
     "A Glance of Astonishment": 24,
@@ -4796,7 +4768,7 @@
     "The Surging Tide": 30,
     "Where Danger Sleeps": 6
    },
-   "drift": 0.018
+   "drift": 0.0
   }
  },
  {
@@ -5012,7 +4984,9 @@
     "uploader": "Buckii",
     "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
     "views": 25,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260323"
    },
    {
@@ -5272,15 +5246,6 @@
     "upload_date": "20260322"
    },
    {
-    "seconds": 9355,
-    "title": "Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 2 (complete)",
-    "uploader": "Buckii",
-    "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
-    "views": 25,
-    "rejected": [],
-    "upload_date": "20260323"
-   },
-   {
     "seconds": 9829,
     "title": "The Long Feud - Chapter II - Process III (Full Main Story) | Arknights: Endfield 1.1",
     "uploader": "Sir Patty",
@@ -5408,13 +5373,13 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 179,
+   "n": 11,
+   "median": 182,
    "low": 135,
    "high": 206,
-   "q1": 165,
+   "q1": 168,
    "q3": 201,
-   "trimmed_mean": 180,
+   "trimmed_mean": 183,
    "measured": 3,
    "parts": {
     "Unexpected Attack": 11,
@@ -5427,7 +5392,7 @@
     "Purity Reveals the Stubborn Stone": 31,
     "'Twas One River That Gave Us Drink": 18
    },
-   "drift": 0.017
+   "drift": 0.034
   }
  },
  {
@@ -5471,7 +5436,9 @@
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=0xCqT31cWJM",
     "views": 75,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260418"
    },
    {
@@ -5952,15 +5919,6 @@
     "parts": {}
    },
    {
-    "seconds": 6016,
-    "title": "Tales of Old QUEST Chapter II Process IV - Arknights Endfield",
-    "uploader": "NeoBuns",
-    "url": "https://www.youtube.com/watch?v=0xCqT31cWJM",
-    "views": 75,
-    "rejected": [],
-    "upload_date": "20260418"
-   },
-   {
     "seconds": 6144,
     "title": "Arknights: Endfield - Tales of Old - Chapter 2 - Process 4 - Main Mission",
     "uploader": "Pik",
@@ -6009,12 +5967,12 @@
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 12,
    "median": 100,
    "low": 79,
    "high": 146,
-   "q1": 85,
-   "q3": 110,
+   "q1": 84,
+   "q3": 113,
    "trimmed_mean": 99,
    "measured": 4,
    "parts": {},
@@ -6079,7 +6037,9 @@
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=Kr0pFpeL2pk",
     "views": 62,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260419"
    },
    {
@@ -6547,15 +6507,6 @@
     "parts": {}
    },
    {
-    "seconds": 3993,
-    "title": "Wrothful Tide QUEST Chapter II Process V - Arknights Endfield",
-    "uploader": "NeoBuns",
-    "url": "https://www.youtube.com/watch?v=Kr0pFpeL2pk",
-    "views": 62,
-    "rejected": [],
-    "upload_date": "20260419"
-   },
-   {
     "seconds": 4371,
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
     "uploader": "Admiralvic",
@@ -6578,11 +6529,11 @@
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 64,
+   "n": 15,
+   "median": 63,
    "low": 45,
    "high": 80,
-   "q1": 59,
+   "q1": 58,
    "q3": 66,
    "trimmed_mean": 63,
    "measured": 6,
@@ -6591,7 +6542,7 @@
     "Tremors of the Crashing Tide": 33,
     "Where Friendship Was Made": 21
    },
-   "drift": 0.016
+   "drift": 0.0
   }
  },
  {
@@ -6616,7 +6567,9 @@
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=RhCxHyktOGk",
     "views": 136,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260420",
     "runtime": 5466,
     "measured": "chapter-markers",
@@ -6821,7 +6774,9 @@
     "uploader": "JAIBA",
     "url": "https://www.youtube.com/watch?v=35Cse4hUhAg",
     "views": 5,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260426"
    },
    {
@@ -6977,15 +6932,6 @@
     "rejected": []
    },
    {
-    "seconds": 4714,
-    "title": "Endfield - Ponderous Load - Chapter II - Process VI - Urgent - Like Fire and Ice",
-    "uploader": "JAIBA",
-    "url": "https://www.youtube.com/watch?v=35Cse4hUhAg",
-    "views": 5,
-    "rejected": [],
-    "upload_date": "20260426"
-   },
-   {
     "seconds": 5140,
     "title": "Ponderous Load - Chapter II: Process VI (Full Main Story) | Arknights: Endfield 1.2",
     "uploader": "Sir Patty",
@@ -7031,23 +6977,6 @@
     "runtime": 15462,
     "measured": "chapter-markers",
     "parts": {}
-   },
-   {
-    "seconds": 5466,
-    "title": "Ponderous Load QUEST Chapter II Process VI - Arknights Endfield",
-    "uploader": "NeoBuns",
-    "url": "https://www.youtube.com/watch?v=RhCxHyktOGk",
-    "views": 136,
-    "rejected": [],
-    "upload_date": "20260420",
-    "runtime": 5466,
-    "measured": "chapter-markers",
-    "parts": {
-     "A Breach Starts with a Crack": 1055,
-     "Patience Makes Greatness": 1128,
-     "Forged at the Very Beginning": 980,
-     "Kindred Souls Who Share a Vision": 2303
-    }
    },
    {
     "seconds": 5514,
@@ -7160,20 +7089,16 @@
    }
   ],
   "stats": {
-   "n": 18,
-   "median": 95,
+   "n": 16,
+   "median": 97,
    "low": 58,
    "high": 125,
    "q1": 90,
-   "q3": 98,
-   "trimmed_mean": 94,
-   "measured": 6,
-   "parts": {
-    "A Breach Starts with a Crack": 18,
-    "Patience Makes Greatness": 19,
-    "Kindred Souls Who Share a Vision": 38
-   },
-   "drift": 0.0
+   "q3": 99,
+   "trimmed_mean": 95,
+   "measured": 5,
+   "parts": {},
+   "drift": 0.021
   }
  },
  {

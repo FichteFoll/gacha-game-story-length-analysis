@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II
 
-**Region:** Wuling: Jingyu Valley, Qingbo Stockade, Wuling City and the North Wuling Exclusion Zone | **Game versions:** 1.0 - 1.4 | **Entries:** 7 | **Estimated chapter length: 15 h 08 min**
+**Region:** Wuling: Jingyu Valley, Qingbo Stockade, Wuling City and the North Wuling Exclusion Zone | **Game versions:** 1.0 - 1.4 | **Entries:** 7 | **Estimated chapter length: 15 h 10 min**
 <!--/gen-->
 
 Wuling, entered by negotiation rather than taken,
@@ -16,15 +16,15 @@ to close the rifts the miasma grew out of.
 | Process | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Process I | Lost in the Marsh | 1 h 24 min | 1 h 10 min - 1 h 42 min | 16 | medium |
-| Process II | The Way of Water | 1 h 52 min | 1 h 36 min - 2 h 07 min | 13 | medium |
-| Process III | The Long Feud | 2 h 59 min | 2 h 45 min - 3 h 21 min | 12 | high |
-| Process IV | Tales of Old | 1 h 40 min | 1 h 25 min - 1 h 50 min | 13 | medium |
-| Process V | Wrothful Tide | 1 h 04 min | 59 min - 1 h 06 min | 16 | high |
-| Process VI | Ponderous Load | 1 h 35 min | 1 h 30 min - 1 h 38 min | 18 | high |
+| Process II | The Way of Water | 1 h 50 min | 1 h 33 min - 2 h 07 min | 12 | medium |
+| Process III | The Long Feud | 3 h 02 min | 2 h 48 min - 3 h 21 min | 11 | high |
+| Process IV | Tales of Old | 1 h 40 min | 1 h 24 min - 1 h 53 min | 12 | medium |
+| Process V | Wrothful Tide | 1 h 03 min | 58 min - 1 h 06 min | 15 | high |
+| Process VI | Ponderous Load | 1 h 37 min | 1 h 30 min - 1 h 39 min | 16 | high |
 | Process VII | Ruins in the Miasma | 4 h 34 min | 4 h 05 min - 4 h 44 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 08 min<!--/f-->**
+**Total: <!--f:total-->15 h 10 min<!--/f-->**
 
 ## Pacing
 
@@ -98,12 +98,12 @@ tour the Xiranite Central Laboratory,
 and get Xiranite production started.
 <!--gen:stats act="Process II"-->
 
-- **Estimated length:** 1 h 52 min
-- **Sampled range:** 1 h 36 min to 2 h 07 min for the middle half (full spread 1 h 21 min to 2 h 50 min) across 13 playthrough uploads (36 further candidates screened out)
+- **Estimated length:** 1 h 50 min
+- **Sampled range:** 1 h 33 min to 2 h 07 min for the middle half (full spread 1 h 21 min to 2 h 50 min) across 12 playthrough uploads (37 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** Zeroth Directive (1.0)
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 6 of 13 uploads
+- **Stability:** median +0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 6 of 12 uploads
 - **Quest parts (5):** A Glance of Astonishment (24 min); Ready the Easterlies; Of Grace and Gentle Might (38 min); The Surging Tide (30 min); Where Danger Sleeps (6 min)
 <!--/gen-->
 
@@ -120,7 +120,6 @@ and get Xiranite production started.
 | 1 h 48 min | The Way of Water Chapter II - Process II Full Quest Arknights Endfield | Epic Nithan | 111 | 2026-02-09 | <https://www.youtube.com/watch?v=CEzwmCC4VdU> |
 | 1 h 49 min | Arknights Endfield - A Way Of Water Chapter II - Process II Quest Gameplay | WantAndroidGames | ~6 | n/a | <https://www.youtube.com/watch?v=p9w9kaa-69E> |
 | 1 h 52 min | Arknights Endfield Chapter 2: The Way of Water ( Process 2 ) | TheWayCafe Productions | 161 | 2026-02-12 | <https://www.youtube.com/watch?v=Zdu2vQPDMj0> |
-| 1 h 56 min | The Way of Water Chapter II - Process II Full Quest Arknights Endfield | Epic Nithan | 56 | 2026-02-10 | <https://www.youtube.com/watch?v=jy6AMRkzdnQ> |
 | 1 h 57 min | Chapter II Process I, II - Arknights Endfield | daesz | 26 | 2026-02-01 | <https://www.youtube.com/watch?v=vVd3_ssQVUA> |
 | 2 h 07 min | The Way of Water FULL QUEST Arknights Endfield | NeoBuns | 174 | 2026-03-05 | <https://www.youtube.com/watch?v=umkbaZcVthI> |
 | 2 h 07 min | Endfield Main Story Chapter 2: Process 2 Full Walkthrough \| Arknights: Endfield 1.0 | Akabirama | 1,296 | 2026-01-29 | <https://www.youtube.com/watch?v=4iuSR76XvRw> |
@@ -141,12 +140,12 @@ first for the truth of the uprising and then for Ruan Yi's loyalists.
 <!--gen:stats act="Process III"-->
 One of the three longest processes in the game.
 
-- **Estimated length:** 2 h 59 min
-- **Sampled range:** 2 h 45 min to 3 h 21 min for the middle half (full spread 2 h 15 min to 3 h 26 min) across 12 playthrough uploads (29 further candidates screened out)
+- **Estimated length:** 3 h 02 min
+- **Sampled range:** 2 h 48 min to 3 h 21 min for the middle half (full spread 2 h 15 min to 3 h 26 min) across 11 playthrough uploads (30 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Old Deep Water Dies, by Rising Tide It is Denied (1.1)
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 12 uploads
+- **Stability:** median +3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 11 uploads
 - **Quest parts (9):** Unexpected Attack (11 min); Deep in the Mire (18 min); The Flow Splits Course (41 min); Surging From a Withered Spring (15 min); A River Restless in Still Winds (11 min); Another Wave Comes Crashing In (18 min); Ripples Spread Throughout the Flow (6 min); Purity Reveals the Stubborn Stone (31 min); 'Twas One River That Gave Us Drink (18 min)
 <!--/gen-->
 
@@ -157,7 +156,6 @@ One of the three longest processes in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 15 min | Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 1 | Buckii | 66 | 2026-03-22 | <https://www.youtube.com/watch?v=F1DaW7JG8p4> |
-| 2 h 36 min | Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 2 (complete) | Buckii | 25 | 2026-03-23 | <https://www.youtube.com/watch?v=OHq1AQiiFNo> |
 | 2 h 44 min | The Long Feud - Chapter II - Process III (Full Main Story) \| Arknights: Endfield 1.1 | Sir Patty | ~9 | n/a | <https://www.youtube.com/watch?v=uI5xzcXjQVM> |
 | 2 h 48 min | Arknights Endfield 1.1 Main Story - Full Chapter 2 Process 3 Full Playthrough (No Commentary) | Fizlen | 172 | 2026-03-13 | <https://www.youtube.com/watch?v=OvVlFTJPC_U> |
 | 2 h 52 min | Arknights Endfield Version 1.1 Main Story Quest "The Long Feud" | Kuroakumoplaz | ~28 | n/a | <https://www.youtube.com/watch?v=rcyuv3vAXl4> |
@@ -182,11 +180,11 @@ and the Feranmut Heart held against everything he calls up around it.
 <!--gen:stats act="Process IV"-->
 
 - **Estimated length:** 1 h 40 min
-- **Sampled range:** 1 h 25 min to 1 h 50 min for the middle half (full spread 1 h 19 min to 2 h 26 min) across 13 playthrough uploads (27 further candidates screened out)
+- **Sampled range:** 1 h 24 min to 1 h 53 min for the middle half (full spread 1 h 19 min to 2 h 26 min) across 12 playthrough uploads (28 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** At the Wake of Spring (1.2)
 - **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 13 uploads
+- **Measured from the uploader's chapter markers:** 4 of 12 uploads
 - **Quest parts (5):** Like Fire and Ice; A Lethal Invitation; Phantom Wisps; Awaiting Thine Coming; Free Will
 <!--/gen-->
 
@@ -203,7 +201,6 @@ and the Feranmut Heart held against everything he calls up around it.
 | 1 h 27 min | [ ARKNIGHTS: ENDFIELD ] Chapter II: Process IV- TALES OF OLD  [ FULL STORY / NO COMMENTARY ] | Uranium Tea Gaming | 30 | 2026-04-17 | <https://www.youtube.com/watch?v=yqVUEtyzLcc> |
 | 1 h 40 min | [Arknights: Endfield 1.2] Chapter 2: Process 4 - Tales of Old \| Full Story Playthrough | EllooTV | 11 | 2026-05-24 | <https://www.youtube.com/watch?v=OGOLZTYPCKM> |
 | 1 h 40 min | Arknights Endfield 1.2 - Main Story Quest Full Walkthrough | NeoBuns | 274 | 2026-04-20 | <https://www.youtube.com/watch?v=Gfvs97PnNaY> |
-| 1 h 40 min | Tales of Old QUEST Chapter II Process IV - Arknights Endfield | NeoBuns | 75 | 2026-04-18 | <https://www.youtube.com/watch?v=0xCqT31cWJM> |
 | 1 h 42 min | Arknights: Endfield - Tales of Old - Chapter 2 - Process 4 - Main Mission | Pik | 42 | 2026-05-15 | <https://www.youtube.com/watch?v=V7Nh97Fw9Io> |
 | 1 h 44 min | Version 1.2 Update Main Story Quest - Chapter 2 Process IV Tales of Old - Arknights Endfield | Just Another Internet Neko | 37 | 2026-04-17 | <https://www.youtube.com/watch?v=ApAoSjd50N0> |
 | 1 h 56 min | Arknights Endfield 1.2 - Main Story Quest Full Playthrough / Walkthrough (No Commentary) | Admiralvic | 487 | 2026-04-17 | <https://www.youtube.com/watch?v=LC9JLu--RVE> |
@@ -223,12 +220,12 @@ and the process closes on a walk through what the attack left.
 <!--gen:stats act="Process V"-->
 One of the three shortest entries in the questline.
 
-- **Estimated length:** 1 h 04 min
-- **Sampled range:** 59 min to 1 h 06 min for the middle half (full spread 45 min to 1 h 20 min) across 16 playthrough uploads (18 further candidates screened out)
+- **Estimated length:** 1 h 03 min
+- **Sampled range:** 58 min to 1 h 06 min for the middle half (full spread 45 min to 1 h 20 min) across 15 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Released in:** At the Wake of Spring (1.2)
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 6 of 16 uploads
+- **Stability:** median +0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 6 of 15 uploads
 - **Quest parts (3):** Thus Rise the Wave and Wind (6 min); Tremors of the Crashing Tide (33 min); Where Friendship Was Made (21 min)
 <!--/gen-->
 
@@ -251,7 +248,6 @@ One of the three shortest entries in the questline.
 | 1 h 06 min | Arknights: Endfield - Wrothful Tide - Chapter 2 - Process 5 - Main Mission | Pik | 33 | 2026-07-08 | <https://www.youtube.com/watch?v=q_Kh9ajLIvE> |
 | 1 h 06 min | Chapter II Process IV, V, VI - Arknights Endfield | daesz | 14 | 2026-04-20 | <https://www.youtube.com/watch?v=-cAnLMmN-nc> |
 | 1 h 06 min | Arknights Endfield 1.2 - Main Story Quest Full Walkthrough | NeoBuns | 274 | 2026-04-20 | <https://www.youtube.com/watch?v=Gfvs97PnNaY> |
-| 1 h 07 min | Wrothful Tide QUEST Chapter II Process V - Arknights Endfield | NeoBuns | 62 | 2026-04-19 | <https://www.youtube.com/watch?v=Kr0pFpeL2pk> |
 | 1 h 13 min | Arknights Endfield 1.2 - Main Story Quest Full Playthrough / Walkthrough (No Commentary) | Admiralvic | 487 | 2026-04-17 | <https://www.youtube.com/watch?v=LC9JLu--RVE> |
 | 1 h 20 min | Arknights Endfield \| Chapter 2, Process 5 \| Wrothful Tide (No Commentary) | Mayovanimates | 63 | 2026-05-04 | <https://www.youtube.com/watch?v=rb2A0y2SVC8> |
 
@@ -268,13 +264,13 @@ the Institute of Materials Science,
 and then the two of them walking up to the rift together.
 <!--gen:stats act="Process VI"-->
 
-- **Estimated length:** 1 h 35 min
-- **Sampled range:** 1 h 30 min to 1 h 38 min for the middle half (full spread 58 min to 2 h 05 min) across 18 playthrough uploads (16 further candidates screened out)
+- **Estimated length:** 1 h 37 min
+- **Sampled range:** 1 h 30 min to 1 h 39 min for the middle half (full spread 58 min to 2 h 05 min) across 16 playthrough uploads (18 further candidates screened out)
 - **Confidence:** high
 - **Released in:** At the Wake of Spring (1.2)
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 6 of 18 uploads
-- **Quest parts (4):** A Breach Starts with a Crack (18 min); Patience Makes Greatness (19 min); Forged at the Very Beginning; Kindred Souls Who Share a Vision (38 min)
+- **Stability:** median +2% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 5 of 16 uploads
+- **Quest parts (4):** A Breach Starts with a Crack; Patience Makes Greatness; Forged at the Very Beginning; Kindred Souls Who Share a Vision
 <!--/gen-->
 
 <!--gen:evidence act="Process VI"-->
@@ -284,12 +280,10 @@ and then the two of them walking up to the rift together.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 58 min | Endfield - Ponderous Load - Chapter II - Process VI - just cleaning my shit in wuling | JAIBA | ~1 | n/a | <https://www.youtube.com/watch?v=p7PW50qB7CA> |
-| 1 h 19 min | Endfield - Ponderous Load - Chapter II - Process VI - Urgent - Like Fire and Ice | JAIBA | 5 | 2026-04-26 | <https://www.youtube.com/watch?v=35Cse4hUhAg> |
 | 1 h 26 min | Ponderous Load - Chapter II: Process VI (Full Main Story) \| Arknights: Endfield 1.2 | Sir Patty | 18 | 2026-04-23 | <https://www.youtube.com/watch?v=gxu2MsCffXI> |
 | 1 h 29 min | [Arknights: Endfield 1.2] Chapter 2: Process 6 - Ponderous Load \| Full Story Playthrough | EllooTV | 32 | 2026-05-26 | <https://www.youtube.com/watch?v=s8qMDLLFxb8> |
 | 1 h 30 min | Endfield Main Story Chapter 2: Process 6 Ponderous Load Full Walkthrough \| Arknights: Endfield 1.2 | Akabirama | 1,082 | 2026-04-18 | <https://www.youtube.com/watch?v=y5e0gaf17gs> |
 | 1 h 31 min | Arknights Endfield 1.2 - Main Story Quest Full Walkthrough | NeoBuns | 274 | 2026-04-20 | <https://www.youtube.com/watch?v=Gfvs97PnNaY> |
-| 1 h 31 min | Ponderous Load QUEST Chapter II Process VI - Arknights Endfield | NeoBuns | 136 | 2026-04-20 | <https://www.youtube.com/watch?v=RhCxHyktOGk> |
 | 1 h 32 min | [ ARKNIGHTS: ENDFIELD ] Chapter II: Process VI - PONDEROUS LOAD [ FULL STORY / NO COMMENTARY ] | Uranium Tea Gaming | ~28 | n/a | <https://www.youtube.com/watch?v=x0iWUP45Jcc> |
 | 1 h 34 min | Arknights: Endfield 1.2 - Main Quest (Chapter II Process IV-VI) \| Full Walkthrough JP Dub Male MC | Ren Kitarou 恋喜太朗 | 18 | 2026-04-29 | <https://www.youtube.com/watch?v=NTTZqKwQEcM> |
 | 1 h 35 min | Arknights: Endfield \| Ep33 \| Chapter 2: Process 6 - Ponderous Load | ZeroNemeziz | ~40 | n/a | <https://www.youtube.com/watch?v=zTAKjlh0RMc> |

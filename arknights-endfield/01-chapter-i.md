@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter I
 
-**Region:** Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | **Game versions:** 1.0 | **Entries:** 5 | **Estimated chapter length: 8 h 30 min**
+**Region:** Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | **Game versions:** 1.0 | **Entries:** 5 | **Estimated chapter length: 8 h 28 min**
 <!--/gen-->
 
 Valley IV, where the Endministrator wakes out of ten years of stasis
@@ -14,21 +14,21 @@ from the dark Hub Base to the Æther Test Site under the rift.
 <!--gen:glance-->
 | Process | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prologue | Prologue | 29 min | 26 min - 32 min | 16 | high |
-| Process I | The Broken Lands | 2 h 39 min | 2 h 06 min - 2 h 51 min | 15 | medium |
+| Prologue | Prologue | 28 min | 25 min - 29 min | 14 | high |
+| Process I | The Broken Lands | 2 h 38 min | 1 h 59 min - 3 h 05 min | 14 | low |
 | Process II | The Turbid Heavens | 59 min | 32 min - 1 h 18 min | 11 | low |
 | Process III | Path of Ascension | 2 h 37 min | 2 h 14 min - 2 h 51 min | 14 | medium |
 | Process IV | Smoking Embers | 1 h 46 min | 1 h 35 min - 2 h 03 min | 12 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->8 h 30 min<!--/f-->**
+**Total: <!--f:total-->8 h 28 min<!--/f-->**
 
 ## Pacing
 
 The chapter's weight sits in *The Broken Lands* and *Path of Ascension*,
 its two longest entries,
 <!--f:parts_Process_I-->eight<!--/f--> and <!--f:parts_Process_III-->ten<!--/f--> missions apiece
-and <!--f:len_Process_I-->2 h 39 min<!--/f--> and <!--f:len_Process_III-->2 h 37 min<!--/f--> on the clock:
+and <!--f:len_Process_I-->2 h 38 min<!--/f--> and <!--f:len_Process_III-->2 h 37 min<!--/f--> on the clock:
 both are overland crossings on foot with a set-piece fight at the end,
 and they are <!--f:n_above_2h-->two<!--/f--> of the <!--f:n_entries-->five<!--/f--> entries here
 to run past two hours.
@@ -55,12 +55,12 @@ with everything about themselves to relearn.
 <!--gen:stats act="Prologue"-->
 The shortest entry in the questline.
 
-- **Estimated length:** 29 min
-- **Sampled range:** 26 min to 32 min for the middle half (full spread 17 min to 35 min) across 16 playthrough uploads (30 further candidates screened out)
+- **Estimated length:** 28 min
+- **Sampled range:** 25 min to 29 min for the middle half (full spread 17 min to 34 min) across 14 playthrough uploads (32 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Zeroth Directive (1.0)
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 16 uploads
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 14 uploads
 - **Quest parts (2):** Process: Cold Start; Process: Awakening
 <!--/gen-->
 
@@ -82,10 +82,8 @@ The shortest entry in the questline.
 | 29 min | Arknights: Endfield Main Story - Part One (No Commentary) | ZenzenHeiki | 20 | 2026-02-18 | <https://www.youtube.com/watch?v=CrkCD8lQVXg> |
 | 29 min | Arknights: Endfield - Full Gameplay Episode 1 (No Commentary) - Prologue & Chapter 1 \| PS5 1080p | ZaxFih_Channel | 21 | 2026-01-24 | <https://www.youtube.com/watch?v=FWKYlGKBA8c> |
 | 30 min | Force Start — Prologue — Arknights Endfield | RPG Plays TV | 3 | 2026-02-11 | <https://www.youtube.com/watch?v=ichyDSUXeSA> |
-| 32 min | Arknights Endfield - Main Story Quest - Chapter 1 & Prologue (Part 2) Playthrough | Made by The Boys | 15 | 2026-02-20 | <https://www.youtube.com/watch?v=uKsB2xkNXZk> |
 | 33 min | [Arknights: Endfield] Story Playthrough (No Commentary) – Part 1 | HaWuTsKi Archive | 84 | 2026-01-26 | <https://www.youtube.com/watch?v=FQzvQIdxtD4> |
 | 34 min | Prologue \| Arknights: Endfield \| Cinematic Playthrough Episode 1 | Wizwag Plays | 18 | 2026-01-22 | <https://www.youtube.com/watch?v=_bK61DteAJc> |
-| 35 min | Arknights Endfield - Main Story Quest - Chapter 1 & Prologue (Part 1) Playthrough | Made by The Boys | 24 | 2026-02-02 | <https://www.youtube.com/watch?v=YAhWqsJDubA> |
 
 </details>
 <!--/gen-->
@@ -103,12 +101,12 @@ where Rhodagn is waiting.
 <!--gen:stats act="Process I"-->
 One of the three longest processes in the game.
 
-- **Estimated length:** 2 h 39 min
-- **Sampled range:** 2 h 06 min to 2 h 51 min for the middle half (full spread 1 h 27 min to 3 h 59 min) across 15 playthrough uploads (42 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 38 min
+- **Sampled range:** 1 h 59 min to 3 h 05 min for the middle half (full spread 1 h 27 min to 3 h 59 min) across 14 playthrough uploads (43 further candidates screened out)
+- **Confidence:** low
 - **Released in:** Zeroth Directive (1.0)
 - **Stability:** median -1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 5 of 15 uploads
+- **Measured from the uploader's chapter markers:** 5 of 14 uploads
 - **Quest parts (8):** Break the Siege; Valley Reboot; Rally and Unite; Westward into the Vale; Secure Sanctuary; Building an Outpost; Through the Haze; Fort Showdown
 <!--/gen-->
 
@@ -126,7 +124,6 @@ One of the three longest processes in the game.
 | 2 h 31 min | Main Mission: "Process I - The Broken Lands" (Japanese dub/English sub) - Arknights: Endfield | Aruki | ~6 | n/a | <https://www.youtube.com/watch?v=l6lMOIqpCck> |
 | 2 h 37 min | [Arknights: Endfield] Chapter 1: Process 1 - The Broken Lands \| Full Story Playthrough | EllooTV | 22 | 2026-05-11 | <https://www.youtube.com/watch?v=AZnTScrG2pk> |
 | 2 h 39 min | Arknights Endfield: Main Quest 1.0 - Chapter 1 - Bầu Trời U Ám (The Broken Lands) - Part 1 | HOANGDG | 238 | 2026-01-24 | <https://www.youtube.com/watch?v=va4nnCvNrVM> |
-| 2 h 41 min | Arknights Endfield: Main Quest 1.0 - Chapter 1 - Bầu Trời U Ám (The Broken Lands) - Part 2 | HOANGDG | 320 | 2026-01-25 | <https://www.youtube.com/watch?v=idZTBaKvZss> |
 | 2 h 44 min | Arknights Endfield Gameplay \| Main Story Quest : Chapter 1 The Broken Lands (Process 1) | Mysterious Hero | ~1,013 | n/a | <https://www.youtube.com/watch?v=xaCR6i_jOnY> |
 | 2 h 48 min | [ ARKNIGHTS ENDFIELD ] Chapter I: Process I - THE BROKEN LANDS - [ FULL STORY / NO COMMENTARY ] | Uranium Tea Gaming | 145 | 2026-01-24 | <https://www.youtube.com/watch?v=Ar-vaGNg-OY> |
 | 2 h 51 min | The Broken Lands Main Mission \| Arknights: Endfield Chapter 1 prgogres 1 Gameplay Walkthrough | Life is Wakaranai | ~70 | n/a | <https://www.youtube.com/watch?v=sUZ_t5j2vl8> |
