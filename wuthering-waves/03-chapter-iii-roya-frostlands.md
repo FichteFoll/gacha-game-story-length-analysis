@@ -116,7 +116,7 @@ enrolment, an ID photo, the infirmary, and Lynae's missing-attendance problem.
 | 2 h 37 min | Wuthering Waves 3.0 - Main Quest Ch. III Act I: What Burns Beneath Frostlands (Full Quest) 4K 120FPS | RTXMonkey | 116 | 2025-12-26 | <https://www.youtube.com/watch?v=Lmz3EXg9DMk> |
 | 2 h 38 min | What burns beneath frostlands full quest uncut 3.0 wuthering waves | DreamerQuests | 42 | 2025-12-26 | <https://www.youtube.com/watch?v=7UaaOGYWvPo> |
 | 2 h 42 min | What Burns Beneath Frostlands, 3.0 Chapter 3 Act 1 Main story , Part 1 of 2 - Wuthering Waves 4K | Grateful Gaming 4K | 17 | 2025-12-29 | <https://www.youtube.com/watch?v=DmWA_AGRYDI> |
-| 2 h 44 min | WHAT BURNS BENEATH FROSTLANDS - Version 3.0 Act 1 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | ~78 | n/a | <https://www.youtube.com/watch?v=cp-rSDSkPWk> |
+| 2 h 44 min | WHAT BURNS BENEATH FROSTLANDS - Version 3.0 Act 1 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 78 | 2026-01-01 | <https://www.youtube.com/watch?v=cp-rSDSkPWk> |
 | 2 h 55 min | Wuthering Waves 3.0 Story Walkthrough Complete - Prologue & Act 1 [4K 60FPS] | Headstart Gaming | ~592 | n/a | <https://www.youtube.com/watch?v=kUn4A3aJzQY> |
 | 2 h 57 min | Wuthering Waves 3.0 Story - Chapter 3 Prologue: When the Unknown Thrums & Act 1 (Male Rover) | QuestWatcher | ~17 | n/a | <https://www.youtube.com/watch?v=tBrILPPIlZ8> |
 | 2 h 57 min | Wuthering Waves Main Quest: Lahai-Roi Act 1 - What Burns Beneath Frostlands | Drexyz | ~9 | n/a | <https://www.youtube.com/watch?v=rnJzPP5Vhts> |
@@ -471,7 +471,7 @@ One of the three shortest entries in the questline.
 | 12 min | Wuthering Waves - Story Quest Chapter III Segue Wishes in the Bell: Epilogue walkthrough | heriawsity | ~86 | n/a | <https://www.youtube.com/watch?v=rxdOMqNIsoI> |
 | 12 min | Wuthering Waves 3.3 Chapter 3 Segue \| Wishes in the Bell Epilogue \| 4K 60FPS No Commentary | RavennKlauw | 1 | 2026-07-07 | <https://www.youtube.com/watch?v=9kc9-yCeGYc> |
 | 13 min | Wishes in the Bell: Epilogue — Chapter 3, Segue — Wuthering Waves | RPG Plays TV | 135 | 2026-05-07 | <https://www.youtube.com/watch?v=EYVteFOC2bs> |
-| 14 min | Wuthering Waves 3.3 - Main Story Quest: "Wishes in the Bell: Epilogue" | BSS Gaming | ~84 | n/a | <https://www.youtube.com/watch?v=e9Kv2_XAZdA> |
+| 14 min | Wuthering Waves 3.3 - Main Story Quest: "Wishes in the Bell: Epilogue" | BSS Gaming | 84 | 2026-06-09 | <https://www.youtube.com/watch?v=e9Kv2_XAZdA> |
 | 14 min | Chapter 3 Lahai-Roi Act V Segue Wishes in the Bell Epilogue JP Dub FRover \| Wuthering Waves | Falynn | 62 | 2026-05-10 | <https://www.youtube.com/watch?v=Svc8yk4ufSQ> |
 | 14 min | Wuthering Waves [Main Story] [Ver 3.3] - Wishes in the Bell: Epilogue Walkthrough [JP Dub] | Fresh and Crispy Games | ~3 | n/a | <https://www.youtube.com/watch?v=haKKlPwjU_Y> |
 | 14 min | Wuthering Waves Segue Quest \| Wishes in the Bell : Epilogue \| No Commentary | Ciamiko | 11 | 2026-06-07 | <https://www.youtube.com/watch?v=5Nx2TRv9IvA> |

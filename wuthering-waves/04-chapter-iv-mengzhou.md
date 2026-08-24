@@ -125,7 +125,7 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | 2 h 33 min | Menghzou Act 2 Full Story Quest Playthrough - Wuthering Waves 3.5 | Fayato | ~2,100 | n/a | <https://www.youtube.com/watch?v=eUATy6TldZU> |
 | 2 h 37 min | Wuthering Waves 3.5 \| Mengzhou Chapter IV-ACT II (Full Quest) \| Xuanling Sings, Storm Quelled | SsjBankai00 | 7 | 2026-07-30 | <https://www.youtube.com/watch?v=EOriEx0rB-c> |
 | 2 h 38 min | [Wuthering Waves 3.5] Chapter IV Act II "Xuanling Sings, Storm Quelled" Full Quest | Andromeda Impact  | 13 | 2026-07-11 | <https://www.youtube.com/watch?v=Z3mD8BSGlCs> |
-| 2 h 38 min | FULL Chapter 4 Act 2 Mengzhou \| Wuthering Waves 3.5 "Xuanling Sings, Storm Quelled" | T.H Bunn | ~43 | n/a | <https://www.youtube.com/watch?v=ekT1sAqpo0M> |
+| 2 h 38 min | FULL Chapter 4 Act 2 Mengzhou \| Wuthering Waves 3.5 "Xuanling Sings, Storm Quelled" | T.H Bunn | 43 | 2026-07-10 | <https://www.youtube.com/watch?v=ekT1sAqpo0M> |
 | 2 h 39 min | Wuthering Waves Walkthrough Part 749 - Chapter 4 Act 2: Xuanling Sings, Storm Quelled (No Comment) | MG PlayX | 23 | 2026-08-09 | <https://www.youtube.com/watch?v=4suSKjtgGeI> |
 | 2 h 39 min | Mengzhou Main Quest Chapter 4 : Act 2 \| Xuanling Sings, Storm Quelled \| Wuthering Waves 3.5 #wuwa | Senthu Gamer | ~63 | n/a | <https://www.youtube.com/watch?v=jxRuXWT4oNU> |
 | 2 h 40 min | Wuthering Waves 3.5 Full Story \| Chapter IV Acts I-II & Segue \| 4K 60FPS No Commentary | RavennKlauw | 24 | 2026-07-10 | <https://www.youtube.com/watch?v=W7SzDZPCrwg> |

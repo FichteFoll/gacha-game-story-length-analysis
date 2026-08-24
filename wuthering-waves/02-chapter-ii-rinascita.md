@@ -120,7 +120,7 @@ gondolas, and an Echo that loses control in the middle of it all.
 | 1 h 08 min | [Wuthering Waves Main Quest] The Sacred Breeze So Often Breathes: Follow Phoebe Into The City | Authrone | ~233 | n/a | <https://www.youtube.com/watch?v=iOfxIRSfRR4> |
 | 1 h 11 min | Wuthering Waves [Main Story] [Ver 2.0] - The Sacred Breeze So Often Breathes Walkthrough [JP Dub]] | Fresh and Crispy Games | ~10 | n/a | <https://www.youtube.com/watch?v=qrbdCesDMiE> |
 | 1 h 17 min | Wuthering Waves - Chapter 2 Act 1: The Sacred Breeze So Often Breathes \| Full Story JP Dub EN Sub 4K | Gudaoko | 705 | 2025-01-06 | <https://www.youtube.com/watch?v=U1swTBrC8A4> |
-| 1 h 24 min | Wuthering Waves - Rinascita Main Quest ACT 1 - The Sacred Breeze So Often Breathes | Sho | ~70 | n/a | <https://www.youtube.com/watch?v=jBDOelqP8q4> |
+| 1 h 24 min | Wuthering Waves - Rinascita Main Quest ACT 1 - The Sacred Breeze So Often Breathes | Sho | 70 | 2025-01-02 | <https://www.youtube.com/watch?v=jBDOelqP8q4> |
 | 1 h 29 min | Rinascita ACT 1 & Prologue Full Quest Version Main Story Quest \| Wuthering Waves 2.0 | NeoBuns | 133 | 2025-01-04 | <https://www.youtube.com/watch?v=CoEWgHBkms0> |
 | 1 h 41 min | Wuthering Waves 2.0 Story - Chapter 2 Prologue: Through the Sea Thou Break & Act 1 (Female Rover) | QuestWatcher | 821 | 2025-12-29 | <https://www.youtube.com/watch?v=P234wWPiYfQ> |
 | 1 h 47 min | Version 2.0 Main Story Quest (4k60fps) - Rinascita ACT 1 & Prologue (Full Quest) \| Wuthering Waves | Krazili | ~145 | n/a | <https://www.youtube.com/watch?v=mnJ9YPtyvVQ> |
@@ -546,7 +546,7 @@ into the Mad King's arena.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 40 min | Wuthering Waves 2.7 \| The Bygone Shall Always Return Rinascita \| Galbrena Companion Quest (part -1) | Kynetra | 38 | 2025-10-09 | <https://www.youtube.com/watch?v=Xg8o2LmK2uM> |
 | 1 h 50 min | Rinascita Chapter 2 Act 10 Full Playthrough - Wuthering Waves 2.7 | Fayato | 2,973 | 2025-10-09 | <https://www.youtube.com/watch?v=zv_igWt9PKo> |
-| 1 h 50 min | The Bygone Shall Always Return \| Main Quest \| Wuthering Waves | Jig5aw 2 | ~12 | n/a | <https://www.youtube.com/watch?v=hdSOzv_0194> |
+| 1 h 50 min | The Bygone Shall Always Return \| Main Quest \| Wuthering Waves | Jig5aw 2 | 12 | 2026-08-17 | <https://www.youtube.com/watch?v=hdSOzv_0194> |
 | 1 h 53 min | 2.7 \|  Main Story Act - 10 \| Wuthering Waves \| The Bygone Shall Always Return | Maurya Playz | 21 | 2025-10-16 | <https://www.youtube.com/watch?v=XRazvd6cHQc> |
 | 1 h 55 min | [Wuthering Waves] 2.7 Main Story Quest (Part 1) \| Chapter 2 Act 10 - The Bygone Shall Always Return | Game Chronicles | 22 | 2026-06-18 | <https://www.youtube.com/watch?v=Cc40RQI1tqU> |
 | 1 h 55 min | THE BYGONE SHALL ALWAYS RETURN - Version 2.7 Act 10 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 38 | 2025-10-12 | <https://www.youtube.com/watch?v=ldr6xrbamg8> |
@@ -593,7 +593,7 @@ One of the three longest acts in the game.
 | 2 h 28 min | Dawn Breaks on Dark Tides FULL QUEST 2.7 Wuthering Waves | ZaFrostPet | ~7,555 | n/a | <https://www.youtube.com/watch?v=m7u2sfp3u8k> |
 | 3 h 39 min | 'Dawn Breaks on Dark Tides' \| Chapter 2 Act 11 \| Wuthering Waves 2.7 | SECO | ~45 | n/a | <https://www.youtube.com/watch?v=dvSbDyxrLAY> |
 | 4 h 07 min | Wuthering Waves 2.7 Full Story Quest Walkthrough Part 2 - Ending [Act 11] | CGInferno | 6,550 | 2025-10-09 | <https://www.youtube.com/watch?v=7bSmOJcxMDY> |
-| 4 h 07 min | WuWa Main Quest Rinascita 2 Act 11 Dawn Breaks on Dark Tides Full Walkthrough \| Wuthering Waves 2.7 | Akabirama | ~16,956 | n/a | <https://www.youtube.com/watch?v=dbUo8JIsdXc> |
+| 4 h 07 min | WuWa Main Quest Rinascita 2 Act 11 Dawn Breaks on Dark Tides Full Walkthrough \| Wuthering Waves 2.7 | Akabirama | 16,956 | 2025-10-11 | <https://www.youtube.com/watch?v=dbUo8JIsdXc> |
 | 4 h 07 min | DAWN BREAKS ON DARK TIDES - Version 2.7 Act 11 Finale Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 48 | 2025-10-25 | <https://www.youtube.com/watch?v=tvDrPoz_viY> |
 | 4 h 23 min | Wuthering Waves 2.7 Story - Chapter 2 Act 11: Dawn Breaks on Dark Tides (Female Rover) | QuestWatcher | 748 | 2026-01-20 | <https://www.youtube.com/watch?v=DaFecskliWw> |
 | 4 h 35 min | Wuthering Waves Chapter 2 Act 11: Dawn Breaks on Dark Tides | TheWayCafe Productions | 927 | 2025-10-16 | <https://www.youtube.com/watch?v=-9i1xyHs1q8> |
