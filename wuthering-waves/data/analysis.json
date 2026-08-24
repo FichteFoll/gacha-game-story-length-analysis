@@ -23,8 +23,9 @@
     "title": "Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=SzSifkaGfiM",
-    "views": "3543",
-    "rejected": []
+    "views": 3543,
+    "rejected": [],
+    "upload_date": "20251118"
    },
    {
     "seconds": 2325,
@@ -66,14 +67,15 @@
     "upload_date": "20240523"
    },
    {
-    "seconds": 2190,
+    "seconds": 2189,
     "title": "Wuthering Waves Main Quest: Prologue Utterance of Marvels - Full Gameplay Walkthrough (No Commentary",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Qza38smzwM4",
-    "views": "425",
+    "views": 425,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250112"
    },
    {
     "seconds": 2771,
@@ -117,15 +119,16 @@
     "parts": {}
    },
    {
-    "seconds": 9148,
+    "seconds": 2014,
     "title": "Wuthering Waves | Prologue Act 1, 2 And Main Story Chapter 1 Act 1, 2",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=_x7HRlf2RJs",
-    "views": "455",
-    "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+    "views": 455,
+    "rejected": [],
+    "upload_date": "20240730",
+    "runtime": 9147,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 2031,
@@ -137,26 +140,28 @@
     "upload_date": "20250603"
    },
    {
-    "seconds": 2886,
+    "seconds": 2885,
     "title": "Wuthering Waves ( PS5 4K ) Walkthrough Gameplay Part 1 Main Quest - Utterance of Marvels",
     "uploader": "alexx200x",
     "url": "https://www.youtube.com/watch?v=P8l4zgJuLDU",
-    "views": "64",
+    "views": 64,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250102"
    },
    {
     "seconds": 2306,
     "title": "Wuthering Waves - Part 1 | Utterance of Marvels - Main Story Quest | 4K60FPS",
     "uploader": "WerewolfDemons",
     "url": "https://www.youtube.com/watch?v=M3KdWwAx8FU",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260604"
    },
    {
     "seconds": 1680,
@@ -172,11 +177,12 @@
     "title": "Wuthering Waves - Part 1 (Story and Gameplay)",
     "uploader": "Bek",
     "url": "https://www.youtube.com/watch?v=HtI2nf6omrw",
-    "views": "113",
+    "views": 113,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240523"
    },
    {
     "seconds": 2314,
@@ -250,14 +256,15 @@
     "upload_date": "20240526"
    },
    {
-    "seconds": 4027,
+    "seconds": 4026,
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=QGFTzgg4mnE",
-    "views": "50",
+    "views": 50,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251121"
    },
    {
     "seconds": 4694,
@@ -275,10 +282,11 @@
     "title": "Wuthering Waves 1.1 - New Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=afv5smQniOk",
-    "views": "101922",
+    "views": 101913,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240628"
    },
    {
     "seconds": 6480,
@@ -312,25 +320,27 @@
     "upload_date": "20250830"
    },
    {
-    "seconds": 1448,
+    "seconds": 1447,
     "title": "Wuthering Waves | Part 1 | No Commentary | First Playthrough #WutheringWaves #WutheringWavesGameplay",
     "uploader": "\u86cd (\u307b\u305f\u308b / Hotaru)",
     "url": "https://www.youtube.com/watch?v=_FsK6_XSFfY",
-    "views": "9",
+    "views": 9,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251224"
    },
    {
-    "seconds": 3273,
+    "seconds": 3272,
     "title": "Wuthering waves GAMEPLAY [Chapter 1 Act 1 First Resonance] [No Commentary]",
     "uploader": "Anime viral shots",
     "url": "https://www.youtube.com/watch?v=VwVMVTgMxzI",
-    "views": "8",
+    "views": 8,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240531"
    },
    {
     "seconds": 1011,
@@ -403,6 +413,18 @@
     "upload_date": "20240608"
    },
    {
+    "seconds": 2014,
+    "title": "Wuthering Waves | Prologue Act 1, 2 And Main Story Chapter 1 Act 1, 2",
+    "uploader": "JihoEcho",
+    "url": "https://www.youtube.com/watch?v=_x7HRlf2RJs",
+    "views": 455,
+    "rejected": [],
+    "upload_date": "20240730",
+    "runtime": 9147,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
     "seconds": 2031,
     "title": "Wuthering Waves: Utterance of Marvels ACT: I & II FULL QUEST (4K/60fps PS5 Gameplay - No Commentary)",
     "uploader": "Sakibrex AdvGaming",
@@ -425,8 +447,9 @@
     "title": "Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=SzSifkaGfiM",
-    "views": "3543",
-    "rejected": []
+    "views": 3543,
+    "rejected": [],
+    "upload_date": "20251118"
    },
    {
     "seconds": 2190,
@@ -499,14 +522,14 @@
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 14,
    "median": 36,
    "low": 20,
    "high": 46,
-   "q1": 31,
+   "q1": 32,
    "q3": 40,
    "trimmed_mean": 36,
-   "measured": 2,
+   "measured": 3,
    "parts": {},
    "drift": 0.0
   }
@@ -520,26 +543,30 @@
   "slug": "prologue_Prologue_II",
   "candidates": [
    {
-    "seconds": 2619,
+    "seconds": 2618,
     "title": "Utterance of Marvels I & II \u3010Prologue Chapter: Act I & II\u3011 Main Story | Wuthering Waves (JP Dub)",
     "uploader": "Yui Neko Ch.",
     "url": "https://www.youtube.com/watch?v=LY1swxc4mpY",
-    "views": "30",
+    "views": 30,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240531"
    },
    {
-    "seconds": 9148,
+    "seconds": 2014,
     "title": "Wuthering Waves | Prologue Act 1, 2 And Main Story Chapter 1 Act 1, 2",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=_x7HRlf2RJs",
-    "views": "455",
+    "views": 455,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+     "long-outlier"
+    ],
+    "upload_date": "20240730",
+    "runtime": 9147,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 1733,
@@ -553,14 +580,15 @@
     "upload_date": "20260613"
    },
    {
-    "seconds": 2190,
+    "seconds": 2189,
     "title": "Wuthering Waves Main Quest: Prologue Utterance of Marvels - Full Gameplay Walkthrough (No Commentary",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Qza38smzwM4",
-    "views": "425",
+    "views": 425,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250112"
    },
    {
     "seconds": 2444,
@@ -589,8 +617,9 @@
     "title": "Wuthering Waves - Utterance of Marvels: II - Quest Walkthrough",
     "uploader": "Trophy Tom",
     "url": "https://www.youtube.com/watch?v=MfptioogvQw",
-    "views": "375",
-    "rejected": []
+    "views": 375,
+    "rejected": [],
+    "upload_date": "20240523"
    },
    {
     "seconds": 903,
@@ -616,10 +645,11 @@
     "title": "Beginning of a World \u2013 Act 1 Utterance of Marvels II | Wuthering Waves No Commentary",
     "uploader": "FunQuestGamer",
     "url": "https://www.youtube.com/watch?v=LJKEZEB8KtE",
-    "views": "14",
+    "views": 14,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250915"
    },
    {
     "seconds": 90,
@@ -658,22 +688,24 @@
     "title": "Wuthering Waves - Part 1 (Story and Gameplay)",
     "uploader": "Bek",
     "url": "https://www.youtube.com/watch?v=HtI2nf6omrw",
-    "views": "113",
+    "views": 113,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240523"
    },
    {
-    "seconds": 2886,
+    "seconds": 2885,
     "title": "Wuthering Waves ( PS5 4K ) Walkthrough Gameplay Part 1 Main Quest - Utterance of Marvels",
     "uploader": "alexx200x",
     "url": "https://www.youtube.com/watch?v=P8l4zgJuLDU",
-    "views": "64",
+    "views": 64,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250102"
    },
    {
     "seconds": 6254,
@@ -732,14 +764,15 @@
     ]
    },
    {
-    "seconds": 7516,
+    "seconds": 7515,
     "title": "Wuthering Waves #1 - Mein erstes Mal unterwegs mit dem Rover in der Welt von Solaris-3",
     "uploader": "Kirayuzu VODs",
     "url": "https://www.youtube.com/watch?v=SYgPfiVtKwc",
-    "views": "150",
+    "views": 150,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240525"
    },
    {
     "seconds": 2309,
@@ -796,15 +829,16 @@
     "upload_date": "20260527"
    },
    {
-    "seconds": 1839,
+    "seconds": 1838,
     "title": "1.0 Story Quest | Huanglong I Act V | Jinzhou Rising: Rewinding Raindrops (Part 2) | Wuthering Waves",
     "uploader": "D & K",
     "url": "https://www.youtube.com/watch?v=KzIhSg4JZFA",
-    "views": "6586",
+    "views": 6586,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240623"
    },
    {
     "seconds": 2516,
@@ -818,15 +852,16 @@
     "upload_date": "20240523"
    },
    {
-    "seconds": 1448,
+    "seconds": 1447,
     "title": "Wuthering Waves | Part 1 | No Commentary | First Playthrough #WutheringWaves #WutheringWavesGameplay",
     "uploader": "\u86cd (\u307b\u305f\u308b / Hotaru)",
     "url": "https://www.youtube.com/watch?v=_FsK6_XSFfY",
-    "views": "9",
+    "views": 9,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251224"
    },
    {
     "seconds": 820,
@@ -866,11 +901,12 @@
     "title": "Wuthering Waves Part 1 \u2013 Echoing Marche | Gameplay Walkthrough (No Commentary)",
     "uploader": "Kurisu Gaming",
     "url": "https://www.youtube.com/watch?v=AcRUHtmX0r4",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260410"
    },
    {
     "seconds": 406,
@@ -878,7 +914,9 @@
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=rK-cbiVimig",
     "views": "325",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 150,
@@ -899,34 +937,37 @@
     "rejected": []
    },
    {
-    "seconds": 323,
+    "seconds": 322,
     "title": "Utterance of Marvels: II: Defeat nearby TDs \u2013 Main Quest | Wuthering Waves PS5",
     "uploader": "PanyapiN Gaming \u0e1b\u0e31\u0e0d\u0e0d\u0e1e\u0e34\u0e19\u0e08\u0e4c \u0e40\u0e01\u0e21\u0e21\u0e34\u0e48\u0e07",
     "url": "https://www.youtube.com/watch?v=4whSRbo3jcA",
-    "views": "3",
+    "views": 3,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260630"
    },
    {
-    "seconds": 604,
+    "seconds": 603,
     "title": "Wuthering Waves - Chapter \u2160: Jinzhou Rising, Utterance of Marvels: part \u2161",
     "uploader": "snxwfa1l",
     "url": "https://www.youtube.com/watch?v=Y-b5AMVuNDc",
-    "views": "2",
+    "views": 2,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251105"
    },
    {
     "seconds": 2199,
     "title": "Wuthering Waves | Prologue Quest | Utterance of Marvels 1 & 2 | Twitch iicyspicyy |",
     "uploader": "icyspicy",
     "url": "https://www.youtube.com/watch?v=JlIpL8kT7nE",
-    "views": "95",
+    "views": 95,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250806"
    },
    {
     "seconds": 3793,
@@ -953,20 +994,13 @@
   ],
   "kept": [
    {
-    "seconds": 406,
-    "title": "Utterance of Marvels 2 Wuthering Waves",
-    "uploader": "ZaFrostPet",
-    "url": "https://www.youtube.com/watch?v=rK-cbiVimig",
-    "views": "325",
-    "rejected": []
-   },
-   {
     "seconds": 460,
     "title": "Wuthering Waves - Utterance of Marvels: II - Quest Walkthrough",
     "uploader": "Trophy Tom",
     "url": "https://www.youtube.com/watch?v=MfptioogvQw",
-    "views": "375",
-    "rejected": []
+    "views": 375,
+    "rejected": [],
+    "upload_date": "20240523"
    },
    {
     "seconds": 901,
@@ -987,16 +1021,16 @@
    }
   ],
   "stats": {
-   "n": 4,
-   "median": 11,
-   "low": 7,
+   "n": 3,
+   "median": 15,
+   "low": 8,
    "high": 15,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 11,
+   "trimmed_mean": 13,
    "measured": 0,
    "parts": {},
-   "drift": 0.375
+   "drift": 0.875
   }
  },
  {
@@ -1017,12 +1051,13 @@
     "upload_date": "20250801"
    },
    {
-    "seconds": 2714,
+    "seconds": 2713,
     "title": "Huanglong I-Act I First Resonance Wuthering Waves Quest Completed By HypeRaceX",
     "uploader": "HypeRaceX",
     "url": "https://www.youtube.com/watch?v=Moc3HTYHoaU",
-    "views": "14",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20250403"
    },
    {
     "seconds": 3129,
@@ -1048,10 +1083,11 @@
     "title": "First Resonance - Wuthering Waves - Part 1 - Main Quest",
     "uploader": "Jig5aw 2",
     "url": "https://www.youtube.com/watch?v=MMEwO1fAoOc",
-    "views": "31",
+    "views": 31,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250730"
    },
    {
     "seconds": 2552,
@@ -1087,12 +1123,13 @@
     "rejected": []
    },
    {
-    "seconds": 4027,
+    "seconds": 4026,
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=QGFTzgg4mnE",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20251121"
    },
    {
     "seconds": 4176,
@@ -1109,8 +1146,9 @@
     "title": "Chapter I - Act I: First Resonance | Wuthering Waves 1.0",
     "uploader": "xored",
     "url": "https://www.youtube.com/watch?v=Su1clah5938",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20251019"
    },
    {
     "seconds": 4176,
@@ -1206,10 +1244,11 @@
     "title": "Wuthering Waves 1.1 - New Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=afv5smQniOk",
-    "views": "101917",
+    "views": 101913,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240628"
    },
    {
     "seconds": 6354,
@@ -1251,12 +1290,13 @@
     "rejected": []
    },
    {
-    "seconds": 2714,
+    "seconds": 2713,
     "title": "Huanglong I-Act I First Resonance Wuthering Waves Quest Completed By HypeRaceX",
     "uploader": "HypeRaceX",
     "url": "https://www.youtube.com/watch?v=Moc3HTYHoaU",
-    "views": "14",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20250403"
    },
    {
     "seconds": 2850,
@@ -1304,12 +1344,13 @@
     "upload_date": "20250803"
    },
    {
-    "seconds": 4027,
+    "seconds": 4026,
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=QGFTzgg4mnE",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20251121"
    },
    {
     "seconds": 4050,
@@ -1324,8 +1365,9 @@
     "title": "Chapter I - Act I: First Resonance | Wuthering Waves 1.0",
     "uploader": "xored",
     "url": "https://www.youtube.com/watch?v=Su1clah5938",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20251019"
    },
    {
     "seconds": 4129,
@@ -1468,8 +1510,9 @@
     "title": "Wuthering Waves | Chapter 1 Act 2: Echoing Marche | Story Playthrough (No Commentary)",
     "uploader": "FantasyCore ",
     "url": "https://www.youtube.com/watch?v=JsZvspK44GE",
-    "views": "43",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20250119"
    },
    {
     "seconds": 2977,
@@ -1531,16 +1574,18 @@
     "title": "Wuthering Waves: Huanglong Main Quest Act 2 Echoing Marche - Walkthrough No Commentary [4K]",
     "uploader": "Prunalaul",
     "url": "https://www.youtube.com/watch?v=PgVpw5JmunM",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20251213"
    },
    {
     "seconds": 2905,
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Female Rover)",
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=U2emm_5r4lg",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20260724"
    },
    {
     "seconds": 2905,
@@ -1590,15 +1635,16 @@
     "upload_date": "20260527"
    },
    {
-    "seconds": 1839,
+    "seconds": 1838,
     "title": "1.0 Story Quest | Huanglong I Act V | Jinzhou Rising: Rewinding Raindrops (Part 2) | Wuthering Waves",
     "uploader": "D & K",
     "url": "https://www.youtube.com/watch?v=KzIhSg4JZFA",
-    "views": "6586",
+    "views": 6586,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240623"
    }
   ],
   "kept": [
@@ -1616,16 +1662,18 @@
     "title": "Wuthering Waves: Huanglong Main Quest Act 2 Echoing Marche - Walkthrough No Commentary [4K]",
     "uploader": "Prunalaul",
     "url": "https://www.youtube.com/watch?v=PgVpw5JmunM",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20251213"
    },
    {
     "seconds": 2072,
     "title": "Wuthering Waves | Chapter 1 Act 2: Echoing Marche | Story Playthrough (No Commentary)",
     "uploader": "FantasyCore ",
     "url": "https://www.youtube.com/watch?v=JsZvspK44GE",
-    "views": "43",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20250119"
    },
    {
     "seconds": 2092,
@@ -1685,8 +1733,9 @@
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Female Rover)",
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=U2emm_5r4lg",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20260724"
    },
    {
     "seconds": 2910,
@@ -1763,12 +1812,13 @@
   "slug": "ch1_Act_III",
   "candidates": [
    {
-    "seconds": 1624,
+    "seconds": 1623,
     "title": "Ominous Star Full Quest Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=VfMfo8tH6r4",
-    "views": "3691",
-    "rejected": []
+    "views": 3691,
+    "rejected": [],
+    "upload_date": "20240523"
    },
    {
     "seconds": 2409,
@@ -1830,18 +1880,20 @@
     "title": "Ominous Star - Wuthering Waves - Part 1 - Main Quest",
     "uploader": "Jig5aw 2",
     "url": "https://www.youtube.com/watch?v=HwTQqfQIbKg",
-    "views": "20",
-    "rejected": []
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20250807"
    },
    {
-    "seconds": 832,
+    "seconds": 831,
     "title": "Ominous Star - Wuthering Waves - Part 2 - Main Quest",
     "uploader": "Jig5aw 2",
     "url": "https://www.youtube.com/watch?v=evM41MjeH0Q",
-    "views": "27",
+    "views": 27,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250809"
    },
    {
     "seconds": 3298,
@@ -1976,12 +2028,13 @@
   ],
   "kept": [
    {
-    "seconds": 1624,
+    "seconds": 1623,
     "title": "Ominous Star Full Quest Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=VfMfo8tH6r4",
-    "views": "3691",
-    "rejected": []
+    "views": 3691,
+    "rejected": [],
+    "upload_date": "20240523"
    },
    {
     "seconds": 1674,
@@ -1996,8 +2049,9 @@
     "title": "Ominous Star - Wuthering Waves - Part 1 - Main Quest",
     "uploader": "Jig5aw 2",
     "url": "https://www.youtube.com/watch?v=HwTQqfQIbKg",
-    "views": "20",
-    "rejected": []
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20250807"
    },
    {
     "seconds": 2067,
@@ -2230,12 +2284,13 @@
     "upload_date": "20250804"
    },
    {
-    "seconds": 3604,
+    "seconds": 3603,
     "title": "Wuthering Waves Complete Main Quest Clashing Blades",
     "uploader": "Waifu Delta",
     "url": "https://www.youtube.com/watch?v=XtGg3zDrR2g",
-    "views": "23",
-    "rejected": []
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20240525"
    },
    {
     "seconds": 3744,
@@ -2279,10 +2334,11 @@
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=R3DnB-ZM2Ug",
-    "views": "49",
+    "views": 49,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20251127"
    },
    {
     "seconds": 3497,
@@ -2489,12 +2545,13 @@
     "rejected": []
    },
    {
-    "seconds": 3604,
+    "seconds": 3603,
     "title": "Wuthering Waves Complete Main Quest Clashing Blades",
     "uploader": "Waifu Delta",
     "url": "https://www.youtube.com/watch?v=XtGg3zDrR2g",
-    "views": "23",
-    "rejected": []
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20240525"
    },
    {
     "seconds": 3885,
@@ -2535,12 +2592,13 @@
   "slug": "ch1_Act_V",
   "candidates": [
    {
-    "seconds": 3798,
+    "seconds": 3797,
     "title": "Buttery Smooth PS5 4K Gameplay: COMPLETE WuWa Chapter 1 Act 5 (Rewinding Raindrops - Full Quest)",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=PZPchYxWbvc",
-    "views": "55",
-    "rejected": []
+    "views": 55,
+    "rejected": [],
+    "upload_date": "20250614"
    },
    {
     "seconds": 4146,
@@ -2582,8 +2640,9 @@
     "title": "Rewinding Raindrops - Jinzhou Rising - Huanglong 1 - Act V (Full Main Quest Story) - Wuthering Waves",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=JzC4GJpMkPY",
-    "views": "75",
-    "rejected": []
+    "views": 75,
+    "rejected": [],
+    "upload_date": "20250501"
    },
    {
     "seconds": 76,
@@ -2600,8 +2659,9 @@
     "title": "Wuthering Waves - Rewinding Raindrops - Quest Walkthrough - Huanglong I - Act V",
     "uploader": "Trophy Tom",
     "url": "https://www.youtube.com/watch?v=YxMUxYZXbcI",
-    "views": "3764",
-    "rejected": []
+    "views": 3764,
+    "rejected": [],
+    "upload_date": "20240525"
    },
    {
     "seconds": 6043,
@@ -2698,22 +2758,24 @@
     ]
    },
    {
-    "seconds": 3825,
+    "seconds": 3824,
     "title": "WuWa Main Quest Huanglong 1 Act 5 Full Walkthrough | Wuthering Waves 1.0",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=L7Iw0sAaluQ",
-    "views": "14797",
-    "rejected": []
+    "views": 14794,
+    "rejected": [],
+    "upload_date": "20240526"
    },
    {
-    "seconds": 1839,
+    "seconds": 1838,
     "title": "1.0 Story Quest | Huanglong I Act V | Jinzhou Rising: Rewinding Raindrops (Part 2) | Wuthering Waves",
     "uploader": "D & K",
     "url": "https://www.youtube.com/watch?v=KzIhSg4JZFA",
-    "views": "6586",
+    "views": 6586,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20240623"
    }
   ],
   "kept": [
@@ -2722,32 +2784,36 @@
     "title": "Wuthering Waves - Rewinding Raindrops - Quest Walkthrough - Huanglong I - Act V",
     "uploader": "Trophy Tom",
     "url": "https://www.youtube.com/watch?v=YxMUxYZXbcI",
-    "views": "3764",
-    "rejected": []
+    "views": 3764,
+    "rejected": [],
+    "upload_date": "20240525"
    },
    {
     "seconds": 2445,
     "title": "Rewinding Raindrops - Jinzhou Rising - Huanglong 1 - Act V (Full Main Quest Story) - Wuthering Waves",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=JzC4GJpMkPY",
-    "views": "75",
-    "rejected": []
+    "views": 75,
+    "rejected": [],
+    "upload_date": "20250501"
    },
    {
-    "seconds": 3798,
+    "seconds": 3797,
     "title": "Buttery Smooth PS5 4K Gameplay: COMPLETE WuWa Chapter 1 Act 5 (Rewinding Raindrops - Full Quest)",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=PZPchYxWbvc",
-    "views": "55",
-    "rejected": []
+    "views": 55,
+    "rejected": [],
+    "upload_date": "20250614"
    },
    {
-    "seconds": 3825,
+    "seconds": 3824,
     "title": "WuWa Main Quest Huanglong 1 Act 5 Full Walkthrough | Wuthering Waves 1.0",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=L7Iw0sAaluQ",
-    "views": "14797",
-    "rejected": []
+    "views": 14794,
+    "rejected": [],
+    "upload_date": "20240526"
    },
    {
     "seconds": 4091,
@@ -2890,10 +2956,11 @@
     "title": "Chapter 1 | Huanglong I | Act VI - Grand Warstorm \u3010Wuthering Waves\u3011",
     "uploader": "HolyRibbon",
     "url": "https://www.youtube.com/watch?v=eFSrgfCKpi4",
-    "views": "45",
+    "views": 45,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20240621"
    },
    {
     "seconds": 6480,
@@ -2910,34 +2977,38 @@
     "title": "Grand Warstorm Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=Vl9RRB-rUQY",
-    "views": "14529",
-    "rejected": []
+    "views": 14529,
+    "rejected": [],
+    "upload_date": "20240524"
    },
    {
     "seconds": 6146,
     "title": "Wuthering Waves || Gameplay Story Quest Huanglong 1; ACT VI  Grand Warstorm (No Commentary)",
     "uploader": "Alonebucket",
     "url": "https://www.youtube.com/watch?v=QQPRbSvsTAc",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20250520"
    },
    {
     "seconds": 1521,
     "title": "Grand Warstorm - Wuthering Waves - Part 1 - Main Quest",
     "uploader": "Jig5aw 2",
     "url": "https://www.youtube.com/watch?v=YV3DA95Smjk",
-    "views": "19",
+    "views": 19,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250909"
    },
    {
     "seconds": 6011,
     "title": "\ud83e\udd76Grand WarStorm Full Quest || Wuthering Waves Gameplay ",
     "uploader": "Vatsal Gamer ",
     "url": "https://www.youtube.com/watch?v=P4bvGbWiA5E",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260127"
    },
    {
     "seconds": 4703,
@@ -3135,8 +3206,9 @@
     "title": "Grand Warstorm Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=Vl9RRB-rUQY",
-    "views": "14529",
-    "rejected": []
+    "views": 14529,
+    "rejected": [],
+    "upload_date": "20240524"
    },
    {
     "seconds": 5738,
@@ -3152,16 +3224,18 @@
     "title": "\ud83e\udd76Grand WarStorm Full Quest || Wuthering Waves Gameplay ",
     "uploader": "Vatsal Gamer ",
     "url": "https://www.youtube.com/watch?v=P4bvGbWiA5E",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260127"
    },
    {
     "seconds": 6146,
     "title": "Wuthering Waves || Gameplay Story Quest Huanglong 1; ACT VI  Grand Warstorm (No Commentary)",
     "uploader": "Alonebucket",
     "url": "https://www.youtube.com/watch?v=QQPRbSvsTAc",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20250520"
    },
    {
     "seconds": 6354,
@@ -3349,10 +3423,11 @@
     "title": "Wuthering Waves - A New Companion & Dreamy Scents - Quest Walkthrough",
     "uploader": "Trophy Tom",
     "url": "https://www.youtube.com/watch?v=LiOMK3k4bGU",
-    "views": "233",
+    "views": 233,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20240628"
    },
    {
     "seconds": 5525,
@@ -3418,10 +3493,11 @@
     "title": "Wuthering Waves 1.1 - New Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=afv5smQniOk",
-    "views": "101922",
+    "views": 101913,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240628"
    },
    {
     "seconds": 1709,
@@ -3436,14 +3512,15 @@
     ]
    },
    {
-    "seconds": 9496,
+    "seconds": 9495,
     "title": "\u3010WUWA 1.1\u3011Immortal Blaze\u300eChangli Companion Story\u300f- Story Gameplay - No Commentary - EN VA",
     "uploader": "Another Gacha Addict's Channel",
     "url": "https://www.youtube.com/watch?v=_nFDuWZzs1A",
-    "views": "41",
+    "views": 41,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240814"
    },
    {
     "seconds": 1224,
@@ -3462,10 +3539,11 @@
     "title": "Changli Character Story Quest | 1.1 Wuthering Waves | Game Walkthrough | NO COMMENTARY",
     "uploader": "T.U.S.K",
     "url": "https://www.youtube.com/watch?v=W5XmrkZiAx4",
-    "views": "57",
+    "views": 57,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240724"
    },
    {
     "seconds": 1219,
@@ -3503,14 +3581,16 @@
     ]
    },
    {
-    "seconds": 15805,
+    "seconds": 2061,
     "title": "Jinhsi All Story Wuthering Waves #33 Update 1.1 4K120FPS No Substitle",
     "uploader": "setsuna ray",
     "url": "https://www.youtube.com/watch?v=IHiRqUt8coQ",
-    "views": "45",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20240628",
+    "runtime": 15804,
+    "measured": "chapter-markers",
+    "parts": {}
    }
   ],
   "kept": [
@@ -3547,19 +3627,31 @@
     "views": 40,
     "rejected": [],
     "upload_date": "20240628"
+   },
+   {
+    "seconds": 2061,
+    "title": "Jinhsi All Story Wuthering Waves #33 Update 1.1 4K120FPS No Substitle",
+    "uploader": "setsuna ray",
+    "url": "https://www.youtube.com/watch?v=IHiRqUt8coQ",
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20240628",
+    "runtime": 15804,
+    "measured": "chapter-markers",
+    "parts": {}
    }
   ],
   "stats": {
-   "n": 4,
-   "median": 23,
+   "n": 5,
+   "median": 25,
    "low": 21,
-   "high": 29,
+   "high": 34,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 24,
-   "measured": 0,
+   "trimmed_mean": 26,
+   "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.087
   }
  },
  {
@@ -3571,12 +3663,23 @@
   "slug": "ch1_Act_VII",
   "candidates": [
    {
-    "seconds": 11186,
+    "seconds": 8483,
     "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
-    "views": "1647",
-    "rejected": []
+    "views": 1647,
+    "rejected": [],
+    "upload_date": "20250120",
+    "runtime": 11185,
+    "measured": "chapter-markers",
+    "parts": {
+     "To Mt. Firmament": 1569,
+     "Truthseeker's Pass": 2073,
+     "Road of Pilgrimage": 935,
+     "Mianloong Chamber": 2348,
+     "The Commander of Time": 1293,
+     "Dawn of Snowstorm": 265
+    }
    },
    {
     "seconds": 12951,
@@ -3638,10 +3741,11 @@
     "title": "Wuthering Waves 1.1 - New Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=afv5smQniOk",
-    "views": "101915",
+    "views": 101913,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240628"
    },
    {
     "seconds": 10027,
@@ -3653,12 +3757,13 @@
     "upload_date": "20240628"
    },
    {
-    "seconds": 9966,
+    "seconds": 9965,
     "title": "Wuthering Waves 1.1 Huanglong Chapter 1 Act 7 - Thaw of Eons - Full Story Walkthrough",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=JVRWNerKhFM",
-    "views": "208",
-    "rejected": []
+    "views": 208,
+    "rejected": [],
+    "upload_date": "20240702"
    },
    {
     "seconds": 10360,
@@ -3806,6 +3911,25 @@
     "upload_date": "20240804"
    },
    {
+    "seconds": 8483,
+    "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
+    "uploader": "RTXMonkey",
+    "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
+    "views": 1647,
+    "rejected": [],
+    "upload_date": "20250120",
+    "runtime": 11185,
+    "measured": "chapter-markers",
+    "parts": {
+     "To Mt. Firmament": 1569,
+     "Truthseeker's Pass": 2073,
+     "Road of Pilgrimage": 935,
+     "Mianloong Chamber": 2348,
+     "The Commander of Time": 1293,
+     "Dawn of Snowstorm": 265
+    }
+   },
+   {
     "seconds": 8902,
     "title": "Wuthering Waves 1.1 Main Quests Chapter 1 Act 7: Thaw of Eons Complete | Wuthering Waves 1.1",
     "uploader": "mwRover",
@@ -3833,12 +3957,13 @@
     "rejected": []
    },
    {
-    "seconds": 9966,
+    "seconds": 9965,
     "title": "Wuthering Waves 1.1 Huanglong Chapter 1 Act 7 - Thaw of Eons - Full Story Walkthrough",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=JVRWNerKhFM",
-    "views": "208",
-    "rejected": []
+    "views": 208,
+    "rejected": [],
+    "upload_date": "20240702"
    },
    {
     "seconds": 10027,
@@ -3899,14 +4024,6 @@
     "rejected": []
    },
    {
-    "seconds": 11186,
-    "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
-    "uploader": "RTXMonkey",
-    "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
-    "views": "1647",
-    "rejected": []
-   },
-   {
     "seconds": 11221,
     "title": "Wuthering Waves 1.1 Main Quest | Huanglong Act 7 | Jinzhou Rising",
     "uploader": "Reonoki",
@@ -3945,15 +4062,15 @@
   ],
   "stats": {
    "n": 17,
-   "median": 177,
+   "median": 173,
    "low": 117,
    "high": 249,
-   "q1": 161,
-   "q3": 187,
-   "trimmed_mean": 174,
-   "measured": 1,
+   "q1": 152,
+   "q3": 185,
+   "trimmed_mean": 171,
+   "measured": 2,
    "parts": {},
-   "drift": -0.017
+   "drift": -0.039
   }
  },
  {
@@ -4009,10 +4126,11 @@
     "title": "WUTHERING WAVES | To the Shore's End (Chapter I Act VIII) | 1.3 |  No Commentary 4K (Part 3)",
     "uploader": "D3VoUR3R",
     "url": "https://www.youtube.com/watch?v=NAdjPkQ57v8",
-    "views": "5",
+    "views": 5,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20241005"
    },
    {
     "seconds": 6655,
@@ -4056,8 +4174,9 @@
     "title": "To the Shore's End  | Wuthering Waves (Story Quest - Full Quest)",
     "uploader": "SneakyDaisies",
     "url": "https://www.youtube.com/watch?v=M7Q2UHTfiII",
-    "views": "7",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260212"
    },
    {
     "seconds": 15183,
@@ -4081,14 +4200,15 @@
     "upload_date": "20251122"
    },
    {
-    "seconds": 11583,
+    "seconds": 11582,
     "title": "Wuthering Waves 1.3 Full Story Walkthrough | To The Shore\u2019s End | Black Shores | 4K 60FPS | GAMFO",
     "uploader": "GAMFO",
     "url": "https://www.youtube.com/watch?v=Hm-w7lGKgf8",
-    "views": "81",
+    "views": 81,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20251215"
    },
    {
     "seconds": 10366,
@@ -4130,22 +4250,24 @@
     "upload_date": "20260318"
    },
    {
-    "seconds": 10090,
+    "seconds": 10089,
     "title": "Wuthering Waves 1.3 Story - Chapter 1 Act 8: To the Shore's End (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=IX_OdnhH3tk",
-    "views": "1060",
+    "views": 1060,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20251217"
    },
    {
     "seconds": 9225,
     "title": "FULL Chapter 1 Act 8 Black Shores | Wuthering Waves 1.3 \"To the Shore's End\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=Rd1rtL1Hx1M",
-    "views": "67",
-    "rejected": []
+    "views": 67,
+    "rejected": [],
+    "upload_date": "20240930"
    },
    {
     "seconds": 7601,
@@ -4160,8 +4282,9 @@
     "title": "[ Wuthering Waves ] 1.3  Act 8 To the Shore\u2019s End Part 1 Main Story Playthrough  [Main Story Line ]",
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=M5SnnuiKyZk",
-    "views": "42",
-    "rejected": []
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20250716"
    },
    {
     "seconds": 8418,
@@ -4181,8 +4304,9 @@
     "title": "[ Wuthering Waves ] 1.3  Act 8 To the Shore\u2019s End Part 1 Main Story Playthrough  [Main Story Line ]",
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=M5SnnuiKyZk",
-    "views": "42",
-    "rejected": []
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20250716"
    },
    {
     "seconds": 6655,
@@ -4206,8 +4330,9 @@
     "title": "To the Shore's End  | Wuthering Waves (Story Quest - Full Quest)",
     "uploader": "SneakyDaisies",
     "url": "https://www.youtube.com/watch?v=M7Q2UHTfiII",
-    "views": "7",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260212"
    },
    {
     "seconds": 7601,
@@ -4240,8 +4365,9 @@
     "title": "FULL Chapter 1 Act 8 Black Shores | Wuthering Waves 1.3 \"To the Shore's End\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=Rd1rtL1Hx1M",
-    "views": "67",
-    "rejected": []
+    "views": 67,
+    "rejected": [],
+    "upload_date": "20240930"
    },
    {
     "seconds": 9903,
@@ -4402,30 +4528,33 @@
     "title": "Wuthering Waves Main Quest: Rinascita Prologue - Through the Sea Thou Break",
     "uploader": "Drexyz",
     "url": "https://www.youtube.com/watch?v=YVuQ25IorZI",
-    "views": "92",
-    "rejected": []
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20250424"
    },
    {
-    "seconds": 32976,
+    "seconds": 32975,
     "title": "\u3010WUWA 2.0\u3011Main Story Quest -\u300eWuthering Waves\u300f(Part 14) - No Commentary",
     "uploader": "Another Gacha Addict's Channel",
     "url": "https://www.youtube.com/watch?v=80GLmfZNzoQ",
-    "views": "82",
+    "views": 82,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250116"
    },
    {
-    "seconds": 6757,
+    "seconds": 2738,
     "title": "Wuthering Waves Part 9 - Welcome to Rinascita - No Commentary",
     "uploader": "GameZpoiint",
     "url": "https://www.youtube.com/watch?v=Fax66kXBlaE",
-    "views": "41",
-    "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
-    ]
+    "views": 41,
+    "rejected": [],
+    "upload_date": "20260609",
+    "runtime": 6756,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 1497,
@@ -4484,8 +4613,9 @@
     "title": "Wuthering Waves Main Quest: Rinascita Prologue - Through the Sea Thou Break",
     "uploader": "Drexyz",
     "url": "https://www.youtube.com/watch?v=YVuQ25IorZI",
-    "views": "92",
-    "rejected": []
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20250424"
    },
    {
     "seconds": 2235,
@@ -4511,19 +4641,31 @@
     "url": "https://www.youtube.com/watch?v=lvKVHCVBgeY",
     "views": "6",
     "rejected": []
+   },
+   {
+    "seconds": 2738,
+    "title": "Wuthering Waves Part 9 - Welcome to Rinascita - No Commentary",
+    "uploader": "GameZpoiint",
+    "url": "https://www.youtube.com/watch?v=Fax66kXBlaE",
+    "views": 41,
+    "rejected": [],
+    "upload_date": "20260609",
+    "runtime": 6756,
+    "measured": "chapter-markers",
+    "parts": {}
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 32,
+   "n": 8,
+   "median": 35,
    "low": 18,
-   "high": 44,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 34,
-   "measured": 1,
+   "high": 46,
+   "q1": 32,
+   "q3": 43,
+   "trimmed_mean": 35,
+   "measured": 2,
    "parts": {},
-   "drift": -0.086
+   "drift": 0.0
   }
  },
  {
@@ -4557,8 +4699,9 @@
     "title": "Wuthering Waves - Chapter 2 Act 1: The Sacred Breeze So Often Breathes | Full Story JP Dub EN Sub 4K",
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=U1swTBrC8A4",
-    "views": "705",
-    "rejected": []
+    "views": 705,
+    "rejected": [],
+    "upload_date": "20250106"
    },
    {
     "seconds": 3590,
@@ -4665,8 +4808,9 @@
     "title": "CHAPTER II - ACT I: THE SACRED BREEZE SO OFTEN BREATHS - WUTHERING WAVES",
     "uploader": "NYRIX",
     "url": "https://www.youtube.com/watch?v=KlPu5Yie7Ww",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260630"
    },
    {
     "seconds": 6949,
@@ -4758,8 +4902,9 @@
     "title": "Wuthering Waves 2.0 Story - Chapter 2 Prologue: Through the Sea Thou Break & Act 1 (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=P234wWPiYfQ",
-    "views": "821",
-    "rejected": []
+    "views": 821,
+    "rejected": [],
+    "upload_date": "20251229"
    }
   ],
   "kept": [
@@ -4819,8 +4964,9 @@
     "title": "CHAPTER II - ACT I: THE SACRED BREEZE SO OFTEN BREATHS - WUTHERING WAVES",
     "uploader": "NYRIX",
     "url": "https://www.youtube.com/watch?v=KlPu5Yie7Ww",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260630"
    },
    {
     "seconds": 4073,
@@ -4851,8 +4997,9 @@
     "title": "Wuthering Waves - Chapter 2 Act 1: The Sacred Breeze So Often Breathes | Full Story JP Dub EN Sub 4K",
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=U1swTBrC8A4",
-    "views": "705",
-    "rejected": []
+    "views": 705,
+    "rejected": [],
+    "upload_date": "20250106"
    },
    {
     "seconds": 5025,
@@ -4876,8 +5023,9 @@
     "title": "Wuthering Waves 2.0 Story - Chapter 2 Prologue: Through the Sea Thou Break & Act 1 (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=P234wWPiYfQ",
-    "views": "821",
-    "rejected": []
+    "views": 821,
+    "rejected": [],
+    "upload_date": "20251229"
    },
    {
     "seconds": 6418,
@@ -4974,8 +5122,9 @@
     "title": "Wuthering Waves Ch.2 Act 2: VEILS OFF IN SUN OR SHADOW - FULL QUEST GAMEPLAY! (4K PS5 No Commentery)",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=O-Ld9l24BxY",
-    "views": "312",
-    "rejected": []
+    "views": 312,
+    "rejected": [],
+    "upload_date": "20250709"
    },
    {
     "seconds": 4596,
@@ -5068,10 +5217,11 @@
     "title": "Wuthering Waves 2.0 Story - Chapter 2 Act 2: Veils Off in Sun or Shadow (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=RmKynGWVJ64",
-    "views": "33",
+    "views": 33,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260416"
    },
    {
     "seconds": 8740,
@@ -5092,22 +5242,24 @@
     "upload_date": "20250104"
    },
    {
-    "seconds": 9355,
+    "seconds": 9354,
     "title": "Wuthering Waves: Main Quest 2.0 - Chapter 2 Rinascita - Act 2 - Veils Off in Sun or Shadow",
     "uploader": "HOANGDG",
     "url": "https://www.youtube.com/watch?v=QNPIW_xxpRE",
-    "views": "144",
-    "rejected": []
+    "views": 144,
+    "rejected": [],
+    "upload_date": "20250105"
    },
    {
     "seconds": 1654,
     "title": "Wuthering Waves 2.0: Chapter 2 Act 2 - Veils Off in Sun or Shadow (PART 2)",
     "uploader": "The Jabrons",
     "url": "https://www.youtube.com/watch?v=YxRDQDCGu08",
-    "views": "2",
+    "views": 2,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250305"
    },
    {
     "seconds": 24563,
@@ -5132,12 +5284,13 @@
     "parts": {}
    },
    {
-    "seconds": 7246,
+    "seconds": 7245,
     "title": "WuWa Main Quest Rinascita 2 Act 2 Full Walkthrough | Wuthering Waves 2.0",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=XnOWt8bTk3Q",
-    "views": "13601",
-    "rejected": []
+    "views": 13601,
+    "rejected": [],
+    "upload_date": "20250106"
    },
    {
     "seconds": 8716,
@@ -5159,20 +5312,22 @@
     "rejected": []
    },
    {
-    "seconds": 7246,
+    "seconds": 7245,
     "title": "WuWa Main Quest Rinascita 2 Act 2 Full Walkthrough | Wuthering Waves 2.0",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=XnOWt8bTk3Q",
-    "views": "13601",
-    "rejected": []
+    "views": 13601,
+    "rejected": [],
+    "upload_date": "20250106"
    },
    {
     "seconds": 7736,
     "title": "Wuthering Waves Ch.2 Act 2: VEILS OFF IN SUN OR SHADOW - FULL QUEST GAMEPLAY! (4K PS5 No Commentery)",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=O-Ld9l24BxY",
-    "views": "312",
-    "rejected": []
+    "views": 312,
+    "rejected": [],
+    "upload_date": "20250709"
    },
    {
     "seconds": 8331,
@@ -5223,12 +5378,13 @@
     "upload_date": "20251231"
    },
    {
-    "seconds": 9355,
+    "seconds": 9354,
     "title": "Wuthering Waves: Main Quest 2.0 - Chapter 2 Rinascita - Act 2 - Veils Off in Sun or Shadow",
     "uploader": "HOANGDG",
     "url": "https://www.youtube.com/watch?v=QNPIW_xxpRE",
-    "views": "144",
-    "rejected": []
+    "views": 144,
+    "rejected": [],
+    "upload_date": "20250105"
    },
    {
     "seconds": 9703,
@@ -5354,22 +5510,24 @@
     "upload_date": "20260626"
    },
    {
-    "seconds": 4549,
+    "seconds": 4548,
     "title": "What Yesterday Wept Today Doth Sing Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=WqJXmUfHbn0",
-    "views": "15013",
-    "rejected": []
+    "views": 15013,
+    "rejected": [],
+    "upload_date": "20250102"
    },
    {
-    "seconds": 65,
+    "seconds": 64,
     "title": "Find a way out of the mist - What Yesterday Wept, Today Doth Sing | Wuthering Waves (WuWa)",
     "uploader": "PerfectParadox",
     "url": "https://www.youtube.com/watch?v=VLMZ77R4Pl8",
-    "views": "36711",
+    "views": 36711,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250104"
    },
    {
     "seconds": 3939,
@@ -5387,8 +5545,9 @@
     "title": "Wuthering Waves Chapter 2 Act 3 - What Yesterday Wept, Today Doth Sing (FULL 4K PS5 QUEST GAMEPLAY )",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=XNsqcwkdPmk",
-    "views": "404",
-    "rejected": []
+    "views": 404,
+    "rejected": [],
+    "upload_date": "20250712"
    },
    {
     "seconds": 5536,
@@ -5489,8 +5648,9 @@
     "title": "Wuthering Waves 2.0 Story - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=WgdlwpoW4TY",
-    "views": "23",
-    "rejected": []
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20260420"
    },
    {
     "seconds": 10063,
@@ -5504,20 +5664,22 @@
   ],
   "kept": [
    {
-    "seconds": 4549,
+    "seconds": 4548,
     "title": "What Yesterday Wept Today Doth Sing Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=WqJXmUfHbn0",
-    "views": "15013",
-    "rejected": []
+    "views": 15013,
+    "rejected": [],
+    "upload_date": "20250102"
    },
    {
     "seconds": 7055,
     "title": "Wuthering Waves Chapter 2 Act 3 - What Yesterday Wept, Today Doth Sing (FULL 4K PS5 QUEST GAMEPLAY )",
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=XNsqcwkdPmk",
-    "views": "404",
-    "rejected": []
+    "views": 404,
+    "rejected": [],
+    "upload_date": "20250712"
    },
    {
     "seconds": 7340,
@@ -5584,8 +5746,9 @@
     "title": "Wuthering Waves 2.0 Story - Chapter 2 Act 3: What Yesterday Wept, Today Doth Sing (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=WgdlwpoW4TY",
-    "views": "23",
-    "rejected": []
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20260420"
    },
    {
     "seconds": 9242,
@@ -5666,15 +5829,16 @@
     "upload_date": "20180927"
    },
    {
-    "seconds": 1571,
+    "seconds": 1570,
     "title": "Part 18: Breath of Fire II Walkthrough\u2014Decadence (Queen of Tunlan)",
     "uploader": "Fionordequester",
     "url": "https://www.youtube.com/watch?v=MTNo99xayJg",
-    "views": "349",
+    "views": 349,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210225"
    },
    {
     "seconds": 752,
@@ -5783,36 +5947,40 @@
     "title": "Wuthering Waves Walkthrough Part 302 - Old Man and the Whale (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=URHqW1MrnEE",
-    "views": "64",
+    "views": 64,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250219"
    },
    {
     "seconds": 295,
     "title": "Old Man and the Whale Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=OJuhk6ARi2w",
-    "views": "854",
+    "views": 854,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250213"
    },
    {
-    "seconds": 6667,
+    "seconds": 6666,
     "title": "[Wuthering Waves](Event)(V2.1): Old Man And The Whale - Day 1",
     "uploader": "PlayZero Gaming ",
     "url": "https://www.youtube.com/watch?v=TMJaaPvNgw4",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20250305"
    },
    {
-    "seconds": 7146,
+    "seconds": 7145,
     "title": "Old Man and the Whale - Part 1 | Wuthering Wave Event Story",
     "uploader": "Akira Koto",
     "url": "https://www.youtube.com/watch?v=PV13ecTQ5bs",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250309"
    },
    {
     "seconds": 8526,
@@ -5858,8 +6026,9 @@
     "title": "2.1 Event Story, Old Man and the Whale - Wuthering Waves",
     "uploader": "LokiGamingZero",
     "url": "https://www.youtube.com/watch?v=JRGXPS2rCi0",
-    "views": "21",
-    "rejected": []
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20250306"
    },
    {
     "seconds": 21924,
@@ -5889,8 +6058,9 @@
     "title": "2.1 Event Story, Old Man and the Whale - Wuthering Waves",
     "uploader": "LokiGamingZero",
     "url": "https://www.youtube.com/watch?v=JRGXPS2rCi0",
-    "views": "21",
-    "rejected": []
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20250306"
    },
    {
     "seconds": 6108,
@@ -5911,20 +6081,22 @@
     "upload_date": "20260208"
    },
    {
-    "seconds": 6667,
+    "seconds": 6666,
     "title": "[Wuthering Waves](Event)(V2.1): Old Man And The Whale - Day 1",
     "uploader": "PlayZero Gaming ",
     "url": "https://www.youtube.com/watch?v=TMJaaPvNgw4",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20250305"
    },
    {
-    "seconds": 7146,
+    "seconds": 7145,
     "title": "Old Man and the Whale - Part 1 | Wuthering Wave Event Story",
     "uploader": "Akira Koto",
     "url": "https://www.youtube.com/watch?v=PV13ecTQ5bs",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250309"
    },
    {
     "seconds": 8526,
@@ -5991,12 +6163,13 @@
     "rejected": []
    },
    {
-    "seconds": 12158,
+    "seconds": 12157,
     "title": "Wuthering Waves - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=UE-QU9FYFKs",
-    "views": "13",
-    "rejected": []
+    "views": 13,
+    "rejected": [],
+    "upload_date": "20260628"
    },
    {
     "seconds": 13095,
@@ -6017,12 +6190,13 @@
     "upload_date": "20250416"
    },
    {
-    "seconds": 11971,
+    "seconds": 11970,
     "title": "The Maiden The Defier The Death Crier FULL QUEST Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=_FNi0vKLo-c",
-    "views": "22060",
-    "rejected": []
+    "views": 22060,
+    "rejected": [],
+    "upload_date": "20250329"
    },
    {
     "seconds": 3264,
@@ -6046,12 +6220,13 @@
     "upload_date": "20250330"
    },
    {
-    "seconds": 13830,
+    "seconds": 13829,
     "title": "Rinascita Main Quest: The Maiden, The Defier, The Death Crier | Wuthering Waves",
     "uploader": "ShiverDoom",
     "url": "https://www.youtube.com/watch?v=aWcPMM-KwgQ",
-    "views": "396",
-    "rejected": []
+    "views": 396,
+    "rejected": [],
+    "upload_date": "20250907"
    },
    {
     "seconds": 8868,
@@ -6114,8 +6289,9 @@
     "title": "Saving A BLESSED MAIDEN | Wuthering Waves 2.2 Main Story | The Maiden, The Defier, The Death Crier",
     "uploader": "Catapilamila",
     "url": "https://www.youtube.com/watch?v=TsQ_0V4zpbw",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260725"
    },
    {
     "seconds": 12403,
@@ -6142,8 +6318,9 @@
     "title": "Wuthering Waves 2.2 The Maiden The Defier The Death Crier FULL QUEST  Ricascita Chapter 2 Act 4",
     "uploader": "RaidellCagape",
     "url": "https://www.youtube.com/watch?v=PoxmUVugz4o",
-    "views": "37",
-    "rejected": []
+    "views": 37,
+    "rejected": [],
+    "upload_date": "20250426"
    },
    {
     "seconds": 11947,
@@ -6168,18 +6345,20 @@
     "title": "Wuthering Waves V.2.2 - 1 Main Quest Chapter 2 Act 4 [Eng Sub] [Ultrawide]",
     "uploader": "Adamantine",
     "url": "https://www.youtube.com/watch?v=KCsMy6gyHqk",
-    "views": "62",
-    "rejected": []
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20250404"
    },
    {
     "seconds": 1153,
     "title": "Wuthering Waves Acropolis Documentarian Side Quests | Wuthering Waves 2.2",
     "uploader": "mwRover",
     "url": "https://www.youtube.com/watch?v=Peixgez7FZE",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260205"
    },
    {
     "seconds": 7139,
@@ -6234,8 +6413,9 @@
     "title": "Wuthering Waves 2.2 The Maiden The Defier The Death Crier FULL QUEST  Ricascita Chapter 2 Act 4",
     "uploader": "RaidellCagape",
     "url": "https://www.youtube.com/watch?v=PoxmUVugz4o",
-    "views": "37",
-    "rejected": []
+    "views": 37,
+    "rejected": [],
+    "upload_date": "20250426"
    },
    {
     "seconds": 11608,
@@ -6265,20 +6445,22 @@
     "upload_date": "20250327"
    },
    {
-    "seconds": 11971,
+    "seconds": 11970,
     "title": "The Maiden The Defier The Death Crier FULL QUEST Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=_FNi0vKLo-c",
-    "views": "22060",
-    "rejected": []
+    "views": 22060,
+    "rejected": [],
+    "upload_date": "20250329"
    },
    {
-    "seconds": 12158,
+    "seconds": 12157,
     "title": "Wuthering Waves - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=UE-QU9FYFKs",
-    "views": "13",
-    "rejected": []
+    "views": 13,
+    "rejected": [],
+    "upload_date": "20260628"
    },
    {
     "seconds": 12338,
@@ -6310,8 +6492,9 @@
     "title": "Wuthering Waves V.2.2 - 1 Main Quest Chapter 2 Act 4 [Eng Sub] [Ultrawide]",
     "uploader": "Adamantine",
     "url": "https://www.youtube.com/watch?v=KCsMy6gyHqk",
-    "views": "62",
-    "rejected": []
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20250404"
    },
    {
     "seconds": 12805,
@@ -6332,20 +6515,22 @@
     "upload_date": "20250330"
    },
    {
-    "seconds": 13830,
+    "seconds": 13829,
     "title": "Rinascita Main Quest: The Maiden, The Defier, The Death Crier | Wuthering Waves",
     "uploader": "ShiverDoom",
     "url": "https://www.youtube.com/watch?v=aWcPMM-KwgQ",
-    "views": "396",
-    "rejected": []
+    "views": 396,
+    "rejected": [],
+    "upload_date": "20250907"
    },
    {
     "seconds": 13905,
     "title": "Saving A BLESSED MAIDEN | Wuthering Waves 2.2 Main Story | The Maiden, The Defier, The Death Crier",
     "uploader": "Catapilamila",
     "url": "https://www.youtube.com/watch?v=TsQ_0V4zpbw",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260725"
    }
   ],
   "stats": {
@@ -6434,14 +6619,15 @@
     "upload_date": "20220814"
    },
    {
-    "seconds": 2758,
+    "seconds": 2757,
     "title": "Shadow of Glory FULL 2.4 QUEST Wuthering Waves",
     "uploader": "ZaFrostPet",
     "url": "https://www.youtube.com/watch?v=MDr71p5LNqo",
-    "views": "6854",
+    "views": 6854,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250612"
    },
    {
     "seconds": 29097,
@@ -6568,10 +6754,11 @@
     "title": "Wuthering Waves 2.4 Story - Chapter 2 Act 5: Shadow of Glory (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=OURl4c8ApC4",
-    "views": "549",
+    "views": 549,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260106"
    },
    {
     "seconds": 324,
@@ -6789,14 +6976,15 @@
     "upload_date": "20250709"
    },
    {
-    "seconds": 6074,
+    "seconds": 6073,
     "title": "Wuthering Waves - Flames of Heart - Complete Story quest",
     "uploader": "CorporalOdin2",
     "url": "https://www.youtube.com/watch?v=WCXNPcIYDtM",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20251005"
    },
    {
     "seconds": 3001,
@@ -6863,12 +7051,13 @@
     "upload_date": "20250716"
    },
    {
-    "seconds": 5686,
+    "seconds": 5685,
     "title": "Wuthering Waves Walkthrough Part 424 - Chapter 2 Act 6: Flames of Heart (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=O9D9XdXSj9k",
-    "views": "78",
-    "rejected": []
+    "views": 78,
+    "rejected": [],
+    "upload_date": "20250709"
    },
    {
     "seconds": 2706,
@@ -6946,12 +7135,13 @@
     "upload_date": "20260618"
    },
    {
-    "seconds": 5336,
+    "seconds": 5335,
     "title": "Flames of Heart Main Quest (Almost Full Gameplay)",
     "uploader": "Veda D",
     "url": "https://www.youtube.com/watch?v=Rn01n9mkLMQ",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250714"
    },
    {
     "seconds": 4723,
@@ -7036,12 +7226,13 @@
     "upload_date": "20260618"
    },
    {
-    "seconds": 5336,
+    "seconds": 5335,
     "title": "Flames of Heart Main Quest (Almost Full Gameplay)",
     "uploader": "Veda D",
     "url": "https://www.youtube.com/watch?v=Rn01n9mkLMQ",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250714"
    },
    {
     "seconds": 5536,
@@ -7061,12 +7252,13 @@
     "rejected": []
    },
    {
-    "seconds": 5686,
+    "seconds": 5685,
     "title": "Wuthering Waves Walkthrough Part 424 - Chapter 2 Act 6: Flames of Heart (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=O9D9XdXSj9k",
-    "views": "78",
-    "rejected": []
+    "views": 78,
+    "rejected": [],
+    "upload_date": "20250709"
    },
    {
     "seconds": 5717,
@@ -7149,12 +7341,13 @@
   "slug": "ch2_Act_VII",
   "candidates": [
    {
-    "seconds": 11098,
+    "seconds": 11097,
     "title": "Wuthering Waves 2.5 Story - Chapter 2 Act 7: Dreamcatchers in the Secret Gardens (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=GnqDOA8U9FU",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260518"
    },
    {
     "seconds": 10369,
@@ -7190,10 +7383,11 @@
     "title": "Wuthering Waves 2.5 \u2013 Rinascita II: Act VII \u201cDreamcatchers in the Secret Gardens\u201d [Part 1]",
     "uploader": "Esper",
     "url": "https://www.youtube.com/watch?v=HldVcnjW5uw",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250730"
    },
    {
     "seconds": 1146,
@@ -7220,10 +7414,11 @@
     "title": "Dreamcatchers in the Secret Gardens | Continue Onward Quest | Wuthering Waves",
     "uploader": "NJMH Nexus",
     "url": "https://www.youtube.com/watch?v=Nt2nN4EiRAU",
-    "views": "531",
+    "views": 531,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250831"
    },
    {
     "seconds": 543,
@@ -7261,8 +7456,9 @@
     "title": "Version 2.5 Story Quest (Full Quest) Dreamcatchers in the Secret Gardens | Wuthering Waves",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=SmJyE_VVI3k",
-    "views": "37092",
-    "rejected": []
+    "views": 37093,
+    "rejected": [],
+    "upload_date": "20250724"
    },
    {
     "seconds": 1020,
@@ -7310,8 +7506,9 @@
     "title": "Wuthering Waves 2.5 Main Story Act VII PART 1 - \"Even When Divinity Remains Silent\" Full Walkthrough",
     "uploader": "PrincessKomz",
     "url": "https://www.youtube.com/watch?v=_Gjp0kYWf_U",
-    "views": "102",
-    "rejected": []
+    "views": 102,
+    "rejected": [],
+    "upload_date": "20250804"
    },
    {
     "seconds": 4322,
@@ -7393,8 +7590,9 @@
     "title": "Wuthering Waves 2.5 Main Story Act VII PART 1 - \"Even When Divinity Remains Silent\" Full Walkthrough",
     "uploader": "PrincessKomz",
     "url": "https://www.youtube.com/watch?v=_Gjp0kYWf_U",
-    "views": "102",
-    "rejected": []
+    "views": 102,
+    "rejected": [],
+    "upload_date": "20250804"
    },
    {
     "seconds": 8394,
@@ -7427,16 +7625,18 @@
     "title": "Version 2.5 Story Quest (Full Quest) Dreamcatchers in the Secret Gardens | Wuthering Waves",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=SmJyE_VVI3k",
-    "views": "37092",
-    "rejected": []
+    "views": 37093,
+    "rejected": [],
+    "upload_date": "20250724"
    },
    {
-    "seconds": 11098,
+    "seconds": 11097,
     "title": "Wuthering Waves 2.5 Story - Chapter 2 Act 7: Dreamcatchers in the Secret Gardens (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=GnqDOA8U9FU",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260518"
    },
    {
     "seconds": 11204,
@@ -7483,8 +7683,9 @@
     "title": "Wuthering Waves - Chapter 2 Segue 1: Rust, Sword, and the Sun Overture | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=bZIJYS-9MmM",
-    "views": "1",
-    "rejected": []
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20260704"
    },
    {
     "seconds": 2735,
@@ -7499,8 +7700,9 @@
     "title": "Wuthering Waves [Main Story] [Ver 2.5] - Rust, Sword and the Sun Walkthrough [No Commentary] [JP]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Omjk8MOwV08",
-    "views": "4",
-    "rejected": []
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20260614"
    },
    {
     "seconds": 2732,
@@ -7572,8 +7774,9 @@
     "title": "Rust, Sword and the Sun - Main Quest FULL PLAYTHROUGH",
     "uploader": "Veda D",
     "url": "https://www.youtube.com/watch?v=Hn_YAF1E07o",
-    "views": "38",
-    "rejected": []
+    "views": 38,
+    "rejected": [],
+    "upload_date": "20250823"
    },
    {
     "seconds": 5085,
@@ -7590,8 +7793,9 @@
     "title": "[Wuthering Waves Main Quest] Rust, Sword And The Sun: Talk With Nestor And Learn About Ephor's Story",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=NEAhdPi4iIQ",
-    "views": "5891",
-    "rejected": []
+    "views": 5891,
+    "rejected": [],
+    "upload_date": "20250814"
    },
    {
     "seconds": 2662,
@@ -7643,8 +7847,9 @@
     "title": "Wuthering Waves - Chapter 2 Segue 1: Rust, Sword, and the Sun Overture | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=bZIJYS-9MmM",
-    "views": "1",
-    "rejected": []
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20260704"
    },
    {
     "seconds": 2662,
@@ -7683,8 +7888,9 @@
     "title": "Wuthering Waves [Main Story] [Ver 2.5] - Rust, Sword and the Sun Walkthrough [No Commentary] [JP]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Omjk8MOwV08",
-    "views": "4",
-    "rejected": []
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20260614"
    },
    {
     "seconds": 3177,
@@ -7700,16 +7906,18 @@
     "title": "[Wuthering Waves Main Quest] Rust, Sword And The Sun: Talk With Nestor And Learn About Ephor's Story",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=NEAhdPi4iIQ",
-    "views": "5891",
-    "rejected": []
+    "views": 5891,
+    "rejected": [],
+    "upload_date": "20250814"
    },
    {
     "seconds": 3358,
     "title": "Rust, Sword and the Sun - Main Quest FULL PLAYTHROUGH",
     "uploader": "Veda D",
     "url": "https://www.youtube.com/watch?v=Hn_YAF1E07o",
-    "views": "38",
-    "rejected": []
+    "views": 38,
+    "rejected": [],
+    "upload_date": "20250823"
    }
   ],
   "stats": {
@@ -7755,8 +7963,9 @@
     "title": "Wuthering Waves Walkthrough Part 477 - Chapter 2 Act 8: By Sun's Burning Hand (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=Tf6bG28WXDc",
-    "views": "131",
-    "rejected": []
+    "views": 131,
+    "rejected": [],
+    "upload_date": "20250904"
    },
    {
     "seconds": 13395,
@@ -7809,14 +8018,15 @@
     "upload_date": "20250829"
    },
    {
-    "seconds": 6366,
+    "seconds": 6365,
     "title": "Wuthering Waves 2.6 \u2013 Rinascita Chapter II: Act VIII \u201cBy Sun's Burning Hand\u201d | Part 1",
     "uploader": "Esper",
     "url": "https://www.youtube.com/watch?v=Xt0JZivdENg",
-    "views": "5",
+    "views": 5,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250831"
    },
    {
     "seconds": 11521,
@@ -7888,8 +8098,9 @@
     "title": "FULL Chapter 2 Act 8 Rinascita | Wuthering Waves 2.6 \"By Sun\u2019s Burning Hand\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=PQRaMHUZ7WU",
-    "views": "2893",
-    "rejected": []
+    "views": 2893,
+    "rejected": [],
+    "upload_date": "20250828"
    },
    {
     "seconds": 1111,
@@ -7903,12 +8114,13 @@
     "upload_date": "20250831"
    },
    {
-    "seconds": 12418,
+    "seconds": 12417,
     "title": "Version 2.6 Story Quest (Full Quest) Phase 1 - By Sun's Burning Hand | Wuthering Waves",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=YEQzHd_OqCk",
-    "views": "28004",
-    "rejected": []
+    "views": 28004,
+    "rejected": [],
+    "upload_date": "20250828"
    },
    {
     "seconds": 4502,
@@ -7935,8 +8147,9 @@
     "title": "BY SUN'S BURNING HAND - Version 2.6 Act 8 Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=f7dBjYM644Q",
-    "views": "40",
-    "rejected": []
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20250920"
    },
    {
     "seconds": 13165,
@@ -7961,8 +8174,9 @@
     "title": "Rinascita II: Act VIII \"By Sun's Burning Hand\" Full Story Quest! | Wuthering Waves 2.6",
     "uploader": "Clusty",
     "url": "https://www.youtube.com/watch?v=X1iaEBnWqyM",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20251030"
    }
   ],
   "kept": [
@@ -7971,8 +8185,9 @@
     "title": "BY SUN'S BURNING HAND - Version 2.6 Act 8 Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=f7dBjYM644Q",
-    "views": "40",
-    "rejected": []
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20250920"
    },
    {
     "seconds": 11741,
@@ -7997,24 +8212,27 @@
     "title": "Wuthering Waves Walkthrough Part 477 - Chapter 2 Act 8: By Sun's Burning Hand (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=Tf6bG28WXDc",
-    "views": "131",
-    "rejected": []
+    "views": 131,
+    "rejected": [],
+    "upload_date": "20250904"
    },
    {
     "seconds": 12162,
     "title": "FULL Chapter 2 Act 8 Rinascita | Wuthering Waves 2.6 \"By Sun\u2019s Burning Hand\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=PQRaMHUZ7WU",
-    "views": "2893",
-    "rejected": []
+    "views": 2893,
+    "rejected": [],
+    "upload_date": "20250828"
    },
    {
-    "seconds": 12418,
+    "seconds": 12417,
     "title": "Version 2.6 Story Quest (Full Quest) Phase 1 - By Sun's Burning Hand | Wuthering Waves",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=YEQzHd_OqCk",
-    "views": "28004",
-    "rejected": []
+    "views": 28004,
+    "rejected": [],
+    "upload_date": "20250828"
    },
    {
     "seconds": 12600,
@@ -8030,8 +8248,9 @@
     "title": "Rinascita II: Act VIII \"By Sun's Burning Hand\" Full Story Quest! | Wuthering Waves 2.6",
     "uploader": "Clusty",
     "url": "https://www.youtube.com/watch?v=X1iaEBnWqyM",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20251030"
    },
    {
     "seconds": 12847,
@@ -8124,14 +8343,15 @@
     "rejected": []
    },
    {
-    "seconds": 3173,
+    "seconds": 3172,
     "title": "[Wuthering Waves Main Quest] By Moon's Fated Light - Part 1: Offer Petals To Enliven The Ceremony",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=I-XqVjK52E4",
-    "views": "366",
+    "views": 366,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250918"
    },
    {
     "seconds": 3255,
@@ -8177,18 +8397,23 @@
     "title": "Wuthering Waves - 4K - By Moon's Fated Light Story Quest",
     "uploader": "DRC Gamer",
     "url": "https://www.youtube.com/watch?v=Pf8RnDiBMEo",
-    "views": "564",
-    "rejected": []
+    "views": 564,
+    "rejected": [],
+    "upload_date": "20251007"
    },
    {
     "seconds": 37112,
     "title": "By Moon's Fated Light - Iuno's Story Quest in Wuthering Waves",
     "uploader": "XRicWarX",
     "url": "https://www.youtube.com/watch?v=QO4TqLcZeew",
-    "views": "42",
+    "views": 42,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20250921",
+    "runtime": 37112,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 6015,
@@ -8206,8 +8431,9 @@
     "title": "[Wuthering Waves] 2.6 Main Story Quest (Part 3) | Chapter 2 Act 9 - By Moon's Fated Light",
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=VK63JPUG9AI",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260618"
    },
    {
     "seconds": 8551,
@@ -8222,8 +8448,9 @@
     "title": "Wuthering Waves 2.6 Story - Chapter 2 Act 9: By Moon's Fated Light (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=LhgQSPZs-As",
-    "views": "438",
-    "rejected": []
+    "views": 438,
+    "rejected": [],
+    "upload_date": "20260116"
    },
    {
     "seconds": 9090,
@@ -8238,8 +8465,9 @@
     "title": "wuwa 2.6 Main Quest Act-9(Part-2) 'By Moon's Fated Light'",
     "uploader": "Maurya Playz",
     "url": "https://www.youtube.com/watch?v=KVnz9jtK7ok",
-    "views": "33",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20250922"
    },
    {
     "seconds": 9030,
@@ -8272,18 +8500,20 @@
     "title": "Wuthering Waves 2.6 (PC) Walkthrough Main Quest By Moon's Fated Light",
     "uploader": "CyberFRZ",
     "url": "https://www.youtube.com/watch?v=LldLwatoP-4",
-    "views": "48",
-    "rejected": []
+    "views": 48,
+    "rejected": [],
+    "upload_date": "20250921"
    },
    {
     "seconds": 11482,
     "title": "Wuthering Waves - By Moon's Fated Light - Complete Story quest",
     "uploader": "CorporalOdin2",
     "url": "https://www.youtube.com/watch?v=LrMkUgaYjr8",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20251104"
    },
    {
     "seconds": 9314,
@@ -8301,8 +8531,9 @@
     "title": "wuwa 2.6 Main Quest Act-9(Part-2) 'By Moon's Fated Light'",
     "uploader": "Maurya Playz",
     "url": "https://www.youtube.com/watch?v=KVnz9jtK7ok",
-    "views": "33",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20250922"
    },
    {
     "seconds": 8551,
@@ -8351,8 +8582,9 @@
     "title": "Wuthering Waves - 4K - By Moon's Fated Light Story Quest",
     "uploader": "DRC Gamer",
     "url": "https://www.youtube.com/watch?v=Pf8RnDiBMEo",
-    "views": "564",
-    "rejected": []
+    "views": 564,
+    "rejected": [],
+    "upload_date": "20251007"
    },
    {
     "seconds": 9314,
@@ -8377,8 +8609,9 @@
     "title": "Wuthering Waves 2.6 (PC) Walkthrough Main Quest By Moon's Fated Light",
     "uploader": "CyberFRZ",
     "url": "https://www.youtube.com/watch?v=LldLwatoP-4",
-    "views": "48",
-    "rejected": []
+    "views": 48,
+    "rejected": [],
+    "upload_date": "20250921"
    },
    {
     "seconds": 9556,
@@ -8401,8 +8634,9 @@
     "title": "Wuthering Waves 2.6 Story - Chapter 2 Act 9: By Moon's Fated Light (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=LhgQSPZs-As",
-    "views": "438",
-    "rejected": []
+    "views": 438,
+    "rejected": [],
+    "upload_date": "20260116"
    },
    {
     "seconds": 9779,
@@ -8425,8 +8659,9 @@
     "title": "[Wuthering Waves] 2.6 Main Story Quest (Part 3) | Chapter 2 Act 9 - By Moon's Fated Light",
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=VK63JPUG9AI",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260618"
    }
   ],
   "stats": {
@@ -8455,10 +8690,11 @@
     "title": "Chapter II Act X: The Bygone Shall Always Return | No Commentary",
     "uploader": "SkullMute",
     "url": "https://www.youtube.com/watch?v=_XiCb4INZKs",
-    "views": "3",
+    "views": 3,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20251017"
    },
    {
     "seconds": 7765,
@@ -8523,8 +8759,9 @@
     "title": "WUTHERING WAVES VERSION 2.7 MAIN STORY QUEST \"THE BYGONE SHALL ALWAYS RETURNS\" ACT- X",
     "uploader": "BSS Gaming",
     "url": "https://www.youtube.com/watch?v=QRZJ-AUsfEo",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20251009"
    },
    {
     "seconds": 6790,
@@ -8536,28 +8773,31 @@
     "upload_date": "20251016"
    },
    {
-    "seconds": 8082,
+    "seconds": 8081,
     "title": "Wuthering Waves 2.7 Chapter 2: Act X The Bygone Shall Always Return Main Quest",
     "uploader": "mwRover",
     "url": "https://www.youtube.com/watch?v=ZHnw1GGi5Eo",
-    "views": "30",
-    "rejected": []
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260222"
    },
    {
     "seconds": 7120,
     "title": "Wuthering Waves Chapter 2 Act 10: The Bygone Shall Always Return",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=SFXRPcWJPuI",
-    "views": "501",
-    "rejected": []
+    "views": 501,
+    "rejected": [],
+    "upload_date": "20251014"
    },
    {
-    "seconds": 7738,
+    "seconds": 7737,
     "title": "Wuthering Waves 2.7 Main Quest The Bygone Shall Always Return part 1 #wutheringwaves #wuwa ",
     "uploader": "Shibam Roy",
     "url": "https://www.youtube.com/watch?v=Krewn5j3k8U",
-    "views": "22",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20251010"
    },
    {
     "seconds": 6628,
@@ -8581,8 +8821,9 @@
     "title": "Rinascita II Act X The Bygone Shall Always Return Main Quest | Wuthering Waves Full Story",
     "uploader": "Clandestine_",
     "url": "https://www.youtube.com/watch?v=Y9kg9SPZpwI",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 21637,
@@ -8628,8 +8869,9 @@
     "title": "Wuthering Waves 2.7 Story - Chapter 2 Act 10: The Bygone Shall Always Return (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=U2C3zugo6w0",
-    "views": "414",
-    "rejected": []
+    "views": 414,
+    "rejected": [],
+    "upload_date": "20260118"
    },
    {
     "seconds": 6906,
@@ -8693,20 +8935,22 @@
     ]
    },
    {
-    "seconds": 7038,
+    "seconds": 7037,
     "title": "Wuthering Waves 2.7 Full Story Quest Walkthrough Part 1 [Act 10]",
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=blY8h7mGS5Q",
-    "views": "3739",
-    "rejected": []
+    "views": 3739,
+    "rejected": [],
+    "upload_date": "20251009"
    },
    {
-    "seconds": 7006,
+    "seconds": 7005,
     "title": "Wuthering Waves V.2.7 - 1 - Main Quest Chapter 2 Act 10 [Eng Sub] [Ultrawide] [4K]",
     "uploader": "Adamantine",
     "url": "https://www.youtube.com/watch?v=KTzOo8LOZss",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20251010"
    }
   ],
   "kept": [
@@ -8768,8 +9012,9 @@
     "title": "WUTHERING WAVES VERSION 2.7 MAIN STORY QUEST \"THE BYGONE SHALL ALWAYS RETURNS\" ACT- X",
     "uploader": "BSS Gaming",
     "url": "https://www.youtube.com/watch?v=QRZJ-AUsfEo",
-    "views": "19",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20251009"
    },
    {
     "seconds": 6941,
@@ -8780,12 +9025,13 @@
     "rejected": []
    },
    {
-    "seconds": 7006,
+    "seconds": 7005,
     "title": "Wuthering Waves V.2.7 - 1 - Main Quest Chapter 2 Act 10 [Eng Sub] [Ultrawide] [4K]",
     "uploader": "Adamantine",
     "url": "https://www.youtube.com/watch?v=KTzOo8LOZss",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20251010"
    },
    {
     "seconds": 7018,
@@ -8797,44 +9043,49 @@
     "upload_date": "20251015"
    },
    {
-    "seconds": 7038,
+    "seconds": 7037,
     "title": "Wuthering Waves 2.7 Full Story Quest Walkthrough Part 1 [Act 10]",
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=blY8h7mGS5Q",
-    "views": "3739",
-    "rejected": []
+    "views": 3739,
+    "rejected": [],
+    "upload_date": "20251009"
    },
    {
     "seconds": 7064,
     "title": "Wuthering Waves 2.7 Story - Chapter 2 Act 10: The Bygone Shall Always Return (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=U2C3zugo6w0",
-    "views": "414",
-    "rejected": []
+    "views": 414,
+    "rejected": [],
+    "upload_date": "20260118"
    },
    {
     "seconds": 7120,
     "title": "Wuthering Waves Chapter 2 Act 10: The Bygone Shall Always Return",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=SFXRPcWJPuI",
-    "views": "501",
-    "rejected": []
+    "views": 501,
+    "rejected": [],
+    "upload_date": "20251014"
    },
    {
     "seconds": 7159,
     "title": "Rinascita II Act X The Bygone Shall Always Return Main Quest | Wuthering Waves Full Story",
     "uploader": "Clandestine_",
     "url": "https://www.youtube.com/watch?v=Y9kg9SPZpwI",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
-    "seconds": 7738,
+    "seconds": 7737,
     "title": "Wuthering Waves 2.7 Main Quest The Bygone Shall Always Return part 1 #wutheringwaves #wuwa ",
     "uploader": "Shibam Roy",
     "url": "https://www.youtube.com/watch?v=Krewn5j3k8U",
-    "views": "22",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20251010"
    },
    {
     "seconds": 7765,
@@ -8845,12 +9096,13 @@
     "rejected": []
    },
    {
-    "seconds": 8082,
+    "seconds": 8081,
     "title": "Wuthering Waves 2.7 Chapter 2: Act X The Bygone Shall Always Return Main Quest",
     "uploader": "mwRover",
     "url": "https://www.youtube.com/watch?v=ZHnw1GGi5Eo",
-    "views": "30",
-    "rejected": []
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260222"
    },
    {
     "seconds": 10582,
@@ -8894,12 +9146,13 @@
     "upload_date": "20251009"
    },
    {
-    "seconds": 16558,
+    "seconds": 16557,
     "title": "Wuthering Waves [Main Story] [Ver 2.7] - Dawn Breaks on Dark Tides Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=YsifZ3zyQ44",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20260624"
    },
    {
     "seconds": 14849,
@@ -8922,14 +9175,15 @@
     "upload_date": "20251018"
    },
    {
-    "seconds": 8064,
+    "seconds": 8063,
     "title": "Part 2 - Rinascita Chapter II-Act XI | Wuthering Waves",
     "uploader": "Infinity Iris Gaming",
     "url": "https://www.youtube.com/watch?v=Qq8tK_kYsO4",
-    "views": "175",
+    "views": 175,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251018"
    },
    {
     "seconds": 20281,
@@ -8963,8 +9217,9 @@
     "title": "Dawn Breaks on Dark Tides FULL QUEST Wuthering Waves 2.7",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=I51oy83qSOY",
-    "views": "1326",
-    "rejected": []
+    "views": 1326,
+    "rejected": [],
+    "upload_date": "20251011"
    },
    {
     "seconds": 22362,
@@ -9019,14 +9274,15 @@
     ]
    },
    {
-    "seconds": 17676,
+    "seconds": 17675,
     "title": "Wuthering Waves - Dawn Breaks on Dark Tides - Complete Story quest",
     "uploader": "CorporalOdin2",
     "url": "https://www.youtube.com/watch?v=HnOm_CVyD7U",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20260310"
    },
    {
     "seconds": 14805,
@@ -9037,14 +9293,15 @@
     "rejected": []
    },
    {
-    "seconds": 15790,
+    "seconds": 15789,
     "title": "Wuthering Waves 2.7 Story - Chapter 2 Act 11: Dawn Breaks on Dark Tides (Male Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=Ycw79uFYwnk",
-    "views": "13",
+    "views": 13,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260605"
    },
    {
     "seconds": 13156,
@@ -9190,12 +9447,13 @@
     "upload_date": "20251016"
    },
    {
-    "seconds": 16558,
+    "seconds": 16557,
     "title": "Wuthering Waves [Main Story] [Ver 2.7] - Dawn Breaks on Dark Tides Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=YsifZ3zyQ44",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20260624"
    },
    {
     "seconds": 16837,
@@ -9211,8 +9469,9 @@
     "title": "Dawn Breaks on Dark Tides FULL QUEST Wuthering Waves 2.7",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=I51oy83qSOY",
-    "views": "1326",
-    "rejected": []
+    "views": 1326,
+    "rejected": [],
+    "upload_date": "20251011"
    },
    {
     "seconds": 22478,
@@ -9245,12 +9504,13 @@
   "slug": "ch2_Segue_-_II",
   "candidates": [
    {
-    "seconds": 3887,
+    "seconds": 3886,
     "title": "Wuthering Waves Segue Quest | A Stranger in a Strange Land | No Commentary",
     "uploader": "Ciamiko",
     "url": "https://www.youtube.com/watch?v=L5SswAVuJ1o",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260111"
    },
    {
     "seconds": 3783,
@@ -9286,16 +9546,18 @@
     "title": "Rinascita Chapter II - Segue: A Stranger in a Strange Land",
     "uploader": "Kirto",
     "url": "https://www.youtube.com/watch?v=StIDAHBDdy4",
-    "views": "3",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260125"
    },
    {
-    "seconds": 4072,
+    "seconds": 4071,
     "title": "Wuthering Waves [Main Story] [Ver 2.7] - A Stranger In a Strange Land Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Ziz-SdfazYw",
-    "views": "3",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260624"
    },
    {
     "seconds": 3598,
@@ -9317,12 +9579,13 @@
     ]
    },
    {
-    "seconds": 3732,
+    "seconds": 3731,
     "title": "Rinascita Chapter 2: Segue | A Stranger in a Strange Land Full Quest",
     "uploader": "Gacha Chief",
     "url": "https://www.youtube.com/watch?v=Wqyg2mPNPtg",
-    "views": "731",
-    "rejected": []
+    "views": 731,
+    "rejected": [],
+    "upload_date": "20251030"
    },
    {
     "seconds": 3690,
@@ -9352,12 +9615,13 @@
     "upload_date": "20251030"
    },
    {
-    "seconds": 3666,
+    "seconds": 3665,
     "title": "A Stranger in a Strange Land QUEST Wuthering Waves",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=Prcxuw5-HSo",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20251030"
    },
    {
     "seconds": 3829,
@@ -9408,12 +9672,13 @@
     "upload_date": "20251116"
    },
    {
-    "seconds": 3666,
+    "seconds": 3665,
     "title": "A Stranger in a Strange Land QUEST Wuthering Waves",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=Prcxuw5-HSo",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20251030"
    },
    {
     "seconds": 3690,
@@ -9425,12 +9690,13 @@
     "upload_date": "20251105"
    },
    {
-    "seconds": 3732,
+    "seconds": 3731,
     "title": "Rinascita Chapter 2: Segue | A Stranger in a Strange Land Full Quest",
     "uploader": "Gacha Chief",
     "url": "https://www.youtube.com/watch?v=Wqyg2mPNPtg",
-    "views": "731",
-    "rejected": []
+    "views": 731,
+    "rejected": [],
+    "upload_date": "20251030"
    },
    {
     "seconds": 3783,
@@ -9452,27 +9718,30 @@
    },
    {
     "seconds": 3886,
-    "title": "Rinascita Chapter II - Segue: A Stranger in a Strange Land",
-    "uploader": "Kirto",
-    "url": "https://www.youtube.com/watch?v=StIDAHBDdy4",
-    "views": "3",
-    "rejected": []
-   },
-   {
-    "seconds": 3887,
     "title": "Wuthering Waves Segue Quest | A Stranger in a Strange Land | No Commentary",
     "uploader": "Ciamiko",
     "url": "https://www.youtube.com/watch?v=L5SswAVuJ1o",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260111"
    },
    {
-    "seconds": 4072,
+    "seconds": 3886,
+    "title": "Rinascita Chapter II - Segue: A Stranger in a Strange Land",
+    "uploader": "Kirto",
+    "url": "https://www.youtube.com/watch?v=StIDAHBDdy4",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260125"
+   },
+   {
+    "seconds": 4071,
     "title": "Wuthering Waves [Main Story] [Ver 2.7] - A Stranger In a Strange Land Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Ziz-SdfazYw",
-    "views": "3",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260624"
    },
    {
     "seconds": 4341,
@@ -9557,10 +9826,11 @@
     "title": "Chronorift Metropolis Chapter II Act XII - Stagnant Dawn on Wastelands - FINAL - Wuthering Waves",
     "uploader": "Geira Gamer",
     "url": "https://www.youtube.com/watch?v=HfZv8KWG_5Y",
-    "views": "2",
+    "views": 2,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20251206"
    },
    {
     "seconds": 2817,
@@ -9593,12 +9863,13 @@
     ]
    },
    {
-    "seconds": 8417,
+    "seconds": 8416,
     "title": "STAGNANT DAWN ON WASTELANDS - Version 2.8 Act 12 Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=Yrl2p1deyqs",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20251202"
    },
    {
     "seconds": 8298,
@@ -9637,12 +9908,13 @@
     ]
    },
    {
-    "seconds": 9072,
+    "seconds": 9071,
     "title": "'Stagnant Dawn on Wastelands' | Chapter 2 Act 12 | Wuthering Waves 2.8",
     "uploader": "SECO",
     "url": "https://www.youtube.com/watch?v=M3Srbysj0eo",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20251124"
    },
    {
     "seconds": 8405,
@@ -9746,12 +10018,13 @@
     "rejected": []
    },
    {
-    "seconds": 8417,
+    "seconds": 8416,
     "title": "STAGNANT DAWN ON WASTELANDS - Version 2.8 Act 12 Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=Yrl2p1deyqs",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20251202"
    },
    {
     "seconds": 8468,
@@ -9772,12 +10045,13 @@
     "upload_date": "20260124"
    },
    {
-    "seconds": 9072,
+    "seconds": 9071,
     "title": "'Stagnant Dawn on Wastelands' | Chapter 2 Act 12 | Wuthering Waves 2.8",
     "uploader": "SECO",
     "url": "https://www.youtube.com/watch?v=M3Srbysj0eo",
-    "views": "9",
-    "rejected": []
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20251124"
    },
    {
     "seconds": 9496,
@@ -9905,18 +10179,20 @@
     "title": "Wuthering Waves 2.8 Story - Chapter 2 Chisa Segue: Flowing Starlight in the Iris (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=eMdSc2_BZ0o",
-    "views": "426",
+    "views": 426,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260125"
    },
    {
-    "seconds": 4487,
+    "seconds": 4486,
     "title": "Flowing Starlight In The Iris - Main Story Quest Version 2.8 ( Full Gameplay ) | Wuthering Waves ",
     "uploader": "DIABLO PLAY'S ",
     "url": "https://www.youtube.com/watch?v=KCLSQm1biRU",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20251122"
    },
    {
     "seconds": 5979,
@@ -9939,12 +10215,13 @@
     "upload_date": "20251120"
    },
    {
-    "seconds": 4327,
+    "seconds": 4326,
     "title": "Wuthering Waves Main Quest: Chronorift Metropolis Segue - Flowing Starlight in the Iris",
     "uploader": "Drexyz",
     "url": "https://www.youtube.com/watch?v=S5z1EQQsboc",
-    "views": "15",
-    "rejected": []
+    "views": 15,
+    "rejected": [],
+    "upload_date": "20251212"
    },
    {
     "seconds": 4144,
@@ -10019,12 +10296,13 @@
     "upload_date": "20260711"
    },
    {
-    "seconds": 4327,
+    "seconds": 4326,
     "title": "Wuthering Waves Main Quest: Chronorift Metropolis Segue - Flowing Starlight in the Iris",
     "uploader": "Drexyz",
     "url": "https://www.youtube.com/watch?v=S5z1EQQsboc",
-    "views": "15",
-    "rejected": []
+    "views": 15,
+    "rejected": [],
+    "upload_date": "20251212"
    },
    {
     "seconds": 4328,
@@ -10036,12 +10314,13 @@
     "upload_date": "20251120"
    },
    {
-    "seconds": 4487,
+    "seconds": 4486,
     "title": "Flowing Starlight In The Iris - Main Story Quest Version 2.8 ( Full Gameplay ) | Wuthering Waves ",
     "uploader": "DIABLO PLAY'S ",
     "url": "https://www.youtube.com/watch?v=KCLSQm1biRU",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20251122"
    },
    {
     "seconds": 4490,
@@ -10102,12 +10381,13 @@
     ]
    },
    {
-    "seconds": 1087,
+    "seconds": 1086,
     "title": "Wuthering Waves - Chapter 3 Prologue: When the Unknown Thrums | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=edhJ3o8v7ns",
-    "views": "3",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 1056,
@@ -10188,11 +10468,12 @@
     "title": "Version 3.0 Main Story Quest Part 1 - Wuthering Waves",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=M-PpaOyiEPk",
-    "views": "16",
+    "views": 16,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251226"
    },
    {
     "seconds": 1102,
@@ -10213,12 +10494,13 @@
     "upload_date": "20251225"
    },
    {
-    "seconds": 649,
+    "seconds": 648,
     "title": "When the Unknown Thrums Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=Z96YmK_bS2w",
-    "views": "727",
-    "rejected": []
+    "views": 727,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
     "seconds": 8494,
@@ -10236,10 +10518,11 @@
     "title": "Lahai-Roi Chap 3 Act 1: When The Unknown Thrums - Wuthering Waves",
     "uploader": "Geira Gamer",
     "url": "https://www.youtube.com/watch?v=SAca2cbW5sA",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20260106"
    },
    {
     "seconds": 9893,
@@ -10262,12 +10545,13 @@
     "rejected": []
    },
    {
-    "seconds": 649,
+    "seconds": 648,
     "title": "When the Unknown Thrums Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=Z96YmK_bS2w",
-    "views": "727",
-    "rejected": []
+    "views": 727,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
     "seconds": 973,
@@ -10305,12 +10589,13 @@
     "upload_date": "20251229"
    },
    {
-    "seconds": 1087,
+    "seconds": 1086,
     "title": "Wuthering Waves - Chapter 3 Prologue: When the Unknown Thrums | No Commentary",
     "uploader": "SamuRRai_Gamer",
     "url": "https://www.youtube.com/watch?v=edhJ3o8v7ns",
-    "views": "3",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 1102,
@@ -10352,20 +10637,22 @@
   "slug": "ch3_Act_I",
   "candidates": [
    {
-    "seconds": 10682,
+    "seconds": 10681,
     "title": "Wuthering Waves [Main Story] [Ver 3.0] - What Burns Beneath Frostlands Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Im5ZDIqEjy8",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260630"
    },
    {
     "seconds": 9399,
     "title": "Wuthering Waves 3.0 - Main Quest Ch. III Act I: What Burns Beneath Frostlands (Full Quest) 4K 120FPS",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Lmz3EXg9DMk",
-    "views": "116",
-    "rejected": []
+    "views": 116,
+    "rejected": [],
+    "upload_date": "20251226"
    },
    {
     "seconds": 9852,
@@ -10376,12 +10663,13 @@
     "rejected": []
    },
    {
-    "seconds": 9273,
+    "seconds": 9272,
     "title": "Wuthering Waves Walkthrough Part 576 - Chapter 3 Act 1: What Burns Beneath Frostlands (No Comment)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=Q36rFyw6760",
-    "views": "85",
-    "rejected": []
+    "views": 85,
+    "rejected": [],
+    "upload_date": "20251230"
    },
    {
     "seconds": 1555,
@@ -10434,20 +10722,22 @@
     "title": "Wuthering Waves 3.0 \"What Burns Beneath Frostlands\" Full Main Story Quest Act- I",
     "uploader": "BSS Gaming",
     "url": "https://www.youtube.com/watch?v=PtpLG6KFP3I",
-    "views": "1720",
+    "views": 1720,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20251225"
    },
    {
     "seconds": 4243,
     "title": "What Burns Beneath Frostland Wuthering Waves",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=_dHxpcuGu4o",
-    "views": "15999",
+    "views": 16000,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20251225"
    },
    {
     "seconds": 10633,
@@ -10462,16 +10752,21 @@
     "title": "FULL Chapter 3 Act 1 Lahai-Roi | Wuthering Waves 3.0 \"What Burns Beneath Frostlands\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=MGz6Ukhe5PA",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
-    "seconds": 8919,
+    "seconds": 7734,
     "title": "'What Burns Beneath Frostlands' | Chapter 3 Act 1 | Wuthering Waves 3.0",
     "uploader": "SECO",
     "url": "https://www.youtube.com/watch?v=LP3Dshrj7Qs",
-    "views": "91",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20251228",
+    "runtime": 8918,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 9700,
@@ -10521,8 +10816,9 @@
     "title": "Version 3.0 Main Story Quest - Wuthering Waves | ACT 1 & Prologue (Full Playthrough)",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=bqY0-xoTK_M",
-    "views": "36099",
-    "rejected": []
+    "views": 36099,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
     "seconds": 10966,
@@ -10548,28 +10844,34 @@
   ],
   "kept": [
    {
-    "seconds": 8919,
+    "seconds": 7734,
     "title": "'What Burns Beneath Frostlands' | Chapter 3 Act 1 | Wuthering Waves 3.0",
     "uploader": "SECO",
     "url": "https://www.youtube.com/watch?v=LP3Dshrj7Qs",
-    "views": "91",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20251228",
+    "runtime": 8918,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
-    "seconds": 9273,
+    "seconds": 9272,
     "title": "Wuthering Waves Walkthrough Part 576 - Chapter 3 Act 1: What Burns Beneath Frostlands (No Comment)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=Q36rFyw6760",
-    "views": "85",
-    "rejected": []
+    "views": 85,
+    "rejected": [],
+    "upload_date": "20251230"
    },
    {
     "seconds": 9399,
     "title": "Wuthering Waves 3.0 - Main Quest Ch. III Act I: What Burns Beneath Frostlands (Full Quest) 4K 120FPS",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Lmz3EXg9DMk",
-    "views": "116",
-    "rejected": []
+    "views": 116,
+    "rejected": [],
+    "upload_date": "20251226"
    },
    {
     "seconds": 9471,
@@ -10622,12 +10924,13 @@
     "rejected": []
    },
    {
-    "seconds": 10682,
+    "seconds": 10681,
     "title": "Wuthering Waves [Main Story] [Ver 3.0] - What Burns Beneath Frostlands Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=Im5ZDIqEjy8",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260630"
    },
    {
     "seconds": 10693,
@@ -10660,16 +10963,18 @@
     "title": "FULL Chapter 3 Act 1 Lahai-Roi | Wuthering Waves 3.0 \"What Burns Beneath Frostlands\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=MGz6Ukhe5PA",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
     "seconds": 11063,
     "title": "Version 3.0 Main Story Quest - Wuthering Waves | ACT 1 & Prologue (Full Playthrough)",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=bqY0-xoTK_M",
-    "views": "36099",
-    "rejected": []
+    "views": 36099,
+    "rejected": [],
+    "upload_date": "20251225"
    },
    {
     "seconds": 12019,
@@ -10684,12 +10989,12 @@
   "stats": {
    "n": 16,
    "median": 177,
-   "low": 149,
+   "low": 129,
    "high": 200,
    "q1": 159,
    "q3": 181,
    "trimmed_mean": 172,
-   "measured": 0,
+   "measured": 1,
    "parts": {},
    "drift": 0.0
   }
@@ -10707,20 +11012,22 @@
     "title": "Wuthering Waves | Chapter III \u2013 Act II: Ode to the Second Sunrise (Part 1) [No Commentary]",
     "uploader": "WhereIsMyBrain",
     "url": "https://www.youtube.com/watch?v=Ls5s-BmTu38",
-    "views": "14",
+    "views": 14,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260121"
    },
    {
-    "seconds": 4591,
+    "seconds": 4590,
     "title": "Wuthering Waves | Chapter III \u2013 Act II: Ode to the Second Sunrise (Part 2) [No Commentary]",
     "uploader": "WhereIsMyBrain",
     "url": "https://www.youtube.com/watch?v=Y7uR5TMfKNc",
-    "views": "10",
+    "views": 10,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260123"
    },
    {
     "seconds": 3942,
@@ -10798,12 +11105,13 @@
     "upload_date": "20260118"
    },
    {
-    "seconds": 9533,
+    "seconds": 9532,
     "title": "Falling Sun | Wuthering Waves Lahai-Roi Story Act 2 [Ode to the Second Sunrise] Full Quest",
     "uploader": "FervidTwo Gaming",
     "url": "https://www.youtube.com/watch?v=_cQw8Jv1L3U",
-    "views": "22",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260708"
    },
    {
     "seconds": 7577,
@@ -10837,8 +11145,9 @@
     "title": "Wuthering Waves 3.0 - New Main Story Quest Full Gameplay | Act 2",
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=Q99T7o6E7oI",
-    "views": "91",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20260115"
    },
    {
     "seconds": 8703,
@@ -10864,10 +11173,11 @@
     "title": "Version 3.0 Main Story (Japanse Dub) | Chapter 3 Act 2 Ode to the Second Sunrise Lahai",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=KjFyylv9PBo",
-    "views": "557",
+    "views": 557,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260116"
    },
    {
     "seconds": 9360,
@@ -10883,8 +11193,9 @@
     "title": "FULL Chapter 3 Act 2 Lahai-Roi | Wuthering Waves 3.0 \"Ode to the Second Sunrise\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=_ak0Ru8hye8",
-    "views": "72",
-    "rejected": []
+    "views": 72,
+    "rejected": [],
+    "upload_date": "20260115"
    },
    {
     "seconds": 8116,
@@ -10969,8 +11280,9 @@
     "title": "Wuthering Waves 3.0 - New Main Story Quest Full Gameplay | Act 2",
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=Q99T7o6E7oI",
-    "views": "91",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20260115"
    },
    {
     "seconds": 8449,
@@ -10986,8 +11298,9 @@
     "title": "FULL Chapter 3 Act 2 Lahai-Roi | Wuthering Waves 3.0 \"Ode to the Second Sunrise\"",
     "uploader": "T.H Bunn",
     "url": "https://www.youtube.com/watch?v=_ak0Ru8hye8",
-    "views": "72",
-    "rejected": []
+    "views": 72,
+    "rejected": [],
+    "upload_date": "20260115"
    },
    {
     "seconds": 8703,
@@ -11016,12 +11329,13 @@
     "upload_date": "20260117"
    },
    {
-    "seconds": 9533,
+    "seconds": 9532,
     "title": "Falling Sun | Wuthering Waves Lahai-Roi Story Act 2 [Ode to the Second Sunrise] Full Quest",
     "uploader": "FervidTwo Gaming",
     "url": "https://www.youtube.com/watch?v=_cQw8Jv1L3U",
-    "views": "22",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260708"
    },
    {
     "seconds": 10011,
@@ -11068,10 +11382,11 @@
     "title": "Wuthering Waves | Chapter III Act III: The Star That Voyages Far (Part 1)",
     "uploader": "Esper",
     "url": "https://www.youtube.com/watch?v=MjGp16TTlmg",
-    "views": "27",
+    "views": 27,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260220"
    },
    {
     "seconds": 13746,
@@ -11101,14 +11416,15 @@
     "upload_date": "20260710"
    },
    {
-    "seconds": 7837,
+    "seconds": 7836,
     "title": "Wuthering Waves | Chapter III Act III: The Star That Voyages Far (Part 2 - Finale)",
     "uploader": "Esper",
     "url": "https://www.youtube.com/watch?v=KBc9wBWeEaI",
-    "views": "15",
+    "views": 15,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260220"
    },
    {
     "seconds": 14521,
@@ -11173,12 +11489,13 @@
     ]
    },
    {
-    "seconds": 15217,
+    "seconds": 15216,
     "title": "Wuthering Wave 3.1 Main Story Quest \"The Star That Voyages Far\" Walkthrough Aemeath Story Full Quest",
     "uploader": "Eynther",
     "url": "https://www.youtube.com/watch?v=HcVv4Ro7bUU",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20260317"
    },
    {
     "seconds": 14369,
@@ -11220,10 +11537,11 @@
     "title": "Version 3.1 Main Story | Chapter 3 Act 3 The Star That Voyages Far",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=IcuFblVsTn8",
-    "views": "5441",
+    "views": 5441,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260205"
    },
    {
     "seconds": 65,
@@ -11251,10 +11569,11 @@
     "title": "I\u2019ve Never Cried This Much Over a Quest | Wuthering Waves 3.1 Main Quest",
     "uploader": "Jadealy",
     "url": "https://www.youtube.com/watch?v=ZU95niYVrWo",
-    "views": "201549",
+    "views": 201574,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260207"
    },
    {
     "seconds": 14385,
@@ -11410,12 +11729,13 @@
     "rejected": []
    },
    {
-    "seconds": 15217,
+    "seconds": 15216,
     "title": "Wuthering Wave 3.1 Main Story Quest \"The Star That Voyages Far\" Walkthrough Aemeath Story Full Quest",
     "uploader": "Eynther",
     "url": "https://www.youtube.com/watch?v=HcVv4Ro7bUU",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20260317"
    },
    {
     "seconds": 15718,
@@ -11517,8 +11837,9 @@
     "title": "Wuthering Waves Walkthrough Part 631 - Chapter 3 Segue: All That Sunlight Touches (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=ZG5KDmnVDd8",
-    "views": "38",
-    "rejected": []
+    "views": 38,
+    "rejected": [],
+    "upload_date": "20260303"
    },
    {
     "seconds": 4920,
@@ -11541,12 +11862,13 @@
     "upload_date": "20260226"
    },
    {
-    "seconds": 4490,
+    "seconds": 4489,
     "title": "Wuthering Waves 3.1 Story - Chapter 3 Luuk Herssen Segue: All That Sunlight Touches (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=YEc6KImL_7o",
-    "views": "517",
-    "rejected": []
+    "views": 517,
+    "rejected": [],
+    "upload_date": "20260228"
    },
    {
     "seconds": 4769,
@@ -11571,8 +11893,9 @@
     "title": "Wuthering Waves Chapter 3 Segue: All That Sunlight Touches",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=Hnj5GDLCXvc",
-    "views": "470",
-    "rejected": []
+    "views": 470,
+    "rejected": [],
+    "upload_date": "20260304"
    },
    {
     "seconds": 4483,
@@ -11596,20 +11919,22 @@
     "upload_date": "20260226"
    },
    {
-    "seconds": 4490,
+    "seconds": 4489,
     "title": "Wuthering Waves 3.1 Story - Chapter 3 Luuk Herssen Segue: All That Sunlight Touches (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=YEc6KImL_7o",
-    "views": "517",
-    "rejected": []
+    "views": 517,
+    "rejected": [],
+    "upload_date": "20260228"
    },
    {
     "seconds": 4500,
     "title": "Wuthering Waves Walkthrough Part 631 - Chapter 3 Segue: All That Sunlight Touches (No Commentary)",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=ZG5KDmnVDd8",
-    "views": "38",
-    "rejected": []
+    "views": 38,
+    "rejected": [],
+    "upload_date": "20260303"
    },
    {
     "seconds": 4509,
@@ -11643,8 +11968,9 @@
     "title": "Wuthering Waves Chapter 3 Segue: All That Sunlight Touches",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=Hnj5GDLCXvc",
-    "views": "470",
-    "rejected": []
+    "views": 470,
+    "rejected": [],
+    "upload_date": "20260304"
    },
    {
     "seconds": 4769,
@@ -11716,16 +12042,18 @@
     "title": "Wuthering Waves [Main Story] [Ver 3.2] - Gold Suspended in Shadows Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=IEzpCG4ytnk",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
-    "seconds": 11831,
+    "seconds": 11830,
     "title": "Wuthering Waves 3.2 - New Main Story Quest Full Gameplay | Act 4: Gold Suspended in Shadows",
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=OomlTkBKwAE",
-    "views": "125",
-    "rejected": []
+    "views": 125,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
     "seconds": 7100,
@@ -11807,12 +12135,13 @@
     ]
    },
    {
-    "seconds": 12657,
+    "seconds": 12656,
     "title": "Wuthering Waves 3.2 Lahai-Roi Act 4 - Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=T_18iXJUI78",
-    "views": "38838",
-    "rejected": []
+    "views": 38841,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
     "seconds": 12984,
@@ -11833,12 +12162,13 @@
     "rejected": []
    },
    {
-    "seconds": 12272,
+    "seconds": 12271,
     "title": "Wuthering Wave v3.2: Lahai Roi Act 4 - Main Story Quest Walkthrough",
     "uploader": "NoEmotion",
     "url": "https://www.youtube.com/watch?v=WgXVWAu23oI",
-    "views": "54",
-    "rejected": []
+    "views": 54,
+    "rejected": [],
+    "upload_date": "20260513"
    },
    {
     "seconds": 12068,
@@ -11871,20 +12201,22 @@
     "title": "Wuthering Waves 3.2|Chapter 3 Act 4 Gold Suspended in Shadows Quest (Part 1)#wutheringwaves #wuwa32",
     "uploader": "Gachaxerse",
     "url": "https://www.youtube.com/watch?v=JGnCvoxEvVM",
-    "views": "8",
+    "views": 8,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260418"
    },
    {
     "seconds": 2518,
     "title": "Lahai Roi Chapter 3 - Act 4 |  Gold Suspended In Shadows | Part 2 | Jp Voice | Sub Eng",
     "uploader": "ENVIOUS",
     "url": "https://www.youtube.com/watch?v=aY76weasW7g",
-    "views": "1",
+    "views": 1,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260628"
    },
    {
     "seconds": 18243,
@@ -11944,12 +12276,13 @@
     "rejected": []
    },
    {
-    "seconds": 11831,
+    "seconds": 11830,
     "title": "Wuthering Waves 3.2 - New Main Story Quest Full Gameplay | Act 4: Gold Suspended in Shadows",
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=OomlTkBKwAE",
-    "views": "125",
-    "rejected": []
+    "views": 125,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
     "seconds": 12068,
@@ -11977,12 +12310,13 @@
     "rejected": []
    },
    {
-    "seconds": 12272,
+    "seconds": 12271,
     "title": "Wuthering Wave v3.2: Lahai Roi Act 4 - Main Story Quest Walkthrough",
     "uploader": "NoEmotion",
     "url": "https://www.youtube.com/watch?v=WgXVWAu23oI",
-    "views": "54",
-    "rejected": []
+    "views": 54,
+    "rejected": [],
+    "upload_date": "20260513"
    },
    {
     "seconds": 12315,
@@ -12002,20 +12336,22 @@
     "rejected": []
    },
    {
-    "seconds": 12657,
+    "seconds": 12656,
     "title": "Wuthering Waves 3.2 Lahai-Roi Act 4 - Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=T_18iXJUI78",
-    "views": "38838",
-    "rejected": []
+    "views": 38841,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
     "seconds": 13447,
     "title": "Wuthering Waves [Main Story] [Ver 3.2] - Gold Suspended in Shadows Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=IEzpCG4ytnk",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
     "seconds": 18243,
@@ -12071,8 +12407,9 @@
     "title": "Wuthering Waves [Main Story] [Ver 3.2] - Rabbit Reflected in Shades Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=K-bza3U_aAg",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260807"
    },
    {
     "seconds": 4895,
@@ -12127,8 +12464,9 @@
     "title": "    Rabbit Reflected in Shades Quest \u2013 Wuthering Waves Full Walkthrough (No Commentary)",
     "uploader": "Twinsm0m",
     "url": "https://www.youtube.com/watch?v=SqZjZQsuMcI",
-    "views": "49",
-    "rejected": []
+    "views": 49,
+    "rejected": [],
+    "upload_date": "20260622"
    },
    {
     "seconds": 4847,
@@ -12170,14 +12508,15 @@
     "upload_date": "20260712"
    },
    {
-    "seconds": 2348,
+    "seconds": 2347,
     "title": "Lucilla/hiyuki segue story quest (rabbit reflected in shades) final part l wuthering waver 3.2 l",
     "uploader": "wanderfare ",
     "url": "https://www.youtube.com/watch?v=PuOSI0sRkz8",
-    "views": "13",
+    "views": 13,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260628"
    },
    {
     "seconds": 4734,
@@ -12203,8 +12542,9 @@
     "title": "    Rabbit Reflected in Shades Quest \u2013 Wuthering Waves Full Walkthrough (No Commentary)",
     "uploader": "Twinsm0m",
     "url": "https://www.youtube.com/watch?v=SqZjZQsuMcI",
-    "views": "49",
-    "rejected": []
+    "views": 49,
+    "rejected": [],
+    "upload_date": "20260622"
    },
    {
     "seconds": 4651,
@@ -12228,8 +12568,9 @@
     "title": "Wuthering Waves [Main Story] [Ver 3.2] - Rabbit Reflected in Shades Walkthrough [No Commentary]",
     "uploader": "Fresh and Crispy Games",
     "url": "https://www.youtube.com/watch?v=K-bza3U_aAg",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260807"
    },
    {
     "seconds": 4895,
@@ -12367,10 +12708,11 @@
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 77 | The Flaming Red From Tomorrow | PS5PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=fO3XuYVJvCw",
-    "views": "12",
+    "views": 12,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260723"
    },
    {
     "seconds": 404,
@@ -12410,14 +12752,15 @@
     "upload_date": "20260503"
    },
    {
-    "seconds": 79,
+    "seconds": 78,
     "title": "The Flaming Red In Snow | Hidden Achievement Wuthering Waves Ver 3.3",
     "uploader": "FauzanNyan Channel",
     "url": "https://www.youtube.com/watch?v=XqHe93tRGa0",
-    "views": "420",
+    "views": 420,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260501"
    },
    {
     "seconds": 2984,
@@ -12623,8 +12966,9 @@
     "title": "Wishes in Bell (Main Quest) | Wuthering Waves",
     "uploader": "Rentarou Kashima",
     "url": "https://www.youtube.com/watch?v=ZaL6-_6M7Bo",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 8909,
@@ -12694,8 +13038,9 @@
     "title": "Wuthering Waves 3.3 Hiyuki Story Quest - Wishes In The Bell Segue (4K PS5 Gameplay)",
     "uploader": "Malachi Plays Games",
     "url": "https://www.youtube.com/watch?v=WYdS7zZq37g",
-    "views": "60",
-    "rejected": []
+    "views": 60,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 2579,
@@ -12744,25 +13089,27 @@
     "upload_date": "20260531"
    },
    {
-    "seconds": 3225,
+    "seconds": 3224,
     "title": "Wuthering Waves - Wishes in the Bell - Complete Story quest",
     "uploader": "CorporalOdin2",
     "url": "https://www.youtube.com/watch?v=WhqAI81gPcs",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20260517"
    },
    {
-    "seconds": 845,
+    "seconds": 844,
     "title": "[Wuthering Waves Main Quest] Wishes In The Bell: Epilogue: Complete The Final Purge",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=JpFuEJpPVTM",
-    "views": "88",
+    "views": 88,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260501"
    },
    {
     "seconds": 2273,
@@ -12804,15 +13151,16 @@
     "upload_date": "20260430"
    },
    {
-    "seconds": 836,
+    "seconds": 835,
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 82 | Wishes in the Bell: Epilogue | PS5PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=XbE8u-zsa1M",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260725"
    },
    {
     "seconds": 773,
@@ -12826,14 +13174,15 @@
     "upload_date": "20260516"
    },
    {
-    "seconds": 3998,
+    "seconds": 3997,
     "title": "Wuthering Waves 3.3 Main Quest | Segue | Full Gameplay",
     "uploader": "Mnemenoir",
     "url": "https://www.youtube.com/watch?v=YNzOc1cEh2M",
-    "views": "28",
+    "views": 28,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260530"
    }
   ],
   "kept": [
@@ -12892,8 +13241,9 @@
     "title": "Wuthering Waves 3.3 Hiyuki Story Quest - Wishes In The Bell Segue (4K PS5 Gameplay)",
     "uploader": "Malachi Plays Games",
     "url": "https://www.youtube.com/watch?v=WYdS7zZq37g",
-    "views": "60",
-    "rejected": []
+    "views": 60,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 2626,
@@ -12918,8 +13268,9 @@
     "title": "Wishes in Bell (Main Quest) | Wuthering Waves",
     "uploader": "Rentarou Kashima",
     "url": "https://www.youtube.com/watch?v=ZaL6-_6M7Bo",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 3285,
@@ -13053,14 +13404,15 @@
     "upload_date": "20260501"
    },
    {
-    "seconds": 872,
+    "seconds": 871,
     "title": "Wuthering Waves Chapter 3 Act 5 pt 7 : Starlights from Yesterdays Quest (No Commentary)",
     "uploader": "FinalBossZone",
     "url": "https://www.youtube.com/watch?v=KVwXnd5sScU",
-    "views": "11",
+    "views": 11,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260810"
    },
    {
     "seconds": 845,
@@ -13077,16 +13429,18 @@
     "title": "Wuthering Waves 3.3 Main Story Quest Full Gameplay | Starlights From Yesterdays (No Commentary)",
     "uploader": "its G_gamer",
     "url": "https://www.youtube.com/watch?v=PGbUkbZwv3A",
-    "views": "36",
-    "rejected": []
+    "views": 36,
+    "rejected": [],
+    "upload_date": "20260509"
    },
    {
     "seconds": 13957,
     "title": "\u300eWuthering Waves\u300f3.3 ''Starlights from Yesterdays'' \u2742 New Story Quest Full Walkthrough",
     "uploader": "HEUBIOUS",
     "url": "https://www.youtube.com/watch?v=O8TfRDQ901Y",
-    "views": "528",
-    "rejected": []
+    "views": 528,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 2740,
@@ -13099,12 +13453,13 @@
     ]
    },
    {
-    "seconds": 10338,
+    "seconds": 10337,
     "title": "Wuthering Waves 3.3 Main Quest - Starlights from Yesterdays - No Commentary",
     "uploader": "Sori Games",
     "url": "https://www.youtube.com/watch?v=b-sIQyDFNdo",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20260501"
    },
    {
     "seconds": 11055,
@@ -13208,10 +13563,11 @@
     "title": "Wuthering Waves Walkthrough Gameplay Part 154 - Starlights From Yesterdays",
     "uploader": "TheNinedFox",
     "url": "https://www.youtube.com/watch?v=YrTE5GgfJUc",
-    "views": "8",
+    "views": 8,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260606"
    },
    {
     "seconds": 11007,
@@ -13266,10 +13622,11 @@
     "title": "Lahai Roi Chapter 3 - Act 5 | Starlights From Yesterdays Part 3 | Jp Voice | Sub Eng",
     "uploader": "ENVIOUS",
     "url": "https://www.youtube.com/watch?v=Ru1y90YekYQ",
-    "views": "2",
+    "views": 2,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260814"
    },
    {
     "seconds": 8767,
@@ -13346,8 +13703,9 @@
     "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
-    "views": "16077",
-    "rejected": []
+    "views": 16078,
+    "rejected": [],
+    "upload_date": "20260430"
    }
   ],
   "kept": [
@@ -13410,8 +13768,9 @@
     "title": "Wuthering Waves 3.3 Main Story Quest Full Gameplay | Starlights From Yesterdays (No Commentary)",
     "uploader": "its G_gamer",
     "url": "https://www.youtube.com/watch?v=PGbUkbZwv3A",
-    "views": "36",
-    "rejected": []
+    "views": 36,
+    "rejected": [],
+    "upload_date": "20260509"
    },
    {
     "seconds": 9675,
@@ -13441,12 +13800,13 @@
     "upload_date": "20260502"
    },
    {
-    "seconds": 10338,
+    "seconds": 10337,
     "title": "Wuthering Waves 3.3 Main Quest - Starlights from Yesterdays - No Commentary",
     "uploader": "Sori Games",
     "url": "https://www.youtube.com/watch?v=b-sIQyDFNdo",
-    "views": "10",
-    "rejected": []
+    "views": 10,
+    "rejected": [],
+    "upload_date": "20260501"
    },
    {
     "seconds": 10545,
@@ -13518,8 +13878,9 @@
     "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
-    "views": "16077",
-    "rejected": []
+    "views": 16078,
+    "rejected": [],
+    "upload_date": "20260430"
    },
    {
     "seconds": 12919,
@@ -13552,8 +13913,9 @@
     "title": "\u300eWuthering Waves\u300f3.3 ''Starlights from Yesterdays'' \u2742 New Story Quest Full Walkthrough",
     "uploader": "HEUBIOUS",
     "url": "https://www.youtube.com/watch?v=O8TfRDQ901Y",
-    "views": "528",
-    "rejected": []
+    "views": 528,
+    "rejected": [],
+    "upload_date": "20260430"
    }
   ],
   "stats": {
@@ -13609,8 +13971,9 @@
     "title": "Lahai-Roi Chapter III - Segue: Wishes in the Bell: Epilogue",
     "uploader": "Kirto",
     "url": "https://www.youtube.com/watch?v=QwvEvmi6qyw",
-    "views": "0",
-    "rejected": []
+    "views": 0,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 797,
@@ -13623,14 +13986,15 @@
     ]
    },
    {
-    "seconds": 1661,
+    "seconds": 1660,
     "title": "WISHES IN THE BELL: EPILOGUE - Version 3.3 Segue Post Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=MVstm9jJ1Lk",
-    "views": "26",
+    "views": 26,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20260707"
    },
    {
     "seconds": 832,
@@ -13650,12 +14014,13 @@
     "upload_date": "20260727"
    },
    {
-    "seconds": 845,
+    "seconds": 844,
     "title": "[Wuthering Waves Main Quest] Wishes In The Bell: Epilogue: Complete The Final Purge",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=JpFuEJpPVTM",
-    "views": "88",
-    "rejected": []
+    "views": 88,
+    "rejected": [],
+    "upload_date": "20260501"
    },
    {
     "seconds": 1067,
@@ -13698,8 +14063,9 @@
     "title": "\"Wishes In The Bell: Epilogue\" Wuthering Waves 3.3 (Main Story Quest: Episode 205)",
     "uploader": "itsSlipps! ch.",
     "url": "https://www.youtube.com/watch?v=aal5U7bMpiM",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260505"
    },
    {
     "seconds": 760,
@@ -13741,12 +14107,13 @@
     "upload_date": "20260531"
    },
    {
-    "seconds": 836,
+    "seconds": 835,
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 82 | Wishes in the Bell: Epilogue | PS5PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=XbE8u-zsa1M",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260725"
    },
    {
     "seconds": 11448,
@@ -13760,20 +14127,22 @@
     "upload_date": "20260607"
    },
    {
-    "seconds": 873,
+    "seconds": 872,
     "title": "Main Quest - Wishes in the Bell: Epilogue - Wuthering Waves #50",
     "uploader": "CHTS",
     "url": "https://www.youtube.com/watch?v=SHfBrGs59uU",
-    "views": "14",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260607"
    },
    {
     "seconds": 825,
     "title": "Chapter 3 Lahai-Roi Act V Segue Wishes in the Bell Epilogue JP Dub FRover | Wuthering Waves",
     "uploader": "Falynn",
     "url": "https://www.youtube.com/watch?v=Svc8yk4ufSQ",
-    "views": "62",
-    "rejected": []
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260510"
    },
    {
     "seconds": 10579,
@@ -13801,8 +14170,9 @@
     "title": "\"Wishes In The Bell: Epilogue\" Wuthering Waves 3.3 (Main Story Quest: Episode 205)",
     "uploader": "itsSlipps! ch.",
     "url": "https://www.youtube.com/watch?v=aal5U7bMpiM",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260505"
    },
    {
     "seconds": 697,
@@ -13843,8 +14213,9 @@
     "title": "Chapter 3 Lahai-Roi Act V Segue Wishes in the Bell Epilogue JP Dub FRover | Wuthering Waves",
     "uploader": "Falynn",
     "url": "https://www.youtube.com/watch?v=Svc8yk4ufSQ",
-    "views": "62",
-    "rejected": []
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260510"
    },
    {
     "seconds": 832,
@@ -13864,20 +14235,31 @@
     "upload_date": "20260607"
    },
    {
-    "seconds": 836,
+    "seconds": 835,
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 82 | Wishes in the Bell: Epilogue | PS5PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=XbE8u-zsa1M",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 844,
+    "title": "[Wuthering Waves Main Quest] Wishes In The Bell: Epilogue: Complete The Final Purge",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=JpFuEJpPVTM",
+    "views": 88,
+    "rejected": [],
+    "upload_date": "20260501"
    },
    {
     "seconds": 845,
     "title": "Lahai-Roi Chapter III - Segue: Wishes in the Bell: Epilogue",
     "uploader": "Kirto",
     "url": "https://www.youtube.com/watch?v=QwvEvmi6qyw",
-    "views": "0",
-    "rejected": []
+    "views": 0,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 845,
@@ -13889,20 +14271,13 @@
     "upload_date": "20260727"
    },
    {
-    "seconds": 845,
-    "title": "[Wuthering Waves Main Quest] Wishes In The Bell: Epilogue: Complete The Final Purge",
-    "uploader": "Authrone",
-    "url": "https://www.youtube.com/watch?v=JpFuEJpPVTM",
-    "views": "88",
-    "rejected": []
-   },
-   {
-    "seconds": 873,
+    "seconds": 872,
     "title": "Main Quest - Wishes in the Bell: Epilogue - Wuthering Waves #50",
     "uploader": "CHTS",
     "url": "https://www.youtube.com/watch?v=SHfBrGs59uU",
-    "views": "14",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260607"
    },
    {
     "seconds": 978,
@@ -13998,12 +14373,13 @@
     "upload_date": "20260522"
    },
    {
-    "seconds": 10505,
+    "seconds": 10504,
     "title": "Fervid Plays Wuthering Waves Story Quest [Beneath a Melting Night Sky]",
     "uploader": "FervidTwo Gaming",
     "url": "https://www.youtube.com/watch?v=IXTnxuzn6FI",
-    "views": "39",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260817"
    },
    {
     "seconds": 934,
@@ -14257,12 +14633,13 @@
     "upload_date": "20260521"
    },
    {
-    "seconds": 10505,
+    "seconds": 10504,
     "title": "Fervid Plays Wuthering Waves Story Quest [Beneath a Melting Night Sky]",
     "uploader": "FervidTwo Gaming",
     "url": "https://www.youtube.com/watch?v=IXTnxuzn6FI",
-    "views": "39",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260817"
    }
   ],
   "stats": {
@@ -14291,8 +14668,9 @@
     "title": "At Dream\u2019s Edge Full Quest (Wuthering Waves) ",
     "uploader": "\ud835\udc13\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc16\ud835\udc28\ud835\udc25\ud835\udc1f",
     "url": "https://www.youtube.com/watch?v=UwIf8IIlE4Y",
-    "views": "46",
-    "rejected": []
+    "views": 46,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 11087,
@@ -14347,8 +14725,9 @@
     "title": "Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge",
     "uploader": "Yoru Silent Playthroughs",
     "url": "https://www.youtube.com/watch?v=XFmvD5Mm3mE",
-    "views": "24",
-    "rejected": []
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20260608"
    },
    {
     "seconds": 7912,
@@ -14373,8 +14752,9 @@
     "title": "Wuthering Waves \u00d7 Cyberpunk: Edgerunners Collaboration Full Quest | At Dream's Edge",
     "uploader": "jieun",
     "url": "https://www.youtube.com/watch?v=GoFnPCwsm1g",
-    "views": "795",
-    "rejected": []
+    "views": 795,
+    "rejected": [],
+    "upload_date": "20260613"
    },
    {
     "seconds": 3918,
@@ -14392,10 +14772,11 @@
     "title": "\"At Dream's Edge\" Wuthering Waves x Cyberpunk Edgerunners (Collab Story Quest: Episode 210)",
     "uploader": "itsSlipps! ch.",
     "url": "https://www.youtube.com/watch?v=MS_V7swbaIA",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260609"
    },
    {
     "seconds": 10246,
@@ -14428,14 +14809,15 @@
     ]
    },
    {
-    "seconds": 4750,
+    "seconds": 4749,
     "title": "Lahai Roi Chapter III Side Story: Collab Cyberpunk Edgerunners (parte 1) \u2014 Wuthering Waves",
     "uploader": "Geira Gamer",
     "url": "https://www.youtube.com/watch?v=RYGe9F-JniI",
-    "views": "9",
+    "views": 9,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260620"
    },
    {
     "seconds": 10381,
@@ -14478,14 +14860,15 @@
     ]
    },
    {
-    "seconds": 10162,
+    "seconds": 10161,
     "title": "CYBERPUNK EDGERUNNERS x WUTHERING WAVES Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
     "uploader": "Shirrako",
     "url": "https://www.youtube.com/watch?v=_HYZGFWMkSs",
-    "views": "91197",
+    "views": 91197,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260610"
    },
    {
     "seconds": 4990,
@@ -14557,12 +14940,13 @@
     "upload_date": "20260622"
    },
    {
-    "seconds": 9763,
+    "seconds": 9762,
     "title": "Wuthering Waves x Cyberpunk 2077 Collab Quest Full Walkthrough (Episodic Quest - At Dream's Edge)",
     "uploader": "PinnapleN3rd",
     "url": "https://www.youtube.com/watch?v=L7G2Rt-tigw",
-    "views": "39",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260618"
    },
    {
     "seconds": 11918,
@@ -14588,8 +14972,9 @@
     "title": "Wuthering Waves \u00d7 Cyberpunk: Edgerunners Collaboration Full Quest | At Dream's Edge",
     "uploader": "jieun",
     "url": "https://www.youtube.com/watch?v=GoFnPCwsm1g",
-    "views": "795",
-    "rejected": []
+    "views": 795,
+    "rejected": [],
+    "upload_date": "20260613"
    },
    {
     "seconds": 9548,
@@ -14600,20 +14985,22 @@
     "rejected": []
    },
    {
-    "seconds": 9763,
+    "seconds": 9762,
     "title": "Wuthering Waves x Cyberpunk 2077 Collab Quest Full Walkthrough (Episodic Quest - At Dream's Edge)",
     "uploader": "PinnapleN3rd",
     "url": "https://www.youtube.com/watch?v=L7G2Rt-tigw",
-    "views": "39",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260618"
    },
    {
     "seconds": 10204,
     "title": "At Dream\u2019s Edge Full Quest (Wuthering Waves) ",
     "uploader": "\ud835\udc13\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc16\ud835\udc28\ud835\udc25\ud835\udc1f",
     "url": "https://www.youtube.com/watch?v=UwIf8IIlE4Y",
-    "views": "46",
-    "rejected": []
+    "views": 46,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 10246,
@@ -14629,8 +15016,9 @@
     "title": "Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge",
     "uploader": "Yoru Silent Playthroughs",
     "url": "https://www.youtube.com/watch?v=XFmvD5Mm3mE",
-    "views": "24",
-    "rejected": []
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20260608"
    },
    {
     "seconds": 10381,
@@ -14711,18 +15099,20 @@
     "title": "WE CHOOSE THE SKY - Version 3.4 Lucilla Segue Full Main Story Quest | Wuthering Waves 4k60",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=SxpJZ596jF8",
-    "views": "139",
+    "views": 139,
     "rejected": [
      "multi-act"
-    ]
+    ],
+    "upload_date": "20260712"
    },
    {
     "seconds": 7054,
     "title": "Wuthering Waves - 4K - We Choose the Sky Story Quest",
     "uploader": "DRC Gamer",
     "url": "https://www.youtube.com/watch?v=IoQpbRY9nYQ",
-    "views": "44",
-    "rejected": []
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 7481,
@@ -14748,10 +15138,11 @@
     "title": "LUCILLA CHOOSES THE SKY | WUWA 3.4 Lucilla Quest Gameplay",
     "uploader": "DoobyMath",
     "url": "https://www.youtube.com/watch?v=R81oykiJlXs",
-    "views": "41",
+    "views": 41,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260703"
    },
    {
     "seconds": 92,
@@ -14857,10 +15248,11 @@
     "title": "Cheese Escape: [Chapter 1 to 3 + Secret Ending] - (Full Walkthrough) - Roblox",
     "uploader": "Crano",
     "url": "https://www.youtube.com/watch?v=NIvBoLx4i4s",
-    "views": "4868413",
+    "views": 4868498,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240804"
    },
    {
     "seconds": 776,
@@ -14916,24 +15308,26 @@
     ]
    },
    {
-    "seconds": 21161,
+    "seconds": 21160,
     "title": "Deltarune Chapter 5 - Full Game Walkthrough",
     "uploader": "ProsafiaGaming",
     "url": "https://www.youtube.com/watch?v=QZx3ljmHE4c",
-    "views": "143827",
+    "views": 143839,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260624"
    },
    {
     "seconds": 25695,
     "title": "LIFE IS STRANGE: TRUE COLORS | Full Game (Xbox Series S Gameplay)",
     "uploader": "BenedictPlays",
     "url": "https://www.youtube.com/watch?v=VLcIAVqxW7Y",
-    "views": "416",
+    "views": 416,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210921"
    },
    {
     "seconds": 6856,
@@ -14961,14 +15355,15 @@
     "rejected": []
    },
    {
-    "seconds": 3422,
+    "seconds": 3421,
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 86 | We Choose the Sky [1] | PS5 PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=LhqKrygo4w4",
-    "views": "9",
+    "views": 9,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260727"
    },
    {
     "seconds": 826,
@@ -15031,8 +15426,9 @@
     "title": "Wuthering Waves - 4K - We Choose the Sky Story Quest",
     "uploader": "DRC Gamer",
     "url": "https://www.youtube.com/watch?v=IoQpbRY9nYQ",
-    "views": "44",
-    "rejected": []
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 7106,
@@ -15118,20 +15514,22 @@
   "slug": "ch4_Act_I",
   "candidates": [
    {
-    "seconds": 9773,
+    "seconds": 9772,
     "title": "The Wind Before the Storm Quest \u2013 Wuthering Waves",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=Oxo3AuZrNrs",
-    "views": "2759",
-    "rejected": []
+    "views": 2758,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
     "seconds": 9587,
     "title": "Wuthering Waves 3.5 (PC) Walkthrough Main Quest The Wind Before The Storm",
     "uploader": "CyberFRZ",
     "url": "https://www.youtube.com/watch?v=WPB9o13z5vg",
-    "views": "35",
-    "rejected": []
+    "views": 37,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 21959,
@@ -15200,28 +15598,31 @@
     "title": "The Wind Before the Storm (3.5 MQ Suisui finally gets gear!?)",
     "uploader": "Mister MidnightMike",
     "url": "https://www.youtube.com/watch?v=I8xzDXrIhcc",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260815"
    },
    {
     "seconds": 3153,
     "title": "\u300cWuthering Waves\u300dMain Quest | PART 90 | The Wind Before the Storm | PS5 PR0 [4K/60FPS HDR]",
     "uploader": "Sakura Mizrahi",
     "url": "https://www.youtube.com/watch?v=QnPWskFiFSk",
-    "views": "20",
+    "views": 20,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260729"
    },
    {
-    "seconds": 5172,
+    "seconds": 5171,
     "title": "The Wind Before The Storm pt1 - Wuthering Waves",
     "uploader": "Midi",
     "url": "https://www.youtube.com/watch?v=ZE35VzZzT7o",
-    "views": "25",
+    "views": 25,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260710"
    },
    {
     "seconds": 14558,
@@ -15258,20 +15659,22 @@
     "rejected": []
    },
    {
-    "seconds": 9476,
+    "seconds": 9475,
     "title": "THE WIND BEFORE THE STORM - Version 3.5 Chapter IV Act I Full Main Story Quest | Wuthering Waves",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=bGA26VbtxE0",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260714"
    },
    {
     "seconds": 8656,
     "title": "Wuthering Waves Chapter IV Act I: The Wind Before the Storm | Full Gameplay",
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=XuqT66vpP3Q",
-    "views": "76",
-    "rejected": []
+    "views": 76,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 188,
@@ -15384,8 +15787,9 @@
     "title": "Menghzou Act 1 Full Story Quest Playthrough - Wuthering Waves 3.5",
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=YJpFeMkm4Zc",
-    "views": "1998",
-    "rejected": []
+    "views": 1998,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 20355,
@@ -15426,42 +15830,48 @@
     "title": "Wuthering Waves 3.5 - New Main Story Quest Walkthrough Part 1 - Suisui",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=P2s2Lm9J_YA",
-    "views": "9990",
+    "views": 9991,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260710"
    },
    {
-    "seconds": 22948,
+    "seconds": 11340,
     "title": "The Beginning of Something Much Bigger | Wuthering Waves 3.5 Main Quest",
     "uploader": "Jadealy",
     "url": "https://www.youtube.com/watch?v=HPae19qpA0M",
-    "views": "70759",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "views": 70744,
+    "rejected": [],
+    "upload_date": "20260711",
+    "runtime": 22948,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
-    "seconds": 21252,
+    "seconds": 21251,
     "title": "Wuthering Waves 3.5 FULL Main Story Walkthrough",
     "uploader": "Blaze Sensei",
     "url": "https://www.youtube.com/watch?v=RSZbzqdmWDk",
-    "views": "45",
+    "views": 45,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260711"
    },
    {
-    "seconds": 18995,
+    "seconds": 9160,
     "title": "Wuthering Waves 3.5 Main Story Quest Full Walkthrough",
     "uploader": "Kuroakumoplaz",
     "url": "https://www.youtube.com/watch?v=YGoczTGgbnY",
-    "views": "45",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 18995,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 12711,
@@ -15499,8 +15909,9 @@
     "title": "WuWa 4K | Chapter 4 Act 1 \"The Wind Before the Storm\" | Main Story | JP Dub | Wuthering Waves 3.5",
     "uploader": "London22Gaming",
     "url": "https://www.youtube.com/watch?v=TnwHHcqzjDg",
-    "views": "97",
-    "rejected": []
+    "views": 97,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 10005,
@@ -15602,8 +16013,9 @@
     "title": "The Wind Before the Storm (3.5 MQ Suisui finally gets gear!?)",
     "uploader": "Mister MidnightMike",
     "url": "https://www.youtube.com/watch?v=I8xzDXrIhcc",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260815"
    },
    {
     "seconds": 8550,
@@ -15618,8 +16030,21 @@
     "title": "Wuthering Waves Chapter IV Act I: The Wind Before the Storm | Full Gameplay",
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=XuqT66vpP3Q",
-    "views": "76",
-    "rejected": []
+    "views": 76,
+    "rejected": [],
+    "upload_date": "20260710"
+   },
+   {
+    "seconds": 9160,
+    "title": "Wuthering Waves 3.5 Main Story Quest Full Walkthrough",
+    "uploader": "Kuroakumoplaz",
+    "url": "https://www.youtube.com/watch?v=YGoczTGgbnY",
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 18995,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 9318,
@@ -15631,12 +16056,13 @@
     "upload_date": "20260729"
    },
    {
-    "seconds": 9476,
+    "seconds": 9475,
     "title": "THE WIND BEFORE THE STORM - Version 3.5 Chapter IV Act I Full Main Story Quest | Wuthering Waves",
     "uploader": "vinheim",
     "url": "https://www.youtube.com/watch?v=bGA26VbtxE0",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260714"
    },
    {
     "seconds": 9571,
@@ -15652,8 +16078,9 @@
     "title": "Wuthering Waves 3.5 (PC) Walkthrough Main Quest The Wind Before The Storm",
     "uploader": "CyberFRZ",
     "url": "https://www.youtube.com/watch?v=WPB9o13z5vg",
-    "views": "35",
-    "rejected": []
+    "views": 37,
+    "rejected": [],
+    "upload_date": "20260712"
    },
    {
     "seconds": 9684,
@@ -15664,20 +16091,22 @@
     "rejected": []
    },
    {
-    "seconds": 9773,
+    "seconds": 9772,
     "title": "The Wind Before the Storm Quest \u2013 Wuthering Waves",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=Oxo3AuZrNrs",
-    "views": "2759",
-    "rejected": []
+    "views": 2758,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
     "seconds": 9932,
     "title": "Menghzou Act 1 Full Story Quest Playthrough - Wuthering Waves 3.5",
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=YJpFeMkm4Zc",
-    "views": "1998",
-    "rejected": []
+    "views": 1998,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 9960,
@@ -15718,8 +16147,9 @@
     "title": "WuWa 4K | Chapter 4 Act 1 \"The Wind Before the Storm\" | Main Story | JP Dub | Wuthering Waves 3.5",
     "uploader": "London22Gaming",
     "url": "https://www.youtube.com/watch?v=TnwHHcqzjDg",
-    "views": "97",
-    "rejected": []
+    "views": 97,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 10672,
@@ -15738,6 +16168,18 @@
     "views": 422,
     "rejected": [],
     "upload_date": "20260711"
+   },
+   {
+    "seconds": 11340,
+    "title": "The Beginning of Something Much Bigger | Wuthering Waves 3.5 Main Quest",
+    "uploader": "Jadealy",
+    "url": "https://www.youtube.com/watch?v=HPae19qpA0M",
+    "views": 70744,
+    "rejected": [],
+    "upload_date": "20260711",
+    "runtime": 22948,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 11772,
@@ -15766,14 +16208,14 @@
    }
   ],
   "stats": {
-   "n": 23,
+   "n": 25,
    "median": 163,
    "low": 100,
    "high": 243,
-   "q1": 144,
-   "q3": 171,
-   "trimmed_mean": 162,
-   "measured": 1,
+   "q1": 148,
+   "q3": 174,
+   "trimmed_mean": 163,
+   "measured": 3,
    "parts": {},
    "drift": 0.0
   }
@@ -15858,35 +16300,38 @@
     "rejected": []
    },
    {
-    "seconds": 19875,
+    "seconds": 9620,
     "title": "Wuthering Waves 3.5 Full Story | Chapter IV Acts I-II & Segue | 4K 60FPS No Commentary",
     "uploader": "RavennKlauw",
     "url": "https://www.youtube.com/watch?v=W7SzDZPCrwg",
-    "views": "24",
-    "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20260710",
+    "runtime": 19875,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 928,
     "title": "Wuthering Waves: Rebird From The Depths - Mengzhou Chapter IV - Act II-Xuanling Sings, Storm Quel",
     "uploader": "EchoFrame",
     "url": "https://www.youtube.com/watch?v=KWnBnFAzLnI",
-    "views": "5",
+    "views": 5,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260810"
    },
    {
     "seconds": 4825,
     "title": "[Wuthering Waves Main Quest] Xuanling Sings, Storm Quelled - Part 1: Head To The Depths Of Skyworks",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=SiGdoHmLT-o",
-    "views": "178",
+    "views": 178,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260711"
    },
    {
     "seconds": 9553,
@@ -15973,12 +16418,18 @@
     ]
    },
    {
-    "seconds": 7479,
+    "seconds": 6683,
     "title": "Main Story: Xuanling Sings, Storm Quelled Part 1",
     "uploader": "Brennogaming",
     "url": "https://www.youtube.com/watch?v=_gp9uCk9Euo",
-    "views": "79",
-    "rejected": []
+    "views": 79,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260715",
+    "runtime": 7479,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 13615,
@@ -15998,14 +16449,15 @@
     "upload_date": "20260712"
    },
    {
-    "seconds": 410,
+    "seconds": 409,
     "title": "[Wuthering Waves Trophy] Where The Wind Dwells: Complete Main Quest \"Xuanling Sings, Storm Quelled\"",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=SAPsBJbstUk",
-    "views": "73",
+    "views": 73,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260711"
    },
    {
     "seconds": 10283,
@@ -16064,8 +16516,9 @@
     "title": "Xuanling Sings, Storm Quelled [Mengzhou Chapter 4 - Act 2] 3.5 Wuthering Waves",
     "uploader": "Rubieco",
     "url": "https://www.youtube.com/watch?v=TozFka-aujU",
-    "views": "691",
-    "rejected": []
+    "views": 691,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 9472,
@@ -16076,14 +16529,15 @@
     "rejected": []
    },
    {
-    "seconds": 6894,
+    "seconds": 6893,
     "title": "Wuwa 3.5 Chapter IV Act 2 - Part 1 - Xuanling Sings, Storms Quelled",
     "uploader": "Randy Alter Reviews",
     "url": "https://www.youtube.com/watch?v=RVb2YTu37TE",
-    "views": "35",
+    "views": 35,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260717"
    },
    {
     "seconds": 7837,
@@ -16125,12 +16579,13 @@
     "rejected": []
    },
    {
-    "seconds": 13542,
+    "seconds": 13541,
     "title": "Wuthering Waves 3.5 Main Story Quest Act 2 | Full Gameplay [Male Rover]",
     "uploader": "Mnemenoir",
     "url": "https://www.youtube.com/watch?v=Z8QPpifmh0E",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260714"
    },
    {
     "seconds": 20355,
@@ -16153,37 +16608,42 @@
     ]
    },
    {
-    "seconds": 21252,
+    "seconds": 1253,
     "title": "Wuthering Waves 3.5 FULL Main Story Walkthrough",
     "uploader": "Blaze Sensei",
     "url": "https://www.youtube.com/watch?v=RSZbzqdmWDk",
-    "views": "45",
+    "views": 45,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+     "short-outlier"
+    ],
+    "upload_date": "20260711",
+    "runtime": 21251,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 4569,
     "title": "Wuthering Waves 3.5  -  Main Story Silent Walkthrough Part 2 (Japanese)",
     "uploader": "Wuai ",
     "url": "https://www.youtube.com/watch?v=IqzKLqEJV1A",
-    "views": "53",
+    "views": 53,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260805"
    },
    {
-    "seconds": 8761,
+    "seconds": 8760,
     "title": "Wuthering Waves 3.5_New Main Story Quest: Part 2",
     "uploader": "Rover - WUWA",
     "url": "https://www.youtube.com/watch?v=VbWkfGtnA0k",
-    "views": "47",
+    "views": 47,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260714"
    },
    {
     "seconds": 18804,
@@ -16198,24 +16658,27 @@
     "upload_date": "20260712"
    },
    {
-    "seconds": 18995,
+    "seconds": 8820,
     "title": "Wuthering Waves 3.5 Main Story Quest Full Walkthrough",
     "uploader": "Kuroakumoplaz",
     "url": "https://www.youtube.com/watch?v=YGoczTGgbnY",
-    "views": "45",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 18995,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 1552,
     "title": "Wuthering Waves - Version 3.5 Main Quests (2)",
     "uploader": "Damianos900",
     "url": "https://www.youtube.com/watch?v=Wnqn7erGMhs",
-    "views": "8",
+    "views": 8,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260717"
    },
    {
     "seconds": 10826,
@@ -16228,14 +16691,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 7479,
-    "title": "Main Story: Xuanling Sings, Storm Quelled Part 1",
-    "uploader": "Brennogaming",
-    "url": "https://www.youtube.com/watch?v=_gp9uCk9Euo",
-    "views": "79",
-    "rejected": []
-   },
    {
     "seconds": 7837,
     "title": "Wuthering Waves 3.5 | Chapter 4: Rebirth From the Depths | Act 2: Xuanling Sings, Storm Quelled",
@@ -16263,6 +16718,18 @@
     "url": "https://www.youtube.com/watch?v=pKD7aWrhhPk",
     "views": "38",
     "rejected": []
+   },
+   {
+    "seconds": 8820,
+    "title": "Wuthering Waves 3.5 Main Story Quest Full Walkthrough",
+    "uploader": "Kuroakumoplaz",
+    "url": "https://www.youtube.com/watch?v=YGoczTGgbnY",
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 18995,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 8851,
@@ -16333,12 +16800,25 @@
     "rejected": []
    },
    {
+    "seconds": 9620,
+    "title": "Wuthering Waves 3.5 Full Story | Chapter IV Acts I-II & Segue | 4K 60FPS No Commentary",
+    "uploader": "RavennKlauw",
+    "url": "https://www.youtube.com/watch?v=W7SzDZPCrwg",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20260710",
+    "runtime": 19875,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
     "seconds": 9668,
     "title": "Xuanling Sings, Storm Quelled [Mengzhou Chapter 4 - Act 2] 3.5 Wuthering Waves",
     "uploader": "Rubieco",
     "url": "https://www.youtube.com/watch?v=TozFka-aujU",
-    "views": "691",
-    "rejected": []
+    "views": 691,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 9723,
@@ -16434,12 +16914,13 @@
     "upload_date": "20260711"
    },
    {
-    "seconds": 13542,
+    "seconds": 13541,
     "title": "Wuthering Waves 3.5 Main Story Quest Act 2 | Full Gameplay [Male Rover]",
     "uploader": "Mnemenoir",
     "url": "https://www.youtube.com/watch?v=Z8QPpifmh0E",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260714"
    },
    {
     "seconds": 13615,
@@ -16451,16 +16932,16 @@
    }
   ],
   "stats": {
-   "n": 26,
-   "median": 162,
-   "low": 125,
+   "n": 27,
+   "median": 161,
+   "low": 131,
    "high": 227,
-   "q1": 152,
+   "q1": 153,
    "q3": 180,
    "trimmed_mean": 165,
-   "measured": 1,
+   "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.006
   }
  },
  {
@@ -16484,11 +16965,12 @@
     "title": "Wuthering Waves 3.5 Full Story | Chapter IV Acts I-II & Segue | 4K 60FPS No Commentary",
     "uploader": "RavennKlauw",
     "url": "https://www.youtube.com/watch?v=W7SzDZPCrwg",
-    "views": "24",
+    "views": 24,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260710"
    },
    {
     "seconds": 1266,
@@ -16514,8 +16996,9 @@
     "title": "Mengzhou Main Quest Chapter 4 : Segue | The Chant of Unseen Ties | Wuthering Waves 3.5 #wuwa",
     "uploader": "Senthu Gamer",
     "url": "https://www.youtube.com/watch?v=KppBMdQc1QU",
-    "views": "43",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260714"
    },
    {
     "seconds": 119,
@@ -16604,12 +17087,13 @@
     "upload_date": "20260713"
    },
    {
-    "seconds": 1084,
+    "seconds": 1083,
     "title": "The Chant of Unseen Ties (Main Quest) | Wuthering Waves",
     "uploader": "Rentarou Kashima",
     "url": "https://www.youtube.com/watch?v=JNl-urfQuiE",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260717"
    },
    {
     "seconds": 1142,
@@ -16746,16 +17230,18 @@
     "title": "[Wuthering Waves Main Quest] The Chant of Unseen Ties: Read Huaxu Academy's WavesLine Message",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=UhQTDfNI2QE",
-    "views": "135",
-    "rejected": []
+    "views": 135,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
-    "seconds": 1263,
+    "seconds": 1262,
     "title": "Chapter 4 Mengzhou: Act II Segue 1 The Chant of Unseen Ties JP Dub FRover | Wuthering Waves",
     "uploader": "Falynn",
     "url": "https://www.youtube.com/watch?v=SfuX3qDrLqk",
-    "views": "12",
-    "rejected": []
+    "views": 12,
+    "rejected": [],
+    "upload_date": "20260718"
    },
    {
     "seconds": 1083,
@@ -16796,20 +17282,21 @@
    },
    {
     "seconds": 1083,
+    "title": "The Chant of Unseen Ties (Main Quest) | Wuthering Waves",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=JNl-urfQuiE",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260717"
+   },
+   {
+    "seconds": 1083,
     "title": "Yangyang Segue Story Quest - The Chant of Unseen Ties | Wuthering Waves 3.5",
     "uploader": "Lotus Ch.",
     "url": "https://www.youtube.com/watch?v=W0IJ7dhrzG0",
     "views": 528,
     "rejected": [],
     "upload_date": "20260710"
-   },
-   {
-    "seconds": 1084,
-    "title": "The Chant of Unseen Ties (Main Quest) | Wuthering Waves",
-    "uploader": "Rentarou Kashima",
-    "url": "https://www.youtube.com/watch?v=JNl-urfQuiE",
-    "views": "6",
-    "rejected": []
    },
    {
     "seconds": 1133,
@@ -16825,8 +17312,9 @@
     "title": "[Wuthering Waves Main Quest] The Chant of Unseen Ties: Read Huaxu Academy's WavesLine Message",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=UhQTDfNI2QE",
-    "views": "135",
-    "rejected": []
+    "views": 135,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
     "seconds": 1142,
@@ -16892,12 +17380,13 @@
     "rejected": []
    },
    {
-    "seconds": 1263,
+    "seconds": 1262,
     "title": "Chapter 4 Mengzhou: Act II Segue 1 The Chant of Unseen Ties JP Dub FRover | Wuthering Waves",
     "uploader": "Falynn",
     "url": "https://www.youtube.com/watch?v=SfuX3qDrLqk",
-    "views": "12",
-    "rejected": []
+    "views": 12,
+    "rejected": [],
+    "upload_date": "20260718"
    },
    {
     "seconds": 1266,
@@ -16934,8 +17423,9 @@
     "title": "Mengzhou Main Quest Chapter 4 : Segue | The Chant of Unseen Ties | Wuthering Waves 3.5 #wuwa",
     "uploader": "Senthu Gamer",
     "url": "https://www.youtube.com/watch?v=KppBMdQc1QU",
-    "views": "43",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260714"
    }
   ],
   "stats": {
@@ -16984,10 +17474,11 @@
     "title": "[Wuthering Waves Main Quest] Song Of The Heart Sword - Part 3: Defeat Calamity Effigy Impeccable End",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=bwNwW2Sv3nk",
-    "views": "48",
+    "views": 53,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260823"
    },
    {
     "seconds": 587,
@@ -17088,8 +17579,9 @@
     "title": "Main Quest 3.6: Song of the Heart Sword (Part 1) | Wuthering Waves",
     "uploader": "BBear",
     "url": "https://www.youtube.com/watch?v=SB4wwkKTWBU",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
     "seconds": 20130,
@@ -17187,8 +17679,9 @@
     "title": "Song of the Heart Sword & Segue: The Nethermancer's Requiem Wuthering Waves 3.6 Chapter IV Act III",
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=_REOuced6lg",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
     "seconds": 18547,
@@ -17214,22 +17707,24 @@
     "title": "[Wuthering Waves Main Quest] The Chant of Unseen Ties: Read Huaxu Academy's WavesLine Message",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=UhQTDfNI2QE",
-    "views": "135",
+    "views": 135,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260711"
    },
    {
-    "seconds": 16699,
+    "seconds": 16698,
     "title": "Wuthering Waves 3.6 Complete Main Story \u2013 All Main Quests",
     "uploader": "Guslok - Gu\u00edas 100%",
     "url": "https://www.youtube.com/watch?v=bL7rC4Gr8Ag",
-    "views": "247",
+    "views": 250,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260821"
    },
    {
     "seconds": 132,
@@ -17328,8 +17823,9 @@
     "title": "Version 3.6 Main Story Quest Act 3 & Jingran Segue Story Full Gameplay - Wuthering Waves",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=PNjg8KAcVdE",
-    "views": "46",
-    "rejected": []
+    "views": 46,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
     "seconds": 289,
@@ -17354,14 +17850,15 @@
     "upload_date": "20260820"
    },
    {
-    "seconds": 17906,
+    "seconds": 17905,
     "title": "Wuthering Waves 3.6 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=XxbZpEm8bAg",
-    "views": "15734",
+    "views": 15734,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 17812,
@@ -17433,12 +17930,13 @@
     "upload_date": "20260820"
    },
    {
-    "seconds": 16660,
+    "seconds": 16659,
     "title": "Wuthering Waves 3.6 Main Quest Rebirth From the Depths Mengzhou Chapter IV Act 3 Song of the Heart",
     "uploader": "Redz Gamer - Official Channel",
     "url": "https://www.youtube.com/watch?v=IAlh9HgNtpY",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260821"
    }
   ],
   "kept": [
@@ -17465,8 +17963,9 @@
     "title": "Version 3.6 Main Story Quest Act 3 & Jingran Segue Story Full Gameplay - Wuthering Waves",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=PNjg8KAcVdE",
-    "views": "46",
-    "rejected": []
+    "views": 46,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
     "seconds": 16279,
@@ -17494,16 +17993,18 @@
     "title": "Main Quest 3.6: Song of the Heart Sword (Part 1) | Wuthering Waves",
     "uploader": "BBear",
     "url": "https://www.youtube.com/watch?v=SB4wwkKTWBU",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
-    "seconds": 16660,
+    "seconds": 16659,
     "title": "Wuthering Waves 3.6 Main Quest Rebirth From the Depths Mengzhou Chapter IV Act 3 Song of the Heart",
     "uploader": "Redz Gamer - Official Channel",
     "url": "https://www.youtube.com/watch?v=IAlh9HgNtpY",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 16686,
@@ -17527,8 +18028,9 @@
     "title": "Song of the Heart Sword & Segue: The Nethermancer's Requiem Wuthering Waves 3.6 Chapter IV Act III",
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=_REOuced6lg",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260820"
    },
    {
     "seconds": 17635,
@@ -17611,30 +18113,33 @@
     "title": "Song of the Heart Sword & Segue: The Nethermancer's Requiem Wuthering Waves 3.6 Chapter IV Act III",
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=_REOuced6lg",
-    "views": "28",
+    "views": 28,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 313,
     "title": "Hsin gets flustered when Qingxiao was about to SLAP Her... (Wuthering Waves 3.6)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=PDJZpqCwOUg",
-    "views": "13820",
+    "views": 13828,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 142,
     "title": "Jingran Randomly FIGHTS Rover from OUT OF NOWHERE (Wuthering Waves 3.6)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=N9bsAFop4mk",
-    "views": "15241",
+    "views": 15253,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 96,
@@ -17652,10 +18157,11 @@
     "title": "Version 3.6 Main Story Quest Act 3 & Jingran Segue Story Full Gameplay - Wuthering Waves",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=PNjg8KAcVdE",
-    "views": "46",
+    "views": 46,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 1470,
@@ -17723,12 +18229,13 @@
     ]
    },
    {
-    "seconds": 1035,
+    "seconds": 1034,
     "title": "The Nethermancers Requiem Trophy #wuwa  3.5 \ud83c\udfae #gameplay #gaming #games #games  #shorts #gameshorts",
     "uploader": "Pulse Wave Gaming",
     "url": "https://www.youtube.com/watch?v=QuRU6w8pWTc",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260823"
    },
    {
     "seconds": 1161,
@@ -17762,15 +18269,16 @@
     ]
    },
    {
-    "seconds": 18886,
+    "seconds": 1134,
     "title": "WuWa 3.6 Mengzhou Story Quest: Act 3 & Segue | Wuthering Waves (JP Voice)",
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=OPTv3B92Tro",
-    "views": "427",
-    "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+    "views": 427,
+    "rejected": [],
+    "upload_date": "20260821",
+    "runtime": 18886,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 177,
@@ -17799,10 +18307,11 @@
     "title": "Hsin Meets Her Master, Lord Arbiter, for the First Time! | Wuthering Waves",
     "uploader": "BSS Gaming",
     "url": "https://www.youtube.com/watch?v=Q3JKvuye2i0",
-    "views": "34834",
+    "views": 34977,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260821"
    },
    {
     "seconds": 17973,
@@ -17820,8 +18329,9 @@
     "title": "Wuthering Waves - Story Quest Chapter IV Segue: The Nethermancer\u2019s Requiem walkthrough",
     "uploader": "heriawsity",
     "url": "https://www.youtube.com/watch?v=V3cIgCsIe7I",
-    "views": "6",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260824"
    },
    {
     "seconds": 321,
@@ -17880,8 +18390,9 @@
     "title": "Wuthering Waves - Story Quest Chapter IV Segue: The Nethermancer\u2019s Requiem walkthrough",
     "uploader": "heriawsity",
     "url": "https://www.youtube.com/watch?v=V3cIgCsIe7I",
-    "views": "6",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260824"
    },
    {
     "seconds": 1016,
@@ -17902,23 +18413,36 @@
     "upload_date": "20260824"
    },
    {
-    "seconds": 1035,
+    "seconds": 1034,
     "title": "The Nethermancers Requiem Trophy #wuwa  3.5 \ud83c\udfae #gameplay #gaming #games #games  #shorts #gameshorts",
     "uploader": "Pulse Wave Gaming",
     "url": "https://www.youtube.com/watch?v=QuRU6w8pWTc",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 1134,
+    "title": "WuWa 3.6 Mengzhou Story Quest: Act 3 & Segue | Wuthering Waves (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=OPTv3B92Tro",
+    "views": 427,
+    "rejected": [],
+    "upload_date": "20260821",
+    "runtime": 18886,
+    "measured": "chapter-markers",
+    "parts": {}
    }
   ],
   "stats": {
-   "n": 4,
+   "n": 5,
    "median": 17,
    "low": 16,
-   "high": 17,
+   "high": 19,
    "q1": null,
    "q3": null,
    "trimmed_mean": 17,
-   "measured": 0,
+   "measured": 1,
    "parts": {},
    "drift": 0.0
   }
