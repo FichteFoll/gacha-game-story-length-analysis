@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter III: To the Stars Yet to Shine
 
-**Region:** Roya Frostlands, Lahai-Roi | **Game versions:** 3.0 - 3.4 | **Entries:** 14 | **Estimated chapter length: 26 h 31 min**
+**Region:** Roya Frostlands, Lahai-Roi | **Game versions:** 3.0 - 3.4 | **Entries:** 14 | **Estimated chapter length: 26 h 30 min**
 <!--/gen-->
 
 Lahai-Roi has no Sentinel and a Void Storm where its sky should be,
@@ -27,11 +27,11 @@ and ends up piloting the thing the whole world has been building.
 | Act V | Starlights from Yesterdays | 2 h 56 min | 2 h 40 min - 3 h 08 min | 23 | high |
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
 | Segue - VI | Beneath a Melting Night Sky | 1 h 59 min | 1 h 49 min - 2 h 06 min | 13 | high |
-| Side Story | At Dream's Edge | 2 h 52 min | 2 h 41 min - 3 h 08 min | 13 | high |
+| Side Story | At Dream's Edge | 2 h 51 min | 2 h 39 min - 3 h 07 min | 13 | high |
 | Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 54 min - 2 h 08 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->26 h 31 min<!--/f-->**
+**Total: <!--f:total-->26 h 30 min<!--/f-->**
 
 ## Pacing
 
@@ -75,7 +75,7 @@ and shakes off a Voidworm on the far side.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 10 min | When the Unknown Thrums Wuthering Waves | ZaFrostPet | ~625 | n/a | <https://www.youtube.com/watch?v=csu11cOcuAI> |
+| 10 min | When the Unknown Thrums Wuthering Waves | ZaFrostPet | 625 | 2025-12-25 | <https://www.youtube.com/watch?v=csu11cOcuAI> |
 | 11 min | When the Unknown Thrums Wuthering Waves | WoW Quests | 727 | 2025-12-25 | <https://www.youtube.com/watch?v=Z96YmK_bS2w> |
 | 16 min | Wuthering Waves 3.0 \| Chapter III Prologue: When the Unknown Thrums \| 4K UHD RTX 5090 | RTXMonkey | 91 | 2025-12-25 | <https://www.youtube.com/watch?v=KZiiLu85Ufg> |
 | 17 min | When the unknown thrums full quest wuthering waves | DreamerQuests | ~17 | n/a | <https://www.youtube.com/watch?v=rnhGMwpld0M> |
@@ -83,7 +83,7 @@ and shakes off a Voidworm on the far side.
 | 18 min | Wuthering Waves Walkthrough Part 575 - Chapter 3 Prologue: When the Unknown Thrums (No Commentary) | MG PlayX | 60 | 2025-12-29 | <https://www.youtube.com/watch?v=DOAnp9cXuU4> |
 | 18 min | Wuthering Waves - Chapter 3 Prologue: When the Unknown Thrums \| No Commentary | SamuRRai_Gamer | 3 | 2026-07-12 | <https://www.youtube.com/watch?v=edhJ3o8v7ns> |
 | 18 min | Wuthering Waves [Main Story] [Ver 3.0] - When the Unknown Thrums Walkthrough [No Commentary] | Fresh and Crispy Games | 5 | 2026-06-27 | <https://www.youtube.com/watch?v=Z2Z8pFnYH-Q> |
-| 23 min | Wuthering Waves Chapter 3 Prologue : When the Unknown Thrums Quest (No Commentary) | FinalBossZone | ~9 | n/a | <https://www.youtube.com/watch?v=bpt4NnQm9qk> |
+| 23 min | Wuthering Waves Chapter 3 Prologue : When the Unknown Thrums Quest (No Commentary) | FinalBossZone | 9 | 2026-03-28 | <https://www.youtube.com/watch?v=bpt4NnQm9qk> |
 
 </details>
 <!--/gen-->
@@ -117,12 +117,12 @@ enrolment, an ID photo, the infirmary, and Lynae's missing-attendance problem.
 | 2 h 38 min | What burns beneath frostlands full quest uncut 3.0 wuthering waves | DreamerQuests | 42 | 2025-12-26 | <https://www.youtube.com/watch?v=7UaaOGYWvPo> |
 | 2 h 42 min | What Burns Beneath Frostlands, 3.0 Chapter 3 Act 1 Main story , Part 1 of 2 - Wuthering Waves 4K | Grateful Gaming 4K | 17 | 2025-12-29 | <https://www.youtube.com/watch?v=DmWA_AGRYDI> |
 | 2 h 44 min | WHAT BURNS BENEATH FROSTLANDS - Version 3.0 Act 1 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 78 | 2026-01-01 | <https://www.youtube.com/watch?v=cp-rSDSkPWk> |
-| 2 h 55 min | Wuthering Waves 3.0 Story Walkthrough Complete - Prologue & Act 1 [4K 60FPS] | Headstart Gaming | ~592 | n/a | <https://www.youtube.com/watch?v=kUn4A3aJzQY> |
+| 2 h 55 min | Wuthering Waves 3.0 Story Walkthrough Complete - Prologue & Act 1 [4K 60FPS] | Headstart Gaming | 592 | 2025-12-26 | <https://www.youtube.com/watch?v=kUn4A3aJzQY> |
 | 2 h 57 min | Wuthering Waves 3.0 Story - Chapter 3 Prologue: When the Unknown Thrums & Act 1 (Male Rover) | QuestWatcher | ~17 | n/a | <https://www.youtube.com/watch?v=tBrILPPIlZ8> |
 | 2 h 57 min | Wuthering Waves Main Quest: Lahai-Roi Act 1 - What Burns Beneath Frostlands | Drexyz | ~9 | n/a | <https://www.youtube.com/watch?v=rnJzPP5Vhts> |
 | 2 h 58 min | Wuthering Waves [Main Story] [Ver 3.0] - What Burns Beneath Frostlands Walkthrough [No Commentary] | Fresh and Crispy Games | 6 | 2026-06-30 | <https://www.youtube.com/watch?v=Im5ZDIqEjy8> |
 | 2 h 58 min | Wuthering Waves 3.0 Main Quest Chapter III: Act 1 - What Burns Beneath Frostlands | Clean Cockroach | 0 | 2025-12-30 | <https://www.youtube.com/watch?v=81s390b9D6o> |
-| 3 h 01 min | Wuthering Waves 3.0 Act 1 - Full Story Quest Walkthrough | CGInferno | ~26,385 | n/a | <https://www.youtube.com/watch?v=hUt8JR0gRAA> |
+| 3 h 01 min | Wuthering Waves 3.0 Act 1 - Full Story Quest Walkthrough | CGInferno | 26,385 | 2025-12-25 | <https://www.youtube.com/watch?v=hUt8JR0gRAA> |
 | 3 h 01 min | Wuthering Waves 3.0 Lahai-Roi Act 1 - New Main Story Quest Full Walkthrough | Rubhen925 | 62,642 | 2025-12-26 | <https://www.youtube.com/watch?v=N_ftQLTJuso> |
 | 3 h 03 min | FULL Chapter 3 Act 1 Lahai-Roi \| Wuthering Waves 3.0 "What Burns Beneath Frostlands" | T.H Bunn | 50 | 2025-12-25 | <https://www.youtube.com/watch?v=MGz6Ukhe5PA> |
 | 3 h 04 min | Version 3.0 Main Story Quest - Wuthering Waves \| ACT 1 & Prologue (Full Playthrough) | Streetwise Rhapsody | 36,099 | 2025-12-25 | <https://www.youtube.com/watch?v=bqY0-xoTK_M> |
@@ -157,13 +157,13 @@ then out to the Atuja Camp and into an active Void Storm.
 | 2 h 06 min | Wuthering Waves - 4K - Ode to the Second Sunrise Story Quest | DRC Gamer | ~18 | n/a | <https://www.youtube.com/watch?v=v8QD-W3zqbM> |
 | 2 h 11 min | Ode to the Second Sunrise— Wuthering Waves 3.0 Quest Gameplay (No Commentary) | Eryx Gaming | 60 | 2026-01-18 | <https://www.youtube.com/watch?v=3PvUMnXn-qw> |
 | 2 h 14 min | Wuthering Waves chapter 3 act 2 story quest Ode to the Second Sunrise. | KeoNovo | 20 | 2026-01-18 | <https://www.youtube.com/watch?v=1s0OB43b1i8> |
-| 2 h 15 min | Wuthering Waves 3.0 Story Walkthrough Complete - Act 2 [4K 60FPS] | Headstart Gaming | ~145 | n/a | <https://www.youtube.com/watch?v=l0M_w3GwFtM> |
-| 2 h 16 min | Wuthering Waves 3.0 Act 2 - Full Story Quest Walkthrough | CGInferno | ~5,154 | n/a | <https://www.youtube.com/watch?v=j7kbKuwgz6k> |
+| 2 h 15 min | Wuthering Waves 3.0 Story Walkthrough Complete - Act 2 [4K 60FPS] | Headstart Gaming | 145 | 2026-01-16 | <https://www.youtube.com/watch?v=l0M_w3GwFtM> |
+| 2 h 16 min | Wuthering Waves 3.0 Act 2 - Full Story Quest Walkthrough | CGInferno | 5,154 | 2026-01-15 | <https://www.youtube.com/watch?v=j7kbKuwgz6k> |
 | 2 h 20 min | Wuthering Waves 3.0 - New Main Story Quest Full Gameplay \| Act 2 | Jonozoic | 91 | 2026-01-15 | <https://www.youtube.com/watch?v=Q99T7o6E7oI> |
 | 2 h 21 min | Wuthering Waves 3.0 Act 2 - Full Main Story Quest Walkthrough | Mamang Ohek | 17 | 2026-01-17 | <https://www.youtube.com/watch?v=D5f_TeRjERM> |
 | 2 h 24 min | FULL Chapter 3 Act 2 Lahai-Roi \| Wuthering Waves 3.0 "Ode to the Second Sunrise" | T.H Bunn | 72 | 2026-01-15 | <https://www.youtube.com/watch?v=_ak0Ru8hye8> |
 | 2 h 25 min | Version 3.0 Main Story \| Chapter 3 Act 2 Ode to the Second Sunrise Lahai | NaruVT | 2,614 | 2026-01-15 | <https://www.youtube.com/watch?v=8CJKM2DZ8ho> |
-| 2 h 27 min | Wuthering Waves 3.0 Lahai-Roi Act 2 - New Main Story Quest Full Walkthrough | Rubhen925 | ~52,335 | n/a | <https://www.youtube.com/watch?v=bc4zEP1SvaM> |
+| 2 h 27 min | Wuthering Waves 3.0 Lahai-Roi Act 2 - New Main Story Quest Full Walkthrough | Rubhen925 | 52,345 | 2026-01-15 | <https://www.youtube.com/watch?v=bc4zEP1SvaM> |
 | 2 h 36 min | Wuthering Waves Chapter 3 Act 2: Ode to the Second Sunrise | TheWayCafe Productions | 693 | 2026-01-17 | <https://www.youtube.com/watch?v=jv24gbk9ego> |
 | 2 h 39 min | Falling Sun \| Wuthering Waves Lahai-Roi Story Act 2 [Ode to the Second Sunrise] Full Quest | FervidTwo Gaming | 22 | 2026-07-08 | <https://www.youtube.com/watch?v=_cQw8Jv1L3U> |
 | 2 h 47 min | Wuthering Waves [Main Story] [Ver 3.0] - Ode to the Second Sunrise Walkthrough [No Commentary] | Fresh and Crispy Games | 4 | 2026-07-01 | <https://www.youtube.com/watch?v=WXHRU0E_JlM> |
@@ -196,17 +196,17 @@ One of the three longest acts in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 3 h 32 min | 'The Star That Voyages Far' \| Chapter 3 Act 3 \| Wuthering Waves 3.1 | SECO | ~165 | n/a | <https://www.youtube.com/watch?v=es5fiLo_rW0> |
+| 3 h 32 min | 'The Star That Voyages Far' \| Chapter 3 Act 3 \| Wuthering Waves 3.1 | SECO | 165 | 2026-02-07 | <https://www.youtube.com/watch?v=es5fiLo_rW0> |
 | 3 h 47 min | Wuthering Waves 3.1 Story Full Walkthrough - Chapter 3 Act 3 [4K 60FPS] | Headstart Gaming | 1,398 | 2026-02-06 | <https://www.youtube.com/watch?v=SPMge2exT8A> |
 | 3 h 49 min | Wuthering Waves Walkthrough Part 615 - Chapter 3 Act 3: The Star That Voyages Far (No Commentary) | MG PlayX | 61 | 2026-02-11 | <https://www.youtube.com/watch?v=Gci9phLysAU> |
 | 3 h 53 min | Wuthering Waves 3.1 - Full Lahai-Roi Story Playthrough Act 3 | Segiri | 1,683 | 2026-02-05 | <https://www.youtube.com/watch?v=4k6uU4TP_VY> |
 | 3 h 58 min | Wuthering Waves 3.1 Lahai-Roi Act 3 - Story Quest Full Walkthrough | NoEmotion | 72 | 2026-02-11 | <https://www.youtube.com/watch?v=4x9y7IbnvNY> |
-| 3 h 58 min | Lahai-Roi Act 3 Full Story Quest Playthrough - Wuthering Waves 3.1 | Fayato | ~7,589 | n/a | <https://www.youtube.com/watch?v=h14mi31NvlQ> |
+| 3 h 58 min | Lahai-Roi Act 3 Full Story Quest Playthrough - Wuthering Waves 3.1 | Fayato | 7,589 | 2026-02-05 | <https://www.youtube.com/watch?v=h14mi31NvlQ> |
 | 3 h 59 min | Wuthering Waves 3.1 – Chapter 3 Act 3 The Star That Voyages Far ( RT On ) | SkipButton | 5 | 2026-02-10 | <https://www.youtube.com/watch?v=pexlfN1cOts> |
 | 4 h 00 min | Wuthering Waves 3.1 Lahai-Roi Act 3 - Story Quest Full Walkthrough | Rubhen925 | 74,887 | 2026-02-05 | <https://www.youtube.com/watch?v=0T56ob5lyJ0> |
 | 4 h 02 min | Wuthering Waves Chapter III Act III – Full Story Walkthrough \| Aemeath \| 4K RTX HDR | RTXMonkey | 277 | 2026-02-06 | <https://www.youtube.com/watch?v=xMukW1hO0gs> |
 | 4 h 05 min | Version 3.1 Main Story \| Chapter 3 Act 3 The Star That Voyages Far | NaruVT | 2,659 | 2026-02-05 | <https://www.youtube.com/watch?v=s5akraWgRoQ> |
-| 4 h 13 min | The Star That Voyages Far [Lahai Roi Chapter 3 Act 3] 3.1 Wuthering Waves | Rubieco | ~890 | n/a | <https://www.youtube.com/watch?v=h6cD3WpgI7U> |
+| 4 h 13 min | The Star That Voyages Far [Lahai Roi Chapter 3 Act 3] 3.1 Wuthering Waves | Rubieco | 890 | 2026-02-05 | <https://www.youtube.com/watch?v=h6cD3WpgI7U> |
 | 4 h 14 min | Wuthering Wave 3.1 Main Story Quest "The Star That Voyages Far" Walkthrough Aemeath Story Full Quest | Eynther | 50 | 2026-03-17 | <https://www.youtube.com/watch?v=HcVv4Ro7bUU> |
 | 4 h 22 min | Wuthering Waves [Main Story] [Ver 3.1] - The Star That Voyages Far Walkthrough [No Commentary] | Fresh and Crispy Games | 3 | 2026-07-10 | <https://www.youtube.com/watch?v=8Bffaqiywbs> |
 
@@ -242,7 +242,7 @@ and how much of the Exostrider plan he has been keeping in a drawer.
 | 1 h 15 min | Wuthering Waves 3.1 — Luuk Herssen Story Quest: All That Sunlight Touches (Full Quest) | BSS Gaming | 98 | 2026-02-26 | <https://www.youtube.com/watch?v=8k68fXdMBT8> |
 | 1 h 16 min | Wuthering Waves - Chapter 3 Segue 1: All That Sunlight Touches \| No Commentary | SamuRRai_Gamer | 5 | 2026-07-18 | <https://www.youtube.com/watch?v=6SWyEkWe9vk> |
 | 1 h 16 min | Wuthering Waves Chapter 3 Segue: All That Sunlight Touches | TheWayCafe Productions | 470 | 2026-03-04 | <https://www.youtube.com/watch?v=Hnj5GDLCXvc> |
-| 1 h 19 min | [Wuthering Waves Main Quest] All That Sunlight Touches: Find A Way To Enter The Data Room | Authrone | ~179 | n/a | <https://www.youtube.com/watch?v=eG6mSXpRKNo> |
+| 1 h 19 min | [Wuthering Waves Main Quest] All That Sunlight Touches: Find A Way To Enter The Data Room | Authrone | 179 | 2026-02-27 | <https://www.youtube.com/watch?v=eG6mSXpRKNo> |
 | 1 h 21 min | Wuthering Waves [Main Story] [Ver 3.1] - All That Sunlight Touches Walkthrough [No Commentary] | Fresh and Crispy Games | 9 | 2026-08-02 | <https://www.youtube.com/watch?v=k2WWEe2VFJ0> |
 | 1 h 22 min | Wuthering Waves Segue Quest \| All That Sunlight Touches \| No Commentary | Ciamiko | 15 | 2026-03-19 | <https://www.youtube.com/watch?v=xdNTVuwXVns> |
 | 1 h 46 min | Wuthering Waves 3.1 - Luuk Story Quest All That Sunlight Touches Full Playthrough | Buckii | 15 | 2026-03-21 | <https://www.youtube.com/watch?v=6z_V5_yBh-A> |
@@ -274,11 +274,11 @@ rooms that are not rooms, reflections that answer back, and "Mother".
 | --- | --- | --- | --- | --- | --- |
 | 2 h 49 min | Wuthering Waves 3.2\|Chapter 3 Act 4 Gold Suspended in Shadows Quest (Part 2)#wutheringwaves #wuwa32 | Gachaxerse | 16 | 2026-04-18 | <https://www.youtube.com/watch?v=KATdD32yVLI> |
 | 3 h 07 min | Wuthering Waves \| GOLD SUSPENDED IN SHADOWS  \|  Lahai Roi : Chapter 3 ACT IV  FULL WALKTHROUGH | SsjBankai00 | 39 | 2026-04-09 | <https://www.youtube.com/watch?v=ZaMRs4PpBu0> |
-| 3 h 13 min | Wuthering Waves Walkthrough Part 649 - Chapter 3 Act 4: Gold Suspended in the Shadows (No Comment) | MG PlayX | ~104 | n/a | <https://www.youtube.com/watch?v=dnMzCX9xauE> |
+| 3 h 13 min | Wuthering Waves Walkthrough Part 649 - Chapter 3 Act 4: Gold Suspended in the Shadows (No Comment) | MG PlayX | 104 | 2026-03-23 | <https://www.youtube.com/watch?v=dnMzCX9xauE> |
 | 3 h 17 min | Wuthering Waves 3.2 - New Main Story Quest Full Gameplay \| Act 4: Gold Suspended in Shadows | Jonozoic | 125 | 2026-03-19 | <https://www.youtube.com/watch?v=OomlTkBKwAE> |
 | 3 h 21 min | Wuthering Waves 3.2 Main Story Quest - ACT 4 \| Full Gameplay | Sheerun | ~11 | n/a | <https://www.youtube.com/watch?v=kbsPfCT_rW0> |
 | 3 h 22 min | Gold Suspended in the Shadows FULL Walkthrough & Ending – Wuthering Waves 3.2 | NeoBuns | 3,720 | 2026-03-20 | <https://www.youtube.com/watch?v=-xm2ZIepxxA> |
-| 3 h 24 min | Wuthering Waves  3.2 Lahai Roi Act 4 - Sigrika Story Quest Full Walkthrough | Tarnished Blade  | ~289 | n/a | <https://www.youtube.com/watch?v=iF-SxVjiwZQ> |
+| 3 h 24 min | Wuthering Waves  3.2 Lahai Roi Act 4 - Sigrika Story Quest Full Walkthrough | Tarnished Blade  | 289 | 2026-03-20 | <https://www.youtube.com/watch?v=iF-SxVjiwZQ> |
 | 3 h 25 min | Wuthering Wave v3.2: Lahai Roi Act 4 - Main Story Quest Walkthrough | NoEmotion | 54 | 2026-05-13 | <https://www.youtube.com/watch?v=WgXVWAu23oI> |
 | 3 h 25 min | Wuthering Waves 3.2 Complete Quest \| Gold Suspended in Shadows \| Lahai Roi Chapter 3 Act 4 | Gacha Chief | 242 | 2026-03-20 | <https://www.youtube.com/watch?v=xYL5ufysHzc> |
 | 3 h 28 min | Wuthering Waves - Chapter 3 Act 4: Gold Suspended in the Shadows \| No Commentary | SamuRRai_Gamer | ~10 | n/a | <https://www.youtube.com/watch?v=sg15ZGZ14GA> |
@@ -380,7 +380,7 @@ which means going back to Honami to purge the Left Behind first.
 | --- | --- | --- | --- | --- | --- |
 | 32 min | Wishes in the Bell 3.3 #WUWA Main Story #gameplay #ps5gameplay #wutheringwaves #gaming g#gameplay 🎮 | Pulse Wave Gaming | ~20 | n/a | <https://www.youtube.com/watch?v=m_8rzIorZ2I> |
 | 34 min | Wuthering Waves Walkthrough Gameplay Part 161 - Wishes in the Bell | TheNinedFox | 6 | 2026-07-13 | <https://www.youtube.com/watch?v=AT9VwDh_enE> |
-| 38 min | Wuthering Waves - Story Quest Chapter III Segue: Wishes in the Bell walkthrough | heriawsity | ~17 | n/a | <https://www.youtube.com/watch?v=dpCcVT4uRrY> |
+| 38 min | Wuthering Waves - Story Quest Chapter III Segue: Wishes in the Bell walkthrough | heriawsity | 17 | 2026-05-03 | <https://www.youtube.com/watch?v=dpCcVT4uRrY> |
 | 38 min | Wishes in the Bell \| Hiyuki’s Story Quest (No Commentary) – Wuthering Waves v3.3 | ARK_GAMING | ~35 | n/a | <https://www.youtube.com/watch?v=spj7bVbaDsk> |
 | 42 min | Hiyuki Segue Story Quest (Full Quest) Wishes in the Bell \| Wuthering Waves 3.3 | Streetwise Rhapsody | 11,083 | 2026-04-30 | <https://www.youtube.com/watch?v=4AkQ3FiaJPQ> |
 | 43 min | Wuthering Waves - Chapter III Segue: Wishes in the Bell \| Hiyuki Full Quest (4K RTX DLSS 4.5 DLAA) | RTXMonkey | ~889 | n/a | <https://www.youtube.com/watch?v=mHF77Bkfibw> |
@@ -438,7 +438,7 @@ and taking the Exostrider up.
 | 3 h 30 min | WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game \| Wuthering Waves 3.3 | Akabirama | 16,078 | 2026-04-30 | <https://www.youtube.com/watch?v=RbY5Tx-Qdx8> |
 | 3 h 35 min | Wuthering Waves Version 3.3 Main Story Quest \| Starlights from Yesterdays (Full Playthrough) | Dosa Kun | 132 | 2026-05-08 | <https://www.youtube.com/watch?v=6AKXYLgGUMw> |
 | 3 h 36 min | Wuthering Waves 3.3 Act 5 Starlights from Yesterdays Full | NaruVT | 2,736 | 2026-04-30 | <https://www.youtube.com/watch?v=wKWosnm1-Y8> |
-| 3 h 41 min | Wuthering Waves 3.3 Main Story Quest - ACT 5 \| Full Gameplay | Sheerun | ~72 | n/a | <https://www.youtube.com/watch?v=r5kJOLEUQTA> |
+| 3 h 41 min | Wuthering Waves 3.3 Main Story Quest - ACT 5 \| Full Gameplay | Sheerun | 72 | 2026-05-04 | <https://www.youtube.com/watch?v=r5kJOLEUQTA> |
 | 3 h 53 min | 『Wuthering Waves』3.3 ''Starlights from Yesterdays'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | 528 | 2026-04-30 | <https://www.youtube.com/watch?v=O8TfRDQ901Y> |
 
 </details>
@@ -473,7 +473,7 @@ One of the three shortest entries in the questline.
 | 13 min | Wishes in the Bell: Epilogue — Chapter 3, Segue — Wuthering Waves | RPG Plays TV | 135 | 2026-05-07 | <https://www.youtube.com/watch?v=EYVteFOC2bs> |
 | 14 min | Wuthering Waves 3.3 - Main Story Quest: "Wishes in the Bell: Epilogue" | BSS Gaming | 84 | 2026-06-09 | <https://www.youtube.com/watch?v=e9Kv2_XAZdA> |
 | 14 min | Chapter 3 Lahai-Roi Act V Segue Wishes in the Bell Epilogue JP Dub FRover \| Wuthering Waves | Falynn | 62 | 2026-05-10 | <https://www.youtube.com/watch?v=Svc8yk4ufSQ> |
-| 14 min | Wuthering Waves [Main Story] [Ver 3.3] - Wishes in the Bell: Epilogue Walkthrough [JP Dub] | Fresh and Crispy Games | ~3 | n/a | <https://www.youtube.com/watch?v=haKKlPwjU_Y> |
+| 14 min | Wuthering Waves [Main Story] [Ver 3.3] - Wishes in the Bell: Epilogue Walkthrough [JP Dub] | Fresh and Crispy Games | 3 | 2026-08-09 | <https://www.youtube.com/watch?v=haKKlPwjU_Y> |
 | 14 min | Wuthering Waves Segue Quest \| Wishes in the Bell : Epilogue \| No Commentary | Ciamiko | 11 | 2026-06-07 | <https://www.youtube.com/watch?v=5Nx2TRv9IvA> |
 | 14 min | 「Wuthering Waves」Main Quest \| PART 82 \| Wishes in the Bell: Epilogue \| PS5PR0 [4K/60FPS HDR] | Sakura Mizrahi | 6 | 2026-07-25 | <https://www.youtube.com/watch?v=XbE8u-zsa1M> |
 | 14 min | [Wuthering Waves Main Quest] Wishes In The Bell: Epilogue: Complete The Final Purge | Authrone | 88 | 2026-05-01 | <https://www.youtube.com/watch?v=JpFuEJpPVTM> |
@@ -482,7 +482,7 @@ One of the three shortest entries in the questline.
 | 15 min | Main Quest - Wishes in the Bell: Epilogue - Wuthering Waves #50 | CHTS | 14 | 2026-06-07 | <https://www.youtube.com/watch?v=SHfBrGs59uU> |
 | 16 min | Wuthering Waves - Chapter 3 Segue 4: Wishes in the Bell Epilogue \| No Commentary | SamuRRai_Gamer | 7 | 2026-07-24 | <https://www.youtube.com/watch?v=GjV5hDogIqs> |
 | 16 min | Wuthering Waves v3.3 (JP Dub) Chapter 3: Segue - Wishes in the Bell: Epilogue | Kiironeko Seven | ~9 | n/a | <https://www.youtube.com/watch?v=oN3pEHaQg5Y> |
-| 18 min | Lahai-Roi Main Quest Chapter 3 : Segue \| Wishes in the Bell : Epilogue \| Wuthering Waves 3.3 #wuwa | Senthu Gamer | ~86 | n/a | <https://www.youtube.com/watch?v=j9WVLczoZxM> |
+| 18 min | Lahai-Roi Main Quest Chapter 3 : Segue \| Wishes in the Bell : Epilogue \| Wuthering Waves 3.3 #wuwa | Senthu Gamer | 86 | 2026-05-01 | <https://www.youtube.com/watch?v=j9WVLczoZxM> |
 
 </details>
 <!--/gen-->
@@ -514,7 +514,7 @@ and the follow-up runs from the infirmary to the station two days later.
 | 1 h 48 min | Wuthering Waves - 4K - Beneath The Melting Night Sky Story Quest | DRC Gamer | 25 | 2026-06-11 | <https://www.youtube.com/watch?v=voNgvnPsSIY> |
 | 1 h 50 min | Denia Full Segue Story Quest - Beneath a Melting Night Sky \| Wuthering Waves 3.3 | Jonozoic | 228 | 2026-05-21 | <https://www.youtube.com/watch?v=z02R4OrhfsI> |
 | 1 h 58 min | Wuthering Waves 3.3 Chapter III Denia Segue: Beneath a Melting Night Sky Full Quest Walkthrough | Blaze Sensei | ~213 | n/a | <https://www.youtube.com/watch?v=qROSSkV24Dc> |
-| 1 h 58 min | [Wuthering Waves - 3.3] Beneath a Melting Night Sky Ending - Story Walkthrough (No Commentary) | Kasu | ~43 | n/a | <https://www.youtube.com/watch?v=kmWhJmRbsH8> |
+| 1 h 58 min | [Wuthering Waves - 3.3] Beneath a Melting Night Sky Ending - Story Walkthrough (No Commentary) | Kasu | 43 | 2026-05-23 | <https://www.youtube.com/watch?v=kmWhJmRbsH8> |
 | 1 h 59 min | Wuthering Wave 3.3- Beneath a Melting Night Sky | Gaming_Dino | 6 | 2026-06-11 | <https://www.youtube.com/watch?v=vZk_iyxd6Sw> |
 | 2 h 02 min | Wuthering Waves 3.3 - Main Story Quest: "Beneath a Melting Night Sky" | BSS Gaming | 69 | 2026-06-09 | <https://www.youtube.com/watch?v=wscnPX3MJmQ> |
 | 2 h 03 min | Denia Segue Story Quest (Full Quest) Beneath a Melting Night Sky \| Wuthering Waves 3.3 | Streetwise Rhapsody | 57,973 | 2026-05-21 | <https://www.youtube.com/watch?v=0T5kZAdLe34> |
@@ -535,12 +535,13 @@ The Somnoire turns abnormal, Lucy's companions are somewhere inside it,
 and the nightmares have guns.
 <!--gen:stats act="Side Story"-->
 
-- **Estimated length:** 2 h 52 min
-- **Sampled range:** 2 h 41 min to 3 h 08 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 13 playthrough uploads (17 further candidates screened out)
+- **Estimated length:** 2 h 51 min
+- **Sampled range:** 2 h 39 min to 3 h 07 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 13 playthrough uploads (17 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median -1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 13 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Side Story"-->
@@ -552,13 +553,13 @@ and the nightmares have guns.
 | 2 h 12 min | Cyberpunk Edgerunners x Wuthering Waves Quest \| At Dream's Edge Main Quest \| Day 1 | Maurya Playz | ~36 | n/a | <https://www.youtube.com/watch?v=kNRe3DhNhWI> |
 | 2 h 35 min | Wuthering Waves × Cyberpunk: Edgerunners Collaboration Full Quest \| At Dream's Edge | jieun | 795 | 2026-06-13 | <https://www.youtube.com/watch?v=GoFnPCwsm1g> |
 | 2 h 39 min | Wuthering Waves - Story Quest Chapter III Side Story “At Dream’s Edge” walkthrough | heriawsity | ~497 | n/a | <https://www.youtube.com/watch?v=rJCvrbvShYo> |
+| 2 h 40 min | Cyberpunk Edgerunners X Wuthering Waves - At Dream's Edge ( Full Quest ) | TheWayCafe Productions | 578 | 2026-06-25 | <https://www.youtube.com/watch?v=t59AHAyg5kQ> |
 | 2 h 43 min | Wuthering Waves x Cyberpunk 2077 Collab Quest Full Walkthrough (Episodic Quest - At Dream's Edge) | PinnapleN3rd | 39 | 2026-06-18 | <https://www.youtube.com/watch?v=L7G2Rt-tigw> |
 | 2 h 50 min | At Dream’s Edge Full Quest (Wuthering Waves)  | 𝐓𝐢𝐭𝐚𝐧𝐖𝐨𝐥𝐟 | 46 | 2026-07-12 | <https://www.youtube.com/watch?v=UwIf8IIlE4Y> |
 | 2 h 51 min | Wuthering Waves Walkthrough Part 721 - Chapter 3 Side Story: At Dream's Edge (No Commentary) | MG PlayX | 51 | 2026-07-03 | <https://www.youtube.com/watch?v=0rcPf8v0XXE> |
 | 2 h 52 min | Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge | Yoru Silent Playthroughs | 24 | 2026-06-08 | <https://www.youtube.com/watch?v=XFmvD5Mm3mE> |
 | 2 h 53 min | Lahai-Roi Chapter 3 : Side Story \| At Dream's Edge \| Wuwa 3.4 \| Wuwa x Cyberpunk Edgerunner's Collab | Senthu Gamer | ~26 | n/a | <https://www.youtube.com/watch?v=qtwpmIW1sgQ> |
 | 3 h 05 min | At Dream's Edge \| Episodic Quest (Full Gameplay) | Exzelis Gaming 🇲🇾 | 1,683 | 2026-06-12 | <https://www.youtube.com/watch?v=_JR-3dTaoVw> |
-| 3 h 06 min | Cyberpunk Edgerunners X Wuthering Waves - At Dream's Edge ( Full Quest ) | TheWayCafe Productions | ~578 | n/a | <https://www.youtube.com/watch?v=t59AHAyg5kQ> |
 | 3 h 09 min | At Dream's Edge Playthrough \| Wuthering Waves X Cyberpunk: Edgerunners Collab Main Quest | Mikmik-kun | 52 | 2026-06-09 | <https://www.youtube.com/watch?v=6oKc3byuyE4> |
 | 3 h 19 min | Wuthering Waves Gameplay \| Side Story Quest: At Dream's Edge (Cyberpunk: Edgerunners Collaboration) | Mysterious Hero | 16 | 2026-06-12 | <https://www.youtube.com/watch?v=2iXPQ_61KtQ> |
 | 3 h 24 min | Main Quest Chapter 3 Side Story At Dream's Edge \| Wuthering Waves x Cyberpunk Edgerunner | mwRover | 13 | 2026-06-22 | <https://www.youtube.com/watch?v=AWU5Q_eH2LQ> |
@@ -591,11 +592,11 @@ look like it is fine.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 43 min | WUWA 3.4 - FULL QUEST - WE CHOOSE THE SKY | NinjaBricksYT | 7 | 2026-07-10 | <https://www.youtube.com/watch?v=-dbzoWh8DX4> |
 | 1 h 49 min | Wuthering Waves - Story Quest Chapter III Segue “We Choose the Sky” walkthrough  | heriawsity | ~620 | n/a | <https://www.youtube.com/watch?v=lqbH8rdC9YQ> |
-| 1 h 54 min | Wuthering Waves - Story Quest Chapter III Segue “We Choose the Sky” walkthrough | Zoran | ~18 | n/a | <https://www.youtube.com/watch?v=bJcnnZIk2mI> |
+| 1 h 54 min | Wuthering Waves - Story Quest Chapter III Segue “We Choose the Sky” walkthrough | Zoran | 18 | 2026-08-10 | <https://www.youtube.com/watch?v=bJcnnZIk2mI> |
 | 1 h 58 min | Wuthering Waves - 4K - We Choose the Sky Story Quest | DRC Gamer | 44 | 2026-08-09 | <https://www.youtube.com/watch?v=IoQpbRY9nYQ> |
 | 1 h 58 min | We choose the sky ( Lucilla full quest walkthrough) No commentary. | Gacha Archive | ~30 | n/a | <https://www.youtube.com/watch?v=rjkSFnQfr0o> |
 | 2 h 04 min | Wuthering Waves Version 3.4 - Lucilla Segue Story Quest: We Choose the Sky | Kuroakumoplaz | 19 | 2026-06-21 | <https://www.youtube.com/watch?v=Ai15t82-NGo> |
-| 2 h 04 min | Lucilla's Story Quest "We Choose The Sky" "Version 3.4   | Miki Kei Vod | ~37 | n/a | <https://www.youtube.com/watch?v=e0HRApGZlOY> |
+| 2 h 04 min | Lucilla's Story Quest "We Choose The Sky" "Version 3.4   | Miki Kei Vod | 37 | 2026-06-13 | <https://www.youtube.com/watch?v=e0HRApGZlOY> |
 | 2 h 07 min | Wuthering Waves Main Quest: Lahai-Roi Segue - We Choose the Sky | Drexyz | 78 | 2026-06-21 | <https://www.youtube.com/watch?v=0AaXm9pWiZU> |
 | 2 h 08 min | Wuthering Waves 3.4 Lucilla Story Quest Full Walkthrough (PC) \| We Choose The Sky | Kiruno | 24 | 2026-06-14 | <https://www.youtube.com/watch?v=Apl6uhsWIMo> |
 | 2 h 10 min | Wuthering Waves \| Chapter III Segue: We Choose the Sky | Esper | 4 | 2026-08-03 | <https://www.youtube.com/watch?v=HgJH61v1dN8> |

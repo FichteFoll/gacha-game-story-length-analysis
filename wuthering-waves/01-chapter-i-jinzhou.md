@@ -76,12 +76,12 @@ by people who are far too interested in a stranger with no frequency.
 | 1 h 01 min | Main Quest Act 1: First Resonance \| Wuthering Wave Story Quest | JAAT Playz | 21 | 2025-06-25 | <https://www.youtube.com/watch?v=4cabKPpHIlQ> |
 | 1 h 04 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 1: First Resonance - no commentary | Flaeri | 9 | 2025-08-03 | <https://www.youtube.com/watch?v=F7wzferB1s0> |
 | 1 h 07 min | Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Male Rover) | QuestWatcher | 50 | 2025-11-21 | <https://www.youtube.com/watch?v=QGFTzgg4mnE> |
-| 1 h 08 min | Wuthering Waves V.1.0 - 1 Main Quest Chapter 1 Act 1 [Eng Sub] [Ultrawide] [4K] | Adamantine | ~7 | n/a | <https://www.youtube.com/watch?v=k00VC1Ay2HM> |
+| 1 h 07 min | Wuthering Waves V.1.0 - 1 Main Quest Chapter 1 Act 1 [Eng Sub] [Ultrawide] [4K] | Adamantine | 7 | 2025-06-06 | <https://www.youtube.com/watch?v=k00VC1Ay2HM> |
 | 1 h 08 min | Chapter I - Act I: First Resonance \| Wuthering Waves 1.0 | xored | 5 | 2025-10-19 | <https://www.youtube.com/watch?v=Su1clah5938> |
 | 1 h 09 min | Wuthering Waves: Huanglong Main Quest Act 1 First Resonance - Walkthrough No Commentary [4K] | Prunalaul | 21 | 2025-12-14 | <https://www.youtube.com/watch?v=9_mTZ8vfkUc> |
 | 1 h 10 min | Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Female Rover) | Răzvan Ciprian | ~11 | n/a | <https://www.youtube.com/watch?v=o_bTYJ9wxHo> |
-| 1 h 11 min | Wuthering Waves - Main Quests - First Resonance | Authrone | ~105 | n/a | <https://www.youtube.com/watch?v=bhgofnGbpBE> |
-| 1 h 16 min | Wuthering Waves \| Prologue & Chapter 1 Act 1: First Resonance \| Story Playthrough (No Commentary) | FantasyCore  | ~100 | n/a | <https://www.youtube.com/watch?v=e14OQ5grDbk> |
+| 1 h 11 min | Wuthering Waves - Main Quests - First Resonance | Authrone | 105 | 2024-05-25 | <https://www.youtube.com/watch?v=bhgofnGbpBE> |
+| 1 h 16 min | Wuthering Waves \| Prologue & Chapter 1 Act 1: First Resonance \| Story Playthrough (No Commentary) | FantasyCore  | 100 | 2025-01-18 | <https://www.youtube.com/watch?v=e14OQ5grDbk> |
 | 1 h 20 min | Wuthering Waves Chapter 1 Act 1: First Resonance (Full Gameplay Walkthrough - No Commentary) | Gatenia | ~15 | n/a | <https://www.youtube.com/watch?v=p52SYQ3g6XU> |
 | 1 h 27 min | WuWa Main Quest - Huanglong 1 Act 1 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | 82,134 | 2024-05-26 | <https://www.youtube.com/watch?v=yiAxdzOQKG4> |
 | 1 h 31 min | Wuthering Waves Main Quest Act 1 \| First Resonance | Akira | 31 | 2026-04-10 | <https://www.youtube.com/watch?v=YFgb7tgVmyo> |
@@ -115,15 +115,15 @@ and a first look at what the border actually costs.
 | 25 min | Wuthering Waves - Echoing Marche - Quest Walkthrough - Huanglong I - Act II | Trophy Tom | 479 | 2024-05-23 | <https://www.youtube.com/watch?v=wjoaKBs9R3U> |
 | 25 min | Wuthering Waves: Huanglong Main Quest Act 2 Echoing Marche - Walkthrough No Commentary [4K] | Prunalaul | 9 | 2025-12-13 | <https://www.youtube.com/watch?v=PgVpw5JmunM> |
 | 35 min | Wuthering Waves \| Chapter 1 Act 2: Echoing Marche \| Story Playthrough (No Commentary) | FantasyCore  | 43 | 2025-01-19 | <https://www.youtube.com/watch?v=JsZvspK44GE> |
-| 35 min | PS5 4K MAX SETTINGS: Wuthering Waves Echoing Marche Quest (Chapter 1 Act 2) - No Commentary | Sakibrex AdvGaming | ~65 | n/a | <https://www.youtube.com/watch?v=iaRP9hj_65Y> |
+| 35 min | PS5 4K MAX SETTINGS: Wuthering Waves Echoing Marche Quest (Chapter 1 Act 2) - No Commentary | Sakibrex AdvGaming | 65 | 2025-06-11 | <https://www.youtube.com/watch?v=iaRP9hj_65Y> |
 | 36 min | Wuthering Waves Main Quest: Chapter 1 Act 2 Echoing Marche - Full Gameplay (No Commentary) | RTXMonkey | 163 | 2025-01-13 | <https://www.youtube.com/watch?v=hO_1-mmxh-E> |
 | 38 min | WuWa Main Quest Huanglong 1 Act 2 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | 12,300 | 2024-05-26 | <https://www.youtube.com/watch?v=EtVj-LuPFl4> |
 | 42 min | Wuthering Waves: Main quest Chapter I  - Huanglong - ACT II  - Echoing Marche | Sho | 73 | 2024-05-24 | <https://www.youtube.com/watch?v=Z5fsrisOMTs> |
 | 44 min | Wuthering Waves V.1.0 - 2 Main Quest Chapter 1 Act 2 [Eng Sub] [Ultrawide] [4K] | Adamantine | 8 | 2025-06-06 | <https://www.youtube.com/watch?v=1mMvxoPDwvY> |
 | 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Male Rover) | QuestWatcher | 29 | 2025-11-23 | <https://www.youtube.com/watch?v=QPLHOEidcsA> |
 | 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Female Rover) | Răzvan Ciprian | 11 | 2026-07-24 | <https://www.youtube.com/watch?v=U2emm_5r4lg> |
-| 48 min | 1.0 Story Quest \| Huanglong I Act II \| Jinzhou Rising: Echoing Marche \| Wuthering Waves \| D & K | D & K | ~41 | n/a | <https://www.youtube.com/watch?v=fHCnGyq0ZyQ> |
-| 50 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 2: Echoing Marche - no commentary | Flaeri | ~9 | n/a | <https://www.youtube.com/watch?v=bpEcaldst4o> |
+| 48 min | 1.0 Story Quest \| Huanglong I Act II \| Jinzhou Rising: Echoing Marche \| Wuthering Waves \| D & K | D & K | 41 | 2024-06-01 | <https://www.youtube.com/watch?v=fHCnGyq0ZyQ> |
+| 50 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 2: Echoing Marche - no commentary | Flaeri | 9 | 2025-08-03 | <https://www.youtube.com/watch?v=bpEcaldst4o> |
 | 53 min | WuWa Huanglong Story Quest: Act II \| Wuthering Waves 1.0 Walkthrough (JP Voice) | ViGAMES | 489 | 2026-05-27 | <https://www.youtube.com/watch?v=6hbUgFo3sew> |
 | 1 h 04 min | Wuthering Waves // ARK 0004 (Chapter 1 Act 2 : Echoing Marche & Convene I 1.0) (ADVENTURE) (RPG) | Arkendrey Gaming | 8 | 2024-06-10 | <https://www.youtube.com/watch?v=EFXEt2SKlLw> |
 | 1 h 05 min | Huanglong I-Act II : Echoing Marche - Quest Complete I Wuthering Wave  | Game Playthrough  | 6 | 2026-03-17 | <https://www.youtube.com/watch?v=FkAouy7m2DQ> |
@@ -156,20 +156,20 @@ and Scar, who would rather talk than fight until he does both.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 27 min | Ominous Star Full Quest Wuthering Waves | ZaFrostPet | 3,691 | 2024-05-23 | <https://www.youtube.com/watch?v=VfMfo8tH6r4> |
-| 28 min | Wuthering Waves: Huanglong Main Quest Act 3 Ominous Star - Walkthrough No Commentary [4K] | Prunalaul | ~12 | n/a | <https://www.youtube.com/watch?v=dAD1hAJyHDQ> |
+| 28 min | Wuthering Waves: Huanglong Main Quest Act 3 Ominous Star - Walkthrough No Commentary [4K] | Prunalaul | 12 | 2025-12-14 | <https://www.youtube.com/watch?v=dAD1hAJyHDQ> |
 | 32 min | Ominous Star - Wuthering Waves - Part 1 - Main Quest | Jig5aw 2 | 20 | 2025-08-07 | <https://www.youtube.com/watch?v=HwTQqfQIbKg> |
 | 34 min | Wuthering Waves Main Quest: Chapter 1 Act 3 Ominous Star Full Gameplay Walkthrough (No Commentary) | RTXMonkey | 261 | 2025-01-13 | <https://www.youtube.com/watch?v=ofaPDHGvUuo> |
 | 36 min | Ominous Star - Huanglong I - Act 3 (Full Quest Story) - Wuthering Waves | Sir Patty | 50 | 2025-04-08 | <https://www.youtube.com/watch?v=qlD3ovSyrfg> |
-| 37 min | WuWa Main Quest Huanglong 1 Act 3 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | ~10,380 | n/a | <https://www.youtube.com/watch?v=jQuHztDiOyQ> |
+| 37 min | WuWa Main Quest Huanglong 1 Act 3 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | 10,380 | 2024-05-26 | <https://www.youtube.com/watch?v=jQuHztDiOyQ> |
 | 38 min | Ominous Star  \| Wuthering Waves (Story Quest - Full Quest) | SneakyDaisies | 7 | 2025-08-15 | <https://www.youtube.com/watch?v=6ZR2G19Kowo> |
 | 39 min | Jaw-Dropping PS5 4K Gameplay: Wuthering Waves Chapter 1 Act 3 (Ominous Star Quest + Boss Fight) | Sakibrex AdvGaming | 47 | 2025-06-12 | <https://www.youtube.com/watch?v=YKfICQ6ZkIU> |
 | 40 min | Wuthering Waves - Main Quests - Ominous Star | Authrone | 87 | 2024-05-28 | <https://www.youtube.com/watch?v=6B4jMU1liB4> |
 | 41 min | Wuthering Waves \| Chapter 1 Act 3: Ominous Star \| Story Playthrough (No Commentary) | FantasyCore  | 31 | 2025-01-19 | <https://www.youtube.com/watch?v=G48mZKj-oAY> |
-| 46 min | 1.0 Story Quest \| Huanglong I Act III \| Jinzhou Rising: Ominous Star \| Wuthering Waves \| D & K | D & K | ~65 | n/a | <https://www.youtube.com/watch?v=kC_DJ5-TzsE> |
+| 46 min | 1.0 Story Quest \| Huanglong I Act III \| Jinzhou Rising: Ominous Star \| Wuthering Waves \| D & K | D & K | 65 | 2024-06-01 | <https://www.youtube.com/watch?v=kC_DJ5-TzsE> |
 | 47 min | Wuthering Waves 1.0 Story - Chapter 1 Act 3: Ominous Star (Male Rover) | QuestWatcher | 34 | 2025-11-25 | <https://www.youtube.com/watch?v=FaTfde4T0EY> |
 | 47 min | WuWa Huanglong Story Quest: Act III \| Wuthering Waves 1.0 Walkthrough (JP Voice) | ViGAMES | ~404 | n/a | <https://www.youtube.com/watch?v=mUiLHBqta4Y> |
 | 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 3: Ominous Star (Female Rover) | Răzvan Ciprian | 7 | 2026-07-25 | <https://www.youtube.com/watch?v=Fax2sLyUqvQ> |
-| 49 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 3: Ominous Star - no commentary | Flaeri | ~8 | n/a | <https://www.youtube.com/watch?v=gXEEvx0DAdg> |
+| 49 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 3: Ominous Star - no commentary | Flaeri | 8 | 2025-08-03 | <https://www.youtube.com/watch?v=gXEEvx0DAdg> |
 | 55 min | Wuthering Waves \|\| Gameplay Story Quest Huanglong 1; ACT III Ominous Star (No Commentary) | Alonebucket | ~6 | n/a | <https://www.youtube.com/watch?v=u2pgXR76E04> |
 
 </details>
@@ -206,17 +206,17 @@ and Scar waiting at the end of it.
 | 50 min | Act 4: Clashing Blades \| Wuthering Waves 1.0 | Reonoki | 12 | 2024-06-26 | <https://www.youtube.com/watch?v=1gaStXaeAbo> |
 | 52 min | Wuthering Waves \| Chapter 1 Act 4: Clashing Blades \| Story Playthrough (No Commentary) | FantasyCore  | 29 | 2025-01-22 | <https://www.youtube.com/watch?v=5_zoNDR8BIQ> |
 | 53 min | WuWa Main Quest Huanglong 1 Act 4 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | 12,808 | 2024-05-26 | <https://www.youtube.com/watch?v=B2kZL_9JFpU> |
-| 54 min | Wuthering Waves \| Huanglong I: Act IV – Clashing Blades \| Full Main Quest Gameplay | Dagger gamer25 | ~10 | n/a | <https://www.youtube.com/watch?v=jMyxrAm5NUw> |
-| 54 min | Wuthering Waves Main Quest: Huanglong 1 Act 4 - Clashing Blade | Drexyz | ~30 | n/a | <https://www.youtube.com/watch?v=hd0vAQq6xnY> |
+| 54 min | Wuthering Waves \| Huanglong I: Act IV – Clashing Blades \| Full Main Quest Gameplay | Dagger gamer25 | 10 | 2026-07-05 | <https://www.youtube.com/watch?v=jMyxrAm5NUw> |
+| 54 min | Wuthering Waves Main Quest: Huanglong 1 Act 4 - Clashing Blade | Drexyz | 30 | 2025-04-09 | <https://www.youtube.com/watch?v=hd0vAQq6xnY> |
 | 56 min | Wuthering Waves V.1.0 - 4 Main Quest Chapter 1 Act 4 [Eng Sub] [Ultrawide] [4K] | Adamantine | 20 | 2025-06-06 | <https://www.youtube.com/watch?v=8K0sQMRmgpI> |
 | 56 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 4: Clashing Blades - no commentary | Flaeri | 6 | 2025-08-04 | <https://www.youtube.com/watch?v=AfkBr666QeA> |
 | 58 min | 1.0 Story Quest \| Huanglong I Act IV \| Jinzhou Rising: Clashing Blades \| Wuthering Waves \| D & K | D & K | 57 | 2024-06-08 | <https://www.youtube.com/watch?v=iOblvcOqCrM> |
-| 59 min | Main Quest: "Clashing Blades" (Japanese dub/English sub) - Wuthering Waves | Aruki | ~7 | n/a | <https://www.youtube.com/watch?v=frOyjVzy16U> |
+| 59 min | Main Quest: "Clashing Blades" (Japanese dub/English sub) - Wuthering Waves | Aruki | 7 | 2026-06-18 | <https://www.youtube.com/watch?v=frOyjVzy16U> |
+| 59 min | Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover) | Răzvan Ciprian | 12 | 2026-07-25 | <https://www.youtube.com/watch?v=gEOzkVmWzoE> |
 | 59 min | Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover) | QuestWatcher | 524 | 2025-11-26 | <https://www.youtube.com/watch?v=rfzK0Vfdx88> |
-| 59 min | Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover) | Răzvan Ciprian | ~12 | n/a | <https://www.youtube.com/watch?v=gEOzkVmWzoE> |
 | 1 h 00 min | Wuthering Waves Complete Main Quest Clashing Blades | Waifu Delta | 23 | 2024-05-25 | <https://www.youtube.com/watch?v=XtGg3zDrR2g> |
 | 1 h 05 min | [Mobile - Wuthering Waves] Main Story Chp 1 Act 4: Clashing Blades | Jin Yuan | ~3 | n/a | <https://www.youtube.com/watch?v=qae_Td3p3u4> |
-| 1 h 10 min | Wuthering Waves Chapter 1 Act 4: Clashing Blades \| Full Walkthrough (No Commentary) | Gatenia | ~34 | n/a | <https://www.youtube.com/watch?v=i8ZtX6EjlG8> |
+| 1 h 10 min | Wuthering Waves Chapter 1 Act 4: Clashing Blades \| Full Walkthrough (No Commentary) | Gatenia | 34 | 2026-03-23 | <https://www.youtube.com/watch?v=i8ZtX6EjlG8> |
 
 </details>
 <!--/gen-->
@@ -249,12 +249,12 @@ into the first solid lead on the Black Shores.
 | 1 h 03 min | Buttery Smooth PS5 4K Gameplay: COMPLETE WuWa Chapter 1 Act 5 (Rewinding Raindrops - Full Quest) | Sakibrex AdvGaming | 55 | 2025-06-14 | <https://www.youtube.com/watch?v=PZPchYxWbvc> |
 | 1 h 04 min | WuWa Main Quest Huanglong 1 Act 5 Full Walkthrough \| Wuthering Waves 1.0 | Akabirama | 14,794 | 2024-05-26 | <https://www.youtube.com/watch?v=L7Iw0sAaluQ> |
 | 1 h 08 min | Wuthering Waves Main Quest: Chapter 1 Act 5 Rewinding Raindrops - Full Gameplay (No Commentary) | RTXMonkey | 450 | 2025-01-14 | <https://www.youtube.com/watch?v=vioDsETttHA> |
-| 1 h 09 min | Wuthering Waves \| Chapter 1 Act 5: Rewinding Raindrops \| Story Playthrough (No Commentary) | FantasyCore  | ~56 | n/a | <https://www.youtube.com/watch?v=hhFd3KpTFYo> |
-| 1 h 09 min | Wuthering Waves Main Quest: Huanglong 1 Act 5 - Rewinding Raindrops | Drexyz | ~35 | n/a | <https://www.youtube.com/watch?v=faeHd8r7z5s> |
+| 1 h 09 min | Wuthering Waves \| Chapter 1 Act 5: Rewinding Raindrops \| Story Playthrough (No Commentary) | FantasyCore  | 56 | 2025-01-23 | <https://www.youtube.com/watch?v=hhFd3KpTFYo> |
+| 1 h 09 min | Wuthering Waves Main Quest: Huanglong 1 Act 5 - Rewinding Raindrops | Drexyz | 35 | 2025-04-10 | <https://www.youtube.com/watch?v=faeHd8r7z5s> |
 | 1 h 10 min | Huanglong 1 . Act 5 - Rewinding Raindrops \| Story & Quest [Wuthering Waves] | RyoWesleyy Gamezone | 1,716 | 2024-06-03 | <https://www.youtube.com/watch?v=CaJ-2GXai64> |
 | 1 h 10 min | Rewinding Raindrops Wuthering Waves | WoW Quests | 11,646 | 2024-05-24 | <https://www.youtube.com/watch?v=8ztd68SCIQ4> |
 | 1 h 14 min | Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Male Rover) | QuestWatcher | 47 | 2025-11-29 | <https://www.youtube.com/watch?v=C-tGG1rj03Q> |
-| 1 h 14 min | Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Female Rover) | Răzvan Ciprian | ~8 | n/a | <https://www.youtube.com/watch?v=i8-ccQ__i0Q> |
+| 1 h 14 min | Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Female Rover) | Răzvan Ciprian | 8 | 2026-07-25 | <https://www.youtube.com/watch?v=i8-ccQ__i0Q> |
 | 1 h 18 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 5: Rewinding Raindrops - no commentary | Flaeri | 16 | 2025-08-06 | <https://www.youtube.com/watch?v=EhyvcMRwQhg> |
 | 1 h 41 min | Wuthering Waves - Main Quests - Rewinding Raindrops | Authrone | 281 | 2024-06-01 | <https://www.youtube.com/watch?v=FO3cvTgr4Xs> |
 
@@ -296,9 +296,9 @@ and putting down the Thundering Mephis at the end of it.
 | 1 h 36 min | Wuthering Waves Main Quest: Chapter 1 Act 6 Grand Warstorm - Full Gameplay Walkthrough No Commentary | RTXMonkey | 419 | 2025-01-15 | <https://www.youtube.com/watch?v=EUwPa7__8Cw> |
 | 1 h 40 min | 🥶Grand WarStorm Full Quest \|\| Wuthering Waves Gameplay  | Vatsal Gamer  | 17 | 2026-01-27 | <https://www.youtube.com/watch?v=P4bvGbWiA5E> |
 | 1 h 42 min | Wuthering Waves \|\| Gameplay Story Quest Huanglong 1; ACT VI  Grand Warstorm (No Commentary) | Alonebucket | 19 | 2025-05-20 | <https://www.youtube.com/watch?v=QQPRbSvsTAc> |
-| 1 h 46 min | Wuthering Waves 1.0 Story - Chapter 1 Act 6: Grand Warstorm (Female Rover) | QuestWatcher | ~640 | n/a | <https://www.youtube.com/watch?v=fkFDupLS4mQ> |
+| 1 h 46 min | Wuthering Waves 1.0 Story - Chapter 1 Act 6: Grand Warstorm (Female Rover) | QuestWatcher | 640 | 2025-12-01 | <https://www.youtube.com/watch?v=fkFDupLS4mQ> |
 | 1 h 46 min | Wuthering Waves 1.0 Story - Chapter 1 Jinzhou Rising, Act 6: Grand Warstorm (Female Rover) | Răzvan Ciprian | 6 | 2026-07-25 | <https://www.youtube.com/watch?v=ISsMEYEGnNM> |
-| 1 h 48 min | Wuthering Waves - Main Quests - Grand Warstorm | Authrone | ~228 | n/a | <https://www.youtube.com/watch?v=evJZraAJ99w> |
+| 1 h 48 min | Wuthering Waves - Main Quests - Grand Warstorm | Authrone | 228 | 2024-06-04 | <https://www.youtube.com/watch?v=evJZraAJ99w> |
 | 1 h 51 min | Wuthering Waves \| Main Story Chapter 1 Huanglong Act 6 (Grand Warstorm) | JihoEcho | ~53 | n/a | <https://www.youtube.com/watch?v=pT4EIK8-LtE> |
 
 </details>
@@ -367,12 +367,12 @@ the Mianloong Chamber, and Jinhsi's own history with the Commander of Time.
 | 2 h 36 min | Thaw of Eons \| Chapter 1 - Act VII \| Wuthering Waves Main Story Quest PART 8 | R o b | ~40 | n/a | <https://www.youtube.com/watch?v=pgu7SzEKnhI> |
 | 2 h 46 min | Wuthering Waves 1.1 Huanglong Chapter 1 Act 7 - Thaw of Eons - Full Story Walkthrough | Uranium Tea Gaming | 208 | 2024-07-02 | <https://www.youtube.com/watch?v=JVRWNerKhFM> |
 | 2 h 47 min | Wuthering Waves ver 1.1 Thaw of Eons full walkthrough no commentary. | Lar7on | 60 | 2024-06-28 | <https://www.youtube.com/watch?v=7ScrbJMnI8c> |
-| 2 h 50 min | Wuthering Waves 1.1 Main Story Quest Walkthrough \| Act 7 - Thaw of Eons - | Mihoyuri  | ~633 | n/a | <https://www.youtube.com/watch?v=fP5IBplnOIk> |
+| 2 h 50 min | Wuthering Waves 1.1 Main Story Quest Walkthrough \| Act 7 - Thaw of Eons - | Mihoyuri  | 633 | 2024-06-29 | <https://www.youtube.com/watch?v=fP5IBplnOIk> |
 | 2 h 53 min | Thaw of Eons - Huanglong I - Act 7 - Wuthering Waves 1.1. Walkthrough | Wuthering Showcase | ~95 | n/a | <https://www.youtube.com/watch?v=sjcCGMWclkY> |
 | 2 h 57 min | FULL Chapter 1 Act 7 Jinzhou Rising \| Wuthering Waves 1.1 "Thaw of Eons" | T.H Bunn | ~267 | n/a | <https://www.youtube.com/watch?v=rDk2DEXFsvQ> |
 | 3 h 00 min | Wuthering Waves Main Quest: Huanglong 1 Act 7 - Thaw of Eons | Drexyz | 34 | 2025-04-14 | <https://www.youtube.com/watch?v=DUvd96WOc-k> |
-| 3 h 00 min | Thaw of Eons - Wuthering Waves 1.1 Main Story Act 7 Full Walkthrough | Boofmilktea | ~248 | n/a | <https://www.youtube.com/watch?v=jPjQPaelJ-A> |
-| 3 h 03 min | Wuthering Waves 1.1 Story - Chapter 1 Act 7: Thaw of Eons (Male Rover) | QuestWatcher | ~48 | n/a | <https://www.youtube.com/watch?v=iAc0sR1nICA> |
+| 3 h 00 min | Thaw of Eons - Wuthering Waves 1.1 Main Story Act 7 Full Walkthrough | Boofmilktea | 248 | 2024-06-30 | <https://www.youtube.com/watch?v=jPjQPaelJ-A> |
+| 3 h 03 min | Wuthering Waves 1.1 Story - Chapter 1 Act 7: Thaw of Eons (Male Rover) | QuestWatcher | 48 | 2026-03-14 | <https://www.youtube.com/watch?v=iAc0sR1nICA> |
 | 3 h 07 min | Wuthering Waves 1.1 Main Quest \| Huanglong Act 7 \| Jinzhou Rising | Reonoki | 28 | 2024-06-29 | <https://www.youtube.com/watch?v=28g0E7rFnWM> |
 | 3 h 19 min | Wuthering Waves 1.1: Chapter 1, Act 7 - Thaw of Eons | Assassysin | 35 | 2024-11-22 | <https://www.youtube.com/watch?v=yFUr2kLOaUc> |
 | 3 h 36 min | WUTHERING WAVES【FULL UPDATE】 v1.1 WALKTHROUGH \| ACT 7: THAW OF EONS \| No Commentary \| 4K60FPS UHD | TheLtColonel | 169 | 2024-07-16 | <https://www.youtube.com/watch?v=xaLkh_ie1Ec> |
@@ -409,13 +409,13 @@ to the Shorekeeper and what she has been keeping.
 | 1 h 41 min | [ Wuthering Waves ] 1.3  Act 8 To the Shore’s End Part 1 Main Story Playthrough  [Main Story Line ] | Game Chronicles | 42 | 2025-07-16 | <https://www.youtube.com/watch?v=M5SnnuiKyZk> |
 | 1 h 51 min | To the Shore's End - Chapter 1 Act 8 \| Wuthering Waves | MysticStarX | 243 | 2025-01-20 | <https://www.youtube.com/watch?v=-kHhk3aEw38> |
 | 2 h 00 min | To the Shore's End  \| Wuthering Waves (Story Quest - Full Quest) | SneakyDaisies | 7 | 2026-02-12 | <https://www.youtube.com/watch?v=M7Q2UHTfiII> |
-| 2 h 07 min | WuWa Main Quest Black Shores 1 Act 8 - To the Shore's End Full Walkthrough \| Wuthering Waves 1.3 | Akabirama | ~23,728 | n/a | <https://www.youtube.com/watch?v=kKUV8pSNlb8> |
+| 2 h 07 min | WuWa Main Quest Black Shores 1 Act 8 - To the Shore's End Full Walkthrough \| Wuthering Waves 1.3 | Akabirama | 23,728 | 2024-10-01 | <https://www.youtube.com/watch?v=kKUV8pSNlb8> |
 | 2 h 10 min | To the Shore's End - Black Shore I - ACT VIII - Jinzhou Rising \| Wuthering Waves | Sir Patty | 5 | 2025-10-25 | <https://www.youtube.com/watch?v=3HidOGgk56Y> |
 | 2 h 11 min | [WUWA] \| To The Shore's End Full Quest Gameplay \| 1440P | average game journalist footage | 85 | 2024-10-06 | <https://www.youtube.com/watch?v=F1w704Jor-U> |
 | 2 h 34 min | FULL Chapter 1 Act 8 Black Shores \| Wuthering Waves 1.3 "To the Shore's End" | T.H Bunn | 67 | 2024-09-30 | <https://www.youtube.com/watch?v=Rd1rtL1Hx1M> |
 | 2 h 45 min | Wuthering Waves Main Quest : Chapter 1 Act 8 To The Shore's End - Full Gameplay Walkthrough | RTXMonkey | 572 | 2025-02-02 | <https://www.youtube.com/watch?v=_gCVHkxuHSk> |
 | 2 h 45 min | Wuthering Waves 1.3 Story - Chapter 1 Act 8: To the Shore's End (Male Rover) | QuestWatcher | 30 | 2026-03-18 | <https://www.youtube.com/watch?v=53u24skwBiA> |
-| 3 h 07 min | Wuthering Waves 3.3 Walkthrough PART 15 - To the Shore's End (PS5 1440p) | Gaming Reviving | ~56 | n/a | <https://www.youtube.com/watch?v=ears8UMNeMk> |
+| 3 h 07 min | Wuthering Waves 3.3 Walkthrough PART 15 - To the Shore's End (PS5 1440p) | Gaming Reviving | 56 | 2026-05-24 | <https://www.youtube.com/watch?v=ears8UMNeMk> |
 
 </details>
 <!--/gen-->
