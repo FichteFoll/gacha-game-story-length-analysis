@@ -81,7 +81,14 @@ enrich skips URLs already in `enriched.tsv`),
 so an interrupted run is simply re-run.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
-`analyze.py` falls back to the harvested figures, so retry later rather than fighting it.
+`analyze.py` falls back to the harvested figures, so do not fight it.
+**Say so, and stop.** The block is cleared by a person solving the captcha in a
+browser, which nothing here can do, so tell the user the run hit the bot check
+and how many URLs are still unenriched, and wait rather than retrying into it:
+a retry that is merely slower still returns almost nothing.
+Once the user says the captcha is solved, re-run `enrich.sh`,
+which resumes from `enriched.tsv`,
+then `analyze.py` and `gen_docs.py` to fold the new markers in.
 
 `gen_docs.py --no-verify` fills the files despite failing claims,
 for inspection only.

@@ -223,7 +223,13 @@ those markers were something else, and trusting them under-measures the act.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
 The script is resumable and `analyze.py` falls back to the harvested figures,
-so re-run it later rather than fighting it.
+so do not fight it: retrying straight away buys a trickle and then stops again.
+Only a person can clear the block, by opening YouTube and solving the captcha,
+so say that the run hit the bot check,
+say how many URLs are still unenriched,
+and wait for the user to say it is solved.
+Then re-run `enrich.sh` (it resumes from `enriched.tsv`),
+and re-run `analyze.py` and `gen_docs.py` to fold the new markers in.
 
 ## Step 5: screen and compute
 
