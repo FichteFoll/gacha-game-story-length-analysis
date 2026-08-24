@@ -16,7 +16,7 @@ to keep the Sacred Flame burning.
 | --- | --- | --- | --- | --- | --- |
 | Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 55 min | 9 | medium |
 | Act II | Black Stone Under a White Stone | 2 h 44 min | 2 h 28 min - 2 h 57 min | 8 | high |
-| Act III | Beyond the Smoke and Mirrors | 2 h 33 min | 2 h 22 min - 2 h 44 min | 23 | high |
+| Act III | Beyond the Smoke and Mirrors | 2 h 33 min | 2 h 22 min - 2 h 45 min | 21 | high |
 | Act IV | The Rainbow Destined to Burn | 3 h 17 min | 3 h 02 min - 3 h 38 min | 10 | high |
 | Interlude | All Fires Fuel the Flame | 52 min | 42 min - 56 min | 10 | medium |
 | Act V | Incandescent Ode of Resurrection | 3 h 34 min | 3 h 00 min - 3 h 46 min | 8 | medium |
@@ -119,12 +119,12 @@ while Capitano's purpose in Natlan comes into focus.
 <!--gen:stats act="Act III"-->
 
 - **Estimated length:** 2 h 33 min
-- **Sampled range:** 2 h 22 min to 2 h 44 min for the middle half (full spread 1 h 18 min to 4 h 01 min) across 23 playthrough uploads (5 further candidates screened out)
+- **Sampled range:** 2 h 22 min to 2 h 45 min for the middle half (full spread 1 h 18 min to 4 h 01 min) across 21 playthrough uploads (7 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
 - **Stability:** median +5% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 7 of 23 uploads
+- **Measured from the uploader's chapter markers:** 6 of 21 uploads
 - **Quest parts (3):** All Names are Noble (29 min); To Whence the Smoke Drifts (1 h 04 min); The Flickering Light Splits in Twain (58 min)
 <!--/gen-->
 
@@ -136,7 +136,6 @@ while Capitano's purpose in Natlan comes into focus.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 18 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 2(No Commentary) | Gaming_Dino | 6 | 2025-01-15 | <https://www.youtube.com/watch?v=ZLf8dHlZfBw> |
 | 1 h 21 min | 5.1 Archon Quest - "Beyond the Smoke and Mirrors" Part 3 HD Genshin Impact | Clips of Genshin | 54 | 2024-10-09 | <https://www.youtube.com/watch?v=36YYOszSYZs> |
-| 2 h 00 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 1(No Commentary) | Gaming_Dino | ~6 | n/a | <https://www.youtube.com/watch?v=zJCv_DCMG9A> |
 | 2 h 15 min | Natlan Archon Quest Act 3 Beyond The Smoke And Mirrors (No Commentary) | RaxDotVie | ~37 | n/a | <https://www.youtube.com/watch?v=njeLLyQPb8U> |
 | 2 h 21 min | Genshin Impact - FULL Gameplay [No Commentary] CHAPTER 5 ACT III: Beyond the Smoke and Mirror PART24 | SilentPixie Gaming | 10 | 2026-01-16 | <https://www.youtube.com/watch?v=Kr25c6Ftaks> |
 | 2 h 22 min | Natlan \| Archon Quest 5.1: Act 3: Beyond the Smoke and Mirrors \| (No Commentary) p1 \| Genshin Impact | Pikahrus | 30 | 2024-10-14 | <https://www.youtube.com/watch?v=qp0s3tEaF3w> |
@@ -148,7 +147,6 @@ while Capitano's purpose in Natlan comes into focus.
 | 2 h 33 min | Version 5.1 Natlan Archon Quest Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact | Streetwise Rhapsody | 22,388 | 2024-10-09 | <https://www.youtube.com/watch?v=MoGJIhsHfR8> |
 | 2 h 39 min | Natlan Archon Quest, Chapter V: Acts III & IV — Full Playthrough Part 3 \| Genshin Impact 5.1 | Mr. Trajet | 229 | 2026-05-04 | <https://www.youtube.com/watch?v=UfbM0bYHwIo> |
 | 2 h 40 min | Full Natlan Archon Quest - Genshin Impact | Fayato | 299,705 | 2025-01-01 | <https://www.youtube.com/watch?v=MW47dZPf29w> |
-| 2 h 40 min | Full Natlan Archon Quest Act 3 & 4 - Genshin Impact 5.1 | Fayato | 20,317 | 2024-10-09 | <https://www.youtube.com/watch?v=U3MT7NnJQQY> |
 | 2 h 42 min | Archon Quest Chapter 5: Act 3 "Beyond the Smoke and Mirrors" \| 【Genshin Impact】 | LyurGG | 15,556 | 2025-01-06 | <https://www.youtube.com/watch?v=6fitS-EdM1Q> |
 | 2 h 43 min | Chapter 5: Act 3 - Beyond the Smoke and Mirrors \| Genshin Impact \| ASJ Gaming | ASJ Gaming | 47 | 2024-10-28 | <https://www.youtube.com/watch?v=xeOVvjYC3gI> |
 | 2 h 44 min | Beyond the Smoke and Mirrors Genshin Impact | WoW Quests | 17,772 | 2024-10-09 | <https://www.youtube.com/watch?v=Tx4YORXcxr4> |

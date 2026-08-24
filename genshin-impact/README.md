@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->112 h 38 min<!--/f-->** (<!--f:n_report_entries-->45<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->496<!--/f--> accepted uploads out of <!--f:n_candidates-->698<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->112 h 37 min<!--/f-->** (<!--f:n_report_entries-->45<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->486<!--/f--> accepted uploads out of <!--f:n_candidates-->698<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -16,9 +16,9 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 42 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
 | Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 12 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
 | Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 04 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
-| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 19 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
+| Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 16 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
 | Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 28 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
-| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 31 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
+| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 33 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
 | Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 | 2 | 8 h 29 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 <!--/gen-->
 
@@ -31,7 +31,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | longest | Song of the Welkin Moon, Act I: A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min |
 | longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 27 min |
 | longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min |
-| longest | Song of the Welkin Moon, Act X: Truth Amongst the Pages of Purana | 4 h 15 min |
+| longest | Song of the Welkin Moon, Act X: Truth Amongst the Pages of Purana | 4 h 13 min |
 | shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 36 min |
 | shortest | Chapter II, Act II: Stillness, the Sublimation of Shadow | 50 min |
 | shortest | Prologue, Act I: The Outlander Who Caught the Wind | 52 min |

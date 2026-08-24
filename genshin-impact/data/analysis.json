@@ -5292,7 +5292,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=6aQKq6ihyZU",
     "views": 128563,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20230816"
    }
   ],
@@ -5368,15 +5370,6 @@
     "parts": {}
    },
    {
-    "seconds": 13206,
-    "title": "Full Fontaine Archon Quest Act 1 - Genshin Impact 4.0",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=6aQKq6ihyZU",
-    "views": 128563,
-    "rejected": [],
-    "upload_date": "20230816"
-   },
-   {
     "seconds": 13793,
     "title": "\ud83c\udfac Fontaine Act I - Prelude of Blancheur and Noirceur | Genshin Impact 4.0 (No Commentary)",
     "uploader": "mimo.mp4",
@@ -5412,16 +5405,16 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 210,
+   "n": 10,
+   "median": 207,
    "low": 107,
    "high": 233,
-   "q1": 184,
+   "q1": 183,
    "q3": 230,
-   "trimmed_mean": 208,
+   "trimmed_mean": 206,
    "measured": 3,
    "parts": {},
-   "drift": 0.029
+   "drift": 0.015
   }
  },
  {
@@ -7210,7 +7203,9 @@
     "uploader": "Gaming_Dino",
     "url": "https://www.youtube.com/watch?v=zJCv_DCMG9A",
     "views": "6",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 10030,
@@ -7415,7 +7410,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=U3MT7NnJQQY",
     "views": 20317,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20241009",
     "runtime": 20990,
     "measured": "chapter-markers",
@@ -7489,14 +7486,6 @@
     "views": 54,
     "rejected": [],
     "upload_date": "20241009"
-   },
-   {
-    "seconds": 7224,
-    "title": "Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 1(No Commentary)",
-    "uploader": "Gaming_Dino",
-    "url": "https://www.youtube.com/watch?v=zJCv_DCMG9A",
-    "views": "6",
-    "rejected": []
    },
    {
     "seconds": 8104,
@@ -7628,18 +7617,6 @@
     "parts": {}
    },
    {
-    "seconds": 9589,
-    "title": "Full Natlan Archon Quest Act 3 & 4 - Genshin Impact 5.1",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=U3MT7NnJQQY",
-    "views": 20317,
-    "rejected": [],
-    "upload_date": "20241009",
-    "runtime": 20990,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
-   {
     "seconds": 9750,
     "title": "Archon Quest Chapter 5: Act 3 \"Beyond the Smoke and Mirrors\" | \u3010Genshin Impact\u3011",
     "uploader": "LyurGG",
@@ -7720,14 +7697,14 @@
    }
   ],
   "stats": {
-   "n": 23,
+   "n": 21,
    "median": 153,
    "low": 78,
    "high": 241,
    "q1": 142,
-   "q3": 164,
-   "trimmed_mean": 152,
-   "measured": 7,
+   "q3": 165,
+   "trimmed_mean": 154,
+   "measured": 6,
    "parts": {
     "All Names are Noble": 29,
     "To Whence the Smoke Drifts": 64,
@@ -10380,7 +10357,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=ugWKfMHhXg8",
     "views": 126846,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20251203",
     "runtime": 19569,
     "measured": "chapter-markers",
@@ -10402,7 +10381,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=fpGifSPrRr0",
     "views": 61593,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20251203"
    },
    {
@@ -10411,7 +10392,9 @@
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=-szJi8pZsM8",
     "views": 38105,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20251204",
     "runtime": 20908,
     "measured": "chapter-markers",
@@ -10575,27 +10558,6 @@
     "parts": {}
    },
    {
-    "seconds": 9221,
-    "title": "Full Nod Krai Archon Quest Act 5 Playthrough - Genshin Impact 6.2 / Luna 3",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=fpGifSPrRr0",
-    "views": 61593,
-    "rejected": [],
-    "upload_date": "20251203"
-   },
-   {
-    "seconds": 9222,
-    "title": "Full Nod Krai Archon Quest Act 5 & 6 - Genshin Impact 6.2 / Luna 3",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=ugWKfMHhXg8",
-    "views": 126846,
-    "rejected": [],
-    "upload_date": "20251203",
-    "runtime": 19569,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
-   {
     "seconds": 9239,
     "title": "Genshin Impact - Archon Quest Luna 3 - Act 5: A Nocturne of the Far North - Full Walkthrough",
     "uploader": "Momizy Gaming",
@@ -10701,21 +10663,6 @@
     }
    },
    {
-    "seconds": 10788,
-    "title": "Song of the Welkin Moon Act 5-6 (Luna III Full Story Quest) Genshin Impact 6.2",
-    "uploader": "WoW Quests",
-    "url": "https://www.youtube.com/watch?v=-szJi8pZsM8",
-    "views": 38105,
-    "rejected": [],
-    "upload_date": "20251204",
-    "runtime": 20908,
-    "measured": "chapter-markers",
-    "parts": {
-     "In the Shifting Light of the Moon": 3569,
-     "Ripples That Will Never Reach": 7219
-    }
-   },
-   {
     "seconds": 10852,
     "title": "6.2 Archon Quest ACT 5: A Nocturne of the Far North | Genshin Impact",
     "uploader": "Hoppie426TheGamer",
@@ -10744,19 +10691,19 @@
    }
   ],
   "stats": {
-   "n": 26,
-   "median": 154,
+   "n": 23,
+   "median": 155,
    "low": 98,
    "high": 227,
    "q1": 144,
-   "q3": 174,
-   "trimmed_mean": 158,
-   "measured": 8,
+   "q3": 172,
+   "trimmed_mean": 157,
+   "measured": 6,
    "parts": {
-    "In the Shifting Light of the Moon": 59,
+    "In the Shifting Light of the Moon": 58,
     "Ripples That Will Never Reach": 97
    },
-   "drift": 0.02
+   "drift": 0.026
   }
  },
  {
@@ -11297,7 +11244,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=WX5fqVZ3lYQ",
     "views": 121351,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260114"
    },
    {
@@ -11561,15 +11510,6 @@
     "upload_date": "20260114"
    },
    {
-    "seconds": 10150,
-    "title": "Full Nod Krai Archon Quest Act 7 Playthrough - Genshin Impact 6.3 / Luna 4",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=WX5fqVZ3lYQ",
-    "views": 121351,
-    "rejected": [],
-    "upload_date": "20260114"
-   },
-   {
     "seconds": 10151,
     "title": "Full Nod Krai Archon Quest Act 7 & 8 - Genshin Impact 6.3 / Luna 4",
     "uploader": "Fayato",
@@ -11737,13 +11677,13 @@
    }
   ],
   "stats": {
-   "n": 24,
+   "n": 23,
    "median": 175,
    "low": 124,
    "high": 198,
-   "q1": 164,
+   "q1": 163,
    "q3": 181,
-   "trimmed_mean": 173,
+   "trimmed_mean": 174,
    "measured": 5,
    "parts": {
     "Moonless Night": 28,
@@ -11907,7 +11847,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=33_9cExlmgE",
     "views": 100927,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260114"
    },
    {
@@ -11967,15 +11909,6 @@
     "upload_date": "20260118"
    },
    {
-    "seconds": 12067,
-    "title": "Full Nod Krai Archon Quest Act 8 Playthrough - Genshin Impact 6.3 / Luna 4",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=33_9cExlmgE",
-    "views": 100927,
-    "rejected": [],
-    "upload_date": "20260114"
-   },
-   {
     "seconds": 12228,
     "title": "Genshin Impact 6.3: Full Archon Quest \u2014 True Moon (Act VIII)",
     "uploader": "BSS Gaming",
@@ -12033,13 +11966,13 @@
    }
   ],
   "stats": {
-   "n": 10,
+   "n": 9,
    "median": 204,
    "low": 191,
    "high": 230,
-   "q1": 199,
+   "q1": 197,
    "q3": 210,
-   "trimmed_mean": 204,
+   "trimmed_mean": 205,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -12218,7 +12151,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=d_o4cODGKd8",
     "views": 49499,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260520"
    },
    {
@@ -12254,15 +12189,6 @@
     "runtime": 24197,
     "measured": "chapter-markers",
     "parts": {}
-   },
-   {
-    "seconds": 8836,
-    "title": "Full Nod Krai Archon Quest Act 9 Playthrough - Genshin Impact 6.6 / Luna 7",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=d_o4cODGKd8",
-    "views": 49499,
-    "rejected": [],
-    "upload_date": "20260520"
    },
    {
     "seconds": 9135,
@@ -12351,16 +12277,16 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 154,
+   "n": 10,
+   "median": 157,
    "low": 142,
    "high": 186,
-   "q1": 147,
+   "q1": 151,
    "q3": 168,
-   "trimmed_mean": 157,
+   "trimmed_mean": 158,
    "measured": 3,
    "parts": {},
-   "drift": -0.019
+   "drift": 0.0
   }
  },
  {
@@ -12524,7 +12450,9 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=fhYzH1Rx9Bo",
     "views": 79674,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260520"
    },
    {
@@ -12926,15 +12854,6 @@
     "upload_date": "20260520"
    },
    {
-    "seconds": 15361,
-    "title": "Full Nod Krai Archon Quest Act 10 FINALE Playthrough - Genshin Impact 6.6 / Luna 7",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=fhYzH1Rx9Bo",
-    "views": 79674,
-    "rejected": [],
-    "upload_date": "20260520"
-   },
-   {
     "seconds": 15367,
     "title": "Full Nod Krai Archon Quest Act 9 & 10 Playthrough - Genshin Impact 6.6 / Luna 7",
     "uploader": "Fayato",
@@ -12994,18 +12913,18 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 255,
+   "n": 11,
+   "median": 253,
    "low": 136,
    "high": 420,
-   "q1": 230,
-   "q3": 262,
-   "trimmed_mean": 241,
+   "q1": 228,
+   "q3": 263,
+   "trimmed_mean": 239,
    "measured": 4,
    "parts": {
     "Truth Amongst the Pages of Purana": 84
    },
-   "drift": -0.03
+   "drift": -0.038
   }
  },
  {
