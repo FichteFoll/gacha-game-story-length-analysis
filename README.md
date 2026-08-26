@@ -19,25 +19,26 @@ and what the words claim beyond the numbers is asserted against it.
 
 | Game | Questline | Report |
 | --- | --- | --- |
-| Genshin Impact | Archon Quests | [genshin-impact/README.md](genshin-impact/README.md) |
-| Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
-| Zenless Zone Zero | Phaethon's Story | [zenless-zone-zero/README.md](zenless-zone-zero/README.md) |
 | Arknights: Endfield | Main Missions | [arknights-endfield/README.md](arknights-endfield/README.md) |
-| Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |
-| Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
+| Genshin Impact | Archon Quests | [genshin-impact/README.md](genshin-impact/README.md) |
 | Goddess of Victory: NIKKE | Campaign Chapters | [nikke/README.md](nikke/README.md) |
+| Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
+| Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
+| Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |
+| Zenless Zone Zero | Phaethon's Story | [zenless-zone-zero/README.md](zenless-zone-zero/README.md) |
 
 Each report opens with its own totals, its chapter index,
 its longest and shortest entries,
 and the caveats that apply to that game in particular.
 The vocabulary differs by game:
-Genshin Impact numbers acts, Honkai: Star Rail numbers missions,
-Zenless Zone Zero numbers chapters, Arknights: Endfield numbers processes,
-Wuthering Waves numbers acts and leaves its segues unnumbered,
-Honkai Impact 3rd numbers chapters across the whole game
-and groups them into named arcs,
+Arknights: Endfield numbers processes, Genshin Impact numbers acts,
 Goddess of Victory: NIKKE numbers campaign chapters across the whole game
 and groups them into nothing at all,
+Honkai Impact 3rd numbers chapters across the whole game
+and groups them into named arcs,
+Honkai: Star Rail numbers missions,
+Wuthering Waves numbers acts and leaves its segues unnumbered,
+Zenless Zone Zero numbers chapters,
 and each report uses the word its game and its uploaders use.
 
 ## How the numbers are made
