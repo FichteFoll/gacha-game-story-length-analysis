@@ -462,6 +462,9 @@ and the build should either fail or correct itself.
 
 ## Pitfalls that have already cost time
 
+- Several jobs appending to one evidence file need a lock, as harvest.sh and
+  topup.sh both do now. Without one the loss is silent: the file is still
+  there, only shorter, and the medians it feeds move for no visible reason.
 - `yt-dlp --print "%(duration)s\t..."` does **not** interpret `\t`.
   Pass a real tab (`TAB=$'\t'` and `${TAB}` in the template),
   or every downstream field split silently collapses.
