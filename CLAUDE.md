@@ -13,7 +13,8 @@ the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/`, `wuthering-waves/` and `honkai-impact-3rd/`),
+`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`
+and `nikke/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -55,7 +56,7 @@ what a game differs in belongs in its `data/` or its `report.py`.
 
 All commands are run from a report directory
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`);
+`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`, `nikke/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -148,10 +149,15 @@ what tells two same-named acts apart (`data/act_keys.json`),
 the level gate's name, and the three nouns the renderer writes with:
 the unit an entry is (`unit`), the group of entries one file covers
 (`container`) and what the group's second column holds (`region_label`),
-which is a region for four of the games and the part of the narrative
-for Honkai Impact 3rd, whose entry is itself a chapter
+which is a region for four of the games,
+the part of the narrative for Honkai Impact 3rd
+and the span of chapter numbers for NIKKE,
+the two games whose entry is itself a chapter
 (`report.py`, which also records the questline page
 that the authored markdown links by hand).
+NIKKE is the one game whose container is invented rather than read off the
+wiki: it groups its chapters under nothing, so the report files them in
+volumes of ten and says so in its README.
 
 ### The prose must not contain hand-written numbers
 

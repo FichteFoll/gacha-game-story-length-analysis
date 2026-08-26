@@ -14,6 +14,7 @@ wikis rename pages, and the young ones are still being built.
 | Wuthering Waves | `wutheringwaves.fandom.com` | Wuthering Waves Wiki | `Main Quest` | Union Level |
 | Arknights: Endfield | `endfield.wiki.gg` | Endfield Talos Wiki | `Mission/Main` | none found; leave `gate_label` unset |
 | Honkai Impact 3rd | `honkaiimpact3.fandom.com` | Honkai Impact 3 Wiki | `Story` (`Main Story` redirects to it) | none recorded; leave `gate_label` unset |
+| Goddess of Victory: NIKKE | `nikke-goddess-of-victory-international.fandom.com` | Nikke Goddess of Victory International Wiki | `Story`, whose chapter list is `Template:Navbox Story Chapters` | recommended Combat Power per battle, not per chapter and not on the wiki; leave `gate_label` unset |
 
 `starrail.fandom.com` and `wuthering-waves.fandom.com` redirect;
 `arknights-endfield.fandom.com` does not exist,
@@ -43,6 +44,7 @@ so only `version_fields` in `data/wiki.json` differs:
 | Wuthering Waves | `version` | `date` |
 | Arknights: Endfield | `version` | `asia start` |
 | Honkai Impact 3rd | none | `debut_NA` |
+| Goddess of Victory: NIKKE | none | none |
 
 Endfield is the exception in both halves.
 Its version pages are named after the version
@@ -150,6 +152,29 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   for Part 2, so `quest_parts.json` covers 32 of the 65 chapters.
   Expect a wide spread: the story is dialogue-heavy and skippable, and its
   uploaders differ by a factor of two on the same chapter.
+
+- **Goddess of Victory: NIKKE.** The second game here whose *entry* is a
+  chapter, and the only one whose chapters are grouped by nothing: the game
+  presents its campaign as one continuous map, the wiki lists the chapters as
+  one flat `Template:Navbox Story Chapters`, and no page records an arc, a
+  season or a part. The report therefore invents its container — volumes of
+  ten chapters, `region_label` holding the span of chapter numbers — and says
+  so in its README, because the boundaries mean nothing in the game.
+  Chapter pages are named after the chapter title rather than its number
+  (`Chapter 1` redirects to `Corruption`), four of them carry a
+  `(chapter)` disambiguator, and the number is in the infobox `chapter_no`,
+  which is worth checking the extracted list against.
+  Nothing on the wiki records a release version, and no version pages exist,
+  so `released_in` is null, `versions.json` stays empty and no act is ever
+  searched as recent.
+  Most chapter titles are a single ordinary word (`Key`, `Path`, `Return`),
+  which matches far too much on its own; give every such chapter an
+  `act_keys.json` mark demanding that the title also say which chapter it is.
+  The pool is thick with things that happen on a chapter's map without being
+  its story - Hard Mode clears, EX and boss clears, Lost Relics runs,
+  Commission sub-quests - so `not_playthrough.txt` is long.
+  Expect wide spreads: an upload either fights every battle on the map or
+  walks the story path in Story Mode, and the two differ by a factor of two.
 
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves

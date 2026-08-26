@@ -25,6 +25,7 @@ and what the words claim beyond the numbers is asserted against it.
 | Arknights: Endfield | Main Missions | [arknights-endfield/README.md](arknights-endfield/README.md) |
 | Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |
 | Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
+| Goddess of Victory: NIKKE | Campaign Chapters | [nikke/README.md](nikke/README.md) |
 
 Each report opens with its own totals, its chapter index,
 its longest and shortest entries,
@@ -35,6 +36,8 @@ Zenless Zone Zero numbers chapters, Arknights: Endfield numbers processes,
 Wuthering Waves numbers acts and leaves its segues unnumbered,
 Honkai Impact 3rd numbers chapters across the whole game
 and groups them into named arcs,
+Goddess of Victory: NIKKE numbers campaign chapters across the whole game
+and groups them into nothing at all,
 and each report uses the word its game and its uploaders use.
 
 ## How the numbers are made

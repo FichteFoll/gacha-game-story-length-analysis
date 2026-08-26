@@ -1,0 +1,12 @@
+!\bstages? ?\d+(?:[-.]\d+)?\b
+!\b\d{1,2}-\d{1,2}\b
+!\b\d ?/ ?\d\b
+!#\d+
+!side (?:story|quest|mission)
+!\bsub ?story\b
+\bparts? ?#? ?\d+(?!\.\d)\s*$
+[\[(] ?parts? ?#? ?[\d.]+ ?[\])]
+\bparts? ?#\s?\d+
+\bparts? ?(?:[3-9]|\d\d+)(?!\.\d)\b
+\bparts? (?:three|four|five|six|seven|eight)\b
+\bpt\.? ?\d+\b

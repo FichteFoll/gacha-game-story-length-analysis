@@ -1,0 +1,5 @@
+(full|entire|complete|whole) (main )?(story|storyline|story ?line|game|campaign)
+all (main )?story chapters
+all chapters
+chapters? \d+ ?(?:&|and|\+|,|-|to) ?\d+
+story (so far|recap)

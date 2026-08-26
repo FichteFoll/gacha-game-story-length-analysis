@@ -1,0 +1,51 @@
+\bgacha\b
+\bpulls?\b
+\bbanner\b
+\bwishlist\b
+\bcostumes?\b
+\bskins?\b
+\blive ?2d\b
+\bnsfw\b
+\br-?18\b
+\bmemorial\b
+\bshorts?\b
+\bpv\b
+\bbgm\b
+\bskip(ped|ping)?\b
+story only
+no gameplay
+\bteam\b
+\bbuilds?\b
+\bpvp\b
+\bco-?op\b
+solo raid
+union raid
+\binterception\b
+\bsimulation room\b
+\btribe tower\b
+\bhard mode\b
+\bboss fight\b
+\bf2p\b
+\bshowcase\b
+\bclips?\b
+\bvod\b
+\banimation\b
+\bmanga\b
+\bcomic\b
+\bnovel\b
+\bpodcast\b
+\btutorial\b
+\bbeginner\b
+\bbeginners?\b
+\bmeta\b
+\bost\b
+\bcommissions?\b
+\bsub ?quests?\b
+\blost relics?\b
+\bex (?:boss|stage)\b
+\bbond story\b
+\bcollab\b
+\bminigames?\b
+\bevent\b
+\bdaily\b
+\bcrown\b

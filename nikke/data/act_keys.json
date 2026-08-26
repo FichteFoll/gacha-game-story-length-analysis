@@ -1,0 +1,289 @@
+{
+ "v1|Chapter 00": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 01": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 02": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 03": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 04": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 05": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 06": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 07": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 08": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v1|Chapter 09": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 10": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 12": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 13": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 14": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 15": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 16": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 17": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 18": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v2|Chapter 19": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 22": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 23": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 24": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 25": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 26": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 27": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v3|Chapter 29": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 30": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 31": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 32": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 33": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 34": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 35": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 36": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 37": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 38": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v4|Chapter 39": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v5|Chapter 40": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v5|Chapter 41": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v5|Chapter 43": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v5|Chapter 44": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ],
+ "v5|Chapter 46": [
+  "\\bchapters?\\b",
+  "\\bch\\.? ?\\d",
+  "\\bepisode\\b",
+  "\\bep\\.? ?\\d",
+  "^\\d{1,2}[ .:_-]"
+ ]
+}
