@@ -1,0 +1,18 @@
+!\bacts?\.? ?\d+\b
+!\bacts? ?[ivx]+\b
+!\bstages? ?\d+(?:[-.]\d+)?\b
+!\bmissions? ?\d+\b
+!\bepisodes? ?\d+\b
+!\b\d{1,2}-\d{1,2}\b
+!\b\d ?/ ?\d\b
+!#\d+
+!\bcourse ?\d+\b
+!course practical
+!side (?:story|quest|mission)
+!\bpt\.? ?\d+\b
+!\bparts? ?\d+\.\d+\b
+\bparts? ?#? ?\d+(?!\.\d)\s*$
+[\[(] ?parts? ?#? ?[\d.]+ ?[\])]
+\bparts? ?#\s?\d+
+\bparts? ?(?:[3-9]|\d\d+)(?!\.\d)\b
+\bparts? (?:three|four|five|six|seven|eight)\b

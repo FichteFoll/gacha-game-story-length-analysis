@@ -1,0 +1,26 @@
+\bcgs?\b
+\bmv\b
+visual novel
+\bmanga\b
+\banime\b
+\bcomic\b
+animation
+\bskip(ped|ping)?\b
+no gameplay
+story only
+\bshorts?\b
+\bpv\b
+\bbgm\b
+\bdrama\b
+\btutorial\b
+\bobjectives?\b
+all endings
+\bbackgrounds?\b
+^about\b
+\bvod\b
+\bbeta\b
+\bpreview\b
+boss fight
+\bshowcase\b
+\bintro\b
+\bclips?\b

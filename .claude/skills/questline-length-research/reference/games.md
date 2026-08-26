@@ -13,6 +13,7 @@ wikis rename pages, and the young ones are still being built.
 | Zenless Zone Zero | `zenless-zone-zero.fandom.com` | Zenless Zone Zero Wiki | `Phaethon's Story` (`Main Story` redirects to it) | Inter-Knot Level, but not recorded per chapter; leave `gate_label` unset |
 | Wuthering Waves | `wutheringwaves.fandom.com` | Wuthering Waves Wiki | `Main Quest` | Union Level |
 | Arknights: Endfield | `endfield.wiki.gg` | Endfield Talos Wiki | `Mission/Main` | none found; leave `gate_label` unset |
+| Honkai Impact 3rd | `honkaiimpact3.fandom.com` | Honkai Impact 3 Wiki | `Story` (`Main Story` redirects to it) | none recorded; leave `gate_label` unset |
 
 `starrail.fandom.com` and `wuthering-waves.fandom.com` redirect;
 `arknights-endfield.fandom.com` does not exist,
@@ -30,7 +31,7 @@ requests; a repeat of the same request has gone through every time.
 
 ## Version infobox fields
 
-The four Fandom wikis categorize their quest pages as
+Four of the Fandom wikis categorize their quest pages as
 `Released in Version <name>` and keep the infobox on `Version/<name>`,
 so only `version_fields` in `data/wiki.json` differs:
 
@@ -41,6 +42,7 @@ so only `version_fields` in `data/wiki.json` differs:
 | Zenless Zone Zero | `version` | `date` |
 | Wuthering Waves | `version` | `date` |
 | Arknights: Endfield | `version` | `asia start` |
+| Honkai Impact 3rd | none | `debut_NA` |
 
 Endfield is the exception in both halves.
 Its version pages are named after the version
@@ -53,6 +55,16 @@ in that version's own `Missions` section
 ("New Main Story up to Chapter II Process VI"),
 so `released_in` is null and `versions.json` is written by hand from
 those five sentences, which `fetch_versions.py` then leaves alone.
+
+Honkai Impact 3rd is the second exception. Nothing categorizes a chapter by
+version; each version page states in its `summary` bullets which chapter it
+shipped (`*[[Part 2 Chapter IX|Part 2 Main Story Chapter IX]].`), so
+`released_in` is null and `versions.json` is written out from those bullets,
+which `fetch_versions.py` then leaves alone. Its version pages are named
+`Version 8.3` rather than `Version/8.3`, they carry no version number field of
+their own, and they date themselves per server; `debut_NA` is the earliest one
+every page has. No `Version 1.x` page exists, so the eight launch chapters and
+the first EX chapter have no release version to publish.
 
 Genshin is the odd one out in a second way:
 its recent versions are named (`Luna VII`) with the patch number alongside,
@@ -112,6 +124,33 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   the Senior Proxy rank-up requires the Chapter 2 Interlude commission.
   Expect low confidence across Season 1: the game is dialogue-heavy,
   the dialogue is skippable, and its uploads disagree by a factor of three.
+- **Honkai Impact 3rd.** The one game here whose *entry* is a chapter. Story
+  chapters are numbered across the whole game (Part 1 runs to Chapter XLII,
+  then Part 2 restarts at Chapter I), and the wiki groups them under named
+  arcs on `Story`, which is the container the report files them in: `unit` is
+  `Chapter`, `container` is `Arc`, and `region_label` is `Part`, because an arc
+  belongs to a part of the narrative rather than to a place.
+  The whole structure is on `Story`, as `{{Chapter Summary}}` calls under a
+  `=part=` / `==arc==` heading pair; `Template:Story Navigation` carries the
+  same grouping plus the side stories interleaved with it, and is what settles
+  where the bridge chapter `The Star Which the Moon Gazes Upon` belongs.
+  Chapter pages are named in roman numerals (`Chapter XX`, `Chapter IX — EX-1`
+  with an em dash, `EX Chapter`, `Part 2 Chapter V`), and the arabic redirects
+  resolve to them.
+  Because the numbering is game-wide, the chapter identifier the act-number
+  fallback insists on is redundant within a part and essential between them:
+  give the Part 1 arcs a key every upload carries (`honkai impact`) and the
+  Part 2 arcs `part 2`, then keep Part 1's Chapters I to XIII apart from Part
+  2's with a `^(?!.*\bpart ?(?:2|ii)\b)` in `act_keys.json`, and the four
+  chapters that ship an EX sibling of the same number apart from it with
+  `^(?!.*\bex\b)`.
+  A chapter divides into in-game **acts**, which is what `partials.txt` is for
+  here: "Chapter 40 Act 1" is a third of a chapter. The wiki records that
+  division in the stage infobox `act` field for half the run and not at all
+  for Part 2, so `quest_parts.json` covers 32 of the 65 chapters.
+  Expect a wide spread: the story is dialogue-heavy and skippable, and its
+  uploaders differ by a factor of two on the same chapter.
+
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves
   and expect low confidence throughout: the upload pool is young.

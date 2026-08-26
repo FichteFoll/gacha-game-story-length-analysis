@@ -1,0 +1,95 @@
+{
+ "aric|Chapter X": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "aric|Chapter XI": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "aric|Chapter XII": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "aric|Chapter XIII": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "asuw|Chapter IV": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "datrow|Chapter IX": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "datrow|Chapter V": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "datrow|Chapter VI": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "datrow|Chapter VII": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "datrow|Chapter VIII": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "ftdo|Chapter X": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "ftdo|Chapter XI": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)(?!.*\\bex\\b)"
+ ],
+ "ftdo|Chapter XI - EX": [
+  "\\bex\\b"
+ ],
+ "ftdo|Chapter XII": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "rf|Chapter XXV": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "shooting_star|Chapter XIII": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "teod|Chapter III": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "teod|Chapter IV": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "teod|Chapter V": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "teod|Chapter VI": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "tsa|Chapter XXV - EX": [
+  "\\bex\\b"
+ ],
+ "ttgb|Chapter I": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "ttgb|Chapter II": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "ttgb|Chapter III": [
+  "^(?!.*\\bex\\b)"
+ ],
+ "utfs|Chapter IX": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)(?!.*\\bex\\b)"
+ ],
+ "utfs|Chapter IX - EX-1": [
+  "\\bex[\\s.-]*1\\b"
+ ],
+ "utfs|Chapter IX - EX-2": [
+  "\\bex[\\s.-]*2\\b"
+ ],
+ "utfs|Chapter VII": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "utfs|Chapter VIII": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "wdb|Chapter I": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ],
+ "wdb|Chapter II": [
+  "^(?!.*\\bpart ?(?:2|ii)\\b)"
+ ]
+}

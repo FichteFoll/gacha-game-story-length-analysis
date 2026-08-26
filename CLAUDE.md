@@ -13,7 +13,7 @@ the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/` and `wuthering-waves/`),
+`arknights-endfield/`, `wuthering-waves/` and `honkai-impact-3rd/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -55,7 +55,7 @@ what a game differs in belongs in its `data/` or its `report.py`.
 
 All commands are run from a report directory
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/`, `wuthering-waves/`);
+`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`);
 `<workdir>` is `data`.
 
 ```bash
