@@ -805,7 +805,7 @@
     "url": "https://www.youtube.com/watch?v=99pfqg1p7iM",
     "views": 2,
     "rejected": [
-     "short-outlier"
+     "part-of-an-act"
     ],
     "upload_date": "20251230"
    },
@@ -815,7 +815,9 @@
     "uploader": "Prunalaul",
     "url": "https://www.youtube.com/watch?v=Y-BBhmHHxf4",
     "views": 3,
-    "rejected": [],
+    "rejected": [
+     "part-of-an-act"
+    ],
     "upload_date": "20251230"
    },
    {
@@ -824,9 +826,7 @@
     "uploader": "Prunalaul",
     "url": "https://www.youtube.com/watch?v=_YWnJ5tsnPs",
     "views": 3,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20251230"
    },
    {
@@ -1070,15 +1070,6 @@
   ],
   "kept": [
    {
-    "seconds": 2760,
-    "title": "Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K]",
-    "uploader": "Prunalaul",
-    "url": "https://www.youtube.com/watch?v=Y-BBhmHHxf4",
-    "views": 3,
-    "rejected": [],
-    "upload_date": "20251230"
-   },
-   {
     "seconds": 3156,
     "title": "Zenless Zone Zero | Main Story Chapter 1 -Intermission-",
     "uploader": "JihoEcho",
@@ -1121,6 +1112,15 @@
     "upload_date": "20240713"
    },
    {
+    "seconds": 5967,
+    "title": "Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K]",
+    "uploader": "Prunalaul",
+    "url": "https://www.youtube.com/watch?v=_YWnJ5tsnPs",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20251230"
+   },
+   {
     "seconds": 6175,
     "title": "Chapter 1: Intermission | Full Chapter | Zenless Zone Zero",
     "uploader": "MysticStarX",
@@ -1140,15 +1140,15 @@
   ],
   "stats": {
    "n": 8,
-   "median": 78,
-   "low": 46,
+   "median": 88,
+   "low": 53,
    "high": 148,
-   "q1": 55,
-   "q3": 100,
-   "trimmed_mean": 82,
+   "q1": 64,
+   "q3": 102,
+   "trimmed_mean": 89,
    "measured": 0,
    "parts": {},
-   "drift": -0.179
+   "drift": -0.074
   }
  },
  {
@@ -4264,7 +4264,8 @@
     "url": "https://www.youtube.com/watch?v=A5zVDaf8u3g",
     "views": "0",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "part-of-an-act"
     ]
    },
    {
@@ -4274,7 +4275,8 @@
     "url": "https://www.youtube.com/watch?v=hEwyhPrh7fI",
     "views": "2",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "part-of-an-act"
     ]
    },
    {
@@ -4284,7 +4286,8 @@
     "url": "https://www.youtube.com/watch?v=_wxWtbxMeK8",
     "views": "0",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "part-of-an-act"
     ]
    },
    {
@@ -4304,7 +4307,8 @@
     "url": "https://www.youtube.com/watch?v=9DQPFI3zKJU",
     "views": "0",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "part-of-an-act"
     ]
    },
    {

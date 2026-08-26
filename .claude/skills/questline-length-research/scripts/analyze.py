@@ -17,10 +17,14 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/not_playthrough.txt optional extra regexes for uploads that are
                                      not hands-on questline footage at all,
                                      one per line, e.g. "exploration only"
+       <workdir>/min_minutes.txt     optional runtime floor, one number: minutes
+                                     below which an upload is too short to be a
+                                     whole entry of this game, whatever it says
        <workdir>/compilations.txt    optional extra compilation regexes, one per
                                      line, e.g. "full sumeru archon quest"
        <workdir>/partials.txt        optional regexes for uploads covering less
                                      than one act, one per line, e.g. "part 3",
+                                     prefixed "!" where no runtime readmits them,
                                      plus the line "<quest part>" for titles
                                      naming one of the act's own quest parts;
                                      the mirror image of compilations.txt
@@ -63,19 +67,40 @@ REJECT = re.compile(
 CONTAINER = r"chapter|episode|arc"
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
+# ... and the prefix marking a partials.txt pattern no runtime readmits.
+FRAGMENT = "!"
+# How a title writes one entry's number. `l` is in the class because Honkai
+# Impact 3rd reaches Chapter XLII; a run of letters that is not a numeral is
+# dropped by the ROMAN lookup that reads it, so widening the class costs nothing.
+NUMERAL = r"[ivxl]+|\d+"
 
 STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
              "under", "amidst", "without", "over", "with", "from"}
 
-ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
-         "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12}
+SIGNS = ((1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"),
+         (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"),
+         (5, "V"), (4, "IV"), (1, "I"))
+
+
+def roman(number):
+    """`14` -> `XIV`: the numeral a title may write an act's number as."""
+    out = ""
+    for value, sign in SIGNS:
+        count, number = divmod(number, value)
+        out += sign * count
+    return out
+
+
+# Numeral -> number, as far up as a questline is ever numbered. Generated rather
+# than written out, because a game numbering its entries past XII (Honkai Impact
+# 3rd reaches XLII) would otherwise read none of its roman-numbered titles.
+ROMAN = {roman(n): n for n in range(1, 101)}
 
 
 def numerals(number):
     """`1|i`: how a title may write this act's number, roman numeral where there
     is one. A game that opens on a Chapter 0 has no roman half."""
-    roman = next((k for k, v in ROMAN.items() if v == number), None)
-    return "|".join(filter(None, [str(number), roman and roman.lower()]))
+    return "|".join(filter(None, [str(number), roman(number).lower()]))
 
 TITLE_MATCH_RATIO = 0.6      # share of act-title words a video title must carry
 SHORT_OUTLIER = 0.5          # fraction of the median below which uploads drop
@@ -107,7 +132,12 @@ def container_pattern(acts):
     Chapter 3" as a compilation of the chapters it is one of.
     """
     unit = {act_unit(a["act_label"]).lower() for a in acts}
-    return "|".join(w for w in CONTAINER.split("|") if w not in unit) or CONTAINER
+    # A container word an act is *named* after is not a scope word either:
+    # "ARC Nocturne" is one act of Honkai Impact 3rd, so "Full ARC Nocturne"
+    # is one complete upload of it rather than a compilation of arcs.
+    titled = {w for a in acts for w in title_words(a["act_title"])}
+    return "|".join(w for w in CONTAINER.split("|")
+                    if w not in unit | titled) or CONTAINER
 
 
 def compilation_re(workdir, acts):
@@ -121,7 +151,7 @@ def compilation_re(workdir, acts):
         rf"all (?:{units})",
         rf"(?:full|entire|complete|whole) (?:{container_pattern(acts)})s?\b",
         rf"(?:{units}) \d+ ?(?:&|and|\+|,) ?\d+",
-        rf"(?:{units}) [ivx]+ ?(?:&|and|\+|,) ?[ivx]+",
+        rf"(?:{units}) [ivxl]+ ?(?:&|and|\+|,) ?[ivxl]+",
         rf"(?:{units}) \d+ ?- ?\d+",
         r"marathon",
     ]
@@ -149,8 +179,24 @@ def extra_patterns(workdir, name):
         if path.exists() else []
 
 
+def runtime_floor(workdir):
+    """Seconds below which an upload cannot be a whole entry of this game.
+
+    No title pattern catches a highlight clip: it names the chapter, says
+    nothing about its scope, and runs three minutes. Where every entry of a game
+    is twenty minutes or more, such an upload is too short to be evidence of
+    anything, and left in it joins the median that the outlier trim then
+    measures the complete uploads against. Counted as not being a playthrough,
+    which is what it is, so that the second pass does not fetch it either.
+
+    A game with entries that really are minutes long leaves the file out.
+    """
+    lines = extra_patterns(workdir, "min_minutes.txt")
+    return int(lines[0]) * 60 if lines else 0
+
+
 def partial_test(workdir):
-    """`(title, parts) -> covers less than one act`, the compilation's mirror.
+    """`(title, parts) -> why this covers less than one act`, or None.
 
     Where a game's acts run for hours, many uploaders split one act across
     several uploads, and such an upload's runtime measures the split rather than
@@ -164,15 +210,32 @@ def partial_test(workdir):
     game whose uploaders title a complete act after its closing quest part would
     otherwise lose every upload it has. Returns None where the report says
     nothing, which is every game that has no partials.txt.
+
+    A pattern prefixed with "!" is a marker that admits of no second reading, and
+    readmit_partials() never brings its uploads back: where an act is a chapter
+    and the game divides a chapter into acts of its own, "Act 3" is a third of
+    the entry however long the video runs, whereas "Part 3" might be the third
+    instalment of a complete playthrough or the game's own Part 3.
     """
     patterns = extra_patterns(workdir, "partials.txt")
     by_quest_part = QUEST_PART in patterns
-    literal = [p for p in patterns if p != QUEST_PART]
+    certain = [p[len(FRAGMENT):] for p in patterns if p.startswith(FRAGMENT)]
+    literal = [p for p in patterns
+               if p != QUEST_PART and not p.startswith(FRAGMENT)]
+    fragment = re.compile("|".join(certain), re.I) if certain else None
     regex = re.compile("|".join(literal), re.I) if literal else None
-    if not (regex or by_quest_part):
+    if not (fragment or regex or by_quest_part):
         return None
-    return lambda title, parts: bool(regex and regex.search(title)) \
-        or (by_quest_part and part_named(title, parts) is not None)
+
+    def scope(title, parts):
+        if fragment and fragment.search(title):
+            return "fragment"
+        if (regex and regex.search(title)) \
+                or (by_quest_part and part_named(title, parts) is not None):
+            return "part-of-an-act"
+        return None
+
+    return scope
 
 
 def pin_re(acts):
@@ -184,10 +247,9 @@ def pin_re(acts):
     patch number is no act label at all ("Trailblaze Mission 1.3" is the
     version, not mission one), so a following decimal disqualifies the run.
     """
-    numeral = r"[ivx]+|\d+"
     return re.compile(
         rf"\b(?:{unit_pattern(acts)}):? *"
-        rf"((?:{numeral})(?: *(?:&|and|\+|,|-|to) *(?:{numeral}))*)(?!\.\d)\b",
+        rf"((?:{NUMERAL})(?: *(?:&|and|\+|,|-|to) *(?:{NUMERAL}))*)(?!\.\d)\b",
         re.I)
 
 
@@ -212,8 +274,8 @@ def pinned_acts(pin, title):
 
 def bundle_re(acts):
     """"Acts 9 & 10", "Act V and VI": a free second opinion on two acts at once."""
-    return re.compile(rf"(?:{unit_pattern(acts)}) +([ivx]+|\d+) *"
-                      rf"(?:&|and|\+|,) *([ivx]+|\d+)\b", re.I)
+    return re.compile(rf"(?:{unit_pattern(acts)}) +({NUMERAL}) *"
+                      rf"(?:&|and|\+|,) *({NUMERAL})\b", re.I)
 
 
 def title_words(text):
@@ -415,7 +477,7 @@ def load_acts(workdir):
 
 
 def candidates_for(act, workdir, chapter_keys, act_keys, reject, compilation,
-                   pin, partial, enriched, parts):
+                   pin, partial, enriched, parts, floor=0):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -428,12 +490,12 @@ def candidates_for(act, workdir, chapter_keys, act_keys, reject, compilation,
         title = f[1]
         pinned = pinned_acts(pin, title)
         reasons = []
-        if reject.search(title):
+        if reject.search(title) or int(f[0]) < floor:
             reasons.append("not-a-playthrough")
         if compilation.search(title) and pinned != {number}:
             reasons.append("multi-act")
-        if partial and partial(title, parts):
-            reasons.append("part-of-an-act")
+        if partial and (scope := partial(title, parts)):
+            reasons.append(scope)
         if not act_keys(act, title) \
                 or (pinned and number is not None and number not in pinned) \
                 or not (matches_act_title(title, act["act_title"])
@@ -533,6 +595,27 @@ def drift_against(baseline, act):
     if not was or not now:
         return None
     return round((now - was) / was, 3)
+
+
+def mark_splits(rows):
+    """Several uploads from one uploader under one title are one act, split.
+
+    Channels that publish an act in instalments often reuse the title verbatim
+    and let the upload order carry the sequence, so nothing in the wording says
+    "part 2" for partials.txt to find. Their runtimes are fractions of the act,
+    and where an act's pool holds more of them than of complete uploads they
+    become the median that the outlier trim then measures the complete uploads
+    against. Marked as fragments rather than dropped, so that readmit_partials()
+    can still rescue one whose runtime turns out to be the whole act.
+    """
+    seen = {}
+    for row in rows:
+        seen.setdefault((row["uploader"], row["title"]), []).append(row)
+    for group in seen.values():
+        if len(group) > 1:
+            for row in group:
+                if "part-of-an-act" not in row["rejected"]:
+                    row["rejected"].append("part-of-an-act")
 
 
 def readmit_partials(rows):
@@ -664,6 +747,7 @@ def main(argv):
     compilation = compilation_re(workdir, acts)
     pin = pin_re(acts)
     partial = partial_test(workdir)
+    floor = runtime_floor(workdir)
     enriched = load_enriched(workdir)
     quest_parts = load_json(workdir, "quest_parts.json")
 
@@ -671,7 +755,8 @@ def main(argv):
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
         rows = candidates_for(act, workdir, chapter_keys, act_keys, reject,
-                              compilation, pin, partial, enriched, parts)
+                              compilation, pin, partial, enriched, parts, floor)
+        mark_splits(rows)
         readmit_partials(rows)
         kept = dedupe_uploaders(
             trim_outliers([r for r in rows if not r["rejected"]]))

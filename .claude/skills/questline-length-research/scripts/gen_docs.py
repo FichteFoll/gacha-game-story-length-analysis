@@ -196,6 +196,26 @@ def unit(report):
     return report.config.get("unit", "Act").lower()
 
 
+def container(report):
+    """What this game calls a group of entries, one per markdown file.
+
+    A game whose entry *is* a chapter (Honkai Impact 3rd numbers its story
+    chapters game-wide and groups them into named arcs) would otherwise have the
+    same word standing for both halves of the hierarchy.
+    """
+    return report.config.get("container", "Chapter")
+
+
+def region_label(report):
+    """What the chapter table's second column holds, as this game names it.
+
+    Most games group their story by place; Honkai Impact 3rd groups it by the
+    part of the narrative an arc belongs to, and calling that a region would be
+    a category error the reader has to unpick.
+    """
+    return report.config.get("region_label", "Region")
+
+
 def bounds(stats):
     """The middle half where the sample carries it, the full spread otherwise."""
     if stats.get("q1") and stats.get("q3"):
@@ -331,14 +351,15 @@ def evidence_block(act):
         + evidence_table(act) + ["", "</details>"]
 
 
-def heading(chap, acts):
+def heading(report, chap, acts):
     return [
         f"# {chap['title']}",
         "",
-        f"**Region:** {chap['region']} | "
+        f"**{region_label(report)}:** {chap['region']} | "
         f"**Game versions:** {chap['versions']} | "
         f"**Entries:** {len(acts)} | "
-        f"**Estimated chapter length: {hm(chapter_total(acts))}**",
+        f"**Estimated {container(report).lower()} length: "
+        f"{hm(chapter_total(acts))}**",
     ]
 
 
@@ -356,7 +377,9 @@ def glance_table(report, acts):
 
 
 def chapters_table(report, by_chapter):
-    lines = ["| Chapter | Region | Versions | Entries | Estimated length | Detail |",
+    lines = [f"| {container(report)} | {region_label(report)} | Versions "
+             f"| Entries "
+             f"| Estimated length | Detail |",
              "| --- | --- | --- | --- | --- | --- |"]
     for chap in report.chapters:
         acts = by_chapter[chap["id"]]
@@ -438,7 +461,7 @@ def chapter_regions(report, chap, acts, quest_parts, versions, version_index,
         return act_stats(report, act, parts, versions, version_index, superlative)
 
     return {
-        "heading": lambda attrs: heading(chap, acts),
+        "heading": lambda attrs: heading(report, chap, acts),
         "glance": lambda attrs: glance_table(report, acts),
         "act-heading": lambda attrs: act_heading(report, act_of(attrs)),
         "stats": stats_region,

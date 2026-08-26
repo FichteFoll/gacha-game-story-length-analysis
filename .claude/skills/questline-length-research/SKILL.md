@@ -47,6 +47,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/not_playthrough.txt phrasings for footage that is not the questline
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
 <report>/data/partials.txt       phrasings for less than one act, if the game has any
+<report>/data/min_minutes.txt    runtime floor, if the game's entries are all long
 <report>/report.py                the game's configuration and structure
 <report>/claims.py                what the prose asserts about the data
 ```
@@ -79,7 +80,11 @@ Set `released_in` to `null` for a wiki that does not categorize by version at al
 It records the wiki page that documents the questline (`overview_page`),
 which no script reads any more and the authored markdown links by hand,
 the level gate's name (`gate_label`, `None` for a game without one)
-and the gates themselves, the unit noun, the collection date,
+and the gates themselves, the collection date,
+and the three nouns the renderer writes with: what one entry is (`unit`),
+what a file's worth of them is (`container`, "Chapter" by default)
+and what their second column holds (`region_label`, "Region" by default,
+"Part" for a game that groups its story by narrative rather than by place),
 and the chapter list with each chapter's id, slug, region, versions and title,
 plus the chapter's own wiki page, which the markdown likewise links by hand
 (an act's page reaches the filler through `analysis.json` instead).
@@ -261,6 +266,11 @@ Discard, by title:
   The shared list covers what every pool carries;
   a phrasing peculiar to this game ("exploration only", "VOD")
   goes in `<workdir>/not_playthrough.txt`.
+  A highlight clip has no phrasing to catch: it names the chapter, says
+  nothing about its scope and runs three minutes. Where every entry of a game
+  is twenty minutes or more, put a runtime floor in
+  `<workdir>/min_minutes.txt` (one number) and they are counted out as not
+  being playthroughs, which spares the second pass fetching them too.
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
 - **multi-act compilations**: "Acts 9 & 10", "Full Sumeru Archon Quest", "all acts".
   The unit ("act", "episode") comes from the act labels,
@@ -285,7 +295,12 @@ Discard, by title:
   the line `<quest part>` in that file additionally reads
   a title naming one of the act's quest parts as a split.
   An upload whose runtime matches what the unambiguous uploads measured
-  is readmitted whatever it calls itself.
+  is readmitted whatever it calls itself,
+  unless the pattern that caught it is prefixed `!`,
+  which marks a wording that admits of no second reading:
+  where an act *is* a chapter and the game divides a chapter into acts of its
+  own, "Act 3" is a third of the entry however long the video runs,
+  where "Part 3" might be the third instalment of a complete playthrough.
   Leaving these to the outlier trim does not work:
   enough of them drag the median they are trimmed against down with them,
   until the complete uploads are the ones that look like outliers.
@@ -313,6 +328,10 @@ Discard, by title:
   or where an act's own title is degenerate:
   the words of "The Zero Zone" are in every Zenless Zone Zero upload's title.
 
+- **one uploader, one title, several videos**: a channel that publishes an act
+  in instalments often reuses the title verbatim and lets the upload order
+  carry the sequence, so nothing in the wording says "part 2".
+  Those are read as splits automatically, without a pattern.
 - **the same uploader twice**: an uploader who posts a single-act upload
   *and* a compilation that contains it
   offers one playthrough under two URLs,
@@ -394,7 +413,7 @@ which `gen_docs.py` rewrites in place, leaving the prose around it as written
 (it does right-strip every line and end the file in one newline,
 so a two-space hard line break does not survive a run).
 The filler is generic; the structure it needs
-(chapter ids, slugs, wiki pages, regions, versions, gates, the unit noun)
+(chapter ids, slugs, wiki pages, regions, versions, gates and the nouns)
 comes from the report's `report.py`, and the claims from its `claims.py`.
 
 The placeholders are HTML comments, in two forms:

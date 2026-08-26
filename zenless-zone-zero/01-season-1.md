@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 1
 
-**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 23 h 57 min**
+**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 24 h 07 min**
 <!--/gen-->
 
 A brother and sister run a video store on Sixth Street by day
@@ -18,7 +18,7 @@ are all pulling at the same thread.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 0 | Business x Strangeness x Justness | 1 h 57 min | 1 h 13 min - 2 h 16 min | 8 | low |
 | Chapter 1 | Cat's Lost & Found | 2 h 14 min | 1 h 50 min - 2 h 38 min | 13 | low |
-| Chapter 1 Intermission | The Zero Zone | 1 h 18 min | 55 min - 1 h 40 min | 8 | low |
+| Chapter 1 Intermission | The Zero Zone | 1 h 28 min | 1 h 04 min - 1 h 42 min | 8 | low |
 | Chapter 2 | A Call From the Hollow's Heart | 1 h 59 min | 1 h 25 min - 2 h 56 min | 5 | low |
 | Chapter 2 Interlude | Mission Unthinkable | 1 h 58 min | 1 h 15 min - 2 h 34 min | 16 | low |
 | Chapter 3 | The Midnight Pursuit | 1 h 40 min | 1 h 28 min - 2 h 28 min | 12 | low |
@@ -28,16 +28,16 @@ are all pulling at the same thread.
 | Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 40 min | 3 h 27 min - 4 h 17 min | 12 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->23 h 57 min<!--/f-->**
+**Total: <!--f:total-->24 h 07 min<!--/f-->**
 
 ## Pacing
 
 The season the game teaches you with,
 and by a distance the cheapest to get through:
-<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->23 h 57 min<!--/f--> in total.
+<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->24 h 07 min<!--/f--> in total.
 The two epilogue halves stand apart from the rest,
 at <!--f:len_Epilogue_A-->3 h 47 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 40 min<!--/f-->;
-everything before them sits between <!--f:shortest_len-->1 h 18 min<!--/f-->
+everything before them sits between <!--f:shortest_len-->1 h 28 min<!--/f-->
 and <!--f:len_Chapter_4-->2 h 59 min<!--/f-->.
 These are also the least settled figures in the report:
 Season 1 is mostly dialogue, dialogue is skippable,
@@ -135,11 +135,11 @@ was a chapter of its own until it is over.
 <!--gen:stats act="Chapter 1 Intermission"-->
 The shortest entry in the questline.
 
-- **Estimated length:** 1 h 18 min
-- **Sampled range:** 55 min to 1 h 40 min for the middle half (full spread 46 min to 2 h 28 min) across 8 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 1 h 28 min
+- **Sampled range:** 1 h 04 min to 1 h 42 min for the middle half (full spread 53 min to 2 h 28 min) across 8 playthrough uploads (19 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 1.0
-- **Stability:** median -18% against an earlier, independent query set
+- **Stability:** median -7% against an earlier, independent query set
 - **Quest parts (3):** Restricted Area Investigation; Mysterious Encounter; Frontline Pursuit
 <!--/gen-->
 
@@ -149,12 +149,12 @@ The shortest entry in the questline.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 46 min | Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K] | Prunalaul | 3 | 2025-12-30 | <https://www.youtube.com/watch?v=Y-BBhmHHxf4> |
 | 53 min | Zenless Zone Zero \| Main Story Chapter 1 -Intermission- | JihoEcho | 175 | 2024-08-30 | <https://www.youtube.com/watch?v=TbIkOdxl-2w> |
 | 1 h 01 min | 【Zenless Zone Zero】Chapter 1 Intermission \| Main Story Quest | Kumi X | ~11 | n/a | <https://www.youtube.com/watch?v=yUKT-Q9MdPo> |
 | 1 h 11 min | ZZZ Main Quest Season 1 Chapter 1: Intermission Full Walkthrough \| Zenless Zone Zero | Akabirama | ~375 | n/a | <https://www.youtube.com/watch?v=I0zpyFGPwOo> |
 | 1 h 25 min | [PS5] Zenless Zone Zero - S1 Chapter 1 Intermission (No Commentary) | NexysGaming | ~12 | n/a | <https://www.youtube.com/watch?v=ro4SwO8zwJE> |
 | 1 h 31 min | Chapter 1: Intermission // ZENLESS ZONE ZERO [4K ULTRA 60FPS] | The Archivist | 43 | 2024-07-13 | <https://www.youtube.com/watch?v=9uREk_aQSgU> |
+| 1 h 39 min | Zenless Zone Zero: Chapter 1 Main Quest Intermission - Walkthrough No Commentary [4K] | Prunalaul | 3 | 2025-12-30 | <https://www.youtube.com/watch?v=_YWnJ5tsnPs> |
 | 1 h 43 min | Chapter 1: Intermission \| Full Chapter \| Zenless Zone Zero | MysticStarX | 1,475 | 2024-07-17 | <https://www.youtube.com/watch?v=0CklG8dvq84> |
 | 2 h 28 min | [C001] Phaetheon's Story: Intermission: The Zero Zone \| 1.0 Zenless Zone Zero | Rubieco | ~537 | n/a | <https://www.youtube.com/watch?v=kY1R8KgPh7Q> |
 

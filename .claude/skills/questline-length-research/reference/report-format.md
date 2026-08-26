@@ -34,6 +34,9 @@ what is shown between the markers is what the filler puts there.
 **Region:** X | **Game versions:** A - B | **Entries:** N | **Estimated chapter length: H h MM min**
 <!--/gen-->
 
+(The words "Region" and "chapter" here are `region_label` and `container`
+from the report's `report.py`, which default to those two.)
+
 <two to five lines of story framing, one clause per line,
 with any figure in it written as an f: marker:
 <!--f:len_Act_II-->2 h 10 min<!--/f-->>
@@ -111,7 +114,7 @@ rather than a number anyone actually clocked end to end.
 ## Chapters
 
 <!--gen:chapters-->
-| Chapter | Region | Versions | Entries | Estimated length | Detail |
+| Chapter | Region | Versions | Entries | Estimated length | Detail |    <- the two headers are `container` and `region_label`
 | --- | --- | --- | --- | --- | --- |
 | Prologue: ... | Mondstadt | 1.0 | 3 | 2 h 53 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
 <!--/gen-->

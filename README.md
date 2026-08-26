@@ -90,7 +90,8 @@ livestreams and let's-plays, whose idle chatter inflates runtime;
 multi-act compilations,
 unless their chapter markers located this act inside them;
 uploads covering part of an act rather than all of it,
-in the games whose uploaders split acts that way;
+in the games whose uploaders split acts that way,
+including the instalments a channel publishes under one repeated title;
 and uploads whose title does not name the act
 either by name or by chapter plus act number.
 Of the survivors, the outliers are dropped
@@ -166,6 +167,8 @@ which is what the stability figure is measured against.
 are the inputs the pipeline is steered with,
 joined by `data/partials.txt` where the game's uploaders split acts
 across videos,
+by `data/min_minutes.txt` where every act is long enough
+that a short upload cannot be one,
 and by `data/act_keys.json` where a chapter has two acts of the same name.
 - `report.py` is the game's configuration and structure,
 and `claims.py` the assertions the prose is checked against.

@@ -113,7 +113,7 @@ def released_in(wiki, pages, recorded):
 
 
 def iso_date(value):
-    """`July 29, 2026` and `2024-07-04 10:00` both as `2026-07-29`, or unchanged.
+    """`July 29, 2026` and `05:00, JUN 26, 2025` both as ISO, or unchanged.
 
     One wiki writes both forms, sometimes on neighbouring version pages, and the
     dates are sorted against each other to decide which acts count as recent, so
@@ -121,9 +121,14 @@ def iso_date(value):
     """
     if not value:
         return None
-    plain = re.sub(r"\s*\d{1,2}:\d{2}.*$", "", value).strip()
+    # A footnote or a citation template often follows the date, and one wiki
+    # leads with the clock time rather than trailing it ("05:00, JUN 26, 2025").
+    plain = re.sub(r"(<ref|\{\{).*$", "", value, flags=re.S)
+    plain = re.sub(r"^\s*\d{1,2}:\d{2}\s*,?\s*", "", plain)
+    plain = re.sub(r"\s*\d{1,2}:\d{2}.*$", "", plain).strip()
     plain = re.sub(r"(?<=\d)(st|nd|rd|th)\b", "", plain)   # September 4th, 2025
-    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%d %B %Y", "%b %d, %Y"):
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d", "%B %d, %Y", "%d %B %Y", "%b %d, %Y",
+                "%b %d %Y", "%B %d %Y"):
         try:
             return datetime.strptime(plain, fmt).strftime("%Y-%m-%d")
         except ValueError:

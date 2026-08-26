@@ -22,7 +22,7 @@ import json
 import pathlib
 import sys
 
-from analyze import ROMAN, act_number, load_acts
+from analyze import act_number, load_acts, roman
 
 DEPTH = 6                    # results per query for settled content
 RECENT_DEPTH = 12            # ... and for acts released in the last few versions
@@ -81,7 +81,7 @@ def main(argv):
         }
         if number:
             fields["act_number"] = number
-            fields["act_roman"] = next(k for k, v in ROMAN.items() if v == number)
+            fields["act_roman"] = roman(number)
         if version:
             fields["version"] = version
             fields["number"] = details.get("number", version)
