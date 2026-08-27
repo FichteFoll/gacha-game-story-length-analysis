@@ -1,0 +1,14 @@
+{
+ "a1|Inter Chapter - I": [
+  "\\binter ?-? ?chapter\\b",
+  "\\bspecial\\b",
+  "\\b5sp\\b",
+  "\\b5\\.5\\b"
+ ],
+ "a1|Inter Chapter - II": [
+  "\\binter ?-? ?chapter\\b",
+  "\\bspecial\\b",
+  "\\b7sp\\b",
+  "\\b7\\.5\\b"
+ ]
+}

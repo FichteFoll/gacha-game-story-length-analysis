@@ -1,0 +1,46 @@
+\bgacha\b
+\bpulls?\b
+\bpulling\b
+\bbanner\b
+\bsummons?\b
+\bsummoning\b
+\bpsychubes?\b
+\binsight\b
+\beuphoria\b
+\bresonance\b
+\bportray\b
+\btier ?list\b
+\bteams?\b
+\bbuilds?\b
+\bf2p\b
+\brerolls?\b
+\bshowcase\b
+\bclips?\b
+\bvods?\b
+\bshorts?\b
+\bpv\b
+\bbgm\b
+\banecdote\b
+\bwilderness\b
+\bmane'?s bulletin\b
+\blimbo\b
+\braid\b
+\bevents?\b
+\bgarments?\b
+\bskins?\b
+\bcosplay\b
+\bmemes?\b
+\banimation\b
+\bmanga\b
+\bnovel\b
+\btutorial\b
+\bbeginners?\b
+\bnew players?\b
+\bmeta\b
+\bcodes?\b
+\bfarming\b
+\bmaterials?\b
+\bboss(?:es)? (?:fight|guide)\b
+\bcn (?:server|version|release)\b
+\bhard (?:mode|stages?)\b
+\bsurvey stages?\b

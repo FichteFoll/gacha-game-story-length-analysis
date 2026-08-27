@@ -15,6 +15,7 @@ wikis rename pages, and the young ones are still being built.
 | Arknights: Endfield | `endfield.wiki.gg` | Endfield Talos Wiki | `Mission/Main` | none found; leave `gate_label` unset |
 | Honkai Impact 3rd | `honkaiimpact3.fandom.com` | Honkai Impact 3 Wiki | `Story` (`Main Story` redirects to it) | none recorded; leave `gate_label` unset |
 | Goddess of Victory: NIKKE | `nikke-goddess-of-victory-international.fandom.com` | Nikke Goddess of Victory International Wiki | `Story`, whose chapter list is `Template:Navbox Story Chapters` | recommended Combat Power per battle, not per chapter and not on the wiki; leave `gate_label` unset |
+| Reverse: 1999 | `reverse1999.fandom.com` | Reverse: 1999 Wiki | `Main Story` | none recorded per chapter; leave `gate_label` unset |
 
 `starrail.fandom.com` and `wuthering-waves.fandom.com` redirect;
 `arknights-endfield.fandom.com` does not exist,
@@ -45,6 +46,7 @@ so only `version_fields` in `data/wiki.json` differs:
 | Arknights: Endfield | `version` | `asia start` |
 | Honkai Impact 3rd | none | `debut_NA` |
 | Goddess of Victory: NIKKE | none | none |
+| Reverse: 1999 | none | none |
 
 Endfield is the exception in both halves.
 Its version pages are named after the version
@@ -175,6 +177,45 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   Commission sub-quests - so `not_playthrough.txt` is long.
   Expect wide spreads: an upload either fights every battle on the map or
   walks the story path in Story Mode, and the two differ by a factor of two.
+
+- **Reverse: 1999.** The third game here whose *entry* is a chapter, and the
+  one whose grouping is both real and purely narrative: the main story
+  chapters are numbered straight through and the wiki's `Main Story` page
+  carries them as the three tabs of one wikitable, one tab per named arc
+  (`The Living and the Rest`, `The Journey Back`, `The Roots of the Tale`).
+  The `Template:<arc name>` calls that page's tabber uses lag behind the
+  table, so read the table. Chapter pages are named after the chapter title
+  (`Chapter 1` redirects to `In Our Time`), and among the numbered chapters
+  sit a prologue and two **inter chapters**, whose stage prefixes are `5SP`
+  and `7SP`. Label those so that `act_number()` reads no number out of them
+  (`Inter Chapter - I`, as with Wuthering Waves's segues), or a title saying
+  "Interlude" pins them by the `l` in it.
+  A chapter is a run of 15 to 30 named story stages, tabulated in a
+  `{{Stage Summary}}` call per stage (positionally: code, in-story timestamp,
+  name), which is what `quest_parts.json` holds; the prologue and the first
+  inter chapter use a plain wikitable instead, and the second inter chapter
+  has named character meetings rather than stages. An unnamed stage repeats
+  its timestamp in the name slot, and Chapter 6 closes on a stage named after
+  the chapter, which has to be left out or every complete upload of that
+  chapter reads as a fragment of it.
+  Nothing categorizes a chapter by version. A version page announces
+  "The new main story chapter [X]" from 1.4 on, and its banner file is named
+  after the chapter, so `released_in` is null and `versions.json` is written
+  out from those pages; the launch chapters, both inter chapters and the
+  newest chapter are recorded nowhere. The version pages carry no infobox at
+  all - the run dates are prose in a `<center><small>` - so no version gets a
+  date and nothing is ever searched as recent; top the newest chapter up by
+  hand. Its version pages are named `Version 1.4`, so `version_page` is
+  `Version {version}`, and `Version 1.0` does not exist.
+  Two things this pool punishes. "Full story" is the ordinary phrasing for
+  one complete chapter, so screening it as a compilation throws away the best
+  evidence for every entry; and the chapters run for four to eight hours, so
+  most uploaders split them, which makes `partials.txt` the file that decides
+  the medians. Catch every `Part N` rather than only the high numbers: seeded
+  from a pool of halves, `readmit_partials()` sets a median at half the real
+  length and the trim then discards the complete uploads as outliers.
+  Expect a wide spread and thin samples: the dialogue is skippable, and only
+  a handful of channels publish a whole chapter as one video.
 
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves

@@ -1,0 +1,5 @@
+{game} {act_label} {act_title} full walkthrough
+{game} {act_label} {act_title} no commentary
+{game} main story {act_label} full playthrough
+{game} {act_title} full story gameplay
+{act_title} {game} chapter {act_number} all stages

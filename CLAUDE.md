@@ -13,8 +13,8 @@ the deliverable is markdown, and the pipeline is what makes it reproducible.
 
 One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`
-and `nikke/`),
+`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`,
+`nikke/` and `reverse-1999/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -56,7 +56,8 @@ what a game differs in belongs in its `data/` or its `report.py`.
 
 All commands are run from a report directory
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
-`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`, `nikke/`);
+`arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`, `nikke/`,
+`reverse-1999/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -151,13 +152,15 @@ the unit an entry is (`unit`), the group of entries one file covers
 (`container`) and what the group's second column holds (`region_label`),
 which is a region for four of the games,
 the part of the narrative for Honkai Impact 3rd
-and the span of chapter numbers for NIKKE,
-the two games whose entry is itself a chapter
+and the span of chapter numbers for NIKKE and Reverse: 1999,
+the three games whose entry is itself a chapter
 (`report.py`, which also records the questline page
 that the authored markdown links by hand).
 NIKKE is the one game whose container is invented rather than read off the
 wiki: it groups its chapters under nothing, so the report files them in
 volumes of ten and says so in its README.
+Reverse: 1999 is the counter-example: its chapters are numbered game-wide too,
+but the wiki groups them into three named arcs, which the report files them by.
 
 ### The prose must not contain hand-written numbers
 

@@ -1,0 +1,12 @@
+!\b\d{1,2}(?:st|nd|rd|th)-\d{1,2}\b
+!\b\d{1,2}-\d{1,2}\b
+!\bstages? ?\d
+!\b\d ?/ ?\d\b
+!#\d+
+\bparts? ?#? ?\d+(?!\.\d)\b
+\bparts? (?:one|two|three|four|five|six|seven|eight)\b
+\bpt\.? ?\d+\b
+\bep(?:isode)?\.? ?\d+\b
+<quest part>
+\bfinale\b
+[—–] ?\d+
