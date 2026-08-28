@@ -1,0 +1,5 @@
+{game} {act_label} {act_title} full walkthrough
+{game} {act_label} {act_title} no commentary
+{game} main story {act_label} full playthrough
+GFL2 {act_label} {act_title} all missions
+{act_title} GFL2 full story gameplay

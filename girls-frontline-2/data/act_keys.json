@@ -1,0 +1,47 @@
+{
+ "v3|Chapter 10": [
+  "(?=.*(?:\\bchapters? ?10\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v3|Chapter 11": [
+  "(?=.*(?:\\bchapters? ?11\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v3|Chapter 12": [
+  "^(?!.*\\b12\\.5\\b)(?=.*(?:\\bchapters? ?12\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v4|Chapter 13": [
+  "(?=.*(?:\\bchapters? ?13\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v4|Chapter 14": [
+  "(?=.*(?:\\bchapters? ?14\\b|\\bpart ?1\\.5\\b))"
+ ],
+ "v4|Chapter 15": [
+  "(?=.*(?:\\bchapters? ?15\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v4|Chapter 16": [
+  "(?=.*(?:\\bchapters? ?16\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v4|Chapter 17": [
+  "(?=.*(?:\\bchapters? ?17\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v5|Chapter 18": [
+  "(?=.*(?:\\bchapters? ?18\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v5|Chapter 19": [
+  "(?=.*(?:\\bchapters? ?19\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v1|Chapter 6": [
+  "^(?!.*\\b6\\.[57]\\b)"
+ ],
+ "v2|Chapter 6.5": [
+  "(?=.*(?:\\bchapters? ?6\\.5\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v2|Chapter 6.7": [
+  "(?=.*(?:\\bchapters? ?6\\.7\\b|\\bpart ?2\\b(?!\\.\\d)))"
+ ],
+ "v2|Chapter 8": [
+  "^(?!.*\\b8\\.[37]\\b)"
+ ],
+ "v3|Chapter 9": [
+  "(?=.*(?:\\bchapters? ?9\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ]
+}

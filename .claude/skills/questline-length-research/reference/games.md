@@ -16,12 +16,23 @@ wikis rename pages, and the young ones are still being built.
 | Honkai Impact 3rd | `honkaiimpact3.fandom.com` | Honkai Impact 3 Wiki | `Story` (`Main Story` redirects to it) | none recorded; leave `gate_label` unset |
 | Goddess of Victory: NIKKE | `nikke-goddess-of-victory-international.fandom.com` | Nikke Goddess of Victory International Wiki | `Story`, whose chapter list is `Template:Navbox Story Chapters` | recommended Combat Power per battle, not per chapter and not on the wiki; leave `gate_label` unset |
 | Reverse: 1999 | `reverse1999.fandom.com` | Reverse: 1999 Wiki | `Main Story` | none recorded per chapter; leave `gate_label` unset |
+| Girls' Frontline 2: Exilium | `iopwiki.com` | IOP Wiki | `GFL2 Story`, whose per-chapter sections are on `GFL2 Story/Summary` | a stage carries a recommended power level in-game and the wiki records none of it; leave `gate_label` unset |
 
 `starrail.fandom.com` and `wuthering-waves.fandom.com` redirect;
 `arknights-endfield.fandom.com` does not exist,
 and `arknights.fandom.com` is the original game, not Endfield.
 
-Endfield is the one game here whose report does not read a Fandom wiki.
+Girls' Frontline 2 is the second game here whose report does not read a
+Fandom wiki. `girlsfrontline.fandom.com` (the GFL Universe Wiki) exists and
+answers, but it is a lore wiki for the first game with nothing on the second
+game's story, and `gfl2exilium.fandom.com` and the `wiki.gg` variants of the
+name do not exist. IOP Wiki is the community wiki for the whole series and the
+only one that documents this story; it answers `api.php` the same way Fandom
+does, serves no challenge, and publishes under CC BY-SA 3.0. Its own search
+(`list=search`) returns nothing at all, so find pages with `titles=` probes and
+`prop=sections` rather than by searching.
+
+Endfield is the other game here whose report does not read a Fandom wiki.
 `endfield.fandom.com` exists and answers, but its questline pages
 (`Chapter I`, `Chapter II`, `Undying Cinders`, `Path of Glory/Main Mission`)
 are zero-byte placeholders untouched since January 2026,
@@ -47,6 +58,7 @@ so only `version_fields` in `data/wiki.json` differs:
 | Honkai Impact 3rd | none | `debut_NA` |
 | Goddess of Victory: NIKKE | none | none |
 | Reverse: 1999 | none | none |
+| Girls' Frontline 2: Exilium | none | none |
 
 Endfield is the exception in both halves.
 Its version pages are named after the version
@@ -216,6 +228,40 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   length and the trim then discards the complete uploads as outliers.
   Expect a wide spread and thin samples: the dialogue is skippable, and only
   a handful of channels publish a whole chapter as one video.
+
+- **Girls' Frontline 2: Exilium.** The fourth game here whose *entry* is a
+  chapter, and the only one whose chapter numbers are not all whole: the
+  Campaign menu files five campaigns as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5
+  between two whole-numbered chapters. `act_number()` reads a decimal label as
+  a float and `numerals()` escapes the dot, so those chapters are matched by
+  number like any other; what they still need is a negative mark in
+  `act_keys.json` on the whole chapter whose number is a prefix of theirs
+  (Chapters 6, 8 and 12), because `\bchapter:? +6\b` matches "Chapter 6.5".
+  The chapters are grouped by nothing, as NIKKE's are, so the report invents
+  volumes and says so; unlike NIKKE it can cut them where a campaign ends,
+  because every chapter from 6.5 on shipped as a named campaign and the wiki
+  says which. The whole structure is on `GFL2 Story`, one `===Chapter N===`
+  section per release with a `<tab name=...>` per chapter inside it and one
+  `====CODE: Title====` per stage, which is what `quest_parts.json` holds;
+  `GFL2 Story/Summary` carries one section per chapter, the plot summaries and
+  the release order per server, and its section anchors are what the report
+  links.
+  Two things this pool punishes. A campaign that shipped as several chapters
+  is uploaded as "Deep Oblivion Part 2", which carries none of Chapter 12's own
+  words, so every chapter of a multi-chapter campaign needs its number or its
+  part number demanded in `act_keys.json` - and for the same reason a generic
+  "Part 3" must *not* go in `partials.txt`, because in this game a part number
+  usually names the chapter rather than a split of it. What does belong there
+  is the stage codes ("5-10", "LA-1-16") and the "(1/5)" instalment numbering;
+  leaving the latter out cost two chapters two thirds of their median, because
+  the splits seeded it and the trim then dropped the complete uploads.
+  Beware `\blore\b` in the shared reject list: the *Dawnforger* campaign's
+  own character is named Loreley, and an unbounded `lore` threw away every
+  complete upload of Chapters 18 and 19.
+  The main story runs past what the game numbers - `Moonshroud Requiem` and
+  `Chiral Redundancy` are filed under it with no chapter number, and
+  `Siege of Iliad` is Chinese-server only - so the report's scope is the
+  numbered chapters and it says so.
 
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves

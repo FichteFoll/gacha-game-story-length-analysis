@@ -14,7 +14,7 @@ the deliverable is markdown, and the pipeline is what makes it reproducible.
 One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
 `arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`,
-`nikke/` and `reverse-1999/`),
+`nikke/`, `reverse-1999/` and `girls-frontline-2/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -57,7 +57,7 @@ what a game differs in belongs in its `data/` or its `report.py`.
 All commands are run from a report directory
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
 `arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`, `nikke/`,
-`reverse-1999/`);
+`reverse-1999/`, `girls-frontline-2/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -152,15 +152,23 @@ the unit an entry is (`unit`), the group of entries one file covers
 (`container`) and what the group's second column holds (`region_label`),
 which is a region for four of the games,
 the part of the narrative for Honkai Impact 3rd
-and the span of chapter numbers for NIKKE and Reverse: 1999,
-the three games whose entry is itself a chapter
+and the span of chapter numbers for NIKKE, Reverse: 1999
+and Girls' Frontline 2,
+the four games whose entry is itself a chapter
 (`report.py`, which also records the questline page
 that the authored markdown links by hand).
-NIKKE is the one game whose container is invented rather than read off the
-wiki: it groups its chapters under nothing, so the report files them in
+NIKKE is the first of two games whose container is invented rather than read
+off the wiki: it groups its chapters under nothing, so the report files them in
 volumes of ten and says so in its README.
 Reverse: 1999 is the counter-example: its chapters are numbered game-wide too,
 but the wiki groups them into three named arcs, which the report files them by.
+Girls' Frontline 2 sits between the two: its chapters are grouped by nothing,
+so its volumes are invented as NIKKE's are, but every chapter from 6.5 on
+shipped as a named campaign, so the volume boundaries at least fall where a
+campaign ends. It is also the one game whose entry numbers are not all whole -
+five campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5 - which
+`act_number()` reads as a float, and whose wiki is IOP Wiki rather than a
+Fandom one.
 
 ### The prose must not contain hand-written numbers
 

@@ -21,6 +21,7 @@ and what the words claim beyond the numbers is asserted against it.
 | --- | --- | --- |
 | Arknights: Endfield | Main Missions | [arknights-endfield/README.md](arknights-endfield/README.md) |
 | Genshin Impact | Archon Quests | [genshin-impact/README.md](genshin-impact/README.md) |
+| Girls' Frontline 2: Exilium | Main Story Chapters | [girls-frontline-2/README.md](girls-frontline-2/README.md) |
 | Goddess of Victory: NIKKE | Campaign Chapters | [nikke/README.md](nikke/README.md) |
 | Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
 | Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
@@ -33,6 +34,8 @@ its longest and shortest entries,
 and the caveats that apply to that game in particular.
 The vocabulary differs by game:
 Arknights: Endfield numbers processes, Genshin Impact numbers acts,
+Girls' Frontline 2: Exilium numbers chapters across the whole game,
+five of them with a decimal, and groups them into nothing at all,
 Goddess of Victory: NIKKE numbers campaign chapters across the whole game
 and groups them into nothing at all,
 Honkai Impact 3rd numbers chapters across the whole game
@@ -54,7 +57,8 @@ together with the exact thresholds the screening and the ratings use.
 1. **Structure from the wiki.**
 The chapter and act list, the titles, the quest parts
 and the level gates come from the game's community wiki,
-which is a Fandom wiki for every game here but Arknights: Endfield.
+which is a Fandom wiki for every game here
+but Arknights: Endfield and Girls' Frontline 2: Exilium.
 Fandom serves a Cloudflare challenge to plain HTTP clients,
 so the pages are read through the MediaWiki API
 (`/api.php?action=query&prop=revisions&rvprop=content`) instead.
@@ -233,5 +237,5 @@ and names the sentence to fix.
 Dedicated to the public domain under [CC0 1.0](LICENSE).
 The measurements and the prose are free to use without attribution.
 The linked YouTube uploads belong to their uploaders,
-and the questline structure is taken from the games' Fandom wikis,
+and the questline structure is taken from the games' community wikis,
 which publish under CC BY-SA.

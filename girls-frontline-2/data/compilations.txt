@@ -1,0 +1,5 @@
+all (main )?story chapters
+\bwhole story\b
+\bentire story\b
+story (so far|recap|compilation)
+\bevery chapter\b

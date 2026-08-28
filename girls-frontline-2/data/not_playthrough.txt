@@ -1,0 +1,43 @@
+\bgacha\b
+\bpulls?\b
+\bpulling\b
+\bbanners?\b
+\bsummons?\b
+\bwishes\b
+\btier ?list\b
+\bbuilds?\b
+\bteam ?comps?\b
+\bteams?\b
+\bf2p\b
+\brerolls?\b
+\bshowcase\b
+\bclips?\b
+\bvods?\b
+\bshorts?\b
+\bpv\b
+\bbgm\b
+\bcosplay\b
+\bmemes?\b
+\banimation\b
+\btutorial\b
+\bbeginners?\b
+\bnew players?\b
+\bmeta\b
+\bcodes?\b
+\bfarming\b
+\bmaterials?\b
+\bhard\b
+\belite\b
+\bboss(?:es)? (?:fight|guide|rush)\b
+\bassault simulation\b
+\bcombat simulation\b
+\barena\b
+\bbattle ?pass\b
+\bneural helix\b
+\battachments?\b
+\bweapons?\b
+\bdorms?\b
+\bcrew deck\b
+\baffinity\b
+\bcn (?:server|version|release|story)\b
+\bbeta\b
