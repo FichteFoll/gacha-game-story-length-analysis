@@ -1,0 +1,12 @@
+!\b\d{1,2}-\d{1,2}\b
+!\bex-?\d{1,2}-\d{1,2}\b
+!\bchapter:? ?\d{1,2} \d{1,2}\b
+!\(\s?\d{1,2}[a-zA-Z]?\s?\)
+!\(\s?(?:final|end|ending)\s?\)
+!\bfinale\b
+!\bnodes? ?\d+\b
+\bstages?\b
+\bhidden\b
+\bparts? ?#? ?\d+\b
+\bpt\.? ?\d+\b
+\bphases? ?\d+\b

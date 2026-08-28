@@ -1,0 +1,53 @@
+story collection
+\bgacha\b
+\bpulls?\b
+\bbanner\b
+\bcoating\b
+\bskins?\b
+\bomniframe (?:showcase|guide|gameplay)\b
+\bshowcase\b
+\bshorts?\b
+\bpv\b
+\bbgm\b
+\banimation\b
+\bmanga\b
+\bnovel\b
+\btutorial\b
+\bbeginners?\b
+\btier\b
+\bmeta\b
+\bf2p\b
+\bteam\b
+\bbuilds?\b
+\bboss (?:fight|guide|rush)\b
+\bpain cage\b
+\bppc\b
+\bwar zone\b
+\bbabel tower\b
+\bhyperlink\b
+\bnorman capital\b
+\bgolden vortex\b
+\binterlude\b
+\bfriendship story\b
+\bjournal of promise\b
+\bcharacter story\b
+\baffinity\b
+\bclips?\b
+\bvod\b
+\bpodcast\b
+\bdiscussion\b
+\bunboxing\b
+\bnorman (?:revival|plan|ex)
+\bfull (?:clear|debuff)\b
+\bthe movie\b
+\bstory theme\b
+\bnew omniframe\b
+\btrials\b
+\bbabel\b
+\bbattle ?-
+-\s+events?\s+-
+\bevent stages?\b
+\bresearch\b
+\bbonus story\b
+\bmemoir\b
+\btranslated\b

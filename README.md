@@ -25,6 +25,7 @@ and what the words claim beyond the numbers is asserted against it.
 | Goddess of Victory: NIKKE | Campaign Chapters | [nikke/README.md](nikke/README.md) |
 | Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
 | Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
+| Punishing: Gray Raven | Main Story Chapters | [punishing-gray-raven/README.md](punishing-gray-raven/README.md) |
 | Reverse: 1999 | Main Story Chapters | [reverse-1999/README.md](reverse-1999/README.md) |
 | Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |
 | Zenless Zone Zero | Phaethon's Story | [zenless-zone-zero/README.md](zenless-zone-zero/README.md) |
@@ -41,6 +42,9 @@ and groups them into nothing at all,
 Honkai Impact 3rd numbers chapters across the whole game
 and groups them into named arcs,
 Honkai: Star Rail numbers missions,
+Punishing: Gray Raven numbers chapters across the whole game,
+groups them into nothing at all
+and files six EX chapters alongside them,
 Reverse: 1999 numbers chapters across the whole game
 and groups them into three named arcs,
 Wuthering Waves numbers acts and leaves its segues unnumbered,

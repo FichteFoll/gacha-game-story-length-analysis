@@ -1,0 +1,131 @@
+{
+ "v1|Chapter 1": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 2": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 3": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 4": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 5": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 6": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 7": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 8": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 9": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v1|Chapter 10": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 11": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 12": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 13": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 14": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 15": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 16": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 17": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 18": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 19": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v2|Chapter 20": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 21": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 22": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 23": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 24": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 25": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 26": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 27": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 28": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 29": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v3|Chapter 30": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 31": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 32": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 33": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 34": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 35": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 36": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 37": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 38": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 39": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 40": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 41": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "v4|Chapter 42": [
+  "^(?!.*\\bex[ -]?(?:chapter|\\d))"
+ ],
+ "vex|Chapter EX-03": [
+  "\\blost chapter\\b"
+ ]
+}

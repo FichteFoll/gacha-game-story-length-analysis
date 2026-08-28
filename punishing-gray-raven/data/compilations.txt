@@ -1,0 +1,6 @@
+all (main )?story chapters
+all chapters
+every chapter
+(story|game) (so far|recap)
+full story recap
+(full|entire|complete|whole) (main )?(story ?line|storyline|game|campaign)

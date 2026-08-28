@@ -50,8 +50,8 @@ import sys
 from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
                      UNSTABLE_DRIFT)
 from assertions import failures
-from facts import (chapter_facts, chapter_total, hm, median_of, plural_unit,
-                   report_facts, superlatives, word)
+from facts import (chapter_facts, chapter_total, hm, measured, median_of,
+                   plural_unit, report_facts, superlatives, word)
 from queries import RECENT_VERSIONS
 
 # The interquartile factors the confidence rating is graded on. Their companion
@@ -393,7 +393,7 @@ def chapters_table(report, by_chapter):
 def extremes_table(report, all_acts):
     lines = [f"| | {report.config.get('unit', 'Act')} | Estimate |",
              "| --- | --- | --- |"]
-    ranked = sorted(all_acts, key=median_of)
+    ranked = sorted(measured(all_acts), key=median_of)
     for kind, picked in (("longest", reversed(ranked[-5:])),
                          ("shortest", ranked[:3])):
         for a in picked:

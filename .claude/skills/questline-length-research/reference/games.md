@@ -15,6 +15,7 @@ wikis rename pages, and the young ones are still being built.
 | Arknights: Endfield | `endfield.wiki.gg` | Endfield Talos Wiki | `Mission/Main` | none found; leave `gate_label` unset |
 | Honkai Impact 3rd | `honkaiimpact3.fandom.com` | Honkai Impact 3 Wiki | `Story` (`Main Story` redirects to it) | none recorded; leave `gate_label` unset |
 | Goddess of Victory: NIKKE | `nikke-goddess-of-victory-international.fandom.com` | Nikke Goddess of Victory International Wiki | `Story`, whose chapter list is `Template:Navbox Story Chapters` | recommended Combat Power per battle, not per chapter and not on the wiki; leave `gate_label` unset |
+| Punishing: Gray Raven | `punishing-gray-raven.fandom.com` | Punishing: Gray Raven Wiki | `Main Story`, whose chapter list stops at Chapter 20; the rest is in the patch pages of `Category:Content Updates` | a story stage recommends a level and the wiki records none of it; leave `gate_label` unset |
 | Reverse: 1999 | `reverse1999.fandom.com` | Reverse: 1999 Wiki | `Main Story` | none recorded per chapter; leave `gate_label` unset |
 | Girls' Frontline 2: Exilium | `iopwiki.com` | IOP Wiki | `GFL2 Story`, whose per-chapter sections are on `GFL2 Story/Summary` | a stage carries a recommended power level in-game and the wiki records none of it; leave `gate_label` unset |
 
@@ -57,6 +58,7 @@ so only `version_fields` in `data/wiki.json` differs:
 | Arknights: Endfield | `version` | `asia start` |
 | Honkai Impact 3rd | none | `debut_NA` |
 | Goddess of Victory: NIKKE | none | none |
+| Punishing: Gray Raven | none | none |
 | Reverse: 1999 | none | none |
 | Girls' Frontline 2: Exilium | none | none |
 
@@ -262,6 +264,51 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   `Chiral Redundancy` are filed under it with no chapter number, and
   `Siege of Iliad` is Chinese-server only - so the report's scope is the
   numbered chapters and it says so.
+
+- **Punishing: Gray Raven.** The fifth game here whose *entry* is a chapter,
+  and the one whose wiki documents the least of it. Main story chapters are
+  numbered straight through and grouped by nothing; `Main Story` carries the
+  plot summaries of Chapters 1 to 20 and the six EX chapters as tabber labels
+  ("1: Graffiti Art", "EX-00: Frozen Darkness"), bands them in fives to fit the
+  tabber, and stops there. Everything after Chapter 20 has to be read off the
+  patch pages in `Category:Content Updates`, which announce each release's new
+  chapter in prose and give its number only sometimes (Chapters 31, 32 and 34
+  to 42). `Template:Event Top Nav` is the one page that chains the patches in
+  order, and counting the main story releases along that chain closes exactly
+  on the numbers the prose does state, which is how Chapters 21 to 30 and 33
+  are numbered here; the upload titles agree chapter by chapter. Two traps in
+  that reading: a patch that shipped two chapters names only one of them in its
+  heading (Chapter 29 `Source Beacon` is announced as an ER chapter under a
+  screenshot named after the main story), and several patches announce a
+  "new main story" that is an event story rather than a numbered chapter
+  (`Recitativo di Fantasia`, `Reveries With A Whale`, `The Ark Beyond`,
+  `The Floating Reverie`), so counting every such announcement overshoots.
+  The wiki's chapter titles are its own translations of the Chinese ones and
+  differ from the global client for half a dozen early chapters
+  (`Torturos Journey` for *Journey of Torture*, `Shattered Phantom` for
+  *Shattered Illusion*), which costs nothing as long as the number matching
+  carries the harvest: nearly every upload title says "Chapter N".
+  There are no chapter pages, no stage titles and therefore no quest parts, no
+  version numbers and no version pages: a patch page is named after the patch,
+  carries no infobox at all, and states its run dates in prose, so
+  `released_in` is null, `version_page` is `{version}`, `versions.json` is
+  written out by hand from the patch pages and no version gets a date. Nothing
+  is ever searched as recent; top the newest chapters up by hand.
+  What this pool punishes is splitting. A chapter from Chapter 12 on runs for
+  two to six hours, and most channels publish it a stage at a time
+  ("Chapter 26 1-2", "EX05-8"), an instalment at a time ("Chapter 25 (13)",
+  "Pt. 1", "Finale"), or as a multi-hour stream, so `partials.txt` decides the
+  medians and a complete single-video upload of a late chapter is rare enough
+  that several chapters rest on one or two. Note that the stage code needs a
+  second pattern for the EX chapters, because the digits in "EX05-8" are not
+  preceded by a word boundary. The pool also carries a great deal of side
+  content titled after the chapter and nothing else - bonus and coating
+  stories, research banners, Babel Tower and Phantom Pain Cage runs, the event
+  stages that ship in the same patch, the hours-long "Story Collection"
+  cutscene reels - which is what `not_playthrough.txt` is long for, and a
+  20-minute runtime floor is what catches the rest of it: no chapter of this
+  game is that short, and without the floor a chapter whose complete uploads
+  are missing takes its median from whatever fragment survived.
 
 - **Arknights: Endfield.** Released 2026-01-22 and the wiki is still thin,
   so expect to derive the act list from the mission pages themselves

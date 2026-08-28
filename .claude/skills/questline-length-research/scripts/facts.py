@@ -38,6 +38,18 @@ def median_of(act):
     return act["stats"]["median"] or 0
 
 
+def measured(acts):
+    """The entries that have an estimate at all.
+
+    An entry whose pool held no accepted upload has no median, and it can hold
+    neither a superlative nor a place in the extremes: ranked with the rest it
+    would be the shortest entry in the game at nothing at all, and it would push
+    the entry that really is the shortest one place down. Where nothing is
+    measured yet the whole list comes back, so that a ranking is still total.
+    """
+    return [a for a in acts if a["stats"]["median"]] or list(acts)
+
+
 def count_above(acts, minutes):
     return sum(1 for a in acts if median_of(a) > minutes)
 
@@ -79,6 +91,7 @@ def superlatives(acts, unit="act"):
     acts.
     """
     out = {}
+    acts = measured(acts)
     for act in acts:
         high, low = rank(act, acts), rank(act, acts, longest=False)
         tied = [o for o in acts
@@ -123,8 +136,8 @@ def report_facts(acts, unit="Act", game="", date=""):
 def chapter_facts(acts, quest_parts=None):
     """The values the authored prose may interpolate, keyed by placeholder name."""
     quest_parts = quest_parts or {}
-    ranked = sorted(acts, key=median_of)
-    numbered = [a for a in acts if act_number(a["act_label"])]
+    ranked = sorted(measured(acts), key=median_of)
+    numbered = [a for a in measured(acts) if act_number(a["act_label"])]
     facts = {
         "n_entries": word(len(acts)),
         "n_acts": word(len(numbered)),

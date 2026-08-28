@@ -14,7 +14,8 @@ the deliverable is markdown, and the pipeline is what makes it reproducible.
 One top-level directory per game report
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
 `arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`,
-`nikke/`, `reverse-1999/` and `girls-frontline-2/`),
+`nikke/`, `reverse-1999/`, `girls-frontline-2/`
+and `punishing-gray-raven/`),
 each holding what is specific to that game and nothing else:
 `README.md` plus one file per chapter, a `data/` vault,
 `report.py` and `claims.py`.
@@ -57,7 +58,7 @@ what a game differs in belongs in its `data/` or its `report.py`.
 All commands are run from a report directory
 (`genshin-impact/`, `honkai-star-rail/`, `zenless-zone-zero/`,
 `arknights-endfield/`, `wuthering-waves/`, `honkai-impact-3rd/`, `nikke/`,
-`reverse-1999/`, `girls-frontline-2/`);
+`reverse-1999/`, `girls-frontline-2/`, `punishing-gray-raven/`);
 `<workdir>` is `data`.
 
 ```bash
@@ -152,12 +153,12 @@ the unit an entry is (`unit`), the group of entries one file covers
 (`container`) and what the group's second column holds (`region_label`),
 which is a region for four of the games,
 the part of the narrative for Honkai Impact 3rd
-and the span of chapter numbers for NIKKE, Reverse: 1999
-and Girls' Frontline 2,
-the four games whose entry is itself a chapter
+and the span of chapter numbers for NIKKE, Reverse: 1999,
+Girls' Frontline 2 and Punishing: Gray Raven,
+the five games whose entry is itself a chapter
 (`report.py`, which also records the questline page
 that the authored markdown links by hand).
-NIKKE is the first of two games whose container is invented rather than read
+NIKKE is the first of three games whose container is invented rather than read
 off the wiki: it groups its chapters under nothing, so the report files them in
 volumes of ten and says so in its README.
 Reverse: 1999 is the counter-example: its chapters are numbered game-wide too,
@@ -169,6 +170,12 @@ campaign ends. It is also the one game whose entry numbers are not all whole -
 five campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5 - which
 `act_number()` reads as a float, and whose wiki is IOP Wiki rather than a
 Fandom one.
+Punishing: Gray Raven invents its volumes as NIKKE does, and is the game whose
+wiki documents the least: the chapter list stops at Chapter 20 and the
+numbering of Chapters 21 to 42 is reconstructed from the order its patch pages
+chain in, so its README says which numbers the wiki states and which it does
+not. It is also the game whose uploaders split a chapter hardest, which is why
+it carries a runtime floor as well as a long `partials.txt`.
 
 ### The prose must not contain hand-written numbers
 
