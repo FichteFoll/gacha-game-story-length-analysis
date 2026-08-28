@@ -514,9 +514,13 @@ and the build should either fail or correct itself.
   Label the two apart rather than calling them all approximate.
 - Chapter markers are worth more than any query tuning.
   Check for them before spending a session widening searches.
-- Keep the screening patterns word-bounded.
+- Keep the screening patterns word-bounded, the shared ones included.
   `arc` without one matches "Archon", and every "Full Archon Quest"
-  (one complete act) is thrown away as a compilation.
+  (one complete act) is thrown away as a compilation;
+  `lore` without one matched Loreley, a Girls' Frontline 2 campaign's own
+  character, and threw away every complete upload of two chapters.
+  A word that is a substring of a proper noun the game uses
+  is a rejection nothing in the per-report files can undo.
 - Say plainly what the numbers are:
   video runtime of someone else playing, as a proxy for act length.
   They are not official, they include the uploader's detours,

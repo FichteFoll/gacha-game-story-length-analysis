@@ -56,7 +56,7 @@ REJECT = re.compile(
     r"cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
-    r"theory|lore|tier list|\bamv\b|edit\b|montage|"
+    r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"
     r"\blive\b|livestream|\bstream\b|let'?s play|lets play|\U0001F534",
     re.I,
 )
@@ -99,7 +99,11 @@ ROMAN = {roman(n): n for n in range(1, 101)}
 
 def numerals(number):
     """`1|i`: how a title may write this act's number, roman numeral where there
-    is one. A game that opens on a Chapter 0 has no roman half."""
+    is one. A game that opens on a Chapter 0 has no roman half, and one that
+    numbers a chapter 6.5 has only the decimal, escaped so that the dot in it
+    matches a dot rather than any character."""
+    if isinstance(number, float):
+        return re.escape(f"{number:g}")
     return "|".join(filter(None, [str(number), roman(number).lower()]))
 
 TITLE_MATCH_RATIO = 0.6      # share of act-title words a video title must carry
@@ -300,11 +304,19 @@ def matches_act_title(video_title, act_title):
 
 
 def act_number(act_label):
-    """`Act IV - Prelude` -> 4, in roman or arabic, `Interlude` -> None."""
+    """`Act IV - Prelude` -> 4, in roman or arabic, `Interlude` -> None.
+
+    A decimal comes back as a float, because a game may number an entry between
+    two others: Girls' Frontline 2 files four of its story campaigns as Chapters
+    6.5, 6.7, 8.3 and 8.7, and without a number for them the title matching has
+    only their names to go on.
+    """
     numbered = act_label.split("-")[0].split()
     if not numbered:
         return None
     last = numbered[-1]
+    if re.fullmatch(r"\d+\.\d+", last):
+        return float(last)
     return int(last) if last.isdigit() else ROMAN.get(last.upper())
 
 

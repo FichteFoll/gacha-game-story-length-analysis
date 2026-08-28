@@ -80,8 +80,11 @@ def main(argv):
             "act_title": act["act_title"],
         }
         if number:
-            fields["act_number"] = number
-            fields["act_roman"] = roman(number)
+            fields["act_number"] = f"{number:g}"
+            # A decimal entry number has no roman numeral, so a template naming
+            # one is skipped for it rather than searched for as "Chapter VI.V".
+            if isinstance(number, int):
+                fields["act_roman"] = roman(number)
         if version:
             fields["version"] = version
             fields["number"] = details.get("number", version)
