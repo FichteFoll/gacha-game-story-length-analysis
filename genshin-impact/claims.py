@@ -4,7 +4,8 @@ The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, is_extreme, largest_chapter,
-                        median_between, rank_at_most, total_ratio_between)
+                        median_between, rank_at_most, sample_at_most,
+                        total_ratio_between)
 
 CLAIMS = [
     median_between("prologue", "Act I", 45, 75,
@@ -37,6 +38,10 @@ CLAIMS = [
                         "a running time comparable to Sumeru and Fontaine combined"),
     rank_at_most("sotwm", "Act I", 3, "Act I alone runs {len_Act_I}", scope="global"),
 
-    rank_at_most("ch7", "Act I", 10, "but both are long", scope="global"),
-    rank_at_most("ch7", "Act II", 10, "but both are long", scope="global"),
+    rank_at_most("ch7", "Act I", 10, "The 7.0 pair is long", scope="global"),
+    rank_at_most("ch7", "Act II", 10, "The 7.0 pair is long", scope="global"),
+    median_between("ch7", "Act III", 120, 210, "The 7.1 pair is markedly shorter"),
+    median_between("ch7", "Act IV", 120, 210, "The 7.1 pair is markedly shorter"),
+    sample_at_most("ch7", "Act IV", 7, "Act IV's pool is still too small "
+                   "to rate above low confidence"),
 ]

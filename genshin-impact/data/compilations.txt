@@ -1,2 +1,3 @@
 full (mondstadt|liyue|inazuma|sumeru|fontaine|natlan|nod ?-? ?krai|snezhnaya)( archon)? quest
 \bending \+
+upon waking,? &

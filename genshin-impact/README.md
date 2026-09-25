@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->112 h 34 min<!--/f-->** (<!--f:n_report_entries-->45<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->521<!--/f--> accepted uploads out of <!--f:n_candidates-->768<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->118 h 17 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->538<!--/f--> accepted uploads out of <!--f:n_candidates-->905<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -19,7 +19,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 16 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
 | Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 28 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
 | Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 33 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
-| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 | 2 | 8 h 26 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
+| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 - 7.1 | 4 | 14 h 09 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
