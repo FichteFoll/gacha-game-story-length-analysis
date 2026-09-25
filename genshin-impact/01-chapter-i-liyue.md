@@ -59,7 +59,7 @@ and the Traveler flees the Millelith as the prime suspect.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 33 min | Genshin Impact \| Chapter I: Act I \| Of the Land Amidst Monoliths \| Part I | Marlon Rex Ladao | ~55 | n/a | <https://www.youtube.com/watch?v=pU35GyF_Jrw> |
+| 33 min | Genshin Impact \| Chapter I: Act I \| Of the Land Amidst Monoliths \| Part I | Marlon Rex Ladao | 55 | 2021-04-14 | <https://www.youtube.com/watch?v=pU35GyF_Jrw> |
 | 59 min | Full Liyue Archon Quest - Genshin Impact | Fayato | 154,623 | 2024-06-09 | <https://www.youtube.com/watch?v=13mE3pqg_kQ> |
 | 1 h 02 min | Archon Quest Chapter 1 Act 1 Of The Land Amidst Monoliths Genshin Impact Gameplay Walkthrough | Diary James | 382 | 2021-09-16 | <https://www.youtube.com/watch?v=lzA-l1po33U> |
 | 1 h 04 min | Genshin Impact Archon Quest: Of the Land Amidst Monoliths | Koenigin Yu  | 7,442 | 2020-11-10 | <https://www.youtube.com/watch?v=ekxF98KR5aM> |
@@ -210,12 +210,12 @@ where the sibling is revealed as its leader.
 | 52 min | [Genshin Impact] Chapter I Act IV: We Will Be Reunited - Full Quest, CN Dub, No Commentary | Des | 163 | 2021-04-12 | <https://www.youtube.com/watch?v=5g9opsmVAVg> |
 | 54 min | Dainsleif and Traveler Quests \| We Will Be Reunited Full Story \| Genshin Impact | Rubieco | 658 | 2023-02-25 | <https://www.youtube.com/watch?v=l8-fENq1dE8> |
 | 1 h 00 min | Genshin Impact - Chapter I : Act IV  - We Will Be Reunited - No Commentary (Full Story Quest) | Yvesia | 54 | 2021-04-12 | <https://www.youtube.com/watch?v=Y3I44JQyD_4> |
-| 1 h 11 min | Archon Quest Chapter I: Act IV - We Will Be Reunited \| Genshin Impact | LyurGG | ~387,978 | n/a | <https://www.youtube.com/watch?v=s8w315lKlQQ> |
+| 1 h 11 min | Archon Quest Chapter I: Act IV - We Will Be Reunited \| Genshin Impact | LyurGG | 388,426 | 2021-04-11 | <https://www.youtube.com/watch?v=s8w315lKlQQ> |
 | 1 h 11 min | Chapter I Act IV We Will Be Reunited (No Commentary) [Genshin Impact] | Uqoj | ~27 | n/a | <https://www.youtube.com/watch?v=yDnLzOiEn90> |
 | 1 h 12 min | We Will Be Reunited Full Story \| Archon Quest Chapter I: Act IV \| Genshin Impact | Noxxis Gaming | 103,271 | 2021-04-11 | <https://www.youtube.com/watch?v=VLrbVYTr7eA> |
 | 1 h 14 min | We will be Reunited (CHAPTER I : ACT IV) walkthrough(no commentary) | Kuro Ayako | ~195 | n/a | <https://www.youtube.com/watch?v=lRFKY5QIiSg> |
 | 1 h 22 min | Archon Quest Chapter I: Act IV - We Will Be Reunited Full Gameplay - GENSHIN IMPACT Gameplay | That Cool Gamer Dad | 30 | 2021-04-12 | <https://www.youtube.com/watch?v=sqIYChR3bug> |
-| 1 h 27 min | Genshin Impact Walkthrough Part 395 - Chapter I: Act IV - We Will Be Reunited (No Commentary) | MG PlayX | ~457 | n/a | <https://www.youtube.com/watch?v=r9JWhgMchCo> |
+| 1 h 27 min | Genshin Impact Walkthrough Part 395 - Chapter I: Act IV - We Will Be Reunited (No Commentary) | MG PlayX | 487 | 2021-10-02 | <https://www.youtube.com/watch?v=r9JWhgMchCo> |
 | 1 h 28 min | Genshin Impact: We Will Be Reunited Full Story Quest & iOS/Android Gameplay Walkthrough Part 232 | App Unwrapper | 978 | 2021-04-12 | <https://www.youtube.com/watch?v=PKAGKB6K0JE> |
 
 </details>

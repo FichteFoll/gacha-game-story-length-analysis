@@ -143,7 +143,7 @@ One of the three shortest entries in the questline.
 | 43 min | Genshin Impact - FULL GAME [No Commentary] CH2 ACT II: Stillness, the Sublimation of Shadow PART 7 | SilentPixie Gaming | 26 | 2026-01-05 | <https://www.youtube.com/watch?v=kHGgS57zdjE> |
 | 45 min | Inazuma Archon Quest Chapter II, Act II: Stillness, the Sublimation of Shadow (Genshin Impact) | Drunk Cocogoat | 165 | 2021-07-26 | <https://www.youtube.com/watch?v=8KlKG5abhVg> |
 | 45 min | Genshin Impact #38: Stillness, the Sublimation of Shadow [No Commentary Gameplay] | Maîtrise | 1,378 | 2021-07-22 | <https://www.youtube.com/watch?v=mz-QWauKIfw> |
-| 47 min | Stillness the Sublimation of Shadow Genshin Impact | ZaFrostPet | ~10,403 | n/a | <https://www.youtube.com/watch?v=ozWvYCwTe_g> |
+| 47 min | Stillness the Sublimation of Shadow Genshin Impact | ZaFrostPet | 10,505 | 2021-07-25 | <https://www.youtube.com/watch?v=ozWvYCwTe_g> |
 | 48 min | To the Resistance! [Stillness, the Sublimation of Shadow Archon Quest] \| Genshin Impact [2.0 Update] | Twigzzy16 | 63 | 2021-08-03 | <https://www.youtube.com/watch?v=6YfD2CqseQI> |
 | 50 min | Stillness, the Sublimation of Shadow — Archon Quest Chapter II: Act II \| Genshin Impac | Mr. Trajet | 883 | 2021-08-03 | <https://www.youtube.com/watch?v=O0FL7uUCZ3s> |
 | 54 min | Chapter II: Act II - "Stillness, the Sublimation of Shadow" (Walkthrough) \| Genshin Impact | LegendSpell | 409 | 2021-07-22 | <https://www.youtube.com/watch?v=feK2Gj3BnTE> |

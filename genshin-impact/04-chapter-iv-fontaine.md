@@ -64,7 +64,7 @@ and an opera-house trial over the stolen Hydro Gnosis.
 | 3 h 04 min | Genshin Impact - Fontaine Archon Quest Act 1 (4.0) \| Full Story Walkthrough (No Commentary) | Elrinell Gaming | 23 | 2026-02-18 | <https://www.youtube.com/watch?v=JGPzG7RWyok> |
 | 3 h 17 min | Genshin Impact 4.0 Archon Quest - Fontaine Act 1 Full (Lumine) | AliCeline  アリセリン | ~5,168 | n/a | <https://www.youtube.com/watch?v=ukfL1DwGhwY> |
 | 3 h 24 min | Prelude of Blancheur and Noirceur Chapter 4 Act 1 Archon Quest Genshin Impact | WoW Quests | 8,542 | 2023-08-16 | <https://www.youtube.com/watch?v=WtUuTcqNnHU> |
-| 3 h 30 min | Archon Quest Chapter IV: Act I Full Story HD \| Prelude Of Blancheur & Noirceur \| Genshin Impact 4.0 | Noxxis Gaming | ~50,646 | n/a | <https://www.youtube.com/watch?v=vpKsmx-vOR8> |
+| 3 h 30 min | Archon Quest Chapter IV: Act I Full Story HD \| Prelude Of Blancheur & Noirceur \| Genshin Impact 4.0 | Noxxis Gaming | 51,217 | 2023-08-16 | <https://www.youtube.com/watch?v=vpKsmx-vOR8> |
 | 3 h 35 min | Full Fontaine Archon Quest - Genshin Impact | Fayato | 669,227 | 2023-11-09 | <https://www.youtube.com/watch?v=fyJbgnbOh2g> |
 | 3 h 50 min | 🎬 Fontaine Act I - Prelude of Blancheur and Noirceur \| Genshin Impact 4.0 (No Commentary) | mimo.mp4 | 15 | 2023-09-12 | <https://www.youtube.com/watch?v=bCuJjF9cZ-g> |
 | 3 h 51 min | Genshin Impact - Fontaine Archon Quest: Act 1 [Full Playthrough - No Commentary] | Pyrogeist | 61 | 2023-09-13 | <https://www.youtube.com/watch?v=WGAG3GPugyw> |
@@ -256,7 +256,7 @@ that turns into memories that should not exist.
 | 1 h 18 min | 4.7 Archon Quest: Chapter IV: Act VI \| Bedtime Story \| Genshin Impact \| D & K | D & K | 12 | 2024-06-06 | <https://www.youtube.com/watch?v=AHXjM85B0to> |
 | 1 h 19 min | Bedtime story Archon quest Chapter 4 Act 6 \| English Dub No Commentary \| Genshin Impact | Average Genshin Player | 169 | 2024-06-05 | <https://www.youtube.com/watch?v=gRFiUuMWDzU> |
 | 1 h 21 min | Genshin Impact - Archon Quest Chapter 4 - Act 6: Bedtime Story - Full Story \| Momizy Gaming | Momizy Gaming | 13 | 2025-12-29 | <https://www.youtube.com/watch?v=bKYVcCK5G-E> |
-| 1 h 23 min | [ Bedtime Story ] Chapter IV Act VI (ARCHON QUEST - No Commentary, ENG DUB: Genshin impact) | Rem Villiers | ~245 | n/a | <https://www.youtube.com/watch?v=omDZLCYZ-rA> |
+| 1 h 23 min | [ Bedtime Story ] Chapter IV Act VI (ARCHON QUEST - No Commentary, ENG DUB: Genshin impact) | Rem Villiers | 251 | 2024-06-05 | <https://www.youtube.com/watch?v=omDZLCYZ-rA> |
 | 1 h 26 min | Bedtime Story 【Chapter IV: Act VI】 Archon Quest \| Genshin Impact (JP Dub) | Yui Neko Ch. | 15 | 2024-08-14 | <https://www.youtube.com/watch?v=-REH74XOGVs> |
 
 </details>

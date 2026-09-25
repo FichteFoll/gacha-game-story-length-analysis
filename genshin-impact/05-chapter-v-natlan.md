@@ -262,7 +262,7 @@ and the price already paid for the Ode of Resurrection.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 03 min | Genshin Impact Ch V act V - Incandescent Ode of Resurrection Part 2 (No Commentary) | Gaming_Dino | ~2 | n/a | <https://www.youtube.com/watch?v=sBUuEfWT8WI> |
+| 2 h 03 min | Genshin Impact Ch V act V - Incandescent Ode of Resurrection Part 2 (No Commentary) | Gaming_Dino | 2 | 2025-03-28 | <https://www.youtube.com/watch?v=sBUuEfWT8WI> |
 | 2 h 56 min | Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT V: Incandescent Ode of Resurrection PART 27 | SilentPixie Gaming | 18 | 2026-01-17 | <https://www.youtube.com/watch?v=g04PdnvPZv0> |
 | 3 h 12 min | Incandescent Ode of Resurrection - Chapter V: Act V (Full Story Quest) - Genshin Impact 5.3 | Sir Patty | 40 | 2025-01-06 | <https://www.youtube.com/watch?v=87JJ-Wtv2Qc> |
 | 3 h 30 min | Natlan Archon Quest Act 5 Full Story HD \| Incandescent Ode Of Resurrection \| Genshin Impact 5.3 | Noxxis Gaming | 15,384 | 2025-01-01 | <https://www.youtube.com/watch?v=82Q_oSbZ0U4> |
