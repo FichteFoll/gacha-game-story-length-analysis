@@ -36,8 +36,9 @@ By far the largest chapter: <!--f:n_entries-->eleven<!--/f--> entries,
 and a running time of <!--f:total-->35 h 33 min<!--/f-->,
 comparable to Sumeru and Fontaine combined.
 Act I alone runs <!--f:len_Act_I-->4 h 43 min<!--/f-->.
-The later acts are also the most recent content sampled,
-so their evidence pools are the thinnest and their spreads the widest.
+Although the later acts are also the most recent content sampled,
+every act already rests on enough uploads
+to be published with its middle half.
 
 ## Acts
 

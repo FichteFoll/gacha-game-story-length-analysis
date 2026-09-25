@@ -13,6 +13,7 @@ Vocabulary:
     rank_at_most(chapter, act, k, scope)  this act is among the k longest
     sample_at_most(chapter, act, n)       this act rests on n uploads or fewer
     sample_at_least(chapter, act, n)      this act rests on n uploads or more
+    every_sample_at_least(chapter, n)     every entry rests on n uploads or more
     is_extreme(chapter, act, end, scope)  this act is the longest/shortest
     total_ratio_between(chapter, others, lo, hi)
                                           chapter total over the others' combined
@@ -89,6 +90,17 @@ def sample_at_least(chapter, act_label, n, quote):
         got = _act(index, chapter, act_label)["stats"]["n"]
         return got >= n, f"{act_label} rests on {got} uploads, expected {n} or more"
     return Claim(quote, f"{chapter} {act_label}: at least {n} uploads", check)
+
+
+def every_sample_at_least(chapter, n, quote):
+    """The companion to sample_at_most, for prose that says a whole chapter's
+    pools are no longer thin: one upload rejected on a re-harvest can undo it."""
+    def check(index):
+        thinnest = min(index[chapter], key=lambda a: a["stats"]["n"])
+        got = thinnest["stats"]["n"]
+        return got >= n, \
+            f"{thinnest['act_label']} rests on {got} uploads, expected {n} or more"
+    return Claim(quote, f"{chapter}: every entry on {n}+ uploads", check)
 
 
 def rank_at_most(chapter, act_label, k, quote, scope="global"):
