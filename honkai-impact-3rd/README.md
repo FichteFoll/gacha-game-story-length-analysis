@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 59 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->575<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->149 h 58 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->574<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -29,7 +29,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 19 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
 | A Shore Under Watch | Part 2 | 7.7 | 1 | 3 h 10 min | [16-a-shore-under-watch.md](16-a-shore-under-watch.md) |
 | Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 29 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
-| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 25 h 13 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
+| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 25 h 12 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -37,7 +37,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
-| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 04 min |
+| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 03 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
 | longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 24 min |
@@ -91,6 +91,9 @@ the complete uploads are the minority.
 instalments and reuse the title verbatim for each of them.
 Where an uploader has more than one video under one title for a chapter,
 the set is read as a split.
+One channel instead gives each instalment a subtitle of its own,
+which no wording catches,
+so its instalments of the newest chapter are screened out by name.
 - **Clips:** the pool carries a great many highlight clips
 that name the chapter, say nothing about their scope and run a few minutes.
 No wording catches them, so this report sets a runtime floor

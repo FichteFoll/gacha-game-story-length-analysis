@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Future We Embrace
 
-**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 25 h 13 min**
+**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 25 h 12 min**
 <!--/gen-->
 
 The most recent stretch of the story, and still being added to.
@@ -19,21 +19,21 @@ and Dreamseeker and Vita head back to Difeng to stop the Great Wipe.
 | Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 5 | low |
 | Chapter XII | With You, Whom I Never Knew | 4 h 19 min | 3 h 37 min - 4 h 29 min | 17 | high |
 | Chapter XIII | A Rose in a Curtsy | 3 h 59 min | 3 h 47 min - 4 h 11 min | 15 | high |
-| Chapter XIV | The Future We Embrace | 6 h 04 min | 5 h 19 min - 7 h 06 min | 11 | medium |
+| Chapter XIV | The Future We Embrace | 6 h 03 min | 5 h 18 min - 7 h 00 min | 10 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->25 h 13 min<!--/f-->**
+**Total: <!--f:total-->25 h 12 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->25 h 13 min<!--/f-->,
+<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->25 h 12 min<!--/f-->,
 the newest arc in the report and the last one it covers,
 and all but level with *Dawn after the Remaining Old Wish* as the largest.
 Four of its entries sit within half an hour of each other
 and the EX chapter sits well below them at
 <!--f:len_Chapter_EX_4-->2 h 27 min<!--/f-->.
 Chapter XIV runs past all of them, and past every other entry in the game,
-at <!--f:len_Chapter_XIV-->6 h 04 min<!--/f-->.
+at <!--f:len_Chapter_XIV-->6 h 03 min<!--/f-->.
 Coverage is good: these chapters shipped recently enough
 that whole-chapter uploads are the normal thing to publish,
 and most of the entries here carry a middle half.
@@ -234,8 +234,8 @@ are screened out for not naming the act.
 <!--gen:stats act="Chapter XIV"-->
 The single longest chapter in the game.
 
-- **Estimated length:** 6 h 04 min
-- **Sampled range:** 5 h 19 min to 7 h 06 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 11 playthrough uploads (51 further candidates screened out)
+- **Estimated length:** 6 h 03 min
+- **Sampled range:** 5 h 18 min to 7 h 00 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 10 playthrough uploads (52 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 9.0
 <!--/gen-->
@@ -254,7 +254,6 @@ The single longest chapter in the game.
 | 6 h 04 min | Honkai Impact 3rd Part 2 – Chapter 14 The Future We Embrace | Jirangu | 603 | 2026-09-04 | <https://www.youtube.com/watch?v=KV2Yd6K5KRo> |
 | 6 h 33 min | [Main Story Part 2 Chapter 14] The Future We Embrace \| Honkai Impact 3rd 9.0 | KNCPG | 181 | 2026-09-04 | <https://www.youtube.com/watch?v=aJjcycy6bWU> |
 | 6 h 56 min | [CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace | LoreBugCarv | ~3,444 | n/a | <https://www.youtube.com/watch?v=C9vHbT8pkoY> |
-| 7 h 06 min | Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Chase Trick The Rules! | Glythic Mirror | 150 | 2026-09-11 | <https://www.youtube.com/watch?v=_qGJHRE1o3w> |
 | 7 h 14 min | The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins! | Rainbow Beefkins | ~55 | n/a | <https://www.youtube.com/watch?v=kUEpJrrl0FE> |
 | 7 h 47 min | Honkai Impact 3rd - 9.0 Story - The Future We Embrace | Kurib | 100 | 2026-09-07 | <https://www.youtube.com/watch?v=K9j4JtHKDlI> |
 

@@ -35611,7 +35611,9 @@
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=_qGJHRE1o3w",
     "views": 150,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260911"
    },
    {
@@ -35897,7 +35899,7 @@
     "url": "https://www.youtube.com/watch?v=ec73_qDzpOw",
     "views": "178",
     "rejected": [
-     "same-uploader"
+     "fragment"
     ]
    },
    {
@@ -36098,15 +36100,6 @@
     "rejected": []
    },
    {
-    "seconds": 25589,
-    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Chase Trick The Rules!",
-    "uploader": "Glythic Mirror",
-    "url": "https://www.youtube.com/watch?v=_qGJHRE1o3w",
-    "views": 150,
-    "rejected": [],
-    "upload_date": "20260911"
-   },
-   {
     "seconds": 26033,
     "title": "The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins!",
     "uploader": "Rainbow Beefkins",
@@ -36125,13 +36118,13 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 364,
+   "n": 10,
+   "median": 363,
    "low": 288,
    "high": 467,
-   "q1": 319,
-   "q3": 426,
-   "trimmed_mean": 376,
+   "q1": 318,
+   "q3": 420,
+   "trimmed_mean": 370,
    "measured": 0,
    "parts": {},
    "drift": null
