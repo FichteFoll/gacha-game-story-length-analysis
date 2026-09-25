@@ -11,6 +11,9 @@
  "aric|Chapter XIII": [
   "^(?!.*\\bex\\b)"
  ],
+ "aric|Chapter XIV": [
+  "^(?!.*\\bex\\b)"
+ ],
  "asuw|Chapter IV": [
   "^(?!.*\\bex\\b)"
  ],

@@ -28,12 +28,14 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 
 ## Pacing
 
-By a distance the largest arc in the report:
+The largest arc in the report,
+if only just ahead of the arc that follows it:
 <!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 29 min<!--/f-->,
 which is more than the whole of Part 1's first six arcs put together.
 <!--f:n_above_3h-->six<!--/f--> of its entries run past three hours,
-and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is the longest entry in the game
-at <!--f:longest_len-->5 h 37 min<!--/f-->.
+and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is its longest entry
+at <!--f:longest_len-->5 h 37 min<!--/f-->,
+and the second longest in the game, behind only *The Future We Embrace*.
 The two EX chapters are the light relief,
 and *To None May God Pray* is the only entry in the arc under two hours.
 Coverage is good throughout:
@@ -215,10 +217,10 @@ The long road, and the sky at the end of it.
 ### Chapter IX - [If Destiny Concludes Today](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_IX)
 <!--/gen-->
 
-The longest thing in the game, and covered well enough all the same
+The longest thing in the game until *The Future We Embrace*, and covered well enough all the same
 to carry a middle half rather than a bare minimum and maximum.
 <!--gen:stats act="Chapter IX"-->
-The single longest chapter in the game.
+One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 37 min
 - **Sampled range:** 5 h 16 min to 6 h 03 min for the middle half (full spread 4 h 30 min to 7 h 43 min) across 10 playthrough uploads (34 further candidates screened out)

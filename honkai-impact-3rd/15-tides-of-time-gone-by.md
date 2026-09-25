@@ -71,7 +71,6 @@ in Part 2, so very little of what was harvested measures the whole of it.
 
 The seven Shus, and the maze they are caught in.
 <!--gen:stats act="Chapter II"-->
-One of the three longest chapters in the game.
 
 - **Estimated length:** 4 h 39 min
 - **Sampled range:** 2 h 16 min to 6 h 10 min across 5 playthrough uploads (38 further candidates screened out)

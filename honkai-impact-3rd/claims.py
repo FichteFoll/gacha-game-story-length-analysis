@@ -123,14 +123,22 @@ CLAIMS = [
     sample_at_most("ttgb", "Chapter III", 7,
                    "the three numbered chapters are thin"),
 
-    largest_chapter("datrow", "By a distance the largest arc in the report"),
+    largest_chapter("datrow", "The largest arc in the report"),
+    total_ratio_between("datrow", ["aric"], 1.0, 1.1,
+                        "if only just ahead of the arc that follows it"),
     total_ratio_between("datrow",
                         ["wdb", "teod", "utfs", "ftdo", "shooting_star", "ety"],
                         1.0, 3.0,
                         "which is more than the whole of Part 1's first six "
                         "arcs put together"),
     is_extreme("datrow", "Chapter IX", "max",
-               "is the longest entry in the game", scope="global"),
+               "is its longest entry"),
+    rank_at_most("datrow", "Chapter IX", 2,
+                 "and the second longest in the game, "
+                 "behind only *The Future We Embrace*", scope="global"),
+    is_extreme("aric", "Chapter XIV", "max",
+               "and the second longest in the game, "
+               "behind only *The Future We Embrace*", scope="global"),
     median_between("datrow", "Chapter EX-2", 5, 119,
                    "*To None May God Pray* is the only entry in the arc "
                    "under two hours"),
@@ -141,8 +149,11 @@ CLAIMS = [
                    "The arc's closing interlude, "
                    "and the longer of its two EX chapters"),
 
-    is_extreme("aric", "Chapter XI", "max",
-               "A mass for atheists, and the largest entry in the arc"),
+    rank_at_most("aric", "Chapter XI", 2,
+                 "A mass for atheists, and the second largest entry in the arc",
+                 scope="chapter"),
+    is_extreme("aric", "Chapter XIV", "max",
+               "A mass for atheists, and the second largest entry in the arc"),
     median_between("aric", "Chapter X", 225, 275,
                    "Four of its entries sit within half an hour of each other"),
     median_between("aric", "Chapter XI", 225, 275,
@@ -151,8 +162,17 @@ CLAIMS = [
                    "Four of its entries sit within half an hour of each other"),
     median_between("aric", "Chapter XIII", 225, 275,
                    "Four of its entries sit within half an hour of each other"),
+    largest_chapter("datrow",
+                    "and all but level with *Dawn after the Remaining Old Wish* "
+                    "as the largest"),
+    total_ratio_between("datrow", ["aric"], 1.0, 1.1,
+                        "and all but level with *Dawn after the Remaining Old "
+                        "Wish* as the largest"),
     median_between("aric", "Chapter EX-4", 5, 179,
                    "and the only entry here under three hours"),
-    count_above("aric", 180, 4,
+    count_above("aric", 180, 5,
                 "and the only entry here under three hours"),
+    is_extreme("aric", "Chapter XIV", "max",
+               "Chapter XIV runs past all of them, "
+               "and past every other entry in the game", scope="global"),
 ]

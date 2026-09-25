@@ -16,3 +16,4 @@
 \bparts? ?#\s?\d+
 \bparts? ?(?:[3-9]|\d\d+)(?!\.\d)\b
 \bparts? (?:three|four|five|six|seven|eight)\b
+!\bfinale *(?:parts? ?\d+\b|\(end\))
