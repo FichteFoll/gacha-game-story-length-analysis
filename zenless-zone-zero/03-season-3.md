@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 3
 
-**Region:** Roscaelifer | **Game versions:** 3.0 - 3.1 | **Entries:** 2 | **Estimated chapter length: 9 h 00 min**
+**Region:** Roscaelifer | **Game versions:** 3.0 - 3.2 | **Entries:** 3 | **Estimated chapter length: 12 h 17 min**
 <!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
@@ -16,16 +16,20 @@ that nobody is quite awake to hear.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 1 | A Sleepwalker's Confession | 4 h 32 min | 4 h 16 min - 4 h 59 min | 17 | high |
 | Chapter 2 | The Long Goodbye | 4 h 28 min | 4 h 12 min - 4 h 40 min | 25 | high |
+| Chapter 3 | Their Secret Histories | 3 h 17 min | 3 h 09 min - 3 h 34 min | 18 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->9 h 00 min<!--/f-->**
+**Total: <!--f:total-->12 h 17 min<!--/f-->**
 
 ## Pacing
 
-Still being released: <!--f:n_entries-->two<!--/f--> chapters so far,
-<!--f:total-->9 h 00 min<!--/f--> between them, at <!--f:len_Chapter_1-->4 h 32 min<!--/f--> and <!--f:len_Chapter_2-->4 h 28 min<!--/f-->.
-Both were written at the Season 2 scale rather than the Season 1 one,
-and both are recent enough
+Still being released: <!--f:n_entries-->three<!--/f--> chapters so far,
+<!--f:total-->12 h 17 min<!--/f--> between them.
+The first two, at <!--f:len_Chapter_1-->4 h 32 min<!--/f--> and <!--f:len_Chapter_2-->4 h 28 min<!--/f-->,
+were written at the Season 2 scale rather than the Season 1 one.
+*Their Secret Histories* is the shortest of the three at <!--f:len_Chapter_3-->3 h 17 min<!--/f-->,
+told in <!--f:parts_Chapter_3-->six<!--/f--> quest parts.
+All three are recent enough
 that their evidence pools have had the least time to settle.
 
 ## Chapters
@@ -127,6 +131,53 @@ and a game that was checkmated before it began.
 | 4 h 43 min | Zenless Zone Zero Season 3  Main Quest - The Long Goodbye Full Walktrough | Just_MieWalktrough | 271 | 2026-08-14 | <https://www.youtube.com/watch?v=kYl3CNlRu_E> |
 | 4 h 45 min | Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye | Gbs Playz | 50 | 2026-07-31 | <https://www.youtube.com/watch?v=5J5FBQEL1YQ> |
 | 4 h 46 min | Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye | Life is Wakaranai | 43 | 2026-07-30 | <https://www.youtube.com/watch?v=qvgndQ5dPGM> |
+
+</details>
+<!--/gen-->
+
+<!--gen:act-heading act="Chapter 3"-->
+### Chapter 3 - [Their Secret Histories](https://zenless-zone-zero.fandom.com/wiki/Their_Secret_Histories)
+<!--/gen-->
+
+Miracles never appear alone,
+and they come with soaring birds and the bright dawn.
+A new invitation to the homeland of Porcelloy,
+a shrouded reef, a messenger in the mist,
+and the truth buried beneath the ground.
+<!--gen:stats act="Chapter 3"-->
+
+- **Estimated length:** 3 h 17 min
+- **Sampled range:** 3 h 09 min to 3 h 34 min for the middle half (full spread 2 h 07 min to 4 h 06 min) across 18 playthrough uploads (17 further candidates screened out)
+- **Confidence:** high
+- **Released in:** 3.2
+- **Measured from the uploader's chapter markers:** 1 of 18 uploads
+- **Quest parts (6):** Ready to Roll; The Homeland of Porcelloy; Shrouded Reef Mystery; Messenger in the Mist; The Truth Buried Beneath the Ground; The Storm Has Yet to Settle
+<!--/gen-->
+
+<!--gen:evidence act="Chapter 3"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 07 min | Zenless Zone Zero 3.2 Full Main Story Quest \| Their Secret Histories \| Full Story Gameplay | ShekharVerse | 81 | 2026-09-09 | <https://www.youtube.com/watch?v=5729B3ZMG9w> |
+| 3 h 04 min | The Complete ZZZ 3.2 Story Walkthrough (Their Secret Histories) | Suit Wearing Thug | 18 | 2026-09-09 | <https://www.youtube.com/watch?v=9JPSrQkU7-c> |
+| 3 h 07 min | Their Secret histories - Season 3: Chapter 3 (Full Story) \| Zenless Zone Zero 3.2 | Sir Patty | 43 | 2026-09-09 | <https://www.youtube.com/watch?v=HbqPuYXAfwo> |
+| 3 h 09 min | Zenles Zone Zero Ver 3.2 Main Story Quest Chapter 3 ''Their Secret Histories'' (Full Playthrough) | one  | 6 | 2026-09-11 | <https://www.youtube.com/watch?v=AH0dTI2yGWw> |
+| 3 h 10 min | Zenless Zone Zero 3.2 - Full Main Story Quest Walkthrough (Belle POV) Their Secret Histories | Ryo | 799 | 2026-09-09 | <https://www.youtube.com/watch?v=tIDIJy74PsY> |
+| 3 h 10 min | Zenless Zone Zero 3.2 Story: Their Secret Histories [Full Cinematic Playthrough No Commentary] | Azphel Kami | 7 | 2026-09-09 | <https://www.youtube.com/watch?v=W7uS4ZclAfo> |
+| 3 h 12 min | Zenless Zone Zero Version 3.2 Main Story Quest (Full Playthrough) Their Secret Histories | Streetwise Rhapsody | 57,090 | 2026-09-09 | <https://www.youtube.com/watch?v=NPIiRDVfUZw> |
+| 3 h 15 min | Version 3.2 "Their Secret Histories" Main Story - Full Playthrough (Zenless Zone Zero 3.2) | Abyss Breakdown | 6,027 | 2026-09-09 | <https://www.youtube.com/watch?v=Vc7igLLf5W0> |
+| 3 h 16 min | Zenless Zone Zero 3.2 \| Full Story Walkthrough & Boss Fight (Their Secret Histories) | Arie seventline | 165 | 2026-09-09 | <https://www.youtube.com/watch?v=OMVoTUeoLRc> |
+| 3 h 17 min | FULL Season 3 - Chapter 3: "Their Secret Histories" \| Zenless Zone Zero v3.2 | T.H Bunn | 18 | 2026-09-09 | <https://www.youtube.com/watch?v=Yi3sPNbEhgM> |
+| 3 h 18 min | Zenless Zone Zero 3.2 — Their Secret Histories (Full Main Story Quest) | BSS Gaming | 203 | 2026-09-09 | <https://www.youtube.com/watch?v=ERb9wDISm1k> |
+| 3 h 20 min | This Version Was Something Else... \| Zenless Zone Zero FULL 3.2 Story Quest "Their Secret Histories" | DonnyVick | 8,651 | 2026-09-12 | <https://www.youtube.com/watch?v=q0_LA75I23A> |
+| 3 h 31 min | Zenless Zone Zero (PC) 3.2 \| Their Secret Histories \| FULL STORY -WALKTHROUGH | Cipher | 79 | 2026-09-18 | <https://www.youtube.com/watch?v=dC4uPpQfbp8> |
+| 3 h 34 min | Zenless Zone Zero Version 3.2 Their Secret Histories Main Story FULL Walkthrough no commentary. | AdamSmashed | 17 | 2026-09-12 | <https://www.youtube.com/watch?v=IqR20yP9a_Q> |
+| 3 h 37 min | Zenless Zone Zero Version 3.2: Their Secret Histories Full Quest Walkthrough \| 4K No Commentary | GamersPrey | 1,125 | 2026-09-10 | <https://www.youtube.com/watch?v=p8cMJPvAwMg> |
+| 3 h 49 min | ZZZ 3.2 Full Story Quest: S3 Chapter 3 Walkthrough [JP Voice] | ViGAMES | 659 | 2026-09-10 | <https://www.youtube.com/watch?v=3jp6O4G7EHQ> |
+| 3 h 57 min | The REVEALS in this chapter?! ✧ Their Secret Histories ✦ Zenless Zone Zero 3.2 | Eve_ningMusic | 8,723 | 2026-09-18 | <https://www.youtube.com/watch?v=KREeV_v2v_4> |
+| 4 h 06 min | Their Secret Histories, 3.2 Main Story Questline - Zenless Zone Zero 4K | Grateful Gaming 4K | 14 | 2026-09-11 | <https://www.youtube.com/watch?v=Uf-BFP-lUaE> |
 
 </details>
 <!--/gen-->
