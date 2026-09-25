@@ -108,7 +108,7 @@ Batch the per-act pages rather than fetching them one at a time,
 up to 50 titles per request:
 
 ```bash
-curl -sS -A 'Mozilla/5.0' -G 'https://<wiki>.fandom.com/api.php' \
+curl -sS -A 'Mozilla/5.0 (X11; Linux x86_64)' -G 'https://<wiki>.fandom.com/api.php' \
   --data-urlencode action=query --data-urlencode prop=revisions \
   --data-urlencode rvprop=content --data-urlencode rvslots=main \
   --data-urlencode format=json --data-urlencode 'titles=Act One|Act Two|...'
@@ -355,6 +355,12 @@ Discard, by title:
   the marker-measured one, which is bounded by the act
   rather than by where the upload starts and stops,
   and between two of a kind the shorter one.
+  That keeps a split where one playthrough is spread across videos
+  with no "part" wording and no one repeated title:
+  both rows name the act, and the shorter one is only a piece of it.
+  Nothing catches that automatically;
+  add a `!` pattern for that uploader's titles to `partials.txt`,
+  as Reverse: 1999 does.
 
 Then drop anything below half or above 1.8 times the median as truncated or padded.
 
@@ -403,6 +409,11 @@ printf 'sotwm_Act_V|<region> Archon Quest Act 5 <act title> full playthrough\n' 
 Keep the analysis from before the top-up and pass it to `--compare`:
 a median that moves by more than 10 percent was never settled,
 and that is a measurement rather than a judgement call.
+
+Content only days old may have no complete upload yet at all,
+only splits and first-day streams.
+Whatever survives screening is then a floor rather than an estimate,
+and the prose has to say so.
 
 ## Step 7: audit before writing
 
@@ -538,6 +549,11 @@ and the build should either fail or correct itself.
   character, and threw away every complete upload of two chapters.
   A word that is a substring of a proper noun the game uses
   is a rejection nothing in the per-report files can undo.
+- wiki.gg answers a bare `Mozilla/5.0` user agent with a "Blocked - wiki.gg"
+  page; send the full `Mozilla/5.0 (X11; Linux x86_64)` that `fetch_versions.py` does.
+- Screening reads titles only, never the channel name.
+  An uploader whose channel says "VODS" and whose titles do not
+  passes as a playthrough; catch it by its titles or not at all.
 - Say plainly what the numbers are:
   video runtime of someone else playing, as a proxy for act length.
   They are not official, they include the uploader's detours,

@@ -273,7 +273,7 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   tabber, and stops there. Everything after Chapter 20 has to be read off the
   patch pages in `Category:Content Updates`, which announce each release's new
   chapter in prose and give its number only sometimes (Chapters 31, 32 and 34
-  to 42). `Template:Event Top Nav` is the one page that chains the patches in
+  to 43). `Template:Event Top Nav` is the one page that chains the patches in
   order, and counting the main story releases along that chain closes exactly
   on the numbers the prose does state, which is how Chapters 21 to 30 and 33
   are numbered here; the upload titles agree chapter by chapter. Two traps in
