@@ -4,7 +4,7 @@ Duration estimates for every entry of the Main Quest storyline,
 from the Huanglong prologue to Mengzhou,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->86 h 05 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->648<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->86 h 47 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->681<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -13,10 +13,10 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Prologue: Utterance of Marvels | Huanglong | 1.0 | 2 | 51 min | [00-prologue.md](00-prologue.md) |
-| Chapter I: Jinzhou Rising | Huanglong, later the Black Shores | 1.0 - 1.3 | 9 | 11 h 38 min | [01-chapter-i-jinzhou.md](01-chapter-i-jinzhou.md) |
-| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 36 h 27 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
+| Chapter I: Jinzhou Rising | Huanglong, later the Black Shores | 1.0 - 1.3 | 9 | 11 h 39 min | [01-chapter-i-jinzhou.md](01-chapter-i-jinzhou.md) |
+| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 37 h 05 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
 | Chapter III: To the Stars Yet to Shine | Roya Frostlands, Lahai-Roi | 3.0 - 3.4 | 14 | 26 h 30 min | [03-chapter-iii-roya-frostlands.md](03-chapter-iii-roya-frostlands.md) |
-| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.6 | 5 | 10 h 39 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
+| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.6 | 5 | 10 h 42 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
@@ -24,11 +24,11 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 <!--gen:extremes-->
 | | Act | Estimate |
 | --- | --- | --- |
-| longest | Chapter IV, Act III: Song of the Heart Sword | 4 h 38 min |
-| longest | Chapter II, Act XI: Dawn Breaks on Dark Tides | 4 h 23 min |
+| longest | Chapter IV, Act III: Song of the Heart Sword | 4 h 39 min |
+| longest | Chapter II, Act XI: Dawn Breaks on Dark Tides | 4 h 29 min |
 | longest | Chapter III, Act III: The Star That Voyages Far | 3 h 59 min |
-| longest | Chapter II, Act VIII: By Sun's Burning Hand | 3 h 28 min |
-| longest | Chapter III, Act IV: Gold Suspended in Shadows | 3 h 24 min |
+| longest | Chapter II, Act VIII: By Sun's Burning Hand | 3 h 27 min |
+| longest | Chapter III, Act IV: Gold Suspended in Shadows | 3 h 23 min |
 | shortest | Chapter III, Segue - III: The Flaming Red from Tomorrow | 7 min |
 | shortest | Chapter III, Segue - V: Wishes in the Bell: Epilogue | 14 min |
 | shortest | Prologue, Prologue II: Utterance of Marvels: II | 15 min |

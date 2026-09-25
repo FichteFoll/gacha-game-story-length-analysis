@@ -33,8 +33,8 @@ CLAIMS = [
 
     largest_chapter("ch2", "By far the largest chapter here"),
     count_above("ch2", 120, 9,
-                "nine of its seventeen entries run past two hours"),
-    count_above("ch2", 180, 3, "and three past three"),
+                "{n_above_2h} of its {n_entries} entries run past two hours"),
+    count_above("ch2", 180, 3, "and {n_above_3h} past three"),
     median_between("ch2", "Prologue", 5, 75,
                    "the prologue, the two afterstory segues and "
                    "*Rust, Sword and the Sun* all sit under an hour "

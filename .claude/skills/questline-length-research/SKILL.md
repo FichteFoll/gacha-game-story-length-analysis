@@ -296,6 +296,9 @@ Discard, by title:
   goes in `<workdir>/compilations.txt`.
   Careful: "Full Archon Quest" on its own is the normal phrasing
   for one complete act, not a compilation. Do not filter it.
+  The same goes for "Full Story" and "Complete Story Quest",
+  which Wuthering Waves uploaders say of a single quest;
+  there only "entire story" and "full questline" name a compilation.
   A title that pins exactly one act by the unit and a numeral
   ("FULL Chapter 2 - Process 3") is that act however it words its scope,
   so the scope words are overruled rather than the other way round.
