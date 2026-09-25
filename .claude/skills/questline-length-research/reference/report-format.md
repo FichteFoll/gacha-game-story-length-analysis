@@ -138,7 +138,7 @@ The figures it screens and grades on:
 
 <!--gen:thresholds-->
 - <the screening depths, the marker coverage floor, the outlier bounds,
-  the sample floor and the two confidence factors,
+  the sample floor, the two confidence factors and the ranking floor,
   each quoted from the pipeline's own constants>
 <!--/gen-->
 

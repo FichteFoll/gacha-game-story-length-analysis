@@ -39,9 +39,9 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | --- | --- | --- |
 | longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 04 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
-| longest | Part 1.5, Chapter XXXVIII: Lone Tower, Fallen Star | 5 h 26 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
 | longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 24 min |
+| longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 19 min |
 | shortest | Part 1, Chapter VII: Lift the Sword of Rebellion | 21 min |
 | shortest | Part 1, Chapter XIV: Dispel the Darkness | 27 min |
 | shortest | Part 1, Chapter I: Dusk, Girls, Battleship | 28 min |
@@ -121,6 +121,9 @@ It is *low* on fewer than eight uploads,
 and *low* for any chapter whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+- Chapters resting on fewer than three uploads are published with their figures
+but take no part in any ranking,
+so none of them is called the longest or the shortest of anything.
 <!--/gen-->
 
 ## Limits of this report

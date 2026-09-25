@@ -44,7 +44,6 @@ so the figure is a floor rather than an estimate.
 The instalment uploads of it are screened out as parts,
 and no complete upload existed yet.
 <!--gen:stats act="Chapter 43"-->
-One of the three shortest entries in the questline.
 
 - **Estimated length:** 37 min
 - **Sampled range:** 37 min to 37 min across 1 playthrough uploads (64 further candidates screened out)

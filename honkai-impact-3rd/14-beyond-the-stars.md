@@ -29,7 +29,7 @@ The arc closes on the short bridge that leads into Part 2.
 Three chapters and a short interlude,
 <!--f:total-->10 h 13 min<!--/f--> across the arc.
 The same coverage problem as the arc before it, only worse:
-*<!--f:longest_title-->Worldly Retribution<!--/f-->* and *Earthbound Order*
+*Worldly Retribution* and *Earthbound Order*
 rest on two complete uploads each,
 and the interlude on one.
 The figures are the best the evidence supports and no more than that.
@@ -71,7 +71,8 @@ and this report screens out.
 ### Chapter XLI - [Worldly Retribution](https://honkaiimpact3.fandom.com/wiki/Chapter_XLI)
 <!--/gen-->
 
-Worldly retribution, and the largest entry in the arc.
+Worldly retribution, measured from two complete uploads,
+too few for it to be ranked against the rest of the arc.
 <!--gen:stats act="Chapter XLI"-->
 
 - **Estimated length:** 3 h 55 min

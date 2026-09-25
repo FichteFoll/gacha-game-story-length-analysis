@@ -165,6 +165,7 @@ which is why no release patch is recorded for it.
 
 *Forgotten Sand* in the global client.
 <!--gen:stats act="Chapter 4"-->
+One of the three shortest entries in the questline.
 
 - **Estimated length:** 38 min
 - **Sampled range:** 26 min to 45 min for the middle half (full spread 21 min to 1 h 01 min) across 11 playthrough uploads (24 further candidates screened out)
@@ -202,7 +203,7 @@ which is why no release patch is recorded for it.
 *Shattered Illusion* in the global client,
 and the shortest chapter of the launch run.
 <!--gen:stats act="Chapter 5"-->
-One of the three shortest entries in the questline.
+The shortest entry in the questline.
 
 - **Estimated length:** 34 min
 - **Sampled range:** 27 min to 45 min for the middle half (full spread 20 min to 54 min) across 9 playthrough uploads (27 further candidates screened out)
@@ -302,6 +303,7 @@ and its pool is the thinnest of the launch run.
 
 The last chapter of the launch run.
 <!--gen:stats act="Chapter 8"-->
+One of the three shortest entries in the questline.
 
 - **Estimated length:** 38 min
 - **Sampled range:** 32 min to 50 min for the middle half (full spread 25 min to 57 min) across 10 playthrough uploads (27 further candidates screened out)

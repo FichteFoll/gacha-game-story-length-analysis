@@ -20,7 +20,8 @@ Vocabulary:
 """
 from collections import namedtuple
 
-from facts import chapter_total, count_above as _count_above, median_of
+from facts import (RANK_SAMPLES, chapter_total, count_above as _count_above,
+                   median_of, rankable)
 
 # `quote` is the sentence the claim guards, so a failure names the prose to fix.
 Claim = namedtuple("Claim", "quote describe check")
@@ -33,10 +34,18 @@ def _act(index, chapter, act_label):
     raise KeyError(f"{chapter} has no {act_label}")
 
 
-def _scoped(index, chapter, scope):
-    if scope == "chapter":
-        return index[chapter]
-    return [a for acts in index.values() for a in acts]
+def _ranked(index, chapter, act, scope):
+    """The pool a ranking claim is judged in, or None when the act has too few
+    uploads to take part in any ranking."""
+    pool = index[chapter] if scope == "chapter" \
+        else [a for acts in index.values() for a in acts]
+    pool = rankable(pool)
+    return pool if any(o is act for o in pool) else None
+
+
+def _unranked(act):
+    return f"{act['act_label']} rests on {act['stats']['n']} uploads, " \
+        f"fewer than the {RANK_SAMPLES} a ranking needs"
 
 
 def count_above(chapter, minutes, n, quote):
@@ -85,7 +94,9 @@ def sample_at_least(chapter, act_label, n, quote):
 def rank_at_most(chapter, act_label, k, quote, scope="global"):
     def check(index):
         act = _act(index, chapter, act_label)
-        pool = _scoped(index, chapter, scope)
+        pool = _ranked(index, chapter, act, scope)
+        if pool is None:
+            return False, _unranked(act)
         got = 1 + sum(1 for o in pool if median_of(o) > median_of(act))
         return got <= k, f"{act_label} ranks {got} of {len(pool)}, wanted top {k}"
     return Claim(quote, f"{chapter} {act_label}: top {k} {scope}", check)
@@ -94,7 +105,9 @@ def rank_at_most(chapter, act_label, k, quote, scope="global"):
 def is_extreme(chapter, act_label, end, quote, scope="chapter"):
     def check(index):
         act = _act(index, chapter, act_label)
-        pool = _scoped(index, chapter, scope)
+        pool = _ranked(index, chapter, act, scope)
+        if pool is None:
+            return False, _unranked(act)
         want = max if end == "max" else min
         holder = want(pool, key=median_of)
         return median_of(holder) == median_of(act), \

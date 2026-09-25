@@ -50,6 +50,25 @@ def measured(acts):
     return [a for a in acts if a["stats"]["median"]] or list(acts)
 
 
+# The fewest uploads an entry needs to take part in a ranking. One or two can be
+# a split or a padded run that nothing else contradicts, and ranked with the
+# rest the entry would hold a superlative on that alone.
+RANK_SAMPLES = 3
+
+
+def rankable(acts):
+    """The entries a superlative or an extreme may be claimed of.
+
+    An entry below RANK_SAMPLES is still published, with its figures and its
+    low confidence, but it takes no place in any ranking, so it neither holds
+    a superlative nor pushes the entry that really holds one down. Where no
+    entry qualifies, the measured ones come back, so that a ranking is still
+    total.
+    """
+    pool = measured(acts)
+    return [a for a in pool if a["stats"]["n"] >= RANK_SAMPLES] or pool
+
+
 def count_above(acts, minutes):
     return sum(1 for a in acts if median_of(a) > minutes)
 
@@ -91,7 +110,7 @@ def superlatives(acts, unit="act"):
     acts.
     """
     out = {}
-    acts = measured(acts)
+    acts = rankable(acts)
     for act in acts:
         high, low = rank(act, acts), rank(act, acts, longest=False)
         tied = [o for o in acts
@@ -136,7 +155,7 @@ def report_facts(acts, unit="Act", game="", date=""):
 def chapter_facts(acts, quest_parts=None):
     """The values the authored prose may interpolate, keyed by placeholder name."""
     quest_parts = quest_parts or {}
-    ranked = sorted(measured(acts), key=median_of)
+    ranked = sorted(rankable(acts), key=median_of)
     numbered = [a for a in measured(acts) if act_number(a["act_label"])]
     facts = {
         "n_entries": word(len(acts)),

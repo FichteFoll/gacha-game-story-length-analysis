@@ -89,6 +89,9 @@ It is *low* on fewer than eight uploads,
 and *low* for any process whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+- Processes resting on fewer than three uploads are published with their figures
+but take no part in any ranking,
+so none of them is called the longest or the shortest of anything.
 <!--/gen-->
 
 ## Limits of this report

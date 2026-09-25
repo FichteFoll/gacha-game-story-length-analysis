@@ -246,7 +246,7 @@ Three named segments rather than one line of stages -
 *Sunken in Scarlet*, *Escaping from Calamity* and *Praying in Doomsday* -
 which is what the estimate below is measuring.
 <!--gen:stats act="Chapter 17"-->
-One of the three longest chapters in the game.
+The single longest chapter in the game.
 
 - **Estimated length:** 5 h 44 min
 - **Sampled range:** 3 h 52 min to 6 h 45 min across 5 playthrough uploads (73 further candidates screened out)

@@ -5,16 +5,12 @@ live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, is_extreme, median_between, none_above,
                         rank_at_most, sample_at_most, total_ratio_between)
+from facts import RANK_SAMPLES
 
 CLAIMS = [
     # README.md
     sample_at_most("v5", "Chapter 43", 1,
                    "and its figure rests on a single upload"),
-    # The extremes table lists three shortest chapters, and the fourth
-    # shortest (Chapters 4 and 8) stands at 38 minutes.
-    median_between("v5", "Chapter 43", 1, 37,
-                   "it is why Chapter 43 appears among the shortest "
-                   "chapters above"),
 
     # 01-graffiti-art-to-eternal-engine.md
     count_above("v4", 240, 2,
@@ -53,10 +49,10 @@ CLAIMS = [
     sample_at_most("v3", "Chapter 28", 1, "Rests on a single upload"),
 
     # 04-shapers-ripples-to-steering-by-light.md
-    is_extreme("v4", "Chapter 38", "max",
-               "Chapter 38 is the longest entry in the report", scope="global"),
     sample_at_most("v4", "Chapter 38", 2,
-                   "and it rests on two uploads"),
+                   "but it rests on two uploads"),
+    sample_at_most("v4", "Chapter 38", RANK_SAMPLES - 1,
+                   "too few for it to be ranked against the rest of the report"),
     median_between("v4", "Chapter 35", 1, 90,
                    "Chapter 35 comes out under the hour and a half"),
     sample_at_most("v4", "Chapter 35", 1,

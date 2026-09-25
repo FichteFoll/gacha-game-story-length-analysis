@@ -28,14 +28,14 @@ rather than a number anyone actually clocked end to end.
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
-| longest | Volume 4, Chapter 38: Sightline Breach | 6 h 59 min |
 | longest | Volume 2, Chapter 17: The Surviving Lucem | 5 h 44 min |
 | longest | Volume 4, Chapter 41: Homecoming Voyage | 5 h 34 min |
 | longest | Volume 4, Chapter 40: A Better Tomorrow | 5 h 19 min |
-| longest | Volume 3, Chapter 27: Aeon Reforged | 5 h 01 min |
-| shortest | Volume 4, Chapter 35: Echoes Adrift | 23 min |
+| longest | Volume 4, Chapter 31: Shaper's Ripples | 4 h 57 min |
+| longest | Volume 3, Chapter 29: Source Beacon | 4 h 11 min |
 | shortest | Volume 1, Chapter 5: Shattered Phantom | 34 min |
-| shortest | Volume 5, Chapter 43: Anchored in Faith | 37 min |
+| shortest | Volume 1, Chapter 4: Forgotten Golden Sand | 38 min |
+| shortest | Volume 1, Chapter 8: Consumed by Darkness | 38 min |
 <!--/gen-->
 
 ## Method
@@ -138,6 +138,9 @@ It is *low* on fewer than eight uploads,
 and *low* for any chapter whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+- Chapters resting on fewer than three uploads are published with their figures
+but take no part in any ranking,
+so none of them is called the longest or the shortest of anything.
 <!--/gen-->
 
 ## Limits of this report
@@ -186,8 +189,7 @@ and the pools for them are young and thin.
 Chapter 43, Anchored in Faith, shipped days before it,
 and its figure rests on a single upload
 that covers only part of the chapter:
-it is a floor, not an estimate,
-and it is why Chapter 43 appears among the shortest chapters above.
+it is a floor, not an estimate.
 - The second pass that fetches exact view counts, upload dates and chapter
 markers reached about a seventh of the candidates before
 YouTube's bot check cut it off.

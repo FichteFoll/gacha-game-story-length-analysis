@@ -497,6 +497,9 @@ Instead:
 - generate superlatives from a ranking computed over all acts,
   so "the longest act in the game" can only appear where it is true,
   and a tie is stated as a tie;
+  an act on fewer than `RANK_SAMPLES` uploads (`facts.py`) is left out of
+  every ranking, the extremes table and the ranking claims included,
+  because one partial upload would otherwise hold a superlative on its own;
 - write down whatever claim the words still make
   ("marathon acts", "the chapter centrepiece", "by far the largest chapter")
   as an assertion over the analysis, evaluated before any file is written,

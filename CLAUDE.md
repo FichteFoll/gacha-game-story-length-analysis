@@ -201,7 +201,8 @@ is now possible, and is caught only by the claims in `claims.py`.
 So the invariant holds by convention plus `claims.py`:
 put every number in a marker, and guard in words what words assert.
 
-Superlatives come from a ranking computed over all acts, so
+Superlatives come from a ranking computed over all acts
+with enough uploads to be ranked (see the statistics conventions), so
 "the longest act in the game" can only appear where it is true.
 Claims the prose makes in *words* ("marathon acts", "the chapter centrepiece")
 are written down in the report's `claims.py` next to the sentence they guard,
@@ -260,7 +261,14 @@ The sample floor and the drift limit are `IQR_SAMPLES` and `UNSTABLE_DRIFT`
 in `analyze.py`, which `gen_docs.py` imports rather than restates;
 only the two interquartile factors (`SPREAD_HIGH`, `SPREAD_MEDIUM`)
 live in `gen_docs.py`, because nothing else grades on them.
-The published method section quotes all four from the constants themselves,
+An act on fewer than three uploads is published with its figures
+but takes no part in any ranking:
+no superlative sentence, no row in the extremes table,
+and no `is_extreme` or `rank_at_most` claim holds for it.
+One or two uploads can be a split nothing contradicts,
+and would otherwise hold "the shortest chapter in the game" on that alone.
+That floor is `RANK_SAMPLES` in `facts.py`, where the rankings are computed.
+The published method section quotes all five from the constants themselves,
 so a changed threshold rewrites its own description.
 
 ## Conventions

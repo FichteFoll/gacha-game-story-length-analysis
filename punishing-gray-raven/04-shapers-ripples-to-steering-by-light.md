@@ -36,8 +36,9 @@ and the channels that cover it publish it a stage or a stream at a time.
 ## Pacing
 
 The chapters keep growing and the evidence keeps shrinking.
-<!--f:longest_label-->Chapter 38<!--/f--> is the longest entry in the report
-at <!--f:longest_len-->6 h 59 min<!--/f-->, and it rests on two uploads.
+Chapter 38 comes out at <!--f:len_Chapter_38-->6 h 59 min<!--/f-->,
+but it rests on two uploads,
+too few for it to be ranked against the rest of the report.
 Where a figure here looks out of line with its neighbours -
 Chapter 35 comes out under the hour and a half
 between chapters of three and five -
@@ -165,7 +166,6 @@ The one upload of it that survived screening is far shorter
 than any chapter around it, and there is no second one to trim it against:
 read the figure as a fragment, not as the chapter.
 <!--gen:stats act="Chapter 35"-->
-The shortest entry in the questline.
 
 - **Estimated length:** 23 min
 - **Sampled range:** 23 min to 23 min across 1 playthrough uploads (90 further candidates screened out)
@@ -244,9 +244,8 @@ Patch page only, with its number stated there.
 ### Chapter 38 - [Sightline Breach](https://punishing-gray-raven.fandom.com/wiki/Sightline_Breach)
 <!--/gen-->
 
-The longest entry in the report, on two uploads.
+Measured from two uploads, too few to rank it against the rest of the report.
 <!--gen:stats act="Chapter 38"-->
-The single longest chapter in the game.
 
 - **Estimated length:** 6 h 59 min
 - **Sampled range:** 5 h 28 min to 8 h 30 min across 2 playthrough uploads (58 further candidates screened out)
@@ -300,6 +299,7 @@ Released in phases across its patch, which is how its uploads are titled.
 
 One of the deeper pools in this volume, which is still a thin one.
 <!--gen:stats act="Chapter 40"-->
+One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 19 min
 - **Sampled range:** 4 h 32 min to 6 h 08 min across 5 playthrough uploads (99 further candidates screened out)

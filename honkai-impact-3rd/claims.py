@@ -6,6 +6,7 @@ live in the skill's `assertions.py`; only the claims themselves are per report.
 from assertions import (count_above, is_extreme, largest_chapter,
                         median_between, none_above, rank_at_most,
                         sample_at_most, total_ratio_between)
+from facts import RANK_SAMPLES
 
 CLAIMS = [
     is_extreme("wdb", "Chapter II", "max",
@@ -87,12 +88,10 @@ CLAIMS = [
     sample_at_most("dotf", "Chapter XXXIII", 5,
                    "The truth, named. The pool for it is small"),
 
-    is_extreme("atfots", "Chapter XXXVIII", "max",
-               "By far the largest entry in the arc"),
-    rank_at_most("atfots", "Chapter XXXVIII", 5,
-                 "and one of the largest in the report", scope="global"),
     sample_at_most("atfots", "Chapter XXXVIII", 2,
-                   "it rests on two complete uploads"),
+                   "It rests on two complete uploads"),
+    sample_at_most("atfots", "Chapter XXXVIII", RANK_SAMPLES - 1,
+                   "too few for it to be ranked against the rest of the report"),
     sample_at_most("atfots", "Chapter XXXVI", 7,
                    "Every entry here rests on a handful of them "
                    "and is rated *low*"),
@@ -103,8 +102,8 @@ CLAIMS = [
                    "Every entry here rests on a handful of them "
                    "and is rated *low*"),
 
-    is_extreme("bts", "Chapter XLI", "max",
-               "Worldly retribution, and the largest entry in the arc"),
+    sample_at_most("bts", "Chapter XLI", RANK_SAMPLES - 1,
+                   "too few for it to be ranked against the rest of the arc"),
     sample_at_most("bts", "Chapter XLI", 2,
                    "rest on two complete uploads each"),
     sample_at_most("bts", "Chapter XLII", 2,
