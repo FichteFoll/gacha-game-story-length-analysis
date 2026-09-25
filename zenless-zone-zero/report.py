@@ -31,7 +31,7 @@ REPORT = dict(
     gate_label=None,
     # What this game numbers its acts with, for the renderer's own headings.
     unit="Chapter",
-    date="2026-08-18",
+    date="2026-09-26",
 )
 
 CHAPTERS = [
