@@ -25016,15 +25016,16 @@
     ]
    },
    {
-    "seconds": 3355,
+    "seconds": 3354,
     "title": "Chapter 42 (7) : Steering By Light || Punishing : Gray Raven [Global]",
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=y_9AWWUus5k",
-    "views": "52",
+    "views": 98,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260823"
    },
    {
     "seconds": 1367,
@@ -25287,15 +25288,16 @@
     ]
    },
    {
-    "seconds": 2045,
+    "seconds": 2044,
     "title": "Chapter 42 (1-10): Steering By Light [FIGHTS] || Punishing : Gray Raven [CN] ",
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=JOqAX9y2Cqo",
-    "views": "55",
+    "views": 59,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 2635,
@@ -31527,6 +31529,7 @@
     "url": "https://www.youtube.com/watch?v=HykQ2x7sMaU",
     "views": "51",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -32127,7 +32130,7 @@
     "url": "https://www.youtube.com/watch?v=HykQ2x7sMaU",
     "views": "51",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -32482,14 +32485,15 @@
     "upload_date": "20260819"
    },
    {
-    "seconds": 3355,
+    "seconds": 3354,
     "title": "Chapter 42 (7) : Steering By Light || Punishing : Gray Raven [Global]",
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=y_9AWWUus5k",
-    "views": "52",
+    "views": 98,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260823"
    },
    {
     "seconds": 1412,
@@ -32678,7 +32682,7 @@
     "url": "https://www.youtube.com/watch?v=VeFnR816n2Y",
     "views": "48",
     "rejected": [
-     "same-uploader"
+     "short-outlier"
     ]
    },
    {
@@ -32692,14 +32696,15 @@
     ]
    },
    {
-    "seconds": 2045,
+    "seconds": 2044,
     "title": "Chapter 42 (1-10): Steering By Light [FIGHTS] || Punishing : Gray Raven [CN] ",
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=JOqAX9y2Cqo",
-    "views": "55",
+    "views": 59,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260820"
    },
    {
     "seconds": 2571,
@@ -32728,7 +32733,9 @@
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=K2oyhtrj_zM",
     "views": "43",
-    "rejected": []
+    "rejected": [
+     "not-a-playthrough"
+    ]
    },
    {
     "seconds": 8140,
@@ -32876,9 +32883,7 @@
     "uploader": "Jaysan009",
     "url": "https://www.youtube.com/watch?v=LB4EeSs9Q7E",
     "views": "51",
-    "rejected": [
-     "long-outlier"
-    ]
+    "rejected": []
    },
    {
     "seconds": 2595,
@@ -33305,26 +33310,414 @@
      "not-a-playthrough",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 16462,
+    "title": "PGR Chapter 42 Part 2 and Hidden Story",
+    "uploader": "Rinne",
+    "url": "https://www.youtube.com/watch?v=53OQQuNeZ78",
+    "views": "130",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 22841,
+    "title": "Punishing: Gray Raven | Chapter 42: Steering By Light (Part 1 second half)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=dIJUYfwGuvQ",
+    "views": "9",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 22155,
+    "title": "Punishing: Gray Raven | Chapter 42: Steering By Light (Part 1, first half)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=r2xEAJs5DVc",
+    "views": "14",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5111,
+    "title": "Punishing: Gray Raven [EN] Chapter 42 Steering By Light 42-1 Tide and Sound",
+    "uploader": "LeRandomRayquaza2011",
+    "url": "https://www.youtube.com/watch?v=iLBT8JTToRA",
+    "views": "26",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 6582,
+    "title": "Punishing: Gray Raven [EN] Chapter 42 Steering By Light 42-3 Song of the Whale",
+    "uploader": "LeRandomRayquaza2011",
+    "url": "https://www.youtube.com/watch?v=ufp2mK1Fy5k",
+    "views": "16",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 16603,
+    "title": "The Entire Story of Greek Mythology",
+    "uploader": "Lore Explainer",
+    "url": "https://www.youtube.com/watch?v=Q5qvDUvf-_A",
+    "views": "1700",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9525,
+    "title": "Punishing: Gray Raven | Steering By Light (Hidden Story)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=6lQCGN6zPcs",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 160,
+    "title": "Punishing: Gray Raven 42-10 Hack the hub",
+    "uploader": "Ten",
+    "url": "https://www.youtube.com/watch?v=MzLKyQw2Tsk",
+    "views": "371",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1113,
+    "title": "PGR x DMC 5 - All Bosses & Cutscenes (Global Version + Full English Dialogue)",
+    "uploader": "Renzzaro Play",
+    "url": "https://www.youtube.com/watch?v=u--2iW8Vq-8",
+    "views": "58006",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 8104,
+    "title": "Scarlet Thunder Awakened | Punishing Gray Raven Wintry Shackles (Story)",
+    "uploader": "Nowaruwa Ch. \u30ce\u30ef\u30eb",
+    "url": "https://www.youtube.com/watch?v=LmeUXqrViHE",
+    "views": "78",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3252,
+    "title": "[Punishing: Grey Raven] Chapter 9: Fallen Star",
+    "uploader": "Lux",
+    "url": "https://www.youtube.com/watch?v=dBZeGjFtU60",
+    "views": "27",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 427,
+    "title": "\u3010Punishing: Gray Raven\u3011Character - Liv - Luminance : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=nMAW8p-LNck",
+    "views": "838",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 54,
+    "title": "Punishing Gray Raven - Blind Simulation Stage 42 1st Try",
+    "uploader": "LonePhoenix",
+    "url": "https://www.youtube.com/watch?v=doIKN5qa4vI",
+    "views": "3",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2968,
+    "title": "Chapter 42 (25) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=KZt0vNxBZPI",
+    "views": "116",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1075,
+    "title": "[PGR] Chapter 42 Review",
+    "uploader": "WaifuVsBoss",
+    "url": "https://www.youtube.com/watch?v=RXOC1WCk-9c",
+    "views": "3852",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 11166,
+    "title": "[Punishing: Gray Raven] Chapter 42 - Steering By Light (Node 25-32) | Stream #366",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=P765staXFLM",
+    "views": "161",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 10975,
+    "title": "ARIUS ERHORN THINKS HIMSELF A \"GOD\" - Steering by Light || PGR Part 4",
+    "uploader": "Kiyan the Wanderer",
+    "url": "https://www.youtube.com/watch?v=WPn4xLWQ774",
+    "views": "39",
+    "rejected": []
+   },
+   {
+    "seconds": 24530,
+    "title": "[Punishing: Gray Raven] Chapter 42 - Steering By Light (Node 16-24) | Stream #365",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=1zBj8R27RtY",
+    "views": "244",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 31661,
+    "title": "Punishing: Gray Raven | Steering By Light (Part 2)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=XJDzrFdo-8c",
+    "views": "6",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 266,
+    "title": "ER16-18: No Time to Die + Thunderbreaker (Secret Achievement) | Punishing: Gray Raven (PGR)",
+    "uploader": "FabioJo40",
+    "url": "https://www.youtube.com/watch?v=QRL6OmThis4",
+    "views": "1524",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 165,
+    "title": "Our Miracle - Story Animation || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=QQ9NniXzx1c",
+    "views": "39",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 130,
+    "title": "\u3010Haloweak\u3011Flow\u300c\u9e23\u6f6e Wuthering Waves CBT theme music\u300dOfficial",
+    "uploader": "Vanguard Sound Studio",
+    "url": "https://www.youtube.com/watch?v=Dg4wxsGmLw4",
+    "views": "1308292",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4925,
+    "title": "Karenina: Effulgence - Affection Story (2) || Punishing : Gray Raven [Global] ",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=jBdqWGDnrRI",
+    "views": "62",
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4136,
+    "title": "\ud83d\udd34 KARENINA: EFFULGENCE IS FINALLY HERE | PGR 4.7 | STEERING BY LIGHT + PULLS",
+    "uploader": "Anime Cristal and IsmaelFZ",
+    "url": "https://www.youtube.com/watch?v=3GAErjHFyzs",
+    "views": "76",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 632,
+    "title": "Complete Beginner\u2019s Guide | Punishing Gray Raven",
+    "uploader": "Auron Xigbar",
+    "url": "https://www.youtube.com/watch?v=8DX4QFcA8TQ",
+    "views": "183519",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 15028,
+    "title": "39 Years of Crazy Metal Gear History in 250 Minutes",
+    "uploader": "LorD of Nerds",
+    "url": "https://www.youtube.com/watch?v=9aTnx1kHgPs",
+    "views": "36666",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19081,
+    "title": "The Family Flivvers to Frisco by Frederic Van de Water | Full Classic Travel Audiobook",
+    "uploader": "Vivid Audio Library",
+    "url": "https://www.youtube.com/watch?v=TjLSTqRXCE4",
+    "views": "531",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5135,
+    "title": "Chapter 42 (21) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=iydssVrkHwM",
+    "views": "70",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2621,
+    "title": "Chapter 42 (4) : Steering By Light || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=g9af3_iteEo",
+    "views": "139",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1252,
+    "title": "Chapter 42 (26) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=hHEjG3oo1D0",
+    "views": "83",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2389,
+    "title": "Chapter 42 (29-30) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=8XLNv33u4-M",
+    "views": "71",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2574,
+    "title": "Chapter 42 (23) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=7EboD2SW_JI",
+    "views": "71",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2873,
+    "title": "Chapter 42 (24) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=1fOVoGK735w",
+    "views": "81",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2016,
+    "title": "Chapter 42 (27-28) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=FNjsHsuZDPc",
+    "views": "72",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2135,
+    "title": "Chapter 42 (31-32) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=jCWU5dEAiiY",
+    "views": "102",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1342,
+    "title": "[PGR] Karenina Full Story (part 2)",
+    "uploader": "WaifuVsBoss",
+    "url": "https://www.youtube.com/watch?v=wbzoYbW5gAk",
+    "views": "1239",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
    }
   ],
   "kept": [
    {
-    "seconds": 3268,
-    "title": "NEW EVENTS - Chapter 42 : Steering By Light  || Punishing : Gray Raven [Global] ",
+    "seconds": 9525,
+    "title": "Punishing: Gray Raven | Steering By Light (Hidden Story)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=6lQCGN6zPcs",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 10975,
+    "title": "ARIUS ERHORN THINKS HIMSELF A \"GOD\" - Steering by Light || PGR Part 4",
+    "uploader": "Kiyan the Wanderer",
+    "url": "https://www.youtube.com/watch?v=WPn4xLWQ774",
+    "views": "39",
+    "rejected": []
+   },
+   {
+    "seconds": 11524,
+    "title": "Steering By Light  || Punishing : Gray Raven [Global]",
     "uploader": "Jaysan009",
-    "url": "https://www.youtube.com/watch?v=K2oyhtrj_zM",
-    "views": "43",
+    "url": "https://www.youtube.com/watch?v=LB4EeSs9Q7E",
+    "views": "51",
     "rejected": []
    }
   ],
   "stats": {
-   "n": 1,
-   "median": 54,
-   "low": 54,
-   "high": 54,
+   "n": 3,
+   "median": 183,
+   "low": 159,
+   "high": 192,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 54,
+   "trimmed_mean": 178,
    "measured": 0,
    "parts": {},
    "drift": null

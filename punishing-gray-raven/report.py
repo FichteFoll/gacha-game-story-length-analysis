@@ -33,7 +33,7 @@ REPORT = dict(
     unit="Chapter",
     container="Volume",
     region_label="Chapters",
-    date="2026-08-28",
+    date="2026-09-26",
 )
 
 CHAPTERS = [

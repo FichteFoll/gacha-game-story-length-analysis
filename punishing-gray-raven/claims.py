@@ -49,15 +49,12 @@ CLAIMS = [
     sample_at_most("v4", "Chapter 38", 2,
                    "and it rests on two uploads"),
     median_between("v4", "Chapter 35", 1, 90,
-                   "Chapter 35 and Chapter 42 both come out under the hour "
-                   "and a half"),
-    median_between("v4", "Chapter 42", 1, 90,
-                   "Chapter 35 and Chapter 42 both come out under the hour "
-                   "and a half"),
+                   "Chapter 35 comes out under the hour and a half"),
     sample_at_most("v4", "Chapter 35", 1,
-                   "The one upload of it that survived screening"),
-    sample_at_most("v4", "Chapter 42", 1,
-                   "What survived screening is one instalment upload"),
+                   "the one upload of it that survived screening"),
+    sample_at_most("v4", "Chapter 42", 3,
+                   "What survived screening is three uploads "
+                   "that each cover part of it"),
 
     # 05-ex-frozen-darkness-to-inscription-of-labyrinth.md
     is_extreme("vex", "Chapter EX-04", "max", "The longest of the EX chapters"),
