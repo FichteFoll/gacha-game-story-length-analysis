@@ -12,6 +12,7 @@ Vocabulary:
     median_between(chapter, act, lo, hi)  this act's estimate is within [lo, hi]
     rank_at_most(chapter, act, k, scope)  this act is among the k longest
     sample_at_most(chapter, act, n)       this act rests on n uploads or fewer
+    sample_at_least(chapter, act, n)      this act rests on n uploads or more
     is_extreme(chapter, act, end, scope)  this act is the longest/shortest
     total_ratio_between(chapter, others, lo, hi)
                                           chapter total over the others' combined
@@ -70,6 +71,15 @@ def sample_at_most(chapter, act_label, n, quote):
         got = _act(index, chapter, act_label)["stats"]["n"]
         return got <= n, f"{act_label} rests on {got} uploads, expected {n} or fewer"
     return Claim(quote, f"{chapter} {act_label}: at most {n} uploads", check)
+
+
+def sample_at_least(chapter, act_label, n, quote):
+    """The counterpart of sample_at_most, for prose that calls a pool large
+    enough to be graded on its spread: pass analyze.IQR_SAMPLES as n."""
+    def check(index):
+        got = _act(index, chapter, act_label)["stats"]["n"]
+        return got >= n, f"{act_label} rests on {got} uploads, expected {n} or more"
+    return Claim(quote, f"{chapter} {act_label}: at least {n} uploads", check)
 
 
 def rank_at_most(chapter, act_label, k, quote, scope="global"):
