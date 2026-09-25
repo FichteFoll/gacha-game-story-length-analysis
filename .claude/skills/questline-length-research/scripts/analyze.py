@@ -307,8 +307,8 @@ def act_number(act_label):
     """`Act IV - Prelude` -> 4, in roman or arabic, `Interlude` -> None.
 
     A decimal comes back as a float, because a game may number an entry between
-    two others: Girls' Frontline 2 files four of its story campaigns as Chapters
-    6.5, 6.7, 8.3 and 8.7, and without a number for them the title matching has
+    two others: Girls' Frontline 2 files some of its story campaigns as Chapters
+    6.5, 6.7 and so on, and without a number for them the title matching has
     only their names to go on.
     """
     numbered = act_label.split("-")[0].split()

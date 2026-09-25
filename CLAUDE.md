@@ -175,7 +175,7 @@ Girls' Frontline 2 sits between the two: its chapters are grouped by nothing,
 so its volumes are invented as NIKKE's are, but every chapter from 6.5 on
 shipped as a named campaign, so the volume boundaries at least fall where a
 campaign ends. It is also the one game whose entry numbers are not all whole -
-five campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5 - which
+six campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7, 12.5 and 19.5 - which
 `act_number()` reads as a float, and whose wiki is IOP Wiki rather than a
 Fandom one.
 Punishing: Gray Raven invents its volumes as NIKKE does, and is the game whose

@@ -57,7 +57,7 @@ CHAPTERS = [
     ),
     dict(
         id="v5", slug="05-dawnforger-to-needy-catgirl-overload",
-        wiki_page="GFL2 Story", region="18 - 20", versions="not recorded",
+        wiki_page="GFL2 Story", region="18 - 19.5", versions="not recorded",
         title="Volume 5: Dawnforger to Needy Catgirl Overload",
     ),
 ]

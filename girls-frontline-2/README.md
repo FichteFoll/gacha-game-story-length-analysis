@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies | 6.5 - 8.7 | not recorded | 6 | 19 h 22 min | [02-sojourners-to-bitter-thorns.md](02-sojourners-to-bitter-thorns.md) |
 | Volume 3: Aphelion to Intertwined Assault | 9 - 12.5 | not recorded | 5 | 20 h 31 min | [03-aphelion-to-intertwined-assault.md](03-aphelion-to-intertwined-assault.md) |
 | Volume 4: Corposant to Antiparallel | 13 - 17 | not recorded | 5 | 28 h 28 min | [04-corposant-to-antiparallel.md](04-corposant-to-antiparallel.md) |
-| Volume 5: Dawnforger to Needy Catgirl Overload | 18 - 20 | not recorded | 3 | 16 h 26 min | [05-dawnforger-to-needy-catgirl-overload.md](05-dawnforger-to-needy-catgirl-overload.md) |
+| Volume 5: Dawnforger to Needy Catgirl Overload | 18 - 19.5 | not recorded | 3 | 16 h 26 min | [05-dawnforger-to-needy-catgirl-overload.md](05-dawnforger-to-needy-catgirl-overload.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -60,11 +60,11 @@ Splitting the run into five volumes is a way of getting it into files
 a reader can hold in one hand, cut where a campaign ends;
 the line between one volume and the next means nothing in the game.
 Read the chapter numbers, not the volume boundaries.
-- **Five chapters carry a decimal number.** Chapters 6.5, 6.7, 8.3, 8.7 and 12.5
-are campaigns the game filed between two whole-numbered chapters,
+- **Six chapters carry a decimal number.** Chapters 6.5, 6.7, 8.3, 8.7,
+12.5 and 19.5 are campaigns numbered after the whole chapter they follow,
 and they are chapters of the main story like any other.
 A whole chapter's number is a prefix of theirs,
-so Chapters 6, 8 and 12 have to rule the decimals out by hand
+so Chapters 6, 8, 12 and 19 have to rule the decimals out by hand
 (`data/act_keys.json`) or an upload of Chapter 6.5
 would count as evidence for Chapter 6.
 - **A campaign shipped as several chapters is uploaded under the campaign's

@@ -1,12 +1,12 @@
 <!--gen:heading-->
 # Volume 5: Dawnforger to Needy Catgirl Overload
 
-**Chapters:** 18 - 20 | **Game versions:** not recorded | **Entries:** 3 | **Estimated volume length: 16 h 26 min**
+**Chapters:** 18 - 19.5 | **Game versions:** not recorded | **Entries:** 3 | **Estimated volume length: 16 h 26 min**
 <!--/gen-->
 
 The Doll community needs a market, which takes the Elmo underground to Mokosh,
 and what starts as a trade delegation ends as a revolution.
-Then Chapter 20 goes to an auction in Port Mica with the collab cast
+Then Chapter 19.5 goes to an auction in Port Mica with the collab cast
 and is a full-length chapter in spite of it.
 <!--f:n_entries-->three<!--/f--> chapters, and none of them is short.
 
@@ -17,7 +17,7 @@ and is a full-length chapter in spite of it.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 18 | Dawnforger - Part 1 | 5 h 16 min | 3 h 25 min - 6 h 08 min | 10 | low |
 | Chapter 19 | Dawnforger - Part 2 | 6 h 36 min | 4 h 53 min - 7 h 18 min | 9 | low |
-| Chapter 20 | Needy Catgirl Overload | 4 h 34 min | 3 h 55 min - 6 h 19 min | 9 | low |
+| Chapter 19.5 | Needy Catgirl Overload | 4 h 34 min | 3 h 55 min - 6 h 19 min | 9 | low |
 <!--/gen-->
 
 **Total: <!--f:total-->16 h 26 min<!--/f-->**
@@ -27,13 +27,13 @@ and is a full-length chapter in spite of it.
 There is no easing in and no let-up:
 every entry here is over four hours,
 and Chapter 19 is the longest of the three.
-Even Chapter 20, the volume's floor, sits above
+Even Chapter 19.5, the volume's floor, sits above
 almost everything in the first two volumes,
 which is the clearest statement in this report
 of how far the chapters have grown since launch.
-Chapter 20 is the outlier in kind rather than in length:
-a collaboration chapter, numbered in the campaign menu like the rest,
-which the game gave <!--f:parts_Chapter_20-->14<!--/f--> stages
+Chapter 19.5 is the outlier in kind rather than in length:
+a collaboration chapter, filed under a decimal number as Chapter 12.5 was,
+which the game gave <!--f:parts_Chapter_19_5-->14<!--/f--> stages
 and something close to the running time of an ordinary chapter.
 These are also the newest chapters here,
 and every one of their ranges spans more than two hours:
@@ -117,14 +117,14 @@ One of the three longest chapters in the game.
 </details>
 <!--/gen-->
 
-<!--gen:act-heading act="Chapter 20"-->
-### Chapter 20 - [Needy Catgirl Overload](https://iopwiki.com/wiki/GFL2_Story/Summary#Chapter_20_-_Needy_Catgirl_Overload)
+<!--gen:act-heading act="Chapter 19.5"-->
+### Chapter 19.5 - [Needy Catgirl Overload](https://iopwiki.com/wiki/GFL2_Story/Summary#Chapter_19.5_(Needy_Catgirl_Overload))
 <!--/gen-->
 
 Ullrid wants better frames, the auction is in Port Mica,
 and the Collapse pieces she was going to bid with
 have been taken by three Dolls with a plan of their own and a truck.
-<!--gen:stats act="Chapter 20"-->
+<!--gen:stats act="Chapter 19.5"-->
 
 - **Estimated length:** 4 h 34 min
 - **Sampled range:** 3 h 55 min to 6 h 19 min for the middle half (full spread 2 h 54 min to 7 h 13 min) across 9 playthrough uploads (11 further candidates screened out)
@@ -134,7 +134,7 @@ have been taken by three Dolls with a plan of their own and a truck.
 - **Quest parts (14):** BS-1-1: Starting Station; BA-1-1: Milk Teeth; BA-1-2: Starter's Pistol; BA-1-3: Entropization; BS-1-2: Three-Way Junction; BA-1-4: Cat In A Box; BA-1-5: Under the Undercurrents; BS-1-3: Tears of the Thorn; BA-1-6: Sudden Silence; BA-1-7: Bad Guy Fireworks; BS-1-4: Butterfly's Interment; BA-1-8: Love And Punishment; BA-1-9: Final Signal; BS-1-5: Ideal Reborn
 <!--/gen-->
 
-<!--gen:evidence act="Chapter 20"-->
+<!--gen:evidence act="Chapter 19.5"-->
 <details>
 <summary>Evidence</summary>
 
@@ -161,6 +161,6 @@ have been taken by three Dolls with a plan of their own and a truck.
 linked per chapter above.
 The campaigns these chapters shipped as have pages of their own:
 [Dawnforger](https://iopwiki.com/wiki/Dawnforger) and
-[Needy Cat Girl Overload](https://iopwiki.com/wiki/Needy_Cat_Girl_Overload).
+[Needy Catgirl Overload](https://iopwiki.com/wiki/Needy_Catgirl_Overload).
 - Durations: the YouTube uploads listed under each chapter above.
 See [README.md](README.md) for the method and its limits.

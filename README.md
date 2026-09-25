@@ -36,7 +36,7 @@ and the caveats that apply to that game in particular.
 The vocabulary differs by game:
 Arknights: Endfield numbers processes, Genshin Impact numbers acts,
 Girls' Frontline 2: Exilium numbers chapters across the whole game,
-five of them with a decimal, and groups them into nothing at all,
+six of them with a decimal, and groups them into nothing at all,
 Goddess of Victory: NIKKE numbers campaign chapters across the whole game
 and groups them into nothing at all,
 Honkai Impact 3rd numbers chapters across the whole game

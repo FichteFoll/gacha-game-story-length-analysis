@@ -233,12 +233,12 @@ Both shapes work; the report prints "name (number)" only when the two differ.
 
 - **Girls' Frontline 2: Exilium.** The fourth game here whose *entry* is a
   chapter, and the only one whose chapter numbers are not all whole: the
-  Campaign menu files five campaigns as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5
-  between two whole-numbered chapters. `act_number()` reads a decimal label as
-  a float and `numerals()` escapes the dot, so those chapters are matched by
-  number like any other; what they still need is a negative mark in
+  Campaign menu files six campaigns as Chapters 6.5, 6.7, 8.3, 8.7, 12.5 and
+  19.5, each numbered after the whole chapter it follows. `act_number()` reads
+  a decimal label as a float and `numerals()` escapes the dot, so those
+  chapters are matched by number like any other; what they still need is a negative mark in
   `act_keys.json` on the whole chapter whose number is a prefix of theirs
-  (Chapters 6, 8 and 12), because `\bchapter:? +6\b` matches "Chapter 6.5".
+  (Chapters 6, 8, 12 and 19), because `\bchapter:? +6\b` matches "Chapter 6.5".
   The chapters are grouped by nothing, as NIKKE's are, so the report invents
   volumes and says so; unlike NIKKE it can cut them where a campaign ends,
   because every chapter from 6.5 on shipped as a named campaign and the wiki
