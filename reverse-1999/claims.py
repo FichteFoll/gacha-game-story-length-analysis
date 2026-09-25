@@ -18,10 +18,10 @@ CLAIMS = [
     largest_chapter("a1", "the largest arc in the report"),
     median_between("a1", "Prologue", 1, 59,
                    "the only one whose entries run from under an hour "
-                   "to over eight"),
-    median_between("a1", "Chapter 7", 481, 900,
+                   "to over seven"),
+    median_between("a1", "Chapter 7", 421, 900,
                    "the only one whose entries run from under an hour "
-                   "to over eight"),
+                   "to over seven"),
     median_between("a1", "Chapter 1", 100, 180,
                    "then two to three hours each for Chapters 1 to 3"),
     median_between("a1", "Chapter 2", 100, 180,
@@ -71,8 +71,10 @@ CLAIMS = [
     total_ratio_between("a3", ["a2"], 1.0, 2.0,
                         "which between them outweigh the arc before this one "
                         "on the same number of entries"),
-    is_extreme("a3", "Chapter 12", "max",
-               "Chapter 12 is the longest of the three"),
-    rank_at_most("a3", "Chapter 12", 2,
-                 "and the second longest entry in the game", scope="global"),
+    # With Chapter 7 the longest entry in the game (asserted above), a global
+    # rank of three or better for both makes them the arc's longer two.
+    rank_at_most("a3", "Chapter 12", 3,
+                 "Chapters 12 and 13 are the longer two of the three", scope="global"),
+    rank_at_most("a3", "Chapter 13", 3,
+                 "Chapters 12 and 13 are the longer two of the three", scope="global"),
 ]

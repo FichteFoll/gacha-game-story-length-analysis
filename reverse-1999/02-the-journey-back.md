@@ -18,7 +18,7 @@ is the longest of the three.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 8 | Tristes Tropiques | 4 h 30 min | 4 h 16 min - 5 h 23 min | 11 | low |
 | Chapter 9 | Folie et Déraison | 4 h 18 min | 3 h 24 min - 5 h 23 min | 12 | low |
-| Chapter 10 | Paradise Regained | 6 h 18 min | 5 h 30 min - 7 h 53 min | 11 | low |
+| Chapter 10 | Paradise Regained | 6 h 18 min | 5 h 30 min - 6 h 59 min | 11 | low |
 <!--/gen-->
 
 **Total: <!--f:total-->15 h 06 min<!--/f-->**
@@ -47,12 +47,12 @@ by way of The Minotaur and a Riptide.
 <!--gen:stats act="Chapter 8"-->
 
 - **Estimated length:** 4 h 30 min
-- **Sampled range:** 4 h 16 min to 5 h 23 min for the middle half (full spread 3 h 50 min to 6 h 46 min) across 11 playthrough uploads (38 further candidates screened out)
+- **Sampled range:** 4 h 16 min to 5 h 23 min for the middle half (full spread 3 h 50 min to 6 h 43 min) across 11 playthrough uploads (38 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 2.2
 - **Stability:** median -17% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 11 uploads
-- **Quest parts (24):** Unshakable Justice (11 min); A New Photo of an Old Friend (11 min); The Minotaur (11 min); Riptide (11 min); Waterway to Hell (10 min); Tender Pretender (14 min); False Accusations (17 min); On the Margins of Life and Death (11 min); Aged Like Fine Wine (16 min); Boarding the White Ship (9 min); Sao Paulo Bossa Nova (12 min); "Silent Night, Holy Night" (8 min); Boto Cor-de-Rosa (14 min); The Sleepless Man (12 min); The Northern Falcon (13 min); "Family Reunion" (12 min); The Black Lamb (12 min); Eye of the Hurricane (8 min); The Gamble (12 min); Farewell, Pera (13 min); Ground Zero (10 min); The Roaring Forties (7 min); The Final Curtain (11 min); Monologues (4 min)
+- **Measured from the uploader's chapter markers:** 4 of 11 uploads
+- **Quest parts (24):** Unshakable Justice (11 min); A New Photo of an Old Friend (11 min); The Minotaur (7 min); Riptide (11 min); Waterway to Hell (8 min); Tender Pretender (14 min); False Accusations (10 min); On the Margins of Life and Death (11 min); Aged Like Fine Wine (10 min); Boarding the White Ship (8 min); Sao Paulo Bossa Nova (8 min); "Silent Night, Holy Night" (8 min); Boto Cor-de-Rosa (14 min); The Sleepless Man (12 min); The Northern Falcon (8 min); "Family Reunion" (7 min); The Black Lamb (10 min); Eye of the Hurricane (7 min); The Gamble (8 min); Farewell, Pera (10 min); Ground Zero (7 min); The Roaring Forties (7 min); The Final Curtain (11 min); Monologues (4 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 8"-->
@@ -61,7 +61,7 @@ by way of The Minotaur and a Riptide.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 3 h 50 min | Reverse 1999 \| Continuing Main Story Chapter 8 Tristes Tropiques | Fiphie E | ~10 | n/a | <https://www.youtube.com/watch?v=r0lT9uVSAIc> |
+| 3 h 50 min | Reverse 1999 \| Continuing Main Story Chapter 8 Tristes Tropiques | Fiphie E | 11 | 2025-08-24 | <https://www.youtube.com/watch?v=r0lT9uVSAIc> |
 | 3 h 59 min | [Reverse:1999] Those Tropiques be real Tristes - 2.2 Chapter 8 Main Story | Apeironite | 393 | 2025-01-11 | <https://www.youtube.com/watch?v=TOloCUrvVnc> |
 | 4 h 16 min | Chapter 8 Tristes Tropiques Pt 1 \| Reverse: 1999 Main Story Playthrough (11/13/2025) | daniextralife | 60 | 2025-11-15 | <https://www.youtube.com/watch?v=4JLxMAcojhU> |
 | 4 h 20 min | [REVERSE:1999] finishing Tristes Tropiques until MY BUTT FLATTENS | Haku -Niephylia Fleur- Ch. | 5 | 2025-10-04 | <https://www.youtube.com/watch?v=6SLZugO3_GQ> |
@@ -70,8 +70,8 @@ by way of The Minotaur and a Riptide.
 | 5 h 03 min | Chapter 8: Tristes Tropiques - Full Story \| Reverse: 1999 | Villenthessis | 5,855 | 2025-01-10 | <https://www.youtube.com/watch?v=Q3qPwToZuzk> |
 | 5 h 17 min | 【Reverse: 1999】Chapter 8 "Tristes Tropiques" Full Story [JP Dub] | Super Executive | 1,465 | 2025-01-12 | <https://www.youtube.com/watch?v=-g2F-l6eK3g> |
 | 5 h 23 min | REVERSE 1999 2.2 chapter 8 Tristes Tropiques full story | Equilibrium | 95 | 2025-01-14 | <https://www.youtube.com/watch?v=EX7L6GzvsY8> |
-| 6 h 43 min | [Reverse: 1999] Story Time! Chapter 8: Tristes Tropiques! 2nd Anniversary Update! | Leahvana【Sakura Squad】 | ~50 | n/a | <https://www.youtube.com/watch?v=mwKF5frXSxQ> |
-| 6 h 46 min | 🌇 Reverse: 1999 2.2 - Chapter 8: "Tristes Tropiques" Full Story and Playthrough 🌇 | Alex 393 | ~25 | n/a | <https://www.youtube.com/watch?v=pBeIy8MEQGg> |
+| 5 h 48 min | 🌇 Reverse: 1999 2.2 - Chapter 8: "Tristes Tropiques" Full Story and Playthrough 🌇 | Alex 393 | 25 | 2025-01-31 | <https://www.youtube.com/watch?v=pBeIy8MEQGg> |
+| 6 h 43 min | [Reverse: 1999] Story Time! Chapter 8: Tristes Tropiques! 2nd Anniversary Update! | Leahvana【Sakura Squad】 | 50 | 2025-09-20 | <https://www.youtube.com/watch?v=mwKF5frXSxQ> |
 
 </details>
 <!--/gen-->
@@ -100,9 +100,9 @@ and close on In the Place of My Ashes.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 56 min | I DON'T LIKE THESE BOOKS- Folie et Déraison Playthrough【Reverse:1999】 | Moki | ~445 | n/a | <https://www.youtube.com/watch?v=piuv--FmjUw> |
-| 3 h 15 min | 【 Reverse 1999 】 Chapter 9 Here I Come [ Folie et Déraison ] | Fiphie E | ~13 | n/a | <https://www.youtube.com/watch?v=aWK6_3WyNLs> |
-| 3 h 22 min | Folie et Déraison \| Reverse 1999 Main Storyline Chapter 9 \| Part 1 \| No Commentary | NEON DEMON | ~3 | n/a | <https://www.youtube.com/watch?v=c4goUWhmPlg> |
+| 2 h 56 min | I DON'T LIKE THESE BOOKS- Folie et Déraison Playthrough【Reverse:1999】 | Moki | 464 | 2025-11-29 | <https://www.youtube.com/watch?v=piuv--FmjUw> |
+| 3 h 15 min | 【 Reverse 1999 】 Chapter 9 Here I Come [ Folie et Déraison ] | Fiphie E | 16 | 2025-09-10 | <https://www.youtube.com/watch?v=aWK6_3WyNLs> |
+| 3 h 22 min | Folie et Déraison \| Reverse 1999 Main Storyline Chapter 9 \| Part 1 \| No Commentary | NEON DEMON | 7 | 2026-08-17 | <https://www.youtube.com/watch?v=c4goUWhmPlg> |
 | 3 h 32 min | Panopticon Poetry - Reverse 1999 Main Story Chapter 9 [Part 1] | SaberBG Streams | 10 | 2026-06-27 | <https://www.youtube.com/watch?v=Ya_asG6jqMY> |
 | 4 h 00 min | Chapter 9 Folie et Deraison Pt 1 \| Reverse: 1999 Main Story Playthrough (11/19/2025) | daniextralife | ~139 | n/a | <https://www.youtube.com/watch?v=vrIHFxKHk0M> |
 | 4 h 13 min | Folie et Déraison \| Reverse: 1999 \| Chapter 9 Full Story [4K] [No Commentary] | 八咫烏_Merui | 25,211 | 2025-06-04 | <https://www.youtube.com/watch?v=F9iSnbf9-2A> |
@@ -125,12 +125,12 @@ from The Rime of the Ancient Mariner to Apocalypsis cum figuris.
 <!--gen:stats act="Chapter 10"-->
 
 - **Estimated length:** 6 h 18 min
-- **Sampled range:** 5 h 30 min to 7 h 53 min for the middle half (full spread 3 h 06 min to 8 h 13 min) across 11 playthrough uploads (42 further candidates screened out)
+- **Sampled range:** 5 h 30 min to 6 h 59 min for the middle half (full spread 3 h 06 min to 8 h 13 min) across 11 playthrough uploads (42 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 2.8
 - **Stability:** median -14% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 11 uploads
-- **Quest parts (24):** The Rime of the Ancient Mariner (15 min); An Icy Road (11 min); My Travel Companions (13 min); Et tu, Brute? (9 min); Have a safe journey.; Under Glaring Light (12 min); The Worst Journey in the World (13 min); The Fool and the High Priestess (14 min); The Call of the Wild (9 min); Des pas sur la neige (18 min); Just Another Laplace Experiment (17 min); The Nine-Layered City (21 min); My Dear Siblings (11 min); In the Mouth of Madness (14 min); The Broken Land of Bliss (24 min); The Owl of Minerva (16 min); To a Skylark (17 min); Same Road, Different Destinations (16 min); The Weaving of Our Pasts (14 min); The Way I Came (21 min); By Their Untainted Blood (9 min); And Then Came the Savior (15 min); The Other Bank of the River (12 min); Apocalypsis cum figuris (7 min)
+- **Measured from the uploader's chapter markers:** 4 of 11 uploads
+- **Quest parts (24):** The Rime of the Ancient Mariner (10 min); An Icy Road (11 min); My Travel Companions (13 min); Et tu, Brute? (9 min); Have a safe journey. (2 min); Under Glaring Light (7 min); The Worst Journey in the World (13 min); The Fool and the High Priestess (9 min); The Call of the Wild (9 min); Des pas sur la neige (12 min); Just Another Laplace Experiment (17 min); The Nine-Layered City (12 min); My Dear Siblings (11 min); In the Mouth of Madness (14 min); The Broken Land of Bliss (24 min); The Owl of Minerva (9 min); To a Skylark (17 min); Same Road, Different Destinations (11 min); The Weaving of Our Pasts (14 min); The Way I Came (12 min); By Their Untainted Blood (5 min); And Then Came the Savior (14 min); The Other Bank of the River (12 min); Apocalypsis cum figuris (7 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 10"-->
@@ -140,15 +140,15 @@ from The Rime of the Ancient Mariner to Apocalypsis cum figuris.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 3 h 06 min | 【Reverse 1999 】Nautika Im Coming For You My Girl  [ Chapter 10 Paradise Regained ] | Fiphie E | 26 | 2025-09-20 | <https://www.youtube.com/watch?v=pbVN27omelA> |
-| 3 h 42 min | Finally Playing CH 10 PARADISE REGAINED \| Reverse: 1999 2.8 PLAYTHROUGH P1-7 | Saerin | ~3,395 | n/a | <https://www.youtube.com/watch?v=aXjpvgwlvwI> |
+| 3 h 42 min | Finally Playing CH 10 PARADISE REGAINED \| Reverse: 1999 2.8 PLAYTHROUGH P1-7 | Saerin | 3,444 | 2025-10-05 | <https://www.youtube.com/watch?v=aXjpvgwlvwI> |
 | 5 h 30 min | Paradise Regained \| Chapter 10 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 81 | 2025-09-30 | <https://www.youtube.com/watch?v=69xvMuwStGs> |
-| 5 h 35 min | 【Reverse: 1999】WHERE'S DORES【Paradise Regained — 3】 | Kuruko Imai Ch. | ~487 | n/a | <https://www.youtube.com/watch?v=xSn5mGDHIWo> |
+| 5 h 35 min | 【Reverse: 1999】WHERE'S DORES【Paradise Regained — 3】 | Kuruko Imai Ch. | 490 | 2025-09-27 | <https://www.youtube.com/watch?v=xSn5mGDHIWo> |
 | 5 h 39 min | Paradise Regained \| Reverse: 1999 \| Chapter 10 Full Story [4K] [No Commentary] | 八咫烏_Merui | 22,566 | 2025-09-25 | <https://www.youtube.com/watch?v=5kLjK85EyXM> |
 | 6 h 18 min | [4K] Reverse:1999 Chapter 10 - Paradise Regained (No commentary) | Tetsu's Archive | 13 | 2025-09-26 | <https://www.youtube.com/watch?v=WoteAJQTxNE> |
+| 6 h 31 min | ☔ 🏔⛏ Reverse: 1999 2.8 - Chapter 10: "Paradise Regained" Full Story and Playthrough 🏔⛏ ☔ | Alex 393 | 17 | 2025-10-20 | <https://www.youtube.com/watch?v=aXby0JNlNYc> |
 | 6 h 40 min | Chapter 10: Paradise Regained - Full Story \| Reverse: 1999 | Villenthessis | 4,149 | 2025-09-22 | <https://www.youtube.com/watch?v=PlQY5mkSC7w> |
 | 6 h 59 min | [Reverse: 1999] Chapter 10–Paradise Regained  | HaWuTsKi Archive | 94 | 2025-10-25 | <https://www.youtube.com/watch?v=8Ni931PCeCA> |
 | 7 h 53 min | 【Reverse: 1999】Chapter 10 "Paradise Regained" Full Story [JP Dub] | Super Executive | ~717 | n/a | <https://www.youtube.com/watch?v=y_s24q-Q8eI> |
-| 7 h 54 min | ☔ 🏔⛏ Reverse: 1999 2.8 - Chapter 10: "Paradise Regained" Full Story and Playthrough 🏔⛏ ☔ | Alex 393 | ~17 | n/a | <https://www.youtube.com/watch?v=aXby0JNlNYc> |
 | 8 h 13 min | Reverse: 1999 Ver. 2.8 'Paradise Regained' [Chapter 10. Story Mode. Full] | Homo Ludens | 1,135 | 2025-09-20 | <https://www.youtube.com/watch?v=9lUMnt4XSIE> |
 
 </details>

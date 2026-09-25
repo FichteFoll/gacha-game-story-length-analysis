@@ -12,3 +12,4 @@
 [—–] ?\d+
 !\bmerel my beloved\b
 !\bwe are so cooked\b
+!\b(?:pt\.?|part) ?\d+ ?【reverse:1999】

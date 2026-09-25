@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 3: The Roots of the Tale
 
-**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 20 h 01 min**
+**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 19 h 09 min**
 <!--/gen-->
 
 The arc the game is in the middle of,
@@ -13,20 +13,20 @@ and the heaviest of the three arcs per chapter:
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 11 | A Long Long Way | 5 h 50 min | 4 h 54 min - 7 h 18 min | 10 | medium |
-| Chapter 12 | The Campaign's Tale | 7 h 20 min | 6 h 08 min - 7 h 56 min | 8 | medium |
+| Chapter 11 | A Long Long Way | 5 h 31 min | 4 h 54 min - 6 h 34 min | 10 | medium |
+| Chapter 12 | The Campaign's Tale | 6 h 47 min | 6 h 03 min - 7 h 50 min | 8 | medium |
 | Chapter 13 | On Another's Sorrow | 6 h 51 min | 5 h 56 min - 7 h 35 min | 8 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->20 h 01 min<!--/f-->**
+**Total: <!--f:total-->19 h 09 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->20 h 01 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->19 h 09 min<!--/f-->,
 which between them outweigh the arc before this one
 on the same number of entries.
-Chapter 12 is the longest of the three
-and the second longest entry in the game.
+Chapters 12 and 13 are the longer two of the three
+and, after Chapter 7, the longest entries in the game.
 These are the youngest pools in the report,
 which is what the wide middle halves below are:
 these chapters have had the least time to accumulate uploads.
@@ -42,13 +42,13 @@ from After the Flood to The Hill,
 with an Armistice and a Pardon along the way.
 <!--gen:stats act="Chapter 11"-->
 
-- **Estimated length:** 5 h 50 min
-- **Sampled range:** 4 h 54 min to 7 h 18 min for the middle half (full spread 3 h 58 min to 9 h 24 min) across 10 playthrough uploads (34 further candidates screened out)
+- **Estimated length:** 5 h 31 min
+- **Sampled range:** 4 h 54 min to 6 h 34 min for the middle half (full spread 3 h 58 min to 9 h 24 min) across 10 playthrough uploads (34 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 3.0
-- **Stability:** median -4% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 10 uploads
-- **Quest parts (22):** After the Flood (14 min); Old Boots (14 min); Battle of the Birds (16 min); Grayish Blue (12 min); Chrysanthemum (13 min); A Push for Peace (14 min); Under the Veil (16 min); Paths Crossed (16 min); Devil's Work (9 min); Wounds and Scars (13 min); A Fractured Sanctuary (17 min); Two Pounds of Sugar (17 min); Send-off (12 min); An Unfulfilled Prophecy (14 min); Serenity on the Wind (5 min); The Armistice (16 min); A False Dawn (12 min); Gates of Hell (9 min); 1-Hour Politics (13 min); Brimstone and Fire (23 min); The Pardon (11 min); The Hill (15 min)
+- **Stability:** median -9% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 5 of 10 uploads
+- **Quest parts (22):** After the Flood (13 min); Old Boots (12 min); Battle of the Birds (15 min); Grayish Blue (11 min); Chrysanthemum (11 min); A Push for Peace (13 min); Under the Veil (14 min); Paths Crossed (14 min); Devil's Work (9 min); Wounds and Scars (12 min); A Fractured Sanctuary (16 min); Two Pounds of Sugar (16 min); Send-off (10 min); An Unfulfilled Prophecy (12 min); Serenity on the Wind (5 min); The Armistice (13 min); A False Dawn (11 min); Gates of Hell (7 min); 1-Hour Politics (11 min); Brimstone and Fire (20 min); The Pardon (10 min); The Hill (13 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 11"-->
@@ -60,11 +60,11 @@ with an Armistice and a Pardon along the way.
 | 3 h 58 min | A Long Way \| Chapter 11 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 46 | 2026-06-06 | <https://www.youtube.com/watch?v=L3DwjhAUsPc> |
 | 4 h 21 min | A Long Long Way \| Reverse: 1999 \| Chapter 11 Full Story [4K] [No Commentary] | 八咫烏_Merui | 22,438 | 2025-11-06 | <https://www.youtube.com/watch?v=Zd3TA1QdRdg> |
 | 5 h 05 min | Chapter 11: A Long Long Way - Full Story \| Reverse: 1999 | Villenthessis | 2,644 | 2025-11-03 | <https://www.youtube.com/watch?v=6kE5OdCsYas> |
-| 5 h 15 min | [Reverse: 1999] Chapter 11–A Long Long Way  | HaWuTsKi Archive | ~107 | n/a | <https://www.youtube.com/watch?v=d2UQUOI_zeQ> |
+| 5 h 15 min | [Reverse: 1999] Chapter 11–A Long Long Way  | HaWuTsKi Archive | 112 | 2025-11-22 | <https://www.youtube.com/watch?v=d2UQUOI_zeQ> |
+| 5 h 16 min | 🌹 Reverse: 1999 3.0 - Chapter 11: "A Long Long Way" Full Story and Playthrough 🌹 | Alex 393 | 20 | 2025-11-13 | <https://www.youtube.com/watch?v=pDZKTsCph_M> |
 | 5 h 46 min | Chapter 11 A Long Long Way \| Reverse: 1999 Main Story Playthrough (12/10/2025) | daniextralife | 199 | 2025-12-11 | <https://www.youtube.com/watch?v=gFN1WKRnYN8> |
 | 5 h 55 min | 【Reverse: 1999】Chapter 11 "A Long Long Way" Full Story [JP Dub] | Super Executive | 653 | 2025-11-02 | <https://www.youtube.com/watch?v=rvrWn7xkySw> |
 | 6 h 07 min | [4K] Reverse:1999 Chapter 11 - A Long Long Way (No commentary) | Tetsu's Archive | 12 | 2025-11-04 | <https://www.youtube.com/watch?v=FSHDCcOE_kY> |
-| 7 h 06 min | 🌹 Reverse: 1999 3.0 - Chapter 11: "A Long Long Way" Full Story and Playthrough 🌹 | Alex 393 | ~20 | n/a | <https://www.youtube.com/watch?v=pDZKTsCph_M> |
 | 7 h 55 min | Exploring the consequences of war... Chapter 11 "A long long way" \| Reverse 1999 3.0 | HappyOwlTV | 175 | 2025-11-08 | <https://www.youtube.com/watch?v=PKXHnUGb46M> |
 | 9 h 24 min | IT'S WAR TIME \| Reverse: 1999 Chapter 11 | rarebear | 907 | 2026-02-22 | <https://www.youtube.com/watch?v=CaWF7tfcKcU> |
 
@@ -81,13 +81,13 @@ and the longest stage list in the arc.
 <!--gen:stats act="Chapter 12"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 7 h 20 min
-- **Sampled range:** 6 h 08 min to 7 h 56 min for the middle half (full spread 5 h 38 min to 9 h 50 min) across 8 playthrough uploads (40 further candidates screened out)
+- **Estimated length:** 6 h 47 min
+- **Sampled range:** 6 h 03 min to 7 h 50 min for the middle half (full spread 5 h 38 min to 9 h 50 min) across 8 playthrough uploads (40 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 3.3
-- **Stability:** median -1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 8 uploads
-- **Quest parts (25):** Quiet is the River Bank; The Eternal Autumn; Intersection; Beneath the Silence; Strange Gazes; A Son's Confession; Both Sides of the River; The Negotiators and the Judge; White Night; Legacy of the Era; The Defender's Oath; Life and Fate; Farewell Letter; The Night Before War; Dust Between Fingers; Mercy; The Cavalry; The Pale Horse; Casualty Report; The Last Defense; The Admiral and His Men; Elegy for the Don; The Long Road Ahead; The Day of Departure; Crime and Punishment
+- **Stability:** median -8% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 8 uploads
+- **Quest parts (25):** Quiet is the River Bank (3 min); The Eternal Autumn (17 min); Intersection (14 min); Beneath the Silence (18 min); Strange Gazes (5 min); A Son's Confession (16 min); Both Sides of the River (14 min); The Negotiators and the Judge (16 min); White Night (17 min); Legacy of the Era (20 min); The Defender's Oath (8 min); Life and Fate (11 min); Farewell Letter (14 min); The Night Before War (14 min); Dust Between Fingers (15 min); Mercy (11 min); The Cavalry; The Pale Horse (6 min); Casualty Report (10 min); The Last Defense (7 min); The Admiral and His Men (9 min); Elegy for the Don (9 min); The Long Road Ahead (11 min); The Day of Departure (14 min); Crime and Punishment (15 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 12"-->
@@ -97,11 +97,11 @@ One of the three longest chapters in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 5 h 38 min | Marsha aka Sentinel's girlfriend is back! Chapter 12 "The Campaign's Tale" \| Reverse 1999 3.3 | HappyOwlTV | 257 | 2026-03-05 | <https://www.youtube.com/watch?v=R2sFsqvGgew> |
+| 6 h 03 min | The Campaign's Tale \| Reverse: 1999 \| Chapter 12 Full Story [4K] [No Commentary] | 八咫烏_Merui | 14,835 | 2026-03-14 | <https://www.youtube.com/watch?v=dasUwKTOJFU> |
 | 6 h 04 min | The Campaign's Tale \| Chapter 12 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 44 | 2026-06-12 | <https://www.youtube.com/watch?v=JY-eNhZ6vOs> |
 | 6 h 18 min | The Campaign's Tale - Full Story \| Reverse: 1999 | Villenthessis | ~555 | n/a | <https://www.youtube.com/watch?v=yU90XqRWoPo> |
 | 7 h 16 min | ⚔🐎 Reverse: 1999 3.3 - Chapter 12: "The Campaign's Tale" Full Story and Playthrough 🐎⚔ | Alex 393 | 19 | 2026-03-28 | <https://www.youtube.com/watch?v=M9St2n0CAbE> |
 | 7 h 23 min | Reverse: 1999 v3.3 The Campaign's Tale' [Chapter 12. Story. Full] | Homo Ludens | 98 | 2026-03-14 | <https://www.youtube.com/watch?v=vUy2BwKDalM> |
-| 7 h 50 min | The Campaign's Tale \| Reverse: 1999 \| Chapter 12 Full Story [4K] [No Commentary] | 八咫烏_Merui | ~12,803 | n/a | <https://www.youtube.com/watch?v=dasUwKTOJFU> |
 | 7 h 59 min | Reverse: 1999; Chapter 12: The Campaign's Tale [NO COMMENTARY] | Vilwyn | 2 | 2026-05-18 | <https://www.youtube.com/watch?v=4j8VpS_FrIw> |
 | 9 h 50 min | Igor throws the cube™ at you \| Reverse: 1999 Chapter 12 | rarebear | 876 | 2026-03-09 | <https://www.youtube.com/watch?v=L_IAsA_zS6Q> |
 

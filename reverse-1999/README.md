@@ -4,7 +4,7 @@ Duration estimates for every chapter of the *Reverse: 1999* main story,
 from the prologue aboard the APPLe to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->66 h 03 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->159<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->64 h 47 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->160<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
@@ -13,9 +13,9 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 <!--gen:chapters-->
 | Arc | Chapters | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 30 h 56 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
+| Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 30 h 32 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
 | Arc 2: The Journey Back | 8 - 10 | 2.2 - 2.8 | 3 | 15 h 06 min | [02-the-journey-back.md](02-the-journey-back.md) |
-| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 20 h 01 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
+| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 19 h 09 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -23,13 +23,13 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
-| longest | Arc 1, Chapter 7: Vereinsamt | 8 h 05 min |
-| longest | Arc 3, Chapter 12: The Campaign's Tale | 7 h 20 min |
+| longest | Arc 1, Chapter 7: Vereinsamt | 7 h 44 min |
 | longest | Arc 3, Chapter 13: On Another's Sorrow | 6 h 51 min |
+| longest | Arc 3, Chapter 12: The Campaign's Tale | 6 h 47 min |
 | longest | Arc 2, Chapter 10: Paradise Regained | 6 h 18 min |
-| longest | Arc 3, Chapter 11: A Long Long Way | 5 h 50 min |
+| longest | Arc 3, Chapter 11: A Long Long Way | 5 h 31 min |
+| shortest | Arc 1, Prologue: This is Tomorrow | 35 min |
 | shortest | Arc 1, Inter Chapter - II: To the New World | 36 min |
-| shortest | Arc 1, Prologue: This is Tomorrow | 38 min |
 | shortest | Arc 1, Inter Chapter - I: The Star | 1 h 22 min |
 <!--/gen-->
 
@@ -74,6 +74,9 @@ The game's own stage codes ("7TH-12", "1-16"), a "Stage 13-18" range
 and a "(1/3)" mark a split with no second reading;
 a "Part 2" or a "pt. 36" may still be readmitted on its runtime,
 since it is as likely to be the third instalment of a complete playthrough.
+One channel streams a chapter in halves
+each as long as another uploader's whole chapter,
+so its numbered parts are screened out by name instead.
 - **The inter chapters need naming twice.** *The Star* and
 *To the New World* are ordinary enough phrases that matching an upload on
 the words alone would sweep in half the game;
