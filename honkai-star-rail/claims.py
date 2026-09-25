@@ -40,9 +40,9 @@ CLAIMS = [
 
     is_extreme("planarcadia", "Mission 1", "max",
                "The opening mission is the longest, at {longest_len}"),
-    is_extreme("planarcadia", "Mission 4", "min",
-               "the four after it settle between {shortest_len} and {len_Mission_2}"),
     rank_at_most("planarcadia", "Mission 2", 2,
-                 "the four after it settle between {shortest_len} and {len_Mission_2}",
+                 "followed by *Unraveled for Daybreak* at {len_Mission_2}",
                  scope="chapter"),
+    is_extreme("planarcadia", "Mission 6", "min",
+               "*To Roll the Stars in Astropolis* is the shortest, at {shortest_len}"),
 ]

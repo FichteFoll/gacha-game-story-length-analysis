@@ -24,7 +24,7 @@ REPORT = dict(
     gate_label="Level",
     # What this game numbers its acts with, for the renderer's own headings.
     unit="Mission",
-    date="2026-08-18",
+    date="2026-09-26",
 )
 
 CHAPTERS = [
@@ -61,7 +61,7 @@ CHAPTERS = [
     dict(
         id="planarcadia", slug="05-planarcadia", wiki_page="Planarcadia",
         region="Planarcadia",
-        versions="4.0 - 4.4",
+        versions="4.0 - 4.5",
         title="Planarcadia",
     ),
 ]

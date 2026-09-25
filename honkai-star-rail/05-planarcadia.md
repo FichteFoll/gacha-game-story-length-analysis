@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.4 | **Entries:** 5 | **Estimated chapter length: 27 h 47 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 03 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -9,6 +9,9 @@ with a vacant divine throne and a reward for whoever entertains
 the masses best.
 Everyone wears a mask, the Fool works the crowd,
 and Elation turns out to have a bill attached.
+When the husk of Voracity wakes,
+the Express carries the painting's refugees to Astropolis,
+where the IPC votes on whether Planarcadia is worth saving.
 
 ## At a glance
 
@@ -20,15 +23,17 @@ and Elation turns out to have a bill attached.
 | Mission 3 | So Laughed the Masses | 4 h 40 min | 4 h 13 min - 5 h 01 min | 12 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
+| Mission 6 | To Roll the Stars in Astropolis | 3 h 16 min | 3 h 01 min - 3 h 26 min | 19 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->27 h 47 min<!--/f-->**
+**Total: <!--f:total-->31 h 03 min<!--/f-->**
 
 ## Pacing
 
 The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
-and the four after it settle between
-<!--f:shortest_len-->4 h 11 min<!--/f--> and <!--f:len_Mission_2-->6 h 31 min<!--/f-->.
+followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 31 min<!--/f-->.
+*To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
+is the shortest, at <!--f:shortest_len-->3 h 16 min<!--/f-->.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
 and its figures the least settled.
@@ -248,8 +253,58 @@ the realm of death.
 </details>
 <!--/gen-->
 
+<!--gen:act-heading act="Mission 6"-->
+### Mission 6 - [To Roll the Stars in Astropolis](https://honkai-star-rail.fandom.com/wiki/To_Roll_the_Stars_in_Astropolis)
+<!--/gen-->
+
+Asat Pramad feeds himself to the waking husk,
+the Trailblazer takes over as Navigator for the evacuation to Astropolis,
+and a deadlocked IPC vote on Planarcadia's fate
+comes down to one department head, Arita.
+The pitch that wins it is a new Phantasmoon Games,
+and Nihilux turns out to be Aha.
+<!--gen:stats act="Mission 6"-->
+
+- **Estimated length:** 3 h 16 min
+- **Sampled range:** 3 h 01 min to 3 h 26 min for the middle half (full spread 2 h 49 min to 4 h 04 min) across 19 playthrough uploads (20 further candidates screened out)
+- **Confidence:** high
+- **Level gate:** -
+- **Released in:** 4.5
+- **Quest parts (6):** Why Hasn't Everything Already Disappeared?; World Hunger Theater; Regarding the Pain of Others; The Conspiracy of Art, The Flesh of Images; Identity and Resistance, Play and the Police; Mythological Philosophy and Fair Game
+<!--/gen-->
+
+<!--gen:evidence act="Mission 6"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 49 min | To Roll the Stars in Astropolis Full Story Part 1 \| Trailblazer Mission [ HSR 4.5 VERSION ] | Zhenyx | 96 | 2026-08-26 | <https://www.youtube.com/watch?v=wUd1s-BtDBU> |
+| 2 h 57 min | Version 4.5 Trailblaze Mission Full Story HD \| To Roll The Stars In Astropolis \| Honkai Star Rail | Noxxis Gaming | 1,118 | 2026-08-26 | <https://www.youtube.com/watch?v=QL6RYUDxgnk> |
+| 2 h 57 min | To Roll the Stars in Astropolis Full Quest \| Honkai: Star Rail 4.5 | jieun | 201 | 2026-08-28 | <https://www.youtube.com/watch?v=W7EWuGNI0Lk> |
+| 3 h 00 min | Honkai Star Rail \| 4.5 Main Story Quest Full Walkthrough \| To Roll the Stars in Astropolis | More ZeeTM | 44 | 2026-08-29 | <https://www.youtube.com/watch?v=qLqtlo-Z_T8> |
+| 3 h 01 min | 【HONKAI STAR RAIL】To Roll the Stars in Astropolis - ver 4.5 Trailblaze mission full playthrough | ameth | 2 | 2026-09-05 | <https://www.youtube.com/watch?v=Ym-hu1k_JNs> |
+| 3 h 08 min | Act V Part VI: To Roll the Stars in Astropolis (Full Main Story) \| Honkai Star Rail 4.5 | Sir Patty | 55 | 2026-08-28 | <https://www.youtube.com/watch?v=e-_-mqiOTus> |
+| 3 h 10 min | [4.5 Trailblaze Mission] To Roll the Stars in Astropolis \| Chinese \| Honkai: Star Rail | Lake | 86 | 2026-08-30 | <https://www.youtube.com/watch?v=fDCBFDOQoms> |
+| 3 h 11 min | Planarcadia/Astropolis Trailblaze Mission - To Roll the Stars in Astropolis \| Honkai Star Rail  4.5 | TriMori | 302 | 2026-08-28 | <https://www.youtube.com/watch?v=gvu6YAcqaNc> |
+| 3 h 12 min | Playing "To Roll the Stars in Astropolis" HSR 4.5 Trailblaze Mission Full Playthrough | void | 808 | 2026-08-29 | <https://www.youtube.com/watch?v=rndV3uml7cs> |
+| 3 h 16 min | Honkai Star Rail 4.5 Trailblaze Mission "To Roll the Stars in Astropolis" Playthrough | SilverWolfNSFW | 6 | 2026-08-27 | <https://www.youtube.com/watch?v=4s8W2gdIrX4> |
+| 3 h 22 min | Honkai Star Rail 4.5 - To Roll The Stars In Astropolis - New Trailblaze Mission \| Full Gameplay | Jonozoic | 16 | 2026-08-26 | <https://www.youtube.com/watch?v=DZewJfUEwe4> |
+| 3 h 23 min | Honkai: Star Rail 4.5 — To Roll the Stars in Astropolis (Full Main Story Quest) | BSS Gaming | 453 | 2026-08-26 | <https://www.youtube.com/watch?v=gIL187On7Ow> |
+| 3 h 23 min | Main Story Full Walkthrough \| Honkai Star Rail 4.5 \| To Roll the Stars in Astropolis | Arie seventline | 187 | 2026-08-26 | <https://www.youtube.com/watch?v=zZeqMqmtA94> |
+| 3 h 24 min | Honkai: Star Rail ver. 4.5 [To Roll the Stars in Astropolis] - Trailblaze Mission Full Playthrough | syll_ | 6 | 2026-09-15 | <https://www.youtube.com/watch?v=_ygy_6ObCHY> |
+| 3 h 26 min | Honkai Star Rail Part 122 - To Roll the Stars in Astropolis (4.5) | Agent Potango | 8 | 2026-08-28 | <https://www.youtube.com/watch?v=B2I-JILqM6Y> |
+| 3 h 32 min | To Roll the Stars in Astropolis Trailblaze Mission \| Honkai Star Rail 4.5 | Starlight Phantom  | 29 | 2026-08-26 | <https://www.youtube.com/watch?v=fUKgcDrJfJU> |
+| 3 h 34 min | Honkai: Star Rail 4.5 – To Roll the Stars in Astropolis \| Full Trailblaze Mission (With Timestamps) | Riku-sama | 75 | 2026-09-16 | <https://www.youtube.com/watch?v=Lfe4RdqJQ68> |
+| 3 h 44 min | We need to ESCAPE! ✧ To Roll the Stars in Astropolis ✦ Honkai: Star Rail 4.5 | Eve_ningMusic | 18,113 | 2026-08-28 | <https://www.youtube.com/watch?v=381phTfiXnc> |
+| 4 h 04 min | Honkai: Star Rail: To Roll the Stars in Astropolis (Part 1). | TheXGamer | 35 | 2026-08-26 | <https://www.youtube.com/watch?v=LyBReQU_WqQ> |
+
+</details>
+<!--/gen-->
+
 ## Sources
 
 - Questline structure, mission titles, quest parts and Level gates: [Planarcadia](https://honkai-star-rail.fandom.com/wiki/Planarcadia) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
+- Where *To Roll the Stars in Astropolis* is filed and set: [To Roll the Stars in Astropolis](https://honkai-star-rail.fandom.com/wiki/To_Roll_the_Stars_in_Astropolis), which places it on Planarcadia and [Astropolis](https://honkai-star-rail.fandom.com/wiki/Astropolis), and the Trailblaze Mission page, which lists it under Planarcadia/Astropolis.
 - Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.
