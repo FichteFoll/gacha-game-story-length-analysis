@@ -11868,10 +11868,11 @@
     "title": "[Wuthering Waves Main Quest] The Star That Voyages Far - Part 1: Explore The Space Station - Aemeath",
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=qtocUpIFwD0",
-    "views": "895",
+    "views": 995,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260205"
    },
    {
     "seconds": 17570,
@@ -18147,7 +18148,9 @@
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=_REOuced6lg",
     "views": 28,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260820"
    },
    {
@@ -18293,7 +18296,9 @@
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=PNjg8KAcVdE",
     "views": 46,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260820"
    },
    {
@@ -18335,7 +18340,9 @@
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=swF30IHBpG0",
     "views": 8,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260823"
    },
    {
@@ -18355,7 +18362,9 @@
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=hLEHTNWCbZ0",
     "views": 166,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260821"
    },
    {
@@ -18409,6 +18418,396 @@
     "views": 18,
     "rejected": [],
     "upload_date": "20260821"
+   },
+   {
+    "seconds": 13065,
+    "title": "HOLLOW KNIGHT Full Gameplay Walkthrough / No Commentary \u3010FULL GAME\u30114K 60FPS Ultra HD",
+    "uploader": "Gamer's Little Playground",
+    "url": "https://www.youtube.com/watch?v=G1atkq4C1KU",
+    "views": 4347552,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20230909"
+   },
+   {
+    "seconds": 43074,
+    "title": "HOLLOW KNIGHT SILKSONG Gameplay Walkthrough FULL GAME [4K 60FPS PC ULTRA] - No Commentary",
+    "uploader": "MKIceAndFire",
+    "url": "https://www.youtube.com/watch?v=PgUssv-fV7w",
+    "views": 1617314,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250906"
+   },
+   {
+    "seconds": 24424,
+    "title": "Silksong - Full Game Walkthrough (Act 3 Included)",
+    "uploader": "BeardBear",
+    "url": "https://www.youtube.com/watch?v=PQJXZKrbK74",
+    "views": 171292,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250912"
+   },
+   {
+    "seconds": 62145,
+    "title": "DELTARUNE - Full Game Walkthrough (Chapter 3 & 4 Included)",
+    "uploader": "BeardBear",
+    "url": "https://www.youtube.com/watch?v=AttWezsgbYw",
+    "views": 1127253,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250621"
+   },
+   {
+    "seconds": 42934,
+    "title": "KINGDOM HEARTS Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+    "uploader": "Shirrako",
+    "url": "https://www.youtube.com/watch?v=rs_2B-woMMU",
+    "views": 362119,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240615"
+   },
+   {
+    "seconds": 14365,
+    "title": "Block Tales: Chapters 1-4 + Pre-Prologue - Full Game Walkthrough | Roblox",
+    "uploader": "BrosClanYt",
+    "url": "https://www.youtube.com/watch?v=vXVOKSL9EAs",
+    "views": 695529,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250601"
+   },
+   {
+    "seconds": 11328,
+    "title": "Song of the Heart Sword | Wuwa 3.6 pt1",
+    "uploader": "TheSeer",
+    "url": "https://www.youtube.com/watch?v=htK6kM2dIbA",
+    "views": 893,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 16722,
+    "title": "Wuwa 3.6 Full Playthrough | Song of the Heart Sword",
+    "uploader": "SSRPuller",
+    "url": "https://www.youtube.com/watch?v=VlxYPf4NhbM",
+    "views": 997,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 1347,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 101 | Song of the Heart Sword | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=pOV7IedHpGM",
+    "views": 40,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 3302,
+    "title": "wuthering waves [song of the heart sword] huanglong story quest",
+    "uploader": "kkXiaomin",
+    "url": "https://www.youtube.com/watch?v=-qEfun4FJ1M",
+    "views": 24,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260905"
+   },
+   {
+    "seconds": 17727,
+    "title": "Song of the Heart Sword - Mengzhou Main Quest Full Story Wuthering Waves 3.6 | Qingxiao x Hsin",
+    "uploader": "AZureMaxx",
+    "url": "https://www.youtube.com/watch?v=vRaArFoJhtg",
+    "views": 1043,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 3989,
+    "title": "Wuthering Waves, Song Of The Heart Sword: 3.6 Quest - Part 1 (All Cutscenes)",
+    "uploader": "Nethermancer",
+    "url": "https://www.youtube.com/watch?v=cvYdSBEOOuk",
+    "views": "81",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 17074,
+    "title": "Wuthering Waves song of the heart sword (qingxiao) quest",
+    "uploader": "V11XREV",
+    "url": "https://www.youtube.com/watch?v=zf-BOBZqBxA",
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 17651,
+    "title": "Song of the Heart Sword | The Nethermancer's Requiem | Main Quest | Wuthering Waves 3.6",
+    "uploader": "YamiRyuGaming",
+    "url": "https://www.youtube.com/watch?v=3llHn1pnaSU",
+    "views": 108,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 656,
+    "title": "Song of the Heart Sword\ud83e\udee9Ending",
+    "uploader": "WristybuG",
+    "url": "https://www.youtube.com/watch?v=41KytrzNGJw",
+    "views": 16,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260903"
+   },
+   {
+    "seconds": 16835,
+    "title": "Wuthering  Waves 3.6 Story Quest | Song of the Heart Sword",
+    "uploader": "Remyra",
+    "url": "https://www.youtube.com/watch?v=QGAxIKCStBw",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20260914"
+   },
+   {
+    "seconds": 3336,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 98 | Song of the Heart Sword | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=EdcnW9vPh3k",
+    "views": 9,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 3121,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 96 | Song of the Heart Sword | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=hDwikCxqoI8",
+    "views": "78",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3136,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 97 | Song of the Heart Sword | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=5n33PScDsqU",
+    "views": 27,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 16815,
+    "title": "Wuthering Waves 3.6 Full Story Walkthrough Chapter 4 Act 3 Song of the Heart Sword 4K DLSS RTX 5090",
+    "uploader": "RTXMonkey",
+    "url": "https://www.youtube.com/watch?v=y5xAlO47siU",
+    "views": 443,
+    "rejected": [],
+    "upload_date": "20260914"
+   },
+   {
+    "seconds": 3011,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 99 | Song of the Heart Sword | PS5PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=M07PQ-HKE-E",
+    "views": 31,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 386,
+    "title": "[Wuthering Waves Trophy] Others Will Follow: Complete \"Song Of The Heart Sword\"",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=3NgZd6bNamU",
+    "views": 147,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 14510,
+    "title": "Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough",
+    "uploader": "heriawsity",
+    "url": "https://www.youtube.com/watch?v=SMO9-sjm_50",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 17716,
+    "title": "Song of the Heart Sword [Mengzhou Chapter 4 - Act 3] 3.6 Wuthering Waves",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=iCxnklOlIkM",
+    "views": 323,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 8228,
+    "title": "Wuthering Waves: Main Quest 3.6 - Chapter 4 - Act 3 - Song of the Heart Sword (Part 2)",
+    "uploader": "HOANGDG",
+    "url": "https://www.youtube.com/watch?v=_VwAWXgzlKk",
+    "views": 16,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 10132,
+    "title": "Wuthering Waves: Main Quest 3.6 - Chapter 4 - Act 3 - Song of the Heart Sword (Part 1)",
+    "uploader": "HOANGDG",
+    "url": "https://www.youtube.com/watch?v=jz5k5_Ky5JA",
+    "views": 27,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 16530,
+    "title": "Song of the Heart Sword | Mengzhou Act III | Wuthering Waves ver 3.6",
+    "uploader": "LoneWanderer",
+    "url": "https://www.youtube.com/watch?v=A7YWOFl7dV8",
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 18789,
+    "title": "3.6 STORY FULL PLAYTHROUGH! Mengzhou Chapter IV Act III Song of the heart Sword",
+    "uploader": "ArcanumRealms",
+    "url": "https://www.youtube.com/watch?v=0njwdD5PYOE",
+    "views": 178,
+    "rejected": [],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 16092,
+    "title": "WuWa Main Quest Mengzhou Chapter 4 Act 3 - Song of the Heart Sword Full Game | Wuthering Waves 3.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=vE4qpBJ7gFE",
+    "views": 5132,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 17344,
+    "title": "Song of the Heart Sword - Wuthering Waves 3.6 Gameplay Part 45 (Chapter 4: Act 3)",
+    "uploader": "ShackDYT",
+    "url": "https://www.youtube.com/watch?v=G9K8VZzQXO4",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 17380,
+    "title": "Song of the Heart Sword \u2014 Mengzhou Chapter 4, Act 3 \u2014 Wuthering Waves 3.6",
+    "uploader": "RPG Plays TV",
+    "url": "https://www.youtube.com/watch?v=DcxOPTEZMvg",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260822"
+   },
+   {
+    "seconds": 15312,
+    "title": "Wuthering Wave 3.6 Act 3 Full Story Quest No Commentary Small segment and reveal Of Past Male Rover",
+    "uploader": "Shadow Monarch",
+    "url": "https://www.youtube.com/watch?v=qoogthR78Ro",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 1071,
+    "title": "Wuthering Waves 3.6 | Mengzhou Act 3 Segue: Jingran - Complete Main Story",
+    "uploader": "Lotus Ch.",
+    "url": "https://www.youtube.com/watch?v=EsAVvntzJyY",
+    "views": 153,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 17588,
+    "title": "Wuthering Waves 3.6 Story - Qingxiao Chapter 4 Act 3 & Jingran Segue Full Playthrough",
+    "uploader": "ItsDaveTV Plays and ItsDaveTV",
+    "url": "https://www.youtube.com/watch?v=O7mLrSdiMLs",
+    "views": 58,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 4074,
+    "title": "Wuthering Waves 3.6 - Main Story Quest Full Walkthrough (Chapter 4 Act 3 Part 1)",
+    "uploader": "Kiruno",
+    "url": "https://www.youtube.com/watch?v=5BlrPXBvXDk",
+    "views": 37,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 572,
+    "title": "All Cinematic Cutscenes - Main Quest Mengzhou Chapter 4 Act 3 | Wuthering Waves 3.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=8Wmi5-VnNO4",
+    "views": "114",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16573,
+    "title": "Wuthering Waves Chapter 4 Act 3 | 3.6 Main Story Quest",
+    "uploader": "Leojart",
+    "url": "https://www.youtube.com/watch?v=WjcJHWeH3Qw",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 17901,
+    "title": "Wuthering Waves 3.6 - New Main Story Quest",
+    "uploader": "Rover - WUWA",
+    "url": "https://www.youtube.com/watch?v=lpsoy0NbWuE",
+    "views": 54,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260829"
    }
   ],
   "kept": [
@@ -18431,13 +18830,31 @@
     "upload_date": "20260820"
    },
    {
-    "seconds": 16032,
-    "title": "Version 3.6 Main Story Quest Act 3 & Jingran Segue Story Full Gameplay - Wuthering Waves",
-    "uploader": "MaakuPlays",
-    "url": "https://www.youtube.com/watch?v=PNjg8KAcVdE",
-    "views": 46,
+    "seconds": 14510,
+    "title": "Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough",
+    "uploader": "heriawsity",
+    "url": "https://www.youtube.com/watch?v=SMO9-sjm_50",
+    "views": 21,
     "rejected": [],
-    "upload_date": "20260820"
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 15312,
+    "title": "Wuthering Wave 3.6 Act 3 Full Story Quest No Commentary Small segment and reveal Of Past Male Rover",
+    "uploader": "Shadow Monarch",
+    "url": "https://www.youtube.com/watch?v=qoogthR78Ro",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 16092,
+    "title": "WuWa Main Quest Mengzhou Chapter 4 Act 3 - Song of the Heart Sword Full Game | Wuthering Waves 3.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=vE4qpBJ7gFE",
+    "views": 5132,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 16279,
@@ -18461,6 +18878,15 @@
     "parts": {}
    },
    {
+    "seconds": 16530,
+    "title": "Song of the Heart Sword | Mengzhou Act III | Wuthering Waves ver 3.6",
+    "uploader": "LoneWanderer",
+    "url": "https://www.youtube.com/watch?v=A7YWOFl7dV8",
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
     "seconds": 16532,
     "title": "Main Quest 3.6: Song of the Heart Sword (Part 1) | Wuthering Waves",
     "uploader": "BBear",
@@ -18468,6 +18894,15 @@
     "views": 5,
     "rejected": [],
     "upload_date": "20260820"
+   },
+   {
+    "seconds": 16573,
+    "title": "Wuthering Waves Chapter 4 Act 3 | 3.6 Main Story Quest",
+    "uploader": "Leojart",
+    "url": "https://www.youtube.com/watch?v=WjcJHWeH3Qw",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 16659,
@@ -18488,6 +18923,33 @@
     "upload_date": "20260820"
    },
    {
+    "seconds": 16722,
+    "title": "Wuwa 3.6 Full Playthrough | Song of the Heart Sword",
+    "uploader": "SSRPuller",
+    "url": "https://www.youtube.com/watch?v=VlxYPf4NhbM",
+    "views": 997,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 16815,
+    "title": "Wuthering Waves 3.6 Full Story Walkthrough Chapter 4 Act 3 Song of the Heart Sword 4K DLSS RTX 5090",
+    "uploader": "RTXMonkey",
+    "url": "https://www.youtube.com/watch?v=y5xAlO47siU",
+    "views": 443,
+    "rejected": [],
+    "upload_date": "20260914"
+   },
+   {
+    "seconds": 16835,
+    "title": "Wuthering  Waves 3.6 Story Quest | Song of the Heart Sword",
+    "uploader": "Remyra",
+    "url": "https://www.youtube.com/watch?v=QGAxIKCStBw",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20260914"
+   },
+   {
     "seconds": 16933,
     "title": "Wuthering Waves 3.6: Song of the Heart Sword | Full Main Quest Walkthrough [4K]",
     "uploader": "Tarnished Blade ",
@@ -18497,31 +18959,49 @@
     "upload_date": "20260822"
    },
    {
-    "seconds": 17232,
-    "title": "Song of the Heart Sword & Segue: The Nethermancer's Requiem Wuthering Waves 3.6 Chapter IV Act III",
-    "uploader": "Sternking",
-    "url": "https://www.youtube.com/watch?v=_REOuced6lg",
-    "views": 28,
+    "seconds": 17074,
+    "title": "Wuthering Waves song of the heart sword (qingxiao) quest",
+    "uploader": "V11XREV",
+    "url": "https://www.youtube.com/watch?v=zf-BOBZqBxA",
+    "views": 4,
     "rejected": [],
-    "upload_date": "20260820"
+    "upload_date": "20260827"
    },
    {
-    "seconds": 17635,
-    "title": "Wuthering Waves 3.6 Main Story Quest - Chapter 4 Act 3 & Segue Full Playthrough (Female Rover)",
-    "uploader": "QuestWatcher",
-    "url": "https://www.youtube.com/watch?v=hLEHTNWCbZ0",
-    "views": 166,
+    "seconds": 17344,
+    "title": "Song of the Heart Sword - Wuthering Waves 3.6 Gameplay Part 45 (Chapter 4: Act 3)",
+    "uploader": "ShackDYT",
+    "url": "https://www.youtube.com/watch?v=G9K8VZzQXO4",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 17380,
+    "title": "Song of the Heart Sword \u2014 Mengzhou Chapter 4, Act 3 \u2014 Wuthering Waves 3.6",
+    "uploader": "RPG Plays TV",
+    "url": "https://www.youtube.com/watch?v=DcxOPTEZMvg",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260822"
+   },
+   {
+    "seconds": 17716,
+    "title": "Song of the Heart Sword [Mengzhou Chapter 4 - Act 3] 3.6 Wuthering Waves",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=iCxnklOlIkM",
+    "views": 323,
     "rejected": [],
     "upload_date": "20260821"
    },
    {
-    "seconds": 17812,
-    "title": "Wuthering Waves 3.6 - Main Story Quest Full Gameplay | Act 3 & Segue",
-    "uploader": "Jonozoic",
-    "url": "https://www.youtube.com/watch?v=swF30IHBpG0",
-    "views": 8,
+    "seconds": 18789,
+    "title": "3.6 STORY FULL PLAYTHROUGH! Mengzhou Chapter IV Act III Song of the heart Sword",
+    "uploader": "ArcanumRealms",
+    "url": "https://www.youtube.com/watch?v=0njwdD5PYOE",
+    "views": 178,
     "rejected": [],
-    "upload_date": "20260823"
+    "upload_date": "20260820"
    },
    {
     "seconds": 19797,
@@ -18543,13 +19023,13 @@
    }
   ],
   "stats": {
-   "n": 14,
+   "n": 23,
    "median": 278,
    "low": 167,
    "high": 361,
-   "q1": 270,
-   "q3": 295,
-   "trimmed_mean": 275,
+   "q1": 271,
+   "q3": 289,
+   "trimmed_mean": 278,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -18866,6 +19346,213 @@
      "act-mismatch"
     ],
     "upload_date": "20260823"
+   },
+   {
+    "seconds": 939,
+    "title": "Wuthering Waves Chapter IV Segue \u2014 The Nethermancer's Requiem | Story & Cutscenes",
+    "uploader": "ABC2000",
+    "url": "https://www.youtube.com/watch?v=1wr25Y1vFZc",
+    "views": "2",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1066,
+    "title": "Wuthering Waves 3.6 Chapter IV Main Story Segue \u2013 \"The Nethermancer's Requiem\" (JP Dub)",
+    "uploader": "Mikiyuki",
+    "url": "https://www.youtube.com/watch?v=U1OTVhYpiOo",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20260822"
+   },
+   {
+    "seconds": 1334,
+    "title": "Wuthering Waves 3.6 \u2013 Segue Quest: The Nethermancer\u2019s Requiem",
+    "uploader": "Merfyn",
+    "url": "https://www.youtube.com/watch?v=-oe08jh5xAk",
+    "views": 65,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 1053,
+    "title": "[Wuthering Waves Main Quest] The Nethermancer's Requiem: Head To Yanshu's Home And Ask After Jingran",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=2CWRbjvIgyo",
+    "views": 104,
+    "rejected": [],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 1198,
+    "title": "WUTHERING WAVES 3.6 - BLADE OF PAST RESOUNDS LINGERING DREAM HYMNS - Gameplay No Commentary| Part 44",
+    "uploader": "potato gaming id",
+    "url": "https://www.youtube.com/watch?v=xS2ENWmqGk4",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20260907",
+    "runtime": 19274,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
+    "seconds": 16588,
+    "title": "Version 3.6 Main Story Quest Wuthering Waves (Full Playthrough)",
+    "uploader": "TL NILESH",
+    "url": "https://www.youtube.com/watch?v=FZu1JYuKy7I",
+    "views": 78,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260822"
+   },
+   {
+    "seconds": 1072,
+    "title": "The Nethermancer's Requiem Full Quest Wuthering Waves 3.6",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=N86qJ_aqO7U",
+    "views": 564,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 12770,
+    "title": "WUTHERING WAVES 3.6 on PS5: \"The Nethermancer's Requiem\" Segue Quest",
+    "uploader": "Qushu92",
+    "url": "https://www.youtube.com/watch?v=eEhQq8K1TsI",
+    "views": 146,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 1101,
+    "title": "The Nethermancer's Requiem [Mengzhou Chapter 4 - Segue 2] 3.6 Wuthering Waves",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=dlTr23w03tU",
+    "views": 545,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 1048,
+    "title": "Wuthering Waves - Mengzhou Chapter 4 - Segue - The Nethermancer's Requiem - Main Quest",
+    "uploader": "Pik",
+    "url": "https://www.youtube.com/watch?v=42yVdT4hWZs",
+    "views": 332,
+    "rejected": [],
+    "upload_date": "20260903"
+   },
+   {
+    "seconds": 18702,
+    "title": "Wuthering Waves 3.6 - Full Questline - Song of the Heart Sword - The Nethermancer's Requiem - 4k60",
+    "uploader": "zerovonzero",
+    "url": "https://www.youtube.com/watch?v=u1ZIJQgiPHE",
+    "views": 17,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 1133,
+    "title": "Main Quest 3.6: The Nethermancer's Requiem (Part 2) | Wujthering Waves",
+    "uploader": "BBear",
+    "url": "https://www.youtube.com/watch?v=40XIFgfbZrk",
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
+    "seconds": 1263,
+    "title": "Wuthering Waves - The Nethermancer's Requiem - Complete Story Quest",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=AJbtLCboziI",
+    "views": 11,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 1064,
+    "title": "The Nethermancer's Requiem | Mengzhou Segue | Wuthering Waves ver 3.6",
+    "uploader": "LoneWanderer",
+    "url": "https://www.youtube.com/watch?v=-SkqIPy2zH8",
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 1064,
+    "title": "The Nethermancer's Requiem | Mengzhou Segue | Wuthering Waves ver 3.6",
+    "uploader": "LoneWanderer",
+    "url": "https://www.youtube.com/watch?v=CZhLSbZpKiM",
+    "views": 47,
+    "rejected": [
+     "same-uploader"
+    ],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 976,
+    "title": "Wuthering Waves - 3.6 - The Nethermancer's Requiem (No Commentary)",
+    "uploader": "Stinky Tofu",
+    "url": "https://www.youtube.com/watch?v=njJ7xhkH6is",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260908"
+   },
+   {
+    "seconds": 204,
+    "title": "[Wuthering Waves Trophy] Settling Old Debt: Complete \"The Nethermancer's Requiem\"",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=HGBV5wNSe5Y",
+    "views": 116,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 1191,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 102 | The Nethermancer's Requiem | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=RN2QZI98pgs",
+    "views": 57,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 1073,
+    "title": "Wuthering Waves Chapter 4 Segue: The Nethermancer's Requiem Walkthrough | 100% Complete",
+    "uploader": "Virtual Gaming",
+    "url": "https://www.youtube.com/watch?v=SuaARrD_Ve4",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20260907"
+   },
+   {
+    "seconds": 10500,
+    "title": "Wuthering Waves \u2013 Immortal Blaze Quest | Full Quest Gameplay & Walkthrough \ud83d\udd25#wutheringwaves",
+    "uploader": "GamingSwag ",
+    "url": "https://www.youtube.com/watch?v=NP4MSBBRSrw",
+    "views": 24,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 1068,
+    "title": "Chapter 4 : Act III Segue The Nethermancer's Requiem JP Dub FRover | Main Quest |  Wuthering Waves",
+    "uploader": "Falynn",
+    "url": "https://www.youtube.com/watch?v=DQrlu1gCjh8",
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20260828"
    }
   ],
   "kept": [
@@ -18877,6 +19564,15 @@
     "views": 7,
     "rejected": [],
     "upload_date": "20260824"
+   },
+   {
+    "seconds": 976,
+    "title": "Wuthering Waves - 3.6 - The Nethermancer's Requiem (No Commentary)",
+    "uploader": "Stinky Tofu",
+    "url": "https://www.youtube.com/watch?v=njJ7xhkH6is",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260908"
    },
    {
     "seconds": 1016,
@@ -18906,6 +19602,87 @@
     "upload_date": "20260823"
    },
    {
+    "seconds": 1048,
+    "title": "Wuthering Waves - Mengzhou Chapter 4 - Segue - The Nethermancer's Requiem - Main Quest",
+    "uploader": "Pik",
+    "url": "https://www.youtube.com/watch?v=42yVdT4hWZs",
+    "views": 332,
+    "rejected": [],
+    "upload_date": "20260903"
+   },
+   {
+    "seconds": 1053,
+    "title": "[Wuthering Waves Main Quest] The Nethermancer's Requiem: Head To Yanshu's Home And Ask After Jingran",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=2CWRbjvIgyo",
+    "views": 104,
+    "rejected": [],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 1064,
+    "title": "The Nethermancer's Requiem | Mengzhou Segue | Wuthering Waves ver 3.6",
+    "uploader": "LoneWanderer",
+    "url": "https://www.youtube.com/watch?v=-SkqIPy2zH8",
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 1066,
+    "title": "Wuthering Waves 3.6 Chapter IV Main Story Segue \u2013 \"The Nethermancer's Requiem\" (JP Dub)",
+    "uploader": "Mikiyuki",
+    "url": "https://www.youtube.com/watch?v=U1OTVhYpiOo",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20260822"
+   },
+   {
+    "seconds": 1068,
+    "title": "Chapter 4 : Act III Segue The Nethermancer's Requiem JP Dub FRover | Main Quest |  Wuthering Waves",
+    "uploader": "Falynn",
+    "url": "https://www.youtube.com/watch?v=DQrlu1gCjh8",
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 1072,
+    "title": "The Nethermancer's Requiem Full Quest Wuthering Waves 3.6",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=N86qJ_aqO7U",
+    "views": 564,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 1073,
+    "title": "Wuthering Waves Chapter 4 Segue: The Nethermancer's Requiem Walkthrough | 100% Complete",
+    "uploader": "Virtual Gaming",
+    "url": "https://www.youtube.com/watch?v=SuaARrD_Ve4",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20260907"
+   },
+   {
+    "seconds": 1101,
+    "title": "The Nethermancer's Requiem [Mengzhou Chapter 4 - Segue 2] 3.6 Wuthering Waves",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=dlTr23w03tU",
+    "views": 545,
+    "rejected": [],
+    "upload_date": "20260821"
+   },
+   {
+    "seconds": 1133,
+    "title": "Main Quest 3.6: The Nethermancer's Requiem (Part 2) | Wujthering Waves",
+    "uploader": "BBear",
+    "url": "https://www.youtube.com/watch?v=40XIFgfbZrk",
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260824"
+   },
+   {
     "seconds": 1134,
     "title": "WuWa 3.6 Mengzhou Story Quest: Act 3 & Segue | Wuthering Waves (JP Voice)",
     "uploader": "ViGAMES",
@@ -18916,19 +19693,49 @@
     "runtime": 18886,
     "measured": "chapter-markers",
     "parts": {}
+   },
+   {
+    "seconds": 1191,
+    "title": "\u300cWuthering Waves\u300dMain Quest | PART 102 | The Nethermancer's Requiem | PS5 PR0 [4K/60FPS HDR]",
+    "uploader": "Sakura Mizrahi",
+    "url": "https://www.youtube.com/watch?v=RN2QZI98pgs",
+    "views": 57,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 1198,
+    "title": "WUTHERING WAVES 3.6 - BLADE OF PAST RESOUNDS LINGERING DREAM HYMNS - Gameplay No Commentary| Part 44",
+    "uploader": "potato gaming id",
+    "url": "https://www.youtube.com/watch?v=xS2ENWmqGk4",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20260907",
+    "runtime": 19274,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
+    "seconds": 1334,
+    "title": "Wuthering Waves 3.6 \u2013 Segue Quest: The Nethermancer\u2019s Requiem",
+    "uploader": "Merfyn",
+    "url": "https://www.youtube.com/watch?v=-oe08jh5xAk",
+    "views": 65,
+    "rejected": [],
+    "upload_date": "20260828"
    }
   ],
   "stats": {
-   "n": 5,
-   "median": 17,
+   "n": 18,
+   "median": 18,
    "low": 16,
-   "high": 19,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 17,
-   "measured": 1,
+   "high": 22,
+   "q1": 17,
+   "q3": 19,
+   "trimmed_mean": 18,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.059
   }
  }
 ]

@@ -1,14 +1,14 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.6 | **Entries:** 5 | **Estimated chapter length: 10 h 38 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.6 | **Entries:** 5 | **Estimated chapter length: 10 h 39 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
 where Mengzhou's autopuppets have stopped obeying anyone
 and the province's old sword lineages are being asked why.
 The chapter is still being published:
-its last act and segue are days old at the time of writing.
+the wiki lists an Act IV that has not shipped at the time of writing.
 
 ## At a glance
 
@@ -18,11 +18,11 @@ its last act and segue are days old at the time of writing.
 | Act I | The Wind Before the Storm | 2 h 43 min | 2 h 28 min - 2 h 54 min | 25 | high |
 | Act II | Xuanling Sings, Storm Quelled | 2 h 41 min | 2 h 33 min - 3 h 00 min | 27 | high |
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
-| Act III | Song of the Heart Sword | 4 h 38 min | 4 h 30 min - 4 h 55 min | 14 | high |
-| Segue - II | The Nethermancer's Requiem | 17 min | 16 min - 19 min | 5 | low |
+| Act III | Song of the Heart Sword | 4 h 38 min | 4 h 31 min - 4 h 49 min | 23 | high |
+| Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 18 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->10 h 38 min<!--/f-->**
+**Total: <!--f:total-->10 h 39 min<!--/f-->**
 
 ## Pacing
 
@@ -31,12 +31,11 @@ Act III is the longest single entry in the game at
 <!--f:len_Act_III-->4 h 38 min<!--/f-->,
 where the two segues add
 <!--f:len_Segue_I-->19 min<!--/f--> and
-<!--f:len_Segue_II-->17 min<!--/f--> between them.
+<!--f:len_Segue_II-->18 min<!--/f--> between them.
 The acts themselves are the best-covered in the report,
-because a version that has just shipped is what everyone uploads;
-it is the closing segue that is thin,
-having had days rather than months to accumulate uploads,
-and it is rated accordingly.
+because a version that has just shipped is what everyone uploads,
+and the closing segue, thin while it was new,
+has since gathered enough uploads to be rated on its spread.
 
 ## Acts
 
@@ -203,12 +202,12 @@ and what Mengzhou's lineages have been holding back with it.
 The single longest act in the game.
 
 - **Estimated length:** 4 h 38 min
-- **Sampled range:** 4 h 30 min to 4 h 55 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 14 playthrough uploads (34 further candidates screened out)
+- **Sampled range:** 4 h 31 min to 4 h 49 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 23 playthrough uploads (63 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
 - **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 14 uploads
+- **Measured from the uploader's chapter markers:** 1 of 23 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -219,16 +218,25 @@ The single longest act in the game.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 47 min | 【WUTHERING WAVES】Song of the Heart Sword \| Chapter 4 Act 3 | Mirai Shishiou VODS | 0 | 2026-08-20 | <https://www.youtube.com/watch?v=5cak1d3gsTk> |
 | 2 h 52 min | Wuthering Waves Main Quest Chapter 4 Act 3: Song of the Heart Sword \| Pulling for Qingxiao #Qingxiao | Spec Ray  | 11 | 2026-08-20 | <https://www.youtube.com/watch?v=LaXEsrPkrq8> |
-| 4 h 27 min | Version 3.6 Main Story Quest Act 3 & Jingran Segue Story Full Gameplay - Wuthering Waves | MaakuPlays | 46 | 2026-08-20 | <https://www.youtube.com/watch?v=PNjg8KAcVdE> |
+| 4 h 02 min | Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough | heriawsity | 21 | 2026-08-23 | <https://www.youtube.com/watch?v=SMO9-sjm_50> |
+| 4 h 15 min | Wuthering Wave 3.6 Act 3 Full Story Quest No Commentary Small segment and reveal Of Past Male Rover | Shadow Monarch | 8 | 2026-08-26 | <https://www.youtube.com/watch?v=qoogthR78Ro> |
+| 4 h 28 min | WuWa Main Quest Mengzhou Chapter 4 Act 3 - Song of the Heart Sword Full Game \| Wuthering Waves 3.6 | Akabirama | 5,132 | 2026-08-21 | <https://www.youtube.com/watch?v=vE4qpBJ7gFE> |
 | 4 h 31 min | Chapter IV Act III "Song of the Heart Sword" \| Wuthering waves 3.6 | Nitrous Visioners | 57 | 2026-08-20 | <https://www.youtube.com/watch?v=9RDwN_q9szg> |
 | 4 h 34 min | Version 3.6 Main Story Quest Wuthering Waves (Full Playthrough) | Streetwise Rhapsody | 15,580 | 2026-08-20 | <https://www.youtube.com/watch?v=juMDwtdN74g> |
+| 4 h 36 min | Song of the Heart Sword \| Mengzhou Act III \| Wuthering Waves ver 3.6 | LoneWanderer | 28 | 2026-08-24 | <https://www.youtube.com/watch?v=A7YWOFl7dV8> |
 | 4 h 36 min | Main Quest 3.6: Song of the Heart Sword (Part 1) \| Wuthering Waves | BBear | 5 | 2026-08-20 | <https://www.youtube.com/watch?v=SB4wwkKTWBU> |
+| 4 h 36 min | Wuthering Waves Chapter 4 Act 3 \| 3.6 Main Story Quest | Leojart | 7 | 2026-08-21 | <https://www.youtube.com/watch?v=WjcJHWeH3Qw> |
 | 4 h 38 min | Wuthering Waves 3.6 Main Quest Rebirth From the Depths Mengzhou Chapter IV Act 3 Song of the Heart | Redz Gamer - Official Channel | 18 | 2026-08-21 | <https://www.youtube.com/watch?v=IAlh9HgNtpY> |
 | 4 h 38 min | FULL Chapter 4 Act 3 Mengzhou \| Wuthering Waves 3.6 "Song of the Heart Sword" | T.H Bunn | 42 | 2026-08-20 | <https://www.youtube.com/watch?v=wWlnYGFuTXo> |
+| 4 h 39 min | Wuwa 3.6 Full Playthrough \| Song of the Heart Sword | SSRPuller | 997 | 2026-08-24 | <https://www.youtube.com/watch?v=VlxYPf4NhbM> |
+| 4 h 40 min | Wuthering Waves 3.6 Full Story Walkthrough Chapter 4 Act 3 Song of the Heart Sword 4K DLSS RTX 5090 | RTXMonkey | 443 | 2026-09-14 | <https://www.youtube.com/watch?v=y5xAlO47siU> |
+| 4 h 41 min | Wuthering  Waves 3.6 Story Quest \| Song of the Heart Sword | Remyra | 9 | 2026-09-14 | <https://www.youtube.com/watch?v=QGAxIKCStBw> |
 | 4 h 42 min | Wuthering Waves 3.6: Song of the Heart Sword \| Full Main Quest Walkthrough [4K] | Tarnished Blade  | 65 | 2026-08-22 | <https://www.youtube.com/watch?v=uZ9WDddr6ac> |
-| 4 h 47 min | Song of the Heart Sword & Segue: The Nethermancer's Requiem Wuthering Waves 3.6 Chapter IV Act III | Sternking | 28 | 2026-08-20 | <https://www.youtube.com/watch?v=_REOuced6lg> |
-| 4 h 54 min | Wuthering Waves 3.6 Main Story Quest - Chapter 4 Act 3 & Segue Full Playthrough (Female Rover) | QuestWatcher | 166 | 2026-08-21 | <https://www.youtube.com/watch?v=hLEHTNWCbZ0> |
-| 4 h 57 min | Wuthering Waves 3.6 - Main Story Quest Full Gameplay \| Act 3 & Segue | Jonozoic | 8 | 2026-08-23 | <https://www.youtube.com/watch?v=swF30IHBpG0> |
+| 4 h 45 min | Wuthering Waves song of the heart sword (qingxiao) quest | V11XREV | 4 | 2026-08-27 | <https://www.youtube.com/watch?v=zf-BOBZqBxA> |
+| 4 h 49 min | Song of the Heart Sword - Wuthering Waves 3.6 Gameplay Part 45 (Chapter 4: Act 3) | ShackDYT | 6 | 2026-09-18 | <https://www.youtube.com/watch?v=G9K8VZzQXO4> |
+| 4 h 50 min | Song of the Heart Sword — Mengzhou Chapter 4, Act 3 — Wuthering Waves 3.6 | RPG Plays TV | 6 | 2026-08-22 | <https://www.youtube.com/watch?v=DcxOPTEZMvg> |
+| 4 h 55 min | Song of the Heart Sword [Mengzhou Chapter 4 - Act 3] 3.6 Wuthering Waves | Rubieco | 323 | 2026-08-21 | <https://www.youtube.com/watch?v=iCxnklOlIkM> |
+| 5 h 13 min | 3.6 STORY FULL PLAYTHROUGH! Mengzhou Chapter IV Act III Song of the heart Sword | ArcanumRealms | 178 | 2026-08-20 | <https://www.youtube.com/watch?v=0njwdD5PYOE> |
 | 5 h 30 min | WuWa 4K \| Chapter 4 Act 3 "Song of the Heart Sword" \| Main Story \| JP \| Wuthering Waves 3.6 | London22Gaming | 14 | 2026-08-20 | <https://www.youtube.com/watch?v=uxYrVh10ffU> |
 | 6 h 01 min | 3.6 Main Quest - Song of the Heart Sword | kura_bot | 3 | 2026-08-20 | <https://www.youtube.com/watch?v=PEgGYw3gDkM> |
 
@@ -243,13 +251,13 @@ Jingran's afterstory: the nethermancer's requiem,
 and a quiet accounting of who is left to sing it.
 <!--gen:stats act="Segue - II"-->
 
-- **Estimated length:** 17 min
-- **Sampled range:** 16 min to 19 min across 5 playthrough uploads (23 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 18 min
+- **Sampled range:** 17 min to 19 min for the middle half (full spread 16 min to 22 min) across 18 playthrough uploads (31 further candidates screened out)
+- **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 5 uploads
+- **Stability:** median +6% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 18 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -259,10 +267,23 @@ and a quiet accounting of who is left to sing it.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 16 min | Wuthering Waves - Story Quest Chapter IV Segue: The Nethermancer’s Requiem walkthrough | heriawsity | 7 | 2026-08-24 | <https://www.youtube.com/watch?v=V3cIgCsIe7I> |
+| 16 min | Wuthering Waves - 3.6 - The Nethermancer's Requiem (No Commentary) | Stinky Tofu | 19 | 2026-09-08 | <https://www.youtube.com/watch?v=njJ7xhkH6is> |
 | 17 min | WuWa Main Quest Mengzhou Chapter 4 Segue The Nethermancer's Requiem Full Game \| Wuthering Waves 3.6 | Akabirama | 163 | 2026-08-21 | <https://www.youtube.com/watch?v=HB15Heyjxg8> |
 | 17 min | The Nethermancer’s Requiem — Mengzhou Chapter 4, Segue — Wuthering Waves 3.6 | RPG Plays TV | 2 | 2026-08-24 | <https://www.youtube.com/watch?v=yrV2ZaoHLLQ> |
 | 17 min | The Nethermancers Requiem Trophy #wuwa  3.5 🎮 #gameplay #gaming #games #games  #shorts #gameshorts | Pulse Wave Gaming | 8 | 2026-08-23 | <https://www.youtube.com/watch?v=QuRU6w8pWTc> |
+| 17 min | Wuthering Waves - Mengzhou Chapter 4 - Segue - The Nethermancer's Requiem - Main Quest | Pik | 332 | 2026-09-03 | <https://www.youtube.com/watch?v=42yVdT4hWZs> |
+| 18 min | [Wuthering Waves Main Quest] The Nethermancer's Requiem: Head To Yanshu's Home And Ask After Jingran | Authrone | 104 | 2026-08-25 | <https://www.youtube.com/watch?v=2CWRbjvIgyo> |
+| 18 min | The Nethermancer's Requiem \| Mengzhou Segue \| Wuthering Waves ver 3.6 | LoneWanderer | 92 | 2026-08-25 | <https://www.youtube.com/watch?v=-SkqIPy2zH8> |
+| 18 min | Wuthering Waves 3.6 Chapter IV Main Story Segue – "The Nethermancer's Requiem" (JP Dub) | Mikiyuki | 56 | 2026-08-22 | <https://www.youtube.com/watch?v=U1OTVhYpiOo> |
+| 18 min | Chapter 4 : Act III Segue The Nethermancer's Requiem JP Dub FRover \| Main Quest \|  Wuthering Waves | Falynn | 25 | 2026-08-28 | <https://www.youtube.com/watch?v=DQrlu1gCjh8> |
+| 18 min | The Nethermancer's Requiem Full Quest Wuthering Waves 3.6 | DreamerQuests | 564 | 2026-08-21 | <https://www.youtube.com/watch?v=N86qJ_aqO7U> |
+| 18 min | Wuthering Waves Chapter 4 Segue: The Nethermancer's Requiem Walkthrough \| 100% Complete | Virtual Gaming | 29 | 2026-09-07 | <https://www.youtube.com/watch?v=SuaARrD_Ve4> |
+| 18 min | The Nethermancer's Requiem [Mengzhou Chapter 4 - Segue 2] 3.6 Wuthering Waves | Rubieco | 545 | 2026-08-21 | <https://www.youtube.com/watch?v=dlTr23w03tU> |
+| 19 min | Main Quest 3.6: The Nethermancer's Requiem (Part 2) \| Wujthering Waves | BBear | 16 | 2026-08-24 | <https://www.youtube.com/watch?v=40XIFgfbZrk> |
 | 19 min | WuWa 3.6 Mengzhou Story Quest: Act 3 & Segue \| Wuthering Waves (JP Voice) | ViGAMES | 427 | 2026-08-21 | <https://www.youtube.com/watch?v=OPTv3B92Tro> |
+| 20 min | 「Wuthering Waves」Main Quest \| PART 102 \| The Nethermancer's Requiem \| PS5 PR0 [4K/60FPS HDR] | Sakura Mizrahi | 57 | 2026-08-26 | <https://www.youtube.com/watch?v=RN2QZI98pgs> |
+| 20 min | WUTHERING WAVES 3.6 - BLADE OF PAST RESOUNDS LINGERING DREAM HYMNS - Gameplay No Commentary\| Part 44 | potato gaming id | 21 | 2026-09-07 | <https://www.youtube.com/watch?v=xS2ENWmqGk4> |
+| 22 min | Wuthering Waves 3.6 – Segue Quest: The Nethermancer’s Requiem | Merfyn | 65 | 2026-08-28 | <https://www.youtube.com/watch?v=-oe08jh5xAk> |
 
 </details>
 <!--/gen-->

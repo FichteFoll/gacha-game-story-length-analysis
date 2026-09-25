@@ -3,9 +3,20 @@
 The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
-from assertions import (count_above, is_extreme, largest_chapter,
-                        median_between, none_above, rank_at_most,
-                        sample_at_most)
+from analyze import IQR_SAMPLES
+from assertions import (Claim, count_above, is_extreme, largest_chapter,
+                        median_between, none_above, rank_at_most)
+
+
+def sample_at_least(chapter, act_label, n, quote):
+    """For prose that calls a pool large enough to be graded on its spread,
+    the counterpart of sample_at_most."""
+    def check(index):
+        act = next(a for a in index[chapter] if a["act_label"] == act_label)
+        got = act["stats"]["n"]
+        return got >= n, f"{act_label} rests on {got} uploads, expected {n} or more"
+    return Claim(quote, f"{chapter} {act_label}: at least {n} uploads", check)
+
 
 CLAIMS = [
     none_above("prologue", 60,
@@ -71,7 +82,7 @@ CLAIMS = [
     median_between("ch4", "Segue - II", 5, 45,
                    "the two segues together add under {len_Segue_I} plus "
                    "{len_Segue_II}"),
-    sample_at_most("ch4", "Segue - II", 7,
-                   "the newest entries have had days rather than months "
-                   "to accumulate uploads"),
+    sample_at_least("ch4", "Segue - II", IQR_SAMPLES,
+                    "the closing segue, thin while it was new, has since "
+                    "gathered enough uploads to be rated on its spread"),
 ]
