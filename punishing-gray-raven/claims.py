@@ -7,6 +7,15 @@ from assertions import (count_above, is_extreme, median_between, none_above,
                         rank_at_most, sample_at_most, total_ratio_between)
 
 CLAIMS = [
+    # README.md
+    sample_at_most("v5", "Chapter 43", 1,
+                   "and its figure rests on a single upload"),
+    # The extremes table lists three shortest chapters, and the fourth
+    # shortest (Chapters 4 and 8) stands at 38 minutes.
+    median_between("v5", "Chapter 43", 1, 37,
+                   "it is why Chapter 43 appears among the shortest "
+                   "chapters above"),
+
     # 01-graffiti-art-to-eternal-engine.md
     count_above("v4", 240, 2,
                 "in a report whose later chapters run for four and five"),
@@ -56,7 +65,16 @@ CLAIMS = [
                    "What survived screening is three uploads "
                    "that each cover part of it"),
 
-    # 05-ex-frozen-darkness-to-inscription-of-labyrinth.md
+    # 05-anchored-in-faith.md
+    median_between("v5", "Chapter 43", 1, 90,
+                   "is a fraction of the three hours and more"),
+    count_above("v4", 180, 7,
+                "that most chapters of Volume 4 run to"),
+    sample_at_most("v5", "Chapter 43", 1,
+                   "The one upload that survived screening went up "
+                   "on release day"),
+
+    # 06-ex-frozen-darkness-to-inscription-of-labyrinth.md
     is_extreme("vex", "Chapter EX-04", "max", "The longest of the EX chapters"),
     sample_at_most("vex", "Chapter EX-04", 3,
                    "which rests on three uploads"),

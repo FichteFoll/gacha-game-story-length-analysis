@@ -6,13 +6,20 @@ the order they are published in. The prose lives in the markdown files next to
 this one, which the renderer fills in place rather than writes.
 
 Punishing: Gray Raven numbers its main story chapters straight through from 1 to
-42 and groups them under nothing: the game presents the campaign as one list,
+43 and groups them under nothing: the game presents the campaign as one list,
 and the wiki's `Main Story` page bands the chapters it covers in fives purely to
 fit them into a tabber. So the volumes below are this report's own device, ten
-chapters to a file in story order and twelve in the last one, and `region_label`
-holds the span of chapter numbers a volume covers rather than a place. The README
-says so in as many words, because a reader is otherwise entitled to think the
-game draws the line where this report does.
+chapters to a file in story order, and `region_label` holds the span of chapter
+numbers a volume covers rather than a place. The README says so in as many
+words, because a reader is otherwise entitled to think the game draws the line
+where this report does.
+
+Volume 4 holds twelve: when the report was first written the story ended at
+Chapter 42, and two chapters were too few for a volume of their own. It keeps
+them, so that no published file changes its contents under a reader, and
+Volume 5 opens at Chapter 43 and takes the next ten from there. A fifth volume
+pushed the EX volume's file from `05-` to `06-`, keeping the filename prefixes
+in the order the volumes are published in.
 
 The six EX chapters are the exception the game itself makes: they are numbered
 EX-00 to EX-05 rather than in the main run, they are filed under the main story
@@ -61,7 +68,13 @@ CHAPTERS = [
         title="Volume 4: Shaper's Ripples to Steering By Light",
     ),
     dict(
-        id="vex", slug="05-ex-frozen-darkness-to-inscription-of-labyrinth",
+        id="v5", slug="05-anchored-in-faith",
+        wiki_page="Main Story",
+        region="43", versions="Anchored in Faith",
+        title="Volume 5: Anchored in Faith",
+    ),
+    dict(
+        id="vex", slug="06-ex-frozen-darkness-to-inscription-of-labyrinth",
         wiki_page="Main Story",
         region="EX-00 - EX-05",
         versions="Frozen Darkness - Inscription of Labyrinth",

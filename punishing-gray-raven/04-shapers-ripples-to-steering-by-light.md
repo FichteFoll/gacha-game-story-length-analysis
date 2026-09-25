@@ -4,7 +4,8 @@
 **Chapters:** 31 - 42 | **Game versions:** Shaper's Ripples - Steering By Light | **Entries:** 12 | **Estimated volume length: 47 h 53 min**
 <!--/gen-->
 
-The current end of the story, and the thinnest evidence in the report.
+The late story up to the chapter before the newest one,
+and some of the thinnest evidence in the report.
 These <!--f:n_entries-->twelve<!--/f--> chapters are the longest the game has published -
 <!--f:n_above_3h-->ten<!--/f--> of them pass three hours -
 and they are also the ones almost nobody uploads whole:
@@ -357,9 +358,8 @@ One of the three longest chapters in the game.
 ### Chapter 42 - [Steering By Light](https://punishing-gray-raven.fandom.com/wiki/Steering_By_Light)
 <!--/gen-->
 
-The newest chapter in the report:
-the chapter after it shipped days before the collection date
-and is not covered yet.
+The last chapter of this volume;
+the chapter after it opens [Volume 5](05-anchored-in-faith.md).
 What survived screening is three uploads that each cover part of it,
 the hidden story, one channel's fourth instalment
 and an unlabelled share of the chapter,
