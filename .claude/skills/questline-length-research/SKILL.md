@@ -204,7 +204,7 @@ which is how a thin act gets re-searched after the templates change.
 ## Step 4: fetch exact metadata and chapter markers
 
 ```bash
-scripts/enrich.sh <workdir> [parallelism]
+scripts/enrich.sh <workdir> [parallelism] [--only <slug>,...]
 ```
 
 The harvest runs with `--flat-playlist`: fast, but it rounds view counts,
@@ -224,6 +224,12 @@ locates one act inside a longer upload. That means:
 
 Ignore a marker set covering less than 60 percent of a single-act upload:
 those markers were something else, and trusting them under-measures the act.
+
+`--only` takes the same slugs as `harvest.sh`
+and fetches only the named acts' candidates.
+Use it after adding an act to an enriched report:
+a plain run also retries every older act's leftovers,
+and spends the bot-check budget on them before it reaches the new one.
 
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
@@ -383,6 +389,9 @@ First re-run the templates deeper for those acts:
 ```bash
 scripts/harvest.sh <workdir> 6 --only <slug>,<slug>
 ```
+
+Run `analyze.py` once so the new candidates are in `analysis.json`,
+then enrich only them with `scripts/enrich.sh <workdir> 5 --only <slug>,<slug>`.
 
 Then, for what that does not reach, hand-written queries:
 

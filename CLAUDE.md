@@ -65,7 +65,7 @@ All commands are run from a report directory
 SKILL=../.claude/skills/questline-length-research/scripts
 python3 $SKILL/fetch_versions.py data                 # step 2, before harvesting
 $SKILL/harvest.sh data [jobs] [--only <slug>,...]     # step 3, yt-dlp searches
-$SKILL/enrich.sh data [jobs]                          # step 4, full extraction
+$SKILL/enrich.sh data [jobs] [--only <slug>,...]      # step 4, full extraction
 python3 $SKILL/analyze.py data --compare data/baseline.json   # step 5, writes analysis.json
 printf '<slug>|<query>\n' | $SKILL/topup.sh data [n]          # step 6, thin acts
 python3 $SKILL/gen_docs.py .                          # step 8, fills the markdown
@@ -82,6 +82,10 @@ and take tens of minutes: background them.
 All three are resumable (harvest skips acts that already have an evidence file,
 enrich skips URLs already in `enriched.tsv`),
 so an interrupted run is simply re-run.
+`--only` restricts `harvest.sh` and `enrich.sh` to the named acts
+(the evidence files' basenames, e.g. `v5_Chapter_43`),
+which is how a newly added act is harvested and enriched
+without touching the older ones.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
 `analyze.py` falls back to the harvested figures, so do not fight it.

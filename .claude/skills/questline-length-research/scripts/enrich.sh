@@ -1,7 +1,7 @@
 #!/bin/bash
 # Second pass over the candidates worth measuring, one full extraction each.
 #
-# Usage: enrich.sh <workdir> [parallelism]
+# Usage: enrich.sh <workdir> [parallelism] [--only <slug>,<slug>,...]
 #   Reads  <workdir>/analysis.json   (run analyze.sh once first, to know which
 #                                     candidates are worth the extra request)
 #   Writes <workdir>/enriched.tsv    url, duration, upload date, view count and
@@ -14,6 +14,9 @@
 # chapter markers let analyze.py measure one act inside a longer video.
 #
 # Already-fetched URLs are skipped, so an interrupted run can just be re-run.
+# --only restricts the pass to the candidates of the named acts (the evidence
+# files' basenames, as for harvest.sh), which is how a newly added act gets
+# enriched without spending the bot-check budget on older acts' leftovers.
 #
 # A failed extraction adds no row, so the next run retries it; this one says how
 # many URLs it attempted, enriched and failed, and exits non-zero if any failed.
@@ -28,8 +31,10 @@ set -uo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$HERE/yt_auth.sh"
 
-WORKDIR="${1:?usage: enrich.sh <workdir> [parallelism]}"
+WORKDIR="${1:?usage: enrich.sh <workdir> [parallelism] [--only slug,...]}"
 JOBS="${2:-5}"
+ONLY=""
+[[ "${3:-}" == "--only" ]] && ONLY="${4:?--only needs a comma-separated slug list}"
 OUT="$WORKDIR/enriched.tsv"
 TAB=$'\t'
 # One line per attempted URL ("enriched", "failed" or "bot-check"),
@@ -42,9 +47,15 @@ touch "$OUT"
 rm -f "$BLOCKED"
 : > "$STATUS"
 
+if [[ -n "$ONLY" ]]; then
+  jq -r --arg only "$ONLY" '($only | split(",")) - [.[].slug] | .[]
+         | "no act with slug \(.) in analysis.json"' "$WORKDIR/analysis.json" >&2
+fi
 # Everything except the uploads rejected as not being a playthrough at all:
 # those are cutscene reels and streams, and no marker makes them measurable.
-jq -r '.[] | .candidates[]
+jq -r --arg only "$ONLY" '.[]
+       | select($only == "" or (.slug | IN($only | split(",")[])))
+       | .candidates[]
        | select((.rejected | index("not-a-playthrough")) | not)
        | .url' "$WORKDIR/analysis.json" | sort -u > "$OUT.wanted"
 cut -f1 "$OUT" | sort -u > "$OUT.have"
