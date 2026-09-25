@@ -129,7 +129,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (2):** Amidst Stormy Judgment; In the Name of the Resistance
 <!--/gen-->
@@ -169,7 +169,7 @@ and the Vision Hunt Decree is repealed.
 - **Confidence:** medium
 - **Adventure Rank gate:** 30
 - **Released in:** 2.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (9):** Sword, Fish, Resistance; Those Who Yearn for the Gods' Gaze; Delusion; The Servant's Path; Proof of Guilt; Blind Loyalty, Reckless Courage; Duel Before the Throne; The Omnipresent God; Wishes
 <!--/gen-->
 
@@ -205,7 +205,7 @@ and Dainsleif's account of the sibling's part in the cataclysm.
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.6
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (4):** In the Depths, an Unexpected Reunion; The Grave of the Guarded; Memories of Inteyvat; The Black Serpent Knights' Glory
 <!--/gen-->
 

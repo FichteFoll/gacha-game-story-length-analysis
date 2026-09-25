@@ -86,7 +86,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 1.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (5):** Desolate Depths of Despair; Dragon Mislay, Dreams Astray; Oblation Obtained, Order Ordained; A Dragon Gallant, Its Ocean Distant; Demise of Immortality, Finale of Calamity
 <!--/gen-->
 

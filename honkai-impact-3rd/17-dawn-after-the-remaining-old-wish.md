@@ -56,7 +56,7 @@ and the first chapter of the arc.
 - **Sampled range:** 2 h 44 min to 3 h 36 min for the middle half (full spread 1 h 47 min to 4 h 26 min) across 13 playthrough uploads (39 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 7.8
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter V"-->
@@ -123,7 +123,7 @@ The chapter the wiki's navigation box names the whole group after.
 - **Sampled range:** 3 h 41 min to 4 h 04 min for the middle half (full spread 3 h 13 min to 5 h 51 min) across 8 playthrough uploads (26 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter VII"-->
@@ -188,7 +188,7 @@ The long road, and the sky at the end of it.
 - **Sampled range:** 3 h 59 min to 4 h 23 min for the middle half (full spread 3 h 06 min to 4 h 59 min) across 12 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter VIII"-->

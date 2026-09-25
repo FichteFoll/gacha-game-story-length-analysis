@@ -138,7 +138,7 @@ which is easy to confuse with the chapter in an upload title.
 - **Sampled range:** 2 h 37 min to 3 h 00 min across 3 playthrough uploads (88 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Chaos Unsnarled
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 24"-->

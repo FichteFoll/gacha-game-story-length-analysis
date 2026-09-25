@@ -55,7 +55,7 @@ The single longest mission in the game.
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (10):** Silver Chariot, Away to that Blackened Land; Distant Travelers, Listen to this World's Prayer; Night Stars, Accompany My Slumber; Wasteland, Hark Back Glory of Old; Night Veil, Shroud the Silent Past; Kremnos, Cleanse Thy Rusted Blood (I); A Cleansing of Gold; Kremnos, Cleanse Thy Rusted Blood (II); A Witch's Scientific Repose; Hero, Bear Thy Coreflame
 <!--/gen-->
@@ -93,7 +93,7 @@ as another wilts.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (9):** Strife, Dispel the Accompanying Fears; Glory, Turn From Imbibed Poison; Grove, Wherefore Are the Wise Silent; Lamentations, Bring Not Empty Tears; Memories, Veiled in Blazing Mist; Passages, Knocking Echoes in Dreams; Nemesis, Scorched by Golden Blood; Throne, End Those Long Years Forlorn; Passage, Reveal the Past Once More
 <!--/gen-->
@@ -169,7 +169,7 @@ The mission that turns the cycle over.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (9):** Stars, Cleanse the Troubled Thoughts; Scrolls, Turn the Blade's Gaze; Chest, Bear the Bygone Dust; Golden Thread, Relay the Savior's Fate; Grove, Judge the Past and Present; Poet, Speak of the Sky Through Me (I); Poet, Speak of the Sky Through Me (II); Slate, Why Neglect That Light's Shade; Dawn, Shine at the World's End
 <!--/gen-->
@@ -208,7 +208,7 @@ told in <!--f:parts_Mission_5-->six<!--/f--> quest parts.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (6):** Hero, Honor That Crimson Call; Mother, Parted by the Turning of Seasons; Hero, Return to That Peace of Home; Hero, Shatter That Woeful Effigy; Hero, Ignite That Primal Sun; Hero, Sing That Anthem of Creation
 <!--/gen-->
@@ -245,7 +245,7 @@ and the one star that has stayed constant through all of it.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (7):** Time, Ferry Me Through Ages; Sun, Repel Stars and Pale Moon; Wanderer, Decipher the Waxen Imprints; Zephyr, Uplift Bygone Dust Cloudsward; Nectar, Saturate the Hollow Treecore; Sea, Bury the Wine-Dark Dreams; Captives, Behold the Expanse Beyond Light
 <!--/gen-->
@@ -284,7 +284,7 @@ where the morning star rises.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.6
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (9):** Night, Coming Before Dawn Breaks; Homecoming, Within Sight Yet Beyond Grasp; Traveler, Find Truth Beyond the Illusion; Memokeeper, Backtrack the Destiny's Current; Blazing Sun, Illuminate the Path for the Lost; Earth, Bear the Suffering of All; Great Tomb, Hide the Secrets of Incarnations; Reunion, Promise of Tears and Smiles; Gods, Sound the Anthem of Creation
 <!--/gen-->
@@ -324,7 +324,7 @@ asked to be remembered rather than mourned.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 12 uploads
 - **Quest parts (8):** Dawn, Caress the Distant Lands Once More; Traverse Stars and Stride Cosmos; The Witch's Ardent Research; Hero, Return to Dawn in Mortality; Pages, Ripples That Engrave Memories; Silver Chariot, Part With That Humanity's Epic; Fallen Petals, Leave Fading Traces of Fragrance; Tale, End Upon The First Encounter
 <!--/gen-->

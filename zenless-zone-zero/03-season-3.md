@@ -49,7 +49,7 @@ One of the three longest chapters in the game.
 - **Sampled range:** 4 h 16 min to 4 h 59 min for the middle half (full spread 2 h 54 min to 5 h 50 min) across 17 playthrough uploads (24 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (16):** Journey's Beginning; New Landing Spot; First Encounter With Trouble; Seeing is Believing; One Into Three; About Past Treatment; A Different Kind of Rebirth; Special Power; Mission at Hand; Restoring the Energy Hub; Solutions Start With Investigations; Infiltration and Allies; Closing in on the Truth; Life or Death Escape; Angel Within Reach; Fading Light
 <!--/gen-->
 
@@ -95,7 +95,7 @@ and a game that was checkmated before it began.
 - **Sampled range:** 4 h 12 min to 4 h 40 min for the middle half (full spread 3 h 50 min to 4 h 46 min) across 25 playthrough uploads (14 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.1
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 25 uploads
 - **Quest parts (10):** Visitor from Beyond the Curtain; Phantom of Memory; En-Nah Gang of the Retroflux Zone; Learning to Work With a Dance Partner; The Real Culprit; A Checkmated Game; Beneath Wings Heavy and Soaked; Memories of the Forgotten; Into the Abyss With You; After the Curtain Falls...
 <!--/gen-->

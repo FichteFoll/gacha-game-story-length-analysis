@@ -127,7 +127,7 @@ and the first hard evidence for the prophecy of dissolution.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (4):** A Tea Party Most Thorny; Fortress of Meropide; The Proscribed, Hidden in Plain Sight; Lost in Deep Seas
 <!--/gen-->
@@ -165,7 +165,7 @@ and the primordial sea beginning to rise.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 9 uploads
 - **Quest parts (5):** Into the Deepwater Murk (31 min); The Truth Shrouded in Shadow (44 min); Secret Keepers and Forbidden Zones (20 min); Calamitous Tread (50 min); A Moment's Respite (15 min)
 <!--/gen-->
@@ -204,7 +204,7 @@ The single longest act in the game.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (6):** Deluge of Wrathful Waters; Meeting Is Also Parting; Hunters, Prophets; Apocalypse; The Opera of Noirceur and Blancheur; Finale
 <!--/gen-->
 
@@ -239,7 +239,7 @@ that turns into memories that should not exist.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (3):** Cold Case Commission; Memories That Should Not Exist; World-Order Narration
 <!--/gen-->
 

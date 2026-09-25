@@ -91,7 +91,7 @@ and a hero's name that some carry and some betray.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** Portrait of a Middle-Aged Artist; Society of the Spectacle and Its Enemies; Confessions of a Righteous Sinner; The Bum's as Holy as the Seraphim; Simulacra and Simulation, or Even the Just; Echoes from a Sombre Empire; Real Holy Laughter!
 <!--/gen-->
 
@@ -170,7 +170,7 @@ among wanderers looking for a last rest.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 20 uploads
 - **Quest parts (7):** Illusion of the End; Living Sacrifice for Gods and Mortals; Arcadia of Mystery and Terror; Best Farewell to the World; Primeval and Other Times; Yesterday's World; Non-Existent State
 <!--/gen-->
@@ -219,7 +219,7 @@ the realm of death.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 19 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
 <!--/gen-->

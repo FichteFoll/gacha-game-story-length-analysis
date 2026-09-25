@@ -53,7 +53,7 @@ that has gone quiet in the wrong way.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 25 uploads
 <!--/gen-->
 
@@ -159,7 +159,7 @@ sends Rover back to where all of this began.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 18 uploads
 <!--/gen-->
 
@@ -206,7 +206,7 @@ The single longest act in the game.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 23 uploads
 <!--/gen-->
 

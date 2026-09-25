@@ -58,7 +58,7 @@ The shortest entry in the questline.
 - **Sampled range:** 8 min to 9 min for the middle half (full spread 8 min to 12 min) across 8 playthrough uploads (15 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 00"-->
@@ -91,7 +91,7 @@ and the commander meets the thing that happens to Nikkes who fight too long.
 - **Sampled range:** 26 min to 30 min for the middle half (full spread 14 min to 46 min) across 12 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 01"-->
@@ -128,7 +128,7 @@ and banishes them to the Outpost when it goes wrong.
 - **Sampled range:** 28 min to 38 min for the middle half (full spread 22 min to 54 min) across 10 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 02"-->
@@ -164,7 +164,7 @@ One of the three shortest entries in the questline.
 - **Sampled range:** 12 min to 16 min for the middle half (full spread 12 min to 29 min) across 8 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 03"-->
@@ -198,7 +198,7 @@ and the commander decides to go looking for the truth.
 - **Sampled range:** 49 min to 1 h 00 min for the middle half (full spread 37 min to 1 h 32 min) across 12 playthrough uploads (7 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 04"-->
@@ -236,7 +236,7 @@ by way of a Snow Queen and a rabbit-like girl.
 - **Sampled range:** 28 min to 59 min for the middle half (full spread 28 min to 1 h 06 min) across 10 playthrough uploads (10 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 05"-->
@@ -271,7 +271,7 @@ Counters tracks down the Pilgrim codenamed Snow White.
 - **Sampled range:** 24 min to 29 min for the middle half (full spread 22 min to 41 min) across 10 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 06"-->
@@ -306,7 +306,7 @@ and the answer to what became of Marian.
 - **Sampled range:** 21 min to 38 min for the middle half (full spread 18 min to 45 min) across 9 playthrough uploads (9 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 07"-->
@@ -340,7 +340,7 @@ to an old surface facility to have it scanned.
 - **Sampled range:** 19 min to 42 min for the middle half (full spread 18 min to 59 min) across 14 playthrough uploads (9 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 08"-->
@@ -379,7 +379,7 @@ and Shifty turns out not to be who she said she was.
 - **Sampled range:** 35 min to 54 min for the middle half (full spread 34 min to 59 min) across 11 playthrough uploads (12 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 09"-->

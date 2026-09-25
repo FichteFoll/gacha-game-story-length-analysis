@@ -130,7 +130,7 @@ and the Akademiya's god-making project behind Scaramouche surfaces.
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (3):** Like a Triumphant Hero; The Gaze From a Certain God; The Four at Loggerheads
 <!--/gen-->
@@ -248,7 +248,7 @@ and the sinner Caribert at the edge of Khaenri'ah.
 - **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (4):** Destined Encounter; Fortune-Mocking Pedigree; A Lamenter at Fate's End; Portended Fate
 <!--/gen-->

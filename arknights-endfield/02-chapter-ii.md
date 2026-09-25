@@ -102,7 +102,7 @@ and get Xiranite production started.
 - **Sampled range:** 1 h 33 min to 2 h 07 min for the middle half (full spread 1 h 21 min to 2 h 50 min) across 12 playthrough uploads (37 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** Zeroth Directive (1.0)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 6 of 12 uploads
 - **Quest parts (5):** A Glance of Astonishment (24 min); Ready the Easterlies; Of Grace and Gentle Might (38 min); The Surging Tide (30 min); Where Danger Sleeps (6 min)
 <!--/gen-->
@@ -183,7 +183,7 @@ and the Feranmut Heart held against everything he calls up around it.
 - **Sampled range:** 1 h 24 min to 1 h 53 min for the middle half (full spread 1 h 19 min to 2 h 26 min) across 12 playthrough uploads (28 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** At the Wake of Spring (1.2)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 12 uploads
 - **Quest parts (5):** Like Fire and Ice; A Lethal Invitation; Phantom Wisps; Awaiting Thine Coming; Free Will
 <!--/gen-->
@@ -224,7 +224,7 @@ One of the three shortest entries in the questline.
 - **Sampled range:** 58 min to 1 h 06 min for the middle half (full spread 45 min to 1 h 20 min) across 15 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Released in:** At the Wake of Spring (1.2)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 6 of 15 uploads
 - **Quest parts (3):** Thus Rise the Wave and Wind (6 min); Tremors of the Crashing Tide (33 min); Where Friendship Was Made (21 min)
 <!--/gen-->
@@ -314,7 +314,7 @@ The single longest process in the game.
 - **Sampled range:** 4 h 05 min to 4 h 44 min for the middle half (full spread 2 h 17 min to 7 h 19 min) across 11 playthrough uploads (27 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Homecoming (1.4)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (9):** Bravely Breach the Hostile Winds; Thus Begins the Homeward March; A Past Shared by the Swordmancers; Same Old Faces in a Place Transformed; Warily Returns the Wandering Vigile; Finally Breaks the Hanging Clouds; "Homecoming"; Stubbornly Lingers the Setting Sun; Freedom of Expansion
 <!--/gen-->

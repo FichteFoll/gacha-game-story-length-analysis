@@ -55,7 +55,7 @@ The tutorial descent onto the surface, one mechanic at a time.
 - **Sampled range:** 35 min to 57 min for the middle half (full spread 28 min to 1 h 10 min) across 16 playthrough uploads (22 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 16 uploads
 <!--/gen-->
 
@@ -170,7 +170,7 @@ which is why no release patch is recorded for it.
 - **Sampled range:** 26 min to 45 min for the middle half (full spread 21 min to 1 h 01 min) across 11 playthrough uploads (24 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 <!--/gen-->
 
@@ -243,7 +243,7 @@ and only uploads of the normal chapter are measured here.
 - **Sampled range:** 34 min to 1 h 00 min for the middle half (full spread 23 min to 1 h 08 min) across 9 playthrough uploads (35 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 <!--/gen-->
 

@@ -114,7 +114,7 @@ the patch order and the upload titles both make it Chapter 33.
 - **Sampled range:** 4 h 40 min to 4 h 40 min across 1 playthrough uploads (80 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Wither to Shine
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 33"-->
@@ -171,7 +171,7 @@ The shortest entry in the questline.
 - **Sampled range:** 23 min to 23 min across 1 playthrough uploads (90 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Through the Tide Home
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 35"-->
@@ -196,7 +196,7 @@ The second of the two chapters *Through the Tide Home* shipped.
 - **Sampled range:** 2 h 19 min to 5 h 36 min across 4 playthrough uploads (83 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Through the Tide Home
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 36"-->
@@ -224,7 +224,7 @@ Patch page only, with its number stated there.
 - **Sampled range:** 2 h 30 min to 4 h 07 min across 3 playthrough uploads (67 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Where Nightmares Dwell
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 37"-->

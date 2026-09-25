@@ -117,7 +117,7 @@ at <!--f:len_Chapter_XI_EX-->44 min<!--/f-->.
 - **Sampled range:** 39 min to 45 min for the middle half (full spread 33 min to 56 min) across 14 playthrough uploads (18 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 14 uploads
 - **Quest parts (1):** VOID HEAVENS
 <!--/gen-->

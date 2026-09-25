@@ -88,7 +88,7 @@ the mystery of the Watchmaker.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (9):** The Devil in Velvet; Lost Generation; Double Indemnity; When the Sacred Ginmill Closes; Heaven is a Place on Earth; Why Do the Heathen Rage?; The Tell-Tale Heart; All the Sad Tales; A Walk Among the Tombstones
 <!--/gen-->
@@ -204,7 +204,7 @@ and seeing the way ahead means looking back first.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (7):** All Who Wakes; The Departed Will Return First; A Misfortune of Survivors; Reality is But Dream's Echo; Sound of Farewell Hums Reunion; Bow Out At Moment of Début; A New Venture on the Eighth Dawn
 <!--/gen-->

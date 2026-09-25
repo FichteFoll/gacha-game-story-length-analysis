@@ -58,7 +58,7 @@ by people who are far too interested in a stranger with no frequency.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -103,7 +103,7 @@ and a first look at what the border actually costs.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -146,7 +146,7 @@ and Scar, who would rather talk than fight until he does both.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -189,7 +189,7 @@ and Scar waiting at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** 11
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -235,7 +235,7 @@ into the first solid lead on the Black Shores.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -275,7 +275,7 @@ and putting down the Thundering Mephis at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act VI"-->
@@ -395,7 +395,7 @@ to the Shorekeeper and what she has been keeping.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (5):** From the Echoes of Destruction; Hidden Between the Waves; Legacy of the Lasting Night; Advance toward the Future from Today; Beyond the Shore's End
 <!--/gen-->

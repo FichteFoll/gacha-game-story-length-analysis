@@ -133,7 +133,7 @@ It is short, and one upload is all there is to measure it with.
 - **Sampled range:** 1 h 11 min to 1 h 11 min across 1 playthrough uploads (39 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 7.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Interlude"-->

@@ -125,7 +125,7 @@ and Signora takes Barbatos' Gnosis.
 - **Confidence:** medium
 - **Adventure Rank gate:** 18
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 9 uploads
 - **Quest parts (8):** Abyss Mage; Hurdle; Empty Abode; Light Guiding Ceremony; Calm Before the Storm; A Long Shot; When the Wind Dies Down; Ending Note
 <!--/gen-->

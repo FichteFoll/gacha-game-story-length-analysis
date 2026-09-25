@@ -92,7 +92,7 @@ that run at the same time, as the Golden Vortex mode does.
 - **Sampled range:** 1 h 52 min to 2 h 44 min for the middle half (full spread 1 h 47 min to 3 h 16 min) across 11 playthrough uploads (36 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** Kowloong Metropolis
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 12"-->
@@ -252,7 +252,7 @@ One of the three longest chapters in the game.
 - **Sampled range:** 3 h 52 min to 6 h 45 min across 5 playthrough uploads (73 further candidates screened out)
 - **Confidence:** low
 - **Released in:** The Surviving Lucem
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 17"-->
@@ -282,7 +282,7 @@ everything else in its pool is a stage split, a stream or a boss clear.
 - **Sampled range:** 2 h 44 min to 2 h 44 min across 1 playthrough uploads (93 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Her Last Bow
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 18"-->

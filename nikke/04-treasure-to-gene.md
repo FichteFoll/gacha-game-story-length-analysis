@@ -55,7 +55,7 @@ and what it says about the world the Ark was built to escape.
 - **Sampled range:** 1 h 24 min to 1 h 52 min for the middle half (full spread 1 h 20 min to 2 h 24 min) across 11 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 30"-->
@@ -91,7 +91,7 @@ after Grave and the first Heretic asleep in her coffin.
 - **Sampled range:** 1 h 05 min to 1 h 36 min for the middle half (full spread 1 h 03 min to 2 h 05 min) across 12 playthrough uploads (6 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 31"-->
@@ -158,7 +158,7 @@ and the target becomes Behemoth.
 - **Sampled range:** 1 h 24 min to 2 h 08 min for the middle half (full spread 1 h 21 min to 2 h 49 min) across 11 playthrough uploads (10 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 11 uploads
 <!--/gen-->
 
@@ -195,7 +195,7 @@ and the Heretics of the crystal region are finished off.
 - **Sampled range:** 1 h 52 min to 2 h 53 min for the middle half (full spread 1 h 49 min to 3 h 37 min) across 15 playthrough uploads (4 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 34"-->
@@ -235,7 +235,7 @@ before setting out after Leviathan.
 - **Sampled range:** 1 h 45 min to 2 h 44 min for the middle half (full spread 1 h 11 min to 2 h 53 min) across 8 playthrough uploads (11 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 35"-->
@@ -268,7 +268,7 @@ and the interrogation goes as badly as an interrogation can.
 - **Sampled range:** 1 h 10 min to 1 h 50 min for the middle half (full spread 1 h 08 min to 2 h 06 min) across 8 playthrough uploads (12 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 36"-->
@@ -301,7 +301,7 @@ and help arrives across the water on a steel hull.
 - **Sampled range:** 1 h 10 min to 1 h 39 min for the middle half (full spread 1 h 09 min to 1 h 49 min) across 10 playthrough uploads (13 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 37"-->
@@ -368,7 +368,7 @@ while Anis and Neon put on a farewell concert for T.T. Star.
 - **Sampled range:** 1 h 58 min to 2 h 32 min for the middle half (full spread 1 h 30 min to 3 h 37 min) across 9 playthrough uploads (16 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 39"-->

@@ -54,7 +54,7 @@ One of the three shortest entries in the questline.
 - **Sampled range:** 20 min to 35 min for the middle half (full spread 19 min to 51 min) across 11 playthrough uploads (21 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 10"-->
@@ -90,7 +90,7 @@ and the commander spends most of the mission attached to the wrong squad.
 - **Sampled range:** 21 min to 24 min for the middle half (full spread 20 min to 41 min) across 10 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 11"-->
@@ -125,7 +125,7 @@ in a labyrinth that Matis knows far too well.
 - **Sampled range:** 38 min to 58 min for the middle half (full spread 28 min to 1 h 18 min) across 11 playthrough uploads (7 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 12"-->
@@ -161,7 +161,7 @@ and the plan to get Marian back out of her.
 - **Sampled range:** 48 min to 1 h 04 min for the middle half (full spread 38 min to 1 h 14 min) across 12 playthrough uploads (11 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 13"-->
@@ -198,7 +198,7 @@ and half the Ark wants to take her away again.
 - **Sampled range:** 49 min to 1 h 34 min for the middle half (full spread 46 min to 2 h 01 min) across 10 playthrough uploads (3 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 14"-->
@@ -233,7 +233,7 @@ to pay for the damage done to the Outpost.
 - **Sampled range:** 32 min to 44 min for the middle half (full spread 23 min to 1 h 07 min) across 10 playthrough uploads (6 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 15"-->
@@ -268,7 +268,7 @@ with a joint hunt for Pilgrims, and lends him Exotic for it.
 - **Sampled range:** 45 min to 1 h 15 min for the middle half (full spread 42 min to 1 h 54 min) across 10 playthrough uploads (10 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 16"-->
@@ -303,7 +303,7 @@ the commander is picked up by the Pilgrim Rapunzel and her squad.
 - **Sampled range:** 1 h 00 min to 1 h 27 min for the middle half (full spread 50 min to 1 h 51 min) across 8 playthrough uploads (13 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 17"-->
@@ -336,7 +336,7 @@ and a hero who has been stripped of everything finds a reason to stand up.
 - **Sampled range:** 59 min to 1 h 45 min for the middle half (full spread 46 min to 2 h 05 min) across 9 playthrough uploads (9 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 18"-->
@@ -370,7 +370,7 @@ and a contract to kill a dragon.
 - **Sampled range:** 45 min to 1 h 08 min for the middle half (full spread 42 min to 1 h 30 min) across 11 playthrough uploads (7 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 19"-->

@@ -55,7 +55,7 @@ Ineffa's introduction.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** Flamelets; Smoldering; Searing
 <!--/gen-->
@@ -175,7 +175,7 @@ with Flins, Aino, Lauma, and Jahoda.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** Hidden in the Shadows; Special Operation; Everlasting As the Moon
 <!--/gen-->
@@ -304,7 +304,7 @@ and the search for Columbina's true name.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** Where Does Her Name Rest?; The Night the Moon Returns Home; Return to the Moon; The Empty Courtyard
 <!--/gen-->
@@ -393,7 +393,7 @@ and the Welkin Moon's homecoming.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** The First Sliver of Moonlight; Descending Moon; Welkin Moon's Homecoming
 <!--/gen-->
@@ -430,7 +430,7 @@ identities in Sumeru City have been switched around.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (3):** Where Flowers Awaken; A Divergence Leading to Oneself; Ancient Shadows Re-Emerge
 <!--/gen-->

@@ -85,7 +85,7 @@ and a lesson in what contracts mean in Liyue.
 - **Confidence:** high
 - **Adventure Rank gate:** 25
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (7):** An Organization Known as Wangsheng; Moonfinger; Three Poignant Perfumes; The Realm Within; Downtown; Guizhong; Zhongli's Treat
 <!--/gen-->
@@ -197,7 +197,7 @@ where the sibling is revealed as its leader.
 - **Confidence:** medium
 - **Adventure Rank gate:** 28
 - **Released in:** 1.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (4):** Involuntary Sacrifice; A Herald Without Adherents; Dishonorable Trial; A Soul Set Apart
 <!--/gen-->
 

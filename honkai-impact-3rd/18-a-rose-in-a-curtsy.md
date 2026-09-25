@@ -151,7 +151,7 @@ With you, whom I never knew.
 - **Sampled range:** 3 h 37 min to 4 h 29 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 17 playthrough uploads (47 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XII"-->
@@ -193,7 +193,7 @@ until Chapter XIV shipped.
 - **Sampled range:** 3 h 47 min to 4 h 11 min for the middle half (full spread 3 h 18 min to 6 h 48 min) across 15 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.9
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XIII"-->
