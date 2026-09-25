@@ -227,6 +227,14 @@ those markers were something else, and trusting them under-measures the act.
 
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
+`enrich.sh` ends by printing how many URLs it attempted, enriched and failed,
+and a `BOT CHECK` notice when that answer was among the failures,
+after which it attempts none of the URLs still queued;
+it exits non-zero whenever an extraction failed.
+Read that summary rather than the row count of `enriched.tsv`,
+which grows by whatever got through and looks complete either way.
+A video removed since the harvest fails on every run,
+so a handful of failures with no bot check is not a block.
 The script is resumable and `analyze.py` falls back to the harvested figures,
 so do not fight it: retrying straight away buys a trickle and then stops again.
 Say that the run hit the bot check,

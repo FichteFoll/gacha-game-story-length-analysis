@@ -15,6 +15,12 @@
 #
 # Already-fetched URLs are skipped, so an interrupted run can just be re-run.
 #
+# A failed extraction adds no row, so the next run retries it; this one says how
+# many URLs it attempted, enriched and failed, and exits non-zero if any failed.
+# Once YouTube answers "Sign in to confirm you're not a bot", the URLs still
+# queued are not attempted at all: the block is on the client, so they would
+# fail the same way, and every further request only prolongs it.
+#
 # Set YTDLP_COOKIES or YTDLP_COOKIES_FROM_BROWSER (see yt_auth.sh) to make the
 # requests as a signed-in client, which is what gets past the bot check.
 set -uo pipefail
@@ -26,9 +32,15 @@ WORKDIR="${1:?usage: enrich.sh <workdir> [parallelism]}"
 JOBS="${2:-5}"
 OUT="$WORKDIR/enriched.tsv"
 TAB=$'\t'
-export OUT TAB
+# One line per attempted URL ("enriched", "failed" or "bot-check"),
+# and the flag the first bot-check answer raises to stop the jobs still queued.
+STATUS="$OUT.status"
+BLOCKED="$OUT.blocked"
+export OUT TAB STATUS BLOCKED
 
 touch "$OUT"
+rm -f "$BLOCKED"
+: > "$STATUS"
 
 # Everything except the uploads rejected as not being a playthrough at all:
 # those are cutscene reels and streams, and no marker makes them measurable.
@@ -43,19 +55,47 @@ printf 'enriching %s of %s candidates\n' \
 # A marker list can run past the pipe-atomic write size, so the row is staged and
 # appended under a lock rather than written straight into the shared file.
 fetch_one() {
-  local tmp
+  local tmp outcome=enriched
+  [[ -e "$BLOCKED" ]] && return
   tmp=$(mktemp)
   yt_auth "$tmp.cookies"
   timeout 120 yt-dlp "${YT_AUTH[@]+"${YT_AUTH[@]}"}" --no-warnings --skip-download \
     --print "%(webpage_url)s${TAB}%(duration)j${TAB}%(upload_date)j${TAB}%(view_count)j${TAB}%(chapters)j" \
-    "$1" 2>/dev/null > "$tmp"
-  [[ -s "$tmp" ]] && flock "$OUT" bash -c "cat '$tmp' >> '$OUT'"
-  rm -f "$tmp" "$tmp.cookies"
+    "$1" 2> "$tmp.err" > "$tmp"
+  if [[ -s "$tmp" ]]; then
+    flock "$OUT" bash -c "cat '$tmp' >> '$OUT'"
+  elif grep -q "confirm you.re not a bot" "$tmp.err"; then
+    outcome=bot-check
+    touch "$BLOCKED"
+  else
+    outcome=failed
+  fi
+  flock "$STATUS" bash -c "echo $outcome >> '$STATUS'"
+  rm -f "$tmp" "$tmp.err" "$tmp.cookies"
 }
 export -f fetch_one
 
 xargs -d '\n' -P "$JOBS" -I{} bash -c 'fetch_one "{}"' < "$OUT.todo"
-rm -f "$OUT.wanted" "$OUT.have" "$OUT.todo"
 
-printf 'enriched %s videos\n' "$(wc -l < "$OUT")"
-echo "EXIT:0"
+attempted=$(wc -l < "$STATUS")
+enriched=$(grep -cx enriched "$STATUS")
+bot_checks=$(grep -cx bot-check "$STATUS")
+failed=$((attempted - enriched))
+cut -f1 "$OUT" | sort -u > "$OUT.have"
+printf 'attempted %s, enriched %s, failed %s; %s of %s candidates still unenriched\n' \
+  "$attempted" "$enriched" "$failed" \
+  "$(comm -23 "$OUT.wanted" "$OUT.have" | wc -l)" "$(wc -l < "$OUT.wanted")"
+if [[ -e "$BLOCKED" ]]; then
+  printf '%s\n' \
+    "BOT CHECK: $bot_checks of the failures were \"Sign in to confirm you're not a bot\"," \
+    "and the URLs still queued were not attempted. Solve the captcha in a browser" \
+    "or set cookies (see yt_auth.sh), then re-run: it resumes from enriched.tsv."
+else
+  echo "bot check: not seen"
+fi
+rm -f "$OUT.wanted" "$OUT.have" "$OUT.todo" "$STATUS" "$BLOCKED"
+
+rc=0
+((failed > 0)) && rc=1
+echo "EXIT:$rc"
+exit "$rc"

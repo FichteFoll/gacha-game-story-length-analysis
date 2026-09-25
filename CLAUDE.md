@@ -85,6 +85,10 @@ so an interrupted run is simply re-run.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
 `analyze.py` falls back to the harvested figures, so do not fight it.
+`enrich.sh` shows the block in its closing summary
+(URLs attempted, enriched and failed, plus a `BOT CHECK` notice),
+stops attempting the queued URLs once it has seen it,
+and exits non-zero whenever an extraction failed.
 **Say so, and stop.** Tell the user the run hit the bot check
 and how many URLs are still unenriched, and wait rather than retrying into it:
 a retry that is merely slower still returns almost nothing.
