@@ -9827,10 +9827,11 @@
     "title": "Reverse: 1999 - Chapter 13 Part 2",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=dQueoYDREO8",
-    "views": "135",
+    "views": 219,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 503,
@@ -9895,8 +9896,9 @@
     "title": "REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY",
     "uploader": "Equilibrium",
     "url": "https://www.youtube.com/watch?v=rIYXpecbNU8",
-    "views": "397",
-    "rejected": []
+    "views": 874,
+    "rejected": [],
+    "upload_date": "20260817"
    },
    {
     "seconds": 4375,
@@ -10068,14 +10070,15 @@
     ]
    },
    {
-    "seconds": 962,
+    "seconds": 961,
     "title": "Reverse 1999 - Chapter 13 (On Another's Sorrow) - Part 01 (Reckoning Time)",
     "uploader": "R 666",
     "url": "https://www.youtube.com/watch?v=fm8H7JzqdOU",
-    "views": "16",
+    "views": 29,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 708,
@@ -10107,7 +10110,7 @@
     "url": "https://www.youtube.com/watch?v=hzNMqFirzoE",
     "views": 1291,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260820"
    },
@@ -10135,12 +10138,15 @@
     ]
    },
    {
-    "seconds": 17703,
+    "seconds": 17702,
     "title": "MEREL MY BELOVED!!! | Reverse: 1999 Chapter 13",
     "uploader": "rarebear",
     "url": "https://www.youtube.com/watch?v=gXOT31l6HWs",
-    "views": "803",
-    "rejected": []
+    "views": 986,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260818"
    },
    {
     "seconds": 231,
@@ -10231,10 +10237,11 @@
     "title": "Sin - Wages of Sin - PC Walkthrough",
     "uploader": "Abandonware",
     "url": "https://www.youtube.com/watch?v=pqG4v_5XtQQ",
-    "views": "1901",
+    "views": 1984,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220303"
    },
    {
     "seconds": 95728,
@@ -10268,6 +10275,76 @@
      "act-mismatch"
     ],
     "upload_date": "20240907"
+   },
+   {
+    "seconds": 30816,
+    "title": "On Another's Sorrow \u2013 Reverse: 1999 v3.7 \u2013 Chapter 13 | Full Story",
+    "uploader": "Homo Ludens",
+    "url": "https://www.youtube.com/watch?v=pDPpTKNyFbA",
+    "views": 715,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 27352,
+    "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
+    "uploader": "HappyOwlTV",
+    "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
+    "views": "483",
+    "rejected": []
+   },
+   {
+    "seconds": 1255,
+    "title": "Reverse: 1999 - Chapter 13 Part 20",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=ARMjBFd7bFM",
+    "views": 199,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 12193,
+    "title": "On Another's Sorrow | Reverse 1999 Main Storyline Chapter 13 | Part 1 | No Commentary",
+    "uploader": "NEON DEMON",
+    "url": "https://www.youtube.com/watch?v=_uVDYCF3e5A",
+    "views": 17,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 27055,
+    "title": "Reverse 1999 - Chapter 13: On Another's Sorrow",
+    "uploader": "Funlazer741 VODS",
+    "url": "https://www.youtube.com/watch?v=DiKK-IYPpVc",
+    "views": 156,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 6082,
+    "title": "Reverse 1999 - Version 3.7 - On another's Sorrow - A Stranger to Memory Lane (Ms. Strager's Story)",
+    "uploader": "Neat Sparrow",
+    "url": "https://www.youtube.com/watch?v=XExk1LioXcg",
+    "views": 59,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260905"
+   },
+   {
+    "seconds": 994,
+    "title": "Reverse: 1999 - Chapter 13 Part 5",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=dK6iQN3ODEg",
+    "views": 201,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260815"
    }
   ],
   "kept": [
@@ -10277,14 +10354,6 @@
     "uploader": "Mirai Shishiou VODS",
     "url": "https://www.youtube.com/watch?v=xP3dJgbePQw",
     "views": "48",
-    "rejected": []
-   },
-   {
-    "seconds": 17703,
-    "title": "MEREL MY BELOVED!!! | Reverse: 1999 Chapter 13",
-    "uploader": "rarebear",
-    "url": "https://www.youtube.com/watch?v=gXOT31l6HWs",
-    "views": "803",
     "rejected": []
    },
    {
@@ -10345,21 +10414,48 @@
     "title": "REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY",
     "uploader": "Equilibrium",
     "url": "https://www.youtube.com/watch?v=rIYXpecbNU8",
-    "views": "397",
+    "views": 874,
+    "rejected": [],
+    "upload_date": "20260817"
+   },
+   {
+    "seconds": 27055,
+    "title": "Reverse 1999 - Chapter 13: On Another's Sorrow",
+    "uploader": "Funlazer741 VODS",
+    "url": "https://www.youtube.com/watch?v=DiKK-IYPpVc",
+    "views": 156,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 27352,
+    "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
+    "uploader": "HappyOwlTV",
+    "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
+    "views": "483",
     "rejected": []
+   },
+   {
+    "seconds": 30816,
+    "title": "On Another's Sorrow \u2013 Reverse: 1999 v3.7 \u2013 Chapter 13 | Full Story",
+    "uploader": "Homo Ludens",
+    "url": "https://www.youtube.com/watch?v=pDPpTKNyFbA",
+    "views": 715,
+    "rejected": [],
+    "upload_date": "20260909"
    }
   ],
   "stats": {
-   "n": 6,
-   "median": 361,
+   "n": 8,
+   "median": 411,
    "low": 241,
-   "high": 424,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 347,
+   "high": 514,
+   "q1": 356,
+   "q3": 455,
+   "trimmed_mean": 401,
    "measured": 1,
    "parts": {},
-   "drift": -0.22
+   "drift": -0.112
   }
  }
 ]

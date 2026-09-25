@@ -1,13 +1,12 @@
 <!--gen:heading-->
 # Arc 3: The Roots of the Tale
 
-**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 19 h 11 min**
+**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 20 h 01 min**
 <!--/gen-->
 
 The arc the game is in the middle of,
 and the heaviest of the three arcs per chapter:
-<!--f:n_entries-->three<!--/f--> entries, none of them under five hours,
-and the newest resting on the fewest uploads of any of them.
+<!--f:n_entries-->three<!--/f--> entries, none of them under five hours.
 
 ## At a glance
 
@@ -16,22 +15,21 @@ and the newest resting on the fewest uploads of any of them.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 11 | A Long Long Way | 5 h 50 min | 4 h 54 min - 7 h 18 min | 10 | medium |
 | Chapter 12 | The Campaign's Tale | 7 h 20 min | 6 h 08 min - 7 h 56 min | 8 | medium |
-| Chapter 13 | On Another's Sorrow | 6 h 01 min | 4 h 01 min - 7 h 04 min | 6 | low |
+| Chapter 13 | On Another's Sorrow | 6 h 51 min | 5 h 56 min - 7 h 35 min | 8 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->19 h 11 min<!--/f-->**
+**Total: <!--f:total-->20 h 01 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->19 h 11 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->20 h 01 min<!--/f-->,
 which between them outweigh the arc before this one
 on the same number of entries.
 Chapter 12 is the longest of the three
 and the second longest entry in the game.
 These are the youngest pools in the report,
 which is what the wide middle halves below are:
-these chapters have had the least time to accumulate uploads,
-and the newest of them rests on the fewest of the three.
+these chapters have had the least time to accumulate uploads.
 
 ## Chapters
 
@@ -116,17 +114,15 @@ One of the three longest chapters in the game.
 
 <!--f:parts_Chapter_13-->24<!--/f--> stages,
 from Homecoming Day to The Legendary Hermitage.
-The wiki records no release version for it:
-no version page mentions the chapter,
-and the version its uploaders title it with has no page there at all.
 <!--gen:stats act="Chapter 13"-->
+One of the three longest chapters in the game.
 
-- **Estimated length:** 6 h 01 min
-- **Sampled range:** 4 h 01 min to 7 h 04 min across 6 playthrough uploads (40 further candidates screened out)
+- **Estimated length:** 6 h 51 min
+- **Sampled range:** 5 h 56 min to 7 h 35 min for the middle half (full spread 4 h 01 min to 8 h 34 min) across 8 playthrough uploads (45 further candidates screened out)
 - **Confidence:** low
-- **Released in:** unknown
-- **Stability:** median -22% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 6 uploads
+- **Released in:** 3.7
+- **Stability:** median -11% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (24):** Homecoming Day; Escape Plan; The Cube Researchers; Stone Doves; Burned Feathers; The Alumni; Bumpy Roads; Rules Are Rules; Emergency Measures; A Hard Choice; The Shapeshifter; Thorny Thicket; Vacuum of Arcanum; Behind the Door; Overexposed; The Hope in Her Heart; Song of the Black Sheep; Amulets; A Peek into Fate; The White Tower; Wishing for Peace; 04/01 10:0; Her Reward; The Legendary Hermitage
 <!--/gen-->
 
@@ -137,11 +133,13 @@ and the version its uploaders title it with has no page there at all.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 4 h 01 min | 【REVERSE 1999】On Another's Sorrow \| The Roots of the Tale - Chapter 13 | Mirai Shishiou VODS | ~48 | n/a | <https://www.youtube.com/watch?v=xP3dJgbePQw> |
-| 4 h 55 min | MEREL MY BELOVED!!! \| Reverse: 1999 Chapter 13 | rarebear | ~803 | n/a | <https://www.youtube.com/watch?v=gXOT31l6HWs> |
 | 5 h 52 min | On Another's Sorrow \| Reverse: 1999 \| Chapter 13 Full Story [4K] [No Commentary] | 八咫烏_Merui | 2,189 | 2026-08-25 | <https://www.youtube.com/watch?v=Ld7hpunk1fg> |
 | 6 h 09 min | 재업) [리버스: 1999] 3.7 메인 스토리 '타인의 슬픔' 풀버전(영음) \|\| Reverse:1999 'On Another’s Sorrow' Full STORY | RAOPLAY | 379 | 2026-08-17 | <https://www.youtube.com/watch?v=NGbZmymDBv4> |
 | 6 h 38 min | On Another's Sorrow - FULL STORY - Final Boss & Ending \| Reverse: 1999 3.7 3rd Anniversary | BlazzerSora and BlazzerSora Gacha | ~165 | n/a | <https://www.youtube.com/watch?v=s2vE446oR6I> |
-| 7 h 04 min | REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY | Equilibrium | ~397 | n/a | <https://www.youtube.com/watch?v=rIYXpecbNU8> |
+| 7 h 04 min | REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY | Equilibrium | 874 | 2026-08-17 | <https://www.youtube.com/watch?v=rIYXpecbNU8> |
+| 7 h 31 min | Reverse 1999 - Chapter 13: On Another's Sorrow | Funlazer741 VODS | 156 | 2026-08-14 | <https://www.youtube.com/watch?v=DiKK-IYPpVc> |
+| 7 h 36 min | We're not getting a happy ending, are we..? Chapter 13 "On Another's Sorrow" \| Reverse 1999 3.7 | HappyOwlTV | ~483 | n/a | <https://www.youtube.com/watch?v=rWgwWyGPZdQ> |
+| 8 h 34 min | On Another's Sorrow – Reverse: 1999 v3.7 – Chapter 13 \| Full Story | Homo Ludens | 715 | 2026-09-09 | <https://www.youtube.com/watch?v=pDPpTKNyFbA> |
 
 </details>
 <!--/gen-->

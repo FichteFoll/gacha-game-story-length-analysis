@@ -68,8 +68,6 @@ CLAIMS = [
                    "three entries, none of them under five hours"),
     median_between("a3", "Chapter 13", 300, 600,
                    "three entries, none of them under five hours"),
-    sample_at_most("a3", "Chapter 13", 7,
-                   "and the newest resting on the fewest uploads of any of them"),
     total_ratio_between("a3", ["a2"], 1.0, 2.0,
                         "which between them outweigh the arc before this one "
                         "on the same number of entries"),

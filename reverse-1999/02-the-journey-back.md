@@ -123,7 +123,6 @@ and close on In the Place of My Ashes.
 <!--f:parts_Chapter_10-->24<!--/f--> stages in the ice,
 from The Rime of the Ancient Mariner to Apocalypsis cum figuris.
 <!--gen:stats act="Chapter 10"-->
-One of the three longest chapters in the game.
 
 - **Estimated length:** 6 h 18 min
 - **Sampled range:** 5 h 30 min to 7 h 53 min for the middle half (full spread 3 h 06 min to 8 h 13 min) across 11 playthrough uploads (42 further candidates screened out)

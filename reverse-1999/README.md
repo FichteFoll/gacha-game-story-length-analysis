@@ -4,7 +4,7 @@ Duration estimates for every chapter of the *Reverse: 1999* main story,
 from the prologue aboard the APPLe to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->65 h 13 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->157<!--/f--> accepted uploads out of <!--f:n_candidates-->661<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->66 h 03 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->159<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
@@ -15,7 +15,7 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 | --- | --- | --- | --- | --- | --- |
 | Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 30 h 56 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
 | Arc 2: The Journey Back | 8 - 10 | 2.2 - 2.8 | 3 | 15 h 06 min | [02-the-journey-back.md](02-the-journey-back.md) |
-| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 19 h 11 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
+| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 20 h 01 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -25,8 +25,8 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 | --- | --- | --- |
 | longest | Arc 1, Chapter 7: Vereinsamt | 8 h 05 min |
 | longest | Arc 3, Chapter 12: The Campaign's Tale | 7 h 20 min |
+| longest | Arc 3, Chapter 13: On Another's Sorrow | 6 h 51 min |
 | longest | Arc 2, Chapter 10: Paradise Regained | 6 h 18 min |
-| longest | Arc 3, Chapter 13: On Another's Sorrow | 6 h 01 min |
 | longest | Arc 3, Chapter 11: A Long Long Way | 5 h 50 min |
 | shortest | Arc 1, Inter Chapter - II: To the New World | 36 min |
 | shortest | Arc 1, Prologue: This is Tomorrow | 38 min |
@@ -117,12 +117,12 @@ whatever its sample size says.
 Beyond the limits every report in this repository shares,
 listed in the [repository README](../README.md):
 
-- **The wiki records a release version for half the entries and no release
-date for any of them.** A version page announces "the new main story
+- **The wiki records a release version for about half the entries and no
+release date for any of them.** A version page announces "the new main story
 chapter" from 1.4 onwards, and that is where the Versions column comes from;
-nothing on the wiki says which version shipped the launch chapters,
-either inter chapter, or the newest chapter, whose version page does not
-exist yet. Because no version carries a machine-readable date either,
+nothing on the wiki says which version shipped the launch chapters
+or either inter chapter.
+Because no version carries a machine-readable date either,
 no chapter counted as recent and none was searched any deeper for it;
 the thin pools were topped up by hand instead.
 - **Most uploaders split a chapter, so the pool of whole-chapter uploads is
@@ -152,4 +152,4 @@ and the report files chapters by arc only because the wiki does.
 - The wiki records no level requirement for entering a story chapter,
 so this report publishes no gate.
 
-Data collected <!--f:date-->2026-08-27<!--/f-->.
+Data collected <!--f:date-->2026-09-26<!--/f-->.
