@@ -28,8 +28,9 @@ on the same number of entries.
 Chapters 12 and 13 are the longer two of the three
 and, after Chapter 7, the longest entries in the game.
 These are the youngest pools in the report,
-which is what the wide middle halves below are:
-these chapters have had the least time to accumulate uploads.
+which shows in their size:
+each rests on little more than the uploads a middle half needs,
+because these chapters have had the least time to accumulate them.
 
 ## Chapters
 
