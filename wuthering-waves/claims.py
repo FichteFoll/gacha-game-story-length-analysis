@@ -4,9 +4,9 @@ The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from analyze import IQR_SAMPLES
-from assertions import (count_above, is_extreme, largest_chapter,
-                        median_between, none_above, rank_at_most,
-                        sample_at_least)
+from assertions import (count_above, every_sample_at_least, is_extreme,
+                        largest_chapter, median_between, none_above,
+                        rank_at_most, sample_at_least)
 
 
 CLAIMS = [
@@ -76,4 +76,9 @@ CLAIMS = [
     sample_at_least("ch4", "Segue - II", IQR_SAMPLES,
                     "the closing segue, thin while it was new, has since "
                     "gathered enough uploads to be rated on its spread"),
+
+    # README.md, limits
+    every_sample_at_least("ch4", IQR_SAMPLES,
+                          "its segues, thin while they were new, have since "
+                          "gathered enough uploads to be rated on their spread"),
 ]

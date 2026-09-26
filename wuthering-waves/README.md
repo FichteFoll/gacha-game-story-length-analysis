@@ -4,7 +4,7 @@ Duration estimates for every entry of the Main Quest storyline,
 from the Huanglong prologue to Mengzhou,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->86 h 47 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->681<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->86 h 27 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->682<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -14,7 +14,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | --- | --- | --- | --- | --- | --- |
 | Prologue: Utterance of Marvels | Huanglong | 1.0 | 2 | 51 min | [00-prologue.md](00-prologue.md) |
 | Chapter I: Jinzhou Rising | Huanglong, later the Black Shores | 1.0 - 1.3 | 9 | 11 h 39 min | [01-chapter-i-jinzhou.md](01-chapter-i-jinzhou.md) |
-| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 37 h 05 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
+| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 36 h 45 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
 | Chapter III: To the Stars Yet to Shine | Roya Frostlands, Lahai-Roi | 3.0 - 3.4 | 14 | 26 h 30 min | [03-chapter-iii-roya-frostlands.md](03-chapter-iii-roya-frostlands.md) |
 | Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.6 | 5 | 10 h 42 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
 <!--/gen-->
@@ -97,10 +97,11 @@ so none of them is called the longest or the shortest of anything.
 Beyond the limits every report in this repository shares,
 listed in the [repository README](../README.md):
 
-- Chapter IV closes on content published days before this report.
+- Chapter IV closes on content published shortly before this report.
 A version that has just shipped is the one everyone uploads,
-so its acts are well covered;
-what is thin is the segue behind them, which is rated *low* accordingly.
+so its acts are well covered,
+and its segues, thin while they were new,
+have since gathered enough uploads to be rated on their spread.
 - Every act is gated behind a Union Level in game,
 but the wiki fills the requirement field on two quest pages only,
 so the gate reads "-" almost everywhere.

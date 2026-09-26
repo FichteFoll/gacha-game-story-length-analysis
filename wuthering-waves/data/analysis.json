@@ -6152,13 +6152,18 @@
     "upload_date": "20250309"
    },
    {
-    "seconds": 8526,
+    "seconds": 4609,
     "title": "\u3010Wuthering Waves\u3011Silent as a Falling Leaf and Old Man and the Whale [Jp Dub]",
     "uploader": "Super Executive",
     "url": "https://www.youtube.com/watch?v=mbkSLSD6UWk",
     "views": 52,
     "rejected": [],
-    "upload_date": "20250323"
+    "upload_date": "20250323",
+    "runtime": 8526,
+    "measured": "chapter-markers",
+    "parts": {
+     "Old Man and the Whale": 4609
+    }
    },
    {
     "seconds": 106,
@@ -6197,9 +6202,7 @@
     "uploader": "LokiGamingZero",
     "url": "https://www.youtube.com/watch?v=JRGXPS2rCi0",
     "views": 21,
-    "rejected": [
-     "short-outlier"
-    ],
+    "rejected": [],
     "upload_date": "20250306"
    },
    {
@@ -6224,6 +6227,29 @@
    }
   ],
   "kept": [
+   {
+    "seconds": 3263,
+    "title": "2.1 Event Story, Old Man and the Whale - Wuthering Waves",
+    "uploader": "LokiGamingZero",
+    "url": "https://www.youtube.com/watch?v=JRGXPS2rCi0",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20250306"
+   },
+   {
+    "seconds": 4609,
+    "title": "\u3010Wuthering Waves\u3011Silent as a Falling Leaf and Old Man and the Whale [Jp Dub]",
+    "uploader": "Super Executive",
+    "url": "https://www.youtube.com/watch?v=mbkSLSD6UWk",
+    "views": 52,
+    "rejected": [],
+    "upload_date": "20250323",
+    "runtime": 8526,
+    "measured": "chapter-markers",
+    "parts": {
+     "Old Man and the Whale": 4609
+    }
+   },
    {
     "seconds": 6108,
     "title": "Old Man and the Whale Full Quest \u2014 Wuthering Waves",
@@ -6261,15 +6287,6 @@
     "upload_date": "20250309"
    },
    {
-    "seconds": 8526,
-    "title": "\u3010Wuthering Waves\u3011Silent as a Falling Leaf and Old Man and the Whale [Jp Dub]",
-    "uploader": "Super Executive",
-    "url": "https://www.youtube.com/watch?v=mbkSLSD6UWk",
-    "views": 52,
-    "rejected": [],
-    "upload_date": "20250323"
-   },
-   {
     "seconds": 8567,
     "title": "Wuthering Waves 2.1 - Full Event Story Quest (Old Man and the Whale)",
     "uploader": "CGInferno",
@@ -6298,16 +6315,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 131,
-   "low": 102,
+   "n": 9,
+   "median": 111,
+   "low": 54,
    "high": 157,
-   "q1": 110,
-   "q3": 151,
-   "trimmed_mean": 130,
-   "measured": 0,
+   "q1": 89,
+   "q3": 148,
+   "trimmed_mean": 114,
+   "measured": 1,
    "parts": {},
-   "drift": 0.236
+   "drift": 0.047
   }
  },
  {

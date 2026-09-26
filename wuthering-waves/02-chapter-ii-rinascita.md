@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II: Even When Divinity Remains Silent
 
-**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 37 h 05 min**
+**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 36 h 45 min**
 <!--/gen-->
 
 Rinascita is a country of carnivals, gladiators and drowned gods,
@@ -19,7 +19,7 @@ and leaves having killed a Threnodian and a great deal else.
 | Act I | The Sacred Breeze So Often Breathes | 1 h 08 min | 55 min - 1 h 24 min | 15 | low |
 | Act II | Veils Off in Sun or Shadow | 2 h 25 min | 2 h 14 min - 2 h 44 min | 13 | high |
 | Act III | What Yesterday Wept, Today Doth Sing | 2 h 29 min | 2 h 05 min - 2 h 34 min | 13 | high |
-| Interlude | Old Man and the Whale | 2 h 11 min | 1 h 50 min - 2 h 31 min | 8 | low |
+| Interlude | Old Man and the Whale | 1 h 51 min | 1 h 29 min - 2 h 28 min | 9 | low |
 | Act IV | The Maiden, The Defier, The Death Crier | 3 h 23 min | 3 h 09 min - 3 h 33 min | 19 | high |
 | Act V | Shadow of Glory | 2 h 23 min | 2 h 01 min - 2 h 31 min | 11 | high |
 | Act VI | Flames of Heart | 1 h 35 min | 1 h 27 min - 1 h 41 min | 17 | high |
@@ -34,13 +34,13 @@ and leaves having killed a Threnodian and a great deal else.
 | Segue - III | Flowing Starlight in the Iris | 1 h 13 min | 1 h 09 min - 1 h 19 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->37 h 05 min<!--/f-->**
+**Total: <!--f:total-->36 h 45 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter here,
 and the one where the game changes scale:
-<!--f:n_above_2h-->ten<!--/f--> of its <!--f:n_entries-->17<!--/f--> entries
+<!--f:n_above_2h-->nine<!--/f--> of its <!--f:n_entries-->17<!--/f--> entries
 run past two hours, and <!--f:n_above_3h-->three<!--/f--> past three.
 The pattern is that a version ships one long act and one short piece around it,
 so the prologue, the two afterstory segues and *Rust, Sword and the Sun*
@@ -214,14 +214,18 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 The fishing chapter: Ishmael, Captain Ahab,
 the Riccioli Islands and the whale that will not stay a story.
 An event chapter the wiki files inside Chapter II.
+One upload pairs it with *Silent as a Falling Leaf*,
+an exploration quest of the Averardo Vault and no part of the Interlude,
+so only its Interlude chapter markers are counted.
 <!--gen:stats act="Interlude"-->
 
-- **Estimated length:** 2 h 11 min
-- **Sampled range:** 1 h 50 min to 2 h 31 min for the middle half (full spread 1 h 42 min to 2 h 37 min) across 8 playthrough uploads (17 further candidates screened out)
+- **Estimated length:** 1 h 51 min
+- **Sampled range:** 1 h 29 min to 2 h 28 min for the middle half (full spread 54 min to 2 h 37 min) across 9 playthrough uploads (16 further candidates screened out)
 - **Confidence:** low
 - **Union Level gate:** 14
 - **Released in:** unknown
-- **Stability:** median +24% against an earlier, independent query set
+- **Stability:** median +5% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** Set Sail! Pro Angler!; Love in the Time of Fishing; Where All Fish Converge; Old Man and the Whale; I Alone Survived
 <!--/gen-->
 
@@ -231,11 +235,12 @@ An event chapter the wiki files inside Chapter II.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 54 min | 2.1 Event Story, Old Man and the Whale - Wuthering Waves | LokiGamingZero | 21 | 2025-03-06 | <https://www.youtube.com/watch?v=JRGXPS2rCi0> |
+| 1 h 17 min | 【Wuthering Waves】Silent as a Falling Leaf and Old Man and the Whale [Jp Dub] | Super Executive | 52 | 2025-03-23 | <https://www.youtube.com/watch?v=mbkSLSD6UWk> |
 | 1 h 42 min | Old Man and the Whale Full Quest — Wuthering Waves | NaruVT | 1,859 | 2025-02-15 | <https://www.youtube.com/watch?v=5IqX1-LMjDc> |
 | 1 h 50 min | Wuthering Waves 2.1 Story - Chapter 2 Interlude: Old Man and the Whale (Female Rover) | QuestWatcher | 356 | 2026-02-08 | <https://www.youtube.com/watch?v=wipGNHkmDfw> |
 | 1 h 51 min | [Wuthering Waves](Event)(V2.1): Old Man And The Whale - Day 1 | PlayZero Gaming  | 6 | 2025-03-05 | <https://www.youtube.com/watch?v=TMJaaPvNgw4> |
 | 1 h 59 min | Old Man and the Whale - Part 1 \| Wuthering Wave Event Story | Akira Koto | 11 | 2025-03-09 | <https://www.youtube.com/watch?v=PV13ecTQ5bs> |
-| 2 h 22 min | 【Wuthering Waves】Silent as a Falling Leaf and Old Man and the Whale [Jp Dub] | Super Executive | 52 | 2025-03-23 | <https://www.youtube.com/watch?v=mbkSLSD6UWk> |
 | 2 h 23 min | Wuthering Waves 2.1 - Full Event Story Quest (Old Man and the Whale) | CGInferno | 13,512 | 2025-02-13 | <https://www.youtube.com/watch?v=Q0p5ZBz-4tM> |
 | 2 h 33 min | Wuthering Waves - 2.1 Old Man and the Whale - Full Story Quest | Yoshizu | 21 | 2025-02-16 | <https://www.youtube.com/watch?v=gqyBP1IHUNw> |
 | 2 h 37 min | Old Man and the Whale (Complete Story Quest) Version 2.1 Main Event \| Wuthering Waves | Hardisa | 137 | 2025-02-23 | <https://www.youtube.com/watch?v=h9yksQ0fbeY> |
