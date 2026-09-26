@@ -149,7 +149,7 @@ One of the three shortest entries in the questline.
 - **Sampled range:** 32 min to 1 h 18 min for the middle half (full spread 30 min to 1 h 25 min) across 11 playthrough uploads (27 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Zeroth Directive (1.0)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 11 uploads
 - **Quest parts (3):** Paving the Way; Work Preparation; Maintenance Progress
 <!--/gen-->
@@ -235,7 +235,7 @@ and the secret meeting the four factions call.
 - **Sampled range:** 1 h 35 min to 2 h 03 min for the middle half (full spread 1 h 28 min to 2 h 07 min) across 12 playthrough uploads (33 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** Zeroth Directive (1.0)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 5 of 12 uploads
 - **Quest parts (9):** Entering the Endgame (6 min); Counterstrike Brewing (9 min); Scaldings of Utjug; Frontline Rush (9 min); Undying Cinders (20 min); Temporary Peace (7 min); Mysterious Signal (21 min); Conference of the Four; Work Preparation
 <!--/gen-->

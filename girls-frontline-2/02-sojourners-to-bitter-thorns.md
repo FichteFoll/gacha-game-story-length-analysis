@@ -132,7 +132,7 @@ The crew follows her in and recognises Paradeus doctrine in what the cult believ
 - **Sampled range:** 2 h 22 min to 3 h 26 min for the middle half (full spread 1 h 57 min to 3 h 44 min) across 9 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (13):** 7-1: Clearance I; 7-2: Clearance I; SL-7-3: Metastable; 7-3: Polarization; 7-4: Surpass; 7-5: Memory Effect; 7-6: Clearance III; SL-7-2: The Only Solution; 7-7: Relay Point; SL-7-3: Illusory Revelation; 7-8: Stimulated State; 7-9: Tower; 7-10: Consensus
 <!--/gen-->
@@ -209,7 +209,7 @@ One of the three shortest entries in the questline.
 - **Sampled range:** 1 h 56 min to 3 h 30 min for the middle half (full spread 1 h 29 min to 4 h 16 min) across 10 playthrough uploads (7 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (10):** GS-1-1: Acquaintances in Flowerbeds; GW-1-1: Detuned; GW-1-2: Ordered Sequence; GW-1-3: Heavy Bass; GS-1-2: Divergent Calling; GW-1-4: Chaos Factor; GW-1-5: Turbulent Flow; GW-1-6: Overture of Obscenity; GW-1-7: Reverberation of Terror; GW-1-8: The Silent List
 <!--/gen-->
@@ -247,7 +247,7 @@ and Springfield tells them to stop feeling guilty about the decade of silence.
 - **Sampled range:** 3 h 17 min to 8 h 42 min across 7 playthrough uploads (19 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 7 uploads
 - **Quest parts (10):** CA-1-1: Promised Day (34 min); CA-1-2: Omen (43 min); CA-1-3: Fleeing Pursuit (28 min); CS-1-1: Safehouse (1 h 09 min); CA-1-4: Baptism of Memory (52 min); CA-1-5: Level III Base Layer (48 min); CA-1-6: Creeping Mist (53 min); CA-1-7: Racing Rescue (40 min); CA-1-8: Third-Generation Doll (43 min); CA-1-9: Signal Decryption (17 min)
 <!--/gen-->

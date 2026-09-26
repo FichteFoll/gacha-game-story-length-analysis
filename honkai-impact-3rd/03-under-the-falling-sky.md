@@ -49,7 +49,7 @@ The shortest entry in the questline.
 - **Sampled range:** 19 min to 22 min for the middle half (full spread 16 min to 28 min) across 19 playthrough uploads (14 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (2):** Voyage in a storm; Reinforcement
 <!--/gen-->
 

@@ -40,9 +40,11 @@ CLAIMS = [
                  scope="chapter"),
 
     median_between("s3", "Chapter 1", 180, 360,
-                   "Both were written at the Season 2 scale "
+                   "were written at the Season 2 scale "
                    "rather than the Season 1 one"),
     median_between("s3", "Chapter 2", 180, 360,
-                   "Both were written at the Season 2 scale "
+                   "were written at the Season 2 scale "
                    "rather than the Season 1 one"),
+    is_extreme("s3", "Chapter 3", "min",
+               "*Their Secret Histories* is the shortest of the three"),
 ]

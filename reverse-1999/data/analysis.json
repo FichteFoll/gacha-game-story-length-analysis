@@ -13,7 +13,9 @@
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=e_F-B9mn7xo",
     "views": 38104,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20230807"
    },
    {
@@ -26,22 +28,32 @@
     "upload_date": "20231101"
    },
    {
-    "seconds": 2408,
+    "seconds": 1969,
     "title": "This is Tomorrow | Reverse: 1999 | Prologue Full Story [4K] [No Commentary] [NEWER UPDATED VERSION]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=r0x4k0yxd8s",
-    "views": "12484",
-    "rejected": [
-     "same-uploader"
-    ]
+    "views": 13448,
+    "rejected": [],
+    "upload_date": "20241207",
+    "runtime": 2407,
+    "measured": "chapter-markers",
+    "parts": {
+     "Rock 'n' Roll Radio": 233,
+     "King's Trail": 417,
+     "Teleport": 150,
+     "Invisible Pirate": 231,
+     "The Storm Overture": 343,
+     "The Living Past": 456
+    }
    },
    {
-    "seconds": 2424,
+    "seconds": 2423,
     "title": "\u3010REVERSE 1999\u3011GAMEPLAY WALKTHROUGH | PROLOGUE: THIS IS TOMORROW | NO COMMENTARY",
     "uploader": "ARHSgameplay",
     "url": "https://www.youtube.com/watch?v=p_RK4UNnSss",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20231128"
    },
    {
     "seconds": 2337,
@@ -70,12 +82,22 @@
     "upload_date": "20231228"
    },
    {
-    "seconds": 2008,
+    "seconds": 1622,
     "title": "Reverse: 1999 | Main Story | This Is Tomorrow",
     "uploader": "Christh F G",
     "url": "https://www.youtube.com/watch?v=dNi25mDZ6TI",
-    "views": "23",
-    "rejected": []
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20250927",
+    "runtime": 2007,
+    "measured": "chapter-markers",
+    "parts": {
+     "Rock 'n' Roll Radio": 232,
+     "Teleport": 295,
+     "Invisible Pirate": 233,
+     "The Storm Overture": 411,
+     "The Living Past": 451
+    }
    },
    {
     "seconds": 1795,
@@ -97,14 +119,21 @@
     ]
    },
    {
-    "seconds": 2048,
+    "seconds": 1416,
     "title": "Reverse 1999 English Fully Voiced Story Prologue 60FPS HD",
     "uploader": "Steparu",
     "url": "https://www.youtube.com/watch?v=jbxzTjjIePY",
-    "views": "8602",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "views": 8606,
+    "rejected": [],
+    "upload_date": "20220610",
+    "runtime": 2047,
+    "measured": "chapter-markers",
+    "parts": {
+     "Teleport": 312,
+     "Invisible Pirate": 228,
+     "The Storm Overture": 395,
+     "The Living Past": 481
+    }
    },
    {
     "seconds": 1951,
@@ -129,14 +158,15 @@
     "upload_date": "20231026"
    },
    {
-    "seconds": 1720,
+    "seconds": 1719,
     "title": "Reverse 1999 I FULL Gameplay Walkthrough I Prologue I EN DUB",
     "uploader": "Zhail50",
     "url": "https://www.youtube.com/watch?v=mMQ78npPRX8",
-    "views": "203",
+    "views": 205,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20231027"
    },
    {
     "seconds": 500,
@@ -198,14 +228,15 @@
     "upload_date": "20231026"
    },
    {
-    "seconds": 12454,
+    "seconds": 12453,
     "title": "Reverse: 1999 - Global CBT - Prologue and Chapter 1 - Auto Play Story [No commentary]",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=qQ-5TgoVKGs",
-    "views": "124",
+    "views": 126,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230807"
    },
    {
     "seconds": 2300,
@@ -227,14 +258,15 @@
     ]
    },
    {
-    "seconds": 1981,
+    "seconds": 1980,
     "title": "Reverse: 1999 - Full Story - Chapter 0",
     "uploader": "Gacha Senior",
     "url": "https://www.youtube.com/watch?v=dAtamZd9kVU",
-    "views": "129",
+    "views": 132,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20231027"
    },
    {
     "seconds": 2478,
@@ -258,6 +290,41 @@
   ],
   "kept": [
    {
+    "seconds": 1416,
+    "title": "Reverse 1999 English Fully Voiced Story Prologue 60FPS HD",
+    "uploader": "Steparu",
+    "url": "https://www.youtube.com/watch?v=jbxzTjjIePY",
+    "views": 8606,
+    "rejected": [],
+    "upload_date": "20220610",
+    "runtime": 2047,
+    "measured": "chapter-markers",
+    "parts": {
+     "Teleport": 312,
+     "Invisible Pirate": 228,
+     "The Storm Overture": 395,
+     "The Living Past": 481
+    }
+   },
+   {
+    "seconds": 1622,
+    "title": "Reverse: 1999 | Main Story | This Is Tomorrow",
+    "uploader": "Christh F G",
+    "url": "https://www.youtube.com/watch?v=dNi25mDZ6TI",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20250927",
+    "runtime": 2007,
+    "measured": "chapter-markers",
+    "parts": {
+     "Rock 'n' Roll Radio": 232,
+     "Teleport": 295,
+     "Invisible Pirate": 233,
+     "The Storm Overture": 411,
+     "The Living Past": 451
+    }
+   },
+   {
     "seconds": 1795,
     "title": "Reverse: 1999 | Prologue: This Is Tomorrow (No Commentary)",
     "uploader": "A Corner Of The Foundation",
@@ -265,6 +332,25 @@
     "views": 41,
     "rejected": [],
     "upload_date": "20240125"
+   },
+   {
+    "seconds": 1969,
+    "title": "This is Tomorrow | Reverse: 1999 | Prologue Full Story [4K] [No Commentary] [NEWER UPDATED VERSION]",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=r0x4k0yxd8s",
+    "views": 13448,
+    "rejected": [],
+    "upload_date": "20241207",
+    "runtime": 2407,
+    "measured": "chapter-markers",
+    "parts": {
+     "Rock 'n' Roll Radio": 233,
+     "King's Trail": 417,
+     "Teleport": 150,
+     "Invisible Pirate": 231,
+     "The Storm Overture": 343,
+     "The Living Past": 456
+    }
    },
    {
     "seconds": 1975,
@@ -284,14 +370,6 @@
      "The Storm Overture": 402,
      "The Living Past": 450
     }
-   },
-   {
-    "seconds": 2008,
-    "title": "Reverse: 1999 | Main Story | This Is Tomorrow",
-    "uploader": "Christh F G",
-    "url": "https://www.youtube.com/watch?v=dNi25mDZ6TI",
-    "views": "23",
-    "rejected": []
    },
    {
     "seconds": 2029,
@@ -338,21 +416,13 @@
     "rejected": []
    },
    {
-    "seconds": 2352,
-    "title": "This is Tomorrow | Reverse: 1999 | Prologue Full Story [No Commentary] [CBT]",
-    "uploader": "\u516b\u54ab\u70cf_Merui",
-    "url": "https://www.youtube.com/watch?v=e_F-B9mn7xo",
-    "views": 38104,
-    "rejected": [],
-    "upload_date": "20230807"
-   },
-   {
-    "seconds": 2424,
+    "seconds": 2423,
     "title": "\u3010REVERSE 1999\u3011GAMEPLAY WALKTHROUGH | PROLOGUE: THIS IS TOMORROW | NO COMMENTARY",
     "uploader": "ARHSgameplay",
     "url": "https://www.youtube.com/watch?v=p_RK4UNnSss",
-    "views": "11",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20231128"
    },
    {
     "seconds": 2478,
@@ -374,16 +444,22 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 38,
-   "low": 30,
+   "n": 13,
+   "median": 35,
+   "low": 24,
    "high": 53,
-   "q1": 34,
+   "q1": 31,
    "q3": 40,
-   "trimmed_mean": 37,
-   "measured": 1,
-   "parts": {},
-   "drift": 0.056
+   "trimmed_mean": 35,
+   "measured": 4,
+   "parts": {
+    "Rock 'n' Roll Radio": 4,
+    "Teleport": 5,
+    "Invisible Pirate": 4,
+    "The Storm Overture": 7,
+    "The Living Past": 8
+   },
+   "drift": -0.028
   }
  },
  {
@@ -511,20 +587,41 @@
     "upload_date": "20260629"
    },
    {
-    "seconds": 12163,
+    "seconds": 12162,
     "title": "Reverse:1999 New Global CBT Full Gameplay | Chapter 1: In Our Time Chapter Main Story Walkthrough",
     "uploader": "Noxxis Gaming",
     "url": "https://www.youtube.com/watch?v=_uvD5sUR_Jg",
-    "views": "19877",
-    "rejected": []
+    "views": 19890,
+    "rejected": [],
+    "upload_date": "20230804"
    },
    {
-    "seconds": 6453,
+    "seconds": 5758,
     "title": "In Our Time | Chapter 1 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=jBusmTGWbLE",
-    "views": "117",
-    "rejected": []
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20231228",
+    "runtime": 6452,
+    "measured": "chapter-markers",
+    "parts": {
+     "Wretched Brats": 421,
+     "Dr.Papper": 255,
+     "To the New World": 290,
+     "Chicago Rescue": 210,
+     "Sharpodonty and Black Wine": 276,
+     "The Rosa Killer": 387,
+     "Druvis III": 309,
+     "Security Carnival": 471,
+     "The Origin Butterfly": 271,
+     "Charge Baby, Charge!": 399,
+     "Appetizers": 673,
+     "The Rattenfanger": 599,
+     "The Eye of the Storm": 321,
+     "Underground Labyrinth": 306,
+     "Heaven Apostles": 570
+    }
    },
    {
     "seconds": 7015,
@@ -584,10 +681,11 @@
     "title": "REVERSE: 1999 Playthrough intro + in our time story part 1 || no commentary",
     "uploader": "Dephyn Play",
     "url": "https://www.youtube.com/watch?v=_u2QPHsbVkw",
-    "views": "19",
+    "views": 19,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20231027"
    },
    {
     "seconds": 918,
@@ -630,14 +728,15 @@
     ]
    },
    {
-    "seconds": 2872,
+    "seconds": 2871,
     "title": "Chapter 1: In Our Time | Reverse: 1999 [1]",
     "uploader": "Kenzii",
     "url": "https://www.youtube.com/watch?v=qO2bWWYoRuI",
-    "views": "23",
+    "views": 23,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20241022"
    },
    {
     "seconds": 2417,
@@ -733,6 +832,34 @@
     "rejected": []
    },
    {
+    "seconds": 5758,
+    "title": "In Our Time | Chapter 1 | Reverse: 1999 - Full Story",
+    "uploader": "Reverse: 1999 - Recap",
+    "url": "https://www.youtube.com/watch?v=jBusmTGWbLE",
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20231228",
+    "runtime": 6452,
+    "measured": "chapter-markers",
+    "parts": {
+     "Wretched Brats": 421,
+     "Dr.Papper": 255,
+     "To the New World": 290,
+     "Chicago Rescue": 210,
+     "Sharpodonty and Black Wine": 276,
+     "The Rosa Killer": 387,
+     "Druvis III": 309,
+     "Security Carnival": 471,
+     "The Origin Butterfly": 271,
+     "Charge Baby, Charge!": 399,
+     "Appetizers": 673,
+     "The Rattenfanger": 599,
+     "The Eye of the Storm": 321,
+     "Underground Labyrinth": 306,
+     "Heaven Apostles": 570
+    }
+   },
+   {
     "seconds": 5780,
     "title": "Reverse: 1999 - Full Story - Chapter 1",
     "uploader": "Gacha Senior",
@@ -748,14 +875,6 @@
     "views": 51,
     "rejected": [],
     "upload_date": "20231102"
-   },
-   {
-    "seconds": 6453,
-    "title": "In Our Time | Chapter 1 | Reverse: 1999 - Full Story",
-    "uploader": "Reverse: 1999 - Recap",
-    "url": "https://www.youtube.com/watch?v=jBusmTGWbLE",
-    "views": "117",
-    "rejected": []
    },
    {
     "seconds": 7016,
@@ -821,12 +940,13 @@
     "upload_date": "20260629"
    },
    {
-    "seconds": 12163,
+    "seconds": 12162,
     "title": "Reverse:1999 New Global CBT Full Gameplay | Chapter 1: In Our Time Chapter Main Story Walkthrough",
     "uploader": "Noxxis Gaming",
     "url": "https://www.youtube.com/watch?v=_uvD5sUR_Jg",
-    "views": "19877",
-    "rejected": []
+    "views": 19890,
+    "rejected": [],
+    "upload_date": "20230804"
    }
   ],
   "stats": {
@@ -834,10 +954,10 @@
    "median": 121,
    "low": 92,
    "high": 203,
-   "q1": 104,
+   "q1": 96,
    "q3": 154,
-   "trimmed_mean": 125,
-   "measured": 1,
+   "trimmed_mean": 123,
+   "measured": 2,
    "parts": {},
    "drift": -0.016
   }
@@ -911,8 +1031,9 @@
     "title": "Reverse: 1999 | Chapter 2: Tender Is The Night (No Commentary)",
     "uploader": "A Corner Of The Foundation",
     "url": "https://www.youtube.com/watch?v=c5Vhvqc_1D8",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20240125"
    },
    {
     "seconds": 494,
@@ -1309,8 +1430,9 @@
     "title": "Reverse: 1999 | Chapter 2: Tender Is The Night (No Commentary)",
     "uploader": "A Corner Of The Foundation",
     "url": "https://www.youtube.com/watch?v=c5Vhvqc_1D8",
-    "views": "18",
-    "rejected": []
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20240125"
    },
    {
     "seconds": 7146,
@@ -1551,12 +1673,13 @@
     "upload_date": "20231030"
    },
    {
-    "seconds": 8594,
+    "seconds": 8593,
     "title": "[Reverse: 1999] Chapter 3\u2013Nouvelles et Textes pour rien",
     "uploader": "HaWuTsKi Archive",
     "url": "https://www.youtube.com/watch?v=iwYnDCgxY4g",
-    "views": "89",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20250224"
    },
    {
     "seconds": 6963,
@@ -1592,14 +1715,27 @@
     ]
    },
    {
-    "seconds": 4861,
+    "seconds": 3658,
     "title": "Reverse: 1999. Story move to 9-16 [Chapter 3 - Nouvelles et Textes pour Rien]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=cy7zCpQw_QM",
-    "views": "68",
+    "views": 69,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20231220",
+    "runtime": 4860,
+    "measured": "chapter-markers",
+    "parts": {
+     "George the Oak": 238,
+     "O Captain!": 658,
+     "Freedom of the Dumb": 467,
+     "Burning Tears": 295,
+     "A Yard": 592,
+     "Lost Lambs": 482,
+     "The Other Future": 653,
+     "Storm and the New World": 273
+    }
    },
    {
     "seconds": 11691,
@@ -1807,8 +1943,9 @@
     "title": "Reverse: 1999 | Main Story Chapter 3 (Nouvelles et Textes pour Rien) All Episode",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=lfhbnBAvC4A",
-    "views": "20",
-    "rejected": []
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20231107"
    },
    {
     "seconds": 696,
@@ -1908,8 +2045,9 @@
     "title": "Reverse: 1999 | Main Story Chapter 3 (Nouvelles et Textes pour Rien) All Episode",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=lfhbnBAvC4A",
-    "views": "20",
-    "rejected": []
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20231107"
    },
    {
     "seconds": 8106,
@@ -1921,12 +2059,13 @@
     "upload_date": "20231031"
    },
    {
-    "seconds": 8594,
+    "seconds": 8593,
     "title": "[Reverse: 1999] Chapter 3\u2013Nouvelles et Textes pour rien",
     "uploader": "HaWuTsKi Archive",
     "url": "https://www.youtube.com/watch?v=iwYnDCgxY4g",
-    "views": "89",
-    "rejected": []
+    "views": 91,
+    "rejected": [],
+    "upload_date": "20250224"
    },
    {
     "seconds": 8671,
@@ -2147,8 +2286,9 @@
     "title": "Reverse: 1999 | Main Story Chapter 4 (El Oro de los Tigres) All Episode",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=pfjmBjHwl14",
-    "views": "55",
-    "rejected": []
+    "views": 55,
+    "rejected": [],
+    "upload_date": "20231031"
    },
    {
     "seconds": 492,
@@ -2177,34 +2317,48 @@
     "title": "Reverse: 1999 | Chapter 4: El Oro de los Tigres (No Commentary)",
     "uploader": "A Corner Of The Foundation",
     "url": "https://www.youtube.com/watch?v=ghamBFTelmE",
-    "views": "71",
-    "rejected": []
+    "views": 71,
+    "rejected": [],
+    "upload_date": "20240125"
    },
    {
-    "seconds": 17708,
+    "seconds": 17707,
     "title": "Reverse: 1999; Chapter 4: EL ORO DE LOS TIGRES [NO COMMENTARY]",
     "uploader": "Vilwyn",
     "url": "https://www.youtube.com/watch?v=om1UVSEpUKQ",
-    "views": "1",
-    "rejected": []
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20260517"
    },
    {
     "seconds": 14362,
     "title": "Reverse 1999 1.0 - Chapter 4: El Oro de los Tigres [ENG - Full Game No Commentary]",
     "uploader": "Shaft_HeadTilt",
     "url": "https://www.youtube.com/watch?v=dU-Fy3Z5RNA",
-    "views": "497",
-    "rejected": []
+    "views": 497,
+    "rejected": [],
+    "upload_date": "20231031"
    },
    {
-    "seconds": 2880,
+    "seconds": 2641,
     "title": "Reverse 1999 Gameplay Walkthrough - Chapter 4: El Oro de los Tigres Part 1 No Commentary",
     "uploader": "Donatong",
     "url": "https://www.youtube.com/watch?v=pNWqI74sXiM",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20240109",
+    "runtime": 2880,
+    "measured": "chapter-markers",
+    "parts": {
+     "An Old Umbrella": 427,
+     "A Letter": 40,
+     "The Outsider": 361,
+     "A Coat Rack": 88,
+     "Raise A Glass!": 425,
+     "In the Castle": 458
+    }
    },
    {
     "seconds": 2133,
@@ -2231,8 +2385,9 @@
     "title": "Chapter 4 Reverse 1999 Story Playthrough",
     "uploader": "Unreal Dreamer",
     "url": "https://www.youtube.com/watch?v=c8z5845UNLU",
-    "views": "7255",
-    "rejected": []
+    "views": 7268,
+    "rejected": [],
+    "upload_date": "20231123"
    },
    {
     "seconds": 679,
@@ -2425,8 +2580,9 @@
     "title": "Reverse: 1999 | Main Story Chapter 4 (El Oro de los Tigres) All Episode",
     "uploader": "JihoEcho",
     "url": "https://www.youtube.com/watch?v=pfjmBjHwl14",
-    "views": "55",
-    "rejected": []
+    "views": 55,
+    "rejected": [],
+    "upload_date": "20231031"
    },
    {
     "seconds": 10987,
@@ -2469,8 +2625,9 @@
     "title": "Reverse: 1999 | Chapter 4: El Oro de los Tigres (No Commentary)",
     "uploader": "A Corner Of The Foundation",
     "url": "https://www.youtube.com/watch?v=ghamBFTelmE",
-    "views": "71",
-    "rejected": []
+    "views": 71,
+    "rejected": [],
+    "upload_date": "20240125"
    },
    {
     "seconds": 12753,
@@ -2529,8 +2686,9 @@
     "title": "Reverse 1999 1.0 - Chapter 4: El Oro de los Tigres [ENG - Full Game No Commentary]",
     "uploader": "Shaft_HeadTilt",
     "url": "https://www.youtube.com/watch?v=dU-Fy3Z5RNA",
-    "views": "497",
-    "rejected": []
+    "views": 497,
+    "rejected": [],
+    "upload_date": "20231031"
    },
    {
     "seconds": 15777,
@@ -2546,16 +2704,18 @@
     "title": "Chapter 4 Reverse 1999 Story Playthrough",
     "uploader": "Unreal Dreamer",
     "url": "https://www.youtube.com/watch?v=c8z5845UNLU",
-    "views": "7255",
-    "rejected": []
+    "views": 7268,
+    "rejected": [],
+    "upload_date": "20231123"
    },
    {
-    "seconds": 17708,
+    "seconds": 17707,
     "title": "Reverse: 1999; Chapter 4: EL ORO DE LOS TIGRES [NO COMMENTARY]",
     "uploader": "Vilwyn",
     "url": "https://www.youtube.com/watch?v=om1UVSEpUKQ",
-    "views": "1",
-    "rejected": []
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20260517"
    }
   ],
   "stats": {
@@ -2580,12 +2740,13 @@
   "slug": "a1_Chapter_5",
   "candidates": [
    {
-    "seconds": 16156,
+    "seconds": 16155,
     "title": "The Prisoner in the Cave | Reverse: 1999 | Chapter 5 Full Story [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=vYdcFOdQJOQ",
-    "views": "15341",
-    "rejected": []
+    "views": 16390,
+    "rejected": [],
+    "upload_date": "20240412"
    },
    {
     "seconds": 17272,
@@ -2775,8 +2936,9 @@
     "title": "R1999 - Chapter5 \"The prisoner in the Cave\"- part 2",
     "uploader": "JohnyQP",
     "url": "https://www.youtube.com/watch?v=oTgm3BfEoGg",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20240305"
    },
    {
     "seconds": 14,
@@ -2882,20 +3044,22 @@
     "title": "\ud83c\udfae Reverse 1999  | The Living & The Rest | Chapter 5 - The Prisoner in the Cave [ 4K ] Episode 025",
     "uploader": "CSG Explorer",
     "url": "https://www.youtube.com/watch?v=nQc6rBGnmMg",
-    "views": "20",
+    "views": 20,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251231"
    },
    {
-    "seconds": 1158,
+    "seconds": 1157,
     "title": "\ud83c\udfae Reverse 1999  | The Living & The Rest | Chapter 5 - The Prisoner in the Cave [ 4K ] Episode 026",
     "uploader": "CSG Explorer",
     "url": "https://www.youtube.com/watch?v=heZGNxYBzLI",
-    "views": "13",
+    "views": 13,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260107"
    },
    {
     "seconds": 17420,
@@ -2931,14 +3095,15 @@
     ]
    },
    {
-    "seconds": 4893,
+    "seconds": 4892,
     "title": "The Star | Chapter 5.5 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=eqWlJhWzuLg",
-    "views": "384",
+    "views": 391,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20240306"
    },
    {
     "seconds": 100,
@@ -3047,12 +3212,13 @@
     ]
    },
    {
-    "seconds": 7639,
+    "seconds": 7638,
     "title": "\"The Prisoner In The Cave\" new main story chapter!! [REVERSE 1999]",
     "uploader": "ShinyBotTV VOD channel",
     "url": "https://www.youtube.com/watch?v=epxkA1w0sXg",
-    "views": "94",
-    "rejected": []
+    "views": 97,
+    "rejected": [],
+    "upload_date": "20240509"
    },
    {
     "seconds": 10182,
@@ -3141,12 +3307,13 @@
   ],
   "kept": [
    {
-    "seconds": 7639,
+    "seconds": 7638,
     "title": "\"The Prisoner In The Cave\" new main story chapter!! [REVERSE 1999]",
     "uploader": "ShinyBotTV VOD channel",
     "url": "https://www.youtube.com/watch?v=epxkA1w0sXg",
-    "views": "94",
-    "rejected": []
+    "views": 97,
+    "rejected": [],
+    "upload_date": "20240509"
    },
    {
     "seconds": 9634,
@@ -3171,8 +3338,9 @@
     "title": "R1999 - Chapter5 \"The prisoner in the Cave\"- part 2",
     "uploader": "JohnyQP",
     "url": "https://www.youtube.com/watch?v=oTgm3BfEoGg",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20240305"
    },
    {
     "seconds": 11521,
@@ -3236,12 +3404,13 @@
     "upload_date": "20251206"
    },
    {
-    "seconds": 16156,
+    "seconds": 16155,
     "title": "The Prisoner in the Cave | Reverse: 1999 | Chapter 5 Full Story [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=vYdcFOdQJOQ",
-    "views": "15341",
-    "rejected": []
+    "views": 16390,
+    "rejected": [],
+    "upload_date": "20240412"
    },
    {
     "seconds": 16332,
@@ -3316,8 +3485,9 @@
     "title": "The Star | Reverse 1999 Main Storyline Inter Chapter | No Commentary",
     "uploader": "NEON DEMON",
     "url": "https://www.youtube.com/watch?v=jWaOwh76IfI",
-    "views": "41",
-    "rejected": []
+    "views": 41,
+    "rejected": [],
+    "upload_date": "20251209"
    },
    {
     "seconds": 575,
@@ -3416,20 +3586,32 @@
     "upload_date": "20241004"
    },
    {
-    "seconds": 4955,
+    "seconds": 4692,
     "title": "The Star | Reverse: 1999 | Chapter 5SP Full Story [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=an04pwX9Nb0",
-    "views": "7696",
-    "rejected": []
+    "views": 8124,
+    "rejected": [],
+    "upload_date": "20240413",
+    "runtime": 4955,
+    "measured": "chapter-markers",
+    "parts": {
+     "Lovely Meeting": 886,
+     "Soaked Science": 566,
+     "Tower of Babel": 778,
+     "Divination in the Day": 874,
+     "The Lament in Silence": 1080,
+     "New Direction": 508
+    }
    },
    {
     "seconds": 4892,
     "title": "Inter Chapter: The Star - Full Story | Reverse: 1999",
     "uploader": "Villenthessis",
     "url": "https://www.youtube.com/watch?v=fHvAYBwSyc8",
-    "views": "11225",
-    "rejected": []
+    "views": 11278,
+    "rejected": [],
+    "upload_date": "20240304"
    },
    {
     "seconds": 1034,
@@ -3464,12 +3646,23 @@
     ]
    },
    {
-    "seconds": 4893,
+    "seconds": 4690,
     "title": "The Star | Chapter 5.5 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=eqWlJhWzuLg",
-    "views": "384",
-    "rejected": []
+    "views": 391,
+    "rejected": [],
+    "upload_date": "20240306",
+    "runtime": 4892,
+    "measured": "chapter-markers",
+    "parts": {
+     "Lovely Meeting": 892,
+     "Soaked Science": 568,
+     "Tower of Babel": 780,
+     "Divination in the Day": 873,
+     "The Lament in Silence": 1085,
+     "New Direction": 492
+    }
    },
    {
     "seconds": 2069,
@@ -3554,11 +3747,12 @@
     "title": "2010 MARUTI SUZUKI 800 | STD | 796CC 37BHP | POV Drive #133 | MARUTI 800 | 4K | #maruti800 #maruti",
     "uploader": "Rev GearShift",
     "url": "https://www.youtube.com/watch?v=h8_JR0EA9fM",
-    "views": "615823",
+    "views": 688617,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251228"
    },
    {
     "seconds": 897,
@@ -3660,6 +3854,44 @@
   ],
   "kept": [
    {
+    "seconds": 4690,
+    "title": "The Star | Chapter 5.5 | Reverse: 1999 - Full Story",
+    "uploader": "Reverse: 1999 - Recap",
+    "url": "https://www.youtube.com/watch?v=eqWlJhWzuLg",
+    "views": 391,
+    "rejected": [],
+    "upload_date": "20240306",
+    "runtime": 4892,
+    "measured": "chapter-markers",
+    "parts": {
+     "Lovely Meeting": 892,
+     "Soaked Science": 568,
+     "Tower of Babel": 780,
+     "Divination in the Day": 873,
+     "The Lament in Silence": 1085,
+     "New Direction": 492
+    }
+   },
+   {
+    "seconds": 4692,
+    "title": "The Star | Reverse: 1999 | Chapter 5SP Full Story [No Commentary]",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=an04pwX9Nb0",
+    "views": 8124,
+    "rejected": [],
+    "upload_date": "20240413",
+    "runtime": 4955,
+    "measured": "chapter-markers",
+    "parts": {
+     "Lovely Meeting": 886,
+     "Soaked Science": 566,
+     "Tower of Babel": 778,
+     "Divination in the Day": 874,
+     "The Lament in Silence": 1080,
+     "New Direction": 508
+    }
+   },
+   {
     "seconds": 4706,
     "title": "[Reverse: 1999] Chapter 5 Special: The Star",
     "uploader": "HaWuTsKi Archive",
@@ -3673,16 +3905,9 @@
     "title": "Inter Chapter: The Star - Full Story | Reverse: 1999",
     "uploader": "Villenthessis",
     "url": "https://www.youtube.com/watch?v=fHvAYBwSyc8",
-    "views": "11225",
-    "rejected": []
-   },
-   {
-    "seconds": 4893,
-    "title": "The Star | Chapter 5.5 | Reverse: 1999 - Full Story",
-    "uploader": "Reverse: 1999 - Recap",
-    "url": "https://www.youtube.com/watch?v=eqWlJhWzuLg",
-    "views": "384",
-    "rejected": []
+    "views": 11278,
+    "rejected": [],
+    "upload_date": "20240304"
    },
    {
     "seconds": 4936,
@@ -3692,14 +3917,6 @@
     "views": 64,
     "rejected": [],
     "upload_date": "20241224"
-   },
-   {
-    "seconds": 4955,
-    "title": "The Star | Reverse: 1999 | Chapter 5SP Full Story [No Commentary]",
-    "uploader": "\u516b\u54ab\u70cf_Merui",
-    "url": "https://www.youtube.com/watch?v=an04pwX9Nb0",
-    "views": "7696",
-    "rejected": []
    },
    {
     "seconds": 5005,
@@ -3715,8 +3932,9 @@
     "title": "The Star | Reverse 1999 Main Storyline Inter Chapter | No Commentary",
     "uploader": "NEON DEMON",
     "url": "https://www.youtube.com/watch?v=jWaOwh76IfI",
-    "views": "41",
-    "rejected": []
+    "views": 41,
+    "rejected": [],
+    "upload_date": "20251209"
    },
    {
     "seconds": 5571,
@@ -3732,10 +3950,10 @@
    "median": 82,
    "low": 78,
    "high": 93,
-   "q1": 82,
+   "q1": 78,
    "q3": 90,
-   "trimmed_mean": 84,
-   "measured": 0,
+   "trimmed_mean": 83,
+   "measured": 2,
    "parts": {},
    "drift": -0.012
   }
@@ -3784,12 +4002,36 @@
     }
    },
    {
-    "seconds": 17239,
+    "seconds": 14599,
     "title": "Reverse: 1999 - Full Story Chapter 6 \"E LUCEVAN LE STELLE\" | EN DUB",
     "uploader": "Devibul",
     "url": "https://www.youtube.com/watch?v=kbZtAGU8vZM",
-    "views": "15214",
-    "rejected": []
+    "views": 15231,
+    "rejected": [],
+    "upload_date": "20240310",
+    "runtime": 17238,
+    "measured": "chapter-markers",
+    "parts": {
+     "Razor in Green": 703,
+     "Drums of March": 853,
+     "Fork and Torte": 969,
+     "Secession Building": 983,
+     "Yes, Prime Minister": 812,
+     "Mirror and Lantern": 814,
+     "Between the Doors": 658,
+     "The Mind's Endoscope": 737,
+     "One-Act Play": 1181,
+     "Art Exhibit": 677,
+     "The Island": 632,
+     "Fitcher's Bird": 473,
+     "With Hope Rekindled": 736,
+     "Quest in the Woods": 780,
+     "Art Above All": 464,
+     "Only Applause": 424,
+     "War and Peace": 798,
+     "Finished Page": 607,
+     "Hansel and Gretel": 552
+    }
    },
    {
     "seconds": 190,
@@ -3948,24 +4190,40 @@
     ]
    },
    {
-    "seconds": 6036,
+    "seconds": 4786,
     "title": "IT\u2019S TIME FOR THERAPY in Reverse: 1999 \u2013 Main Story Chapter 6 Stages 7-12 Patch 1.7",
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=pGo9DDCg2s8",
-    "views": "68",
+    "views": 69,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20240722",
+    "runtime": 6036,
+    "measured": "chapter-markers",
+    "parts": {
+     "Mirror and Lantern": 1049,
+     "Between the Doors": 690,
+     "The Mind's Endoscope": 927,
+     "One-Act Play": 1393,
+     "Art Exhibit": 727
+    }
    },
    {
-    "seconds": 10118,
+    "seconds": 971,
     "title": "\u3010Reverse 1999\u3011 Main Story Ch 6 (Part 1) | E lucevan le stelle",
     "uploader": "Cutie Bunni",
     "url": "https://www.youtube.com/watch?v=j9KTmaCV4KA",
-    "views": "973",
+    "views": 981,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250601",
+    "runtime": 10118,
+    "measured": "chapter-markers",
+    "parts": {
+     "Secession Building": 971
+    }
    },
    {
     "seconds": 10730,
@@ -4127,24 +4385,43 @@
     "upload_date": "20240924"
    },
    {
-    "seconds": 18356,
+    "seconds": 16366,
     "title": "Reverse: 1999. Story move to 10-24 [Chapter 6 - E Lucevan le stelle]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=k1IExo_75YQ",
-    "views": "44",
+    "views": 45,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20250116",
+    "runtime": 18355,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Mind's Endoscope": 1821,
+     "One-Act Play": 1271,
+     "Art Exhibit": 1202,
+     "The Island": 956,
+     "Fitcher's Bird": 1119,
+     "With Hope Rekindled": 1522,
+     "Art Above All": 538,
+     "Only Applause": 757,
+     "The Clashing Tides": 1017,
+     "War and Peace": 871,
+     "Double Cross": 1582,
+     "Finished Page": 699,
+     "Hansel and Gretel": 630
+    }
    },
    {
     "seconds": 2676,
     "title": "Reverse: 1999 CN - Main Story CH 6 Walkthrough & Gameplay",
     "uploader": "Devibul",
     "url": "https://www.youtube.com/watch?v=a1nzeiv12IE",
-    "views": "5811",
+    "views": 5814,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240224"
    },
    {
     "seconds": 14712,
@@ -4290,12 +4567,13 @@
     ]
    },
    {
-    "seconds": 13931,
+    "seconds": 13930,
     "title": "finishing E lucevan le stelle main chapter story!!!! [REVERSE: 1999]",
     "uploader": "ShinyBotTV VOD channel",
     "url": "https://www.youtube.com/watch?v=j1fcGKIAHq0",
-    "views": "62",
-    "rejected": []
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20250110"
    },
    {
     "seconds": 26634,
@@ -4309,12 +4587,45 @@
   ],
   "kept": [
    {
-    "seconds": 13931,
+    "seconds": 13930,
     "title": "finishing E lucevan le stelle main chapter story!!!! [REVERSE: 1999]",
     "uploader": "ShinyBotTV VOD channel",
     "url": "https://www.youtube.com/watch?v=j1fcGKIAHq0",
-    "views": "62",
-    "rejected": []
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20250110"
+   },
+   {
+    "seconds": 14599,
+    "title": "Reverse: 1999 - Full Story Chapter 6 \"E LUCEVAN LE STELLE\" | EN DUB",
+    "uploader": "Devibul",
+    "url": "https://www.youtube.com/watch?v=kbZtAGU8vZM",
+    "views": 15231,
+    "rejected": [],
+    "upload_date": "20240310",
+    "runtime": 17238,
+    "measured": "chapter-markers",
+    "parts": {
+     "Razor in Green": 703,
+     "Drums of March": 853,
+     "Fork and Torte": 969,
+     "Secession Building": 983,
+     "Yes, Prime Minister": 812,
+     "Mirror and Lantern": 814,
+     "Between the Doors": 658,
+     "The Mind's Endoscope": 737,
+     "One-Act Play": 1181,
+     "Art Exhibit": 677,
+     "The Island": 632,
+     "Fitcher's Bird": 473,
+     "With Hope Rekindled": 736,
+     "Quest in the Woods": 780,
+     "Art Above All": 464,
+     "Only Applause": 424,
+     "War and Peace": 798,
+     "Finished Page": 607,
+     "Hansel and Gretel": 552
+    }
    },
    {
     "seconds": 16456,
@@ -4348,14 +4659,6 @@
      "Finished Page": 662,
      "Hansel and Gretel": 604
     }
-   },
-   {
-    "seconds": 17239,
-    "title": "Reverse: 1999 - Full Story Chapter 6 \"E LUCEVAN LE STELLE\" | EN DUB",
-    "uploader": "Devibul",
-    "url": "https://www.youtube.com/watch?v=kbZtAGU8vZM",
-    "views": "15214",
-    "rejected": []
    },
    {
     "seconds": 17558,
@@ -4432,11 +4735,29 @@
    "median": 324,
    "low": 232,
    "high": 492,
-   "q1": 278,
+   "q1": 251,
    "q3": 447,
-   "trimmed_mean": 353,
-   "measured": 2,
-   "parts": {},
+   "trimmed_mean": 348,
+   "measured": 3,
+   "parts": {
+    "Razor in Green": 12,
+    "Drums of March": 14,
+    "Fork and Torte": 16,
+    "Yes, Prime Minister": 14,
+    "Mirror and Lantern": 15,
+    "The Mind's Endoscope": 13,
+    "One-Act Play": 21,
+    "Art Exhibit": 12,
+    "The Island": 11,
+    "Fitcher's Bird": 8,
+    "With Hope Rekindled": 12,
+    "Quest in the Woods": 15,
+    "Art Above All": 8,
+    "Only Applause": 9,
+    "War and Peace": 14,
+    "Finished Page": 11,
+    "Hansel and Gretel": 10
+   },
    "drift": -0.092
   }
  },
@@ -4492,12 +4813,46 @@
     }
    },
    {
-    "seconds": 27814,
+    "seconds": 25328,
     "title": "Vereinsamt | Chapter 7 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=bGwGm5UG3DA",
-    "views": "299",
-    "rejected": []
+    "views": 370,
+    "rejected": [],
+    "upload_date": "20241117",
+    "runtime": 27813,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Secret of the Diagonal": 407,
+     "The Blue and the Grey": 607,
+     "Bring the Gavel Down": 1104,
+     "The Beginning of a Proof": 930,
+     "Four Cross-Checks": 612,
+     "Pride and Prejudice": 1052,
+     "Maze of The Minotaur": 775,
+     "Oracles at Delphi": 660,
+     "Outside the Limits": 1006,
+     "Returned to the Earth": 569,
+     "The Rolling Boulder": 963,
+     "The Party of Beans": 1578,
+     "The Wave of Art": 803,
+     "A Sandstorm in a Room": 698,
+     "The Pioneers": 949,
+     "To Open the Flood Gates": 779,
+     "The \"Storm\" Speech": 631,
+     "Numbers in Everything": 836,
+     "The Fork in the Road": 1038,
+     "A Greek Tragedy": 747,
+     "A Homage Paid": 1077,
+     "The Ones Who Pray": 577,
+     "The Rosetta Stone": 648,
+     "The Cycle of History": 1109,
+     "The First Circle": 847,
+     "Mirror and Curtains": 849,
+     "Hymnus Ad Bacchum": 1165,
+     "The Two Numbers": 1411,
+     "And Now, the Curtain Call": 901
+    }
    },
    {
     "seconds": 34917,
@@ -4553,14 +4908,21 @@
     ]
    },
    {
-    "seconds": 2429,
+    "seconds": 2367,
     "title": "Reverse: 1999. Story move to 11-12 [Chapter 7 - Vereinsamt]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=lMUquvqL7qU",
-    "views": "31",
+    "views": 31,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20250118",
+    "runtime": 2429,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rolling Boulder": 1244,
+     "The Party of Beans": 1123
+    }
    },
    {
     "seconds": 7720,
@@ -4642,12 +5004,46 @@
     ]
    },
    {
-    "seconds": 40416,
+    "seconds": 33770,
     "title": "\u2614 Reverse: 1999 1.9 - Chapter 7: \"Vereinsamt\" Full Story and Playthrough \u2614",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=oDef7tQfCmE",
-    "views": "80",
-    "rejected": []
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20241203",
+    "runtime": 40415,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Blue and the Grey": 671,
+     "Bring the Gavel Down": 172,
+     "The Beginning of a Proof": 936,
+     "Four Cross-Checks": 116,
+     "Pride and Prejudice": 242,
+     "Maze of The Minotaur": 224,
+     "Oracles at Delphi": 220,
+     "Outside the Limits": 1048,
+     "Returned to the Earth": 134,
+     "The Rolling Boulder": 1065,
+     "The Party of Beans": 354,
+     "The Wave of Art": 289,
+     "A Sandstorm in a Room": 761,
+     "The Pioneers": 1091,
+     "To Open the Flood Gates": 109,
+     "The \"Storm\" Speech": 695,
+     "Numbers in Everything": 224,
+     "The Fork in the Road": 413,
+     "A Greek Tragedy": 236,
+     "A Homage Paid": 377,
+     "The Ones Who Pray": 625,
+     "The Rosetta Stone": 645,
+     "The Cycle of History": 453,
+     "The First Circle": 921,
+     "Mirror and Curtains": 199,
+     "Hymnus Ad Bacchum": 1187,
+     "The Two Numbers": 730,
+     "The Umbrella and the Knot": 792,
+     "And Now, the Curtain Call": 911
+    }
    },
    {
     "seconds": 2407,
@@ -4819,14 +5215,20 @@
     ]
    },
    {
-    "seconds": 1026,
+    "seconds": 915,
     "title": "4- (EN\u25b8\ud83d\udd0a)\u2b55Reverse:1999 \u2605Main Story (Vereinsamt) Chapter-7\u2605 \"The Beginning of a Proof\"",
     "uploader": "Qito",
     "url": "https://www.youtube.com/watch?v=q9CBd0OWS9o",
-    "views": "15",
+    "views": 19,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260329",
+    "runtime": 1026,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Beginning of a Proof": 902
+    }
    },
    {
     "seconds": 1128,
@@ -4853,10 +5255,11 @@
     "title": "25.(EN\u25b8\ud83d\udd0a)\u2b55Reverse:1999 \u2605Main Story (Vereinsamt) Chapter-7\u2605 \"The First Circle\"",
     "uploader": "Qito",
     "url": "https://www.youtube.com/watch?v=kGupYL-aDqY",
-    "views": "5",
+    "views": 6,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260609"
    },
    {
     "seconds": 15173,
@@ -5118,12 +5521,46 @@
     }
    },
    {
-    "seconds": 27814,
+    "seconds": 25328,
     "title": "Vereinsamt | Chapter 7 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=bGwGm5UG3DA",
-    "views": "299",
-    "rejected": []
+    "views": 370,
+    "rejected": [],
+    "upload_date": "20241117",
+    "runtime": 27813,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Secret of the Diagonal": 407,
+     "The Blue and the Grey": 607,
+     "Bring the Gavel Down": 1104,
+     "The Beginning of a Proof": 930,
+     "Four Cross-Checks": 612,
+     "Pride and Prejudice": 1052,
+     "Maze of The Minotaur": 775,
+     "Oracles at Delphi": 660,
+     "Outside the Limits": 1006,
+     "Returned to the Earth": 569,
+     "The Rolling Boulder": 963,
+     "The Party of Beans": 1578,
+     "The Wave of Art": 803,
+     "A Sandstorm in a Room": 698,
+     "The Pioneers": 949,
+     "To Open the Flood Gates": 779,
+     "The \"Storm\" Speech": 631,
+     "Numbers in Everything": 836,
+     "The Fork in the Road": 1038,
+     "A Greek Tragedy": 747,
+     "A Homage Paid": 1077,
+     "The Ones Who Pray": 577,
+     "The Rosetta Stone": 648,
+     "The Cycle of History": 1109,
+     "The First Circle": 847,
+     "Mirror and Curtains": 849,
+     "Hymnus Ad Bacchum": 1165,
+     "The Two Numbers": 1411,
+     "And Now, the Curtain Call": 901
+    }
    },
    {
     "seconds": 30329,
@@ -5169,25 +5606,90 @@
     }
    },
    {
-    "seconds": 40416,
+    "seconds": 33770,
     "title": "\u2614 Reverse: 1999 1.9 - Chapter 7: \"Vereinsamt\" Full Story and Playthrough \u2614",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=oDef7tQfCmE",
-    "views": "80",
-    "rejected": []
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20241203",
+    "runtime": 40415,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Blue and the Grey": 671,
+     "Bring the Gavel Down": 172,
+     "The Beginning of a Proof": 936,
+     "Four Cross-Checks": 116,
+     "Pride and Prejudice": 242,
+     "Maze of The Minotaur": 224,
+     "Oracles at Delphi": 220,
+     "Outside the Limits": 1048,
+     "Returned to the Earth": 134,
+     "The Rolling Boulder": 1065,
+     "The Party of Beans": 354,
+     "The Wave of Art": 289,
+     "A Sandstorm in a Room": 761,
+     "The Pioneers": 1091,
+     "To Open the Flood Gates": 109,
+     "The \"Storm\" Speech": 695,
+     "Numbers in Everything": 224,
+     "The Fork in the Road": 413,
+     "A Greek Tragedy": 236,
+     "A Homage Paid": 377,
+     "The Ones Who Pray": 625,
+     "The Rosetta Stone": 645,
+     "The Cycle of History": 453,
+     "The First Circle": 921,
+     "Mirror and Curtains": 199,
+     "Hymnus Ad Bacchum": 1187,
+     "The Two Numbers": 730,
+     "The Umbrella and the Knot": 792,
+     "And Now, the Curtain Call": 911
+    }
    }
   ],
   "stats": {
    "n": 4,
-   "median": 485,
+   "median": 464,
    "low": 416,
-   "high": 674,
+   "high": 563,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 515,
-   "measured": 2,
-   "parts": {},
-   "drift": -0.047
+   "trimmed_mean": 477,
+   "measured": 4,
+   "parts": {
+    "The Secret of the Diagonal": 7,
+    "The Blue and the Grey": 10,
+    "Bring the Gavel Down": 14,
+    "The Beginning of a Proof": 16,
+    "Four Cross-Checks": 10,
+    "Pride and Prejudice": 14,
+    "Maze of The Minotaur": 8,
+    "Oracles at Delphi": 8,
+    "Outside the Limits": 17,
+    "Returned to the Earth": 7,
+    "The Rolling Boulder": 17,
+    "The Party of Beans": 23,
+    "The Wave of Art": 9,
+    "A Sandstorm in a Room": 12,
+    "The Pioneers": 17,
+    "To Open the Flood Gates": 8,
+    "The \"Storm\" Speech": 11,
+    "Numbers in Everything": 11,
+    "The Fork in the Road": 17,
+    "A Greek Tragedy": 9,
+    "A Homage Paid": 12,
+    "The Ones Who Pray": 10,
+    "The Rosetta Stone": 11,
+    "The Cycle of History": 13,
+    "The First Circle": 15,
+    "Mirror and Curtains": 10,
+    "Hymnus Ad Bacchum": 20,
+    "The Two Numbers": 12,
+    "The Umbrella and the Knot": 13,
+    "And Now, the Curtain Call": 15
+   },
+   "drift": -0.088
   }
  },
  {
@@ -5355,12 +5857,13 @@
     }
    },
    {
-    "seconds": 2103,
+    "seconds": 2102,
     "title": "[Reverse: 1999] The Show - Story: Chp 7 Special To the New World",
     "uploader": "Jin Yuan",
     "url": "https://www.youtube.com/watch?v=uw-tVJzFQWY",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20241126"
    },
    {
     "seconds": 5611,
@@ -5375,12 +5878,27 @@
     "upload_date": "20240802"
    },
    {
-    "seconds": 2865,
+    "seconds": 2191,
     "title": "To the New World | Chapter 7.5 | Reverse: 1999 - Full Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=eyTDHBeSZ9c",
-    "views": "213",
-    "rejected": []
+    "views": 233,
+    "rejected": [],
+    "upload_date": "20250209",
+    "runtime": 2865,
+    "measured": "chapter-markers",
+    "parts": {
+     "Regulus": 280,
+     "Lilya": 194,
+     "Sotheby": 313,
+     "Lucy": 183,
+     "Enigma": 187,
+     "Mesmer Jr.": 230,
+     "Matilda": 202,
+     "APPLe": 208,
+     "Sonetto": 213,
+     "Ms. Radio": 181
+    }
    },
    {
     "seconds": 2432,
@@ -5518,14 +6036,15 @@
     "upload_date": "20210115"
    },
    {
-    "seconds": 2767,
+    "seconds": 2766,
     "title": "Reverse 1999 To the New World",
     "uploader": "Bloodymaster",
     "url": "https://www.youtube.com/watch?v=opvdk1ReUa4",
-    "views": "3",
+    "views": 3,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250103"
    },
    {
     "seconds": 2069,
@@ -5577,8 +6096,9 @@
     "title": "Reveese: 1999 - Special Story [To The New World Char 01 - 14 | End Chapter]",
     "uploader": "chooviiDiary",
     "url": "https://www.youtube.com/watch?v=YKGc62Wtmho",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20240926"
    },
    {
     "seconds": 2452,
@@ -5639,8 +6159,9 @@
     "title": "Reveese: 1999 - Special Story [To The New World Char 01 - 14 | End Chapter]",
     "uploader": "chooviiDiary",
     "url": "https://www.youtube.com/watch?v=YKGc62Wtmho",
-    "views": "16",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20240926"
    },
    {
     "seconds": 2069,
@@ -5652,12 +6173,13 @@
     "upload_date": "20241021"
    },
    {
-    "seconds": 2103,
+    "seconds": 2102,
     "title": "[Reverse: 1999] The Show - Story: Chp 7 Special To the New World",
     "uploader": "Jin Yuan",
     "url": "https://www.youtube.com/watch?v=uw-tVJzFQWY",
-    "views": "8",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20241126"
    },
    {
     "seconds": 2143,
@@ -5690,6 +6212,29 @@
      "APPLe": 188,
      "Sonetto": 189,
      "Ms. Radio": 156
+    }
+   },
+   {
+    "seconds": 2191,
+    "title": "To the New World | Chapter 7.5 | Reverse: 1999 - Full Story",
+    "uploader": "Reverse: 1999 - Recap",
+    "url": "https://www.youtube.com/watch?v=eyTDHBeSZ9c",
+    "views": 233,
+    "rejected": [],
+    "upload_date": "20250209",
+    "runtime": 2865,
+    "measured": "chapter-markers",
+    "parts": {
+     "Regulus": 280,
+     "Lilya": 194,
+     "Sotheby": 313,
+     "Lucy": 183,
+     "Enigma": 187,
+     "Mesmer Jr.": 230,
+     "Matilda": 202,
+     "APPLe": 208,
+     "Sonetto": 213,
+     "Ms. Radio": 181
     }
    },
    {
@@ -5756,25 +6301,17 @@
      "Sonetto": 229,
      "Ms. Radio": 268
     }
-   },
-   {
-    "seconds": 2865,
-    "title": "To the New World | Chapter 7.5 | Reverse: 1999 - Full Story",
-    "uploader": "Reverse: 1999 - Recap",
-    "url": "https://www.youtube.com/watch?v=eyTDHBeSZ9c",
-    "views": "213",
-    "rejected": []
    }
   ],
   "stats": {
    "n": 11,
    "median": 36,
    "low": 32,
-   "high": 48,
+   "high": 47,
    "q1": 34,
-   "q3": 42,
-   "trimmed_mean": 38,
-   "measured": 3,
+   "q3": 41,
+   "trimmed_mean": 37,
+   "measured": 4,
    "parts": {
     "Regulus": 5,
     "Lilya": 3,
@@ -5782,7 +6319,7 @@
     "Druvis III": 3,
     "Lucy": 3,
     "Enigma": 3,
-    "Mesmer Jr.": 3,
+    "Mesmer Jr.": 4,
     "Matilda": 3,
     "APPLe": 3,
     "Sonetto": 3,
@@ -5857,14 +6394,15 @@
     ]
    },
    {
-    "seconds": 4303,
+    "seconds": 4302,
     "title": "Reverse 1999 - Chapter 8 (Tristes Tropiques) - Into the Rainforest - Full Chapters",
     "uploader": "R 666",
     "url": "https://www.youtube.com/watch?v=mMFRwcva-VM",
-    "views": "13",
+    "views": 15,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250206"
    },
    {
     "seconds": 15389,
@@ -6011,42 +6549,74 @@
     ]
    },
    {
-    "seconds": 6039,
+    "seconds": 6038,
     "title": "Reverse: 1999 | Chapter 8 | Tristes Tropiques Part 1",
     "uploader": "Gameplay Story",
     "url": "https://www.youtube.com/watch?v=dt25NRfAkSA",
-    "views": "61",
+    "views": 61,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250205"
    },
    {
-    "seconds": 32582,
+    "seconds": 32581,
     "title": "Tristes Tropiques full walkthrough ft. 37 | Reverse1999: a journey no.71 vol.2 [shot in 2025-01-14]",
     "uploader": "Frankbot Frevs",
     "url": "https://www.youtube.com/watch?v=c5Cml5L09IE",
-    "views": "4",
+    "views": 7,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20250411"
    },
    {
     "seconds": 2162,
     "title": "Chapter 8: Tristes Tropiques All Story Stages | Melania, Tennant, Centurion, Dikke | Reverse: 1999",
     "uploader": "Nekokomori",
     "url": "https://www.youtube.com/watch?v=rG8MqRkfLMk",
-    "views": "9",
+    "views": 9,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250110"
    },
    {
-    "seconds": 24372,
+    "seconds": 20863,
     "title": "\ud83c\udf07 Reverse: 1999 2.2 - Chapter 8: \"Tristes Tropiques\" Full Story and Playthrough \ud83c\udf07",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=pBeIy8MEQGg",
-    "views": "25",
-    "rejected": []
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20250131",
+    "runtime": 24372,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unshakable Justice": 649,
+     "A New Photo of an Old Friend": 690,
+     "The Minotaur": 140,
+     "Riptide": 662,
+     "Waterway to Hell": 110,
+     "Tender Pretender": 832,
+     "False Accusations": 130,
+     "On the Margins of Life and Death": 650,
+     "Aged Like Fine Wine": 186,
+     "Boarding the White Ship": 161,
+     "Sao Paulo Bossa Nova": 188,
+     "\"Silent Night, Holy Night\"": 473,
+     "Boto Cor-de-Rosa": 865,
+     "The Sleepless Man": 722,
+     "The Northern Falcon": 75,
+     "\"Family Reunion\"": 145,
+     "The Black Lamb": 213,
+     "Eye of the Hurricane": 217,
+     "The Gamble": 208,
+     "Farewell, Pera": 120,
+     "Ground Zero": 217,
+     "The Roaring Forties": 421,
+     "The Final Curtain": 694,
+     "Monologues": 250
+    }
    },
    {
     "seconds": 1697,
@@ -6168,14 +6738,15 @@
     ]
    },
    {
-    "seconds": 1012,
+    "seconds": 1011,
     "title": "Reverse: 1999 - Chapter 8 Part 11",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=lGEL91Tvn2s",
-    "views": "250",
+    "views": 265,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250110"
    },
    {
     "seconds": 18184,
@@ -6257,14 +6828,27 @@
     "upload_date": "20231201"
    },
    {
-    "seconds": 8003,
+    "seconds": 7933,
     "title": "Reverse: 1999. Story - Chapter 8 'Tristes Tropiques'. Parts 17-24",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=ZovkKPkiuSs",
-    "views": "67",
+    "views": 67,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20250125",
+    "runtime": 8002,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Black Lamb": 904,
+     "Eye of the Hurricane": 913,
+     "The Gamble": 1332,
+     "Farewell, Pera": 963,
+     "Ground Zero": 749,
+     "The Roaring Forties": 703,
+     "The Final Curtain": 701,
+     "Monologues": 1668
+    }
    },
    {
     "seconds": 1725,
@@ -6300,12 +6884,13 @@
     ]
    },
    {
-    "seconds": 13798,
+    "seconds": 13797,
     "title": "Reverse 1999 | Continuing Main Story Chapter 8 Tristes Tropiques",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=r0lT9uVSAIc",
-    "views": "10",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250824"
    },
    {
     "seconds": 15618,
@@ -6321,19 +6906,21 @@
     "title": "[Reverse: 1999] Story Time! Chapter 8: Tristes Tropiques! 2nd Anniversary Update!",
     "uploader": "Leahvana\u3010Sakura Squad\u3011",
     "url": "https://www.youtube.com/watch?v=mwKF5frXSxQ",
-    "views": "50",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20250920"
    },
    {
     "seconds": 1219,
     "title": "Reverse: 1999 - Overcast October - Stage 1",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=ilu_Pc-vuKg",
-    "views": "243",
+    "views": 330,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250114"
    },
    {
     "seconds": 19386,
@@ -6365,14 +6952,15 @@
     ]
    },
    {
-    "seconds": 2801,
+    "seconds": 2800,
     "title": "Reverse: 1999 Ver 2.2 | Tristes Tropiques | Episode 8 FINALE",
     "uploader": "Mint Leaf Gamer",
     "url": "https://www.youtube.com/watch?v=dq4UrGVEyxQ",
-    "views": "33",
+    "views": 33,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250119"
    },
    {
     "seconds": 458,
@@ -6398,12 +6986,13 @@
   ],
   "kept": [
    {
-    "seconds": 13798,
+    "seconds": 13797,
     "title": "Reverse 1999 | Continuing Main Story Chapter 8 Tristes Tropiques",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=r0lT9uVSAIc",
-    "views": "10",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250824"
    },
    {
     "seconds": 14363,
@@ -6562,53 +7151,83 @@
     "upload_date": "20250114"
    },
    {
+    "seconds": 20863,
+    "title": "\ud83c\udf07 Reverse: 1999 2.2 - Chapter 8: \"Tristes Tropiques\" Full Story and Playthrough \ud83c\udf07",
+    "uploader": "Alex 393",
+    "url": "https://www.youtube.com/watch?v=pBeIy8MEQGg",
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20250131",
+    "runtime": 24372,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unshakable Justice": 649,
+     "A New Photo of an Old Friend": 690,
+     "The Minotaur": 140,
+     "Riptide": 662,
+     "Waterway to Hell": 110,
+     "Tender Pretender": 832,
+     "False Accusations": 130,
+     "On the Margins of Life and Death": 650,
+     "Aged Like Fine Wine": 186,
+     "Boarding the White Ship": 161,
+     "Sao Paulo Bossa Nova": 188,
+     "\"Silent Night, Holy Night\"": 473,
+     "Boto Cor-de-Rosa": 865,
+     "The Sleepless Man": 722,
+     "The Northern Falcon": 75,
+     "\"Family Reunion\"": 145,
+     "The Black Lamb": 213,
+     "Eye of the Hurricane": 217,
+     "The Gamble": 208,
+     "Farewell, Pera": 120,
+     "Ground Zero": 217,
+     "The Roaring Forties": 421,
+     "The Final Curtain": 694,
+     "Monologues": 250
+    }
+   },
+   {
     "seconds": 24169,
     "title": "[Reverse: 1999] Story Time! Chapter 8: Tristes Tropiques! 2nd Anniversary Update!",
     "uploader": "Leahvana\u3010Sakura Squad\u3011",
     "url": "https://www.youtube.com/watch?v=mwKF5frXSxQ",
-    "views": "50",
-    "rejected": []
-   },
-   {
-    "seconds": 24372,
-    "title": "\ud83c\udf07 Reverse: 1999 2.2 - Chapter 8: \"Tristes Tropiques\" Full Story and Playthrough \ud83c\udf07",
-    "uploader": "Alex 393",
-    "url": "https://www.youtube.com/watch?v=pBeIy8MEQGg",
-    "views": "25",
-    "rejected": []
+    "views": 50,
+    "rejected": [],
+    "upload_date": "20250920"
    }
   ],
   "stats": {
    "n": 11,
    "median": 270,
    "low": 230,
-   "high": 406,
+   "high": 403,
    "q1": 256,
    "q3": 323,
-   "trimmed_mean": 293,
-   "measured": 3,
+   "trimmed_mean": 287,
+   "measured": 4,
    "parts": {
     "Unshakable Justice": 11,
     "A New Photo of an Old Friend": 11,
-    "The Minotaur": 11,
+    "The Minotaur": 7,
     "Riptide": 11,
-    "Waterway to Hell": 10,
+    "Waterway to Hell": 8,
     "Tender Pretender": 14,
-    "False Accusations": 17,
+    "False Accusations": 10,
     "On the Margins of Life and Death": 11,
-    "Aged Like Fine Wine": 16,
-    "Boarding the White Ship": 9,
-    "Sao Paulo Bossa Nova": 12,
+    "Aged Like Fine Wine": 10,
+    "Boarding the White Ship": 8,
+    "Sao Paulo Bossa Nova": 8,
     "\"Silent Night, Holy Night\"": 8,
     "Boto Cor-de-Rosa": 14,
     "The Sleepless Man": 12,
-    "The Northern Falcon": 13,
-    "\"Family Reunion\"": 12,
-    "The Black Lamb": 12,
-    "Eye of the Hurricane": 8,
-    "The Gamble": 12,
-    "Farewell, Pera": 13,
-    "Ground Zero": 10,
+    "The Northern Falcon": 8,
+    "\"Family Reunion\"": 7,
+    "The Black Lamb": 10,
+    "Eye of the Hurricane": 7,
+    "The Gamble": 8,
+    "Farewell, Pera": 10,
+    "Ground Zero": 7,
     "The Roaring Forties": 7,
     "The Final Curtain": 11,
     "Monologues": 4
@@ -6684,12 +7303,13 @@
     ]
    },
    {
-    "seconds": 12123,
+    "seconds": 12122,
     "title": "Folie et D\u00e9raison | Reverse 1999 Main Storyline Chapter 9 | Part 1 | No Commentary",
     "uploader": "NEON DEMON",
     "url": "https://www.youtube.com/watch?v=c4goUWhmPlg",
-    "views": "3",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260817"
    },
    {
     "seconds": 18008,
@@ -7018,15 +7638,16 @@
     ]
    },
    {
-    "seconds": 4861,
+    "seconds": 4860,
     "title": "Reverse: 1999. Story move to 9-16 [Chapter 3 - Nouvelles et Textes pour Rien]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=cy7zCpQw_QM",
-    "views": "68",
+    "views": 69,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20231220"
    },
    {
     "seconds": 15222,
@@ -7040,12 +7661,13 @@
     "upload_date": "20251125"
    },
    {
-    "seconds": 10557,
+    "seconds": 10556,
     "title": "I DON'T LIKE THESE BOOKS- Folie et D\u00e9raison Playthrough\u3010Reverse:1999\u3011",
     "uploader": "Moki",
     "url": "https://www.youtube.com/watch?v=piuv--FmjUw",
-    "views": "445",
-    "rejected": []
+    "views": 464,
+    "rejected": [],
+    "upload_date": "20251129"
    },
    {
     "seconds": 24462,
@@ -7062,8 +7684,9 @@
     "title": "\u3010 Reverse 1999 \u3011 Chapter 9 Here I Come [ Folie et D\u00e9raison ]",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=aWK6_3WyNLs",
-    "views": "13",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20250910"
    },
    {
     "seconds": 9106,
@@ -7164,28 +7787,31 @@
   ],
   "kept": [
    {
-    "seconds": 10557,
+    "seconds": 10556,
     "title": "I DON'T LIKE THESE BOOKS- Folie et D\u00e9raison Playthrough\u3010Reverse:1999\u3011",
     "uploader": "Moki",
     "url": "https://www.youtube.com/watch?v=piuv--FmjUw",
-    "views": "445",
-    "rejected": []
+    "views": 464,
+    "rejected": [],
+    "upload_date": "20251129"
    },
    {
     "seconds": 11728,
     "title": "\u3010 Reverse 1999 \u3011 Chapter 9 Here I Come [ Folie et D\u00e9raison ]",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=aWK6_3WyNLs",
-    "views": "13",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20250910"
    },
    {
-    "seconds": 12123,
+    "seconds": 12122,
     "title": "Folie et D\u00e9raison | Reverse 1999 Main Storyline Chapter 9 | Part 1 | No Commentary",
     "uploader": "NEON DEMON",
     "url": "https://www.youtube.com/watch?v=c4goUWhmPlg",
-    "views": "3",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260817"
    },
    {
     "seconds": 12704,
@@ -7477,14 +8103,15 @@
     }
    },
    {
-    "seconds": 3627,
+    "seconds": 3626,
     "title": "Reverse 1999 - Version 2.8 - Paradise Regained - (Chapter 10) - Welcome To Antartica",
     "uploader": "Neat Sparrow",
     "url": "https://www.youtube.com/watch?v=cGGvzut-7os",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20250923"
    },
    {
     "seconds": 23997,
@@ -7622,20 +8249,22 @@
     "title": "Reverse 1999 - Newbie's story playthrough pt. 66 (Chapter 10)",
     "uploader": "SketchyLore",
     "url": "https://www.youtube.com/watch?v=ly2d9fR1qQY",
-    "views": "18",
+    "views": 21,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260825"
    },
    {
     "seconds": 7412,
     "title": "\u3010Reverse 1999\u3011 Main Story Ch 10 (Part 1) | Paradise Regained",
     "uploader": "Cutie Bunni",
     "url": "https://www.youtube.com/watch?v=bQY14qfwpVg",
-    "views": "511",
+    "views": 522,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260302"
    },
    {
     "seconds": 1492,
@@ -7669,12 +8298,41 @@
     ]
    },
    {
-    "seconds": 28417,
+    "seconds": 23462,
     "title": "\u2614 \ud83c\udfd4\u26cf Reverse: 1999 2.8 - Chapter 10: \"Paradise Regained\" Full Story and Playthrough \ud83c\udfd4\u26cf \u2614",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=aXby0JNlNYc",
-    "views": "17",
-    "rejected": []
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20251020",
+    "runtime": 28416,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 149,
+     "An Icy Road": 675,
+     "My Travel Companions": 79,
+     "Et tu, Brute?": 562,
+     "Have a safe journey.": 60,
+     "Under Glaring Light": 59,
+     "The Worst Journey in the World": 813,
+     "The Fool and the High Priestess": 59,
+     "The Call of the Wild": 564,
+     "Des pas sur la neige": 324,
+     "Just Another Laplace Experiment": 1371,
+     "The Nine-Layered City": 51,
+     "My Dear Siblings": 674,
+     "In the Mouth of Madness": 828,
+     "The Broken Land of Bliss": 1464,
+     "The Owl of Minerva": 93,
+     "To a Skylark": 1046,
+     "Same Road, Different Destinations": 59,
+     "The Weaving of Our Pasts": 890,
+     "The Way I Came": 125,
+     "By Their Untainted Blood": 88,
+     "And Then Came the Savior": 864,
+     "The Other Bank of the River": 713,
+     "Apocalypsis cum figuris": 804
+    }
    },
    {
     "seconds": 103,
@@ -7800,10 +8458,11 @@
     "title": "Fist Of The North Star - Lost Paradise (FOTNS) I FULL Chapter Walkthrough - CH6 : Reunion",
     "uploader": "xSelphie1999xHDGaming",
     "url": "https://www.youtube.com/watch?v=cp2BZeD2B4s",
-    "views": "1591",
+    "views": 1593,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20181006"
    },
    {
     "seconds": 46,
@@ -7905,10 +8564,11 @@
     "title": "\u3010Reverse 1999 \u3011I Wonder What Moldir And Ulrich Is Up To  [ Chapter 10 Paradise Regained ]",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=h315KC_SoNw",
-    "views": "32",
+    "views": 33,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20250928"
    },
    {
     "seconds": 448,
@@ -7921,22 +8581,24 @@
     ]
    },
    {
-    "seconds": 20120,
+    "seconds": 20119,
     "title": "\u3010Reverse: 1999\u3011WHERE'S DORES\u3010Paradise Regained \u2014 3\u3011",
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=xSn5mGDHIWo",
-    "views": "487",
-    "rejected": []
+    "views": 490,
+    "rejected": [],
+    "upload_date": "20250927"
    },
    {
-    "seconds": 8089,
+    "seconds": 8088,
     "title": "\u3010Reverse: 1999\u3011DO NOT GO TO ANTARCTICA\u3010Paradise Regained \u2014 1\u3011",
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=cJomczodPQM",
-    "views": "341",
+    "views": 348,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20250920"
    },
    {
     "seconds": 11187,
@@ -8011,8 +8673,9 @@
     "title": "Finally Playing CH 10 PARADISE REGAINED | Reverse: 1999 2.8 PLAYTHROUGH P1-7",
     "uploader": "Saerin",
     "url": "https://www.youtube.com/watch?v=aXjpvgwlvwI",
-    "views": "3395",
-    "rejected": []
+    "views": 3444,
+    "rejected": [],
+    "upload_date": "20251005"
    },
    {
     "seconds": 776,
@@ -8041,8 +8704,9 @@
     "title": "Finally Playing CH 10 PARADISE REGAINED | Reverse: 1999 2.8 PLAYTHROUGH P1-7",
     "uploader": "Saerin",
     "url": "https://www.youtube.com/watch?v=aXjpvgwlvwI",
-    "views": "3395",
-    "rejected": []
+    "views": 3444,
+    "rejected": [],
+    "upload_date": "20251005"
    },
    {
     "seconds": 19813,
@@ -8081,12 +8745,13 @@
     }
    },
    {
-    "seconds": 20120,
+    "seconds": 20119,
     "title": "\u3010Reverse: 1999\u3011WHERE'S DORES\u3010Paradise Regained \u2014 3\u3011",
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=xSn5mGDHIWo",
-    "views": "487",
-    "rejected": []
+    "views": 490,
+    "rejected": [],
+    "upload_date": "20250927"
    },
    {
     "seconds": 20311,
@@ -8163,6 +8828,43 @@
     }
    },
    {
+    "seconds": 23462,
+    "title": "\u2614 \ud83c\udfd4\u26cf Reverse: 1999 2.8 - Chapter 10: \"Paradise Regained\" Full Story and Playthrough \ud83c\udfd4\u26cf \u2614",
+    "uploader": "Alex 393",
+    "url": "https://www.youtube.com/watch?v=aXby0JNlNYc",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20251020",
+    "runtime": 28416,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 149,
+     "An Icy Road": 675,
+     "My Travel Companions": 79,
+     "Et tu, Brute?": 562,
+     "Have a safe journey.": 60,
+     "Under Glaring Light": 59,
+     "The Worst Journey in the World": 813,
+     "The Fool and the High Priestess": 59,
+     "The Call of the Wild": 564,
+     "Des pas sur la neige": 324,
+     "Just Another Laplace Experiment": 1371,
+     "The Nine-Layered City": 51,
+     "My Dear Siblings": 674,
+     "In the Mouth of Madness": 828,
+     "The Broken Land of Bliss": 1464,
+     "The Owl of Minerva": 93,
+     "To a Skylark": 1046,
+     "Same Road, Different Destinations": 59,
+     "The Weaving of Our Pasts": 890,
+     "The Way I Came": 125,
+     "By Their Untainted Blood": 88,
+     "And Then Came the Savior": 864,
+     "The Other Bank of the River": 713,
+     "Apocalypsis cum figuris": 804
+    }
+   },
+   {
     "seconds": 23997,
     "title": "Chapter 10: Paradise Regained - Full Story | Reverse: 1999",
     "uploader": "Villenthessis",
@@ -8189,14 +8891,6 @@
     "rejected": []
    },
    {
-    "seconds": 28417,
-    "title": "\u2614 \ud83c\udfd4\u26cf Reverse: 1999 2.8 - Chapter 10: \"Paradise Regained\" Full Story and Playthrough \ud83c\udfd4\u26cf \u2614",
-    "uploader": "Alex 393",
-    "url": "https://www.youtube.com/watch?v=aXby0JNlNYc",
-    "views": "17",
-    "rejected": []
-   },
-   {
     "seconds": 29559,
     "title": "Reverse: 1999 Ver. 2.8 'Paradise Regained' [Chapter 10. Story Mode. Full]",
     "uploader": "Homo Ludens",
@@ -8212,31 +8906,32 @@
    "low": 186,
    "high": 493,
    "q1": 330,
-   "q3": 473,
-   "trimmed_mean": 374,
-   "measured": 3,
+   "q3": 419,
+   "trimmed_mean": 365,
+   "measured": 4,
    "parts": {
-    "The Rime of the Ancient Mariner": 15,
+    "The Rime of the Ancient Mariner": 10,
     "An Icy Road": 11,
     "My Travel Companions": 13,
     "Et tu, Brute?": 9,
-    "Under Glaring Light": 12,
+    "Have a safe journey.": 2,
+    "Under Glaring Light": 7,
     "The Worst Journey in the World": 13,
-    "The Fool and the High Priestess": 14,
+    "The Fool and the High Priestess": 9,
     "The Call of the Wild": 9,
-    "Des pas sur la neige": 18,
+    "Des pas sur la neige": 12,
     "Just Another Laplace Experiment": 17,
-    "The Nine-Layered City": 21,
+    "The Nine-Layered City": 12,
     "My Dear Siblings": 11,
     "In the Mouth of Madness": 14,
     "The Broken Land of Bliss": 24,
-    "The Owl of Minerva": 16,
+    "The Owl of Minerva": 9,
     "To a Skylark": 17,
-    "Same Road, Different Destinations": 16,
+    "Same Road, Different Destinations": 11,
     "The Weaving of Our Pasts": 14,
-    "The Way I Came": 21,
-    "By Their Untainted Blood": 9,
-    "And Then Came the Savior": 15,
+    "The Way I Came": 12,
+    "By Their Untainted Blood": 5,
+    "And Then Came the Savior": 14,
     "The Other Bank of the River": 12,
     "Apocalypsis cum figuris": 7
    },
@@ -8393,14 +9088,15 @@
     }
    },
    {
-    "seconds": 12374,
+    "seconds": 12373,
     "title": "A Long Long Way | Reverse 1999 Main Storyline Chapter 11 | Part 1 | No Commentary",
     "uploader": "NEON DEMON",
     "url": "https://www.youtube.com/watch?v=bqhAEUtG8w4",
-    "views": "6",
+    "views": 7,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260822"
    },
    {
     "seconds": 611,
@@ -8429,8 +9125,9 @@
     "title": "[Reverse: 1999] Chapter 11\u2013A Long Long Way ",
     "uploader": "HaWuTsKi Archive",
     "url": "https://www.youtube.com/watch?v=d2UQUOI_zeQ",
-    "views": "107",
-    "rejected": []
+    "views": 112,
+    "rejected": [],
+    "upload_date": "20251122"
    },
    {
     "seconds": 7948,
@@ -8464,12 +9161,39 @@
     "upload_date": "20251109"
    },
    {
-    "seconds": 25553,
+    "seconds": 18941,
     "title": "\ud83c\udf39 Reverse: 1999 3.0 - Chapter 11: \"A Long Long Way\" Full Story and Playthrough \ud83c\udf39",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=pDZKTsCph_M",
-    "views": "20",
-    "rejected": []
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20251113",
+    "runtime": 25553,
+    "measured": "chapter-markers",
+    "parts": {
+     "After the Flood": 783,
+     "Old Boots": 98,
+     "Battle of the Birds": 842,
+     "Grayish Blue": 105,
+     "Chrysanthemum": 61,
+     "A Push for Peace": 793,
+     "Under the Veil": 861,
+     "Paths Crossed": 69,
+     "Devil's Work": 548,
+     "Wounds and Scars": 175,
+     "A Fractured Sanctuary": 930,
+     "Two Pounds of Sugar": 957,
+     "Send-off": 618,
+     "An Unfulfilled Prophecy": 657,
+     "Serenity on the Wind": 325,
+     "The Armistice": 237,
+     "A False Dawn": 85,
+     "Gates of Hell": 80,
+     "1-Hour Politics": 90,
+     "Brimstone and Fire": 118,
+     "The Pardon": 574,
+     "The Hill": 769
+    }
    },
    {
     "seconds": 1119,
@@ -8527,14 +9251,15 @@
     ]
    },
    {
-    "seconds": 28212,
+    "seconds": 28211,
     "title": "The Campaign's Tale | Reverse: 1999 | Chapter 12 Full Story [4K] [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=dasUwKTOJFU",
-    "views": "12801",
+    "views": 14835,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260314"
    },
    {
     "seconds": 23340,
@@ -8672,10 +9397,11 @@
     "title": "Reverse: 1999 - Chapter 11 Part 7",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=dJTCYaxZ48A",
-    "views": "451",
+    "views": 484,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251101"
    },
    {
     "seconds": 33846,
@@ -8691,11 +9417,12 @@
     "title": "Reverse: 1999. Story move to 11-12 [Chapter 7 - Vereinsamt]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=lMUquvqL7qU",
-    "views": "31",
+    "views": 31,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250118"
    },
    {
     "seconds": 860,
@@ -8769,30 +9496,33 @@
     "title": "A Long Long Way pt 1\u3010Reverse:1999\u3011",
     "uploader": "Moki",
     "url": "https://www.youtube.com/watch?v=hFuLk5g2pNw",
-    "views": "759",
+    "views": 794,
     "rejected": [
-     "part-of-an-act"
-    ]
+     "fragment"
+    ],
+    "upload_date": "20260115"
    },
    {
     "seconds": 1109,
     "title": "Reverse: 1999 - Chapter 11 Part 19",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=ioQBi5wgw-c",
-    "views": "254",
+    "views": 270,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251101"
    },
    {
     "seconds": 9731,
     "title": "TIME TO END THIS WAR!! | A Long Long Way (Finale) \u3010Reverse: 1999\u3011",
     "uploader": "\ud835\udc2c\ud835\udc22\ud835\udc25\ud835\udc28. \ud83c\udf03\ud83d\udc08",
     "url": "https://www.youtube.com/watch?v=Y5mZ_DO-AXo",
-    "views": "1090",
+    "views": 1111,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251130"
    },
    {
     "seconds": 15398,
@@ -8801,7 +9531,7 @@
     "url": "https://www.youtube.com/watch?v=w0EIhsEGyeE",
     "views": "1021",
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ]
    }
   ],
@@ -8888,8 +9618,44 @@
     "title": "[Reverse: 1999] Chapter 11\u2013A Long Long Way ",
     "uploader": "HaWuTsKi Archive",
     "url": "https://www.youtube.com/watch?v=d2UQUOI_zeQ",
-    "views": "107",
-    "rejected": []
+    "views": 112,
+    "rejected": [],
+    "upload_date": "20251122"
+   },
+   {
+    "seconds": 18941,
+    "title": "\ud83c\udf39 Reverse: 1999 3.0 - Chapter 11: \"A Long Long Way\" Full Story and Playthrough \ud83c\udf39",
+    "uploader": "Alex 393",
+    "url": "https://www.youtube.com/watch?v=pDZKTsCph_M",
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20251113",
+    "runtime": 25553,
+    "measured": "chapter-markers",
+    "parts": {
+     "After the Flood": 783,
+     "Old Boots": 98,
+     "Battle of the Birds": 842,
+     "Grayish Blue": 105,
+     "Chrysanthemum": 61,
+     "A Push for Peace": 793,
+     "Under the Veil": 861,
+     "Paths Crossed": 69,
+     "Devil's Work": 548,
+     "Wounds and Scars": 175,
+     "A Fractured Sanctuary": 930,
+     "Two Pounds of Sugar": 957,
+     "Send-off": 618,
+     "An Unfulfilled Prophecy": 657,
+     "Serenity on the Wind": 325,
+     "The Armistice": 237,
+     "A False Dawn": 85,
+     "Gates of Hell": 80,
+     "1-Hour Politics": 90,
+     "Brimstone and Fire": 118,
+     "The Pardon": 574,
+     "The Hill": 769
+    }
    },
    {
     "seconds": 20772,
@@ -8971,14 +9737,6 @@
     }
    },
    {
-    "seconds": 25553,
-    "title": "\ud83c\udf39 Reverse: 1999 3.0 - Chapter 11: \"A Long Long Way\" Full Story and Playthrough \ud83c\udf39",
-    "uploader": "Alex 393",
-    "url": "https://www.youtube.com/watch?v=pDZKTsCph_M",
-    "views": "20",
-    "rejected": []
-   },
-   {
     "seconds": 28508,
     "title": "Exploring the consequences of war... Chapter 11 \"A long long way\" | Reverse 1999 3.0",
     "uploader": "HappyOwlTV",
@@ -8999,38 +9757,38 @@
   ],
   "stats": {
    "n": 10,
-   "median": 350,
+   "median": 331,
    "low": 238,
    "high": 564,
    "q1": 294,
-   "q3": 438,
-   "trimmed_mean": 356,
-   "measured": 4,
+   "q3": 394,
+   "trimmed_mean": 342,
+   "measured": 5,
    "parts": {
-    "After the Flood": 14,
-    "Old Boots": 14,
-    "Battle of the Birds": 16,
-    "Grayish Blue": 12,
-    "Chrysanthemum": 13,
-    "A Push for Peace": 14,
-    "Under the Veil": 16,
-    "Paths Crossed": 16,
+    "After the Flood": 13,
+    "Old Boots": 12,
+    "Battle of the Birds": 15,
+    "Grayish Blue": 11,
+    "Chrysanthemum": 11,
+    "A Push for Peace": 13,
+    "Under the Veil": 14,
+    "Paths Crossed": 14,
     "Devil's Work": 9,
-    "Wounds and Scars": 13,
-    "A Fractured Sanctuary": 17,
-    "Two Pounds of Sugar": 17,
-    "Send-off": 12,
-    "An Unfulfilled Prophecy": 14,
+    "Wounds and Scars": 12,
+    "A Fractured Sanctuary": 16,
+    "Two Pounds of Sugar": 16,
+    "Send-off": 10,
+    "An Unfulfilled Prophecy": 12,
     "Serenity on the Wind": 5,
-    "The Armistice": 16,
-    "A False Dawn": 12,
-    "Gates of Hell": 9,
-    "1-Hour Politics": 13,
-    "Brimstone and Fire": 23,
-    "The Pardon": 11,
-    "The Hill": 15
+    "The Armistice": 13,
+    "A False Dawn": 11,
+    "Gates of Hell": 7,
+    "1-Hour Politics": 11,
+    "Brimstone and Fire": 20,
+    "The Pardon": 10,
+    "The Hill": 13
    },
-   "drift": -0.036
+   "drift": -0.088
   }
  },
  {
@@ -9042,12 +9800,42 @@
   "slug": "a3_Chapter_12",
   "candidates": [
    {
-    "seconds": 28212,
+    "seconds": 21788,
     "title": "The Campaign's Tale | Reverse: 1999 | Chapter 12 Full Story [4K] [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=dasUwKTOJFU",
-    "views": "12803",
-    "rejected": []
+    "views": 14835,
+    "rejected": [],
+    "upload_date": "20260314",
+    "runtime": 28211,
+    "measured": "chapter-markers",
+    "parts": {
+     "Quiet is the River Bank": 192,
+     "The Eternal Autumn": 1011,
+     "Intersection": 830,
+     "Beneath the Silence": 1076,
+     "Strange Gazes": 329,
+     "A Son's Confession": 969,
+     "Both Sides of the River": 869,
+     "The Negotiators and the Judge": 979,
+     "White Night": 1004,
+     "Legacy of the Era": 1178,
+     "The Defender's Oath": 491,
+     "Life and Fate": 635,
+     "Farewell Letter": 825,
+     "The Night Before War": 832,
+     "Dust Between Fingers": 883,
+     "Mercy": 673,
+     "The Cavalry": 298,
+     "The Pale Horse": 341,
+     "Casualty Report": 596,
+     "The Last Defense": 411,
+     "The Admiral and His Men": 538,
+     "Elegy for the Don": 514,
+     "The Long Road Ahead": 643,
+     "The Day of Departure": 846,
+     "Crime and Punishment": 910
+    }
    },
    {
     "seconds": 21864,
@@ -9149,24 +9937,26 @@
     ]
    },
    {
-    "seconds": 21495,
+    "seconds": 21494,
     "title": "Nothing bad will happen to Charon, RIGHT?! Chapter 12 \"The Campaign's Tale\" | Reverse 1999 3.3",
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=iVmzkAVPqD8",
-    "views": "137",
+    "views": 138,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20260311"
    },
    {
     "seconds": 13939,
     "title": "Chapter 12 The Campaign's Tale Pt 2 | Reverse: 1999 Main Story Playthrough (3/9/26)",
     "uploader": "daniextralife",
     "url": "https://www.youtube.com/watch?v=hdmT6TUYyEE",
-    "views": "140",
+    "views": 152,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260311"
    },
    {
     "seconds": 708,
@@ -9355,14 +10145,15 @@
     ]
    },
    {
-    "seconds": 2146,
+    "seconds": 2145,
     "title": "Left 4 Dead 2 (Walkthrough FR) Sans merci (Left 4 Dead 2 Reborn Color Correction Pack)",
     "uploader": "CraniamonRoyalKnight",
     "url": "https://www.youtube.com/watch?v=msqR0EiN4j0",
-    "views": "135",
+    "views": 135,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200509"
    },
    {
     "seconds": 5483,
@@ -9416,24 +10207,26 @@
     ]
    },
    {
-    "seconds": 923,
+    "seconds": 922,
     "title": "Reverse: 1999 - Chapter 12 Part 25",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=lpsTChqEp6U",
-    "views": "253",
+    "views": 277,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260308"
    },
    {
-    "seconds": 1017,
+    "seconds": 1016,
     "title": "Reverse: 1999 - Chapter 12 Part 9",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=mMlpbl7E1AU",
-    "views": "221",
+    "views": 238,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260308"
    },
    {
     "seconds": 606,
@@ -9561,7 +10354,7 @@
     "url": "https://www.youtube.com/watch?v=ZH0HNIjLakI",
     "views": 1175,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260308"
    },
@@ -9591,10 +10384,11 @@
     "title": "\u3010 Reverse 1999 \u3011Andreassss My Boy Please Be Fine [ Chapter 12 - The Campaign's Tale ]",
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=bKKtYzjhQPs",
-    "views": "93",
+    "views": 93,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260324"
    },
    {
     "seconds": 12248,
@@ -9603,7 +10397,7 @@
     "url": "https://www.youtube.com/watch?v=38if1LeBLJc",
     "views": 760,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260315"
    }
@@ -9617,6 +10411,44 @@
     "views": 257,
     "rejected": [],
     "upload_date": "20260305"
+   },
+   {
+    "seconds": 21788,
+    "title": "The Campaign's Tale | Reverse: 1999 | Chapter 12 Full Story [4K] [No Commentary]",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=dasUwKTOJFU",
+    "views": 14835,
+    "rejected": [],
+    "upload_date": "20260314",
+    "runtime": 28211,
+    "measured": "chapter-markers",
+    "parts": {
+     "Quiet is the River Bank": 192,
+     "The Eternal Autumn": 1011,
+     "Intersection": 830,
+     "Beneath the Silence": 1076,
+     "Strange Gazes": 329,
+     "A Son's Confession": 969,
+     "Both Sides of the River": 869,
+     "The Negotiators and the Judge": 979,
+     "White Night": 1004,
+     "Legacy of the Era": 1178,
+     "The Defender's Oath": 491,
+     "Life and Fate": 635,
+     "Farewell Letter": 825,
+     "The Night Before War": 832,
+     "Dust Between Fingers": 883,
+     "Mercy": 673,
+     "The Cavalry": 298,
+     "The Pale Horse": 341,
+     "Casualty Report": 596,
+     "The Last Defense": 411,
+     "The Admiral and His Men": 538,
+     "Elegy for the Don": 514,
+     "The Long Road Ahead": 643,
+     "The Day of Departure": 846,
+     "Crime and Punishment": 910
+    }
    },
    {
     "seconds": 21864,
@@ -9711,14 +10543,6 @@
     "upload_date": "20260314"
    },
    {
-    "seconds": 28212,
-    "title": "The Campaign's Tale | Reverse: 1999 | Chapter 12 Full Story [4K] [No Commentary]",
-    "uploader": "\u516b\u54ab\u70cf_Merui",
-    "url": "https://www.youtube.com/watch?v=dasUwKTOJFU",
-    "views": "12803",
-    "rejected": []
-   },
-   {
     "seconds": 28712,
     "title": "Reverse: 1999; Chapter 12: The Campaign's Tale [NO COMMENTARY]",
     "uploader": "Vilwyn",
@@ -9739,15 +10563,40 @@
   ],
   "stats": {
    "n": 8,
-   "median": 440,
+   "median": 407,
    "low": 338,
    "high": 590,
-   "q1": 368,
-   "q3": 476,
-   "trimmed_mean": 437,
-   "measured": 2,
-   "parts": {},
-   "drift": -0.007
+   "q1": 363,
+   "q3": 470,
+   "trimmed_mean": 424,
+   "measured": 3,
+   "parts": {
+    "Quiet is the River Bank": 3,
+    "The Eternal Autumn": 17,
+    "Intersection": 14,
+    "Beneath the Silence": 18,
+    "Strange Gazes": 5,
+    "A Son's Confession": 16,
+    "Both Sides of the River": 14,
+    "The Negotiators and the Judge": 16,
+    "White Night": 17,
+    "Legacy of the Era": 20,
+    "The Defender's Oath": 8,
+    "Life and Fate": 11,
+    "Farewell Letter": 14,
+    "The Night Before War": 14,
+    "Dust Between Fingers": 15,
+    "Mercy": 11,
+    "The Pale Horse": 6,
+    "Casualty Report": 10,
+    "The Last Defense": 7,
+    "The Admiral and His Men": 9,
+    "Elegy for the Don": 9,
+    "The Long Road Ahead": 11,
+    "The Day of Departure": 14,
+    "Crime and Punishment": 15
+   },
+   "drift": -0.081
   }
  },
  {
@@ -9827,10 +10676,11 @@
     "title": "Reverse: 1999 - Chapter 13 Part 2",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=dQueoYDREO8",
-    "views": "135",
+    "views": 219,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 503,
@@ -9895,8 +10745,9 @@
     "title": "REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY",
     "uploader": "Equilibrium",
     "url": "https://www.youtube.com/watch?v=rIYXpecbNU8",
-    "views": "397",
-    "rejected": []
+    "views": 874,
+    "rejected": [],
+    "upload_date": "20260817"
    },
    {
     "seconds": 4375,
@@ -9927,7 +10778,7 @@
     "url": "https://www.youtube.com/watch?v=X0AqAm7HvTY",
     "views": 942,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260819"
    },
@@ -10068,14 +10919,15 @@
     ]
    },
    {
-    "seconds": 962,
+    "seconds": 961,
     "title": "Reverse 1999 - Chapter 13 (On Another's Sorrow) - Part 01 (Reckoning Time)",
     "uploader": "R 666",
     "url": "https://www.youtube.com/watch?v=fm8H7JzqdOU",
-    "views": "16",
+    "views": 29,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 708,
@@ -10107,7 +10959,7 @@
     "url": "https://www.youtube.com/watch?v=hzNMqFirzoE",
     "views": 1291,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260820"
    },
@@ -10135,12 +10987,15 @@
     ]
    },
    {
-    "seconds": 17703,
+    "seconds": 17702,
     "title": "MEREL MY BELOVED!!! | Reverse: 1999 Chapter 13",
     "uploader": "rarebear",
     "url": "https://www.youtube.com/watch?v=gXOT31l6HWs",
-    "views": "803",
-    "rejected": []
+    "views": 986,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260818"
    },
    {
     "seconds": 231,
@@ -10231,10 +11086,11 @@
     "title": "Sin - Wages of Sin - PC Walkthrough",
     "uploader": "Abandonware",
     "url": "https://www.youtube.com/watch?v=pqG4v_5XtQQ",
-    "views": "1901",
+    "views": 1984,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220303"
    },
    {
     "seconds": 95728,
@@ -10268,6 +11124,76 @@
      "act-mismatch"
     ],
     "upload_date": "20240907"
+   },
+   {
+    "seconds": 30816,
+    "title": "On Another's Sorrow \u2013 Reverse: 1999 v3.7 \u2013 Chapter 13 | Full Story",
+    "uploader": "Homo Ludens",
+    "url": "https://www.youtube.com/watch?v=pDPpTKNyFbA",
+    "views": 715,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 27352,
+    "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
+    "uploader": "HappyOwlTV",
+    "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
+    "views": "483",
+    "rejected": []
+   },
+   {
+    "seconds": 1255,
+    "title": "Reverse: 1999 - Chapter 13 Part 20",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=ARMjBFd7bFM",
+    "views": 199,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 12193,
+    "title": "On Another's Sorrow | Reverse 1999 Main Storyline Chapter 13 | Part 1 | No Commentary",
+    "uploader": "NEON DEMON",
+    "url": "https://www.youtube.com/watch?v=_uVDYCF3e5A",
+    "views": 17,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 27055,
+    "title": "Reverse 1999 - Chapter 13: On Another's Sorrow",
+    "uploader": "Funlazer741 VODS",
+    "url": "https://www.youtube.com/watch?v=DiKK-IYPpVc",
+    "views": 156,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 6082,
+    "title": "Reverse 1999 - Version 3.7 - On another's Sorrow - A Stranger to Memory Lane (Ms. Strager's Story)",
+    "uploader": "Neat Sparrow",
+    "url": "https://www.youtube.com/watch?v=XExk1LioXcg",
+    "views": 59,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260905"
+   },
+   {
+    "seconds": 994,
+    "title": "Reverse: 1999 - Chapter 13 Part 5",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=dK6iQN3ODEg",
+    "views": 201,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260815"
    }
   ],
   "kept": [
@@ -10277,14 +11203,6 @@
     "uploader": "Mirai Shishiou VODS",
     "url": "https://www.youtube.com/watch?v=xP3dJgbePQw",
     "views": "48",
-    "rejected": []
-   },
-   {
-    "seconds": 17703,
-    "title": "MEREL MY BELOVED!!! | Reverse: 1999 Chapter 13",
-    "uploader": "rarebear",
-    "url": "https://www.youtube.com/watch?v=gXOT31l6HWs",
-    "views": "803",
     "rejected": []
    },
    {
@@ -10345,21 +11263,48 @@
     "title": "REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY",
     "uploader": "Equilibrium",
     "url": "https://www.youtube.com/watch?v=rIYXpecbNU8",
-    "views": "397",
+    "views": 874,
+    "rejected": [],
+    "upload_date": "20260817"
+   },
+   {
+    "seconds": 27055,
+    "title": "Reverse 1999 - Chapter 13: On Another's Sorrow",
+    "uploader": "Funlazer741 VODS",
+    "url": "https://www.youtube.com/watch?v=DiKK-IYPpVc",
+    "views": 156,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 27352,
+    "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
+    "uploader": "HappyOwlTV",
+    "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
+    "views": "483",
     "rejected": []
+   },
+   {
+    "seconds": 30816,
+    "title": "On Another's Sorrow \u2013 Reverse: 1999 v3.7 \u2013 Chapter 13 | Full Story",
+    "uploader": "Homo Ludens",
+    "url": "https://www.youtube.com/watch?v=pDPpTKNyFbA",
+    "views": 715,
+    "rejected": [],
+    "upload_date": "20260909"
    }
   ],
   "stats": {
-   "n": 6,
-   "median": 361,
+   "n": 8,
+   "median": 411,
    "low": 241,
-   "high": 424,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 347,
+   "high": 514,
+   "q1": 356,
+   "q3": 455,
+   "trimmed_mean": 401,
    "measured": 1,
    "parts": {},
-   "drift": -0.22
+   "drift": -0.112
   }
  }
 ]

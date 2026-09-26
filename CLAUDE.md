@@ -65,7 +65,7 @@ All commands are run from a report directory
 SKILL=../.claude/skills/questline-length-research/scripts
 python3 $SKILL/fetch_versions.py data                 # step 2, before harvesting
 $SKILL/harvest.sh data [jobs] [--only <slug>,...]     # step 3, yt-dlp searches
-$SKILL/enrich.sh data [jobs]                          # step 4, full extraction
+$SKILL/enrich.sh data [jobs] [--only <slug>,...]      # step 4, full extraction
 python3 $SKILL/analyze.py data --compare data/baseline.json   # step 5, writes analysis.json
 printf '<slug>|<query>\n' | $SKILL/topup.sh data [n]          # step 6, thin acts
 python3 $SKILL/gen_docs.py .                          # step 8, fills the markdown
@@ -82,9 +82,17 @@ and take tens of minutes: background them.
 All three are resumable (harvest skips acts that already have an evidence file,
 enrich skips URLs already in `enriched.tsv`),
 so an interrupted run is simply re-run.
+`--only` restricts `harvest.sh` and `enrich.sh` to the named acts
+(the evidence files' basenames, e.g. `v5_Chapter_43`),
+which is how a newly added act is harvested and enriched
+without touching the older ones.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions;
 `analyze.py` falls back to the harvested figures, so do not fight it.
+`enrich.sh` shows the block in its closing summary
+(URLs attempted, enriched and failed, plus a `BOT CHECK` notice),
+stops attempting the queued URLs once it has seen it,
+and exits non-zero whenever an extraction failed.
 **Say so, and stop.** Tell the user the run hit the bot check
 and how many URLs are still unenriched, and wait rather than retrying into it:
 a retry that is merely slower still returns almost nothing.
@@ -167,7 +175,7 @@ Girls' Frontline 2 sits between the two: its chapters are grouped by nothing,
 so its volumes are invented as NIKKE's are, but every chapter from 6.5 on
 shipped as a named campaign, so the volume boundaries at least fall where a
 campaign ends. It is also the one game whose entry numbers are not all whole -
-five campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5 - which
+six campaigns are filed as Chapters 6.5, 6.7, 8.3, 8.7, 12.5 and 19.5 - which
 `act_number()` reads as a float, and whose wiki is IOP Wiki rather than a
 Fandom one.
 Punishing: Gray Raven invents its volumes as NIKKE does, and is the game whose
@@ -193,7 +201,8 @@ is now possible, and is caught only by the claims in `claims.py`.
 So the invariant holds by convention plus `claims.py`:
 put every number in a marker, and guard in words what words assert.
 
-Superlatives come from a ranking computed over all acts, so
+Superlatives come from a ranking computed over all acts
+with enough uploads to be ranked (see the statistics conventions), so
 "the longest act in the game" can only appear where it is true.
 Claims the prose makes in *words* ("marathon acts", "the chapter centrepiece")
 are written down in the report's `claims.py` next to the sentence they guard,
@@ -252,7 +261,14 @@ The sample floor and the drift limit are `IQR_SAMPLES` and `UNSTABLE_DRIFT`
 in `analyze.py`, which `gen_docs.py` imports rather than restates;
 only the two interquartile factors (`SPREAD_HIGH`, `SPREAD_MEDIUM`)
 live in `gen_docs.py`, because nothing else grades on them.
-The published method section quotes all four from the constants themselves,
+An act on fewer than three uploads is published with its figures
+but takes no part in any ranking:
+no superlative sentence, no row in the extremes table,
+and no `is_extreme` or `rank_at_most` claim holds for it.
+One or two uploads can be a split nothing contradicts,
+and would otherwise hold "the shortest chapter in the game" on that alone.
+That floor is `RANK_SAMPLES` in `facts.py`, where the rankings are computed.
+The published method section quotes all five from the constants themselves,
 so a changed threshold rewrites its own description.
 
 ## Conventions

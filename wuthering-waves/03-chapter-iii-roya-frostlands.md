@@ -15,20 +15,20 @@ and ends up piloting the thing the whole world has been building.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prologue | When the Unknown Thrums | 18 min | 14 min - 18 min | 9 | medium |
-| Act I | What Burns Beneath Frostlands | 2 h 57 min | 2 h 39 min - 3 h 01 min | 16 | high |
+| Prologue | When the Unknown Thrums | 18 min | 15 min - 19 min | 10 | medium |
+| Act I | What Burns Beneath Frostlands | 2 h 57 min | 2 h 40 min - 3 h 02 min | 17 | high |
 | Act II | Ode to the Second Sunrise | 2 h 21 min | 2 h 14 min - 2 h 36 min | 15 | high |
-| Act III | The Star That Voyages Far | 3 h 59 min | 3 h 51 min - 4 h 09 min | 13 | high |
-| Segue - I | All That Sunlight Touches | 1 h 16 min | 1 h 15 min - 1 h 21 min | 11 | high |
-| Act IV | Gold Suspended in Shadows | 3 h 24 min | 3 h 15 min - 3 h 30 min | 13 | high |
-| Segue - II | Rabbit Reflected in Shades | 1 h 21 min | 1 h 12 min - 1 h 31 min | 9 | medium |
+| Act III | The Star That Voyages Far | 3 h 59 min | 3 h 52 min - 4 h 07 min | 14 | high |
+| Segue - I | All That Sunlight Touches | 1 h 16 min | 1 h 15 min - 1 h 21 min | 12 | high |
+| Act IV | Gold Suspended in Shadows | 3 h 23 min | 3 h 14 min - 3 h 28 min | 15 | high |
+| Segue - II | Rabbit Reflected in Shades | 1 h 21 min | 1 h 15 min - 1 h 26 min | 12 | high |
 | Segue - III | The Flaming Red from Tomorrow | 7 min | 6 min - 8 min | 4 | low |
-| Segue - IV | Wishes in the Bell | 43 min | 38 min - 44 min | 11 | high |
+| Segue - IV | Wishes in the Bell | 43 min | 38 min - 47 min | 12 | high |
 | Act V | Starlights from Yesterdays | 2 h 56 min | 2 h 40 min - 3 h 08 min | 23 | high |
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
-| Segue - VI | Beneath a Melting Night Sky | 1 h 59 min | 1 h 49 min - 2 h 06 min | 13 | high |
-| Side Story | At Dream's Edge | 2 h 51 min | 2 h 39 min - 3 h 07 min | 13 | high |
-| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 54 min - 2 h 08 min | 11 | high |
+| Segue - VI | Beneath a Melting Night Sky | 2 h 00 min | 1 h 50 min - 2 h 08 min | 16 | high |
+| Side Story | At Dream's Edge | 2 h 51 min | 2 h 40 min - 3 h 06 min | 14 | high |
+| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 57 min - 2 h 07 min | 14 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->26 h 30 min<!--/f-->**
@@ -62,11 +62,11 @@ and shakes off a Voidworm on the far side.
 <!--gen:stats act="Prologue"-->
 
 - **Estimated length:** 18 min
-- **Sampled range:** 14 min to 18 min for the middle half (full spread 10 min to 23 min) across 9 playthrough uploads (8 further candidates screened out)
+- **Sampled range:** 15 min to 19 min for the middle half (full spread 10 min to 23 min) across 10 playthrough uploads (7 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Prologue"-->
@@ -83,6 +83,7 @@ and shakes off a Voidworm on the far side.
 | 18 min | Wuthering Waves Walkthrough Part 575 - Chapter 3 Prologue: When the Unknown Thrums (No Commentary) | MG PlayX | 60 | 2025-12-29 | <https://www.youtube.com/watch?v=DOAnp9cXuU4> |
 | 18 min | Wuthering Waves - Chapter 3 Prologue: When the Unknown Thrums \| No Commentary | SamuRRai_Gamer | 3 | 2026-07-12 | <https://www.youtube.com/watch?v=edhJ3o8v7ns> |
 | 18 min | Wuthering Waves [Main Story] [Ver 3.0] - When the Unknown Thrums Walkthrough [No Commentary] | Fresh and Crispy Games | 5 | 2026-06-27 | <https://www.youtube.com/watch?v=Z2Z8pFnYH-Q> |
+| 19 min | WHEN THE UNKNOWN THRUMS - Version 3.0 Prologue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 48 | 2025-12-27 | <https://www.youtube.com/watch?v=iEh6j-jue-c> |
 | 23 min | Wuthering Waves Chapter 3 Prologue : When the Unknown Thrums Quest (No Commentary) | FinalBossZone | 9 | 2026-03-28 | <https://www.youtube.com/watch?v=bpt4NnQm9qk> |
 
 </details>
@@ -97,12 +98,12 @@ enrolment, an ID photo, the infirmary, and Lynae's missing-attendance problem.
 <!--gen:stats act="Act I"-->
 
 - **Estimated length:** 2 h 57 min
-- **Sampled range:** 2 h 39 min to 3 h 01 min for the middle half (full spread 2 h 09 min to 3 h 20 min) across 16 playthrough uploads (6 further candidates screened out)
+- **Sampled range:** 2 h 40 min to 3 h 02 min for the middle half (full spread 2 h 09 min to 3 h 20 min) across 17 playthrough uploads (5 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 16 uploads
+- **Stability:** median 0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 17 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -126,6 +127,7 @@ enrolment, an ID photo, the infirmary, and Lynae's missing-attendance problem.
 | 3 h 01 min | Wuthering Waves 3.0 Lahai-Roi Act 1 - New Main Story Quest Full Walkthrough | Rubhen925 | 62,642 | 2025-12-26 | <https://www.youtube.com/watch?v=N_ftQLTJuso> |
 | 3 h 03 min | FULL Chapter 3 Act 1 Lahai-Roi \| Wuthering Waves 3.0 "What Burns Beneath Frostlands" | T.H Bunn | 50 | 2025-12-25 | <https://www.youtube.com/watch?v=MGz6Ukhe5PA> |
 | 3 h 04 min | Version 3.0 Main Story Quest - Wuthering Waves \| ACT 1 & Prologue (Full Playthrough) | Streetwise Rhapsody | 36,099 | 2025-12-25 | <https://www.youtube.com/watch?v=bqY0-xoTK_M> |
+| 3 h 08 min | Wuthering Waves 3.0 "What Burns Beneath Frostlands" Full Main Story Quest Act- I | BSS Gaming | 1,720 | 2025-12-25 | <https://www.youtube.com/watch?v=PtpLG6KFP3I> |
 | 3 h 20 min | Wuthering Waves 3.0 (PC) Walkthrough Main Quest What Burns Beneath Frostlands | CyberFRZ | 14 | 2025-12-27 | <https://www.youtube.com/watch?v=q6YiOnCfKi8> |
 
 </details>
@@ -144,7 +146,7 @@ then out to the Atuja Camp and into an active Void Storm.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -183,11 +185,11 @@ and out across the frostlands after a voice.
 One of the three longest acts in the game.
 
 - **Estimated length:** 3 h 59 min
-- **Sampled range:** 3 h 51 min to 4 h 09 min for the middle half (full spread 3 h 32 min to 4 h 22 min) across 13 playthrough uploads (13 further candidates screened out)
+- **Sampled range:** 3 h 52 min to 4 h 07 min for the middle half (full spread 3 h 32 min to 4 h 22 min) across 14 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -199,6 +201,7 @@ One of the three longest acts in the game.
 | 3 h 32 min | 'The Star That Voyages Far' \| Chapter 3 Act 3 \| Wuthering Waves 3.1 | SECO | 165 | 2026-02-07 | <https://www.youtube.com/watch?v=es5fiLo_rW0> |
 | 3 h 47 min | Wuthering Waves 3.1 Story Full Walkthrough - Chapter 3 Act 3 [4K 60FPS] | Headstart Gaming | 1,398 | 2026-02-06 | <https://www.youtube.com/watch?v=SPMge2exT8A> |
 | 3 h 49 min | Wuthering Waves Walkthrough Part 615 - Chapter 3 Act 3: The Star That Voyages Far (No Commentary) | MG PlayX | 61 | 2026-02-11 | <https://www.youtube.com/watch?v=Gci9phLysAU> |
+| 3 h 52 min | The Star That Voyages Far (Full Main Story Quest Playthrough) \| Wuthering Waves 3.1 | jieun | 454 | 2026-02-06 | <https://www.youtube.com/watch?v=Ear4zXI2jRo> |
 | 3 h 53 min | Wuthering Waves 3.1 - Full Lahai-Roi Story Playthrough Act 3 | Segiri | 1,683 | 2026-02-05 | <https://www.youtube.com/watch?v=4k6uU4TP_VY> |
 | 3 h 58 min | Wuthering Waves 3.1 Lahai-Roi Act 3 - Story Quest Full Walkthrough | NoEmotion | 72 | 2026-02-11 | <https://www.youtube.com/watch?v=4x9y7IbnvNY> |
 | 3 h 58 min | Lahai-Roi Act 3 Full Story Quest Playthrough - Wuthering Waves 3.1 | Fayato | 7,589 | 2026-02-05 | <https://www.youtube.com/watch?v=h14mi31NvlQ> |
@@ -222,11 +225,11 @@ and how much of the Exostrider plan he has been keeping in a drawer.
 <!--gen:stats act="Segue - I"-->
 
 - **Estimated length:** 1 h 16 min
-- **Sampled range:** 1 h 15 min to 1 h 21 min for the middle half (full spread 1 h 11 min to 1 h 46 min) across 11 playthrough uploads (4 further candidates screened out)
+- **Sampled range:** 1 h 15 min to 1 h 21 min for the middle half (full spread 1 h 11 min to 1 h 46 min) across 12 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - I"-->
@@ -236,6 +239,7 @@ and how much of the Exostrider plan he has been keeping in a drawer.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 11 min | All That Sunlight Touches – Wuthering Waves 3.1 Main Quest | Sternking | 28 | 2026-02-26 | <https://www.youtube.com/watch?v=9WTQJmbRJA8> |
+| 1 h 15 min | Luuk Herssen Segue Full Story Quest All That Sunlight Touches \| Wuthering Waves 3.1 | NeoBuns | 83 | 2026-03-02 | <https://www.youtube.com/watch?v=_lwwIE5kxns> |
 | 1 h 15 min | Wuthering Waves 3.1 Story - Chapter 3 Luuk Herssen Segue: All That Sunlight Touches (Female Rover) | QuestWatcher | 517 | 2026-02-28 | <https://www.youtube.com/watch?v=YEc6KImL_7o> |
 | 1 h 15 min | Wuthering Waves Walkthrough Part 631 - Chapter 3 Segue: All That Sunlight Touches (No Commentary) | MG PlayX | 38 | 2026-03-03 | <https://www.youtube.com/watch?v=ZG5KDmnVDd8> |
 | 1 h 15 min | Wuthering Waves 3.1 Luuk Herrsen Quest *All That Sunlight Touches* Full Walkthrough / Female Rover | Zaynei | 11 | 2026-03-12 | <https://www.youtube.com/watch?v=xBO9NREK8MU> |
@@ -258,12 +262,12 @@ The Academy's Dark Side, where the students' reported disturbances live:
 rooms that are not rooms, reflections that answer back, and "Mother".
 <!--gen:stats act="Act IV"-->
 
-- **Estimated length:** 3 h 24 min
-- **Sampled range:** 3 h 15 min to 3 h 30 min for the middle half (full spread 2 h 49 min to 5 h 04 min) across 13 playthrough uploads (10 further candidates screened out)
+- **Estimated length:** 3 h 23 min
+- **Sampled range:** 3 h 14 min to 3 h 28 min for the middle half (full spread 2 h 49 min to 5 h 04 min) across 15 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -275,9 +279,11 @@ rooms that are not rooms, reflections that answer back, and "Mother".
 | 2 h 49 min | Wuthering Waves 3.2\|Chapter 3 Act 4 Gold Suspended in Shadows Quest (Part 2)#wutheringwaves #wuwa32 | Gachaxerse | 16 | 2026-04-18 | <https://www.youtube.com/watch?v=KATdD32yVLI> |
 | 3 h 07 min | Wuthering Waves \| GOLD SUSPENDED IN SHADOWS  \|  Lahai Roi : Chapter 3 ACT IV  FULL WALKTHROUGH | SsjBankai00 | 39 | 2026-04-09 | <https://www.youtube.com/watch?v=ZaMRs4PpBu0> |
 | 3 h 13 min | Wuthering Waves Walkthrough Part 649 - Chapter 3 Act 4: Gold Suspended in the Shadows (No Comment) | MG PlayX | 104 | 2026-03-23 | <https://www.youtube.com/watch?v=dnMzCX9xauE> |
+| 3 h 14 min | Sigrika Full Story \| Gold Suspended in Shadows Quest \| Wuwa 3.2 | SSRPuller | 23 | 2026-05-28 | <https://www.youtube.com/watch?v=2qPBmYBJHOg> |
 | 3 h 17 min | Wuthering Waves 3.2 - New Main Story Quest Full Gameplay \| Act 4: Gold Suspended in Shadows | Jonozoic | 125 | 2026-03-19 | <https://www.youtube.com/watch?v=OomlTkBKwAE> |
 | 3 h 21 min | Wuthering Waves 3.2 Main Story Quest - ACT 4 \| Full Gameplay | Sheerun | 11 | 2026-03-26 | <https://www.youtube.com/watch?v=kbsPfCT_rW0> |
 | 3 h 22 min | Gold Suspended in the Shadows FULL Walkthrough & Ending – Wuthering Waves 3.2 | NeoBuns | 3,720 | 2026-03-20 | <https://www.youtube.com/watch?v=-xm2ZIepxxA> |
+| 3 h 23 min | Wuthering Waves 3.2 FULL STORY! Gold Suspended in Shadows [4K RTX 5090] | RTXMonkey | 5,847 | 2026-03-20 | <https://www.youtube.com/watch?v=YYAu6UUs3kc> |
 | 3 h 24 min | Wuthering Waves  3.2 Lahai Roi Act 4 - Sigrika Story Quest Full Walkthrough | Tarnished Blade  | 289 | 2026-03-20 | <https://www.youtube.com/watch?v=iF-SxVjiwZQ> |
 | 3 h 25 min | Wuthering Wave v3.2: Lahai Roi Act 4 - Main Story Quest Walkthrough | NoEmotion | 54 | 2026-05-13 | <https://www.youtube.com/watch?v=WgXVWAu23oI> |
 | 3 h 25 min | Wuthering Waves 3.2 Complete Quest \| Gold Suspended in Shadows \| Lahai Roi Chapter 3 Act 4 | Gacha Chief | 242 | 2026-03-20 | <https://www.youtube.com/watch?v=xYL5ufysHzc> |
@@ -298,11 +304,11 @@ and Professor Sevi's projection has to be chased down before it fades.
 <!--gen:stats act="Segue - II"-->
 
 - **Estimated length:** 1 h 21 min
-- **Sampled range:** 1 h 12 min to 1 h 31 min for the middle half (full spread 52 min to 1 h 40 min) across 9 playthrough uploads (6 further candidates screened out)
-- **Confidence:** medium
+- **Sampled range:** 1 h 15 min to 1 h 26 min for the middle half (full spread 52 min to 1 h 40 min) across 12 playthrough uploads (3 further candidates screened out)
+- **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -313,9 +319,12 @@ and Professor Sevi's projection has to be chased down before it fades.
 | --- | --- | --- | --- | --- | --- |
 | 52 min | Wuthering Waves 3.2 - Segue Main Story Quest Full Walkthrough \| Rabbit Reflected in Shades | Elcryss | 56 | 2026-04-17 | <https://www.youtube.com/watch?v=8BXzXDuV474> |
 | 1 h 07 min |     Rabbit Reflected in Shades Quest – Wuthering Waves Full Walkthrough (No Commentary) | Twinsm0m | 49 | 2026-06-22 | <https://www.youtube.com/watch?v=SqZjZQsuMcI> |
+| 1 h 15 min | RABBIT REFLECTED IN SHADES - Version 3.2 Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 56 | 2026-05-02 | <https://www.youtube.com/watch?v=kUNmflc3je0> |
 | 1 h 18 min | Wuthering Waves - Chapter 3 Segue 2: Rabbit Reflected in Shades \| No Commentary | SamuRRai_Gamer | 8 | 2026-07-19 | <https://www.youtube.com/watch?v=zZpoaT0RguM> |
 | 1 h 19 min | Rabbit Reflected in Shades Full Quest \| Wuwa 3.2 Segue | SSRPuller | 25 | 2026-05-29 | <https://www.youtube.com/watch?v=ln4iVN9geWM> |
 | 1 h 21 min | Wuthering Waves [Main Story] [Ver 3.2] - Rabbit Reflected in Shades Walkthrough [No Commentary] | Fresh and Crispy Games | 5 | 2026-08-07 | <https://www.youtube.com/watch?v=K-bza3U_aAg> |
+| 1 h 21 min | Rabbit Reflected in Shades - Lucilla/Hiyuki Segue Full Story Quest - Wuthering Waves 3.2 | NeoBuns | 919 | 2026-04-21 | <https://www.youtube.com/watch?v=e4VA32sBlbo> |
+| 1 h 21 min | [JP VA] Rabbit Reflected in Shades FULL Story Quest [ Wuthering Waves 3.2 ] No Commentary | Vejah | 45 | 2026-04-10 | <https://www.youtube.com/watch?v=b5zK8T1uV_o> |
 | 1 h 22 min | Wuthering Waves Walkthrough Part 672 - Chapter 3 Segue: Rabbit Reflected in Shades (No Commentary) | MG PlayX | 32 | 2026-05-06 | <https://www.youtube.com/watch?v=6ky3vKGx7mA> |
 | 1 h 28 min | Wuthering Waves 3.2 Story - Chapter 3 Lucilla Segue Story: Rabbit Reflected in Shades (Female Rover) | QuestWatcher | 444 | 2026-04-09 | <https://www.youtube.com/watch?v=aER3ey0LR3g> |
 | 1 h 34 min | Main Quest - Rabbit Reflected in Shades - Wuthering Waves #46 | CHTS | 27 | 2026-04-13 | <https://www.youtube.com/watch?v=pgpjs5L7-zI> |
@@ -338,7 +347,7 @@ The shortest entry in the questline.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - III"-->
@@ -364,12 +373,12 @@ which means going back to Honami to purge the Left Behind first.
 <!--gen:stats act="Segue - IV"-->
 
 - **Estimated length:** 43 min
-- **Sampled range:** 38 min to 44 min for the middle half (full spread 32 min to 55 min) across 11 playthrough uploads (23 further candidates screened out)
+- **Sampled range:** 38 min to 47 min for the middle half (full spread 32 min to 55 min) across 12 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
 - **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 11 uploads
+- **Measured from the uploader's chapter markers:** 1 of 12 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - IV"-->
@@ -388,6 +397,7 @@ which means going back to Honami to purge the Left Behind first.
 | 44 min | "WISHES IN THE BELL" Wuthering Waves Full Quest | Harsh Nagar | 5 | 2026-05-06 | <https://www.youtube.com/watch?v=QZ36MaRBpto> |
 | 44 min | Wuthering Waves \| Chapter III Segue: Wishes in the Bell | Esper | 30 | 2026-05-20 | <https://www.youtube.com/watch?v=Dpp78D1JMiQ> |
 | 48 min | Wishes in Bell (Main Quest) \| Wuthering Waves | Rentarou Kashima | 18 | 2026-04-30 | <https://www.youtube.com/watch?v=ZaL6-_6M7Bo> |
+| 54 min | Wuthering Waves - Wishes in the Bell - Complete Story quest | CorporalOdin2 | 6 | 2026-05-17 | <https://www.youtube.com/watch?v=WhqAI81gPcs> |
 | 55 min | Wuthering Waves 3.3 Lahai-Roi Chapter 3 Act 5 + Segue \| Female Rover \| Eng Dub (Full Playthrough) | Fantasuki | 1,899 | 2026-05-03 | <https://www.youtube.com/watch?v=T3sMHYUIryc> |
 
 </details>
@@ -407,7 +417,7 @@ and taking the Exostrider up.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 23 uploads
 <!--/gen-->
 
@@ -458,7 +468,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - V"-->
@@ -495,12 +505,12 @@ Denia wakes from a dream she should not have had,
 and the follow-up runs from the infirmary to the station two days later.
 <!--gen:stats act="Segue - VI"-->
 
-- **Estimated length:** 1 h 59 min
-- **Sampled range:** 1 h 49 min to 2 h 06 min for the middle half (full spread 1 h 34 min to 2 h 55 min) across 13 playthrough uploads (8 further candidates screened out)
+- **Estimated length:** 2 h 00 min
+- **Sampled range:** 1 h 50 min to 2 h 08 min for the middle half (full spread 1 h 34 min to 2 h 55 min) across 16 playthrough uploads (5 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VI"-->
@@ -512,6 +522,7 @@ and the follow-up runs from the infirmary to the station two days later.
 | 1 h 34 min | Wuthering Waves 3.3 Denia – Beneath a Melting Night Sky Full Walkthrough | XPPathway | 158 | 2026-05-22 | <https://www.youtube.com/watch?v=15BoUlqR_z4> |
 | 1 h 39 min | Wuthering Waves - Story Quest Chapter III Segue: Beneath a Melting Night Sky walkthrough  | heriawsity | 193 | 2026-05-26 | <https://www.youtube.com/watch?v=wG-k9-DuZMY> |
 | 1 h 48 min | Wuthering Waves - 4K - Beneath The Melting Night Sky Story Quest | DRC Gamer | 25 | 2026-06-11 | <https://www.youtube.com/watch?v=voNgvnPsSIY> |
+| 1 h 50 min | Denia Full Story Quest - Beneath a Melting Night Sky \| Wuthering Waves 3.3 | NeoBuns | 351 | 2026-05-22 | <https://www.youtube.com/watch?v=7HQPyTUCt2M> |
 | 1 h 50 min | Denia Full Segue Story Quest - Beneath a Melting Night Sky \| Wuthering Waves 3.3 | Jonozoic | 228 | 2026-05-21 | <https://www.youtube.com/watch?v=z02R4OrhfsI> |
 | 1 h 58 min | Wuthering Waves 3.3 Chapter III Denia Segue: Beneath a Melting Night Sky Full Quest Walkthrough | Blaze Sensei | 216 | 2026-05-21 | <https://www.youtube.com/watch?v=qROSSkV24Dc> |
 | 1 h 58 min | [Wuthering Waves - 3.3] Beneath a Melting Night Sky Ending - Story Walkthrough (No Commentary) | Kasu | 43 | 2026-05-23 | <https://www.youtube.com/watch?v=kmWhJmRbsH8> |
@@ -519,7 +530,9 @@ and the follow-up runs from the infirmary to the station two days later.
 | 2 h 02 min | Wuthering Waves 3.3 - Main Story Quest: "Beneath a Melting Night Sky" | BSS Gaming | 69 | 2026-06-09 | <https://www.youtube.com/watch?v=wscnPX3MJmQ> |
 | 2 h 03 min | Denia Segue Story Quest (Full Quest) Beneath a Melting Night Sky \| Wuthering Waves 3.3 | Streetwise Rhapsody | 57,973 | 2026-05-21 | <https://www.youtube.com/watch?v=0T5kZAdLe34> |
 | 2 h 03 min | Beneath a Melting Night Sky Full Quest \| Wuthering Waves 3.3 | jieun | 404 | 2026-05-24 | <https://www.youtube.com/watch?v=bXK0yfs_Axo> |
+| 2 h 04 min | BENEATH A MELTING NIGHT SKY - Version 3.3 Denia Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 71 | 2026-07-09 | <https://www.youtube.com/watch?v=uzckz0A1Uak> |
 | 2 h 10 min | Wuthering Waves Chapter 3 Segue: Beneath a Melting Night Sky | TheWayCafe Productions | 630 | 2026-05-23 | <https://www.youtube.com/watch?v=EN6j6pMpU48> |
+| 2 h 27 min | Wuthering Waves 3.3 — Beneath a Melting Night Sky \| Full Story Quest Walkthrough (No Commentary) | JJcool4541(Unchosen) | 12 | 2026-06-09 | <https://www.youtube.com/watch?v=0-r6vqisGs0> |
 | 2 h 40 min | Beneath a Melting Night Sky \|\| 3.3 Denia Segue Quest \|\| WUTHERING WAVES | Lin WuWa Archives | 56 | 2026-05-21 | <https://www.youtube.com/watch?v=kEH4ow1oxP4> |
 | 2 h 55 min | Fervid Plays Wuthering Waves Story Quest [Beneath a Melting Night Sky] | FervidTwo Gaming | 39 | 2026-08-17 | <https://www.youtube.com/watch?v=IXTnxuzn6FI> |
 
@@ -536,12 +549,12 @@ and the nightmares have guns.
 <!--gen:stats act="Side Story"-->
 
 - **Estimated length:** 2 h 51 min
-- **Sampled range:** 2 h 39 min to 3 h 07 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 13 playthrough uploads (17 further candidates screened out)
+- **Sampled range:** 2 h 40 min to 3 h 06 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 14 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
 - **Stability:** median -1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 13 uploads
+- **Measured from the uploader's chapter markers:** 1 of 14 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Side Story"-->
@@ -559,6 +572,7 @@ and the nightmares have guns.
 | 2 h 51 min | Wuthering Waves Walkthrough Part 721 - Chapter 3 Side Story: At Dream's Edge (No Commentary) | MG PlayX | 51 | 2026-07-03 | <https://www.youtube.com/watch?v=0rcPf8v0XXE> |
 | 2 h 52 min | Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge | Yoru Silent Playthroughs | 24 | 2026-06-08 | <https://www.youtube.com/watch?v=XFmvD5Mm3mE> |
 | 2 h 53 min | Lahai-Roi Chapter 3 : Side Story \| At Dream's Edge \| Wuwa 3.4 \| Wuwa x Cyberpunk Edgerunner's Collab | Senthu Gamer | 26 | 2026-06-08 | <https://www.youtube.com/watch?v=qtwpmIW1sgQ> |
+| 2 h 58 min | AT DREAM'S EDGE - Version 3.4 Cyberpunk Edgerunners Collab Full Story Quest \| Wuthering Waves 4k60 | vinheim | 10 | 2026-07-12 | <https://www.youtube.com/watch?v=oROzmlx3SjQ> |
 | 3 h 05 min | At Dream's Edge \| Episodic Quest (Full Gameplay) | Exzelis Gaming 🇲🇾 | 1,683 | 2026-06-12 | <https://www.youtube.com/watch?v=_JR-3dTaoVw> |
 | 3 h 09 min | At Dream's Edge Playthrough \| Wuthering Waves X Cyberpunk: Edgerunners Collab Main Quest | Mikmik-kun | 52 | 2026-06-09 | <https://www.youtube.com/watch?v=6oKc3byuyE4> |
 | 3 h 19 min | Wuthering Waves Gameplay \| Side Story Quest: At Dream's Edge (Cyberpunk: Edgerunners Collaboration) | Mysterious Hero | 16 | 2026-06-12 | <https://www.youtube.com/watch?v=2iXPQ_61KtQ> |
@@ -577,11 +591,11 @@ look like it is fine.
 <!--gen:stats act="Segue - VII"-->
 
 - **Estimated length:** 2 h 04 min
-- **Sampled range:** 1 h 54 min to 2 h 08 min for the middle half (full spread 1 h 43 min to 2 h 11 min) across 11 playthrough uploads (19 further candidates screened out)
+- **Sampled range:** 1 h 57 min to 2 h 07 min for the middle half (full spread 1 h 43 min to 2 h 11 min) across 14 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VII"-->
@@ -595,8 +609,11 @@ look like it is fine.
 | 1 h 54 min | Wuthering Waves - Story Quest Chapter III Segue “We Choose the Sky” walkthrough | Zoran | 18 | 2026-08-10 | <https://www.youtube.com/watch?v=bJcnnZIk2mI> |
 | 1 h 58 min | Wuthering Waves - 4K - We Choose the Sky Story Quest | DRC Gamer | 44 | 2026-08-09 | <https://www.youtube.com/watch?v=IoQpbRY9nYQ> |
 | 1 h 58 min | We choose the sky ( Lucilla full quest walkthrough) No commentary. | Gacha Archive | 30 | 2026-07-12 | <https://www.youtube.com/watch?v=rjkSFnQfr0o> |
+| 2 h 03 min | We Choose the Sky \| Lucilla Full Story Quest \| Wuthering Waves 3.4 | Nitrous Visioners | 98 | 2026-06-14 | <https://www.youtube.com/watch?v=wxOt3oE-0TU> |
 | 2 h 04 min | Wuthering Waves Version 3.4 - Lucilla Segue Story Quest: We Choose the Sky | Kuroakumoplaz | 19 | 2026-06-21 | <https://www.youtube.com/watch?v=Ai15t82-NGo> |
+| 2 h 04 min | WE CHOOSE THE SKY - Version 3.4 Lucilla Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 139 | 2026-07-12 | <https://www.youtube.com/watch?v=SxpJZ596jF8> |
 | 2 h 04 min | Lucilla's Story Quest "We Choose The Sky" "Version 3.4   | Miki Kei Vod | 37 | 2026-06-13 | <https://www.youtube.com/watch?v=e0HRApGZlOY> |
+| 2 h 05 min | Lucilla Full Story Quest - We Choose The Sky \| Wuthering Waves 3.4 | NeoBuns | 39 | 2026-06-14 | <https://www.youtube.com/watch?v=yWFFSUZ9KxQ> |
 | 2 h 07 min | Wuthering Waves Main Quest: Lahai-Roi Segue - We Choose the Sky | Drexyz | 78 | 2026-06-21 | <https://www.youtube.com/watch?v=0AaXm9pWiZU> |
 | 2 h 08 min | Wuthering Waves 3.4 Lucilla Story Quest Full Walkthrough (PC) \| We Choose The Sky | Kiruno | 24 | 2026-06-14 | <https://www.youtube.com/watch?v=Apl6uhsWIMo> |
 | 2 h 10 min | Wuthering Waves \| Chapter III Segue: We Choose the Sky | Esper | 4 | 2026-08-03 | <https://www.youtube.com/watch?v=HgJH61v1dN8> |

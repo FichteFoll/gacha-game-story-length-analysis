@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter I: Jinzhou Rising
 
-**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 38 min**
+**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 39 min**
 <!--/gen-->
 
 Jinzhou takes Rover in, and the city's quiet turns out to be borrowed.
@@ -23,10 +23,10 @@ to an island that is not on any map.
 | Act VI | Grand Warstorm | 1 h 34 min | 1 h 18 min - 1 h 45 min | 16 | medium |
 | Interlude | A New Companion | 25 min | 21 min - 34 min | 5 | low |
 | Act VII | Thaw of Eons | 2 h 53 min | 2 h 32 min - 3 h 05 min | 17 | high |
-| Act VIII | To the Shore's End | 2 h 10 min | 1 h 58 min - 2 h 45 min | 10 | medium |
+| Act VIII | To the Shore's End | 2 h 11 min | 2 h 00 min - 2 h 45 min | 11 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->11 h 38 min<!--/f-->**
+**Total: <!--f:total-->11 h 39 min<!--/f-->**
 
 ## Pacing
 
@@ -38,7 +38,7 @@ Then the version content arrives, and the scale changes:
 Act VII opens Mt. Firmament with <!--f:parts_Act_VII-->seven<!--/f--> quest parts
 and takes <!--f:len_Act_VII-->2 h 53 min<!--/f-->,
 and Act VIII crosses to the Black Shores with <!--f:parts_Act_VIII-->five<!--/f-->
-for <!--f:len_Act_VIII-->2 h 10 min<!--/f-->.
+for <!--f:len_Act_VIII-->2 h 11 min<!--/f-->.
 Those two are the longest entries in the chapter,
 and Act VII is the largest single thing in it.
 
@@ -58,7 +58,7 @@ by people who are far too interested in a stranger with no frequency.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -103,7 +103,7 @@ and a first look at what the border actually costs.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -146,7 +146,7 @@ and Scar, who would rather talk than fight until he does both.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -189,7 +189,7 @@ and Scar waiting at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** 11
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -235,7 +235,7 @@ into the first solid lead on the Black Shores.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -275,7 +275,7 @@ and putting down the Thundering Mephis at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act VI"-->
@@ -390,13 +390,13 @@ through the echoes of destruction and the legacy of the lasting night,
 to the Shorekeeper and what she has been keeping.
 <!--gen:stats act="Act VIII"-->
 
-- **Estimated length:** 2 h 10 min
-- **Sampled range:** 1 h 58 min to 2 h 45 min for the middle half (full spread 1 h 41 min to 3 h 07 min) across 10 playthrough uploads (11 further candidates screened out)
+- **Estimated length:** 2 h 11 min
+- **Sampled range:** 2 h 00 min to 2 h 45 min for the middle half (full spread 1 h 41 min to 3 h 13 min) across 11 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median +0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 10 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (5):** From the Echoes of Destruction; Hidden Between the Waves; Legacy of the Lasting Night; Advance toward the Future from Today; Beyond the Shore's End
 <!--/gen-->
 
@@ -416,6 +416,7 @@ to the Shorekeeper and what she has been keeping.
 | 2 h 45 min | Wuthering Waves Main Quest : Chapter 1 Act 8 To The Shore's End - Full Gameplay Walkthrough | RTXMonkey | 572 | 2025-02-02 | <https://www.youtube.com/watch?v=_gCVHkxuHSk> |
 | 2 h 45 min | Wuthering Waves 1.3 Story - Chapter 1 Act 8: To the Shore's End (Male Rover) | QuestWatcher | 30 | 2026-03-18 | <https://www.youtube.com/watch?v=53u24skwBiA> |
 | 3 h 07 min | Wuthering Waves 3.3 Walkthrough PART 15 - To the Shore's End (PS5 1440p) | Gaming Reviving | 56 | 2026-05-24 | <https://www.youtube.com/watch?v=ears8UMNeMk> |
+| 3 h 13 min | Wuthering Waves 1.3 Full Story Walkthrough \| To The Shore’s End \| Black Shores \| 4K 60FPS \| GAMFO | GAMFO | 81 | 2025-12-15 | <https://www.youtube.com/watch?v=Hm-w7lGKgf8> |
 
 </details>
 <!--/gen-->

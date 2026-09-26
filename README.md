@@ -36,7 +36,7 @@ and the caveats that apply to that game in particular.
 The vocabulary differs by game:
 Arknights: Endfield numbers processes, Genshin Impact numbers acts,
 Girls' Frontline 2: Exilium numbers chapters across the whole game,
-five of them with a decimal, and groups them into nothing at all,
+six of them with a decimal, and groups them into nothing at all,
 Goddess of Victory: NIKKE numbers campaign chapters across the whole game
 and groups them into nothing at all,
 Honkai Impact 3rd numbers chapters across the whole game
@@ -127,6 +127,11 @@ From there, confidence follows how wide the middle half is,
 and an act whose median moved against an earlier, independent set of queries
 is *low* whatever its sample size says:
 a figure that moves when the queries change was never settled.
+An act resting on too few uploads to be compared is still published,
+but takes no part in the longest and shortest lists
+or in any superlative the report states,
+because a single partial upload would otherwise decide them;
+each report's method section says where that floor lies.
 
 ## What these numbers do and do not mean
 

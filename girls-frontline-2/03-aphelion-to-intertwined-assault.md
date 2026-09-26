@@ -54,7 +54,7 @@ Klukai spends the chapter paying Dmitry for the use of his radio.
 - **Sampled range:** 2 h 07 min to 3 h 32 min for the middle half (full spread 1 h 40 min to 4 h 03 min) across 15 playthrough uploads (7 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 15 uploads
 - **Quest parts (14):** 9-1: Twilight (16 min); 9-2: Eye of th'e Storm (13 min); 9-3: Secondary Mirror (12 min); 9-4: Out of Focus (3 min); 9-5: Roche Limit (14 min); SL-9-1: Entangled State (17 min); 9-6: Dual-Beam Observation (12 min); SL-9-2: Dormant Black Hole (6 min); 9-7: Lattice Distortion (12 min); SL-9-3: Delayed Signal (29 min); 9-8: Tidal Effect (6 min); 9-9: Buried Consciousness (14 min); 9-10: Fusion (35 min); SL-9-4: Approaching Light (28 min)
 <!--/gen-->
@@ -136,7 +136,7 @@ that the Girard Group would rather nobody watched.
 - **Sampled range:** 3 h 51 min to 5 h 30 min for the middle half (full spread 3 h 43 min to 6 h 31 min) across 10 playthrough uploads (7 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (24):** LS-1-1: Hearty Welcome; LA-1-1: Unfamiliar Familiarity; LA-1-2: Deliberate Oversight; LS-1-2: Covert Investigation; LA-1-3: Roiling Undertow; LA-1-4: Extreme Decryption; LS-1-3: Publicity Stunt; LA-1-5: Routine Traffic Stop (6 min); LA-1-6: Danger Sign I (2 min); LA-1-7: Danger Signal II; LA-1-8: Bizarre Investigation (7 min); LS-1-4: Projection Conflict (17 min); LA-1-9: Invisible Tactics (3 min); LS-1-5: Hidden Clues (16 min); LA-1-10: DEFY I (17 min); LA-1-11: DEFY II; LA-1-12: Third-Generation Doll (12 min); LS-1-6: Yearn for freedom (15 min); LA-1-13: Destruction Schedule (7 min); LA-1-14: Breaking Out (2 min); LA-1-15: Mortal Choice (4 min); LA-1-16: Only Chance (11 min); LA-1-17: Sheltering Wings (19 min); LS-1-7: Strife and Confusion (8 min)
 <!--/gen-->
@@ -174,7 +174,7 @@ with the troops recalled from the irradiated zones, vaccinated on paper.
 - **Sampled range:** 3 h 54 min to 5 h 43 min for the middle half (full spread 3 h 46 min to 6 h 34 min) across 10 playthrough uploads (9 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (24):** BA-1-1: Gray Area; BS-1-1: Cashflow; BA-1-2: Multiple Pile-up I; BA-1-3: Multiple Pile-up II; BA-1-4: Clues Resurgent; BS-1-2: Second Spread; BA-1-5: Load Limit; BA-1-6: Vaccine; BS-1-3: Ripples of Truth; BA-1-7: Manufacturing Plant; BA-1-8: Echo Tracing; BA-1-9: Login Privileges; BA-1-10: Nonexistent Date; BA-1-11: Ruined File; BS-1-4: Pawn; BA-1-12: Overloaded Field; BS-1-5: Dead-End; BA-1-13: Breakout Security; BS-1-6: Bridge of Hope; BA-1-14: Choice I; BA-1-15: Choice II; BS-1-7: Special Guest; BA-1-16: Ongoing Storm; BS-1-8: To An Era Of Peace
 <!--/gen-->

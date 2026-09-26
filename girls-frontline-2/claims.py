@@ -111,13 +111,13 @@ CLAIMS = [
                 "every entry here is over four hours"),
     is_extreme("v5", "Chapter 19", "max",
                "Chapter 19 is the longest of the three"),
-    is_extreme("v5", "Chapter 20", "min",
-               "Even Chapter 20, the volume's floor, sits above almost "
+    is_extreme("v5", "Chapter 19.5", "min",
+               "Even Chapter 19.5, the volume's floor, sits above almost "
                "everything in the first two volumes"),
     none_above("v1", 240,
-               "Even Chapter 20, the volume's floor, sits above almost "
+               "Even Chapter 19.5, the volume's floor, sits above almost "
                "everything in the first two volumes"),
-    median_between("v5", "Chapter 20", 240, 330,
+    median_between("v5", "Chapter 19.5", 240, 330,
                    "something close to the running time of an ordinary "
                    "chapter"),
 ]

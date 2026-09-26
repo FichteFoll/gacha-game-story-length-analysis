@@ -1,12 +1,13 @@
 <!--gen:heading-->
 # Volume 4: Shaper's Ripples to Steering By Light
 
-**Chapters:** 31 - 42 | **Game versions:** Shaper's Ripples - Steering By Light | **Entries:** 12 | **Estimated volume length: 45 h 44 min**
+**Chapters:** 31 - 42 | **Game versions:** Shaper's Ripples - Steering By Light | **Entries:** 12 | **Estimated volume length: 47 h 53 min**
 <!--/gen-->
 
-The current end of the story, and the thinnest evidence in the report.
+The late story up to the chapter before the newest one,
+and some of the thinnest evidence in the report.
 These <!--f:n_entries-->twelve<!--/f--> chapters are the longest the game has published -
-<!--f:n_above_3h-->nine<!--/f--> of them pass three hours -
+<!--f:n_above_3h-->ten<!--/f--> of them pass three hours -
 and they are also the ones almost nobody uploads whole:
 by this point a chapter is an evening's reading,
 and the channels that cover it publish it a stage or a stream at a time.
@@ -27,20 +28,21 @@ and the channels that cover it publish it a stage or a stream at a time.
 | Chapter 39 | Withering Crown | 3 h 06 min | 2 h 04 min - 3 h 48 min | 3 | low |
 | Chapter 40 | A Better Tomorrow | 5 h 19 min | 4 h 32 min - 6 h 08 min | 5 | low |
 | Chapter 41 | Homecoming Voyage | 5 h 34 min | 2 h 59 min - 7 h 29 min | 5 | low |
-| Chapter 42 | Steering By Light | 54 min | 54 min - 54 min | 1 | low |
+| Chapter 42 | Steering By Light | 3 h 03 min | 2 h 39 min - 3 h 12 min | 3 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->45 h 44 min<!--/f-->**
+**Total: <!--f:total-->47 h 53 min<!--/f-->**
 
 ## Pacing
 
 The chapters keep growing and the evidence keeps shrinking.
-<!--f:longest_label-->Chapter 38<!--/f--> is the longest entry in the report
-at <!--f:longest_len-->6 h 59 min<!--/f-->, and it rests on two uploads.
+Chapter 38 comes out at <!--f:len_Chapter_38-->6 h 59 min<!--/f-->,
+but it rests on two uploads,
+too few for it to be ranked against the rest of the report.
 Where a figure here looks out of line with its neighbours -
-Chapter 35 and Chapter 42 both come out under the hour and a half
+Chapter 35 comes out under the hour and a half
 between chapters of three and five -
-it is because the one upload of that chapter that survived screening
+it is because the one upload of it that survived screening
 was not the whole of it,
 and no second upload existed to trim it against.
 Read this volume as a set of lower bounds with wide error bars
@@ -113,7 +115,7 @@ the patch order and the upload titles both make it Chapter 33.
 - **Sampled range:** 4 h 40 min to 4 h 40 min across 1 playthrough uploads (80 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Wither to Shine
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 33"-->
@@ -164,13 +166,12 @@ The one upload of it that survived screening is far shorter
 than any chapter around it, and there is no second one to trim it against:
 read the figure as a fragment, not as the chapter.
 <!--gen:stats act="Chapter 35"-->
-The shortest entry in the questline.
 
 - **Estimated length:** 23 min
 - **Sampled range:** 23 min to 23 min across 1 playthrough uploads (90 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Through the Tide Home
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 35"-->
@@ -195,7 +196,7 @@ The second of the two chapters *Through the Tide Home* shipped.
 - **Sampled range:** 2 h 19 min to 5 h 36 min across 4 playthrough uploads (83 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Through the Tide Home
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 36"-->
@@ -223,7 +224,7 @@ Patch page only, with its number stated there.
 - **Sampled range:** 2 h 30 min to 4 h 07 min across 3 playthrough uploads (67 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Where Nightmares Dwell
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 37"-->
@@ -243,9 +244,8 @@ Patch page only, with its number stated there.
 ### Chapter 38 - [Sightline Breach](https://punishing-gray-raven.fandom.com/wiki/Sightline_Breach)
 <!--/gen-->
 
-The longest entry in the report, on two uploads.
+Measured from two uploads, too few to rank it against the rest of the report.
 <!--gen:stats act="Chapter 38"-->
-The single longest chapter in the game.
 
 - **Estimated length:** 6 h 59 min
 - **Sampled range:** 5 h 28 min to 8 h 30 min across 2 playthrough uploads (58 further candidates screened out)
@@ -299,6 +299,7 @@ Released in phases across its patch, which is how its uploads are titled.
 
 One of the deeper pools in this volume, which is still a thin one.
 <!--gen:stats act="Chapter 40"-->
+One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 19 min
 - **Sampled range:** 4 h 32 min to 6 h 08 min across 5 playthrough uploads (99 further candidates screened out)
@@ -357,13 +358,16 @@ One of the three longest chapters in the game.
 ### Chapter 42 - [Steering By Light](https://punishing-gray-raven.fandom.com/wiki/Steering_By_Light)
 <!--/gen-->
 
-The newest chapter in the game at the collection date.
-What survived screening is one instalment upload,
+The last chapter of this volume;
+the chapter after it opens [Volume 5](05-anchored-in-faith.md).
+What survived screening is three uploads that each cover part of it,
+the hidden story, one channel's fourth instalment
+and an unlabelled share of the chapter,
 so the figure is a floor rather than an estimate.
 <!--gen:stats act="Chapter 42"-->
 
-- **Estimated length:** 54 min
-- **Sampled range:** 54 min to 54 min across 1 playthrough uploads (79 further candidates screened out)
+- **Estimated length:** 3 h 03 min
+- **Sampled range:** 2 h 39 min to 3 h 12 min across 3 playthrough uploads (113 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Steering By Light
 <!--/gen-->
@@ -374,7 +378,9 @@ so the figure is a floor rather than an estimate.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 54 min | NEW EVENTS - Chapter 42 : Steering By Light  \|\| Punishing : Gray Raven [Global]  | Jaysan009 | ~43 | n/a | <https://www.youtube.com/watch?v=K2oyhtrj_zM> |
+| 2 h 39 min | Punishing: Gray Raven \| Steering By Light (Hidden Story) | Luke Aurora PNGTuber | 21 | 2026-09-09 | <https://www.youtube.com/watch?v=6lQCGN6zPcs> |
+| 3 h 03 min | ARIUS ERHORN THINKS HIMSELF A "GOD" - Steering by Light \|\| PGR Part 4 | Kiyan the Wanderer | ~39 | n/a | <https://www.youtube.com/watch?v=WPn4xLWQ774> |
+| 3 h 12 min | Steering By Light  \|\| Punishing : Gray Raven [Global] | Jaysan009 | ~51 | n/a | <https://www.youtube.com/watch?v=LB4EeSs9Q7E> |
 
 </details>
 <!--/gen-->

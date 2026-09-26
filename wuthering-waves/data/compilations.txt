@@ -1,7 +1,8 @@
 full (huanglong|rinascita|lahai-?roi|roya frostlands|mengzhou|jinzhou)( main)?( quest| story)
-(full|entire|complete|whole) (main )?(story|questline|quest ?line)
+(full|entire|complete|whole) (main )?(questline|quest ?line)|(entire|whole) (main )?story
 all (main )?quests
 (?:act|prologue|interlude) ?[ivx\d]* ?(?:&|and|\+) ?segue
 segue ?(?:&|and|\+) ?(?:act|prologue|interlude)
 prologue ?(?:&|and|\+) ?act
 act [ivx\d]+ ?(?:&|and|\+) ?prologue
+silent as a falling leaf

@@ -8140,12 +8140,13 @@
   "slug": "s3_Chapter_2",
   "candidates": [
    {
-    "seconds": 16212,
+    "seconds": 16211,
     "title": "Zenless Zone Zero | Season 3: Chapter 2 | The Long Goodbye | Full Playthrough/Walkthrough",
     "uploader": "ShadowKlone",
     "url": "https://www.youtube.com/watch?v=jw3iExM8R_w",
-    "views": "19",
-    "rejected": []
+    "views": 104,
+    "rejected": [],
+    "upload_date": "20260815"
    },
    {
     "seconds": 15017,
@@ -8176,12 +8177,13 @@
     ]
    },
    {
-    "seconds": 15567,
+    "seconds": 15566,
     "title": "Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=mKJG8eqFRbg",
-    "views": "52146",
-    "rejected": []
+    "views": 67510,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 8120,
@@ -8208,8 +8210,9 @@
     "title": "ZZZ 3.1 Full Story Quest: S3 Chapter 2 Walkthrough [JP Voice]",
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=y8vJwkzd8Hw",
-    "views": "760",
-    "rejected": []
+    "views": 1258,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 19257,
@@ -8233,14 +8236,15 @@
     "upload_date": "20260805"
    },
    {
-    "seconds": 2518,
+    "seconds": 2517,
     "title": "Zenless Zone Zero Walkthrough Part 693 - Season 3 Chapter 2: Into the Abyss With You",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=pehRKbqvwrQ",
-    "views": "24",
+    "views": 39,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260811"
    },
    {
     "seconds": 11013,
@@ -8259,8 +8263,9 @@
     "title": "Zenless Zone Zero Version 3.1: The Long Goodbye Full Quest Walkthrough | 4K No Commentary",
     "uploader": "GamersPrey",
     "url": "https://www.youtube.com/watch?v=rU19fyJeYnQ",
-    "views": "696",
-    "rejected": []
+    "views": 744,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
     "seconds": 16324,
@@ -8282,28 +8287,31 @@
     ]
    },
    {
-    "seconds": 16975,
+    "seconds": 16974,
     "title": "Zenless Zone Zero Season 3  Main Quest - The Long Goodbye Full Walktrough",
     "uploader": "Just_MieWalktrough",
     "url": "https://www.youtube.com/watch?v=kYl3CNlRu_E",
-    "views": "23",
-    "rejected": []
+    "views": 271,
+    "rejected": [],
+    "upload_date": "20260814"
    },
    {
-    "seconds": 14851,
+    "seconds": 14850,
     "title": "Zenless Zone Zero 3.1 Main Story \"The Long Goodbye\" Full Gameplay",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=sgRNvpnK6tU",
-    "views": "82",
-    "rejected": []
+    "views": 105,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
-    "seconds": 16854,
+    "seconds": 16853,
     "title": "Zenless Zone Zero (PC) 3.1 | The Long Goodbye | FULL STORY - WALKTHROUGH",
     "uploader": "Cipher",
     "url": "https://www.youtube.com/watch?v=jUH91rDarAg",
-    "views": "34",
-    "rejected": []
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20260808"
    },
    {
     "seconds": 15990,
@@ -8315,12 +8323,23 @@
     "upload_date": "20260729"
    },
    {
-    "seconds": 15285,
+    "seconds": 15284,
     "title": "Zenless Zone Zero 3.1 - Full Main Story Quest Walkthrough (Belle POV) The Long Goodbye",
     "uploader": "Ryo",
     "url": "https://www.youtube.com/watch?v=xwlQin4VEHE",
-    "views": "403",
-    "rejected": []
+    "views": 619,
+    "rejected": [],
+    "upload_date": "20260729",
+    "runtime": 15284,
+    "measured": "chapter-markers",
+    "parts": {
+     "Visitor from Beyond the Curtain": 3516,
+     "En-Nah Gang of the Retroflux Zone": 1541,
+     "Learning to Work With a Dance Partner": 2339,
+     "Beneath Wings Heavy and Soaked": 3158,
+     "Memories of the Forgotten": 2357,
+     "Into the Abyss With You": 2373
+    }
    },
    {
     "seconds": 17077,
@@ -8336,16 +8355,18 @@
     "title": "The Long Goodbye Full Quest | Zenless Zone Zero 3.1",
     "uploader": "jieun",
     "url": "https://www.youtube.com/watch?v=bZ9yLkJkgUc",
-    "views": "31",
-    "rejected": []
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
     "seconds": 17133,
     "title": "Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye",
     "uploader": "Life is Wakaranai",
     "url": "https://www.youtube.com/watch?v=qvgndQ5dPGM",
-    "views": "40",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
     "seconds": 16789,
@@ -8381,8 +8402,9 @@
     "title": "ZZZ Main Quest Season 3 Chapter 2 - The Long Goodbye Full Gameplay | Zenless Zone Zero 3.1",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=k6HetOtgNPI",
-    "views": "312",
-    "rejected": []
+    "views": 1384,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 63,
@@ -8434,22 +8456,83 @@
     ]
    },
    {
-    "seconds": 14830,
+    "seconds": 14829,
     "title": "Main Story Season 3 Chapter 2 \"The Long Goodbye\" Full Quest [Zenless Zone Zero 3.1]",
     "uploader": "Andromeda Impact ",
     "url": "https://www.youtube.com/watch?v=nLxWbds09Rk",
-    "views": "17",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
     "seconds": 503,
     "title": "Phaethon & Remielle Disguise as Mr. Roar - Season 3 Chapter 2 | Zenless Zone Zero 3.1",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=mPdZZfMnIbo",
-    "views": "9",
+    "views": 11,
     "rejected": [
      "short-outlier"
+    ],
+    "upload_date": "20260731"
+   },
+   {
+    "seconds": 15126,
+    "title": "Zenless Zone Zero 3.1 Story - \"The Long Goodbye\" Full Playthrough",
+    "uploader": "ItsDaveTV Plays and ItsDaveTV",
+    "url": "https://www.youtube.com/watch?v=FTC6hbn5CLg",
+    "views": 101,
+    "rejected": [],
+    "upload_date": "20260729"
+   },
+   {
+    "seconds": 16312,
+    "title": "Zenless Zone Zero (PC) | Story Mode - Walkthrough Gameplay Part #87 | No Commentary (1080p 60FPS)",
+    "uploader": "Xenonz",
+    "url": "https://www.youtube.com/watch?v=y9GVttbu4nc",
+    "views": 159,
+    "rejected": [],
+    "upload_date": "20260906",
+    "runtime": 19691,
+    "measured": "chapter-markers",
+    "parts": {
+     "Visitor from Beyond the Curtain": 3839,
+     "En-Nah Gang of the Retroflux Zone": 2510,
+     "Learning to Work With a Dance Partner": 1836,
+     "Beneath Wings Heavy and Soaked": 3226,
+     "Memories of the Forgotten": 2425,
+     "Into the Abyss With You": 1860
+    }
+   },
+   {
+    "seconds": 15362,
+    "title": "Zenless Zone Zero 3.1 | The Long Goodbye - Main Story Quest (No Commentary)",
+    "uploader": "Evil Magic",
+    "url": "https://www.youtube.com/watch?v=_M-UPZMXiZg",
+    "views": 261,
+    "rejected": [],
+    "upload_date": "20260730"
+   },
+   {
+    "seconds": 15765,
+    "title": "\ud83d\udd34 LIVE - Zenless Zone Zero 3.1 Launch Stream | Full Story Quest (Wise POV)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=G7R9-YbZLk8",
+    "views": "9321",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
     ]
+   },
+   {
+    "seconds": 11469,
+    "title": "Zenless Zone Zero 3.2 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Vk991JFLznk",
+    "views": 23143,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260909"
    }
   ],
   "kept": [
@@ -8458,24 +8541,27 @@
     "title": "The Long Goodbye Full Quest | Zenless Zone Zero 3.1",
     "uploader": "jieun",
     "url": "https://www.youtube.com/watch?v=bZ9yLkJkgUc",
-    "views": "31",
-    "rejected": []
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
-    "seconds": 14830,
+    "seconds": 14829,
     "title": "Main Story Season 3 Chapter 2 \"The Long Goodbye\" Full Quest [Zenless Zone Zero 3.1]",
     "uploader": "Andromeda Impact ",
     "url": "https://www.youtube.com/watch?v=nLxWbds09Rk",
-    "views": "17",
-    "rejected": []
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
-    "seconds": 14851,
+    "seconds": 14850,
     "title": "Zenless Zone Zero 3.1 Main Story \"The Long Goodbye\" Full Gameplay",
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=sgRNvpnK6tU",
-    "views": "82",
-    "rejected": []
+    "views": 105,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 15017,
@@ -8485,6 +8571,15 @@
     "views": 12,
     "rejected": [],
     "upload_date": "20260801"
+   },
+   {
+    "seconds": 15126,
+    "title": "Zenless Zone Zero 3.1 Story - \"The Long Goodbye\" Full Playthrough",
+    "uploader": "ItsDaveTV Plays and ItsDaveTV",
+    "url": "https://www.youtube.com/watch?v=FTC6hbn5CLg",
+    "views": 101,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 15127,
@@ -8500,16 +8595,28 @@
     "title": "ZZZ Main Quest Season 3 Chapter 2 - The Long Goodbye Full Gameplay | Zenless Zone Zero 3.1",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=k6HetOtgNPI",
-    "views": "312",
-    "rejected": []
+    "views": 1384,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
-    "seconds": 15285,
+    "seconds": 15284,
     "title": "Zenless Zone Zero 3.1 - Full Main Story Quest Walkthrough (Belle POV) The Long Goodbye",
     "uploader": "Ryo",
     "url": "https://www.youtube.com/watch?v=xwlQin4VEHE",
-    "views": "403",
-    "rejected": []
+    "views": 619,
+    "rejected": [],
+    "upload_date": "20260729",
+    "runtime": 15284,
+    "measured": "chapter-markers",
+    "parts": {
+     "Visitor from Beyond the Curtain": 3516,
+     "En-Nah Gang of the Retroflux Zone": 1541,
+     "Learning to Work With a Dance Partner": 2339,
+     "Beneath Wings Heavy and Soaked": 3158,
+     "Memories of the Forgotten": 2357,
+     "Into the Abyss With You": 2373
+    }
    },
    {
     "seconds": 15317,
@@ -8521,12 +8628,22 @@
     "upload_date": "20260730"
    },
    {
-    "seconds": 15567,
+    "seconds": 15362,
+    "title": "Zenless Zone Zero 3.1 | The Long Goodbye - Main Story Quest (No Commentary)",
+    "uploader": "Evil Magic",
+    "url": "https://www.youtube.com/watch?v=_M-UPZMXiZg",
+    "views": 261,
+    "rejected": [],
+    "upload_date": "20260730"
+   },
+   {
+    "seconds": 15566,
     "title": "Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=mKJG8eqFRbg",
-    "views": "52146",
-    "rejected": []
+    "views": 67510,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 15990,
@@ -8556,12 +8673,32 @@
     "upload_date": "20260807"
    },
    {
-    "seconds": 16212,
+    "seconds": 16211,
     "title": "Zenless Zone Zero | Season 3: Chapter 2 | The Long Goodbye | Full Playthrough/Walkthrough",
     "uploader": "ShadowKlone",
     "url": "https://www.youtube.com/watch?v=jw3iExM8R_w",
-    "views": "19",
-    "rejected": []
+    "views": 104,
+    "rejected": [],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 16312,
+    "title": "Zenless Zone Zero (PC) | Story Mode - Walkthrough Gameplay Part #87 | No Commentary (1080p 60FPS)",
+    "uploader": "Xenonz",
+    "url": "https://www.youtube.com/watch?v=y9GVttbu4nc",
+    "views": 159,
+    "rejected": [],
+    "upload_date": "20260906",
+    "runtime": 19691,
+    "measured": "chapter-markers",
+    "parts": {
+     "Visitor from Beyond the Curtain": 3839,
+     "En-Nah Gang of the Retroflux Zone": 2510,
+     "Learning to Work With a Dance Partner": 1836,
+     "Beneath Wings Heavy and Soaked": 3226,
+     "Memories of the Forgotten": 2425,
+     "Into the Abyss With You": 1860
+    }
    },
    {
     "seconds": 16324,
@@ -8577,8 +8714,9 @@
     "title": "Zenless Zone Zero Version 3.1: The Long Goodbye Full Quest Walkthrough | 4K No Commentary",
     "uploader": "GamersPrey",
     "url": "https://www.youtube.com/watch?v=rU19fyJeYnQ",
-    "views": "696",
-    "rejected": []
+    "views": 744,
+    "rejected": [],
+    "upload_date": "20260730"
    },
    {
     "seconds": 16789,
@@ -8590,20 +8728,22 @@
     "upload_date": "20260729"
    },
    {
-    "seconds": 16854,
+    "seconds": 16853,
     "title": "Zenless Zone Zero (PC) 3.1 | The Long Goodbye | FULL STORY - WALKTHROUGH",
     "uploader": "Cipher",
     "url": "https://www.youtube.com/watch?v=jUH91rDarAg",
-    "views": "34",
-    "rejected": []
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20260808"
    },
    {
     "seconds": 16856,
     "title": "ZZZ 3.1 Full Story Quest: S3 Chapter 2 Walkthrough [JP Voice]",
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=y8vJwkzd8Hw",
-    "views": "760",
-    "rejected": []
+    "views": 1258,
+    "rejected": [],
+    "upload_date": "20260729"
    },
    {
     "seconds": 16898,
@@ -8615,12 +8755,13 @@
     "upload_date": "20260817"
    },
    {
-    "seconds": 16975,
+    "seconds": 16974,
     "title": "Zenless Zone Zero Season 3  Main Quest - The Long Goodbye Full Walktrough",
     "uploader": "Just_MieWalktrough",
     "url": "https://www.youtube.com/watch?v=kYl3CNlRu_E",
-    "views": "23",
-    "rejected": []
+    "views": 271,
+    "rejected": [],
+    "upload_date": "20260814"
    },
    {
     "seconds": 17077,
@@ -8636,21 +8777,573 @@
     "title": "Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye",
     "uploader": "Life is Wakaranai",
     "url": "https://www.youtube.com/watch?v=qvgndQ5dPGM",
-    "views": "40",
-    "rejected": []
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260730"
    }
   ],
   "stats": {
-   "n": 22,
-   "median": 269,
+   "n": 25,
+   "median": 268,
    "low": 230,
    "high": 286,
-   "q1": 253,
-   "q3": 281,
-   "trimmed_mean": 267,
-   "measured": 0,
+   "q1": 252,
+   "q3": 280,
+   "trimmed_mean": 266,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.004
+  }
+ },
+ {
+  "chapter_id": "s3",
+  "chapter_title": "Season 3",
+  "act_label": "Chapter 3",
+  "act_title": "Their Secret Histories",
+  "wiki_page": "Their Secret Histories",
+  "slug": "s3_Chapter_3",
+  "candidates": [
+   {
+    "seconds": 12684,
+    "title": "Zenless Zone Zero (PC) 3.2 | Their Secret Histories | FULL STORY -WALKTHROUGH",
+    "uploader": "Cipher",
+    "url": "https://www.youtube.com/watch?v=dC4uPpQfbp8",
+    "views": 79,
+    "rejected": [],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 13024,
+    "title": "Zenless Zone Zero Version 3.2: Their Secret Histories Full Quest Walkthrough | 4K No Commentary",
+    "uploader": "GamersPrey",
+    "url": "https://www.youtube.com/watch?v=p8cMJPvAwMg",
+    "views": 1125,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 11832,
+    "title": "FULL Season 3 - Chapter 3: \"Their Secret Histories\" | Zenless Zone Zero v3.2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=Yi3sPNbEhgM",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11776,
+    "title": "Zenless Zone Zero 3.2 | Full Story Walkthrough & Boss Fight (Their Secret Histories)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=OMVoTUeoLRc",
+    "views": 165,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11903,
+    "title": "Zenless Zone Zero 3.2 \u2014 Their Secret Histories (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=ERb9wDISm1k",
+    "views": 203,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11370,
+    "title": "Zenless Zone Zero 3.2 - Full Main Story Quest Walkthrough (Belle POV) Their Secret Histories",
+    "uploader": "Ryo",
+    "url": "https://www.youtube.com/watch?v=tIDIJy74PsY",
+    "views": 799,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11380,
+    "title": "Zenless Zone Zero 3.2 Story: Their Secret Histories [Full Cinematic Playthrough No Commentary]",
+    "uploader": "Azphel Kami",
+    "url": "https://www.youtube.com/watch?v=W7uS4ZclAfo",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 12816,
+    "title": "Zenless Zone Zero Version 3.2 Their Secret Histories Main Story FULL Walkthrough no commentary.",
+    "uploader": "AdamSmashed",
+    "url": "https://www.youtube.com/watch?v=IqR20yP9a_Q",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 11688,
+    "title": "Version 3.2 \"Their Secret Histories\" Main Story - Full Playthrough (Zenless Zone Zero 3.2)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=Vc7igLLf5W0",
+    "views": 6027,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11026,
+    "title": "The Complete ZZZ 3.2 Story Walkthrough (Their Secret Histories)",
+    "uploader": "Suit Wearing Thug",
+    "url": "https://www.youtube.com/watch?v=9JPSrQkU7-c",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11469,
+    "title": "Zenless Zone Zero 3.2 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Vk991JFLznk",
+    "views": 23143,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 779,
+    "title": "Main Story Season 3 - Chapter 3 \"Their Secret Histories\" Guide\u3010Zenless Zone Zero 3.2\u3011",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=oQeUx8i6vcI",
+    "views": "210",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 11215,
+    "title": "Their Secret histories - Season 3: Chapter 3 (Full Story) | Zenless Zone Zero 3.2",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=HbqPuYXAfwo",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 403,
+    "title": "ZENLESS ZONE ZERO PS5 {4K 60fps} | Season 3: Chapter 3 | Their Secret Histories Cutscenes",
+    "uploader": "JunChoco",
+    "url": "https://www.youtube.com/watch?v=Gm-__0irV1w",
+    "views": "50",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1631,
+    "title": "Zenless Zone Zero Walkthrough Part 713 - Season 3 Chapter 3: New Invitation (No Commentary)",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=SnRqUZpa9vM",
+    "views": 27,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 83,
+    "title": "\"Yes... these dialogues are actually in the game\" \ud83d\ude2d",
+    "uploader": "KKEN_ZO",
+    "url": "https://www.youtube.com/watch?v=ZxjmTusr7kQ",
+    "views": "897904",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11510,
+    "title": "Zenless Zone Zero Version 3.2 Main Story Quest (Full Playthrough) Their Secret Histories",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=NPIiRDVfUZw",
+    "views": 57090,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 2380,
+    "title": "Zenless Zone Zero Version 3.2 Ending and Final Boss Fight | 4K No Commentary",
+    "uploader": "GamersPrey",
+    "url": "https://www.youtube.com/watch?v=Kv9kUT_AVsY",
+    "views": 1705,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 16851,
+    "title": "\ud83d\udd34 Zenless Zone Zero 3.0 Roscaelifer - New Main Story Quest Full Playthrough Livestream",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=VNBf4qP8DmM",
+    "views": "25913",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3130,
+    "title": "Zenless Zone Zero: Story: [ Their Secret Histories ] Part 3",
+    "uploader": "Sokdavid Gaming",
+    "url": "https://www.youtube.com/watch?v=9BXiyybE3eI",
+    "views": 0,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260913"
+   },
+   {
+    "seconds": 4720,
+    "title": "Zenless Zone Zero: Story: [ Their Secret Histories ] Part 2",
+    "uploader": "Sokdavid Gaming",
+    "url": "https://www.youtube.com/watch?v=B-AvIK5Bvg0",
+    "views": 4,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260913"
+   },
+   {
+    "seconds": 112,
+    "title": "This is going viral right now..",
+    "uploader": "Asmongold Clips",
+    "url": "https://www.youtube.com/watch?v=ZC3-Gpc4eG4",
+    "views": 2943376,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251027"
+   },
+   {
+    "seconds": 12007,
+    "title": "This Version Was Something Else... | Zenless Zone Zero FULL 3.2 Story Quest \"Their Secret Histories\"",
+    "uploader": "DonnyVick",
+    "url": "https://www.youtube.com/watch?v=q0_LA75I23A",
+    "views": 8651,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 7629,
+    "title": "Zenless Zone Zero 3.2 Full Main Story Quest | Their Secret Histories | Full Story Gameplay",
+    "uploader": "ShekharVerse",
+    "url": "https://www.youtube.com/watch?v=5729B3ZMG9w",
+    "views": 81,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 14732,
+    "title": "Their Secret Histories, 3.2 Main Story Questline - Zenless Zone Zero 4K",
+    "uploader": "Grateful Gaming 4K",
+    "url": "https://www.youtube.com/watch?v=Uf-BFP-lUaE",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 14233,
+    "title": "The REVEALS in this chapter?! \u2727 Their Secret Histories \u2726 Zenless Zone Zero 3.2",
+    "uploader": "Eve_ningMusic",
+    "url": "https://www.youtube.com/watch?v=KREeV_v2v_4",
+    "views": 8723,
+    "rejected": [],
+    "upload_date": "20260918",
+    "runtime": 14233,
+    "measured": "chapter-markers",
+    "parts": {
+     "Ready to Roll": 1613,
+     "The Homeland of Porcelloy": 3228,
+     "Shrouded Reef Mystery": 2896,
+     "Messenger in the Mist": 2444,
+     "The Truth Buried Beneath the Ground": 2410,
+     "The Storm Has Yet to Settle": 1642
+    }
+   },
+   {
+    "seconds": 11328,
+    "title": "Zenles Zone Zero Ver 3.2 Main Story Quest Chapter 3 ''Their Secret Histories'' (Full Playthrough)",
+    "uploader": "one ",
+    "url": "https://www.youtube.com/watch?v=AH0dTI2yGWw",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 256,
+    "title": "Version 3.2 All Cutscenes Compilation In HD | Main Story Season 3 Chapter 3 | Zenless Zone Zero",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=MKxrGPyikTg",
+    "views": "2948",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 714,
+    "title": "Kusarikku Full Boss Battle - Main Quest Season 3 Chapter 3 | Zenless Zone Zero 3.2",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=1e6Ldh1YKo4",
+    "views": 17,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 13743,
+    "title": "ZZZ 3.2 Full Story Quest: S3 Chapter 3 Walkthrough [JP Voice]",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=3jp6O4G7EHQ",
+    "views": 659,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 8330,
+    "title": "LIVE ZZZ 3.2 Story Quest Season 3 Chapter 3: Their Secret Histories - Zenless Zone Zero Indonesia",
+    "uploader": "Lunpachi",
+    "url": "https://www.youtube.com/watch?v=i7neQYY8vXs",
+    "views": "78",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16436,
+    "title": "Zenless Zone Zero 3.0 Roscaelifer - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=WCmJPEIcQXU",
+    "views": 50143,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260617"
+   },
+   {
+    "seconds": 76,
+    "title": "Carinus kidnaps Roxy - Zenless Zone Zero 3.2",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=wkH4A6C_0xY",
+    "views": 8509,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 147,
+    "title": "Roxy gets GRABBED and Kidnapped by Carinus (Zenless Zone Zero 3.2)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=g1taFRZmdf8",
+    "views": 18248,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 200,
+    "title": "Nicole suddenly shows up and BUSTED Billy in front of Claret... (Zenless Zone Zero 3.2)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=j6NonY1ANgs",
+    "views": 98067,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260909"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 7629,
+    "title": "Zenless Zone Zero 3.2 Full Main Story Quest | Their Secret Histories | Full Story Gameplay",
+    "uploader": "ShekharVerse",
+    "url": "https://www.youtube.com/watch?v=5729B3ZMG9w",
+    "views": 81,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11026,
+    "title": "The Complete ZZZ 3.2 Story Walkthrough (Their Secret Histories)",
+    "uploader": "Suit Wearing Thug",
+    "url": "https://www.youtube.com/watch?v=9JPSrQkU7-c",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11215,
+    "title": "Their Secret histories - Season 3: Chapter 3 (Full Story) | Zenless Zone Zero 3.2",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=HbqPuYXAfwo",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11328,
+    "title": "Zenles Zone Zero Ver 3.2 Main Story Quest Chapter 3 ''Their Secret Histories'' (Full Playthrough)",
+    "uploader": "one ",
+    "url": "https://www.youtube.com/watch?v=AH0dTI2yGWw",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 11370,
+    "title": "Zenless Zone Zero 3.2 - Full Main Story Quest Walkthrough (Belle POV) Their Secret Histories",
+    "uploader": "Ryo",
+    "url": "https://www.youtube.com/watch?v=tIDIJy74PsY",
+    "views": 799,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11380,
+    "title": "Zenless Zone Zero 3.2 Story: Their Secret Histories [Full Cinematic Playthrough No Commentary]",
+    "uploader": "Azphel Kami",
+    "url": "https://www.youtube.com/watch?v=W7uS4ZclAfo",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11510,
+    "title": "Zenless Zone Zero Version 3.2 Main Story Quest (Full Playthrough) Their Secret Histories",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=NPIiRDVfUZw",
+    "views": 57090,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11688,
+    "title": "Version 3.2 \"Their Secret Histories\" Main Story - Full Playthrough (Zenless Zone Zero 3.2)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=Vc7igLLf5W0",
+    "views": 6027,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11776,
+    "title": "Zenless Zone Zero 3.2 | Full Story Walkthrough & Boss Fight (Their Secret Histories)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=OMVoTUeoLRc",
+    "views": 165,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11832,
+    "title": "FULL Season 3 - Chapter 3: \"Their Secret Histories\" | Zenless Zone Zero v3.2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=Yi3sPNbEhgM",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 11903,
+    "title": "Zenless Zone Zero 3.2 \u2014 Their Secret Histories (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=ERb9wDISm1k",
+    "views": 203,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 12007,
+    "title": "This Version Was Something Else... | Zenless Zone Zero FULL 3.2 Story Quest \"Their Secret Histories\"",
+    "uploader": "DonnyVick",
+    "url": "https://www.youtube.com/watch?v=q0_LA75I23A",
+    "views": 8651,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 12684,
+    "title": "Zenless Zone Zero (PC) 3.2 | Their Secret Histories | FULL STORY -WALKTHROUGH",
+    "uploader": "Cipher",
+    "url": "https://www.youtube.com/watch?v=dC4uPpQfbp8",
+    "views": 79,
+    "rejected": [],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 12816,
+    "title": "Zenless Zone Zero Version 3.2 Their Secret Histories Main Story FULL Walkthrough no commentary.",
+    "uploader": "AdamSmashed",
+    "url": "https://www.youtube.com/watch?v=IqR20yP9a_Q",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 13024,
+    "title": "Zenless Zone Zero Version 3.2: Their Secret Histories Full Quest Walkthrough | 4K No Commentary",
+    "uploader": "GamersPrey",
+    "url": "https://www.youtube.com/watch?v=p8cMJPvAwMg",
+    "views": 1125,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 13743,
+    "title": "ZZZ 3.2 Full Story Quest: S3 Chapter 3 Walkthrough [JP Voice]",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=3jp6O4G7EHQ",
+    "views": 659,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 14233,
+    "title": "The REVEALS in this chapter?! \u2727 Their Secret Histories \u2726 Zenless Zone Zero 3.2",
+    "uploader": "Eve_ningMusic",
+    "url": "https://www.youtube.com/watch?v=KREeV_v2v_4",
+    "views": 8723,
+    "rejected": [],
+    "upload_date": "20260918",
+    "runtime": 14233,
+    "measured": "chapter-markers",
+    "parts": {
+     "Ready to Roll": 1613,
+     "The Homeland of Porcelloy": 3228,
+     "Shrouded Reef Mystery": 2896,
+     "Messenger in the Mist": 2444,
+     "The Truth Buried Beneath the Ground": 2410,
+     "The Storm Has Yet to Settle": 1642
+    }
+   },
+   {
+    "seconds": 14732,
+    "title": "Their Secret Histories, 3.2 Main Story Questline - Zenless Zone Zero 4K",
+    "uploader": "Grateful Gaming 4K",
+    "url": "https://www.youtube.com/watch?v=Uf-BFP-lUaE",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260911"
+   }
+  ],
+  "stats": {
+   "n": 18,
+   "median": 197,
+   "low": 127,
+   "high": 246,
+   "q1": 189,
+   "q3": 214,
+   "trimmed_mean": 202,
+   "measured": 1,
+   "parts": {},
+   "drift": null
   }
  }
 ]

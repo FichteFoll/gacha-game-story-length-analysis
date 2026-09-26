@@ -1,11 +1,13 @@
 <!--gen:heading-->
-# A Rose in a Curtsy
+# The Future We Embrace
 
-**Part:** Part 2 | **Game versions:** 8.5 - 8.9 | **Entries:** 5 | **Estimated arc length: 19 h 09 min**
+**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 25 h 12 min**
 <!--/gen-->
 
 The most recent stretch of the story, and still being added to.
-Faith, and the people who have none, and what a rose means to either.
+Faith, and the people who have none, and what a rose means to either,
+until Senadina's light is gone
+and Dreamseeker and Vita head back to Difeng to stop the Great Wipe.
 
 ## At a glance
 
@@ -16,18 +18,22 @@ Faith, and the people who have none, and what a rose means to either.
 | Chapter XI | A Mass for Atheists | 4 h 24 min | 3 h 42 min - 4 h 48 min | 14 | medium |
 | Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 5 | low |
 | Chapter XII | With You, Whom I Never Knew | 4 h 19 min | 3 h 37 min - 4 h 29 min | 17 | high |
-| Chapter XIII | A Rose in a Curtsy | 3 h 59 min | 3 h 47 min - 4 h 11 min | 15 | high |
+| Chapter XIII | A Rose in a Curtsy | 4 h 00 min | 3 h 43 min - 4 h 15 min | 14 | high |
+| Chapter XIV | The Future We Embrace | 6 h 02 min | 5 h 16 min - 6 h 44 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->19 h 09 min<!--/f-->**
+**Total: <!--f:total-->25 h 12 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->five<!--/f--> entries and <!--f:total-->19 h 09 min<!--/f-->,
-the newest arc in the report and the last one it covers.
+<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->25 h 12 min<!--/f-->,
+the newest arc in the report and the last one it covers,
+and all but level with *Dawn after the Remaining Old Wish* as the largest.
 Four of its entries sit within half an hour of each other
 and the EX chapter sits well below them at
 <!--f:len_Chapter_EX_4-->2 h 27 min<!--/f-->.
+Chapter XIV runs past all of them, and past every other entry in the game,
+at <!--f:len_Chapter_XIV-->6 h 02 min<!--/f-->.
 Coverage is good: these chapters shipped recently enough
 that whole-chapter uploads are the normal thing to publish,
 and most of the entries here carry a middle half.
@@ -70,7 +76,7 @@ Reunited under the light of faith, and the arc's opener.
 ### Chapter XI - [A Mass for Atheists](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_XI)
 <!--/gen-->
 
-A mass for atheists, and the largest entry in the arc.
+A mass for atheists, and the second largest entry in the arc.
 <!--gen:stats act="Chapter XI"-->
 
 - **Estimated length:** 4 h 24 min
@@ -145,7 +151,7 @@ With you, whom I never knew.
 - **Sampled range:** 3 h 37 min to 4 h 29 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 17 playthrough uploads (47 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XII"-->
@@ -179,15 +185,15 @@ With you, whom I never knew.
 ### Chapter XIII - [A Rose in a Curtsy](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_XIII)
 <!--/gen-->
 
-The chapter the arc is named after,
-and the last one published at the time of collection.
+The chapter the wiki named the arc after
+until Chapter XIV shipped.
 <!--gen:stats act="Chapter XIII"-->
 
-- **Estimated length:** 3 h 59 min
-- **Sampled range:** 3 h 47 min to 4 h 11 min for the middle half (full spread 3 h 18 min to 6 h 48 min) across 15 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 4 h 00 min
+- **Sampled range:** 3 h 43 min to 4 h 15 min for the middle half (full spread 3 h 18 min to 6 h 48 min) across 14 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.9
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XIII"-->
@@ -202,7 +208,6 @@ and the last one published at the time of collection.
 | 3 h 47 min | Full Story Chapter 13 "A Rose In A Curtsy" \| Honkai Impact 3 part 2 (Japanese Dub)  | RnQ | ~237 | n/a | <https://www.youtube.com/watch?v=h2c4YVzI7qI> |
 | 3 h 52 min | Honkai Impact 3rd Story Part 2, Chapter 13 : "A Rose in a Curtsy" | Arikachi Ch. ありかち_かとじ | 12 | 2026-07-10 | <https://www.youtube.com/watch?v=04a5DYo_X8Q> |
 | 3 h 52 min | Completing Part 2 Chapter 13 'A Rose in a Curtsy' \| Honkai Impact 3rd | JaydenHorn1406 | ~93 | n/a | <https://www.youtube.com/watch?v=RWnpYW6gkZc> |
-| 3 h 55 min | Rose in a Curtsy Part 2 (Part 2 Chapter 13) [Honkai Impact 3rd] with the Beefkins! | Rainbow Beefkins | 3 | 2026-08-09 | <https://www.youtube.com/watch?v=-CzkYR1NU-k> |
 | 3 h 59 min | Seele \| Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~2,621 | n/a | <https://www.youtube.com/watch?v=ZmJpfs5MSAc> |
 | 4 h 00 min | Honkai Impact 3rd Part 2: Chapter XIII: A Rose in a Curtsy | Satus Oblitan | ~2 | n/a | <https://www.youtube.com/watch?v=DGf1lDB63Ns> |
 | 4 h 03 min | (14)Honkai Impact 3rd \| Part 2 \| Main Story - Chapter  13 \| A Rose in a Curtsy | DodocoNotes | 9 | 2026-08-11 | <https://www.youtube.com/watch?v=3NW8X0B0lK4> |
@@ -215,9 +220,49 @@ and the last one published at the time of collection.
 </details>
 <!--/gen-->
 
+<!--gen:act-heading act="Chapter XIV"-->
+### Chapter XIV - [The Future We Embrace](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_XIV)
+<!--/gen-->
+
+Senadina's light gone, Litost in danger in Difeng,
+and Dreamseeker nailing the Anchor down against the light curtain,
+in the last chapter published at the time of collection.
+Its uploaders title it as the finale of Part 2,
+and the complete uploads that say only that, naming no chapter,
+are screened out for not naming the act.
+<!--gen:stats act="Chapter XIV"-->
+The single longest chapter in the game.
+
+- **Estimated length:** 6 h 02 min
+- **Sampled range:** 5 h 16 min to 6 h 44 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 9 playthrough uploads (53 further candidates screened out)
+- **Confidence:** medium
+- **Released in:** 9.0
+<!--/gen-->
+
+<!--gen:evidence act="Chapter XIV"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 4 h 48 min | [Honkai3rdEP228] บทสรุปของดาวอังคาร \| The Future We Embrace | Ascending P | ~142 | n/a | <https://www.youtube.com/watch?v=M-5E_zJrY8M> |
+| 5 h 13 min | Honkai Impact 3rd \| Main Story Part 2 Finale: The Future We Embrace | Nguyễn Ngọc Hoàng Long | ~20 | n/a | <https://www.youtube.com/watch?v=MqtMB_-XurY> |
+| 5 h 19 min | Completing Part 2 Chapter 14 'The Future We Embrace' \| Honkai Impact 3rd | JaydenHorn1406 | ~117 | n/a | <https://www.youtube.com/watch?v=nvi02eqi_XQ> |
+| 6 h 00 min | PART 2 GRAND FINALE!!! The Future We Embrace \| Honkai Impact 3rd [v9.0] | Nanoha61 | 6 | 2026-09-04 | <https://www.youtube.com/watch?v=hZZdM4KZSBw> |
+| 6 h 02 min | Honkai Impact 3rd Story Part 2 Finale Chapter : "The Future We Embrace" | Arikachi Ch. ありかち_かとじ | ~18 | n/a | <https://www.youtube.com/watch?v=LG9vBXa2DA0> |
+| 6 h 04 min | Honkai Impact 3rd Part 2 – Chapter 14 The Future We Embrace | Jirangu | 603 | 2026-09-04 | <https://www.youtube.com/watch?v=KV2Yd6K5KRo> |
+| 6 h 33 min | [Main Story Part 2 Chapter 14] The Future We Embrace \| Honkai Impact 3rd 9.0 | KNCPG | 181 | 2026-09-04 | <https://www.youtube.com/watch?v=aJjcycy6bWU> |
+| 6 h 56 min | [CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace | LoreBugCarv | ~3,444 | n/a | <https://www.youtube.com/watch?v=C9vHbT8pkoY> |
+| 7 h 47 min | Honkai Impact 3rd - 9.0 Story - The Future We Embrace | Kurib | 100 | 2026-09-07 | <https://www.youtube.com/watch?v=K9j4JtHKDlI> |
+
+</details>
+<!--/gen-->
+
 ## Sources
 
-- Story structure, arc grouping and chapter titles: [Story](https://honkaiimpact3.fandom.com/wiki/Story#A_Rose_in_a_Curtsy)
+- Story structure, arc grouping and chapter titles: [Story](https://honkaiimpact3.fandom.com/wiki/Story#The_Future_We_Embrace)
 and the individual chapter pages of the Honkai Impact 3 Wiki (Fandom).
+- Release version of Chapter XIV, whose page carries none:
+[Version 9.0](https://honkaiimpact3.fandom.com/wiki/Version_9.0).
 - Durations: the YouTube uploads listed under each chapter above.
 See [README.md](README.md) for the method and its limits.

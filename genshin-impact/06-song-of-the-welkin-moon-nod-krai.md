@@ -36,8 +36,9 @@ By far the largest chapter: <!--f:n_entries-->eleven<!--/f--> entries,
 and a running time of <!--f:total-->35 h 33 min<!--/f-->,
 comparable to Sumeru and Fontaine combined.
 Act I alone runs <!--f:len_Act_I-->4 h 43 min<!--/f-->.
-The later acts are also the most recent content sampled,
-so their evidence pools are the thinnest and their spreads the widest.
+Although the later acts are also the most recent content sampled,
+every act already rests on enough uploads
+to be published with its middle half.
 
 ## Acts
 
@@ -55,7 +56,7 @@ Ineffa's introduction.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** Flamelets; Smoldering; Searing
 <!--/gen-->
@@ -175,7 +176,7 @@ with Flins, Aino, Lauma, and Jahoda.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** Hidden in the Shadows; Special Operation; Everlasting As the Moon
 <!--/gen-->
@@ -304,7 +305,7 @@ and the search for Columbina's true name.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna III (6.2)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (4):** Where Does Her Name Rest?; The Night the Moon Returns Home; Return to the Moon; The Empty Courtyard
 <!--/gen-->
@@ -355,7 +356,7 @@ North to Dottore's lab with the Fatui as temporary allies.
 | 2 h 04 min | Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII | Kuroyukihime | 66 | 2026-02-27 | <https://www.youtube.com/watch?v=SWVwkwcJr5c> |
 | 2 h 25 min | Genshin Impact:Archon Quest:A Traveler On A Winter Night | Don27 | 5 | 2026-01-14 | <https://www.youtube.com/watch?v=d2R0V9ZYoK8> |
 | 2 h 32 min | Genshin Impact PC \| A Traveler on a Winter’s Night – Main Story Quest Full Gameplay Part 1 | F2P | 15 | 2026-01-15 | <https://www.youtube.com/watch?v=Kjihg9T-ezU> |
-| 2 h 38 min | Genshin Impact - A Traveler on a Winter's Night [ Act VII ] [ FULL QUEST ] | Arcade Glory | ~40 | n/a | <https://www.youtube.com/watch?v=n-8rKbtVDbA> |
+| 2 h 38 min | Genshin Impact - A Traveler on a Winter's Night [ Act VII ] [ FULL QUEST ] | Arcade Glory | 41 | 2026-01-16 | <https://www.youtube.com/watch?v=n-8rKbtVDbA> |
 | 2 h 43 min | [FULL] Luna IV Act 7 Archon Quest (Genshin Impact Version 6.3) Lumine POV | zhonglis mora | 4,466 | 2026-01-16 | <https://www.youtube.com/watch?v=Ug3SxNvmTR8> |
 | 2 h 43 min | Genshin Impact 6.3 Nod-Krai Act 7 - New Archon Quest Full Walkthrough | Ryuzk | 742 | 2026-01-15 | <https://www.youtube.com/watch?v=8w3E8f8K9uo> |
 | 2 h 44 min | Nod-Krai Act 7 Luna IV Archon Quest Full Story \| A Traveler On A Winter's Night \| Genshin Impact 6.3 | Noxxis Gaming | 3,089 | 2026-01-14 | <https://www.youtube.com/watch?v=cqY46plcrhQ> |
@@ -393,7 +394,7 @@ and the Welkin Moon's homecoming.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (3):** The First Sliver of Moonlight; Descending Moon; Welkin Moon's Homecoming
 <!--/gen-->
@@ -430,7 +431,7 @@ identities in Sumeru City have been switched around.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (3):** Where Flowers Awaken; A Divergence Leading to Oneself; Ancient Shadows Re-Emerge
 <!--/gen-->

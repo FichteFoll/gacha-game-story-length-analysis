@@ -17,7 +17,7 @@ REPORT = dict(
     # The account-level requirement acts are gated behind, as the game names it.
     # None for a game that gates its story some other way.
     gate_label="Union Level",
-    date="2026-08-24",
+    date="2026-09-26",
 )
 
 CHAPTERS = [

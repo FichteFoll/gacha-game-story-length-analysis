@@ -108,7 +108,7 @@ Batch the per-act pages rather than fetching them one at a time,
 up to 50 titles per request:
 
 ```bash
-curl -sS -A 'Mozilla/5.0' -G 'https://<wiki>.fandom.com/api.php' \
+curl -sS -A 'Mozilla/5.0 (X11; Linux x86_64)' -G 'https://<wiki>.fandom.com/api.php' \
   --data-urlencode action=query --data-urlencode prop=revisions \
   --data-urlencode rvprop=content --data-urlencode rvslots=main \
   --data-urlencode format=json --data-urlencode 'titles=Act One|Act Two|...'
@@ -204,7 +204,7 @@ which is how a thin act gets re-searched after the templates change.
 ## Step 4: fetch exact metadata and chapter markers
 
 ```bash
-scripts/enrich.sh <workdir> [parallelism]
+scripts/enrich.sh <workdir> [parallelism] [--only <slug>,...]
 ```
 
 The harvest runs with `--flat-playlist`: fast, but it rounds view counts,
@@ -225,8 +225,22 @@ locates one act inside a longer upload. That means:
 Ignore a marker set covering less than 60 percent of a single-act upload:
 those markers were something else, and trusting them under-measures the act.
 
+`--only` takes the same slugs as `harvest.sh`
+and fetches only the named acts' candidates.
+Use it after adding an act to an enriched report:
+a plain run also retries every older act's leftovers,
+and spends the bot-check budget on them before it reaches the new one.
+
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
+`enrich.sh` ends by printing how many URLs it attempted, enriched and failed,
+and a `BOT CHECK` notice when that answer was among the failures,
+after which it attempts none of the URLs still queued;
+it exits non-zero whenever an extraction failed.
+Read that summary rather than the row count of `enriched.tsv`,
+which grows by whatever got through and looks complete either way.
+A video removed since the harvest fails on every run,
+so a handful of failures with no bot check is not a block.
 The script is resumable and `analyze.py` falls back to the harvested figures,
 so do not fight it: retrying straight away buys a trickle and then stops again.
 Say that the run hit the bot check,
@@ -282,6 +296,9 @@ Discard, by title:
   goes in `<workdir>/compilations.txt`.
   Careful: "Full Archon Quest" on its own is the normal phrasing
   for one complete act, not a compilation. Do not filter it.
+  The same goes for "Full Story" and "Complete Story Quest",
+  which Wuthering Waves uploaders say of a single quest;
+  there only "entire story" and "full questline" name a compilation.
   A title that pins exactly one act by the unit and a numeral
   ("FULL Chapter 2 - Process 3") is that act however it words its scope,
   so the scope words are overruled rather than the other way round.
@@ -341,6 +358,12 @@ Discard, by title:
   the marker-measured one, which is bounded by the act
   rather than by where the upload starts and stops,
   and between two of a kind the shorter one.
+  That keeps a split where one playthrough is spread across videos
+  with no "part" wording and no one repeated title:
+  both rows name the act, and the shorter one is only a piece of it.
+  Nothing catches that automatically;
+  add a `!` pattern for that uploader's titles to `partials.txt`,
+  as Reverse: 1999 does.
 
 Then drop anything below half or above 1.8 times the median as truncated or padded.
 
@@ -376,6 +399,9 @@ First re-run the templates deeper for those acts:
 scripts/harvest.sh <workdir> 6 --only <slug>,<slug>
 ```
 
+Run `analyze.py` once so the new candidates are in `analysis.json`,
+then enrich only them with `scripts/enrich.sh <workdir> 5 --only <slug>,<slug>`.
+
 Then, for what that does not reach, hand-written queries:
 
 ```bash
@@ -386,6 +412,11 @@ printf 'sotwm_Act_V|<region> Archon Quest Act 5 <act title> full playthrough\n' 
 Keep the analysis from before the top-up and pass it to `--compare`:
 a median that moves by more than 10 percent was never settled,
 and that is a measurement rather than a judgement call.
+
+Content only days old may have no complete upload yet at all,
+only splits and first-day streams.
+Whatever survives screening is then a floor rather than an estimate,
+and the prose has to say so.
 
 ## Step 7: audit before writing
 
@@ -466,6 +497,9 @@ Instead:
 - generate superlatives from a ranking computed over all acts,
   so "the longest act in the game" can only appear where it is true,
   and a tie is stated as a tie;
+  an act on fewer than `RANK_SAMPLES` uploads (`facts.py`) is left out of
+  every ranking, the extremes table and the ranking claims included,
+  because one partial upload would otherwise hold a superlative on its own;
 - write down whatever claim the words still make
   ("marathon acts", "the chapter centrepiece", "by far the largest chapter")
   as an assertion over the analysis, evaluated before any file is written,
@@ -521,6 +555,11 @@ and the build should either fail or correct itself.
   character, and threw away every complete upload of two chapters.
   A word that is a substring of a proper noun the game uses
   is a rejection nothing in the per-report files can undo.
+- wiki.gg answers a bare `Mozilla/5.0` user agent with a "Blocked - wiki.gg"
+  page; send the full `Mozilla/5.0 (X11; Linux x86_64)` that `fetch_versions.py` does.
+- Screening reads titles only, never the channel name.
+  An uploader whose channel says "VODS" and whose titles do not
+  passes as a playthrough; catch it by its titles or not at all.
 - Say plainly what the numbers are:
   video runtime of someone else playing, as a proxy for act length.
   They are not official, they include the uploader's detours,

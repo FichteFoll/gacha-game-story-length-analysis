@@ -26,7 +26,7 @@ REPORT = dict(
     unit="Chapter",
     container="Arc",
     region_label="Part",
-    date="2026-08-26",
+    date="2026-09-26",
 )
 
 CHAPTERS = [
@@ -127,9 +127,9 @@ CHAPTERS = [
     ),
     dict(
         id="aric", slug="18-a-rose-in-a-curtsy",
-        wiki_page="Story#A Rose in a Curtsy",
-        region="Part 2", versions="8.5 - 8.9",
-        title="A Rose in a Curtsy",
+        wiki_page="Story#The Future We Embrace",
+        region="Part 2", versions="8.5 - 9.0",
+        title="The Future We Embrace",
     ),
 ]
 

@@ -31974,7 +31974,7 @@
     "url": "https://www.youtube.com/watch?v=NMdyS2A-zhU",
     "views": "26",
     "rejected": [
-     "same-uploader"
+     "fragment"
     ]
    },
    {
@@ -35095,7 +35095,9 @@
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=-CzkYR1NU-k",
     "views": 3,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260809"
    },
    {
@@ -35306,15 +35308,6 @@
     "rejected": []
    },
    {
-    "seconds": 14083,
-    "title": "Rose in a Curtsy Part 2 (Part 2 Chapter 13) [Honkai Impact 3rd] with the Beefkins!",
-    "uploader": "Rainbow Beefkins",
-    "url": "https://www.youtube.com/watch?v=-CzkYR1NU-k",
-    "views": 3,
-    "rejected": [],
-    "upload_date": "20260809"
-   },
-   {
     "seconds": 14358,
     "title": "Seele | Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
@@ -35382,16 +35375,746 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 239,
+   "n": 14,
+   "median": 240,
    "low": 198,
    "high": 408,
-   "q1": 227,
-   "q3": 251,
+   "q1": 223,
+   "q3": 255,
    "trimmed_mean": 240,
    "measured": 0,
    "parts": {},
-   "drift": -0.004
+   "drift": 0.0
+  }
+ },
+ {
+  "chapter_id": "aric",
+  "chapter_title": "Part 2: A Rose in a Curtsy",
+  "act_label": "Chapter XIV",
+  "act_title": "The Future We Embrace",
+  "wiki_page": "Part 2 Chapter XIV",
+  "slug": "aric_Chapter_XIV",
+  "candidates": [
+   {
+    "seconds": 6913,
+    "title": "Story Chapter 14 : \"The Future We Embrace\" Part 1 |Honkai Impact 3 part 2 (Japanese Dub) ",
+    "uploader": "RnQ",
+    "url": "https://www.youtube.com/watch?v=YchUYW1RtzE",
+    "views": "30",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 21639,
+    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Full CG JP Dub",
+    "uploader": "itsOgiru",
+    "url": "https://www.youtube.com/watch?v=q59XJoxkKFg",
+    "views": "2082",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 28049,
+    "title": "Honkai Impact 3rd - 9.0 Story - The Future We Embrace",
+    "uploader": "Kurib",
+    "url": "https://www.youtube.com/watch?v=K9j4JtHKDlI",
+    "views": 100,
+    "rejected": [],
+    "upload_date": "20260907"
+   },
+   {
+    "seconds": 19134,
+    "title": "Completing Part 2 Chapter 14 'The Future We Embrace' | Honkai Impact 3rd",
+    "uploader": "JaydenHorn1406",
+    "url": "https://www.youtube.com/watch?v=nvi02eqi_XQ",
+    "views": "117",
+    "rejected": []
+   },
+   {
+    "seconds": 5942,
+    "title": "Story Chapter 14 : \"The Future We Embrace\" Part 3 |Honkai Impact 3 part 2 (Japanese Dub) ",
+    "uploader": "RnQ",
+    "url": "https://www.youtube.com/watch?v=BTNymCjDEwM",
+    "views": "11",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 7251,
+    "title": "Story Chapter 14 : \"The Future We Embrace\" Part 2 |Honkai Impact 3 part 2 (Japanese Dub) ",
+    "uploader": "RnQ",
+    "url": "https://www.youtube.com/watch?v=DgGHb9jAQ8o",
+    "views": "21",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 23563,
+    "title": "[Main Story Part 2 Chapter 14] The Future We Embrace | Honkai Impact 3rd 9.0",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=aJjcycy6bWU",
+    "views": 181,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 3040,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 1",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=V1gGX0In04A",
+    "views": "10",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 14690,
+    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Finale  Part 2! Deal With Finality?",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=JkpWuF1ak8o",
+    "views": "107",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 21854,
+    "title": "Honkai Impact 3rd Part 2 \u2013 Chapter 14 The Future We Embrace",
+    "uploader": "Jirangu",
+    "url": "https://www.youtube.com/watch?v=KV2Yd6K5KRo",
+    "views": 603,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 18799,
+    "title": "Honkai Impact 3rd | Main Story Part 2 Finale: The Future We Embrace",
+    "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
+    "url": "https://www.youtube.com/watch?v=MqtMB_-XurY",
+    "views": "20",
+    "rejected": []
+   },
+   {
+    "seconds": 7633,
+    "title": "The Future We Embrace | Honkai Impact 3rd Part 2 Finale Part 1",
+    "uploader": "AaronDeadKey",
+    "url": "https://www.youtube.com/watch?v=NrmjRTD4nUA",
+    "views": "86",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 20858,
+    "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Finale (END)",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=2Re0TrSG0uQ",
+    "views": "57",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 9191,
+    "title": "HI3rd | Part 2 Chapters X  XIV: The Future We Embrace | P2",
+    "uploader": "AverageMediocrity",
+    "url": "https://www.youtube.com/watch?v=fJBKBevANuY",
+    "views": "1",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5576,
+    "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Langqiu, 100 Years Ago",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=C9LJwVa03U4",
+    "views": "42",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 5797,
+    "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Langqiu (\"Current Day\")",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=k7X7EyOXaqs",
+    "views": "51",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 2208,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 2",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=wMICT63WJ8w",
+    "views": "6",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 19363,
+    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Finale Part 1!",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=NTJv7ynX3_8",
+    "views": "67",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2990,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 4",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=vTTggisUlBw",
+    "views": "5",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5506,
+    "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Difeng",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=Z3deXL-jgug",
+    "views": "55",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 8304,
+    "title": "Honkai Impact 3rd season 2 Chapter 14 The Future We Embrace part final ",
+    "uploader": "Chris Banas",
+    "url": "https://www.youtube.com/watch?v=H60Qrp4-6mY",
+    "views": "26",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 25589,
+    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Chase Trick The Rules!",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=_qGJHRE1o3w",
+    "views": 150,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 28028,
+    "title": "THE FINALE OF PART 2! | Honkai: Impact 3rd Part 2 - Chapter 14 \"The Future We Embrace\" Full Reaction",
+    "uploader": "Nohr Trappola",
+    "url": "https://www.youtube.com/watch?v=pC4EfkQ-iUs",
+    "views": "815",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1012,
+    "title": "[Spoiler] Final Battle of Main Story Part 2",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=1_Bb0llT9Do",
+    "views": "8082",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 21819,
+    "title": "Dreamseeker | Honkai Impact 3rd Part 2 Story Quest Finale Walkthrough Gameplay (Japanese Dub)",
+    "uploader": "DafDazDay",
+    "url": "https://www.youtube.com/watch?v=G4tJZLlZseU",
+    "views": "3945",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 875,
+    "title": "Entropy becomes Herrscher of Time (Entropy Boss Fight) | Honkai Impact 3rd 9.0",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=m2RChiWpqFA",
+    "views": "72",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 84,
+    "title": "Honkai Impact 3 - Chapter 14 CG ( Part 03) Spoiler Alert",
+    "uploader": "FedeXX58",
+    "url": "https://www.youtube.com/watch?v=9-PavufxkBc",
+    "views": "489",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5766,
+    "title": "Honkai Impact 3rd Story Chapter 13 4k 60 FPS English Subtitles Gameplay Walkthrough",
+    "uploader": "KING1993GAMING",
+    "url": "https://www.youtube.com/watch?v=ZKPUMVwayGk",
+    "views": "27025",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 284,
+    "title": "Honkai Impact 3 [SEA] 3.5.0 - Stage  9-10 Hard (HOV go outside area XD)",
+    "uploader": "Nattawat54",
+    "url": "https://www.youtube.com/watch?v=6ElmWk65Kr0",
+    "views": "98",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 68,
+    "title": "Leylah (DS) Herrscher of Time?! Transformation (CG Animation) Honkai Impact 3rd v9.0",
+    "uploader": "Nocte Vertunum",
+    "url": "https://www.youtube.com/watch?v=XEVT9k9twdg",
+    "views": "28625",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 237,
+    "title": "MAIN STORY XV HARD - HONKAI IMPACT 3",
+    "uploader": "NOIS Line",
+    "url": "https://www.youtube.com/watch?v=1pKj28-XnBQ",
+    "views": "25",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 84,
+    "title": "Kiana in Final Chapter of Part 2! Kiana Admire Dreamseeker Fearless Will! Honkai v9.0",
+    "uploader": "Nocte Vertunum",
+    "url": "https://www.youtube.com/watch?v=5uVINYpD3F0",
+    "views": "10189",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 313,
+    "title": "Daily Mission with Lemon Soda Tuna, I Mean Kiana - Honkai Impact 3",
+    "uploader": "Pasha Lovarian",
+    "url": "https://www.youtube.com/watch?v=yIWBaFy1Evc",
+    "views": "3233",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1121,
+    "title": "The Insanity of Honkai's Captainverse",
+    "uploader": "Potato Almanac",
+    "url": "https://www.youtube.com/watch?v=DfI-Kpb7hhQ",
+    "views": "23658",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9989,
+    "title": "The Future We Embrace | Honkai Impact Part 2 Final Chapter, Part 3 (Last)",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=a3MPtrFvQCU",
+    "views": 2352,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260819"
+   },
+   {
+    "seconds": 21716,
+    "title": "Honkai Impact 3rd Story Part 2 Finale Chapter : \"The Future We Embrace\"",
+    "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
+    "url": "https://www.youtube.com/watch?v=LG9vBXa2DA0",
+    "views": "18",
+    "rejected": []
+   },
+   {
+    "seconds": 17279,
+    "title": "[Honkai3rdEP228] \u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e02\u0e2d\u0e07\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23 | The Future We Embrace",
+    "uploader": "Ascending P",
+    "url": "https://www.youtube.com/watch?v=M-5E_zJrY8M",
+    "views": "142",
+    "rejected": []
+   },
+   {
+    "seconds": 1852,
+    "title": "HI3 v9.0 Part 2 Finale - All Boss fights, Cutscenes and Ending | Hard Difficulty",
+    "uploader": "Ultra Jericho",
+    "url": "https://www.youtube.com/watch?v=sFlw-HYJjl4",
+    "views": "314",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 24955,
+    "title": "[CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace",
+    "uploader": "LoreBugCarv",
+    "url": "https://www.youtube.com/watch?v=C9vHbT8pkoY",
+    "views": "3444",
+    "rejected": []
+   },
+   {
+    "seconds": 21618,
+    "title": "PART 2 GRAND FINALE!!! The Future We Embrace | Honkai Impact 3rd [v9.0]",
+    "uploader": "Nanoha61",
+    "url": "https://www.youtube.com/watch?v=hZZdM4KZSBw",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 26033,
+    "title": "The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins!",
+    "uploader": "Rainbow Beefkins",
+    "url": "https://www.youtube.com/watch?v=kUEpJrrl0FE",
+    "views": "55",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2646,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 7",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=_l-Wzn4Ity0",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1798,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 3",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=xA5ZF5oki2A",
+    "views": "4",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2079,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 6",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=7bVFRD7uiaM",
+    "views": 5,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 1997,
+    "title": "Honkai Impact 3 - Story Chapter 14: Dispel the Darkness - Act. 2 [Full playthrough]",
+    "uploader": "Night.K",
+    "url": "https://www.youtube.com/watch?v=yI1iUvaBnOo",
+    "views": "1876",
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1393,
+    "title": "Honkai Impact 3rd - Reacting to Chapter 14 of the Main Story (Part 2) | BunPlusUltra",
+    "uploader": "BunPlusUltra",
+    "url": "https://www.youtube.com/watch?v=rR1fgm0MbYU",
+    "views": "463",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5329,
+    "title": "Honkai Impact 3rd Story Chapter 14 4k 60 FPS English Subtitles Gameplay Walkthrough",
+    "uploader": "KING1993GAMING",
+    "url": "https://www.youtube.com/watch?v=Zc2h-cBOYV0",
+    "views": "26482",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 8568,
+    "title": "Honkai Impact 3 Gameplay 61 (Main Story Part 2 Chapter 14 Finale & Captain's Wishing Tree Secrets) ",
+    "uploader": "BcsX",
+    "url": "https://www.youtube.com/watch?v=aQPf9cyQVCY",
+    "views": "195",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 4817,
+    "title": "Honkai Impact 3 - Story Part 2 Chapter 14 (part1) - Gameplay Hi3 Indonesia",
+    "uploader": "FJ36 Channel",
+    "url": "https://www.youtube.com/watch?v=gfZug-4cSy0",
+    "views": 173,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 32047,
+    "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Chase The Shadow!",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=ec73_qDzpOw",
+    "views": "178",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1267,
+    "title": "Chapter 14 Part 2 | Honkai Impact 3rd Story Mode Gameplay",
+    "uploader": "HowJuDuDat Gaming",
+    "url": "https://www.youtube.com/watch?v=xIzuc3XuZQU",
+    "views": "440",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 387,
+    "title": "Honkai Impact 3rd (\u5d29\u574f) - Chapter XIV - ACT 2 - Part 1",
+    "uploader": "yaru chan 26",
+    "url": "https://www.youtube.com/watch?v=H-b2K5eURb0",
+    "views": "48",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1840,
+    "title": "Honkai Impact 3rd | Will of The Herrscher | Part 14",
+    "uploader": "TheTwitGamer",
+    "url": "https://www.youtube.com/watch?v=4lawHOBoIbQ",
+    "views": "5549",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2193,
+    "title": "[Honkai Impact 3rd] Story Chapter 14 \"Dispel the Darkness\" (with gameplay) part 2",
+    "uploader": "Shinrin Games",
+    "url": "https://www.youtube.com/watch?v=JhyqvMSra84",
+    "views": "3045",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2297,
+    "title": "Honkai Impact 3rd Story: Chapter 14 Part 2",
+    "uploader": "Agent 7",
+    "url": "https://www.youtube.com/watch?v=UDin7Nkz2Yc",
+    "views": "7",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 122,
+    "title": "v9.0 The Light at Dream's End Trailer \u2014 Honkai Impact 3rd",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=jWZ39NApx6k",
+    "views": "52461",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19372,
+    "title": "[Spoiler] Final Chapter of Part 2 [CN]",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=QfqfuAlZd3Y",
+    "views": "2116",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 511,
+    "title": "Honkai Impact 3rd Animated Short: Because of You (Japanese-Dubbed)",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=_BUh64YHE30",
+    "views": "7327716",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 831,
+    "title": "Herrscher of Time Boss Fight!!",
+    "uploader": "GenKai Rez",
+    "url": "https://www.youtube.com/watch?v=eAbYesu35ps",
+    "views": "639",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 94,
+    "title": "Guns Girl Z \u00d7 MYTH & ROID | Promotional Video Song - [ RESIST-IST ] Honkai Gakuen 2",
+    "uploader": "Retronyx \u266c",
+    "url": "https://www.youtube.com/watch?v=kitCl81FZnE",
+    "views": "2391",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1616,
+    "title": "V9.0 Beta - Chapter 14",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=uiWJDTeYn2M",
+    "views": "1085",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 30,
+    "title": "First Look at New S-rank for V9.1 - Honkai Impact 3rd",
+    "uploader": "Marisa Honkai",
+    "url": "https://www.youtube.com/watch?v=WIPptNQYcvc",
+    "views": "23347",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 17279,
+    "title": "[Honkai3rdEP228] \u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e02\u0e2d\u0e07\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23 | The Future We Embrace",
+    "uploader": "Ascending P",
+    "url": "https://www.youtube.com/watch?v=M-5E_zJrY8M",
+    "views": "142",
+    "rejected": []
+   },
+   {
+    "seconds": 18799,
+    "title": "Honkai Impact 3rd | Main Story Part 2 Finale: The Future We Embrace",
+    "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
+    "url": "https://www.youtube.com/watch?v=MqtMB_-XurY",
+    "views": "20",
+    "rejected": []
+   },
+   {
+    "seconds": 19134,
+    "title": "Completing Part 2 Chapter 14 'The Future We Embrace' | Honkai Impact 3rd",
+    "uploader": "JaydenHorn1406",
+    "url": "https://www.youtube.com/watch?v=nvi02eqi_XQ",
+    "views": "117",
+    "rejected": []
+   },
+   {
+    "seconds": 21618,
+    "title": "PART 2 GRAND FINALE!!! The Future We Embrace | Honkai Impact 3rd [v9.0]",
+    "uploader": "Nanoha61",
+    "url": "https://www.youtube.com/watch?v=hZZdM4KZSBw",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 21716,
+    "title": "Honkai Impact 3rd Story Part 2 Finale Chapter : \"The Future We Embrace\"",
+    "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
+    "url": "https://www.youtube.com/watch?v=LG9vBXa2DA0",
+    "views": "18",
+    "rejected": []
+   },
+   {
+    "seconds": 21854,
+    "title": "Honkai Impact 3rd Part 2 \u2013 Chapter 14 The Future We Embrace",
+    "uploader": "Jirangu",
+    "url": "https://www.youtube.com/watch?v=KV2Yd6K5KRo",
+    "views": 603,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 23563,
+    "title": "[Main Story Part 2 Chapter 14] The Future We Embrace | Honkai Impact 3rd 9.0",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=aJjcycy6bWU",
+    "views": 181,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 24955,
+    "title": "[CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace",
+    "uploader": "LoreBugCarv",
+    "url": "https://www.youtube.com/watch?v=C9vHbT8pkoY",
+    "views": "3444",
+    "rejected": []
+   },
+   {
+    "seconds": 28049,
+    "title": "Honkai Impact 3rd - 9.0 Story - The Future We Embrace",
+    "uploader": "Kurib",
+    "url": "https://www.youtube.com/watch?v=K9j4JtHKDlI",
+    "views": 100,
+    "rejected": [],
+    "upload_date": "20260907"
+   }
+  ],
+  "stats": {
+   "n": 9,
+   "median": 362,
+   "low": 288,
+   "high": 467,
+   "q1": 316,
+   "q3": 404,
+   "trimmed_mean": 365,
+   "measured": 0,
+   "parts": {},
+   "drift": null
   }
  }
 ]

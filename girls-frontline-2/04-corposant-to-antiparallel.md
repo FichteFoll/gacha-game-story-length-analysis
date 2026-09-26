@@ -201,7 +201,7 @@ is hard to get a decision out of.
 - **Sampled range:** 3 h 27 min to 4 h 31 min for the middle half (full spread 2 h 31 min to 5 h 41 min) across 10 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (13):** PA-1-1: Desolate Blossom; PA-1-2: Promised Determination; PS-1-1: Schrödinger's Trust; PA-1-3: Flourishing Greenery; PS-1-2: Frigid Summons; PA-1-4: Discordant Note; PA-1-5: Pursuing Calamity; PA-1-6: Hidden Land; PS-1-3: Destruction and Rebirth; PA-1-7: March of Resistance; PA-1-8: Distant Bloodline; PA-1-9: Gentle Finale; PS-1-4: Awaiting Departure
 <!--/gen-->

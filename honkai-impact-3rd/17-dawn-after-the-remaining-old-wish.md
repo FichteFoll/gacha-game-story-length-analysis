@@ -28,12 +28,14 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 
 ## Pacing
 
-By a distance the largest arc in the report:
+The largest arc in the report,
+if only just ahead of the arc that follows it:
 <!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 29 min<!--/f-->,
 which is more than the whole of Part 1's first six arcs put together.
 <!--f:n_above_3h-->six<!--/f--> of its entries run past three hours,
-and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is the longest entry in the game
-at <!--f:longest_len-->5 h 37 min<!--/f-->.
+and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is its longest entry
+at <!--f:longest_len-->5 h 37 min<!--/f-->,
+and the second longest in the game, behind only *The Future We Embrace*.
 The two EX chapters are the light relief,
 and *To None May God Pray* is the only entry in the arc under two hours.
 Coverage is good throughout:
@@ -54,7 +56,7 @@ and the first chapter of the arc.
 - **Sampled range:** 2 h 44 min to 3 h 36 min for the middle half (full spread 1 h 47 min to 4 h 26 min) across 13 playthrough uploads (39 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 7.8
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter V"-->
@@ -121,7 +123,7 @@ The chapter the wiki's navigation box names the whole group after.
 - **Sampled range:** 3 h 41 min to 4 h 04 min for the middle half (full spread 3 h 13 min to 5 h 51 min) across 8 playthrough uploads (26 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter VII"-->
@@ -186,7 +188,7 @@ The long road, and the sky at the end of it.
 - **Sampled range:** 3 h 59 min to 4 h 23 min for the middle half (full spread 3 h 06 min to 4 h 59 min) across 12 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter VIII"-->
@@ -215,10 +217,10 @@ The long road, and the sky at the end of it.
 ### Chapter IX - [If Destiny Concludes Today](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_IX)
 <!--/gen-->
 
-The longest thing in the game, and covered well enough all the same
+The longest thing in the game until *The Future We Embrace*, and covered well enough all the same
 to carry a middle half rather than a bare minimum and maximum.
 <!--gen:stats act="Chapter IX"-->
-The single longest chapter in the game.
+One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 37 min
 - **Sampled range:** 5 h 16 min to 6 h 03 min for the middle half (full spread 4 h 30 min to 7 h 43 min) across 10 playthrough uploads (34 further candidates screened out)

@@ -42,7 +42,7 @@ with the Withered Snow interlude between the first and the second.
 - **Sampled range:** 1 h 11 min to 1 h 40 min for the middle half (full spread 58 min to 2 h 16 min) across 10 playthrough uploads (22 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 4.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (3):** Cold Front; Frosted Ruin; Heart of the Storm
 <!--/gen-->

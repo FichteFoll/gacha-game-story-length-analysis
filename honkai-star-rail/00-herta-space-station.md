@@ -42,7 +42,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** Chaos In the Deep; Eye of the Storm; A Moment of Peace; Lingering Shadows; Simulated Universe: First Closed Beta; The Voyage Continues; Drifting Between the Stars
 <!--/gen-->
 

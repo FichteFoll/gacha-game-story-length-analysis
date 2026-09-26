@@ -233,12 +233,12 @@ Both shapes work; the report prints "name (number)" only when the two differ.
 
 - **Girls' Frontline 2: Exilium.** The fourth game here whose *entry* is a
   chapter, and the only one whose chapter numbers are not all whole: the
-  Campaign menu files five campaigns as Chapters 6.5, 6.7, 8.3, 8.7 and 12.5
-  between two whole-numbered chapters. `act_number()` reads a decimal label as
-  a float and `numerals()` escapes the dot, so those chapters are matched by
-  number like any other; what they still need is a negative mark in
+  Campaign menu files six campaigns as Chapters 6.5, 6.7, 8.3, 8.7, 12.5 and
+  19.5, each numbered after the whole chapter it follows. `act_number()` reads
+  a decimal label as a float and `numerals()` escapes the dot, so those
+  chapters are matched by number like any other; what they still need is a negative mark in
   `act_keys.json` on the whole chapter whose number is a prefix of theirs
-  (Chapters 6, 8 and 12), because `\bchapter:? +6\b` matches "Chapter 6.5".
+  (Chapters 6, 8, 12 and 19), because `\bchapter:? +6\b` matches "Chapter 6.5".
   The chapters are grouped by nothing, as NIKKE's are, so the report invents
   volumes and says so; unlike NIKKE it can cut them where a campaign ends,
   because every chapter from 6.5 on shipped as a named campaign and the wiki
@@ -273,7 +273,7 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   tabber, and stops there. Everything after Chapter 20 has to be read off the
   patch pages in `Category:Content Updates`, which announce each release's new
   chapter in prose and give its number only sometimes (Chapters 31, 32 and 34
-  to 42). `Template:Event Top Nav` is the one page that chains the patches in
+  to 43). `Template:Event Top Nav` is the one page that chains the patches in
   order, and counting the main story releases along that chain closes exactly
   on the numbers the prose does state, which is how Chapters 21 to 30 and 33
   are numbered here; the upload titles agree chapter by chapter. Two traps in

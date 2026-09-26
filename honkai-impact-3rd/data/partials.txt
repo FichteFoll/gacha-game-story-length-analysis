@@ -16,3 +16,6 @@
 \bparts? ?#\s?\d+
 \bparts? ?(?:[3-9]|\d\d+)(?!\.\d)\b
 \bparts? (?:three|four|five|six|seven|eight)\b
+!\bfinale *(?:parts? ?\d+\b|\(end\))
+!\bthe future we embrace (?:chase|light or shadow)\b
+!\bparts? ?\d+ ?\(part \d+ chapter\b

@@ -47,7 +47,7 @@ with Anti-Entropy already ahead of Schicksal.
 - **Sampled range:** 38 min to 44 min for the middle half (full spread 33 min to 1 h 08 min) across 11 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (3):** Gem of Desire; Bumpy Road; Lost Wind
 <!--/gen-->
@@ -85,7 +85,7 @@ lets a friendly face turn out to be something else.
 - **Sampled range:** 28 min to 41 min for the middle half (full spread 20 min to 56 min) across 12 playthrough uploads (27 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 12 uploads
 - **Quest parts (3):** Break in ME Corp; Unmanipulable Mind; Wotan's Dirge
 <!--/gen-->

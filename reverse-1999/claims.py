@@ -3,8 +3,10 @@
 The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
+from analyze import IQR_SAMPLES
 from assertions import (is_extreme, largest_chapter, median_between,
-                        rank_at_most, sample_at_most, total_ratio_between)
+                        rank_at_most, sample_at_least, sample_at_most,
+                        total_ratio_between)
 
 CLAIMS = [
     # 01-the-living-and-the-rest.md, the blurb
@@ -18,10 +20,10 @@ CLAIMS = [
     largest_chapter("a1", "the largest arc in the report"),
     median_between("a1", "Prologue", 1, 59,
                    "the only one whose entries run from under an hour "
-                   "to over eight"),
-    median_between("a1", "Chapter 7", 481, 900,
+                   "to over seven"),
+    median_between("a1", "Chapter 7", 421, 900,
                    "the only one whose entries run from under an hour "
-                   "to over eight"),
+                   "to over seven"),
     median_between("a1", "Chapter 1", 100, 180,
                    "then two to three hours each for Chapters 1 to 3"),
     median_between("a1", "Chapter 2", 100, 180,
@@ -68,13 +70,23 @@ CLAIMS = [
                    "three entries, none of them under five hours"),
     median_between("a3", "Chapter 13", 300, 600,
                    "three entries, none of them under five hours"),
-    sample_at_most("a3", "Chapter 13", 7,
-                   "and the newest resting on the fewest uploads of any of them"),
     total_ratio_between("a3", ["a2"], 1.0, 2.0,
                         "which between them outweigh the arc before this one "
                         "on the same number of entries"),
-    is_extreme("a3", "Chapter 12", "max",
-               "Chapter 12 is the longest of the three"),
-    rank_at_most("a3", "Chapter 12", 2,
-                 "and the second longest entry in the game", scope="global"),
+    # With Chapter 7 the longest entry in the game (asserted above), a global
+    # rank of three or better for both makes them the arc's longer two.
+    rank_at_most("a3", "Chapter 12", 3,
+                 "Chapters 12 and 13 are the longer two of the three", scope="global"),
+    rank_at_most("a3", "Chapter 13", 3,
+                 "Chapters 12 and 13 are the longer two of the three", scope="global"),
+    # "Little more than" a middle half needs: at the floor, or two past it.
+    *(guard
+      for act in ("Chapter 11", "Chapter 12", "Chapter 13")
+      for guard in (
+          sample_at_least("a3", act, IQR_SAMPLES,
+                          "each rests on little more than the uploads "
+                          "a middle half needs"),
+          sample_at_most("a3", act, IQR_SAMPLES + 2,
+                         "each rests on little more than the uploads "
+                         "a middle half needs"))),
 ]

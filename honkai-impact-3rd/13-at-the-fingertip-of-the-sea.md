@@ -25,8 +25,8 @@ to a tower standing alone under a fallen star.
 ## Pacing
 
 <!--f:n_entries-->four<!--/f--> entries and <!--f:total-->9 h 46 min<!--/f-->,
-of which *<!--f:longest_title-->Lone Tower, Fallen Star<!--/f-->* alone
-accounts for <!--f:longest_len-->5 h 26 min<!--/f-->.
+of which *Lone Tower, Fallen Star* alone
+accounts for <!--f:len_Chapter_XXXVIII-->5 h 26 min<!--/f-->.
 Part 1.5 is where the evidence gets thin, and this arc is the thinnest of it:
 the channels that recorded these chapters publish one video per in-game act,
 and the complete uploads that measure a whole chapter
@@ -98,11 +98,10 @@ Between two worlds, and the butterfly's way home.
 ### Chapter XXXVIII - [Lone Tower, Fallen Star](https://honkaiimpact3.fandom.com/wiki/Chapter_XXXVIII)
 <!--/gen-->
 
-By far the largest entry in the arc, and one of the largest
-in the report; it rests on two complete uploads,
-which is why it is rated as softly as it is.
+It rests on two complete uploads,
+too few for it to be ranked against the rest of the report,
+which is also why it is rated as softly as it is.
 <!--gen:stats act="Chapter XXXVIII"-->
-One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 26 min
 - **Sampled range:** 4 h 01 min to 6 h 52 min across 2 playthrough uploads (40 further candidates screened out)

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II: Even When Divinity Remains Silent
 
-**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 36 h 27 min**
+**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 36 h 45 min**
 <!--/gen-->
 
 Rinascita is a country of carnivals, gladiators and drowned gods,
@@ -19,22 +19,22 @@ and leaves having killed a Threnodian and a great deal else.
 | Act I | The Sacred Breeze So Often Breathes | 1 h 08 min | 55 min - 1 h 24 min | 15 | low |
 | Act II | Veils Off in Sun or Shadow | 2 h 25 min | 2 h 14 min - 2 h 44 min | 13 | high |
 | Act III | What Yesterday Wept, Today Doth Sing | 2 h 29 min | 2 h 05 min - 2 h 34 min | 13 | high |
-| Interlude | Old Man and the Whale | 1 h 51 min | 54 min - 2 h 23 min | 7 | low |
-| Act IV | The Maiden, The Defier, The Death Crier | 3 h 21 min | 3 h 08 min - 3 h 29 min | 18 | high |
+| Interlude | Old Man and the Whale | 1 h 51 min | 1 h 29 min - 2 h 28 min | 9 | low |
+| Act IV | The Maiden, The Defier, The Death Crier | 3 h 23 min | 3 h 09 min - 3 h 33 min | 19 | high |
 | Act V | Shadow of Glory | 2 h 23 min | 2 h 01 min - 2 h 31 min | 11 | high |
-| Act VI | Flames of Heart | 1 h 35 min | 1 h 26 min - 1 h 41 min | 15 | high |
-| Act VII | Dreamcatchers in the Secret Gardens | 2 h 47 min | 1 h 45 min - 3 h 05 min | 11 | low |
+| Act VI | Flames of Heart | 1 h 35 min | 1 h 27 min - 1 h 41 min | 17 | high |
+| Act VII | Dreamcatchers in the Secret Gardens | 2 h 57 min | 2 h 11 min - 3 h 08 min | 10 | medium |
 | Segue - I | Rust, Sword and the Sun | 46 min | 43 min - 53 min | 11 | high |
-| Act VIII | By Sun's Burning Hand | 3 h 28 min | 3 h 18 min - 3 h 38 min | 12 | high |
-| Act IX | By Moon's Fated Light | 2 h 36 min | 2 h 31 min - 2 h 41 min | 16 | high |
+| Act VIII | By Sun's Burning Hand | 3 h 27 min | 3 h 17 min - 3 h 37 min | 13 | high |
+| Act IX | By Moon's Fated Light | 2 h 38 min | 2 h 31 min - 2 h 42 min | 17 | high |
 | Act X | The Bygone Shall Always Return | 1 h 57 min | 1 h 55 min - 2 h 02 min | 18 | high |
-| Act XI | Dawn Breaks on Dark Tides | 4 h 23 min | 4 h 07 min - 4 h 41 min | 11 | high |
-| Segue - II | A Stranger in a Strange Land | 1 h 03 min | 1 h 01 min - 1 h 05 min | 12 | high |
+| Act XI | Dawn Breaks on Dark Tides | 4 h 29 min | 4 h 07 min - 4 h 51 min | 12 | high |
+| Segue - II | A Stranger in a Strange Land | 1 h 02 min | 1 h 01 min - 1 h 05 min | 14 | high |
 | Act XII | Stagnant Dawn on Wastelands | 2 h 27 min | 2 h 20 min - 3 h 32 min | 14 | low |
-| Segue - III | Flowing Starlight in the Iris | 1 h 13 min | 1 h 09 min - 1 h 16 min | 8 | high |
+| Segue - III | Flowing Starlight in the Iris | 1 h 13 min | 1 h 09 min - 1 h 19 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->36 h 27 min<!--/f-->**
+**Total: <!--f:total-->36 h 45 min<!--/f-->**
 
 ## Pacing
 
@@ -47,7 +47,7 @@ so the prologue, the two afterstory segues and *Rust, Sword and the Sun*
 all sit under an hour and a quarter,
 while the acts they bracket keep climbing.
 Act XI is the chapter's set piece and the longest act in Rinascita
-at <!--f:len_Act_XI-->4 h 23 min<!--/f-->:
+at <!--f:len_Act_XI-->4 h 29 min<!--/f-->:
 the Dark Tide converges, and the game spends the whole of it there.
 
 ## Acts
@@ -65,7 +65,7 @@ then aboard the troupe liner bound for Ragunna.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 <!--/gen-->
 
@@ -100,7 +100,7 @@ gondolas, and an Echo that loses control in the middle of it all.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -141,7 +141,7 @@ where the ones that attack turn out to be steered rather than mad.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 <!--/gen-->
 
@@ -181,7 +181,7 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -214,14 +214,18 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 The fishing chapter: Ishmael, Captain Ahab,
 the Riccioli Islands and the whale that will not stay a story.
 An event chapter the wiki files inside Chapter II.
+One upload pairs it with *Silent as a Falling Leaf*,
+an exploration quest of the Averardo Vault and no part of the Interlude,
+so only its Interlude chapter markers are counted.
 <!--gen:stats act="Interlude"-->
 
 - **Estimated length:** 1 h 51 min
-- **Sampled range:** 54 min to 2 h 23 min across 7 playthrough uploads (18 further candidates screened out)
+- **Sampled range:** 1 h 29 min to 2 h 28 min for the middle half (full spread 54 min to 2 h 37 min) across 9 playthrough uploads (16 further candidates screened out)
 - **Confidence:** low
 - **Union Level gate:** 14
 - **Released in:** unknown
 - **Stability:** median +5% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** Set Sail! Pro Angler!; Love in the Time of Fishing; Where All Fish Converge; Old Man and the Whale; I Alone Survived
 <!--/gen-->
 
@@ -232,12 +236,14 @@ An event chapter the wiki files inside Chapter II.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 54 min | 2.1 Event Story, Old Man and the Whale - Wuthering Waves | LokiGamingZero | 21 | 2025-03-06 | <https://www.youtube.com/watch?v=JRGXPS2rCi0> |
+| 1 h 17 min | 【Wuthering Waves】Silent as a Falling Leaf and Old Man and the Whale [Jp Dub] | Super Executive | 52 | 2025-03-23 | <https://www.youtube.com/watch?v=mbkSLSD6UWk> |
 | 1 h 42 min | Old Man and the Whale Full Quest — Wuthering Waves | NaruVT | 1,859 | 2025-02-15 | <https://www.youtube.com/watch?v=5IqX1-LMjDc> |
 | 1 h 50 min | Wuthering Waves 2.1 Story - Chapter 2 Interlude: Old Man and the Whale (Female Rover) | QuestWatcher | 356 | 2026-02-08 | <https://www.youtube.com/watch?v=wipGNHkmDfw> |
 | 1 h 51 min | [Wuthering Waves](Event)(V2.1): Old Man And The Whale - Day 1 | PlayZero Gaming  | 6 | 2025-03-05 | <https://www.youtube.com/watch?v=TMJaaPvNgw4> |
 | 1 h 59 min | Old Man and the Whale - Part 1 \| Wuthering Wave Event Story | Akira Koto | 11 | 2025-03-09 | <https://www.youtube.com/watch?v=PV13ecTQ5bs> |
-| 2 h 22 min | 【Wuthering Waves】Silent as a Falling Leaf and Old Man and the Whale [Jp Dub] | Super Executive | 52 | 2025-03-23 | <https://www.youtube.com/watch?v=mbkSLSD6UWk> |
 | 2 h 23 min | Wuthering Waves 2.1 - Full Event Story Quest (Old Man and the Whale) | CGInferno | 13,512 | 2025-02-13 | <https://www.youtube.com/watch?v=Q0p5ZBz-4tM> |
+| 2 h 33 min | Wuthering Waves - 2.1 Old Man and the Whale - Full Story Quest | Yoshizu | 21 | 2025-02-16 | <https://www.youtube.com/watch?v=gqyBP1IHUNw> |
+| 2 h 37 min | Old Man and the Whale (Complete Story Quest) Version 2.1 Main Event \| Wuthering Waves | Hardisa | 137 | 2025-02-23 | <https://www.youtube.com/watch?v=h9yksQ0fbeY> |
 
 </details>
 <!--/gen-->
@@ -251,12 +257,12 @@ and the road to the Inverted Tower runs through Porto-Veno Castle
 and down into the Avinoleum.
 <!--gen:stats act="Act IV"-->
 
-- **Estimated length:** 3 h 21 min
-- **Sampled range:** 3 h 08 min to 3 h 29 min for the middle half (full spread 2 h 28 min to 3 h 52 min) across 18 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 3 h 23 min
+- **Sampled range:** 3 h 09 min to 3 h 33 min for the middle half (full spread 2 h 28 min to 3 h 52 min) across 19 playthrough uploads (6 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -279,6 +285,7 @@ and down into the Avinoleum.
 | 3 h 26 min | Wuthering Waves 2.2 Story - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier (Female Rover) | QuestWatcher | 959 | 2026-01-04 | <https://www.youtube.com/watch?v=u0hffCrguBQ> |
 | 3 h 27 min | FULL Chapter 2 Act 4 Rinascita \| Wuthering Waves 2.2 "The Maiden, The Defier, The Death Crier" | T.H Bunn | 95 | 2025-03-27 | <https://www.youtube.com/watch?v=BkI79RNeySQ> |
 | 3 h 28 min | Wuthering Waves V.2.2 - 1 Main Quest Chapter 2 Act 4 [Eng Sub] [Ultrawide] | Adamantine | 62 | 2025-04-04 | <https://www.youtube.com/watch?v=KCsMy6gyHqk> |
+| 3 h 33 min | Wuthering Waves 2.2 Full Story Walkthrough 4K 60FPS \| The Maiden, The Defier, The Death Crier | Headstart Gaming | 2,122 | 2025-03-30 | <https://www.youtube.com/watch?v=8SEgz9bNSJ8> |
 | 3 h 33 min | Wuthering Waves 3.4 Walkthrough PART 24 - The Maiden, The Defier, The Death Crier (PS5 1440p) | Gaming Reviving | 53 | 2026-07-03 | <https://www.youtube.com/watch?v=aT6KrxE5U1M> |
 | 3 h 38 min | Wuthering Waves - Chapter 2 Act 4: The Maiden, The Defier, The Death Crier \| Full Story JP Dub 4K | Gudaoko | 3,301 | 2025-03-30 | <https://www.youtube.com/watch?v=NFWlV-OPPIY> |
 | 3 h 50 min | Rinascita Main Quest: The Maiden, The Defier, The Death Crier \| Wuthering Waves | ShiverDoom | 396 | 2025-09-07 | <https://www.youtube.com/watch?v=aWcPMM-KwgQ> |
@@ -301,7 +308,7 @@ and earning Arsinosa's attention the hard way.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -334,11 +341,11 @@ and the first clear look at what Leviathan has been doing to Lupa.
 <!--gen:stats act="Act VI"-->
 
 - **Estimated length:** 1 h 35 min
-- **Sampled range:** 1 h 26 min to 1 h 41 min for the middle half (full spread 1 h 13 min to 1 h 53 min) across 15 playthrough uploads (10 further candidates screened out)
+- **Sampled range:** 1 h 27 min to 1 h 41 min for the middle half (full spread 1 h 13 min to 1 h 53 min) across 17 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act VI"-->
@@ -356,9 +363,11 @@ and the first clear look at what Leviathan has been doing to Lupa.
 | 1 h 34 min | WUTHERING WAVES – Act VI Flames of Heart \| Full Quest Walkthrough (No Commentary) | Radger | 43 | 2025-07-27 | <https://www.youtube.com/watch?v=nOFxLt4E2hE> |
 | 1 h 35 min | Wuthering Waves Walkthrough Part 424 - Chapter 2 Act 6: Flames of Heart (No Commentary) | MG PlayX | 78 | 2025-07-09 | <https://www.youtube.com/watch?v=O9D9XdXSj9k> |
 | 1 h 35 min | Version 2.4 Main Story Quest (Phase 2) Full Quest - Flames of Heart Act 6 \| Wuthering Waves | Streetwise Rhapsody | 31,046 | 2025-07-03 | <https://www.youtube.com/watch?v=pczz9YZ8aGQ> |
+| 1 h 37 min | Wuthering Waves 2.4 - Full Main Story Quest Playthrough \| Flames of Heart | Jonozoic | 98 | 2025-07-03 | <https://www.youtube.com/watch?v=lqaa7YOpDWg> |
 | 1 h 39 min | Wuthering Waves 2.4 Story  (FRover EN Dub) — Act 6 Flames of Heart | NaruVT | 2,472 | 2025-07-03 | <https://www.youtube.com/watch?v=dNofp8zAoyE> |
 | 1 h 39 min | Wuthering Waves - Chapter 2 Act 6: Flames of Heart \| No Commentary | SamuRRai_Gamer | 9 | 2026-07-03 | <https://www.youtube.com/watch?v=rOCD3d3GNu8> |
 | 1 h 41 min | Wuthering Waves 2.4 Full Story Walkthrough \|  Act VI – Even When Divinity Remains Silent (4K 60FPS) | GAMFO | 68 | 2025-12-21 | <https://www.youtube.com/watch?v=ZPu6WJG8AKw> |
+| 1 h 41 min | Wuthering Waves - Flames of Heart - Complete Story quest | CorporalOdin2 | 6 | 2025-10-05 | <https://www.youtube.com/watch?v=WCXNPcIYDtM> |
 | 1 h 41 min | Wuthering Waves 2.4 Main Story Act VI - "Even When Divinity Remains Silent" Full Walkthrough | PrincessKomz | 173 | 2025-07-15 | <https://www.youtube.com/watch?v=DtXCYDmquS4> |
 | 1 h 44 min | FLAMES OF HEART - Version 2.4 Pt.2 Act 6 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 44 | 2025-07-05 | <https://www.youtube.com/watch?v=drp0aetnsTY> |
 | 1 h 53 min | 2.4 Septimont Main Quest - "Chapter 2  Act 6 : Flames of Heart " HD Wuthering Waves | Clips of Genshin | 45 | 2025-09-20 | <https://www.youtube.com/watch?v=h2hvQsH5eFQ> |
@@ -374,12 +383,12 @@ Out to sea after the Threnodian's residual energy,
 where Fenrico offers an alliance and Phrolova makes the same offer worse.
 <!--gen:stats act="Act VII"-->
 
-- **Estimated length:** 2 h 47 min
-- **Sampled range:** 1 h 45 min to 3 h 05 min for the middle half (full spread 1 h 11 min to 3 h 13 min) across 11 playthrough uploads (11 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 2 h 57 min
+- **Sampled range:** 2 h 11 min to 3 h 08 min for the middle half (full spread 1 h 25 min to 4 h 03 min) across 10 playthrough uploads (12 further candidates screened out)
+- **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 2.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +6% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act VII"-->
@@ -388,10 +397,8 @@ where Fenrico offers an alliance and Phrolova makes the same offer worse.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 11 min | Dreamcatchers in the Secret Gardens \| Wuthering Waves Act VII | KCS BLANK | 73 | 2026-04-15 | <https://www.youtube.com/watch?v=EVej-WPS_CA> |
 | 1 h 25 min | Dreamcatchers in the Secret Gardens Wuthering Waves | WoW Quests | 8,565 | 2025-07-24 | <https://www.youtube.com/watch?v=gm9zLDrUP04> |
 | 1 h 45 min | Dreamcatchers in the Secret Gardens Wuthering Waves 2.5 - New Main Story Quest Full Walkthrough | Fox Star Gaming World | 15 | 2025-07-24 | <https://www.youtube.com/watch?v=fCfPgZriJ98> |
-| 1 h 55 min | Wuthering Waves 2.5 Main Story Act VII PART 1 - "Even When Divinity Remains Silent" Full Walkthrough | PrincessKomz | 102 | 2025-08-04 | <https://www.youtube.com/watch?v=_Gjp0kYWf_U> |
 | 2 h 20 min | Wuthering Waves 2.5 - Act 7. Dreamcatchers in the Secret Gardens (Full Quest, EN Dub) | Kyuub Archive | 30 | 2025-09-28 | <https://www.youtube.com/watch?v=lIr9IxELV84> |
 | 2 h 47 min | WuWa Main Quest Rinascita 2 Act 7 Full Walkthrough \| Wuthering Waves 2.5 | Akabirama | 14,019 | 2025-07-25 | <https://www.youtube.com/watch?v=fy2Y71oEuOU> |
 | 2 h 53 min | Wuthering Waves - Chapter 2 Act 7: Dreamcatchers in the Secret Gardens \| No Commentary | SamuRRai_Gamer | 10 | 2026-07-03 | <https://www.youtube.com/watch?v=EekJoPNHEmE> |
@@ -399,6 +406,7 @@ where Fenrico offers an alliance and Phrolova makes the same offer worse.
 | 3 h 05 min | Wuthering Waves 2.5 Story - Chapter 2 Act 7: Dreamcatchers in the Secret Gardens (Male Rover) | QuestWatcher | 19 | 2026-05-18 | <https://www.youtube.com/watch?v=GnqDOA8U9FU> |
 | 3 h 07 min | Wuthering Waves 2.5 (PC) Walkthrough Main Quest Dreamcatchers In The Secret Gardens | CyberFRZ | 44 | 2025-08-03 | <https://www.youtube.com/watch?v=zKvlqsFmw3Q> |
 | 3 h 13 min | Wuthering Waves 2.5 Full Story (FRover EN Dub) — Act 7 Dreamcatchers in the Secret Gardens | NaruVT | 4,546 | 2025-07-24 | <https://www.youtube.com/watch?v=qGZDX_1Nkbs> |
+| 4 h 03 min | Dreamcatchers in the Secret Gardens - full story quest | Jhincx | 5 | 2025-09-05 | <https://www.youtube.com/watch?v=3rNdHE4veWk> |
 
 </details>
 <!--/gen-->
@@ -416,7 +424,7 @@ a girl with nothing, fought her way into the Great Agon and out the other side.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - I"-->
@@ -448,12 +456,12 @@ The Ephor's hunt: Tempest Cliffs, the Tetragon Temple murals,
 and the Corrosaurus Tyrannos run down across the Asphodel Barrens.
 <!--gen:stats act="Act VIII"-->
 
-- **Estimated length:** 3 h 28 min
-- **Sampled range:** 3 h 18 min to 3 h 38 min for the middle half (full spread 3 h 12 min to 3 h 43 min) across 12 playthrough uploads (12 further candidates screened out)
+- **Estimated length:** 3 h 27 min
+- **Sampled range:** 3 h 17 min to 3 h 37 min for the middle half (full spread 3 h 12 min to 3 h 43 min) across 13 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.6
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act VIII"-->
@@ -463,6 +471,7 @@ and the Corrosaurus Tyrannos run down across the Asphodel Barrens.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 3 h 12 min | BY SUN'S BURNING HAND - Version 2.6 Act 8 Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 40 | 2025-09-20 | <https://www.youtube.com/watch?v=f7dBjYM644Q> |
+| 3 h 12 min | Wuthering Waves \| By Sun's Burning Hand \| Version 2.6 \| Full Main Story Quest Gameplay | MAVEN | 210 | 2025-09-06 | <https://www.youtube.com/watch?v=C-y6n2HigRY> |
 | 3 h 16 min | WuWa Main Quest Rinascita 2 Act 8 Full Walkthrough \| Wuthering Waves 2.6 | Akabirama | 14,805 | 2025-09-03 | <https://www.youtube.com/watch?v=yvFdl4ziXqw> |
 | 3 h 18 min | Wuthering Waves 2.6 -  By Sun's Burning Hand Full Augusta Story Quest | Segiri | 1,935 | 2025-08-28 | <https://www.youtube.com/watch?v=gZaxG_nGfzU> |
 | 3 h 19 min | Wuthering Waves Walkthrough Part 477 - Chapter 2 Act 8: By Sun's Burning Hand (No Commentary) | MG PlayX | 131 | 2025-09-04 | <https://www.youtube.com/watch?v=Tf6bG28WXDc> |
@@ -487,12 +496,12 @@ Iuno's trail leads back behind a secret door in the Tetragon Temple,
 and what is behind it is not a hero's story.
 <!--gen:stats act="Act IX"-->
 
-- **Estimated length:** 2 h 36 min
-- **Sampled range:** 2 h 31 min to 2 h 41 min for the middle half (full spread 1 h 56 min to 2 h 58 min) across 16 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 2 h 38 min
+- **Sampled range:** 2 h 31 min to 2 h 42 min for the middle half (full spread 1 h 56 min to 3 h 11 min) across 17 playthrough uploads (6 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.6
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act IX"-->
@@ -517,6 +526,7 @@ and what is behind it is not a hero's story.
 | 2 h 43 min | WUTHERING WAVES CH II - ACT IX - BY MOON'S FATED LIGHT - Gameplay Walkthrough Playthrough \| Part 33 | potato gaming id | 16 | 2026-02-28 | <https://www.youtube.com/watch?v=lVcHdJqQZsc> |
 | 2 h 51 min | Wuthering Waves [Main Story] [Ver 2.6] - By Moon's Fated Light Walkthrough [No Commentary] [JP Dub] | Fresh and Crispy Games | 4 | 2026-06-22 | <https://www.youtube.com/watch?v=k0wjbyJfynA> |
 | 2 h 58 min | [Wuthering Waves] 2.6 Main Story Quest (Part 3) \| Chapter 2 Act 9 - By Moon's Fated Light | Game Chronicles | 18 | 2026-06-18 | <https://www.youtube.com/watch?v=VK63JPUG9AI> |
+| 3 h 11 min | Wuthering Waves - By Moon's Fated Light - Complete Story quest | CorporalOdin2 | 4 | 2025-11-04 | <https://www.youtube.com/watch?v=LrMkUgaYjr8> |
 
 </details>
 <!--/gen-->
@@ -535,7 +545,7 @@ into the Mad King's arena.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act X"-->
@@ -576,12 +586,12 @@ and Leviathan's Paradise brought down to save Abby and Rover both.
 <!--gen:stats act="Act XI"-->
 One of the three longest acts in the game.
 
-- **Estimated length:** 4 h 23 min
-- **Sampled range:** 4 h 07 min to 4 h 41 min for the middle half (full spread 2 h 28 min to 6 h 15 min) across 11 playthrough uploads (14 further candidates screened out)
+- **Estimated length:** 4 h 29 min
+- **Sampled range:** 4 h 07 min to 4 h 51 min for the middle half (full spread 2 h 28 min to 6 h 15 min) across 12 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median +2% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act XI"-->
@@ -599,6 +609,7 @@ One of the three longest acts in the game.
 | 4 h 35 min | Wuthering Waves Chapter 2 Act 11: Dawn Breaks on Dark Tides | TheWayCafe Productions | 927 | 2025-10-16 | <https://www.youtube.com/watch?v=-9i1xyHs1q8> |
 | 4 h 36 min | Wuthering Waves [Main Story] [Ver 2.7] - Dawn Breaks on Dark Tides Walkthrough [No Commentary] | Fresh and Crispy Games | 9 | 2026-06-24 | <https://www.youtube.com/watch?v=YsifZ3zyQ44> |
 | 4 h 41 min | 2.7 \|  Main Story Act - 11 \| Wuthering Waves \| Dawn Breaks on Dark Tides | Maurya Playz | 65 | 2025-10-17 | <https://www.youtube.com/watch?v=4NxX87hK4-Y> |
+| 4 h 55 min | Wuthering Waves - Dawn Breaks on Dark Tides - Complete Story quest | CorporalOdin2 | 7 | 2026-03-10 | <https://www.youtube.com/watch?v=HnOm_CVyD7U> |
 | 5 h 50 min | Dawn Breaks on Dark Tides FULL QUEST Wuthering Waves 2.7 | NeoBuns | 1,326 | 2025-10-11 | <https://www.youtube.com/watch?v=I51oy83qSOY> |
 | 6 h 15 min | Wuthering Waves 2.7 Dawn Breaks on Dark Tides Full Playthrough NO COMMENTARY | DirksDgames | 70 | 2025-10-10 | <https://www.youtube.com/watch?v=gj9ao9jpSY4> |
 
@@ -614,12 +625,12 @@ and the song is about Qiuyuan, a stranger from Huanglong
 who walked into Ragunna's worst night and never explained himself.
 <!--gen:stats act="Segue - II"-->
 
-- **Estimated length:** 1 h 03 min
-- **Sampled range:** 1 h 01 min to 1 h 05 min for the middle half (full spread 40 min to 1 h 12 min) across 12 playthrough uploads (3 further candidates screened out)
+- **Estimated length:** 1 h 02 min
+- **Sampled range:** 1 h 01 min to 1 h 05 min for the middle half (full spread 40 min to 1 h 12 min) across 14 playthrough uploads (1 further candidate screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median -2% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -630,9 +641,11 @@ who walked into Ragunna's worst night and never explained himself.
 | --- | --- | --- | --- | --- | --- |
 | 40 min | A Stranger in a Strange Land FULL QUEST Wuthering Waves | ZaFrostPet | 2,272 | 2025-10-30 | <https://www.youtube.com/watch?v=y-PbbpTcDaU> |
 | 1 h 00 min | Wuthering Waves - A Stranger in A Strange Land Full Quest (4K PS5 Gameplay) | Malachi Plays Games | 7 | 2025-11-07 | <https://www.youtube.com/watch?v=HHzeR-ki9gs> |
+| 1 h 00 min | Wuthering Waves - Renascita Chapter II: Segue - A Stranger in a Strange Land Full Story Playthrough | Uranium Tea Gaming | 76 | 2025-11-02 | <https://www.youtube.com/watch?v=-cScM3hp-34> |
 | 1 h 01 min | Wuthering Waves Walkthrough Part 541 - Chapter 2 Segue: Stranger in a Strange Land (No Commentary) | MG PlayX | 47 | 2025-11-16 | <https://www.youtube.com/watch?v=TWD8rwD-Gk8> |
 | 1 h 01 min | A Stranger in a Strange Land QUEST Wuthering Waves | NeoBuns | 17 | 2025-10-30 | <https://www.youtube.com/watch?v=Prcxuw5-HSo> |
 | 1 h 02 min | Wuthering Waves: A Stranger in a Strange Land \| Full Quest Gameplay | AllGameZoneII | 7 | 2025-11-05 | <https://www.youtube.com/watch?v=0WWpiRJgC8o> |
+| 1 h 02 min | A STRANGER IN A STRANGE LAND - Version 2.7 Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 12 | 2025-11-17 | <https://www.youtube.com/watch?v=kk_M4P_rsos> |
 | 1 h 02 min | Rinascita Chapter 2: Segue \| A Stranger in a Strange Land Full Quest | Gacha Chief | 731 | 2025-10-30 | <https://www.youtube.com/watch?v=Wqyg2mPNPtg> |
 | 1 h 03 min | Wuthering Waves - Chapter 2 Segue 2: Stranger in a Strange Land \| No Commentary | SamuRRai_Gamer | 3 | 2026-07-10 | <https://www.youtube.com/watch?v=BRg8UpJh4G4> |
 | 1 h 04 min | [Wuthering Waves Main Quest] A Stranger In A Strange Land: Put Fenrico The First To Rest | Authrone | 192 | 2025-10-30 | <https://www.youtube.com/watch?v=RAY9k7xhj5s> |
@@ -657,7 +670,7 @@ and the Error Cell it comes from is a city coming apart around its own people.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 2.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act XII"-->
@@ -693,11 +706,11 @@ a cafe to redecorate, and a party that everyone is late for.
 <!--gen:stats act="Segue - III"-->
 
 - **Estimated length:** 1 h 13 min
-- **Sampled range:** 1 h 09 min to 1 h 16 min for the middle half (full spread 1 h 07 min to 1 h 26 min) across 8 playthrough uploads (7 further candidates screened out)
+- **Sampled range:** 1 h 09 min to 1 h 19 min for the middle half (full spread 1 h 07 min to 1 h 40 min) across 10 playthrough uploads (5 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.8
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Segue - III"-->
@@ -708,12 +721,14 @@ a cafe to redecorate, and a party that everyone is late for.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 07 min | Wuthering Waves Walkthrough Part 554 - Chapter 2 Segue: Flowing Starlight in the Iris (No Comment) | MG PlayX | 48 | 2025-11-29 | <https://www.youtube.com/watch?v=RM-sHKZlwIw> |
 | 1 h 08 min | Wuthering Waves - Chapter 2 Segue 3: Flowing Starlight in the Iris \| No Commentary | SamuRRai_Gamer | 7 | 2026-07-11 | <https://www.youtube.com/watch?v=AumHuC1ytyw> |
+| 1 h 09 min | FLOWING STARLIGHT IN THE IRIS - Version 2.8 Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 23 | 2025-12-23 | <https://www.youtube.com/watch?v=eP1N9Y4yfFw> |
 | 1 h 12 min | Wuthering Waves Main Quest: Chronorift Metropolis Segue - Flowing Starlight in the Iris | Drexyz | 15 | 2025-12-12 | <https://www.youtube.com/watch?v=S5z1EQQsboc> |
 | 1 h 12 min | [Wuthering Waves Main Quest] Flowing Starlight In The Iris: Take A Stroll With Chisa | Authrone | 367 | 2025-11-20 | <https://www.youtube.com/watch?v=2z-PemtTRgM> |
 | 1 h 15 min | Flowing Starlight In The Iris - Main Story Quest Version 2.8 ( Full Gameplay ) \| Wuthering Waves  | DIABLO PLAY'S  | 5 | 2025-11-22 | <https://www.youtube.com/watch?v=KCLSQm1biRU> |
 | 1 h 15 min | Wuthering Waves 2.8 Story - Chapter 2 Chisa Segue: Flowing Starlight in the Iris (Male Rover) | QuestWatcher | 18 | 2026-06-19 | <https://www.youtube.com/watch?v=yArt8ckBOvw> |
 | 1 h 17 min | Wuthering Waves Segue Quest \| Flowing Starlight in the Iris \| No Commentary | Ciamiko | 11 | 2026-01-18 | <https://www.youtube.com/watch?v=qcOAh_D5WC8> |
 | 1 h 26 min | Peaceful Quiet \| Wuthering Waves [Flowing Starlight in the Iris] Full Quest | FervidTwo Gaming | 15 | 2026-07-05 | <https://www.youtube.com/watch?v=E5QEPmWetHY> |
+| 1 h 40 min | Wuthering Waves - Flowing Starlight in the Iris - Complete Story quest | CorporalOdin2 | 22 | 2025-12-01 | <https://www.youtube.com/watch?v=x6o91McJR3Y> |
 
 </details>
 <!--/gen-->

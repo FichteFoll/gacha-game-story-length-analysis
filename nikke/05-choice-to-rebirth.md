@@ -51,7 +51,7 @@ the concert back in the Ark.
 - **Sampled range:** 2 h 04 min to 2 h 26 min for the middle half (full spread 1 h 38 min to 2 h 43 min) across 10 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 40"-->
@@ -86,7 +86,7 @@ to make a Rapture Queen of their own.
 - **Sampled range:** 1 h 59 min to 2 h 42 min for the middle half (full spread 1 h 13 min to 3 h 10 min) across 11 playthrough uploads (14 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 11 uploads
 <!--/gen-->
 
@@ -124,7 +124,7 @@ One of the three longest chapters in the game.
 - **Sampled range:** 2 h 48 min to 3 h 25 min for the middle half (full spread 2 h 39 min to 4 h 47 min) across 9 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 42"-->
@@ -158,7 +158,7 @@ goes down through memories she had long forgotten.
 - **Sampled range:** 1 h 39 min to 2 h 08 min for the middle half (full spread 1 h 37 min to 3 h 15 min) across 13 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 <!--/gen-->
 
@@ -198,7 +198,7 @@ The single longest chapter in the game.
 - **Sampled range:** 2 h 59 min to 3 h 22 min for the middle half (full spread 2 h 58 min to 3 h 38 min) across 9 playthrough uploads (14 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 44"-->
@@ -232,7 +232,7 @@ and the Nikke she is prepared to spend on setting it.
 - **Sampled range:** 2 h 08 min to 2 h 26 min for the middle half (full spread 1 h 36 min to 2 h 48 min) across 9 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 45"-->
@@ -267,7 +267,7 @@ One of the three longest chapters in the game.
 - **Sampled range:** 2 h 53 min to 3 h 21 min for the middle half (full spread 2 h 16 min to 3 h 48 min) across 10 playthrough uploads (9 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 46"-->

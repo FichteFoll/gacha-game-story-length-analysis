@@ -51,3 +51,5 @@ story collection
 \bbonus story\b
 \bmemoir\b
 \btranslated\b
+\bnew events?\b
+\bwatch ?party\b

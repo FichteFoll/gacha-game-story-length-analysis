@@ -50,8 +50,8 @@ import sys
 from analyze import (IQR_SAMPLES as MIN_SAMPLES, LONG_OUTLIER, SPAN_COVERAGE,
                      UNSTABLE_DRIFT)
 from assertions import failures
-from facts import (chapter_facts, chapter_total, hm, measured, median_of,
-                   plural_unit, report_facts, superlatives, word)
+from facts import (RANK_SAMPLES, chapter_facts, chapter_total, hm, median_of,
+                   plural_unit, rankable, report_facts, superlatives, word)
 from queries import RECENT_VERSIONS
 
 # The interquartile factors the confidence rating is graded on. Their companion
@@ -305,6 +305,12 @@ def ranged(stats):
             f"(full spread {hm(low)} to {hm(high)})")
 
 
+def signed_percent(fraction):
+    """A signed whole percentage, with no sign on one that rounds to zero."""
+    text = f"{fraction:+.0%}"
+    return "0%" if text in ("+0%", "-0%") else text
+
+
 def part_list(parts, timings):
     """Quest parts in wiki order, timed where enough uploads marked them out."""
     return "; ".join(f"{p} ({hm(timings[p])})" if p in timings else p
@@ -335,7 +341,7 @@ def act_stats(report, act, parts, versions, version_index, superlative):
                     f"{report.gate_for(act)}")
     body.append(f"- **Released in:** {released_in(act, versions, version_index)}")
     if s.get("drift") is not None:
-        body.append(f"- **Stability:** median {s['drift']:+.0%} "
+        body.append(f"- **Stability:** median {signed_percent(s['drift'])} "
                     f"against an earlier, independent query set")
     if s.get("measured"):
         body.append(f"- **Measured from the uploader's chapter markers:** "
@@ -393,7 +399,7 @@ def chapters_table(report, by_chapter):
 def extremes_table(report, all_acts):
     lines = [f"| | {report.config.get('unit', 'Act')} | Estimate |",
              "| --- | --- | --- |"]
-    ranked = sorted(measured(all_acts), key=median_of)
+    ranked = sorted(rankable(all_acts), key=median_of)
     for kind, picked in (("longest", reversed(ranked[-5:])),
                          ("shortest", ranked[:3])):
         for a in picked:
@@ -432,6 +438,10 @@ def thresholds(report):
         "against the earlier, independent set of queries "
         "(`analyze.py --compare`), \n"
         "whatever its sample size says.",
+        f"- {plural_unit(unit(report)).capitalize()} resting on fewer than "
+        f"{word(RANK_SAMPLES)} uploads are published with their figures \n"
+        "but take no part in any ranking, \n"
+        "so none of them is called the longest or the shortest of anything.",
     ]
 
 

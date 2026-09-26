@@ -50,7 +50,7 @@ and puts down the thing waiting at the bottom of it.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 14 uploads
 <!--/gen-->
 

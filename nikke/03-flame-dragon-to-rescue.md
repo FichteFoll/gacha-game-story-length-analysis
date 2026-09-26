@@ -55,7 +55,7 @@ Neither the target nor the allies make it simple.
 - **Sampled range:** 53 min to 1 h 13 min for the middle half (full spread 50 min to 1 h 38 min) across 10 playthrough uploads (14 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 20"-->
@@ -90,7 +90,7 @@ and a Tyrant-class Rapture is the raw material.
 - **Sampled range:** 1 h 20 min to 1 h 48 min for the middle half (full spread 1 h 18 min to 2 h 29 min) across 11 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 21"-->
@@ -125,7 +125,7 @@ Counters comes home to find the Raptures already inside the Ark.
 - **Sampled range:** 1 h 19 min to 1 h 52 min for the middle half (full spread 1 h 10 min to 2 h 24 min) across 12 playthrough uploads (11 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 22"-->
@@ -162,7 +162,7 @@ and Dorothy drops out of the sky to prove it can be survived.
 - **Sampled range:** 1 h 33 min to 1 h 51 min for the middle half (full spread 1 h 31 min to 2 h 23 min) across 9 playthrough uploads (14 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 23"-->
@@ -196,7 +196,7 @@ and the worst case arriving anyway.
 - **Sampled range:** 1 h 59 min to 3 h 09 min for the middle half (full spread 1 h 49 min to 3 h 30 min) across 10 playthrough uploads (12 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 24"-->
@@ -231,7 +231,7 @@ among old faces and new ones with unclear motives.
 - **Sampled range:** 1 h 14 min to 1 h 33 min for the middle half (full spread 57 min to 2 h 00 min) across 12 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 25"-->
@@ -268,7 +268,7 @@ and will not come out until the Goddess has gone home.
 - **Sampled range:** 1 h 25 min to 1 h 30 min for the middle half (full spread 1 h 17 min to 2 h 22 min) across 9 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 26"-->
@@ -302,7 +302,7 @@ and the crystal region that starts where it ends.
 - **Sampled range:** 1 h 31 min to 1 h 51 min for the middle half (full spread 1 h 29 min to 3 h 05 min) across 10 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 27"-->
@@ -337,7 +337,7 @@ where the map stops being any use and someone is waiting.
 - **Sampled range:** 1 h 29 min to 2 h 14 min for the middle half (full spread 1 h 15 min to 2 h 31 min) across 10 playthrough uploads (13 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 28"-->
@@ -372,7 +372,7 @@ and the squads still standing have to go back in after them.
 - **Sampled range:** 1 h 26 min to 1 h 43 min for the middle half (full spread 1 h 20 min to 2 h 25 min) across 9 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 29"-->

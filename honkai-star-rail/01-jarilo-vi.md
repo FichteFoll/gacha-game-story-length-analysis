@@ -85,7 +85,7 @@ by handing the planet to the Stellaron.
 - **Confidence:** low
 - **Level gate:** Equilibrium Level 1
 - **Released in:** 1.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (11):** Cleanse in the Darkness Outside; Unattainable Idol; Young Guard; Soldiers Stay Silent; The Stars Are Cold Toys; Roads to the Past Have Long Been Closed; The Dawn Here...; The Return; In the Dangerous Muddy Swamp; No Time for Me, My Friend; Silent Galaxy
 <!--/gen-->
 

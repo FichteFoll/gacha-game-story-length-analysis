@@ -58,7 +58,7 @@ The shortest entry in the questline.
 - **Sampled range:** 1 h 20 min to 2 h 16 min for the middle half (full spread 1 h 10 min to 2 h 47 min) across 10 playthrough uploads (9 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (10):** 1-1: Formulate; 1-2: Arc of Light; 1-3: Puncture Point; SL-1-1: Euler Lotka Equation; 1-4: Merge; SL-1-2: Semantic Satiation; 1-5: Zero-Piece Interlock; 1-6: Equivalent Exchange; 1-7: Transfer I; 1-8: Transfer II
 <!--/gen-->
 
@@ -95,7 +95,7 @@ and the first Boojum-class ELID the squad barely survives.
 - **Sampled range:** 2 h 06 min to 2 h 43 min for the middle half (full spread 1 h 14 min to 3 h 20 min) across 12 playthrough uploads (9 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 12 uploads
 - **Quest parts (14):** 2-1: Guess; SL-2-1: Intersection; 2-2: Arrogance; 2-3: Diffraction; SL-2-2: Convergence; 2-4: Disturbance; 2-5: Simulated Defense; 2-6: Narrow Path I; 2-7: Narrow Path II; 2-8: Wolf Pack Assault; SL-2-3: Price; SL-2-4: Paradox Loop; 2-10: Black Swan; SL-2-5: Final Curtain
 <!--/gen-->
@@ -135,7 +135,7 @@ and have to withdraw.
 - **Sampled range:** 1 h 35 min to 3 h 07 min for the middle half (full spread 1 h 12 min to 3 h 18 min) across 10 playthrough uploads (11 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (15):** SL-3-1: The Object; 3-1: Penetration; SL-3-2: First Encounter; 3-2: Preparation I; 3-3: Preparation II; 3-4: Silent Echo; SL-3-3: Fault Line; 3-5: Self-Adaptive; 3-6: Negotiation; 3-7: Primary Plan; SL-3-4: Time-Variant; 3-8: Exclude; SL-3-5: Virtual Reflection; 3-9: Capturing; 3-10: Chaotic Field
 <!--/gen-->
 
@@ -211,7 +211,7 @@ and Helena turns out not to be what the Commander was told.
 - **Sampled range:** 2 h 05 min to 3 h 28 min for the middle half (full spread 1 h 32 min to 4 h 06 min) across 10 playthrough uploads (11 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 10 uploads
 - **Quest parts (14):** SL-5-1: Jostled Cradle; 5-1: Breakthrough I; 5-2: Obstacle Clearing; 5-3: Transient Reflection; 5-4: Quantum Light; SL-5-2: Waveform Deviation; 5-5: Dark Passage; SL-5-3: Anomalous Conductor; 5-6: Bilateral Constraint; 5-7: Random Medium; 5-8: Breaktrough II; 5-9: Breaktrough III; SL-5-4: Ebb and Flow; 5-10: Combined Parameters
 <!--/gen-->

@@ -107,7 +107,7 @@ and tomorrow set alight at the end of them.
 - **Sampled range:** 2 h 12 min to 3 h 52 min for the middle half (full spread 1 h 35 min to 4 h 08 min) across 8 playthrough uploads (31 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 4.9
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (2):** Echo; Reform
 <!--/gen-->
 

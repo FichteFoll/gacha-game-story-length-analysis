@@ -17,7 +17,7 @@ REPORT = dict(
     # The account-level requirement acts are gated behind, as the game names it.
     # None for a game that gates its story some other way.
     gate_label="Adventure Rank",
-    date="2026-08-18",
+    date="2026-09-26",
 )
 
 CHAPTERS = [
@@ -58,7 +58,7 @@ CHAPTERS = [
     ),
     dict(
         id="ch7", slug="07-chapter-vii-snezhnaya", wiki_page="Chapter VII", region="Snezhnaya",
-        versions="7.0",
+        versions="7.0 - 7.1",
         title="Chapter VII: Everwinter Without Mercy",
     ),
 ]
@@ -68,6 +68,6 @@ GATES = {
     "prologue|Act I": "-", "prologue|Act II": "10", "prologue|Act III": "18",
     "ch1|Act I": "23", "ch1|Act II": "25", "ch1|Act III": "28",
     "ch1|Act IV - Prelude": "28", "ch1|Act IV": "28",
-    "ch7|Act I": "18", "ch7|Act II": "-",
+    "ch7|Act I": "18", "ch7|Act II": "18", "ch7|Act III": "18", "ch7|Act IV": "-",
 }
 GATE_DEFAULT = {"ch2": "30", "ch3": "35", "ch4": "40", "ch5": "40", "sotwm": "40"}

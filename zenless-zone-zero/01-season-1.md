@@ -294,7 +294,7 @@ and the flames turn out to be someone's business plan.
 - **Sampled range:** 2 h 38 min to 3 h 22 min for the middle half (full spread 1 h 44 min to 4 h 44 min) across 13 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 1.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (11):** A Different Path; Outer Ring Journey; Beneath the Legend; Data Collection; Source Procurement; Leak Scandal; Tracking Operation; Ridu Holidays; Tour de Inferno; The Hero Returns; Gates of the Past
 <!--/gen-->
 

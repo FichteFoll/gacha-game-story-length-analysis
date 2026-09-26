@@ -50,7 +50,7 @@ and the pilgrimage of the Sacred Flame.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (43 min)
 <!--/gen-->
@@ -173,7 +173,7 @@ and Capitano's end.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (6):** Beneath the Secret Source; As One We Watch the Setting Sun; The Surging Darkness; Despair Engulfs the Heavens; No One Fights Alone; A Fuel Named "Fate"
 <!--/gen-->
@@ -251,7 +251,7 @@ and the price already paid for the Ode of Resurrection.
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.3
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (5):** Subterranean Ruins; As the Sun Rises and Sets; Journey of Stars and Flames; Where All Hopes Lie; When All Becomes a Monument
 <!--/gen-->
@@ -262,7 +262,7 @@ and the price already paid for the Ode of Resurrection.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 03 min | Genshin Impact Ch V act V - Incandescent Ode of Resurrection Part 2 (No Commentary) | Gaming_Dino | ~2 | n/a | <https://www.youtube.com/watch?v=sBUuEfWT8WI> |
+| 2 h 03 min | Genshin Impact Ch V act V - Incandescent Ode of Resurrection Part 2 (No Commentary) | Gaming_Dino | 2 | 2025-03-28 | <https://www.youtube.com/watch?v=sBUuEfWT8WI> |
 | 2 h 56 min | Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT V: Incandescent Ode of Resurrection PART 27 | SilentPixie Gaming | 18 | 2026-01-17 | <https://www.youtube.com/watch?v=g04PdnvPZv0> |
 | 3 h 12 min | Incandescent Ode of Resurrection - Chapter V: Act V (Full Story Quest) - Genshin Impact 5.3 | Sir Patty | 40 | 2025-01-06 | <https://www.youtube.com/watch?v=87JJ-Wtv2Qc> |
 | 3 h 30 min | Natlan Archon Quest Act 5 Full Story HD \| Incandescent Ode Of Resurrection \| Genshin Impact 5.3 | Noxxis Gaming | 15,384 | 2025-01-01 | <https://www.youtube.com/watch?v=82Q_oSbZ0U4> |
@@ -287,7 +287,7 @@ and the closest thing yet to a reunion with the sibling.
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (3):** The Key That Unlocks Fate; "Savior"; A Space and Time Without You
 <!--/gen-->

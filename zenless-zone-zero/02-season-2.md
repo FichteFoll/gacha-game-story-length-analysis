@@ -55,7 +55,7 @@ that nobody but its disciple believes in.
 - **Sampled range:** 4 h 05 min to 5 h 20 min for the middle half (full spread 3 h 33 min to 6 h 19 min) across 13 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 2.0
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 - **Quest parts (11):** Yunkui Visitor; Attack from the Shadows; Dispel the Darkness; Welcome to Suibian Temple!; Land of Rising Turmoil; Eaves and Brackets, Renewed in Light; Lurking Menace in the Shadows; Calamity Casts a Shadow, Yet Shows No Sign; Lurking Waves; Yunkui Disciples Re-Emerge; The Storm Has Settled, but Ripples Remain
 <!--/gen-->
@@ -97,7 +97,7 @@ and the source of the Obscuras.
 - **Sampled range:** 3 h 39 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 13 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.1
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** Safety Inspection; Prank Perpetrator; Sailume Bay Pursuit; Source of the Obscuras; Secret Past; A Bond Returned; Echoes of Melody Linger
 <!--/gen-->
 
@@ -138,7 +138,7 @@ and a story that refuses to end where it should.
 - **Sampled range:** 3 h 29 min to 4 h 14 min for the middle half (full spread 3 h 20 min to 5 h 21 min) across 13 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.2
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (8):** Last Night, Ashes; Fuel to the Fire; The Winner's Rules; Source of Fire; Soldier's Creed; Dawn, Karmic Fire; An Incomplete Story; Ending at Last...?
 <!--/gen-->
 
@@ -221,7 +221,7 @@ and the question of who has been watching all along.
 - **Sampled range:** 4 h 03 min to 4 h 50 min for the middle half (full spread 3 h 46 min to 5 h 30 min) across 13 playthrough uploads (7 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.4
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** New Resident; Dark Tides Rising; Cryptic; Who Is Spying?; Fleeting Warmth; A Series of Changes; A Storm Brews
 <!--/gen-->
 
@@ -262,7 +262,7 @@ The single longest chapter in the game.
 - **Sampled range:** 6 h 20 min to 8 h 01 min for the middle half (full spread 5 h 54 min to 11 h 11 min) across 12 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 2.5
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (12):** Before the Storm Settles; Good News, Bad News; Crisis Emerges; A Brief Rest; Keeper of the Qingming Sword; A foreseen Conclusion; A Sudden Turn of Events; Secrets Beneath the Ice; "Our" Connection; Mortal Form; The Oath; Epilogue
 <!--/gen-->
 
@@ -303,7 +303,7 @@ One of the three longest chapters in the game.
 - **Sampled range:** 4 h 47 min to 5 h 55 min for the middle half (full spread 4 h 33 min to 6 h 14 min) across 11 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.6
-- **Stability:** median -0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (8):** Pre-Festival Unexpected Commission; Prelude to Delusion; Construct Series Case; Startled Awake from Old Dreams; Courage and Hidden Wounds; She once promised...; Yearlight Ceremony Emergency Plan; This Night Is Gilded
 <!--/gen-->
 
@@ -342,7 +342,7 @@ and the first stage goes about as well as expected.
 - **Sampled range:** 2 h 54 min to 3 h 33 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 13 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (8):** A New Variable; Hollow Champion Competition; Ragtag Crew; Chaotic First Stage; Interrupted Showdown; Drown in the Nightmare; Chaotic Revelry; Before the Sun Sets
 <!--/gen-->
 

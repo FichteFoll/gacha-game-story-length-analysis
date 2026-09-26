@@ -42,7 +42,7 @@ The chapter the arc is named after, and all of it.
 - **Sampled range:** 2 h 59 min to 3 h 43 min for the middle half (full spread 2 h 39 min to 4 h 31 min) across 9 playthrough uploads (47 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 7.7
-- **Stability:** median +0% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter IV"-->

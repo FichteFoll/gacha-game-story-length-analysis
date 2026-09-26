@@ -3,9 +3,11 @@
 The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
-from assertions import (count_above, is_extreme, largest_chapter,
-                        median_between, none_above, rank_at_most,
-                        sample_at_most)
+from analyze import IQR_SAMPLES
+from assertions import (count_above, every_sample_at_least, is_extreme,
+                        largest_chapter, median_between, none_above,
+                        rank_at_most, sample_at_least)
+
 
 CLAIMS = [
     none_above("prologue", 60,
@@ -31,8 +33,8 @@ CLAIMS = [
 
     largest_chapter("ch2", "By far the largest chapter here"),
     count_above("ch2", 120, 9,
-                "nine of its seventeen entries run past two hours"),
-    count_above("ch2", 180, 3, "and three past three"),
+                "{n_above_2h} of its {n_entries} entries run past two hours"),
+    count_above("ch2", 180, 3, "and {n_above_3h} past three"),
     median_between("ch2", "Prologue", 5, 75,
                    "the prologue, the two afterstory segues and "
                    "*Rust, Sword and the Sun* all sit under an hour "
@@ -71,7 +73,12 @@ CLAIMS = [
     median_between("ch4", "Segue - II", 5, 45,
                    "the two segues together add under {len_Segue_I} plus "
                    "{len_Segue_II}"),
-    sample_at_most("ch4", "Segue - II", 7,
-                   "the newest entries have had days rather than months "
-                   "to accumulate uploads"),
+    sample_at_least("ch4", "Segue - II", IQR_SAMPLES,
+                    "the closing segue, thin while it was new, has since "
+                    "gathered enough uploads to be rated on its spread"),
+
+    # README.md, limits
+    every_sample_at_least("ch4", IQR_SAMPLES,
+                          "its segues, thin while they were new, have since "
+                          "gathered enough uploads to be rated on their spread"),
 ]

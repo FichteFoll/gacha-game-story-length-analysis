@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->118 h 30 min<!--/f-->** (<!--f:n_report_entries-->24<!--/f--> entries counting missions, measured against <!--f:n_videos-->242<!--/f--> accepted uploads out of <!--f:n_candidates-->652<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->121 h 46 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> entries counting missions, measured against <!--f:n_videos-->261<!--/f--> accepted uploads out of <!--f:n_candidates-->691<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -17,7 +17,7 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 45 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 22 h 53 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 14 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.4 | 5 | 27 h 47 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.5 | 6 | 31 h 03 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->
@@ -79,6 +79,9 @@ It is *low* on fewer than eight uploads,
 and *low* for any mission whose median moved by 10 percent or more
 against the earlier, independent set of queries (`analyze.py --compare`),
 whatever its sample size says.
+- Missions resting on fewer than three uploads are published with their figures
+but take no part in any ranking,
+so none of them is called the longest or the shortest of anything.
 <!--/gen-->
 
 ## Limits of this report
@@ -97,14 +100,20 @@ so the pools are not thin,
 but they have had the least time to settle,
 and the accepted uploads of its opening mission
 still disagree by a factor of two.
-- Astropolis and its mission *To Roll the Stars in Astropolis*
-are still upcoming content at the time of writing (Version 4.5),
+- *To Roll the Stars in Astropolis* (Version 4.5) leaves Planarcadia for Astropolis,
+but the wiki files it as a Planarcadia chapter
+and lists it under Planarcadia/Astropolis,
+so this report counts it with Planarcadia.
+*Dance With the Beast Before Moonrise*, the Astropolis mission after it,
+is still upcoming content at the time of writing (Version 4.6),
 so there is nothing to measure yet.
 - *Memories are the Prelude to Dreams* is a Finality Mission:
 supplemental Penacony story released long after the world was finished.
 The Trial of Equilibrium missions are level-cap trials
-rather than story.
-Neither is part of the main progression,
-so both are outside this report's scope.
+rather than story,
+and the wiki types the Trailblaze Continuance chapters
+apart from the Trailblaze Missions.
+None of them is part of the main progression,
+so they are all outside this report's scope.
 
-Data collected <!--f:date-->2026-08-18<!--/f-->.
+Data collected <!--f:date-->2026-09-26<!--/f-->.
