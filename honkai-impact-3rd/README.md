@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 58 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->574<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->149 h 58 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->572<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -37,7 +37,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
-| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 03 min |
+| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 02 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
 | longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 24 min |
@@ -94,6 +94,11 @@ the set is read as a split.
 One channel instead gives each instalment a subtitle of its own,
 which no wording catches,
 so its instalments of the newest chapter are screened out by name.
+Another numbers only its later instalments,
+putting the instalment before the storyline's part
+("Part 2 (Part 2 Chapter 14)"),
+and those are screened out by that wording;
+its unnumbered first instalments are not told apart from a complete upload.
 - **Clips:** the pool carries a great many highlight clips
 that name the chapter, say nothing about their scope and run a few minutes.
 No wording catches them, so this report sets a runtime floor

@@ -31974,7 +31974,7 @@
     "url": "https://www.youtube.com/watch?v=NMdyS2A-zhU",
     "views": "26",
     "rejected": [
-     "same-uploader"
+     "fragment"
     ]
    },
    {
@@ -35095,7 +35095,9 @@
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=-CzkYR1NU-k",
     "views": 3,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260809"
    },
    {
@@ -35306,15 +35308,6 @@
     "rejected": []
    },
    {
-    "seconds": 14083,
-    "title": "Rose in a Curtsy Part 2 (Part 2 Chapter 13) [Honkai Impact 3rd] with the Beefkins!",
-    "uploader": "Rainbow Beefkins",
-    "url": "https://www.youtube.com/watch?v=-CzkYR1NU-k",
-    "views": 3,
-    "rejected": [],
-    "upload_date": "20260809"
-   },
-   {
     "seconds": 14358,
     "title": "Seele | Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
@@ -35382,16 +35375,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 239,
+   "n": 14,
+   "median": 240,
    "low": 198,
    "high": 408,
-   "q1": 227,
-   "q3": 251,
+   "q1": 223,
+   "q3": 255,
    "trimmed_mean": 240,
    "measured": 0,
    "parts": {},
-   "drift": -0.004
+   "drift": 0.0
   }
  },
  {
@@ -35807,7 +35800,9 @@
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=kUEpJrrl0FE",
     "views": "55",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 2646,
@@ -36100,14 +36095,6 @@
     "rejected": []
    },
    {
-    "seconds": 26033,
-    "title": "The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins!",
-    "uploader": "Rainbow Beefkins",
-    "url": "https://www.youtube.com/watch?v=kUEpJrrl0FE",
-    "views": "55",
-    "rejected": []
-   },
-   {
     "seconds": 28049,
     "title": "Honkai Impact 3rd - 9.0 Story - The Future We Embrace",
     "uploader": "Kurib",
@@ -36118,13 +36105,13 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 363,
+   "n": 9,
+   "median": 362,
    "low": 288,
    "high": 467,
-   "q1": 318,
-   "q3": 420,
-   "trimmed_mean": 370,
+   "q1": 316,
+   "q3": 404,
+   "trimmed_mean": 365,
    "measured": 0,
    "parts": {},
    "drift": null

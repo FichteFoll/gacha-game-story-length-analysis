@@ -18,8 +18,8 @@ and Dreamseeker and Vita head back to Difeng to stop the Great Wipe.
 | Chapter XI | A Mass for Atheists | 4 h 24 min | 3 h 42 min - 4 h 48 min | 14 | medium |
 | Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 5 | low |
 | Chapter XII | With You, Whom I Never Knew | 4 h 19 min | 3 h 37 min - 4 h 29 min | 17 | high |
-| Chapter XIII | A Rose in a Curtsy | 3 h 59 min | 3 h 47 min - 4 h 11 min | 15 | high |
-| Chapter XIV | The Future We Embrace | 6 h 03 min | 5 h 18 min - 7 h 00 min | 10 | medium |
+| Chapter XIII | A Rose in a Curtsy | 4 h 00 min | 3 h 43 min - 4 h 15 min | 14 | high |
+| Chapter XIV | The Future We Embrace | 6 h 02 min | 5 h 16 min - 6 h 44 min | 9 | medium |
 <!--/gen-->
 
 **Total: <!--f:total-->25 h 12 min<!--/f-->**
@@ -33,7 +33,7 @@ Four of its entries sit within half an hour of each other
 and the EX chapter sits well below them at
 <!--f:len_Chapter_EX_4-->2 h 27 min<!--/f-->.
 Chapter XIV runs past all of them, and past every other entry in the game,
-at <!--f:len_Chapter_XIV-->6 h 03 min<!--/f-->.
+at <!--f:len_Chapter_XIV-->6 h 02 min<!--/f-->.
 Coverage is good: these chapters shipped recently enough
 that whole-chapter uploads are the normal thing to publish,
 and most of the entries here carry a middle half.
@@ -189,8 +189,8 @@ The chapter the wiki named the arc after
 until Chapter XIV shipped.
 <!--gen:stats act="Chapter XIII"-->
 
-- **Estimated length:** 3 h 59 min
-- **Sampled range:** 3 h 47 min to 4 h 11 min for the middle half (full spread 3 h 18 min to 6 h 48 min) across 15 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 4 h 00 min
+- **Sampled range:** 3 h 43 min to 4 h 15 min for the middle half (full spread 3 h 18 min to 6 h 48 min) across 14 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.9
 - **Stability:** median 0% against an earlier, independent query set
@@ -208,7 +208,6 @@ until Chapter XIV shipped.
 | 3 h 47 min | Full Story Chapter 13 "A Rose In A Curtsy" \| Honkai Impact 3 part 2 (Japanese Dub)  | RnQ | ~237 | n/a | <https://www.youtube.com/watch?v=h2c4YVzI7qI> |
 | 3 h 52 min | Honkai Impact 3rd Story Part 2, Chapter 13 : "A Rose in a Curtsy" | Arikachi Ch. ありかち_かとじ | 12 | 2026-07-10 | <https://www.youtube.com/watch?v=04a5DYo_X8Q> |
 | 3 h 52 min | Completing Part 2 Chapter 13 'A Rose in a Curtsy' \| Honkai Impact 3rd | JaydenHorn1406 | ~93 | n/a | <https://www.youtube.com/watch?v=RWnpYW6gkZc> |
-| 3 h 55 min | Rose in a Curtsy Part 2 (Part 2 Chapter 13) [Honkai Impact 3rd] with the Beefkins! | Rainbow Beefkins | 3 | 2026-08-09 | <https://www.youtube.com/watch?v=-CzkYR1NU-k> |
 | 3 h 59 min | Seele \| Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~2,621 | n/a | <https://www.youtube.com/watch?v=ZmJpfs5MSAc> |
 | 4 h 00 min | Honkai Impact 3rd Part 2: Chapter XIII: A Rose in a Curtsy | Satus Oblitan | ~2 | n/a | <https://www.youtube.com/watch?v=DGf1lDB63Ns> |
 | 4 h 03 min | (14)Honkai Impact 3rd \| Part 2 \| Main Story - Chapter  13 \| A Rose in a Curtsy | DodocoNotes | 9 | 2026-08-11 | <https://www.youtube.com/watch?v=3NW8X0B0lK4> |
@@ -234,8 +233,8 @@ are screened out for not naming the act.
 <!--gen:stats act="Chapter XIV"-->
 The single longest chapter in the game.
 
-- **Estimated length:** 6 h 03 min
-- **Sampled range:** 5 h 18 min to 7 h 00 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 10 playthrough uploads (52 further candidates screened out)
+- **Estimated length:** 6 h 02 min
+- **Sampled range:** 5 h 16 min to 6 h 44 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 9 playthrough uploads (53 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 9.0
 <!--/gen-->
@@ -254,7 +253,6 @@ The single longest chapter in the game.
 | 6 h 04 min | Honkai Impact 3rd Part 2 – Chapter 14 The Future We Embrace | Jirangu | 603 | 2026-09-04 | <https://www.youtube.com/watch?v=KV2Yd6K5KRo> |
 | 6 h 33 min | [Main Story Part 2 Chapter 14] The Future We Embrace \| Honkai Impact 3rd 9.0 | KNCPG | 181 | 2026-09-04 | <https://www.youtube.com/watch?v=aJjcycy6bWU> |
 | 6 h 56 min | [CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace | LoreBugCarv | ~3,444 | n/a | <https://www.youtube.com/watch?v=C9vHbT8pkoY> |
-| 7 h 14 min | The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins! | Rainbow Beefkins | ~55 | n/a | <https://www.youtube.com/watch?v=kUEpJrrl0FE> |
 | 7 h 47 min | Honkai Impact 3rd - 9.0 Story - The Future We Embrace | Kurib | 100 | 2026-09-07 | <https://www.youtube.com/watch?v=K9j4JtHKDlI> |
 
 </details>
