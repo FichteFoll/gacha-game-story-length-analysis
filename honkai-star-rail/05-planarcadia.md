@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 03 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 06 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -23,17 +23,17 @@ where the IPC votes on whether Planarcadia is worth saving.
 | Mission 3 | So Laughed the Masses | 4 h 40 min | 4 h 13 min - 5 h 01 min | 12 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
-| Mission 6 | To Roll the Stars in Astropolis | 3 h 16 min | 3 h 01 min - 3 h 26 min | 19 | high |
+| Mission 6 | To Roll the Stars in Astropolis | 3 h 19 min | 3 h 06 min - 3 h 27 min | 18 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->31 h 03 min<!--/f-->**
+**Total: <!--f:total-->31 h 06 min<!--/f-->**
 
 ## Pacing
 
 The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
 followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 31 min<!--/f-->.
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
-is the shortest, at <!--f:shortest_len-->3 h 16 min<!--/f-->.
+is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
 and its figures the least settled.
@@ -265,8 +265,8 @@ The pitch that wins it is a new Phantasmoon Games,
 and Nihilux turns out to be Aha.
 <!--gen:stats act="Mission 6"-->
 
-- **Estimated length:** 3 h 16 min
-- **Sampled range:** 3 h 01 min to 3 h 26 min for the middle half (full spread 2 h 49 min to 4 h 04 min) across 19 playthrough uploads (20 further candidates screened out)
+- **Estimated length:** 3 h 19 min
+- **Sampled range:** 3 h 06 min to 3 h 27 min for the middle half (full spread 2 h 57 min to 4 h 04 min) across 18 playthrough uploads (21 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.5
@@ -279,7 +279,6 @@ and Nihilux turns out to be Aha.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 49 min | To Roll the Stars in Astropolis Full Story Part 1 \| Trailblazer Mission [ HSR 4.5 VERSION ] | Zhenyx | 96 | 2026-08-26 | <https://www.youtube.com/watch?v=wUd1s-BtDBU> |
 | 2 h 57 min | Version 4.5 Trailblaze Mission Full Story HD \| To Roll The Stars In Astropolis \| Honkai Star Rail | Noxxis Gaming | 1,118 | 2026-08-26 | <https://www.youtube.com/watch?v=QL6RYUDxgnk> |
 | 2 h 57 min | To Roll the Stars in Astropolis Full Quest \| Honkai: Star Rail 4.5 | jieun | 201 | 2026-08-28 | <https://www.youtube.com/watch?v=W7EWuGNI0Lk> |
 | 3 h 00 min | Honkai Star Rail \| 4.5 Main Story Quest Full Walkthrough \| To Roll the Stars in Astropolis | More ZeeTM | 44 | 2026-08-29 | <https://www.youtube.com/watch?v=qLqtlo-Z_T8> |

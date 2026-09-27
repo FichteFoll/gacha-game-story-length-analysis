@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->121 h 46 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> entries counting missions, measured against <!--f:n_videos-->261<!--/f--> accepted uploads out of <!--f:n_candidates-->691<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->121 h 49 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> entries counting missions, measured against <!--f:n_videos-->260<!--/f--> accepted uploads out of <!--f:n_candidates-->691<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -17,7 +17,7 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 45 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 22 h 53 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 14 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.5 | 6 | 31 h 03 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.5 | 6 | 31 h 06 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->

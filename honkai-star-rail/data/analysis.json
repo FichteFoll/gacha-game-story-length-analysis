@@ -9656,7 +9656,9 @@
     "uploader": "Zhenyx",
     "url": "https://www.youtube.com/watch?v=wUd1s-BtDBU",
     "views": 96,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260826"
    },
    {
@@ -9964,15 +9966,6 @@
   ],
   "kept": [
    {
-    "seconds": 10158,
-    "title": "To Roll the Stars in Astropolis Full Story Part 1 | Trailblazer Mission [ HSR 4.5 VERSION ]",
-    "uploader": "Zhenyx",
-    "url": "https://www.youtube.com/watch?v=wUd1s-BtDBU",
-    "views": 96,
-    "rejected": [],
-    "upload_date": "20260826"
-   },
-   {
     "seconds": 10594,
     "title": "Version 4.5 Trailblaze Mission Full Story HD | To Roll The Stars In Astropolis | Honkai Star Rail",
     "uploader": "Noxxis Gaming",
@@ -10136,13 +10129,13 @@
    }
   ],
   "stats": {
-   "n": 19,
-   "median": 196,
-   "low": 169,
+   "n": 18,
+   "median": 199,
+   "low": 177,
    "high": 244,
-   "q1": 181,
-   "q3": 206,
-   "trimmed_mean": 196,
+   "q1": 186,
+   "q3": 207,
+   "trimmed_mean": 198,
    "measured": 0,
    "parts": {},
    "drift": null
