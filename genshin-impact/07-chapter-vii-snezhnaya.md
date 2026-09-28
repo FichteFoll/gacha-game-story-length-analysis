@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter VII: Everwinter Without Mercy
 
-**Region:** Snezhnaya | **Game versions:** 7.0 - 7.1 | **Entries:** 4 | **Estimated chapter length: 14 h 09 min**
+**Region:** Snezhnaya | **Game versions:** 7.0 - 7.1 | **Entries:** 4 | **Estimated chapter length: 14 h 03 min**
 <!--/gen-->
 
 The Traveler reaches Snezhnaya,
@@ -16,21 +16,21 @@ whose curse had put Project Mistilteinn on hold.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 55 min - 4 h 20 min | 25 | high |
-| Act II | Wraith's Nocturne | 4 h 24 min | 4 h 18 min - 4 h 37 min | 28 | high |
-| Act III | White Night, Like a Dream Upon Waking | 2 h 52 min | 2 h 43 min - 4 h 11 min | 10 | low |
-| Act IV | A Rekviem for the Underworld | 2 h 51 min | 2 h 45 min - 3 h 41 min | 7 | low |
+| Act I | Everwinter Without Mercy | 4 h 04 min | 3 h 56 min - 4 h 20 min | 26 | high |
+| Act II | Wraith's Nocturne | 4 h 25 min | 4 h 18 min - 4 h 37 min | 29 | high |
+| Act III | White Night, Like a Dream Upon Waking | 2 h 44 min | 2 h 36 min - 2 h 55 min | 21 | high |
+| Act IV | A Rekviem for the Underworld | 2 h 50 min | 2 h 40 min - 2 h 52 min | 13 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->14 h 09 min<!--/f-->**
+**Total: <!--f:total-->14 h 03 min<!--/f-->**
 
 ## Pacing
 
 The <!--f:n_entries-->four<!--/f--> acts so far arrived in pairs, one pair per version,
 and the pairs time out differently.
-The 7.0 pair is long: <!--f:len_Act_I-->4 h 02 min<!--/f--> and <!--f:len_Act_II-->4 h 24 min<!--/f-->.
+The 7.0 pair is long: <!--f:len_Act_I-->4 h 04 min<!--/f--> and <!--f:len_Act_II-->4 h 25 min<!--/f-->.
 The 7.1 pair is markedly shorter,
-at <!--f:len_Act_III-->2 h 52 min<!--/f--> and <!--f:len_Act_IV-->2 h 51 min<!--/f-->,
+at <!--f:len_Act_III-->2 h 44 min<!--/f--> and <!--f:len_Act_IV-->2 h 50 min<!--/f-->,
 and has fewer quest parts to carry:
 <!--f:parts_Act_III-->three<!--/f--> and <!--f:parts_Act_IV-->three<!--/f-->,
 against <!--f:parts_Act_I-->four<!--/f--> and <!--f:parts_Act_II-->five<!--/f--> in 7.0.
@@ -39,10 +39,9 @@ so many uploads bundle both of its acts together,
 which count towards neither act
 unless their chapter markers locate it.
 The 7.1 acts are the newest content in the sample,
-measured within days of their release:
-Act IV's pool is still too small to rate above low confidence,
-and Act III's middle half is wide,
-spanning brisk playthroughs and a few much slower ones.
+measured within days of their release,
+yet both already rest on enough complete uploads
+to be rated on their middle half, as the older acts are.
 
 ## Acts
 
@@ -54,13 +53,13 @@ Farewell at The Flagship, then into Snezhnaya,
 where Paimon starts feeling the cold in a way she should not.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 4 h 02 min
-- **Sampled range:** 3 h 55 min to 4 h 20 min for the middle half (full spread 2 h 05 min to 6 h 40 min) across 25 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 4 h 04 min
+- **Sampled range:** 3 h 56 min to 4 h 20 min for the middle half (full spread 2 h 05 min to 6 h 40 min) across 26 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.0
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 25 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 26 uploads
 - **Quest parts (4):** Into the Wind, Into the Frigid North; Gunfire in the Silent Lands; Great Deeds on the Tundra; Silence Alone is Disfavored
 <!--/gen-->
 
@@ -80,9 +79,10 @@ where Paimon starts feeling the cold in a way she should not.
 | 3 h 56 min | Snezhnaya Archon Quest Chapter VII: Act I Full Story \| Everwinter Without Mercy \| Genshin Impact 7.0 | Noxxis Gaming | 1,779 | 2026-08-12 | <https://www.youtube.com/watch?v=Anbii96NMgw> |
 | 3 h 58 min | Genshin Impact 7.0 \| Chapter VII Act I: Everwinter Without Mercy \| Full Walkthrough (No Commentary) | Alex 95 | ~25 | n/a | <https://www.youtube.com/watch?v=nfr8EoyxrXo> |
 | 4 h 00 min | Everwinter Without Mercy \| Chapter VII Act I - Full Story & Gameplay \| Genshin Impact | GamiBVersa | ~96 | n/a | <https://www.youtube.com/watch?v=ekzf81f2QeE> |
-| 4 h 00 min | Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough | Rubhen925 | ~186,609 | n/a | <https://www.youtube.com/watch?v=vapJRam6z7k> |
+| 4 h 00 min | Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough | Rubhen925 | 193,621 | 2026-08-12 | <https://www.youtube.com/watch?v=vapJRam6z7k> |
 | 4 h 01 min | Genshin Impact 7.0 - Everwinter Without Mercy | Gaming_Dino | 1 | 2026-09-03 | <https://www.youtube.com/watch?v=2vAWKjeB52I> |
 | 4 h 02 min | Genshin Impact Chapter 7 Act 1: Everwinter Without Mercy (Full Story & Gameplay) 4K | RTXMonkey | ~130 | n/a | <https://www.youtube.com/watch?v=dlrgrkutM5M> |
+| 4 h 06 min | Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 \| Genshin Impact | Streetwise Rhapsody | 189,758 | 2026-08-12 | <https://www.youtube.com/watch?v=tFiaVh1cN5U> |
 | 4 h 07 min | Genshin Impact — Chapter VII: Act I \| Everwinter Without Mercy \| NO COMMENTARY | Just Zy | 17 | 2026-08-12 | <https://www.youtube.com/watch?v=ma8UEhrm3WQ> |
 | 4 h 10 min | Everwinter Without Mercy \| Chapter VII : Act 1 \| Archon Quest Full Walkthrough [Genshin Impact] | RyoWesleyy Gamezone | 216 | 2026-08-28 | <https://www.youtube.com/watch?v=C66m8vyt1Ug> |
 | 4 h 13 min | Genshin Impact 7.0 Snezhnaya Act 1 - Archon Quest Full Story Walkthrough | Momizy Gaming | ~216 | n/a | <https://www.youtube.com/watch?v=mB5LYA2QTOA> |
@@ -107,13 +107,13 @@ The Korolevskiy Theater, Lelek's confession,
 and the ballet that stops mid-performance.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 4 h 24 min
-- **Sampled range:** 4 h 18 min to 4 h 37 min for the middle half (full spread 3 h 07 min to 6 h 43 min) across 28 playthrough uploads (17 further candidates screened out)
+- **Estimated length:** 4 h 25 min
+- **Sampled range:** 4 h 18 min to 4 h 37 min for the middle half (full spread 3 h 07 min to 6 h 43 min) across 29 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.0
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 28 uploads
+- **Measured from the uploader's chapter markers:** 2 of 29 uploads
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
 <!--/gen-->
 
@@ -141,6 +141,7 @@ and the ballet that stops mid-performance.
 | 4 h 26 min | Gensgin impact 7.0 act 2 Snezhnaya Archon Quest [No commentary] | Shadow Monarch | 560 | 2026-08-14 | <https://www.youtube.com/watch?v=8L4Wsaq5kg8> |
 | 4 h 27 min | Genshin Impact 7.0 Snezhnaya Act 2 - New Archon Story Quest Full Walkthrough | Rubhen925 | 129,474 | 2026-08-12 | <https://www.youtube.com/watch?v=A5OQx4KYquk> |
 | 4 h 31 min | Wraith's Nocturne \| Chapter VII : Act 2 \| Archon Quest Full Walkthrough [Genshin Impact] | RyoWesleyy Gamezone | ~126 | n/a | <https://www.youtube.com/watch?v=PFsa0cNpOOQ> |
+| 4 h 32 min | Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 \| Genshin Impact | Streetwise Rhapsody | 189,758 | 2026-08-12 | <https://www.youtube.com/watch?v=tFiaVh1cN5U> |
 | 4 h 33 min | Wraith's Nocturne Chapter 7 Act 2 FULL Snezhnaya Archon Quest Genshin Impact | WoW Quests | 215 | 2026-08-16 | <https://www.youtube.com/watch?v=GJU3w3jbpOU> |
 | 4 h 37 min | Wraith's Nocturne \| Archon Quest Chapter 7 Act 2 Full Walkthrough \| CN Dub + Eng Sub \| Mobile | Genshin Compass Archives | ~112 | n/a | <https://www.youtube.com/watch?v=AwB5wPErCZs> |
 | 4 h 37 min | Genshin Impact 7.0 - Wraith's Nocturne | Gaming_Dino | ~2 | n/a | <https://www.youtube.com/watch?v=oqyrMh6ozss> |
@@ -164,13 +165,13 @@ the Tsaritsa grants an audience at Zapolyarny Palace and shows the Third Descend
 and Vesna's authority of life becomes the Seal of Life program against Ronova's curse.
 <!--gen:stats act="Act III"-->
 
-- **Estimated length:** 2 h 52 min
-- **Sampled range:** 2 h 43 min to 4 h 11 min for the middle half (full spread 2 h 33 min to 5 h 08 min) across 10 playthrough uploads (62 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 2 h 44 min
+- **Sampled range:** 2 h 36 min to 2 h 55 min for the middle half (full spread 2 h 24 min to 4 h 45 min) across 21 playthrough uploads (73 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.1
-- **Measured from the uploader's chapter markers:** 2 of 10 uploads
-- **Quest parts (3):** Light and Shadow, Intertwined; Sparks Converging Upon the Tundra; One Move Left to Make
+- **Measured from the uploader's chapter markers:** 5 of 21 uploads
+- **Quest parts (3):** Light and Shadow, Intertwined (58 min); Sparks Converging Upon the Tundra (39 min); One Move Left to Make (1 h 06 min)
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -179,16 +180,27 @@ and Vesna's authority of life becomes the Seal of Life program against Ronova's 
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 2 h 24 min | Archon Quest Chapter 7: Act 3 - White Night, Like a Dream Upon Waking [Genshin Impact][7.1] | Enthy | 299 | 2026-09-23 | <https://www.youtube.com/watch?v=czALc0x03yw> |
+| 2 h 33 min | Full Snezhnaya Archon Quest Act 3 Playthrough - Genshin Impact 7.1 | Fayato | 26,794 | 2026-09-23 | <https://www.youtube.com/watch?v=B-ZwoW_ZSkk> |
 | 2 h 33 min | Archon Quest 7.1 Act 3 Genshin Impact \| New Archon Quest Full Gameplay And Story Genshin impact 7.1 | PLAYER 77 | 205 | 2026-09-23 | <https://www.youtube.com/watch?v=-ItuF4R8YME> |
+| 2 h 33 min | [FULL] 7.1 Archon Quest-Act III: "White Night, Like A Dream Upon Waking" (Genshin Impact) Lumine POV | zhonglis mora | 1,001 | 2026-09-25 | <https://www.youtube.com/watch?v=pQVCsGpmfrU> |
+| 2 h 34 min | Genshin Impact 7.1 Archon Quest — Snezhnaya Act 3 Full (White Night, Like a Dream Upon Waking) | AliCeline  アリセリン | 17 | 2026-09-25 | <https://www.youtube.com/watch?v=FkCk_6D_szo> |
+| 2 h 37 min | Version 7.1 Archon Quest ACT 3 \| Genshin Impact | NeoBuns | 59 | 2026-09-24 | <https://www.youtube.com/watch?v=i500-auvZ2w> |
+| 2 h 41 min | Genshin Impact 7.1: White Night, Like a Dream Upon Waking \| Act III Full Walkthrough [4K] | Tarnished Blade  | 14 | 2026-09-24 | <https://www.youtube.com/watch?v=kEjq4iTGLJU> |
 | 2 h 41 min | Genshin Impact 7.1 - Full Archon Quest Playthrough Act 3 (Ruler Of Life) | CGInferno | 8,147 | 2026-09-23 | <https://www.youtube.com/watch?v=K3huzpU0_E4> |
+| 2 h 42 min | Archon Quest: White Night, Like a Dream Upon Waking \| Act III Full Playthrough \| Genshin Impact 7.1 | GamiBVersa | 43 | 2026-09-26 | <https://www.youtube.com/watch?v=PJVZxD5cPVk> |
 | 2 h 43 min | Version 7.1 Archon Quest Genshin Impact - ACT 3 & 4 (Full Playthrough) | Streetwise Rhapsody | 100,310 | 2026-09-23 | <https://www.youtube.com/watch?v=JnTpGIj_Plw> |
 | 2 h 44 min | Genshin Impact 7.1 - Full Archon Quest (Chapter 7 Act 3-4) \| Ronova Ruler of Death Ending Chapter | WoW Quests | 1,164 | 2026-09-23 | <https://www.youtube.com/watch?v=Qe3mGW9otvw> |
+| 2 h 49 min | Snezhnaya Archon Quest Act 3 "White Night, Like a Dream Upon Waking" [No Commentary] | Astraea Lana | 5 | 2026-09-27 | <https://www.youtube.com/watch?v=7BFyNmXvrWo> |
 | 2 h 50 min | Genshin Impact 7.1 Snezhnaya Act 3 - New Archon Story Quest Full Walkthrough | Rubhen925 | 158,880 | 2026-09-23 | <https://www.youtube.com/watch?v=UdE0sHUtMOc> |
+| 2 h 52 min | White Night, Like A Dream Upon Waking [Snezhnaya Chapter 7 Act 3] 7.1 Genshin Impact | Rubieco | 285 | 2026-09-23 | <https://www.youtube.com/watch?v=0Q2Ytx9kuQA> |
 | 2 h 54 min | Genshin Impact - Chapter 7: Act 3 Gameplay | RosalynXenobiaGames | 0 | 2026-09-25 | <https://www.youtube.com/watch?v=mylYPGy_TSs> |
+| 2 h 55 min | Chapter 7: Act 3 - White Night, Like a Dream Upon Waking \| Genshin Impact AQ (FULL) \| ASJ Gaming | ASJ Gaming | 62 | 2026-09-24 | <https://www.youtube.com/watch?v=cNkO5qm12Ek> |
 | 2 h 55 min | White Night Like a Dream Upon Waking \| Chapter VII : Act 3 \| Archon Quest Full [Genshin Impact] | RyoWesleyy Gamezone | 66 | 2026-09-24 | <https://www.youtube.com/watch?v=zLMTFPEI88I> |
+| 3 h 02 min | Snezhnaya Archon Quest Act 3: White Night, Like A Dream Upon Waking \| Lumine POV\| Genshin Impact 7.1 | ayatos tea | 136 | 2026-09-24 | <https://www.youtube.com/watch?v=aWx-4JCeLMo> |
+| 3 h 15 min | Genshin Impact 7.1 – Chapter VII: Act III “White Night, Like a Dream Upon Waking” Full Gameplay! | GameKnightRaj | 19 | 2026-09-25 | <https://www.youtube.com/watch?v=aKU4MhsNLrw> |
 | 3 h 59 min | SNEZHNAYA ARCHON QUEST ACT 3 - White Night Like a Dream Upon Waking PLAYTHROUGH \| Genshin Impact 7.1 | ennieee | 25,121 | 2026-09-23 | <https://www.youtube.com/watch?v=IbMsw1lfDPc> |
 | 4 h 45 min | Snezhnaya Archon Quest Act III — Genshin Impact 7.1 | Kryand | 2,883 | 2026-09-23 | <https://www.youtube.com/watch?v=BzGp3fzzr7E> |
-| 5 h 08 min | "White Night, Like a Dream Upon Waking" (Snezhnaya Main Archon Quest, Act 3) \| Genshin Impact v7.1 | toufusoup | 265 | 2026-09-24 | <https://www.youtube.com/watch?v=xX4hu_9aaNM> |
 
 </details>
 <!--/gen-->
@@ -202,12 +214,12 @@ and the trap at Rankova Zorya that costs Ronova her authority
 while the Tsaritsa keeps Rhinedottir talking at the palace.
 <!--gen:stats act="Act IV"-->
 
-- **Estimated length:** 2 h 51 min
-- **Sampled range:** 2 h 45 min to 3 h 41 min across 7 playthrough uploads (58 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 2 h 50 min
+- **Sampled range:** 2 h 40 min to 2 h 52 min for the middle half (full spread 2 h 23 min to 4 h 17 min) across 13 playthrough uploads (67 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** -
 - **Released in:** 7.1
-- **Measured from the uploader's chapter markers:** 3 of 7 uploads
+- **Measured from the uploader's chapter markers:** 4 of 13 uploads
 - **Quest parts (3):** Delusion; Etched in Time; Black Feathers Scattered at Parting
 <!--/gen-->
 
@@ -217,13 +229,19 @@ while the Tsaritsa keeps Rhinedottir talking at the palace.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 2 h 23 min | Archon Quest Chapter 7: Act 4 - A Rekviem for the Underworld [Genshin Impact][7.1] | Enthy | 374 | 2026-09-23 | <https://www.youtube.com/watch?v=cwTs4OyDDC8> |
+| 2 h 37 min | A Rekviem for the Underworld \| Chapter VII Act IV \| Snezhnaya Archon Quest #genshinimpact | Saiii | 0 | 2026-09-28 | <https://www.youtube.com/watch?v=e69NmfKsFgk> |
+| 2 h 37 min | A Rekviem for the Underworld - Archon Quest Genshin Impact - Act 4 (Full Playthrough) | DreamerQuests | 5 | 2026-09-24 | <https://www.youtube.com/watch?v=-tvSdaW-zKw> |
+| 2 h 44 min | Genshin Impact 7.1 Snezhnaya Act 4 Archon Quest Full Walkthrough | HopTaku Gaming | 98 | 2026-09-23 | <https://www.youtube.com/watch?v=Qg4KiL8UNl8> |
 | 2 h 45 min | A Rekviem for the Underworld \| Chapter VII : Act 4 \| Archon Quest Full Walkthrough [Genshin Impact] | RyoWesleyy Gamezone | 22 | 2026-09-24 | <https://www.youtube.com/watch?v=qL9JC12mPqY> |
 | 2 h 47 min | Chapter 7: Act 4 - A Rekviem for the Underworld \| Genshin Impact AQ (FULL QUEST) \| ASJ Gaming | ASJ Gaming | 13 | 2026-09-25 | <https://www.youtube.com/watch?v=D3belwzdLLg> |
 | 2 h 50 min | Genshin Impact 7.1 Snezhnaya Act 4 - New Archon Story Quest Full Walkthrough | Rubhen925 | 135,937 | 2026-09-23 | <https://www.youtube.com/watch?v=eFy3ik9rS7o> |
+| 2 h 51 min | Snezhnaya Archon Quest Chapter VII: Act IV Full Story \| A Rekviem For The Underworld \| Genshin 7.1 | Noxxis Gaming | 1,238 | 2026-09-23 | <https://www.youtube.com/watch?v=dF2fTr47Jz4> |
 | 2 h 51 min | Genshin Impact 7.1 - Full Archon Quest (Chapter 7 Act 3-4) \| Ronova Ruler of Death Ending Chapter | WoW Quests | 1,164 | 2026-09-23 | <https://www.youtube.com/watch?v=Qe3mGW9otvw> |
 | 2 h 51 min | Genshin Impact 7.1 - Full Archon Quest Playthrough Act 4 (Ronova Ending) | CGInferno | 9,478 | 2026-09-23 | <https://www.youtube.com/watch?v=hc4IcijInrs> |
 | 2 h 52 min | Version 7.1 Archon Quest Genshin Impact - ACT 3 & 4 (Full Playthrough) | Streetwise Rhapsody | 100,310 | 2026-09-23 | <https://www.youtube.com/watch?v=JnTpGIj_Plw> |
 | 3 h 41 min | The Most Insane Archon Quest In Genshin History. (7.1 Act 4) | BranOnline | 140,038 | 2026-09-24 | <https://www.youtube.com/watch?v=_-bAR6ZHop8> |
+| 4 h 17 min | A Rekviem for the Underworld: Genshin Impact 7.1 Act 4 | Meowkasa | 1,320 | 2026-09-27 | <https://www.youtube.com/watch?v=JbeVEY7E7Hg> |
 
 </details>
 <!--/gen-->

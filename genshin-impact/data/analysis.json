@@ -9112,10 +9112,11 @@
     "title": "Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=vapJRam6z7k",
-    "views": "121923",
+    "views": 193621,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260812"
    },
    {
     "seconds": 18289,
@@ -11064,10 +11065,11 @@
     "title": "Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=vapJRam6z7k",
-    "views": "121314",
+    "views": 193621,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260812"
    },
    {
     "seconds": 1429,
@@ -13280,8 +13282,9 @@
     "title": "Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=vapJRam6z7k",
-    "views": "186609",
-    "rejected": []
+    "views": 193621,
+    "rejected": [],
+    "upload_date": "20260812"
    },
    {
     "seconds": 15191,
@@ -13330,14 +13333,16 @@
     "rejected": []
    },
    {
-    "seconds": 31072,
+    "seconds": 14734,
     "title": "Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 | Genshin Impact",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=tFiaVh1cN5U",
-    "views": "181324",
-    "rejected": [
-     "multi-act"
-    ]
+    "views": 189758,
+    "rejected": [],
+    "upload_date": "20260812",
+    "runtime": 31072,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 284,
@@ -13507,8 +13512,9 @@
     "title": "Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=vapJRam6z7k",
-    "views": "186609",
-    "rejected": []
+    "views": 193621,
+    "rejected": [],
+    "upload_date": "20260812"
    },
    {
     "seconds": 14439,
@@ -13526,6 +13532,18 @@
     "url": "https://www.youtube.com/watch?v=dlrgrkutM5M",
     "views": "130",
     "rejected": []
+   },
+   {
+    "seconds": 14734,
+    "title": "Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 | Genshin Impact",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=tFiaVh1cN5U",
+    "views": 189758,
+    "rejected": [],
+    "upload_date": "20260812",
+    "runtime": 31072,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 14825,
@@ -13633,16 +13651,16 @@
    }
   ],
   "stats": {
-   "n": 25,
-   "median": 242,
+   "n": 26,
+   "median": 244,
    "low": 125,
    "high": 400,
-   "q1": 235,
+   "q1": 236,
    "q3": 260,
    "trimmed_mean": 246,
-   "measured": 1,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.008
   }
  },
  {
@@ -14053,15 +14071,16 @@
     "rejected": []
    },
    {
-    "seconds": 31072,
+    "seconds": 16338,
     "title": "Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 | Genshin Impact",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=tFiaVh1cN5U",
-    "views": "181324",
-    "rejected": [
-     "multi-act",
-     "act-mismatch"
-    ]
+    "views": 189758,
+    "rejected": [],
+    "upload_date": "20260812",
+    "runtime": 31072,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 15649,
@@ -14238,6 +14257,18 @@
     "rejected": []
    },
    {
+    "seconds": 16338,
+    "title": "Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 | Genshin Impact",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=tFiaVh1cN5U",
+    "views": 189758,
+    "rejected": [],
+    "upload_date": "20260812",
+    "runtime": 31072,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
     "seconds": 16385,
     "title": "Wraith's Nocturne Chapter 7 Act 2 FULL Snezhnaya Archon Quest Genshin Impact",
     "uploader": "WoW Quests",
@@ -14333,16 +14364,16 @@
    }
   ],
   "stats": {
-   "n": 28,
-   "median": 264,
+   "n": 29,
+   "median": 265,
    "low": 187,
    "high": 403,
    "q1": 258,
    "q3": 277,
    "trimmed_mean": 265,
-   "measured": 1,
+   "measured": 2,
    "parts": {},
-   "drift": -0.004
+   "drift": 0.0
   }
  },
  {
@@ -14354,74 +14385,81 @@
   "slug": "ch7_Act_III",
   "candidates": [
    {
-    "seconds": 4110,
+    "seconds": 4109,
     "title": "GARTEN OF BANBAN 3 | Full Game Walkthrough | No Commentary",
     "uploader": "The Game Archivist",
     "url": "https://www.youtube.com/watch?v=a8ZyhF65oic",
-    "views": "1477809",
+    "views": 1479543,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230505"
    },
    {
     "seconds": 7929,
     "title": "Poppy Playtime Chapter 3 | Full Game Walkthrough | No Commentary",
     "uploader": "The Game Archivist",
     "url": "https://www.youtube.com/watch?v=mRfdY4AJRkM",
-    "views": "10313899",
+    "views": 10315667,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240130"
    },
    {
     "seconds": 24,
     "title": "Markiplier perfectly pronounces \"uaaahgofn ya\"",
     "uploader": "Ice Cat",
     "url": "https://www.youtube.com/watch?v=_z5ST5uNhC8",
-    "views": "5938159",
+    "views": 5963397,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240221"
    },
    {
     "seconds": 18,
     "title": "The Loud House - Wake-Up Call (Fan Animation)",
     "uploader": "CoyoteRom",
     "url": "https://www.youtube.com/watch?v=iNagXx5v0GA",
-    "views": "14290663",
+    "views": 14294568,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20170612"
    },
    {
     "seconds": 436,
     "title": "Once Upon a Coma [Demo] - Gameplay PC",
     "uploader": "PC Indie Master Race",
     "url": "https://www.youtube.com/watch?v=luCDgJAM6fw",
-    "views": "530",
+    "views": 530,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20171112"
    },
    {
     "seconds": 46,
     "title": "When you name yourself Sayori [DDLC]",
     "uploader": "AndreasK",
     "url": "https://www.youtube.com/watch?v=PPOCUiB6ORs",
-    "views": "2445041",
+    "views": 2447096,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20171101"
    },
    {
     "seconds": 165,
     "title": "Jealous Aerith sees Cloud dating TIFA, YUFFIE or Alone - Final Fantasy 7 Rebirth",
     "uploader": "misternoobie",
     "url": "https://www.youtube.com/watch?v=-lY_TGcOr3o",
-    "views": "815639",
+    "views": 818058,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240414"
    },
    {
     "seconds": 633,
@@ -14435,44 +14473,48 @@
     ]
    },
    {
-    "seconds": 59,
+    "seconds": 58,
     "title": "Got anything sharp? - DELTARUNE Animation",
     "uploader": "Melts",
     "url": "https://www.youtube.com/watch?v=GCrAwqXKJP4",
-    "views": "1290811",
+    "views": 1300207,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20250821"
    },
    {
-    "seconds": 36,
+    "seconds": 35,
     "title": "Clownpierce Flirts with Branzy on Lifesteal SMP",
     "uploader": "Lifesteal",
     "url": "https://www.youtube.com/watch?v=Ki4F3GivbcM",
-    "views": "414992",
+    "views": 419587,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230717"
    },
    {
     "seconds": 42,
     "title": "If Arthur is dressed exactly like Dutch, he won't approve of it",
     "uploader": "Nestan",
     "url": "https://www.youtube.com/watch?v=KcE97mO0H3w",
-    "views": "3530099",
+    "views": 3539644,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230928"
    },
    {
     "seconds": 1582,
     "title": "Kingdom Hearts HD 1.5+2.5 Reimix:Birth By Sleep Final Mix: Aurora's World \ud83d\ude34",
     "uploader": "Disney Witchy Woman \ud83d\udd2e",
     "url": "https://www.youtube.com/watch?v=IOj0BPLOKRs",
-    "views": "695",
+    "views": 698,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210127"
    },
    {
     "seconds": 14366,
@@ -14530,30 +14572,33 @@
     "title": "Yes, you can find Tsaritsa around her Palace after the Archon Quest... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=rfQijUOWxr4",
-    "views": "81427",
+    "views": 91005,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260925"
    },
    {
     "seconds": 255,
     "title": "Rhinedottir finally CONFRONTS The Tsaritsa - \"Ruler of Life\" First Appearance (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=v0h293fAZWU",
-    "views": "126155",
+    "views": 194972,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 952,
     "title": "Tsaritsa forces Rhinedottir to sit back down and TAKE HER SERIOUSLY (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=GMvGCwMA2mI",
-    "views": "110973",
+    "views": 141354,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 212,
@@ -14571,30 +14616,33 @@
     "title": "Zibai made Zhongli PANIC after teasing to EXPOSE His REAL IDENTITY (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=ViT9qDUFia0",
-    "views": "34537",
+    "views": 41638,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260924"
    },
    {
     "seconds": 740,
     "title": "Tsaritsa finally reveals the Reason why she NEEDS the Gnoses... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=GokvfUhqqoE",
-    "views": "148941",
+    "views": 194771,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 406,
     "title": "Tsaritsa asks the Traveler to be her Consultant of Love... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=VhTlO0a48iY",
-    "views": "60523",
+    "views": 84176,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 20862,
@@ -14612,10 +14660,11 @@
     "title": "So, Rhinedottir Is Finally Here...",
     "uploader": "BranOnline",
     "url": "https://www.youtube.com/watch?v=ch_UPF9Ruf8",
-    "views": "135311",
+    "views": 166445,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 19818,
@@ -14660,14 +14709,15 @@
     ]
    },
    {
-    "seconds": 448,
+    "seconds": 447,
     "title": "Traveller Aether meets Tsaritsa Anastasya at her Palace - Genshin Impact 7.1",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=BIZa02XR91g",
-    "views": "11351",
+    "views": 12351,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 24204,
@@ -14681,14 +14731,15 @@
     ]
    },
    {
-    "seconds": 717,
+    "seconds": 716,
     "title": "Traveller Aether meets Danica & Vesna - Genshin Impact 7.1",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=E-O1_FhOsVI",
-    "views": "20687",
+    "views": 21811,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 9818,
@@ -14712,7 +14763,9 @@
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=xX4hu_9aaNM",
     "views": 265,
-    "rejected": [],
+    "rejected": [
+     "long-outlier"
+    ],
     "upload_date": "20260924"
    },
    {
@@ -14720,30 +14773,33 @@
     "title": "Danica shares the Truth about Tsaritsa's Love for her... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=Pxh4Tg8RSK0",
-    "views": "15041",
+    "views": 17423,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
-    "seconds": 507,
+    "seconds": 506,
     "title": "Tsaritsa finally caught Rhinedottir's Attention... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=ZkZdoa5IJ_I",
-    "views": "58299",
+    "views": 62928,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 356,
     "title": "Pantalone proves why Tsaritsa trusts him SO MUCH (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=o8SsDZTwhcc",
-    "views": "32775",
+    "views": 41472,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 9582,
@@ -14761,10 +14817,11 @@
     "title": "Genshin Impact 7.1 Full Archon Story Quest Playthrough [Aether POV]",
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=6cDT4BM0n8k",
-    "views": "60097",
+    "views": 85407,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 17127,
@@ -14776,14 +14833,15 @@
     "upload_date": "20260923"
    },
    {
-    "seconds": 1021,
+    "seconds": 1020,
     "title": "Pierro uses Mitya's Curse and Vesna's Blood to study Ronova & Rhinedottir (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=x1mLxCPETZY",
-    "views": "34553",
+    "views": 37082,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 1286,
@@ -14797,14 +14855,15 @@
     ]
    },
    {
-    "seconds": 811,
+    "seconds": 810,
     "title": "Rhinedottir Makes a Deal with Tsaritsa in Return for Asmoday's Details | Genshin Impact 7.1",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=-1clkgfLZgg",
-    "views": "59455",
+    "views": 65981,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 289,
@@ -14855,10 +14914,11 @@
     "title": "Tsaritsa reveals why she no longer believes in Love... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=7asH749Fshc",
-    "views": "107911",
+    "views": 131717,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 1097,
@@ -14903,50 +14963,55 @@
     "title": "FATUI'LER\u0130N TARAFINDAYIZ - Beyaz Gece, Uyan\u0131\u015fta Bir R\u00fcya Misali | Genshin Impact 7.1 T\u00fcrk\u00e7e Oynan\u0131\u015f",
     "uploader": "Belph IV",
     "url": "https://www.youtube.com/watch?v=HFp9EfVUqMc",
-    "views": "332",
+    "views": 403,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260924"
    },
    {
-    "seconds": 17,
+    "seconds": 16,
     "title": "\"Made in Heaven\" JJBA: Stone Ocean Concept Animation [SPOILERS]",
     "uploader": "TheDashingDoctorK",
     "url": "https://www.youtube.com/watch?v=SAsM_nd1ULQ",
-    "views": "15271776",
+    "views": 15289775,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200520"
    },
    {
-    "seconds": 98,
+    "seconds": 97,
     "title": "Young Sephiroth Vs Rhadoran Soldiers (FFVII: EVER CRISIS)",
     "uploader": "GrayVos",
     "url": "https://www.youtube.com/watch?v=Rejc0w2V9Kk",
-    "views": "3960971",
+    "views": 3972968,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230908"
    },
    {
-    "seconds": 18275,
+    "seconds": 18274,
     "title": "The Choicer Voicer / THE DLES / Trivia Deal / Batomon Showdown - 16 Sep 2026",
     "uploader": "Northernlion's Archive (With and Without Chat)",
     "url": "https://www.youtube.com/watch?v=M5-WqXAD3u0",
-    "views": "2492",
+    "views": 3067,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260917"
    },
    {
-    "seconds": 64786,
+    "seconds": 64785,
     "title": "MULTISUB\u3010\ud83d\udd251~236\u3011\u6b8b\u5e74\u8e0f\u795e\u9014\u9006\u5929\u95ee\u9053\uff01",
     "uploader": "\ubb18\ubb18\uc6b4\ub958",
     "url": "https://www.youtube.com/watch?v=L1FgoWp6qTw",
-    "views": "47132",
+    "views": 58808,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260922"
    },
    {
     "seconds": 1760,
@@ -14997,11 +15062,12 @@
     "title": "Version 7.0 Archon Quest - Snezhnaya Story (Full Playthrough) ACT 1 & 2 | Genshin Impact",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=tFiaVh1cN5U",
-    "views": "181413",
+    "views": 189758,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260812"
    },
    {
     "seconds": 30194,
@@ -15020,30 +15086,33 @@
     "title": "This is what every Traveler wants",
     "uploader": "Nirein",
     "url": "https://www.youtube.com/watch?v=V61POBV-dsI",
-    "views": "7220674",
+    "views": 7230574,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210404"
    },
    {
-    "seconds": 114,
+    "seconds": 113,
     "title": "Aether Can't Fix Ronova They Say... - Genshin Impact",
     "uploader": "ThatNepGuy",
     "url": "https://www.youtube.com/watch?v=6jn2UuSq-mA",
-    "views": "161694",
+    "views": 165829,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260913"
    },
    {
     "seconds": 14411,
     "title": "Genshin Impact 7.0 Snezhnaya Act 1 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=vapJRam6z7k",
-    "views": "186665",
+    "views": 193621,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260812"
    },
    {
     "seconds": 13615,
@@ -15061,10 +15130,11 @@
     "title": "I Was NOT Ready for Snezhnaya's Archon Quest...",
     "uploader": "Doro44",
     "url": "https://www.youtube.com/watch?v=9z1un5x05sE",
-    "views": "191686",
+    "views": 196203,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 265,
@@ -15093,13 +15163,273 @@
     "title": "Ronova appears out of nowhere - Genshin Impact 7.1",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=r7hVs-rB9_4",
-    "views": "15797",
+    "views": 19425,
     "rejected": [
      "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9818,
+    "title": "Genshin Impact - White Night Like a Dream Upon Waking FULL QUEST - 7.1",
+    "uploader": "WoW Quests",
+    "url": "https://www.youtube.com/watch?v=9AyXfgykrwA",
+    "views": 8291,
+    "rejected": [
+     "same-uploader"
+    ],
+    "upload_date": "20260923",
+    "runtime": 9818,
+    "measured": "chapter-markers",
+    "parts": {
+     "Light and Shadow, Intertwined": 892,
+     "Sparks Converging Upon the Tundra": 771,
+     "One Move Left to Make": 3937
+    }
+   },
+   {
+    "seconds": 10599,
+    "title": "White Night Like a Dream Upon Waking 7.1 FULL QUEST WITH DIALOGUES Genshin Impact",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=Z5hcRq5l9ug",
+    "views": "3966",
+    "rejected": [
+     "not-a-playthrough"
     ]
+   },
+   {
+    "seconds": 9248,
+    "title": "Genshin Impact 7.1 Archon Quest \u2014 Snezhnaya Act 3 Full (White Night, Like a Dream Upon Waking)",
+    "uploader": "AliCeline  \u30a2\u30ea\u30bb\u30ea\u30f3",
+    "url": "https://www.youtube.com/watch?v=FkCk_6D_szo",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 3937,
+    "title": "Genshin Impact 7.1 - Act 3 - White Night, Like A Dream Upon Waking (3/3)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=7FozmsNToyc",
+    "views": 22,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 8669,
+    "title": "Archon Quest Chapter 7: Act 3 - White Night, Like a Dream Upon Waking [Genshin Impact][7.1]",
+    "uploader": "Enthy",
+    "url": "https://www.youtube.com/watch?v=czALc0x03yw",
+    "views": 299,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 10304,
+    "title": "White Night, Like A Dream Upon Waking [Snezhnaya Chapter 7 Act 3] 7.1 Genshin Impact",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=0Q2Ytx9kuQA",
+    "views": 285,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 4437,
+    "title": "Genshin Impact 7.1 - Act 3 - White Night, Like A Dream Upon Waking (1/3)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=H3K58vpzuMI",
+    "views": 21,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260926"
+   },
+   {
+    "seconds": 9708,
+    "title": "Archon Quest: White Night, Like a Dream Upon Waking | Act III Full Playthrough | Genshin Impact 7.1",
+    "uploader": "GamiBVersa",
+    "url": "https://www.youtube.com/watch?v=PJVZxD5cPVk",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260926"
+   },
+   {
+    "seconds": 544,
+    "title": "Traveller Aether, Dainsleif & Jester vs Ronova Ruler of Death - Genshin Impact 7.1",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=mKVHhzm-r3A",
+    "views": 459648,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9166,
+    "title": "Full Snezhnaya Archon Quest Act 3 Playthrough - Genshin Impact 7.1",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=B-ZwoW_ZSkk",
+    "views": 26794,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 21409,
+    "title": "Genshin Impact 7.1 Archon Quest (Act 3 & 4) & Epilogue Full Walkthrough + Extra Dialogues [4K 60FPS]",
+    "uploader": "Headstart Gaming",
+    "url": "https://www.youtube.com/watch?v=nA4GXW2fDtk",
+    "views": "143",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act"
+    ]
+   },
+   {
+    "seconds": 452,
+    "title": "Traveller Aether visits All Nations Post Ronova Fight - Genshin Impact 7.1 Epilogue",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=885i5jRpGz4",
+    "views": 28206,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9444,
+    "title": "Version 7.1 Archon Quest ACT 3 | Genshin Impact",
+    "uploader": "NeoBuns",
+    "url": "https://www.youtube.com/watch?v=i500-auvZ2w",
+    "views": 59,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 9444,
+    "measured": "chapter-markers",
+    "parts": {
+     "Light and Shadow, Intertwined": 3497,
+     "Sparks Converging Upon the Tundra": 2311,
+     "One Move Left to Make": 3636
+    }
+   },
+   {
+    "seconds": 9634,
+    "title": "Genshin Impact 7.1: White Night, Like a Dream Upon Waking | Act III Full Walkthrough [4K]",
+    "uploader": "Tarnished Blade ",
+    "url": "https://www.youtube.com/watch?v=kEjq4iTGLJU",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 9209,
+    "title": "[FULL] 7.1 Archon Quest-Act III: \"White Night, Like A Dream Upon Waking\" (Genshin Impact) Lumine POV",
+    "uploader": "zhonglis mora",
+    "url": "https://www.youtube.com/watch?v=pQVCsGpmfrU",
+    "views": 1001,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 10913,
+    "title": "Snezhnaya Archon Quest Act 3: White Night, Like A Dream Upon Waking | Lumine POV| Genshin Impact 7.1",
+    "uploader": "ayatos tea",
+    "url": "https://www.youtube.com/watch?v=aWx-4JCeLMo",
+    "views": 136,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 11719,
+    "title": "Genshin Impact 7.1 \u2013 Chapter VII: Act III \u201cWhite Night, Like a Dream Upon Waking\u201d Full Gameplay!",
+    "uploader": "GameKnightRaj",
+    "url": "https://www.youtube.com/watch?v=aKU4MhsNLrw",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 10130,
+    "title": "Snezhnaya Archon Quest Act 3 \"White Night, Like a Dream Upon Waking\" [No Commentary]",
+    "uploader": "Astraea Lana",
+    "url": "https://www.youtube.com/watch?v=7BFyNmXvrWo",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260927",
+    "runtime": 10188,
+    "measured": "chapter-markers",
+    "parts": {
+     "Light and Shadow, Intertwined": 3634,
+     "Sparks Converging Upon the Tundra": 2428,
+     "One Move Left to Make": 4068
+    }
+   },
+   {
+    "seconds": 10488,
+    "title": "Chapter 7: Act 3 - White Night, Like a Dream Upon Waking | Genshin Impact AQ (FULL) | ASJ Gaming",
+    "uploader": "ASJ Gaming",
+    "url": "https://www.youtube.com/watch?v=cNkO5qm12Ek",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 10686,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
+    "seconds": 21184,
+    "title": "\ud83d\udd34 Genshin Impact 7.1 Snezhnaya Act 3 & 4 - New Archon Story Quest Full Playthrough Livestream",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=IhstojvCbRo",
+    "views": "180841",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act"
+    ]
+   },
+   {
+    "seconds": 8722,
+    "title": "Genshin Impact Gameplay",
+    "uploader": "RosalynXenobiaGames",
+    "url": "https://www.youtube.com/watch?v=mQFK_7wr638",
+    "views": 6,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 748,
+    "title": "The Tsaritsa Asks About the Pyro Gnosis & Reveals Her Plans Against Celestia - Genshin Impact 7.1",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=BEqN5cGn9Po",
+    "views": 66,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
    }
   ],
   "kept": [
+   {
+    "seconds": 8669,
+    "title": "Archon Quest Chapter 7: Act 3 - White Night, Like a Dream Upon Waking [Genshin Impact][7.1]",
+    "uploader": "Enthy",
+    "url": "https://www.youtube.com/watch?v=czALc0x03yw",
+    "views": 299,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9166,
+    "title": "Full Snezhnaya Archon Quest Act 3 Playthrough - Genshin Impact 7.1",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=B-ZwoW_ZSkk",
+    "views": 26794,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
    {
     "seconds": 9193,
     "title": "Archon Quest 7.1 Act 3 Genshin Impact | New Archon Quest Full Gameplay And Story Genshin impact 7.1",
@@ -15110,6 +15440,49 @@
     "upload_date": "20260923"
    },
    {
+    "seconds": 9209,
+    "title": "[FULL] 7.1 Archon Quest-Act III: \"White Night, Like A Dream Upon Waking\" (Genshin Impact) Lumine POV",
+    "uploader": "zhonglis mora",
+    "url": "https://www.youtube.com/watch?v=pQVCsGpmfrU",
+    "views": 1001,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 9248,
+    "title": "Genshin Impact 7.1 Archon Quest \u2014 Snezhnaya Act 3 Full (White Night, Like a Dream Upon Waking)",
+    "uploader": "AliCeline  \u30a2\u30ea\u30bb\u30ea\u30f3",
+    "url": "https://www.youtube.com/watch?v=FkCk_6D_szo",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 9444,
+    "title": "Version 7.1 Archon Quest ACT 3 | Genshin Impact",
+    "uploader": "NeoBuns",
+    "url": "https://www.youtube.com/watch?v=i500-auvZ2w",
+    "views": 59,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 9444,
+    "measured": "chapter-markers",
+    "parts": {
+     "Light and Shadow, Intertwined": 3497,
+     "Sparks Converging Upon the Tundra": 2311,
+     "One Move Left to Make": 3636
+    }
+   },
+   {
+    "seconds": 9634,
+    "title": "Genshin Impact 7.1: White Night, Like a Dream Upon Waking | Act III Full Walkthrough [4K]",
+    "uploader": "Tarnished Blade ",
+    "url": "https://www.youtube.com/watch?v=kEjq4iTGLJU",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
     "seconds": 9669,
     "title": "Genshin Impact 7.1 - Full Archon Quest Playthrough Act 3 (Ruler Of Life)",
     "uploader": "CGInferno",
@@ -15117,6 +15490,15 @@
     "views": 8147,
     "rejected": [],
     "upload_date": "20260923"
+   },
+   {
+    "seconds": 9708,
+    "title": "Archon Quest: White Night, Like a Dream Upon Waking | Act III Full Playthrough | Genshin Impact 7.1",
+    "uploader": "GamiBVersa",
+    "url": "https://www.youtube.com/watch?v=PJVZxD5cPVk",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20260926"
    },
    {
     "seconds": 9783,
@@ -15147,11 +15529,36 @@
     }
    },
    {
+    "seconds": 10130,
+    "title": "Snezhnaya Archon Quest Act 3 \"White Night, Like a Dream Upon Waking\" [No Commentary]",
+    "uploader": "Astraea Lana",
+    "url": "https://www.youtube.com/watch?v=7BFyNmXvrWo",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260927",
+    "runtime": 10188,
+    "measured": "chapter-markers",
+    "parts": {
+     "Light and Shadow, Intertwined": 3634,
+     "Sparks Converging Upon the Tundra": 2428,
+     "One Move Left to Make": 4068
+    }
+   },
+   {
     "seconds": 10210,
     "title": "Genshin Impact 7.1 Snezhnaya Act 3 - New Archon Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=UdE0sHUtMOc",
     "views": 158880,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 10304,
+    "title": "White Night, Like A Dream Upon Waking [Snezhnaya Chapter 7 Act 3] 7.1 Genshin Impact",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=0Q2Ytx9kuQA",
+    "views": 285,
     "rejected": [],
     "upload_date": "20260923"
    },
@@ -15165,6 +15572,18 @@
     "upload_date": "20260925"
    },
    {
+    "seconds": 10488,
+    "title": "Chapter 7: Act 3 - White Night, Like a Dream Upon Waking | Genshin Impact AQ (FULL) | ASJ Gaming",
+    "uploader": "ASJ Gaming",
+    "url": "https://www.youtube.com/watch?v=cNkO5qm12Ek",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 10686,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
     "seconds": 10502,
     "title": "White Night Like a Dream Upon Waking | Chapter VII : Act 3 | Archon Quest Full [Genshin Impact]",
     "uploader": "RyoWesleyy Gamezone",
@@ -15172,6 +15591,24 @@
     "views": 66,
     "rejected": [],
     "upload_date": "20260924"
+   },
+   {
+    "seconds": 10913,
+    "title": "Snezhnaya Archon Quest Act 3: White Night, Like A Dream Upon Waking | Lumine POV| Genshin Impact 7.1",
+    "uploader": "ayatos tea",
+    "url": "https://www.youtube.com/watch?v=aWx-4JCeLMo",
+    "views": 136,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 11719,
+    "title": "Genshin Impact 7.1 \u2013 Chapter VII: Act III \u201cWhite Night, Like a Dream Upon Waking\u201d Full Gameplay!",
+    "uploader": "GameKnightRaj",
+    "url": "https://www.youtube.com/watch?v=aKU4MhsNLrw",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260925"
    },
    {
     "seconds": 14366,
@@ -15190,27 +15627,22 @@
     "views": 2883,
     "rejected": [],
     "upload_date": "20260923"
-   },
-   {
-    "seconds": 18450,
-    "title": "\"White Night, Like a Dream Upon Waking\" (Snezhnaya Main Archon Quest, Act 3) | Genshin Impact v7.1",
-    "uploader": "toufusoup",
-    "url": "https://www.youtube.com/watch?v=xX4hu_9aaNM",
-    "views": 265,
-    "rejected": [],
-    "upload_date": "20260924"
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 172,
-   "low": 153,
-   "high": 308,
-   "q1": 163,
-   "q3": 251,
-   "trimmed_mean": 192,
-   "measured": 2,
-   "parts": {},
+   "n": 21,
+   "median": 164,
+   "low": 144,
+   "high": 285,
+   "q1": 156,
+   "q3": 175,
+   "trimmed_mean": 167,
+   "measured": 5,
+   "parts": {
+    "Light and Shadow, Intertwined": 58,
+    "Sparks Converging Upon the Tundra": 39,
+    "One Move Left to Make": 66
+   },
    "drift": null
   }
  },
@@ -15227,10 +15659,11 @@
     "title": "YAKUZA 4 REMASTERED | Part 7 | PS5 Story Walkthrough | [4K, HDR, 60FPS]",
     "uploader": "Tiseba Walkthroughs",
     "url": "https://www.youtube.com/watch?v=LKmYWU6bKUE",
-    "views": "33",
+    "views": 33,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210612"
    },
    {
     "seconds": 9892,
@@ -15257,10 +15690,11 @@
     "title": "Shadow Fight 2 in 3D",
     "uploader": "Shadow Citizen",
     "url": "https://www.youtube.com/watch?v=gAYwG4uhAU4",
-    "views": "1262477",
+    "views": 1264850,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240810"
    },
    {
     "seconds": 21409,
@@ -15275,14 +15709,15 @@
     ]
    },
    {
-    "seconds": 657,
+    "seconds": 656,
     "title": "God of war 3 - Act 2 - Part 9 Of 10",
     "uploader": "jamesic26",
     "url": "https://www.youtube.com/watch?v=B9exZsJEtt0",
-    "views": "215",
+    "views": 215,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20100401"
    },
    {
     "seconds": 10030,
@@ -15312,11 +15747,12 @@
     "title": "Archon Story - Chapter VII: Act 3-4 (Full Story) | Genshin Impact 7.1",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=XAB5odCQKl0",
-    "views": "9",
+    "views": 10,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260924"
    },
    {
     "seconds": 527,
@@ -15334,20 +15770,22 @@
     "title": "\u6771\u65b9\u795e\u5999\u707d\u3000\uff5e Autocatalysis of Unrecognizable Katzenjammer - All Maingame Scenes Cleared (No Items)",
     "uploader": "VanIsBadAtGames",
     "url": "https://www.youtube.com/watch?v=Xhh0Rtkb8mQ",
-    "views": "322",
+    "views": 322,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20221225"
    },
    {
     "seconds": 241,
     "title": "TITAN VS HERMIT & HERMIT BODYGUARDS | SHADOW FIGHT 2 | MOD | REQUIEM",
     "uploader": "REQUIEM \u2122",
     "url": "https://www.youtube.com/watch?v=4jVudvqVtV8",
-    "views": "18463",
+    "views": 18463,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20221226"
    },
    {
     "seconds": 21677,
@@ -15447,14 +15885,15 @@
     "parts": {}
    },
    {
-    "seconds": 545,
+    "seconds": 544,
     "title": "Traveller Aether, Dainsleif & Jester vs Ronova Ruler of Death - Genshin Impact 7.1",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=mKVHhzm-r3A",
-    "views": "304014",
+    "views": 459648,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 20306,
@@ -15512,14 +15951,15 @@
     ]
    },
    {
-    "seconds": 96,
+    "seconds": 95,
     "title": "Ronova's Final Parting Gift before Dying - Genshin Impact 7.1",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=PGwZ5twVM2g",
-    "views": "26362",
+    "views": 30941,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 13286,
@@ -15556,10 +15996,11 @@
     "title": "Genshin Impact 7.1 Full Archon Story Quest Playthrough [Aether POV]",
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=6cDT4BM0n8k",
-    "views": "60097",
+    "views": 85407,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 24204,
@@ -15578,10 +16019,11 @@
     "title": "Traveller Aether visits All Nations Post Ronova Fight - Genshin Impact 7.1 Epilogue",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=885i5jRpGz4",
-    "views": "22737",
+    "views": 28206,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 21219,
@@ -15610,30 +16052,33 @@
     "title": "Tsaritsa reveals why she no longer believes in Love... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=7asH749Fshc",
-    "views": "107911",
+    "views": 131717,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 740,
     "title": "Tsaritsa finally reveals the Reason why she NEEDS the Gnoses... (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=GokvfUhqqoE",
-    "views": "148941",
+    "views": 194771,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
-    "seconds": 5186,
+    "seconds": 5185,
     "title": "Genshin Impact Version 7.1 Special Program #StoriesofFrostSnow #GenshinSnezhnaya #SpecialProgram",
     "uploader": "Genshin Impact",
     "url": "https://www.youtube.com/watch?v=fSwBYIeAieo",
-    "views": "2478399",
+    "views": 2494544,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260912"
    },
    {
     "seconds": 1182,
@@ -15680,24 +16125,26 @@
     ]
    },
    {
-    "seconds": 1021,
+    "seconds": 1020,
     "title": "Pierro uses Mitya's Curse and Vesna's Blood to study Ronova & Rhinedottir (Genshin Impact 7.1)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=x1mLxCPETZY",
-    "views": "34553",
+    "views": 37082,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 655,
     "title": "Pierro Develops a New Delusion Using Arlecchino's Crimson Moon Lineage | Genshin Impact 7.1",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=LYf1wKfbjhI",
-    "views": "19471",
+    "views": 22981,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 15995,
@@ -15727,10 +16174,11 @@
     "title": "Snezhnaya 7.0 Archon Quest FULL [JP DUB] [ENG SUB] | Genshin Impact 7.0",
     "uploader": "AZURGRIM",
     "url": "https://www.youtube.com/watch?v=VMRdZLZUujU",
-    "views": "3691",
+    "views": 3931,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260814"
    },
    {
     "seconds": 1382,
@@ -15770,20 +16218,22 @@
     "title": "I Was NOT Ready for Snezhnaya's Archon Quest...",
     "uploader": "Doro44",
     "url": "https://www.youtube.com/watch?v=9z1un5x05sE",
-    "views": "191686",
+    "views": 196203,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 65,
     "title": "Vodyanitsa Performs in an Opera - Full Song (Genshin Impact 7.0)",
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=k3Fue8fekqc",
-    "views": "588992",
+    "views": 623589,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260812"
    },
    {
     "seconds": 809,
@@ -15819,10 +16269,11 @@
     "title": "Genshin Impact - Archon Quest - Chapter II : Act IV \"Requiem of the Echoing Depths\"",
     "uploader": "btrc",
     "url": "https://www.youtube.com/watch?v=ERdc4JQ33W8",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220827"
    },
    {
     "seconds": 143,
@@ -15839,30 +16290,33 @@
     "title": "Requiem of the Echoing Depths was... | Genshin Impact Archon Quest",
     "uploader": "BranOnline",
     "url": "https://www.youtube.com/watch?v=OP5Z9xLDHBY",
-    "views": "101041",
+    "views": 101086,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220408"
    },
    {
     "seconds": 1499,
     "title": "The new Archon Quest brought me to tears.. | Genshin Impact",
     "uploader": "Jeikage",
     "url": "https://www.youtube.com/watch?v=AacE5UjrlE4",
-    "views": "128483",
+    "views": 128485,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220403"
    },
    {
     "seconds": 814,
     "title": "World Quest Requiem 4.6 Fontaine Genshin Impact",
     "uploader": "Tuhan",
     "url": "https://www.youtube.com/watch?v=Kosw_dmISUs",
-    "views": "1555",
+    "views": 1603,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240426"
    },
    {
     "seconds": 3245,
@@ -15923,9 +16377,224 @@
      "act-mismatch"
     ],
     "upload_date": "20260923"
+   },
+   {
+    "seconds": 11338,
+    "title": "A Rekviem for the Underworld FULL QUEST WITH DIALOGUES Genshin Impact",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=dvEizANjVXc",
+    "views": "948",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 663,
+    "title": "Anomaly ALL QUESTS - A Rekviem for the Underworld EPILOGUE Genshin Impact",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=uSNwUPRCMLE",
+    "views": 764,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 10271,
+    "title": "Snezhnaya Archon Quest Chapter VII: Act IV Full Story | A Rekviem For The Underworld | Genshin 7.1",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=dF2fTr47Jz4",
+    "views": 1238,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 19846,
+    "title": "A Rekviem for the Underworld - Full Archon Quest - Version 7.1",
+    "uploader": "Atzu",
+    "url": "https://www.youtube.com/watch?v=vK3idTSsIRQ",
+    "views": 5,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9441,
+    "title": "A Rekviem for the Underworld - Archon Quest Genshin Impact - Act 4 (Full Playthrough)",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=-tvSdaW-zKw",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 9428,
+    "title": "A Rekviem for the Underworld | Chapter VII Act IV | Snezhnaya Archon Quest #genshinimpact",
+    "uploader": "Saiii",
+    "url": "https://www.youtube.com/watch?v=e69NmfKsFgk",
+    "views": 0,
+    "rejected": [],
+    "upload_date": "20260928",
+    "runtime": 10021,
+    "measured": "chapter-markers",
+    "parts": {
+     "Delusion": 1537,
+     "Etched in Time": 3534,
+     "Black Feathers Scattered at Parting": 4357
+    }
+   },
+   {
+    "seconds": 3663,
+    "title": "Genshin Impact 7.1 Archon Quest | A Rekviem for the Underworld | No Commentary Gameplay Part 1",
+    "uploader": "Wasted While Gaming",
+    "url": "https://www.youtube.com/watch?v=kud1dy0UYdo",
+    "views": 3,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 3953,
+    "title": "Snezhnaya Archon Quest - Chapter VII: Acts III & IV (Part 2) \u2014 Full Walkthrough | Genshin Impact 7.1",
+    "uploader": "Mr. Trajet",
+    "url": "https://www.youtube.com/watch?v=NF9w7b2ML8g",
+    "views": 125,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260927",
+    "runtime": 21371,
+    "measured": "chapter-markers",
+    "parts": {
+     "Delusion": 585,
+     "Etched in Time": 207,
+     "Black Feathers Scattered at Parting": 1892
+    }
+   },
+   {
+    "seconds": 15396,
+    "title": "A Rekviem for the Underworld: Genshin Impact 7.1 Act 4",
+    "uploader": "Meowkasa",
+    "url": "https://www.youtube.com/watch?v=JbeVEY7E7Hg",
+    "views": 1320,
+    "rejected": [],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 8608,
+    "title": "Archon Quest Chapter 7: Act 4 - A Rekviem for the Underworld [Genshin Impact][7.1]",
+    "uploader": "Enthy",
+    "url": "https://www.youtube.com/watch?v=cwTs4OyDDC8",
+    "views": 374,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 30916,
+    "title": "REKVIEM OF RONOVA- Snezhnaya Act 3 & 4 Archon Quest 7.1 Full Quest REACTION Genshin Impact",
+    "uploader": "Pixieebub",
+    "url": "https://www.youtube.com/watch?v=tU_6SZgLgX4",
+    "views": "57366",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 18685,
+    "title": "Snezhnaya Archon Quest 7.1 Full Gameplay (Lumine Version) | Genshin Impact",
+    "uploader": "Nyx",
+    "url": "https://www.youtube.com/watch?v=c_4aUDlkDLY",
+    "views": 1658,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 6106,
+    "title": "Genshin Impact 7.1 Full Snezhnaya Archon Quest Act 4 speedrun walkthrough",
+    "uploader": "Top Gameplays ",
+    "url": "https://www.youtube.com/watch?v=SaxCDfyf314",
+    "views": 317,
+    "rejected": [
+     "not-a-playthrough"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9815,
+    "title": "Genshin Impact 7.1 Snezhnaya Act 4 Archon Quest Full Walkthrough",
+    "uploader": "HopTaku Gaming",
+    "url": "https://www.youtube.com/watch?v=Qg4KiL8UNl8",
+    "views": 98,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 1800,
+    "title": "Genshin Impact 7.1 | Archon Quest Full Walkthrough (Act 3 & 4)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=vR7yhukBvFk",
+    "views": 709,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260923",
+    "runtime": 20596,
+    "measured": "chapter-markers",
+    "parts": {
+     "Delusion": 780
+    }
    }
   ],
   "kept": [
+   {
+    "seconds": 8608,
+    "title": "Archon Quest Chapter 7: Act 4 - A Rekviem for the Underworld [Genshin Impact][7.1]",
+    "uploader": "Enthy",
+    "url": "https://www.youtube.com/watch?v=cwTs4OyDDC8",
+    "views": 374,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9428,
+    "title": "A Rekviem for the Underworld | Chapter VII Act IV | Snezhnaya Archon Quest #genshinimpact",
+    "uploader": "Saiii",
+    "url": "https://www.youtube.com/watch?v=e69NmfKsFgk",
+    "views": 0,
+    "rejected": [],
+    "upload_date": "20260928",
+    "runtime": 10021,
+    "measured": "chapter-markers",
+    "parts": {
+     "Delusion": 1537,
+     "Etched in Time": 3534,
+     "Black Feathers Scattered at Parting": 4357
+    }
+   },
+   {
+    "seconds": 9441,
+    "title": "A Rekviem for the Underworld - Archon Quest Genshin Impact - Act 4 (Full Playthrough)",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=-tvSdaW-zKw",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260924"
+   },
+   {
+    "seconds": 9815,
+    "title": "Genshin Impact 7.1 Snezhnaya Act 4 Archon Quest Full Walkthrough",
+    "uploader": "HopTaku Gaming",
+    "url": "https://www.youtube.com/watch?v=Qg4KiL8UNl8",
+    "views": 98,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
    {
     "seconds": 9892,
     "title": "A Rekviem for the Underworld | Chapter VII : Act 4 | Archon Quest Full Walkthrough [Genshin Impact]",
@@ -15953,6 +16622,15 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=eFy3ik9rS7o",
     "views": 135937,
+    "rejected": [],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 10271,
+    "title": "Snezhnaya Archon Quest Chapter VII: Act IV Full Story | A Rekviem For The Underworld | Genshin 7.1",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=dF2fTr47Jz4",
+    "views": 1238,
     "rejected": [],
     "upload_date": "20260923"
    },
@@ -16001,17 +16679,26 @@
     "views": 140038,
     "rejected": [],
     "upload_date": "20260924"
+   },
+   {
+    "seconds": 15396,
+    "title": "A Rekviem for the Underworld: Genshin Impact 7.1 Act 4",
+    "uploader": "Meowkasa",
+    "url": "https://www.youtube.com/watch?v=JbeVEY7E7Hg",
+    "views": 1320,
+    "rejected": [],
+    "upload_date": "20260927"
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 171,
-   "low": 165,
-   "high": 221,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 177,
-   "measured": 3,
+   "n": 13,
+   "median": 170,
+   "low": 143,
+   "high": 257,
+   "q1": 160,
+   "q3": 172,
+   "trimmed_mean": 172,
+   "measured": 4,
    "parts": {},
    "drift": null
   }

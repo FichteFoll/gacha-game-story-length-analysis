@@ -5,7 +5,7 @@ live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, every_sample_at_least, is_extreme,
                         largest_chapter, median_between, rank_at_most,
-                        sample_at_most, total_ratio_between)
+                        total_ratio_between)
 
 CLAIMS = [
     median_between("prologue", "Act I", 45, 75,
@@ -44,6 +44,6 @@ CLAIMS = [
     rank_at_most("ch7", "Act II", 10, "The 7.0 pair is long", scope="global"),
     median_between("ch7", "Act III", 120, 210, "The 7.1 pair is markedly shorter"),
     median_between("ch7", "Act IV", 120, 210, "The 7.1 pair is markedly shorter"),
-    sample_at_most("ch7", "Act IV", 7, "Act IV's pool is still too small "
-                   "to rate above low confidence"),
+    # Eight is analyze.py's IQR_SAMPLES, the floor for publishing a middle half.
+    every_sample_at_least("ch7", 8, "yet both already rest on enough complete uploads"),
 ]

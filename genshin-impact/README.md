@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->118 h 17 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->538<!--/f--> accepted uploads out of <!--f:n_candidates-->905<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->118 h 11 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->557<!--/f--> accepted uploads out of <!--f:n_candidates-->942<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -19,7 +19,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 16 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
 | Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 28 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
 | Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 33 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
-| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 - 7.1 | 4 | 14 h 09 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
+| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 - 7.1 | 4 | 14 h 03 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
@@ -30,7 +30,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | longest | Chapter IV, Act V: Masquerade of the Guilty | 4 h 50 min |
 | longest | Song of the Welkin Moon, Act I: A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min |
 | longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min |
-| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 24 min |
+| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 25 min |
 | longest | Song of the Welkin Moon, Act X: Truth Amongst the Pages of Purana | 4 h 13 min |
 | shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 36 min |
 | shortest | Chapter II, Act II: Stillness, the Sublimation of Shadow | 50 min |
@@ -97,4 +97,4 @@ whatever confidence they rate today.
 are Archon Quests but not part of the main chapter progression,
 so they are outside this report's scope.
 
-Data collected <!--f:date-->2026-09-26<!--/f-->.
+Data collected <!--f:date-->2026-09-28<!--/f-->.

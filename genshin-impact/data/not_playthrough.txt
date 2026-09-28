@@ -1,1 +1,2 @@
 \bchat is (always )?open\b
+\bspeed ?run
