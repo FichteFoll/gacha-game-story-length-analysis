@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 1: Graffiti Art to Eternal Engine
 
-**Chapters:** 1 - 10 | **Game versions:** launch - Eternal Engine | **Entries:** 10 | **Estimated volume length: 7 h 57 min**
+**Chapters:** 1 - 10 | **Game versions:** launch - Eternal Engine | **Entries:** 10 | **Estimated volume length: 7 h 58 min**
 <!--/gen-->
 
 The launch run, and the only stretch of this story measured in tens of minutes.
@@ -19,7 +19,7 @@ in a report whose later chapters run for four and five.
 | Chapter 2 | Torturos Journey | 41 min | 34 min - 52 min | 10 | low |
 | Chapter 3 | Final Exhibition | 42 min | 36 min - 55 min | 13 | low |
 | Chapter 4 | Forgotten Golden Sand | 38 min | 26 min - 45 min | 11 | low |
-| Chapter 5 | Shattered Phantom | 34 min | 27 min - 45 min | 9 | low |
+| Chapter 5 | Shattered Phantom | 35 min | 26 min - 49 min | 8 | low |
 | Chapter 6 | Contaminated Alloy | 44 min | 34 min - 1 h 00 min | 9 | low |
 | Chapter 7 | Inverse Element Collapse | 48 min | 34 min - 1 h 02 min | 4 | low |
 | Chapter 8 | Consumed by Darkness | 38 min | 32 min - 50 min | 10 | low |
@@ -27,7 +27,7 @@ in a report whose later chapters run for four and five.
 | Chapter 10 | Eternal Engine | 1 h 09 min | 46 min - 1 h 34 min | 8 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->7 h 57 min<!--/f-->**
+**Total: <!--f:total-->7 h 58 min<!--/f-->**
 
 ## Pacing
 
@@ -37,7 +37,7 @@ The two that shipped as patches of their own rather than at launch,
 Chapters 9 and 10, are also the two longest of the ten,
 and the longest of them, <!--f:longest_label-->Chapter 9<!--/f-->,
 is <!--f:longest_len-->1 h 16 min<!--/f--> against
-<!--f:shortest_label-->Chapter 5<!--/f-->'s <!--f:shortest_len-->34 min<!--/f-->.
+<!--f:shortest_label-->Chapter 5<!--/f-->'s <!--f:shortest_len-->35 min<!--/f-->.
 Nothing here departs from that band by much,
 and these are the deepest pools in the report:
 a launch chapter is short enough that channels still upload it whole.
@@ -205,12 +205,12 @@ and the shortest chapter of the launch run.
 <!--gen:stats act="Chapter 5"-->
 The shortest entry in the questline.
 
-- **Estimated length:** 34 min
-- **Sampled range:** 27 min to 45 min for the middle half (full spread 20 min to 54 min) across 9 playthrough uploads (27 further candidates screened out)
+- **Estimated length:** 35 min
+- **Sampled range:** 26 min to 49 min for the middle half (full spread 20 min to 54 min) across 8 playthrough uploads (28 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median -8% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 9 uploads
+- **Stability:** median -5% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 8 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 5"-->
@@ -222,7 +222,6 @@ The shortest entry in the questline.
 | 20 min | Punishing Gray Raven: Inner World: Chapter 5 - Gift of Life and Death (100%) [DMXIII] | DMXIII | ~828 | n/a | <https://www.youtube.com/watch?v=w1xtksY5VDQ> |
 | 26 min | [PUNISHING GRAY RAVEN] \|\| 𝕊𝕡𝕚𝕣𝕒𝕝 𝕠𝕗 ℂ𝕙𝕣𝕠𝕟𝕠𝕤 Chapter 5: Advent and Anomaly (ENG sub) | Shiroko Kurono_ 泣き姫【CH】 | ~1,400 | n/a | <https://www.youtube.com/watch?v=hsDjipXLp_w> |
 | 28 min | Punishing: Gray Raven New Stronghold "Border Contract" Extreme Difficulty Chapter 5 Achilles | VirtualP:G:E | ~223 | n/a | <https://www.youtube.com/watch?v=IPBkAb_hZ54> |
-| 30 min | Punishing Gray Raven: Chapter 5 Speed Run!!! P.S: Out of Serum lol | TrinityForce | ~8 | n/a | <https://www.youtube.com/watch?v=tzdw3UKLqPo> |
 | 34 min | Punishing Gray Raven Chapter 5 Shattered Illusion Part 1 | Nights G12 | ~33 | n/a | <https://www.youtube.com/watch?v=zoyggS3CHcE> |
 | 35 min | Punishing: Gray Raven \| Chapter 5 \| Shattered Illusion | Gameplay Story | ~103 | n/a | <https://www.youtube.com/watch?v=ZbEUmpVi7_M> |
 | 38 min | Punishing Gray Raven Playthrough \| Main Story \| Chapter 5: Shattered Illusion | HaWuTsKi Archive | ~134 | n/a | <https://www.youtube.com/watch?v=LJtzeUPFAkg> |

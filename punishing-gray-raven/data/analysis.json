@@ -2156,7 +2156,9 @@
     "uploader": "TrinityForce",
     "url": "https://www.youtube.com/watch?v=tzdw3UKLqPo",
     "views": "8",
-    "rejected": []
+    "rejected": [
+     "not-a-playthrough"
+    ]
    },
    {
     "seconds": 267,
@@ -2325,14 +2327,6 @@
     "rejected": []
    },
    {
-    "seconds": 1820,
-    "title": "Punishing Gray Raven: Chapter 5 Speed Run!!! P.S: Out of Serum lol",
-    "uploader": "TrinityForce",
-    "url": "https://www.youtube.com/watch?v=tzdw3UKLqPo",
-    "views": "8",
-    "rejected": []
-   },
-   {
     "seconds": 2058,
     "title": "Punishing Gray Raven Chapter 5 Shattered Illusion Part 1",
     "uploader": "Nights G12",
@@ -2378,16 +2372,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 34,
+   "n": 8,
+   "median": 35,
    "low": 20,
    "high": 54,
-   "q1": 27,
-   "q3": 45,
-   "trimmed_mean": 35,
+   "q1": 26,
+   "q3": 49,
+   "trimmed_mean": 36,
    "measured": 1,
    "parts": {},
-   "drift": -0.081
+   "drift": -0.054
   }
  },
  {

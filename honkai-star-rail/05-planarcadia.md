@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 06 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 13 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -19,19 +19,19 @@ where the IPC votes on whether Planarcadia is worth saving.
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Welcome to Arcadia | 8 h 01 min | 4 h 40 min - 9 h 51 min | 7 | low |
-| Mission 2 | Unraveled for Daybreak | 6 h 31 min | 5 h 56 min - 6 h 51 min | 10 | high |
+| Mission 2 | Unraveled for Daybreak | 6 h 38 min | 6 h 11 min - 6 h 54 min | 9 | high |
 | Mission 3 | So Laughed the Masses | 4 h 40 min | 4 h 13 min - 5 h 01 min | 12 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 19 min | 3 h 06 min - 3 h 27 min | 18 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->31 h 06 min<!--/f-->**
+**Total: <!--f:total-->31 h 13 min<!--/f-->**
 
 ## Pacing
 
 The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
-followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 31 min<!--/f-->.
+followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 38 min<!--/f-->.
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
 is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->.
 This is also the newest content in the sample,
@@ -86,12 +86,12 @@ the living seeking justice for the dead,
 and a hero's name that some carry and some betray.
 <!--gen:stats act="Mission 2"-->
 
-- **Estimated length:** 6 h 31 min
-- **Sampled range:** 5 h 56 min to 6 h 51 min for the middle half (full spread 4 h 48 min to 7 h 52 min) across 10 playthrough uploads (28 further candidates screened out)
+- **Estimated length:** 6 h 38 min
+- **Sampled range:** 6 h 11 min to 6 h 54 min for the middle half (full spread 4 h 48 min to 7 h 52 min) across 9 playthrough uploads (29 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +2% against an earlier, independent query set
 - **Quest parts (7):** Portrait of a Middle-Aged Artist; Society of the Spectacle and Its Enemies; Confessions of a Righteous Sinner; The Bum's as Holy as the Seraphim; Simulacra and Simulation, or Even the Just; Echoes from a Sombre Empire; Real Holy Laughter!
 <!--/gen-->
 
@@ -102,7 +102,6 @@ and a hero's name that some carry and some betray.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 4 h 48 min | Honkai Star Rail 4.1 Trailblaze Mission FULL Story \| Unraveled for Daybreak\| HSR 4.1 | TapoPlays | 16 | 2026-04-02 | <https://www.youtube.com/watch?v=f29Fmp7jejo> |
-| 5 h 31 min | Speedrun: Unraveled for Daybreak Trailblaze Mission in HSR (Part 1) | Tofuspin | ~12 | n/a | <https://www.youtube.com/watch?v=dYLXy34d_dw> |
 | 6 h 05 min | Version 4.1 Trailblaze Mission Full Story HD \| Planarcadia Unraveled For Daybreak \| Honkai Star Rail | Noxxis Gaming | 4,021 | 2026-03-26 | <https://www.youtube.com/watch?v=KjuGgTq4zcw> |
 | 6 h 16 min | Honkai Star Rail 4.1 Trailblaze Mission "Unraveled for Daybreak" Complete  Walkthrough | Nine's Own Wish  | 336 | 2026-03-25 | <https://www.youtube.com/watch?v=_pB0G_qgXpE> |
 | 6 h 25 min | Unraveled for Daybreak - Trailblazer Mission (Full Main Story) \| Honkai: Star Rail 4.1 | Sir Patty | 12 | 2026-03-31 | <https://www.youtube.com/watch?v=Qq5Hh4oxK_M> |

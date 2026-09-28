@@ -5,7 +5,7 @@ from the first descent onto the surface to the chapter the global client is on,
 plus the six EX chapters the game files alongside them,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->128 h 05 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the six EX chapters, measured against <!--f:n_videos-->247<!--/f--> accepted uploads out of <!--f:n_candidates-->3379<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->128 h 06 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the six EX chapters, measured against <!--f:n_videos-->246<!--/f--> accepted uploads out of <!--f:n_candidates-->3379<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.
@@ -15,7 +15,7 @@ rather than a number anyone actually clocked end to end.
 <!--gen:chapters-->
 | Volume | Chapters | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Volume 1: Graffiti Art to Eternal Engine | 1 - 10 | launch - Eternal Engine | 10 | 7 h 57 min | [01-graffiti-art-to-eternal-engine.md](01-graffiti-art-to-eternal-engine.md) |
+| Volume 1: Graffiti Art to Eternal Engine | 1 - 10 | launch - Eternal Engine | 10 | 7 h 58 min | [01-graffiti-art-to-eternal-engine.md](01-graffiti-art-to-eternal-engine.md) |
 | Volume 2: Nona Ouroboros to Across The Ruined Sea | 11 - 20 | Nona Ouroboros - Across The Ruined Sea | 10 | 24 h 33 min | [02-nona-ouroboros-to-across-the-ruined-sea.md](02-nona-ouroboros-to-across-the-ruined-sea.md) |
 | Volume 3: Spiral of Chronos to Stars Ensnared | 21 - 30 | Spiral of Chronos - Stars Ensnared | 10 | 33 h 50 min | [03-spiral-of-chronos-to-stars-ensnared.md](03-spiral-of-chronos-to-stars-ensnared.md) |
 | Volume 4: Shaper's Ripples to Steering By Light | 31 - 42 | Shaper's Ripples - Steering By Light | 12 | 47 h 53 min | [04-shapers-ripples-to-steering-by-light.md](04-shapers-ripples-to-steering-by-light.md) |
@@ -33,7 +33,7 @@ rather than a number anyone actually clocked end to end.
 | longest | Volume 4, Chapter 40: A Better Tomorrow | 5 h 19 min |
 | longest | Volume 4, Chapter 31: Shaper's Ripples | 4 h 57 min |
 | longest | Volume 3, Chapter 29: Source Beacon | 4 h 11 min |
-| shortest | Volume 1, Chapter 5: Shattered Phantom | 34 min |
+| shortest | Volume 1, Chapter 5: Shattered Phantom | 35 min |
 | shortest | Volume 1, Chapter 4: Forgotten Golden Sand | 38 min |
 | shortest | Volume 1, Chapter 8: Consumed by Darkness | 38 min |
 <!--/gen-->

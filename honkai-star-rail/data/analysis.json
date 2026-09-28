@@ -7409,7 +7409,10 @@
     "uploader": "Tofuspin",
     "url": "https://www.youtube.com/watch?v=dYLXy34d_dw",
     "views": "12",
-    "rejected": []
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
    },
    {
     "seconds": 24515,
@@ -7626,14 +7629,6 @@
     "upload_date": "20260402"
    },
    {
-    "seconds": 19835,
-    "title": "Speedrun: Unraveled for Daybreak Trailblaze Mission in HSR (Part 1)",
-    "uploader": "Tofuspin",
-    "url": "https://www.youtube.com/watch?v=dYLXy34d_dw",
-    "views": "12",
-    "rejected": []
-   },
-   {
     "seconds": 21904,
     "title": "Version 4.1 Trailblaze Mission Full Story HD | Planarcadia Unraveled For Daybreak | Honkai Star Rail",
     "uploader": "Noxxis Gaming",
@@ -7705,16 +7700,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 391,
+   "n": 9,
+   "median": 398,
    "low": 288,
    "high": 472,
-   "q1": 356,
-   "q3": 411,
-   "trimmed_mean": 386,
+   "q1": 371,
+   "q3": 414,
+   "trimmed_mean": 391,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.018
   }
  },
  {
