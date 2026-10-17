@@ -367,23 +367,23 @@ for the grandest Phantasmoon Games the painting has seen.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 00 min | Honkai: Star Rail 4.6 — Trailblaze Mission "Dance With the Beast Before Moonrise" Full Gameplay | TapoPlays | ~2 | n/a | <https://www.youtube.com/watch?v=Dx9H_8ZHDfs> |
-| 2 h 38 min | Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise) | Stanley Quach | ~4 | n/a | <https://www.youtube.com/watch?v=92ryybiq33s> |
-| 3 h 04 min | "Dance With the Beast Before Moonrise” (4.5 Full Quest) \| Honkai Starrail | Glitter Games! | ~66 | n/a | <https://www.youtube.com/watch?v=R0KtVIn53NE> |
-| 3 h 09 min | Version 4.6 Trailblaze Mission Full Story \| Dance With the Beast Before Moonrise \| Honkai Star Rail | Noxxis Gaming | ~963 | n/a | <https://www.youtube.com/watch?v=z748dGocYDU> |
-| 3 h 11 min | HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail) | Abyss Breakdown | ~11,015 | n/a | <https://www.youtube.com/watch?v=TV-XFcfKUn8> |
-| 3 h 18 min | Dance With the Beast Before Moonrise - Act V: Part VII (Full story) \| Honkai: Star Rail 4.6 | Sir Patty | ~8 | n/a | <https://www.youtube.com/watch?v=QYOaJH2Rnbg> |
-| 3 h 23 min | Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story) | Major | ~6 | n/a | <https://www.youtube.com/watch?v=hN_fnn1EGg8> |
-| 3 h 25 min | HSR 4.6 Trailblaze Missions \| Full Walkthrough (Dance With the Beast Before Moonrise) | Arie seventline | ~152 | n/a | <https://www.youtube.com/watch?v=r_t2u8z0w8o> |
-| 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | MilkyWayJono | ~4 | n/a | <https://www.youtube.com/watch?v=z0nmpxHgcSc> |
-| 3 h 30 min | HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise | Izom F2P Gaming | ~4 | n/a | <https://www.youtube.com/watch?v=EyOPNmtubwQ> |
-| 3 h 30 min | Honkai: Star Rail 4.6 — Dance With the Beast Before Moonrise (Full Main Story Quest) | BSS Gaming | ~184 | n/a | <https://www.youtube.com/watch?v=LjjYwBtOVBA> |
-| 3 h 30 min | Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough | Rubhen925 | ~27,864 | n/a | <https://www.youtube.com/watch?v=LwBVHHywpbs> |
-| 3 h 34 min | 『Honkai Star Rail』4.6 ''Dance With The Beast Before Moonrise'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | ~35 | n/a | <https://www.youtube.com/watch?v=qkoLqUEOyVg> |
-| 3 h 36 min | Honkai Star Rail 4.6 Planarcadia Trailblaze Story Quest \| HSR JP Voice | ViGAMES | ~373 | n/a | <https://www.youtube.com/watch?v=_AU5-Hu7iHM> |
-| 3 h 50 min | Honkai Star Rail 4.6 Trailblaze Quest (full walkthrough) | Kazuma Akimoto (Master Aki) | ~54 | n/a | <https://www.youtube.com/watch?v=fbmOu3b65nA> |
-| 3 h 55 min | Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest | CorporalOdin2 | ~12 | n/a | <https://www.youtube.com/watch?v=lC17NurFrs4> |
-| 4 h 16 min | It Comes Full Circle \| Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest | FervidTwo Gaming | ~12 | n/a | <https://www.youtube.com/watch?v=JWW4NsCI6OA> |
+| 2 h 00 min | Honkai: Star Rail 4.6 — Trailblaze Mission "Dance With the Beast Before Moonrise" Full Gameplay | TapoPlays | 2 | 2026-10-06 | <https://www.youtube.com/watch?v=Dx9H_8ZHDfs> |
+| 2 h 38 min | Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise) | Stanley Quach | 4 | 2026-09-29 | <https://www.youtube.com/watch?v=92ryybiq33s> |
+| 3 h 04 min | "Dance With the Beast Before Moonrise” (4.5 Full Quest) \| Honkai Starrail | Glitter Games! | 66 | 2026-09-29 | <https://www.youtube.com/watch?v=R0KtVIn53NE> |
+| 3 h 09 min | Version 4.6 Trailblaze Mission Full Story \| Dance With the Beast Before Moonrise \| Honkai Star Rail | Noxxis Gaming | 963 | 2026-09-29 | <https://www.youtube.com/watch?v=z748dGocYDU> |
+| 3 h 11 min | HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail) | Abyss Breakdown | 11,026 | 2026-09-28 | <https://www.youtube.com/watch?v=TV-XFcfKUn8> |
+| 3 h 18 min | Dance With the Beast Before Moonrise - Act V: Part VII (Full story) \| Honkai: Star Rail 4.6 | Sir Patty | 8 | 2026-09-30 | <https://www.youtube.com/watch?v=QYOaJH2Rnbg> |
+| 3 h 23 min | Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story) | Major | 6 | 2026-09-28 | <https://www.youtube.com/watch?v=hN_fnn1EGg8> |
+| 3 h 25 min | HSR 4.6 Trailblaze Missions \| Full Walkthrough (Dance With the Beast Before Moonrise) | Arie seventline | 152 | 2026-09-28 | <https://www.youtube.com/watch?v=r_t2u8z0w8o> |
+| 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | Jonozoic | 830 | 2026-09-28 | <https://www.youtube.com/watch?v=eKPLA-tsZa4> |
+| 3 h 30 min | HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise | Izom F2P Gaming | 4 | 2026-09-28 | <https://www.youtube.com/watch?v=EyOPNmtubwQ> |
+| 3 h 30 min | Honkai: Star Rail 4.6 — Dance With the Beast Before Moonrise (Full Main Story Quest) | BSS Gaming | 184 | 2026-09-28 | <https://www.youtube.com/watch?v=LjjYwBtOVBA> |
+| 3 h 30 min | Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough | Rubhen925 | 27,968 | 2026-09-28 | <https://www.youtube.com/watch?v=LwBVHHywpbs> |
+| 3 h 34 min | 『Honkai Star Rail』4.6 ''Dance With The Beast Before Moonrise'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | 35 | 2026-09-28 | <https://www.youtube.com/watch?v=qkoLqUEOyVg> |
+| 3 h 36 min | Honkai Star Rail 4.6 Planarcadia Trailblaze Story Quest \| HSR JP Voice | ViGAMES | 373 | 2026-09-28 | <https://www.youtube.com/watch?v=_AU5-Hu7iHM> |
+| 3 h 50 min | Honkai Star Rail 4.6 Trailblaze Quest (full walkthrough) | Kazuma Akimoto (Master Aki) | 54 | 2026-09-28 | <https://www.youtube.com/watch?v=fbmOu3b65nA> |
+| 3 h 55 min | Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest | CorporalOdin2 | 12 | 2026-10-04 | <https://www.youtube.com/watch?v=lC17NurFrs4> |
+| 4 h 16 min | It Comes Full Circle \| Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest | FervidTwo Gaming | 13 | 2026-10-15 | <https://www.youtube.com/watch?v=JWW4NsCI6OA> |
 
 </details>
 <!--/gen-->
