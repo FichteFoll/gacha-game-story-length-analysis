@@ -34,5 +34,8 @@
  ],
  "ch2|Process VII": [
   "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
+ ],
+ "ch2|Process VIII": [
+  "^(?!.*\\bchapter ?(?:1|i|one)\\b)"
  ]
 }

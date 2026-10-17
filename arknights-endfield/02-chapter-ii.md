@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II
 
-**Region:** Wuling: Jingyu Valley, Qingbo Stockade, Wuling City and the North Wuling Exclusion Zone | **Game versions:** 1.0 - 1.4 | **Entries:** 7 | **Estimated chapter length: 15 h 10 min**
+**Region:** Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, the North Wuling Exclusion Zone and Si's Painting | **Game versions:** 1.0 - 1.6 | **Entries:** 8 | **Estimated chapter length: 18 h 24 min**
 <!--/gen-->
 
 Wuling, entered by negotiation rather than taken,
@@ -22,24 +22,27 @@ to close the rifts the miasma grew out of.
 | Process V | Wrothful Tide | 1 h 03 min | 58 min - 1 h 06 min | 15 | high |
 | Process VI | Ponderous Load | 1 h 37 min | 1 h 30 min - 1 h 39 min | 16 | high |
 | Process VII | Ruins in the Miasma | 4 h 34 min | 4 h 10 min - 4 h 46 min | 13 | high |
+| Process VIII | Sanctuary from the Rift | 3 h 14 min | 3 h 08 min - 3 h 27 min | 28 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 10 min<!--/f-->**
+**Total: <!--f:total-->18 h 24 min<!--/f-->**
 
 ## Pacing
 
 Chapter II is the larger half of the game,
-close to twice Chapter I over <!--f:n_entries-->seven<!--/f--> entries rather than five,
+close to twice Chapter I over <!--f:n_entries-->eight<!--/f--> entries rather than five,
 and it is much more unevenly cut.
-<!--f:n_above_2h-->two<!--/f--> of those entries run past two hours
+<!--f:n_above_2h-->three<!--/f--> of those entries run past two hours
 and the rest sit between one and two,
 so the shape is three big stops with short connective tissue between them:
 *The Long Feud* in and around Qingbo Stockade,
 *Ruins in the Miasma* north of the city,
-and *The Way of Water* introducing Wuling in between.
+and *Sanctuary from the Rift* inside Si's Painting.
 *Ruins in the Miasma* is the outlier of the whole report at over four hours,
-<!--f:parts_Process_VII-->nine<!--/f--> missions long and the newest thing here,
-which is the combination that usually means an estimate still settling.
+<!--f:parts_Process_VII-->nine<!--/f--> missions long.
+*Sanctuary from the Rift* is the newest process here,
+measured within days of its release,
+so its figure is the one most likely to move on a re-harvest.
 
 ## Processes
 
@@ -344,6 +347,67 @@ The single longest process in the game.
 </details>
 <!--/gen-->
 
+<!--gen:act-heading act="Process VIII"-->
+### Process VIII - [Sanctuary from the Rift](https://endfield.wiki.gg/wiki/Mission/Main#Chapter_2)
+<!--/gen-->
+
+Into Si's Painting, a painted world inside Wuling,
+over <!--f:parts_Process_VIII-->five<!--/f--> missions
+that end in a fight against Si herself.
+The wiki's mission table did not list this process yet at collection:
+its title is the one the game shows and its uploads carry,
+all but one of its missions are named on the wiki's
+event and pass pages that reward them,
+and *Witness the Game Unfold* is named by uploads only.
+<!--gen:stats act="Process VIII"-->
+One of the three longest processes in the game.
+
+- **Estimated length:** 3 h 14 min
+- **Sampled range:** 3 h 08 min to 3 h 27 min for the middle half (full spread 2 h 32 min to 5 h 21 min) across 28 playthrough uploads (166 further candidates screened out)
+- **Confidence:** high
+- **Released in:** Sanctuary of Ink (1.6)
+- **Measured from the uploader's chapter markers:** 2 of 28 uploads
+- **Quest parts (5):** Enter the Painted World; Learn of Rise and Fall; Witness the Game Unfold; See Through the Self; Paint with Fresh Ink
+<!--/gen-->
+
+<!--gen:evidence act="Process VIII"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 32 min | Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary) | Admiralvic | 61 | 2026-10-15 | <https://www.youtube.com/watch?v=AsqJrGqwglQ> |
+| 2 h 50 min | Sanctuary from the Rift - Chapter II: Process VIII (Full Story) \| Arknights: Endfield 1.6 | Sir Patty | 5 | 2026-10-16 | <https://www.youtube.com/watch?v=F3blVz1mb34> |
+| 3 h 04 min | [ ARKNIGHTS: ENDFIELD ] Chapter II: Process VIII -  Sanctuary from the Rift [FULL STORY] | Uranium Tea Gaming | 1 | 2026-10-17 | <https://www.youtube.com/watch?v=PPoNafhJCU4> |
+| 3 h 06 min | Arknights Endfield 1.6 Full Main Quest (Female MC) | Vinster | ~8 | n/a | <https://www.youtube.com/watch?v=ybdGBNwFN0E> |
+| 3 h 07 min | (Story) Arknights Endfield \| Sanctuary from the rift | GachaStory | ~1 | n/a | <https://www.youtube.com/watch?v=veR1Q4d9wTY> |
+| 3 h 07 min | Arknights Endfield Version 1.6 Main Story Quest (Full Playthrough) | Streetwise Rhapsody | 23,018 | 2026-10-15 | <https://www.youtube.com/watch?v=QVvwbPcw6B4> |
+| 3 h 08 min | Endfield Main Story Chapter 2: Process 8 Sanctuary from the Rift Full Game \| Arknights: Endfield 1.6 | Akabirama | 24 | 2026-10-15 | <https://www.youtube.com/watch?v=FUoQRkfTWdM> |
+| 3 h 09 min | ARKNIGHTS: ENDFIELD 1.6 Full Main Story | Memo Zero | 790 | 2026-10-15 | <https://www.youtube.com/watch?v=HQ86fLRJJD0> |
+| 3 h 10 min | Arknights: Enfield 1.6 — Sanctuary from the Rift (Full Main Story Quest) | BSS Gaming | 63 | 2026-10-16 | <https://www.youtube.com/watch?v=WH8_s5mDxAc> |
+| 3 h 10 min | Chapitre II – Processus VIII : Sanctuaire loin de la faille \| Arknights Endfield 1.6 | LaHypeGG | ~5 | n/a | <https://www.youtube.com/watch?v=rhGxbLI7Z5g> |
+| 3 h 10 min | 【Arknights: Endfield】－ Sanctuary of Ink \|『Version 1.6』\| Main Story Quest | AZXMIZU | 1 | 2026-10-15 | <https://www.youtube.com/watch?v=e1Ol6ljaf0U> |
+| 3 h 10 min | Arknights Endfield 1.6 Main Story (Full Walkthrough) | NaruVT | 1,717 | 2026-10-15 | <https://www.youtube.com/watch?v=YWRdu3gATCE> |
+| 3 h 13 min | Arknights: Endfield Version 1.6 Full Story Walkthrough (2K 60FPS) \| Sanctuary of Ink | NeonVade | 43 | 2026-10-15 | <https://www.youtube.com/watch?v=QlqXs0eRJOE> |
+| 3 h 14 min | Version 1.6 Full Main Story Quest - Sanctuary From the Rift \| Arknights Endfield | NeoBuns | 42 | 2026-10-15 | <https://www.youtube.com/watch?v=rIUV11UfMYI> |
+| 3 h 14 min | Chapter 2 - Process 8 "Sanctuary from the Rift" \| Arknights Endfield v1.6 | T.H Bunn | 23 | 2026-10-15 | <https://www.youtube.com/watch?v=I2WhmzKMGdw> |
+| 3 h 16 min | Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough | Rubhen925 | 5,938 | 2026-10-15 | <https://www.youtube.com/watch?v=NpPfm3--l6o> |
+| 3 h 19 min | Arknights: Endfield 1.6 \| Main Story Quest Chapter 2 - Process 8 (Complete Story) | Lotus Ch. | 22 | 2026-10-16 | <https://www.youtube.com/watch?v=Or8UgCggh80> |
+| 3 h 20 min | Arknights Endfield 1.6 Sanctuary from the Rift: Chapter II - Process VIII | Kiria | 7 | 2026-10-15 | <https://www.youtube.com/watch?v=aULtUS-XYMQ> |
+| 3 h 20 min | ARKNIGHTS ENDFIELD VERSSION 1.6 FULL Main Story Quest : Sanctuary from the Rift | Izom F2P Gaming | ~4 | n/a | <https://www.youtube.com/watch?v=y--HnoOzRjQ> |
+| 3 h 25 min | Arknights: Endfield's Core Chapter Version 1.6 [Sanctuary of Ink] No Commentary Playthrough ! | Pandu Putra Dewanata | 12 | 2026-10-16 | <https://www.youtube.com/watch?v=N6G1ZyoyCEg> |
+| 3 h 27 min | Arknights Endfield Chapter 2: Sanctuary From the Rift ( Process 8 ) | TheWayCafe Productions | ~183 | n/a | <https://www.youtube.com/watch?v=rZGnhVr3ADs> |
+| 3 h 28 min | Arknights: Endfield Main Story – Chapter 2 Process 8 Playthrough \| Si's Painting (JP Dub) | Mikiyuki | 7 | 2026-10-16 | <https://www.youtube.com/watch?v=iDaxxGvJHf4> |
+| 3 h 31 min | Main Story Chapter 2 Process 8: "Enter the Painted World" FULL Playthrough \| Arknights Endfield | Shukashuu Gaming | 9 | 2026-10-15 | <https://www.youtube.com/watch?v=Zffz9PgBPX0> |
+| 3 h 40 min | Arknights Endfield 1.6 \| Main Story Full Walkthrough (Sanctuary of ink) | Arie seventline | 181 | 2026-10-15 | <https://www.youtube.com/watch?v=6g9gnZt_ZUQ> |
+| 3 h 41 min | 『Arknights Endfield』1.6 ''Sanctuary of Ink'' ❂ New Story Quest Full Walkthrough (Full Story) | HEUBIOUS | 56 | 2026-10-15 | <https://www.youtube.com/watch?v=IcY66acbdV8> |
+| 3 h 42 min | Arknights Endfield Wuling Chapter 2 Process 8 Sanctuary from the Rift | Mr Gentleman Shadow Cat | 24 | 2026-10-16 | <https://www.youtube.com/watch?v=Da1mc6TcNm8> |
+| 3 h 44 min | Arknights: Endfield 1.6 Walkthrough PART 24 - Sanctuary from the Rift (PS5 1440p) | Gaming Reviving | 96 | 2026-10-16 | <https://www.youtube.com/watch?v=DTOHaq_7E3k> |
+| 5 h 21 min | Arknights Endfield \| Sanctuary from the Rift Chapter II - Process VIII | Crazy Dog1415 | 2 | 2026-10-17 | <https://www.youtube.com/watch?v=T_8BGfTMer8> |
+
+</details>
+<!--/gen-->
+
 ## Sources
 
 - Questline structure, process names and mission lists:
@@ -352,8 +416,14 @@ and the individual mission pages of the Endfield Talos Wiki.
 - Release versions: the *Overview* and *Missions* sections of
 [Zeroth Directive](https://endfield.wiki.gg/wiki/Zeroth_Directive),
 [Old Deep Water Dies, by Rising Tide It is Denied](https://endfield.wiki.gg/wiki/Old_Deep_Water_Dies,_by_Rising_Tide_It_is_Denied),
-[At the Wake of Spring](https://endfield.wiki.gg/wiki/At_the_Wake_of_Spring)
-and [Homecoming](https://endfield.wiki.gg/wiki/Homecoming).
+[At the Wake of Spring](https://endfield.wiki.gg/wiki/At_the_Wake_of_Spring),
+[Homecoming](https://endfield.wiki.gg/wiki/Homecoming)
+and [Sanctuary of Ink](https://endfield.wiki.gg/wiki/Sanctuary_of_Ink).
+- Process VIII, which the mission table does not list yet:
+its missions as named by
+[Protocol Pass: Ink Scroll](https://endfield.wiki.gg/wiki/Protocol_Pass:_Ink_Scroll)
+and [All the Inky Hues](https://endfield.wiki.gg/wiki/All_the_Inky_Hues),
+and its boss by [Si/Enemy](https://endfield.wiki.gg/wiki/Si/Enemy).
 - Durations: the YouTube uploads listed under each process above.
 
 See [README.md](README.md) for the method and its limits.

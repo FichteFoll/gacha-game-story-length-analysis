@@ -32,7 +32,7 @@ REPORT = dict(
     gate_label=None,
     # What this game numbers its acts with, for the renderer's own headings.
     unit="Process",
-    date="2026-08-24",
+    date="2026-10-17",
 )
 
 CHAPTERS = [
@@ -45,9 +45,9 @@ CHAPTERS = [
     ),
     dict(
         id="ch2", slug="02-chapter-ii", wiki_page="Mission/Main",
-        region="Wuling: Jingyu Valley, Qingbo Stockade, Wuling City "
-               "and the North Wuling Exclusion Zone",
-        versions="1.0 - 1.4",
+        region="Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, "
+               "the North Wuling Exclusion Zone and Si's Painting",
+        versions="1.0 - 1.6",
         title="Chapter II",
     ),
 ]

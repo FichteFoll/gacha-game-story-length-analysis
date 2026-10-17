@@ -3081,10 +3081,11 @@
     "title": "\"Counterstrike Brewing\" |Arknights: Endfield - Chapter 1: process 4 | Main Story Quest",
     "uploader": "Mornfall",
     "url": "https://www.youtube.com/watch?v=S02Cvh-GPek",
-    "views": "10",
+    "views": 10,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260310"
    },
    {
     "seconds": 997,
@@ -7650,6 +7651,2374 @@
    "measured": 1,
    "parts": {},
    "drift": 0.0
+  }
+ },
+ {
+  "chapter_id": "ch2",
+  "chapter_title": "Chapter II",
+  "act_label": "Process VIII",
+  "act_title": "Sanctuary from the Rift",
+  "wiki_page": "Mission/Main#Chapter 2",
+  "slug": "ch2_Process_VIII",
+  "candidates": [
+   {
+    "seconds": 15460,
+    "title": "\u3010Arknights: Endfield\u3011SI IS HERE!!! SANCTUARY OF INK TIME!\u3010Senniursa \u3011",
+    "uploader": "Senniursa Ch.",
+    "url": "https://www.youtube.com/watch?v=mR3McZj8ulc",
+    "views": 369,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 11637,
+    "title": "Version 1.6 Full Main Story Quest - Sanctuary From the Rift | Arknights Endfield",
+    "uploader": "NeoBuns",
+    "url": "https://www.youtube.com/watch?v=rIUV11UfMYI",
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20261015",
+    "runtime": 11637,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2493,
+     "Learn of Rise and Fall": 1754,
+     "Witness the Game Unfold": 2184,
+     "See Through the Self": 5206
+    }
+   },
+   {
+    "seconds": 11387,
+    "title": "Arknights: Enfield 1.6 \u2014 Sanctuary from the Rift (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=WH8_s5mDxAc",
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 12019,
+    "title": "ARKNIGHTS ENDFIELD VERSSION 1.6 FULL Main Story Quest : Sanctuary from the Rift",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=y--HnoOzRjQ",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 11953,
+    "title": "Arknights: Endfield 1.6 | Main Story Quest Chapter 2 - Process 8 (Complete Story)",
+    "uploader": "Lotus Ch.",
+    "url": "https://www.youtube.com/watch?v=Or8UgCggh80",
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 11180,
+    "title": "Arknights Endfield 1.6 Full Main Quest (Female MC)",
+    "uploader": "Vinster",
+    "url": "https://www.youtube.com/watch?v=ybdGBNwFN0E",
+    "views": "8",
+    "rejected": []
+   },
+   {
+    "seconds": 13470,
+    "title": "Arknights: Endfield 1.6 Walkthrough PART 24 - Sanctuary from the Rift (PS5 1440p)",
+    "uploader": "Gaming Reviving",
+    "url": "https://www.youtube.com/watch?v=DTOHaq_7E3k",
+    "views": 96,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 163,
+    "title": "OneRepublic - Give Me Something (for Arknights Endfield) [Official Music Video]",
+    "uploader": "OneRepublic",
+    "url": "https://www.youtube.com/watch?v=YvZ47rREvms",
+    "views": "7401385",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 12403,
+    "title": "Arknights Endfield Chapter 2: Sanctuary From the Rift ( Process 8 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=rZGnhVr3ADs",
+    "views": "183",
+    "rejected": []
+   },
+   {
+    "seconds": 11402,
+    "title": "Chapitre II \u2013 Processus VIII : Sanctuaire loin de la faille | Arknights Endfield 1.6",
+    "uploader": "LaHypeGG",
+    "url": "https://www.youtube.com/watch?v=rhGxbLI7Z5g",
+    "views": "5",
+    "rejected": []
+   },
+   {
+    "seconds": 11250,
+    "title": "Endfield Main Story Chapter 2: Process 8 Sanctuary from the Rift Full Game | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=FUoQRkfTWdM",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 1491,
+    "title": "Sanctuary From The Rift | Chapter II Process VIII - Si Painting | ARKNIGHTS ENDFIELD ",
+    "uploader": "TarKysRot",
+    "url": "https://www.youtube.com/watch?v=h3gcUACTpOQ",
+    "views": 1,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 17243,
+    "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
+    "views": "37531",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 45493,
+    "title": "Arknights Endfield - All Main Story Quest (Version 1.0) Chapter 1 & 2 (Complete Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=mn4d_b8ExAA",
+    "views": 29874,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260127"
+   },
+   {
+    "seconds": 16320,
+    "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
+    "views": "43904",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 42318,
+    "title": "Arknights Endfield 1.0 Full Story",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
+    "views": "11473",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17531,
+    "title": "Arknights Endfield Version 1.4 - Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=s3B4DJThIDU",
+    "views": "26638",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 12514,
+    "title": "Arknights Endfield 1.1 - Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=db55_nc7P4k",
+    "views": 14283,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260319"
+   },
+   {
+    "seconds": 10066,
+    "title": "Arknights Endfield 1.2 | Main Story Quest Full Walkthrough [JP Dub] No Commentary",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=Aq5yQ3D5124",
+    "views": 537,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 15576,
+    "title": "Arknights Endfield Version 1.2 Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=cqPRAAKQhxw",
+    "views": 22296,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 6049,
+    "title": "Arknights Endfield 1.3 - Camille Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=K0OJOdcbFBU",
+    "views": 20722,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260626"
+   },
+   {
+    "seconds": 24438,
+    "title": "Arknights Endfield - Gameplay Walkthrough Part 6 - 1.0 Ending (PS5 Pro) No Commentary",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=rK5aqX1DBLs",
+    "views": 13275,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260126"
+   },
+   {
+    "seconds": 11748,
+    "title": "Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=NpPfm3--l6o",
+    "views": 5938,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 2454,
+    "title": "Enter the Painted World Walkthrough | Arknights Endfield",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=818f0jfqubk",
+    "views": 10,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 443,
+    "title": "Endmin vs Si - Arknights Endfield 1.6",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=i_lyxA5AzuA",
+    "views": 1819,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 2506,
+    "title": "Arknights Endfield 1.6 - Endmin vs Si Final Boss Fight & Ending",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=FXtn8NNaYeU",
+    "views": 6881,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 624,
+    "title": "Endmin Face Reveal - Arknights Endfield 1.6",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=2Zf92yRCLtk",
+    "views": 5600,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 230,
+    "title": "[Arknights: Endfield Medal] Enter The Painted World: Complete Main Mission Inn The Painting",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=ikexQV3cGuU",
+    "views": 2,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 332,
+    "title": "[Arknights: Endfield Medal] See Through The Self: Complete Main Mission A Path Where There's None",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=atRjSt-DsUU",
+    "views": 8,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 114,
+    "title": "One of the Most Epic Cutscenes in Sanctuary From the Rift! (Arknights: Endfield 1.6)",
+    "uploader": "YooloBot XP",
+    "url": "https://www.youtube.com/watch?v=Lei9OfgOuvA",
+    "views": "8",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 600,
+    "title": "Alleikhreos Boss Theme (Story Ver.) | Arknights: Endfield 1.4 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=yqlDvzNnT84",
+    "views": "318409",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 72,
+    "title": "One-Click DLSS 5 Install in Any Game (RTX 20, 30, 40, 50 Series)",
+    "uploader": "Karan Benchmarks",
+    "url": "https://www.youtube.com/watch?v=cQJh8IV9SMI",
+    "views": 236079,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 532,
+    "title": "How to: Enable DLSS 5 in ANY GAME! (DLSS 5 Swapper + Download Link)",
+    "uploader": "Fraze",
+    "url": "https://www.youtube.com/watch?v=T3bAg606W18",
+    "views": "74640",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1650,
+    "title": "Learn of Rise and Fall Walkthrough | Arknights Endfield",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=FqRo45x7kG4",
+    "views": 1,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 1797,
+    "title": "[Arknights: Endfield Main Mission] Learn Of Rise And Fall: Use The Brush & Solve Villagers' Troubles",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=fcgoa6PpkGk",
+    "views": 57,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 2730,
+    "title": "[Arknights: Endfield Main Mission] Enter The Painted World: Meet Up With Si At Si's Painting",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=3C4vDCCFoy4",
+    "views": 49,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 558,
+    "title": "ALL CUTSCENES Chapter 2 - Process 8 \"Sanctuary from the Rift\" | Arknights Endfield v1.6",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=w0pKzkPK-lU",
+    "views": "7",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 11652,
+    "title": "Chapter 2 - Process 8 \"Sanctuary from the Rift\" | Arknights Endfield v1.6",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=I2WhmzKMGdw",
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 13347,
+    "title": "Arknights Endfield Wuling Chapter 2 Process 8 Sanctuary from the Rift",
+    "uploader": "Mr Gentleman Shadow Cat",
+    "url": "https://www.youtube.com/watch?v=Da1mc6TcNm8",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 9678,
+    "title": "Chapter 2 Process 8: Sanctuary from the Rift | Full storyline & cutscenes | Arknights: Endfield",
+    "uploader": "Gaming Archive",
+    "url": "https://www.youtube.com/watch?v=g59-jlf1P0k",
+    "views": "5",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 10222,
+    "title": "Sanctuary from the Rift - Chapter II: Process VIII (Full Story) | Arknights: Endfield 1.6",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=F3blVz1mb34",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 2178,
+    "title": "Arknights Endfield 1.6 | Witness the Game Unfold | Chapter 2 - Process 8 | Main Mission",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=MVDTisyRPts",
+    "views": 11,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 1646,
+    "title": "Arknights Endfield 1.6 | Learn of Rise and Fall | Chapter 2 - Process 8 | Main Mission",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=nhdjG9b4uxU",
+    "views": 8,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 2512,
+    "title": "Arknights Endfield 1.6 | See Through the Self | Chapter 2 - Process 8 | Main Mission",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=fC_2jdliocA",
+    "views": 3,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 2444,
+    "title": "Arknights Endfield 1.6 | Paint with Fresh Ink | Chapter 2 - Process 8 | Main Mission",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=RBx7MkZFOBk",
+    "views": 11,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 2413,
+    "title": "Arknights Endfield 1.6 | Enter the Painted World | Chapter 2 - Process 8 | Main Mission",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=mWiyjn9xXYg",
+    "views": 4,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 474,
+    "title": "Endfield Main Story Chapter 2: Process 8 All Cinematic Cutscenes | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=__33pexn684",
+    "views": "19",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 493,
+    "title": "Si Full Boss Battle - Endfield Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=M8FZuxV0xWI",
+    "views": 14,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 1401,
+    "title": "Endmin Facing Their Fear - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=5BpE6fvcYUE",
+    "views": 5,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 430,
+    "title": "Lady Si Boss Theme (Story Ver.) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=Cuimo36MIL8",
+    "views": "32461",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1435,
+    "title": "Si & Endmin Playing Chess - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=creuz1dARGA",
+    "views": 6,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 2480,
+    "title": "Arknights Endfield 1.6 German Sanctuary far from the rift Chapter 2 Process 8 See through it your...",
+    "uploader": "Quvades Gaming",
+    "url": "https://www.youtube.com/watch?v=3XTOb2d7gBo",
+    "views": 18,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 636,
+    "title": "Endmin Meet His Past Self - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=hvYWLVtWOQc",
+    "views": 1,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 261,
+    "title": "The Girls Had Enough with the Endmin - Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=aVpk2oblOtE",
+    "views": 3,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 12453,
+    "title": "Arknights: Endfield Main Story \u2013 Chapter 2 Process 8 Playthrough | Si's Painting (JP Dub)",
+    "uploader": "Mikiyuki",
+    "url": "https://www.youtube.com/watch?v=iDaxxGvJHf4",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 340,
+    "title": "Si Won't Let Endmin Go Home - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=-cMWFJXuqoQ",
+    "views": 3,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 266,
+    "title": "Si Express Her Loneliness Without Endmin - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=SfE9GTgTEn0",
+    "views": 4,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 6406,
+    "title": "Arknights Endfield 1.0 Main Story Quest | Chapter 2: Process 2 - Full Walkthrough (Female MC)",
+    "uploader": "QuestWatcher",
+    "url": "https://www.youtube.com/watch?v=z3k0VjCdBEQ",
+    "views": "34",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2458,
+    "title": "\"The Surging Tide\" |Arknights: Endfield - Chapter 2: process 2 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=2Orpq2iEpGI",
+    "views": 13,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260423"
+   },
+   {
+    "seconds": 11035,
+    "title": "Chapter II Process I, II - Arknights Endfield",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=vVd3_ssQVUA",
+    "views": 26,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260201"
+   },
+   {
+    "seconds": 6179,
+    "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 8",
+    "uploader": "HaWuTsKi Archive",
+    "url": "https://www.youtube.com/watch?v=Jqe9k4dlvII",
+    "views": 13,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260216"
+   },
+   {
+    "seconds": 6164,
+    "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 20",
+    "uploader": "HaWuTsKi Archive",
+    "url": "https://www.youtube.com/watch?v=eg_7U5VeMUU",
+    "views": 18,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 8354,
+    "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 12",
+    "uploader": "HaWuTsKi Archive",
+    "url": "https://www.youtube.com/watch?v=-gUO5dFR4E4",
+    "views": 20,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260302"
+   },
+   {
+    "seconds": 11997,
+    "title": "Arknights: Endfield 1.1 Gameplay | The Long Feud Main Story Quest Full Playthrough (No Commentary)",
+    "uploader": "BlazzerSora",
+    "url": "https://www.youtube.com/watch?v=B05JUsWBY_U",
+    "views": 383,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260315"
+   },
+   {
+    "seconds": 6714,
+    "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 16",
+    "uploader": "HaWuTsKi Archive",
+    "url": "https://www.youtube.com/watch?v=XMpKrTjZpEs",
+    "views": 10,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260330"
+   },
+   {
+    "seconds": 30871,
+    "title": "Arknights Endfield \u25bc - Gameplay Walkthrough Chapter 1 (PC) No Commentary",
+    "uploader": "BlackStoryz",
+    "url": "https://www.youtube.com/watch?v=9uP2cHaOk5U",
+    "views": 52,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260406"
+   },
+   {
+    "seconds": 1042,
+    "title": "\"Lodespring Crossing\" |Arknights: Endfield - Chapter 1: process 3 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=YJmHExWeiLg",
+    "views": 9,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260307"
+   },
+   {
+    "seconds": 5464,
+    "title": "[Arknights: Endfield] Story Playthrough (No Commentary) \u2013 Part 7",
+    "uploader": "HaWuTsKi Archive",
+    "url": "https://www.youtube.com/watch?v=ivQwSS_DKGw",
+    "views": 23,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260209"
+   },
+   {
+    "seconds": 1050,
+    "title": "\"Conference of the Four\" |Arknights: Endfield - Chapter 1: process 4 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=RyP9hcBP_7I",
+    "views": 12,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260322"
+   },
+   {
+    "seconds": 1611,
+    "title": "\"Undying Cinders\" |Arknights: Endfield - Chapter 1: process 4 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=oxU-5KUaZJ8",
+    "views": 9,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260314"
+   },
+   {
+    "seconds": 960,
+    "title": "Arknights: Endfield PC Gameplay \u2013 GTX 1050 Ti | Very High Settings | No Commentary | Part - 2",
+    "uploader": "OniKazuki",
+    "url": "https://www.youtube.com/watch?v=pGmeXKZjaYE",
+    "views": 46,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260122"
+   },
+   {
+    "seconds": 934,
+    "title": "\"Frontline Rush\" |Arknights: Endfield - Chapter 1: process 4 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=0AeWilcymTo",
+    "views": 13,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260314"
+   },
+   {
+    "seconds": 510,
+    "title": "\"Counterstrike Brewing\" |Arknights: Endfield - Chapter 1: process 4 | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=S02Cvh-GPek",
+    "views": 10,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260310"
+   },
+   {
+    "seconds": 1640,
+    "title": "Arknights: Endfield - Chapter 1: process 3 \"Mystery in the Building\" | Main Story Quest",
+    "uploader": "Mornfall",
+    "url": "https://www.youtube.com/watch?v=5MsqjgiA6N8",
+    "views": 14,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260305"
+   },
+   {
+    "seconds": 2363,
+    "title": "Arknights Endfield PS5 Part 12 Chapter 1 Process 3 Story Gameplay Walkthrough All Cutscenes",
+    "uploader": "Refia Quest",
+    "url": "https://www.youtube.com/watch?v=gshVgqrd7-8",
+    "views": "76",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2248,
+    "title": "What to do After you Finish All Main Story Missions | Daily To Do List \u25ba Arknights Endfield",
+    "uploader": "ConCon",
+    "url": "https://www.youtube.com/watch?v=oKGTCQ-opG8",
+    "views": 36442,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260202"
+   },
+   {
+    "seconds": 1392,
+    "title": "Arknights: Endfield Playthrough Part 2: The Factory Must Grow!",
+    "uploader": "LeRandomRayquaza2011",
+    "url": "https://www.youtube.com/watch?v=aEhjZ9_lfD8",
+    "views": 5,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260201"
+   },
+   {
+    "seconds": 18866,
+    "title": "Sanctuary of Ink: Main Story Quest | Arknights Endfield",
+    "uploader": "Chaotik (Gryphline Creator)",
+    "url": "https://www.youtube.com/watch?v=TuLHoJ2b57Q",
+    "views": 6683,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11426,
+    "title": "Arknights Endfield 1.6 Main Story (Full Walkthrough)",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=YWRdu3gATCE",
+    "views": 1717,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 3076,
+    "title": "Arknights Endfield 1.6 - All Cutscenes & Bosses (Main Story Sanctuary of Ink)",
+    "uploader": "ON Game",
+    "url": "https://www.youtube.com/watch?v=36crzdoFPUg",
+    "views": "2863",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 134,
+    "title": "Rhodes Island Teaser (Cutscene) | Arknights Endfield 1.6",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=k101J_3verE",
+    "views": "14126",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 383,
+    "title": "Si Gameplay Showcase | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=EY0sxv7GWEY",
+    "views": 7272,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 457,
+    "title": "Si Vs Endmin (Cutscene) | Arknights Endfield 1.6",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=zJ8rtHGIXsg",
+    "views": "1530",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 86,
+    "title": "Argent Flow All Cutscenes (Special Program) | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=HmZVJDm5GnM",
+    "views": "1696",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 658,
+    "title": "Endmin Meets Past Endmin (Cutscene) | Arknights Endfield 1.6",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=At7w27uWMGI",
+    "views": "3391",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 249,
+    "title": "Si All Cutscenes (Special Program) | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=GO9oyeVIhok",
+    "views": "1569",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 296,
+    "title": "Argent Flow Gameplay Showcase | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=P4K0Yv1DivY",
+    "views": 1937,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 168,
+    "title": "Si & The Endmin's Reunion (Cutscenes) | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=-Opb1row66U",
+    "views": "10071",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9129,
+    "title": "Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
+    "uploader": "Admiralvic",
+    "url": "https://www.youtube.com/watch?v=AsqJrGqwglQ",
+    "views": 61,
+    "rejected": [],
+    "upload_date": "20261015",
+    "runtime": 11199,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2468,
+     "Learn of Rise and Fall": 1704,
+     "Witness the Game Unfold": 2176,
+     "See Through the Self": 2453,
+     "Paint with Fresh Ink": 328
+    }
+   },
+   {
+    "seconds": 29773,
+    "title": "\ud83d\udd34LIVE NOW | Arknights: Endfield 1.6 : Summoning SI & Completing Main Story Quest \"Sanctuary of Ink\"!",
+    "uploader": "Creater Haruka",
+    "url": "https://www.youtube.com/watch?v=UShhoNK5Z8c",
+    "views": "974",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 13221,
+    "title": "Arknights Endfield 1.6 | Main Story Full Walkthrough (Sanctuary of ink)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=6g9gnZt_ZUQ",
+    "views": 181,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 13242,
+    "title": "\u300eArknights Endfield\u300f1.6 ''Sanctuary of Ink'' \u2742 New Story Quest Full Walkthrough (Full Story)",
+    "uploader": "HEUBIOUS",
+    "url": "https://www.youtube.com/watch?v=IcY66acbdV8",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11419,
+    "title": "\u3010Arknights: Endfield\u3011\uff0d Sanctuary of Ink |\u300eVersion 1.6\u300f| Main Story Quest",
+    "uploader": "AZXMIZU",
+    "url": "https://www.youtube.com/watch?v=e1Ol6ljaf0U",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11605,
+    "title": "Arknights: Endfield Version 1.6 Full Story Walkthrough (2K 60FPS) | Sanctuary of Ink",
+    "uploader": "NeonVade",
+    "url": "https://www.youtube.com/watch?v=QlqXs0eRJOE",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 9625,
+    "title": "\ud83d\udd34 SANCTUARY OF INK (CORE VERSION) IS LIVE! \ud83c\udfa8 NEW VERSION + PULLS! | Arknights: Endfield",
+    "uploader": "Mr.Gem7in7I",
+    "url": "https://www.youtube.com/watch?v=MZ8zvtEIq64",
+    "views": "42",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 133,
+    "title": "Argent Flow Voice Comparison [All Dub] | Arknights Endfield 1.6 \"Sanctuary of Ink\" (4K 60FPS)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=ZLKrrMnAbOs",
+    "views": 921,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 16976,
+    "title": "ARKNIGHTS ENDFIELD 1.6 Story Quest REACTION \ud83d\udd34 AKE 1.6 UPDATE",
+    "uploader": "Winters Not Live",
+    "url": "https://www.youtube.com/watch?v=DUbAg0hXFBk",
+    "views": "4150",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12292,
+    "title": "Arknights: Endfield's Core Chapter Version 1.6 [Sanctuary of Ink] No Commentary Playthrough !",
+    "uploader": "Pandu Putra Dewanata",
+    "url": "https://www.youtube.com/watch?v=N6G1ZyoyCEg",
+    "views": 12,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 361,
+    "title": "Si Voice Comparison [All Dubs] | Arknights Endfield 1.6 \"Sanctuary of Ink\"",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=U6opyCuNVQQ",
+    "views": 418,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 18477,
+    "title": "Finnish Guy Plays Version 1.5 | Arknights: Endfield",
+    "uploader": "Glittr_",
+    "url": "https://www.youtube.com/watch?v=3nvWQT8Jd4Q",
+    "views": 12524,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 11224,
+    "title": "Arknights Endfield Version 1.6 Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=QVvwbPcw6B4",
+    "views": 23018,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 711,
+    "title": "Min-Max Farm & Innkeeping Event Guide | Arknights: Endfield",
+    "uploader": "XDDDD",
+    "url": "https://www.youtube.com/watch?v=fcJFnOT2NGs",
+    "views": "0",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 15471,
+    "title": "Arknights Endfield - Main Story Quest - Chapter 1 & Prologue (Part 1) Full Playthrough",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=AfiNfLdWVro",
+    "views": 57351,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260122"
+   },
+   {
+    "seconds": 11346,
+    "title": "ARKNIGHTS: ENDFIELD 1.6 Full Main Story",
+    "uploader": "Memo Zero",
+    "url": "https://www.youtube.com/watch?v=HQ86fLRJJD0",
+    "views": 790,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 6785,
+    "title": "Arknights Endfield 1.5 - Typhoeus Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=i9jUdPiaRVk",
+    "views": 23569,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260902"
+   },
+   {
+    "seconds": 83188,
+    "title": "Arknights: Endfield 1.0 - Full Game Playthrough (Female MC)",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=wbbaHyumpoY",
+    "views": "5610",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 67278,
+    "title": "ARKNIGHTS: ENDFIELD - Full Game (No Commentary Gameplay)",
+    "uploader": "zLastSaint",
+    "url": "https://www.youtube.com/watch?v=GzONLWlJ1I8",
+    "views": 3744,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260128"
+   },
+   {
+    "seconds": 16062,
+    "title": "Arknights: Endfield 1.0 - PART 1 (No Commentary) | Gameplay Walkthrough",
+    "uploader": "Lamoura",
+    "url": "https://www.youtube.com/watch?v=-6kJ-yjJbW8",
+    "views": 729,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260128"
+   },
+   {
+    "seconds": 68379,
+    "title": "ARKNIGHTS: ENDFIELD Gameplay Walkthrough FULL GAME [4K 60FPS PS5 PRO] - No Commentary",
+    "uploader": "MKHeroAndZero",
+    "url": "https://www.youtube.com/watch?v=7DqZzvkrIXI",
+    "views": 1644,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260312"
+   },
+   {
+    "seconds": 13276,
+    "title": "\u3010ARKNIGHTS: ENDFIELD 1.6\u3011 Maybe put down the ink, Si",
+    "uploader": "Ushio Ebi Ch.",
+    "url": "https://www.youtube.com/watch?v=DzuzTiEaMxM",
+    "views": 20702,
+    "rejected": [
+     "not-a-playthrough"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 39541,
+    "title": "Arknights: Endfield - Full Chapter 1 Playthrough (Female MC)",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=Uc0KQdx0rw8",
+    "views": 6749,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260123"
+   },
+   {
+    "seconds": 2599,
+    "title": "Arknights Endfield 1.6 - All Cutscenes & Bosses (Main Story Sanctuary of Ink)",
+    "uploader": "MELOO",
+    "url": "https://www.youtube.com/watch?v=1WLtwEJKwpM",
+    "views": "17372",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 6700,
+    "title": "Typhoeus Story Quest - Arknights Endfield Version 1.5 Main Story (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=ZS3MFUppV2Q",
+    "views": 20845,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260902"
+   },
+   {
+    "seconds": 106,
+    "title": "Rhodes Island Teaser Song | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=yQCjIcUWv-0",
+    "views": "55868",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 26547,
+    "title": "Arknights Endfield Stream: v1.6 - Si's Painting and Chapter 2: Process 8",
+    "uploader": "gozieson",
+    "url": "https://www.youtube.com/watch?v=uROYLa53JsU",
+    "views": "179",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 261,
+    "title": "First Meeting with Argent Flow/Ye Minghe - Main Story Chapter 2: Process 8 | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=m12CdTxvd0Y",
+    "views": 5,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 179,
+    "title": "Endmin Fights Si (Endmin Face Reveal) Cutscene | Arknights Endfield 1.6",
+    "uploader": "Vinster",
+    "url": "https://www.youtube.com/watch?v=VW4HY0hm-xQ",
+    "views": "2",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 106,
+    "title": "Rhodes Island Preview Teaser Cutscene (Endfield 2.0 Region) | Arknights Endfield 1.6",
+    "uploader": "Vinster",
+    "url": "https://www.youtube.com/watch?v=jmDnZfR0JZY",
+    "views": "4",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 114,
+    "title": "Top 10 Facts - Adidas // Top Facts",
+    "uploader": "Product Designer",
+    "url": "https://www.youtube.com/watch?v=o1cfr-b6KT8",
+    "views": 1571,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20151228"
+   },
+   {
+    "seconds": 258,
+    "title": "Evanescence - Sanctuary (Official Visualizer)",
+    "uploader": "Evanescence",
+    "url": "https://www.youtube.com/watch?v=E64jOWeVfpg",
+    "views": 1685528,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260605"
+   },
+   {
+    "seconds": 229,
+    "title": "Welshly Arms - Sanctuary (Audio)",
+    "uploader": "WelshlyArmsBand",
+    "url": "https://www.youtube.com/watch?v=eYAQeV9Z00M",
+    "views": 13012257,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20180323"
+   },
+   {
+    "seconds": 12224,
+    "title": "Sanctuary - Ethereal Ambient Music For Inner Peace - Healing Meditation Journey",
+    "uploader": "Tranquil Healing Music",
+    "url": "https://www.youtube.com/watch?v=iIjiOzWCaRo",
+    "views": "1388727",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 261,
+    "title": "Sanctuary - worship video with lyrics.wmv",
+    "uploader": "allfords4me1",
+    "url": "https://www.youtube.com/watch?v=AxB9VH3cCN4",
+    "views": 14405488,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20101016"
+   },
+   {
+    "seconds": 182,
+    "title": "Joji - Sanctuary (Lyrics)",
+    "uploader": "Cakes & Eclairs",
+    "url": "https://www.youtube.com/watch?v=trLTBzM52gQ",
+    "views": "1813966",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 192,
+    "title": "Joji - Sanctuary (Official Video)",
+    "uploader": "88rising",
+    "url": "https://www.youtube.com/watch?v=YWN81V7ojOE",
+    "views": 122599053,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20190614"
+   },
+   {
+    "seconds": 258,
+    "title": "Kingdom Hearts II Soundtrack- Sanctuary",
+    "uploader": "Schizo Prime",
+    "url": "https://www.youtube.com/watch?v=HTUq3Ik1GHM",
+    "views": "19592297",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 261,
+    "title": "The Cult - She Sells Sanctuary HD",
+    "uploader": "Beggars Banquet Records",
+    "url": "https://www.youtube.com/watch?v=ZCOSPtyZAPA",
+    "views": 96069948,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20130111"
+   },
+   {
+    "seconds": 326,
+    "title": "Sanctuary - Not Of The Living (Lyric Video)",
+    "uploader": "Sanctuary",
+    "url": "https://www.youtube.com/watch?v=4aVDc90bNvg",
+    "views": 143282,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260410"
+   },
+   {
+    "seconds": 292,
+    "title": "Kingdom Hearts 2 Opening Sanctuary HD",
+    "uploader": "Lin",
+    "url": "https://www.youtube.com/watch?v=im5tc4fcg5w",
+    "views": 10186845,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20121212"
+   },
+   {
+    "seconds": 180,
+    "title": "Vietsub | Sanctuary - Joji | Lyrics Video",
+    "uploader": "Vietsub M\u1ed7i Ng\u00e0y",
+    "url": "https://www.youtube.com/watch?v=SCN4z73Ci1Y",
+    "views": 471412,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20200919"
+   },
+   {
+    "seconds": 267,
+    "title": "KAMELOT - \"Sanctuary\" featuring Cl\u00e9mentine Delauney  & Ignacia Fern\u00e1ndez",
+    "uploader": "KAMELOT and Napalm Records",
+    "url": "https://www.youtube.com/watch?v=CZ_Yfxt0Bgo",
+    "views": 465835,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 4061,
+    "title": "1 Hour in the Presence of YHWH | Hebrew Worship for Prayer and Reflection",
+    "uploader": "Musical Sanctuary",
+    "url": "https://www.youtube.com/watch?v=oGPGfwhYm9M",
+    "views": "898620",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 292,
+    "title": "Battle Angels",
+    "uploader": "Sanctuary - Topic",
+    "url": "https://www.youtube.com/watch?v=COqX80yZzbs",
+    "views": 630649,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20141108"
+   },
+   {
+    "seconds": 226,
+    "title": "Sanctuary - Hikaru Utada (Rock Cover) | Kingdom Hearts 2 Opening",
+    "uploader": "LUNITY",
+    "url": "https://www.youtube.com/watch?v=XmoFa-nPXOM",
+    "views": 599289,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250214"
+   },
+   {
+    "seconds": 350,
+    "title": "SANCTUARY - Frozen (OFFICIAL VIDEO)",
+    "uploader": "Century Media Records and Sanctuary",
+    "url": "https://www.youtube.com/watch?v=r_IrbeZfJII",
+    "views": "845693",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 312,
+    "title": "Sanctuary - Future Tense",
+    "uploader": "SanctuaryVEVO",
+    "url": "https://www.youtube.com/watch?v=v5NCBaPE3k0",
+    "views": "1992323",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4116,
+    "title": "Webisode Pilote original - VOSTFR - www.sanctuary-france.com",
+    "uploader": "Scifi France",
+    "url": "https://www.youtube.com/watch?v=imzEjJQnHik",
+    "views": 24343,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20120120"
+   },
+   {
+    "seconds": 240,
+    "title": "Evanescence \u2013 Who Will You Follow (Official Music Video)",
+    "uploader": "Evanescence",
+    "url": "https://www.youtube.com/watch?v=ak4Ti54Y6rY",
+    "views": "12566903",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 7495,
+    "title": "A Sanctuary for the Soul \ud83c\udf3f\ud83d\udd4a\ufe0f Soft Cello, Guitar, flute for a Peaceful Mind",
+    "uploader": "The Contemplative Note",
+    "url": "https://www.youtube.com/watch?v=IiewNC0oa_M",
+    "views": 682055,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260323"
+   },
+   {
+    "seconds": 456,
+    "title": "Hikaru Utada - Sanctuary (Ending & Opening Combined)",
+    "uploader": "Rowland",
+    "url": "https://www.youtube.com/watch?v=XQCBHY2M5rw",
+    "views": 117724,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20211020"
+   },
+   {
+    "seconds": 140,
+    "title": "SANCTUARY - Official Trailer",
+    "uploader": "NEON",
+    "url": "https://www.youtube.com/watch?v=EaMahhnZMog",
+    "views": "2903456",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9498,
+    "title": "The Entire Story of Sanctuary in 158 Minutes",
+    "uploader": "Seriesly",
+    "url": "https://www.youtube.com/watch?v=MvODVtwRjVE",
+    "views": 23386,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260526"
+   },
+   {
+    "seconds": 254,
+    "title": "Sanctuary | Alpha & Omega | Total Praise - Israel & New Breed",
+    "uploader": "Israel Houghton",
+    "url": "https://www.youtube.com/watch?v=zXC8bH4huLg",
+    "views": "1024685",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 180,
+    "title": "Joji - Sanctuary (Lyrics)",
+    "uploader": "Casual Turtle",
+    "url": "https://www.youtube.com/watch?v=g5Mtin2YslA",
+    "views": 51558601,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20190613"
+   },
+   {
+    "seconds": 25371,
+    "title": "Relaxing Arknights Endfield OST, 7 hours study music | Enfield Soundtrack \u65e5\u65b9\u821f: \u7ec8\u672b\u5730",
+    "uploader": "Relaxing Game Music",
+    "url": "https://www.youtube.com/watch?v=SWKdjiHxr2o",
+    "views": "4217",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 8570,
+    "title": "Arknights Endfield Beta Gameplay - Part 3",
+    "uploader": "Points N Pixels",
+    "url": "https://www.youtube.com/watch?v=ZLMnoDjzkJY",
+    "views": 250,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20250118"
+   },
+   {
+    "seconds": 91,
+    "title": "Arknights: Endfield Asking the \"Silly Creature\" about Wuling City |  #arknightsendfield #WulingCity",
+    "uploader": "Nimauria",
+    "url": "https://www.youtube.com/watch?v=3WKZhzBHan8",
+    "views": 47,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260204"
+   },
+   {
+    "seconds": 7051,
+    "title": "Arknights Endfield music, relaxing mix - 2 hours\u65e5\u65b9\u821f: \u7ec8\u672b\u5730 | AKE",
+    "uploader": "Relaxing Game Music",
+    "url": "https://www.youtube.com/watch?v=1d8pJMU-uE8",
+    "views": "522",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 464,
+    "title": "3D Video tour of the Accomac",
+    "uploader": "Chesapeake Conservancy",
+    "url": "https://www.youtube.com/watch?v=uL4_9CakBL4",
+    "views": "10393",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 23633,
+    "title": "Arknights: ENDFIELD | Sanctuary from the Rift Chapter II - Process VIII / Si Summons",
+    "uploader": "Frokenok",
+    "url": "https://www.youtube.com/watch?v=n1vx5lMw6JU",
+    "views": 350,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 7173,
+    "title": "Sanctuary From the Rift Arknights: Endfield [Part 43]",
+    "uploader": "starryxgalaxy ",
+    "url": "https://www.youtube.com/watch?v=xLMK3Mv3X9Q",
+    "views": "0",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 19251,
+    "title": "Arknights Endfield | Sanctuary from the Rift Chapter II - Process VIII",
+    "uploader": "Crazy Dog1415",
+    "url": "https://www.youtube.com/watch?v=T_8BGfTMer8",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 11980,
+    "title": "Arknights Endfield 1.6 Sanctuary from the Rift: Chapter II - Process VIII",
+    "uploader": "Kiria",
+    "url": "https://www.youtube.com/watch?v=aULtUS-XYMQ",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 1185,
+    "title": "Need To Put More Money In The Air Meter | Space Rift - Episode 1 | HTC Vive",
+    "uploader": "Martin Risby",
+    "url": "https://www.youtube.com/watch?v=la0MlkPDcEM",
+    "views": 157,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20161030"
+   },
+   {
+    "seconds": 15917,
+    "title": "\u25c0Arknights endfield\u25b6\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e25\u0e48\u0e19\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e071.6 Sanctuary From the Rift (Live#17)",
+    "uploader": "BrainAMP",
+    "url": "https://www.youtube.com/watch?v=wiUh_HTOLLo",
+    "views": "20",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 229,
+    "title": "Endmin Does Dream of Alleikhreos Theme - AMARANTHUS CAUDATUS (Var.) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=hNvQhSj2qQQ",
+    "views": "8797",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 287,
+    "title": "Endmin Zeroth Directive Theme (Crywolf DATURA Remix Ver.) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=SxMFe4Z-0dY",
+    "views": "25176",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 473,
+    "title": "Past Endministrator Theme | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=_yJd5k_SpSo",
+    "views": "518",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 333,
+    "title": "Si Boss Theme (Phase 2) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=DYrcyEf55Aw",
+    "views": "9556",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 177,
+    "title": "Endmin Zeroth Directive Theme (Endfield Operator) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=qlUXSlOzp5Y",
+    "views": "5862",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 300,
+    "title": "Endmin Final Chess Piece Theme | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=UYOBQdD0M84",
+    "views": "6626",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 276,
+    "title": "Si Boss Theme | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=-AJwcpA6POA",
+    "views": "5450",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 746,
+    "title": "Si Boss Fight & Cutscene | Arknights: Endfield",
+    "uploader": "DeloVic",
+    "url": "https://www.youtube.com/watch?v=LOU5OGGC_Hc",
+    "views": "821",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 196,
+    "title": "Si Boss Theme (Phase 1) | Arknights: Endfield 1.6 OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=9bj71KIUr2M",
+    "views": "3428",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4058,
+    "title": "Arknights Endfield:Chapter 2 Process 2 Part 8",
+    "uploader": "KingSpica",
+    "url": "https://www.youtube.com/watch?v=GORE9WhV8sw",
+    "views": 42,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260225"
+   },
+   {
+    "seconds": 1874,
+    "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 3 Part 8: Purity Reveals the Stubborn Stone",
+    "uploader": "Gelo Gaming",
+    "url": "https://www.youtube.com/watch?v=aYAZlORRT3o",
+    "views": 38,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260721"
+   },
+   {
+    "seconds": 10786,
+    "title": "FIRST TIME STORY Playthrough Arknights Endfield Chapter 1 Process 2 (EP2)",
+    "uploader": "Unreal Dreamer",
+    "url": "https://www.youtube.com/watch?v=gV0LZ2Js_fc",
+    "views": 8862,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260204"
+   },
+   {
+    "seconds": 18182,
+    "title": "Arknights: Endfield - Ruins in the Miasma - Chapter 2 - Process 7 - Main Mission",
+    "uploader": "Pik",
+    "url": "https://www.youtube.com/watch?v=nt1mCDTEx5Y",
+    "views": 19,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260831"
+   },
+   {
+    "seconds": 4029,
+    "title": "Arknights Endfield Chapter 2: Wrothful Tide ( Process 5 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=S0L0U8y8Ww0",
+    "views": 232,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260504"
+   },
+   {
+    "seconds": 265,
+    "title": "Arknights: Endfield Chapter 2 Process 4 Cutscene",
+    "uploader": "THOA",
+    "url": "https://www.youtube.com/watch?v=ApdlVACLhdQ",
+    "views": "55",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1004,
+    "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 3 Part 9: Twas One River That Gave Us Drink",
+    "uploader": "Gelo Gaming",
+    "url": "https://www.youtube.com/watch?v=dVs72qOq2I8",
+    "views": 27,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260723"
+   },
+   {
+    "seconds": 33829,
+    "title": "Chapter 2: Process 2 Quests - Arknights: Endfield #8",
+    "uploader": "Areku Ch.",
+    "url": "https://www.youtube.com/watch?v=K6g1eDQRLMg",
+    "views": 210,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260225"
+   },
+   {
+    "seconds": 13254,
+    "title": "Chapter 2 Process 2 | Arknights Endfield Day 8",
+    "uploader": "Deroboi",
+    "url": "https://www.youtube.com/watch?v=FxWmy0Lmhu0",
+    "views": 10,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260505"
+   },
+   {
+    "seconds": 20794,
+    "title": "Arknights: ENDFIELD | Ruins in the Miasma Chapter II - Process VII",
+    "uploader": "Frokenok",
+    "url": "https://www.youtube.com/watch?v=DKPEB-tGx6Q",
+    "views": 351,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261012"
+   },
+   {
+    "seconds": 30308,
+    "title": "Arknights: Endfield | Chapter II: Process VII - Ruins in the Miasma",
+    "uploader": "Pongki",
+    "url": "https://www.youtube.com/watch?v=gXIvCBNieug",
+    "views": 81,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 5778,
+    "title": "Chapter 2 Process 2 - The Way of Water | Arknights Endfield (Story Quest - Full Quest)",
+    "uploader": "SneakyDaisies",
+    "url": "https://www.youtube.com/watch?v=2FP8Zp1ltfk",
+    "views": 8,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260424"
+   },
+   {
+    "seconds": 1159,
+    "title": "A Lethal Invitation | Chapter 2 - Process 4 | Main Quest | Arknights Endfield",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=_9xIOz9ToPM",
+    "views": 77,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 30035,
+    "title": "\u3010Arknights: Endfield\u3011Chapter 2 - Wuling Process I-III : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=6MxnRcXpz58",
+    "views": 321,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260621"
+   },
+   {
+    "seconds": 13506,
+    "title": "[Arknights Endfield] Story chapter 2 act 3 - Wuling Arc gameplay (part 8)",
+    "uploader": "ShinoYukino CHANNEL",
+    "url": "https://www.youtube.com/watch?v=WJ0BBrsyTCI",
+    "views": 26,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260414"
+   },
+   {
+    "seconds": 995,
+    "title": "Free Will | Chapter 2 - Process 4 | Main Quest | Arknights Endfield",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=LREVL8TkaNY",
+    "views": 47,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 2253,
+    "title": "I'm Playing Arknights: Endfield Postgame after Wuling 1.2 Part 8",
+    "uploader": "Yujita",
+    "url": "https://www.youtube.com/watch?v=NB8Qnnh2OhQ",
+    "views": 72,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260505"
+   },
+   {
+    "seconds": 504,
+    "title": "Arknights: Endfield Homecoming | Chapter II Process VII - Ruins in the Miasma Full Cutscene",
+    "uploader": "YooloBot XP",
+    "url": "https://www.youtube.com/watch?v=QvtKg7xvmPM",
+    "views": "55",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11041,
+    "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process VIII -  Sanctuary from the Rift [FULL STORY]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=PPoNafhJCU4",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 11213,
+    "title": "(Story) Arknights Endfield | Sanctuary from the rift",
+    "uploader": "GachaStory",
+    "url": "https://www.youtube.com/watch?v=veR1Q4d9wTY",
+    "views": "1",
+    "rejected": []
+   },
+   {
+    "seconds": 235,
+    "title": "First Zhuang Fangyi, Now Si... Poor Perlica Has Too Much Competition! | Arknights: Endfield",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=s8nBIwExiGA",
+    "views": "2789",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 172,
+    "title": "Perlica Gets Jealous of Si... She Won't Let Her Near Endmin! | Arknights: Endfield",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=OZxBJAkR4TA",
+    "views": 5675,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 14830,
+    "title": "Arknights Endfield Chapter 2 Wuling Process 7 Ruins in the Miasma Part 2 North Wuling Exclusion Zone",
+    "uploader": "Mr Gentleman Shadow Cat",
+    "url": "https://www.youtube.com/watch?v=dxkX9WvOuCo",
+    "views": 89,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260718"
+   },
+   {
+    "seconds": 4805,
+    "title": "Chapter 2 : Process V - Wrothful Tide || Arknights : Endfield",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=l6nATLQJIK8",
+    "views": 14,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 1381,
+    "title": "Like Fire and Ice | Chapter 2 - Process 4 | Main Quest | Arknights Endfield",
+    "uploader": "Jig5aw 2",
+    "url": "https://www.youtube.com/watch?v=3uoj9S9TybU",
+    "views": 89,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 6614,
+    "title": "Chapter 2 : Process VI - Ponderous Load || Arknights : Endfield",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=AdkcxuyriJM",
+    "views": 9,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 3591,
+    "title": "Chapter 2 (6) : Process II - The Way Of Water || Arknights : Endfield",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=hYyorujLmRI",
+    "views": 48,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260202"
+   },
+   {
+    "seconds": 4025,
+    "title": "Chapter 2 : Process IV (3) - Tales of Old || Arknights : Endfield",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=XfJC1GoJt5A",
+    "views": 18,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 2676,
+    "title": "Chapter 2 (2) : Process I - Lost In The Marsh || Arknights : Endfield",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=455kgaDRxS0",
+    "views": 23,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260131"
+   },
+   {
+    "seconds": 12639,
+    "title": "Main Story Chapter 2 Process 8: \"Enter the Painted World\" FULL Playthrough | Arknights Endfield",
+    "uploader": "Shukashuu Gaming",
+    "url": "https://www.youtube.com/watch?v=Zffz9PgBPX0",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20261015"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 9129,
+    "title": "Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
+    "uploader": "Admiralvic",
+    "url": "https://www.youtube.com/watch?v=AsqJrGqwglQ",
+    "views": 61,
+    "rejected": [],
+    "upload_date": "20261015",
+    "runtime": 11199,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2468,
+     "Learn of Rise and Fall": 1704,
+     "Witness the Game Unfold": 2176,
+     "See Through the Self": 2453,
+     "Paint with Fresh Ink": 328
+    }
+   },
+   {
+    "seconds": 10222,
+    "title": "Sanctuary from the Rift - Chapter II: Process VIII (Full Story) | Arknights: Endfield 1.6",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=F3blVz1mb34",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 11041,
+    "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process VIII -  Sanctuary from the Rift [FULL STORY]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=PPoNafhJCU4",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 11180,
+    "title": "Arknights Endfield 1.6 Full Main Quest (Female MC)",
+    "uploader": "Vinster",
+    "url": "https://www.youtube.com/watch?v=ybdGBNwFN0E",
+    "views": "8",
+    "rejected": []
+   },
+   {
+    "seconds": 11213,
+    "title": "(Story) Arknights Endfield | Sanctuary from the rift",
+    "uploader": "GachaStory",
+    "url": "https://www.youtube.com/watch?v=veR1Q4d9wTY",
+    "views": "1",
+    "rejected": []
+   },
+   {
+    "seconds": 11224,
+    "title": "Arknights Endfield Version 1.6 Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=QVvwbPcw6B4",
+    "views": 23018,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11250,
+    "title": "Endfield Main Story Chapter 2: Process 8 Sanctuary from the Rift Full Game | Arknights: Endfield 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=FUoQRkfTWdM",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11346,
+    "title": "ARKNIGHTS: ENDFIELD 1.6 Full Main Story",
+    "uploader": "Memo Zero",
+    "url": "https://www.youtube.com/watch?v=HQ86fLRJJD0",
+    "views": 790,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11387,
+    "title": "Arknights: Enfield 1.6 \u2014 Sanctuary from the Rift (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=WH8_s5mDxAc",
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 11402,
+    "title": "Chapitre II \u2013 Processus VIII : Sanctuaire loin de la faille | Arknights Endfield 1.6",
+    "uploader": "LaHypeGG",
+    "url": "https://www.youtube.com/watch?v=rhGxbLI7Z5g",
+    "views": "5",
+    "rejected": []
+   },
+   {
+    "seconds": 11419,
+    "title": "\u3010Arknights: Endfield\u3011\uff0d Sanctuary of Ink |\u300eVersion 1.6\u300f| Main Story Quest",
+    "uploader": "AZXMIZU",
+    "url": "https://www.youtube.com/watch?v=e1Ol6ljaf0U",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11426,
+    "title": "Arknights Endfield 1.6 Main Story (Full Walkthrough)",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=YWRdu3gATCE",
+    "views": 1717,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11605,
+    "title": "Arknights: Endfield Version 1.6 Full Story Walkthrough (2K 60FPS) | Sanctuary of Ink",
+    "uploader": "NeonVade",
+    "url": "https://www.youtube.com/watch?v=QlqXs0eRJOE",
+    "views": 43,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11637,
+    "title": "Version 1.6 Full Main Story Quest - Sanctuary From the Rift | Arknights Endfield",
+    "uploader": "NeoBuns",
+    "url": "https://www.youtube.com/watch?v=rIUV11UfMYI",
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20261015",
+    "runtime": 11637,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2493,
+     "Learn of Rise and Fall": 1754,
+     "Witness the Game Unfold": 2184,
+     "See Through the Self": 5206
+    }
+   },
+   {
+    "seconds": 11652,
+    "title": "Chapter 2 - Process 8 \"Sanctuary from the Rift\" | Arknights Endfield v1.6",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=I2WhmzKMGdw",
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11748,
+    "title": "Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=NpPfm3--l6o",
+    "views": 5938,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11953,
+    "title": "Arknights: Endfield 1.6 | Main Story Quest Chapter 2 - Process 8 (Complete Story)",
+    "uploader": "Lotus Ch.",
+    "url": "https://www.youtube.com/watch?v=Or8UgCggh80",
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 11980,
+    "title": "Arknights Endfield 1.6 Sanctuary from the Rift: Chapter II - Process VIII",
+    "uploader": "Kiria",
+    "url": "https://www.youtube.com/watch?v=aULtUS-XYMQ",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 12019,
+    "title": "ARKNIGHTS ENDFIELD VERSSION 1.6 FULL Main Story Quest : Sanctuary from the Rift",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=y--HnoOzRjQ",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 12292,
+    "title": "Arknights: Endfield's Core Chapter Version 1.6 [Sanctuary of Ink] No Commentary Playthrough !",
+    "uploader": "Pandu Putra Dewanata",
+    "url": "https://www.youtube.com/watch?v=N6G1ZyoyCEg",
+    "views": 12,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 12403,
+    "title": "Arknights Endfield Chapter 2: Sanctuary From the Rift ( Process 8 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=rZGnhVr3ADs",
+    "views": "183",
+    "rejected": []
+   },
+   {
+    "seconds": 12453,
+    "title": "Arknights: Endfield Main Story \u2013 Chapter 2 Process 8 Playthrough | Si's Painting (JP Dub)",
+    "uploader": "Mikiyuki",
+    "url": "https://www.youtube.com/watch?v=iDaxxGvJHf4",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 12639,
+    "title": "Main Story Chapter 2 Process 8: \"Enter the Painted World\" FULL Playthrough | Arknights Endfield",
+    "uploader": "Shukashuu Gaming",
+    "url": "https://www.youtube.com/watch?v=Zffz9PgBPX0",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 13221,
+    "title": "Arknights Endfield 1.6 | Main Story Full Walkthrough (Sanctuary of ink)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=6g9gnZt_ZUQ",
+    "views": 181,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 13242,
+    "title": "\u300eArknights Endfield\u300f1.6 ''Sanctuary of Ink'' \u2742 New Story Quest Full Walkthrough (Full Story)",
+    "uploader": "HEUBIOUS",
+    "url": "https://www.youtube.com/watch?v=IcY66acbdV8",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 13347,
+    "title": "Arknights Endfield Wuling Chapter 2 Process 8 Sanctuary from the Rift",
+    "uploader": "Mr Gentleman Shadow Cat",
+    "url": "https://www.youtube.com/watch?v=Da1mc6TcNm8",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 13470,
+    "title": "Arknights: Endfield 1.6 Walkthrough PART 24 - Sanctuary from the Rift (PS5 1440p)",
+    "uploader": "Gaming Reviving",
+    "url": "https://www.youtube.com/watch?v=DTOHaq_7E3k",
+    "views": 96,
+    "rejected": [],
+    "upload_date": "20261016"
+   },
+   {
+    "seconds": 19251,
+    "title": "Arknights Endfield | Sanctuary from the Rift Chapter II - Process VIII",
+    "uploader": "Crazy Dog1415",
+    "url": "https://www.youtube.com/watch?v=T_8BGfTMer8",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20261017"
+   }
+  ],
+  "stats": {
+   "n": 28,
+   "median": 194,
+   "low": 152,
+   "high": 321,
+   "q1": 188,
+   "q3": 207,
+   "trimmed_mean": 198,
+   "measured": 2,
+   "parts": {},
+   "drift": null
   }
  }
 ]

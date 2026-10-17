@@ -99,7 +99,6 @@ raise an outpost for the refugees the Landbreakers displaced,
 then go under the camp and through it to the Valley Fort,
 where Rhodagn is waiting.
 <!--gen:stats act="Process I"-->
-One of the three longest processes in the game.
 
 - **Estimated length:** 2 h 38 min
 - **Sampled range:** 1 h 59 min to 3 h 05 min for the middle half (full spread 1 h 27 min to 3 h 59 min) across 14 playthrough uploads (43 further candidates screened out)

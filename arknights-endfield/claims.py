@@ -34,32 +34,32 @@ CLAIMS = [
         "ch2", "Chapter II is the larger half of the game"),
     total_ratio_between(
         "ch2", ["ch1"], 1.5, 2.2,
-        "close to twice Chapter I over seven entries rather than five"),
+        "close to twice Chapter I over eight entries rather than five"),
     count_above(
-        "ch2", 120, 2,
-        "Two of those entries run past two hours "
+        "ch2", 120, 3,
+        "Three of those entries run past two hours "
         "and the rest sit between one and two"),
     median_between(
         "ch2", "Process V", 60, 120,
-        "Two of those entries run past two hours "
+        "Three of those entries run past two hours "
         "and the rest sit between one and two"),
     rank_at_most(
         "ch2", "Process III", 3,
         "so the shape is three big stops with short connective tissue "
         "between them: *The Long Feud* ..., *Ruins in the Miasma* ..., "
-        "and *The Way of Water* introducing Wuling in between",
+        "and *Sanctuary from the Rift* inside Si's Painting",
         scope="chapter"),
     rank_at_most(
         "ch2", "Process VII", 3,
         "so the shape is three big stops with short connective tissue "
         "between them: *The Long Feud* ..., *Ruins in the Miasma* ..., "
-        "and *The Way of Water* introducing Wuling in between",
+        "and *Sanctuary from the Rift* inside Si's Painting",
         scope="chapter"),
     rank_at_most(
-        "ch2", "Process II", 3,
+        "ch2", "Process VIII", 3,
         "so the shape is three big stops with short connective tissue "
         "between them: *The Long Feud* ..., *Ruins in the Miasma* ..., "
-        "and *The Way of Water* introducing Wuling in between",
+        "and *Sanctuary from the Rift* inside Si's Painting",
         scope="chapter"),
     is_extreme(
         "ch2", "Process VII", "max",
