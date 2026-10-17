@@ -6303,9 +6303,7 @@
     "uploader": "The Game Archivist",
     "url": "https://www.youtube.com/watch?v=0nIbouB_Qv8",
     "views": 68456,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20231108"
    },
    {
@@ -6380,6 +6378,15 @@
     "rejected": []
    },
    {
+    "seconds": 16878,
+    "title": "GENSHIN IMPACT 4.2 - ARCHON QUEST | Full Game Walkthrough | No Commentary",
+    "uploader": "The Game Archivist",
+    "url": "https://www.youtube.com/watch?v=0nIbouB_Qv8",
+    "views": 68456,
+    "rejected": [],
+    "upload_date": "20231108"
+   },
+   {
     "seconds": 17187,
     "title": "Masquerade Of The Guilty || Genshin Impact || Full Gameplay Walkthrough || No Commentary",
     "uploader": "KookieQuest",
@@ -6424,16 +6431,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 290,
+   "n": 9,
+   "median": 286,
    "low": 255,
    "high": 403,
-   "q1": 269,
-   "q3": 319,
-   "trimmed_mean": 301,
+   "q1": 271,
+   "q3": 315,
+   "trimmed_mean": 299,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.014
   }
  },
  {

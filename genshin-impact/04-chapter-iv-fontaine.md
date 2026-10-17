@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Masquerade of the Guilty
 
-**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 16 min**
+**Region:** Fontaine | **Game versions:** 4.0 - 4.7 | **Entries:** 6 | **Estimated chapter length: 17 h 12 min**
 <!--/gen-->
 
 A prophecy says Fontaine will dissolve into the waters.
@@ -19,17 +19,17 @@ and watches Focalors execute herself to void the prophecy.
 | Act II | As Light Rain Falls Without Reason | 2 h 43 min | 2 h 27 min - 2 h 56 min | 12 | high |
 | Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 47 min - 2 h 27 min | 10 | medium |
 | Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 30 min - 2 h 47 min | 9 | high |
-| Act V | Masquerade of the Guilty | 4 h 50 min | 4 h 29 min - 5 h 19 min | 8 | high |
+| Act V | Masquerade of the Guilty | 4 h 46 min | 4 h 31 min - 5 h 15 min | 9 | high |
 | Act VI | Bedtime Story | 1 h 18 min | 1 h 14 min - 1 h 22 min | 9 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 16 min<!--/f-->**
+**Total: <!--f:total-->17 h 12 min<!--/f-->**
 
 ## Pacing
 
 The most consistently long chapter,
 with <!--f:n_above_2h-->five<!--/f--> of its <!--f:n_entries-->six<!--/f--> acts above two hours
-and Act V, at <!--f:len_Act_V-->4 h 50 min<!--/f-->, as its centrepiece.
+and Act V, at <!--f:len_Act_V-->4 h 46 min<!--/f-->, as its centrepiece.
 Fontaine's acts are cutscene-dense rather than traversal-dense,
 which is why the sampled uploads agree as closely as they do.
 
@@ -199,12 +199,12 @@ and Neuvillette taking the seat of judgment.
 <!--gen:stats act="Act V"-->
 The single longest act in the game.
 
-- **Estimated length:** 4 h 50 min
-- **Sampled range:** 4 h 29 min to 5 h 19 min for the middle half (full spread 4 h 15 min to 6 h 43 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 4 h 46 min
+- **Sampled range:** 4 h 31 min to 5 h 15 min for the middle half (full spread 4 h 15 min to 6 h 43 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -1% against an earlier, independent query set
 - **Quest parts (6):** Deluge of Wrathful Waters; Meeting Is Also Parting; Hunters, Prophets; Apocalypse; The Opera of Noirceur and Blancheur; Finale
 <!--/gen-->
 
@@ -217,6 +217,7 @@ The single longest act in the game.
 | 4 h 15 min | 4.2 Archon Quest \| Full Story Quest \| Masquerade Of The Guilty \| Genshin Impact | rOn | 87 | 2023-11-11 | <https://www.youtube.com/watch?v=VbbJmrr58Qk> |
 | 4 h 26 min | Genshin Impact 4.2 \| Masquerade of The Guilty \| Chapter IV :Act V (No Commentary) #10 | SOUMENDUDE | 36 | 2023-11-08 | <https://www.youtube.com/watch?v=RZiN7BV7AeQ> |
 | 4 h 36 min | Masquerade of the Guilty - Archon Quest (Full Story) \| Genshin Impact 4.2 | Streetwise Rhapsody | ~133,030 | n/a | <https://www.youtube.com/watch?v=s6omIXjXV6Y> |
+| 4 h 41 min | GENSHIN IMPACT 4.2 - ARCHON QUEST \| Full Game Walkthrough \| No Commentary | The Game Archivist | 68,456 | 2023-11-08 | <https://www.youtube.com/watch?v=0nIbouB_Qv8> |
 | 4 h 46 min | Masquerade Of The Guilty \|\| Genshin Impact \|\| Full Gameplay Walkthrough \|\| No Commentary | KookieQuest | ~77 | n/a | <https://www.youtube.com/watch?v=sR0MXIQCDi8> |
 | 4 h 54 min | Fontaine 4.2 Archon Quest FULL [JP DUB] \| Masquerade of the Guilty \| Genshin Impact | AZURGRIM | 23,706 | 2023-11-09 | <https://www.youtube.com/watch?v=hIT9tnKEUBU> |
 | 5 h 06 min | Masquerade of the Guilty 【Chapter IV: Act V】 Archon Quest \| Genshin Impact (JP Dub) | Yui Neko Ch. | 12 | 2024-01-27 | <https://www.youtube.com/watch?v=lg8Vos74qvY> |

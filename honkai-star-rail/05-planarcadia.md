@@ -20,25 +20,25 @@ and the bait turns up in an IPC research institute.
 <!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Mission 1 | Welcome to Arcadia | 8 h 01 min | 4 h 40 min - 9 h 51 min | 7 | low |
-| Mission 2 | Unraveled for Daybreak | 6 h 38 min | 6 h 11 min - 6 h 54 min | 9 | high |
-| Mission 3 | So Laughed the Masses | 4 h 40 min | 4 h 13 min - 5 h 01 min | 12 | high |
-| Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
-| Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
-| Mission 6 | To Roll the Stars in Astropolis | 3 h 19 min | 3 h 06 min - 3 h 27 min | 18 | high |
-| Mission 7 | Dance With the Beast Before Moonrise | 3 h 25 min | 3 h 07 min - 3 h 32 min | 13 | high |
+| Mission 1 | Welcome to Arcadia | 7 h 55 min | 7 h 15 min - 8 h 34 min | 12 | high |
+| Mission 2 | Unraveled for Daybreak | 6 h 33 min | 6 h 18 min - 6 h 51 min | 14 | high |
+| Mission 3 | So Laughed the Masses | 4 h 46 min | 4 h 25 min - 5 h 03 min | 17 | high |
+| Mission 4 | The Lethe Below the Living | 4 h 13 min | 3 h 54 min - 4 h 24 min | 25 | high |
+| Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 14 min - 4 h 41 min | 23 | high |
+| Mission 6 | To Roll the Stars in Astropolis | 3 h 21 min | 3 h 10 min - 3 h 32 min | 23 | high |
+| Mission 7 | Dance With the Beast Before Moonrise | 3 h 26 min | 3 h 10 min - 3 h 35 min | 17 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->34 h 38 min<!--/f-->**
 
 ## Pacing
 
-The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
-followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 38 min<!--/f-->.
+The opening mission is the longest, at <!--f:longest_len-->7 h 55 min<!--/f-->,
+followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 33 min<!--/f-->.
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
-is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->,
+is the shortest, at <!--f:shortest_len-->3 h 21 min<!--/f-->,
 and *Dance With the Beast Before Moonrise*, the second mission set on Astropolis,
-follows at <!--f:len_Mission_7-->3 h 25 min<!--/f-->:
+follows at <!--f:len_Mission_7-->3 h 26 min<!--/f-->:
 the two Astropolis missions are the only ones under four hours.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
@@ -57,12 +57,12 @@ for anyone who wants a minute of godhood.
 <!--gen:stats act="Mission 1"-->
 One of the three longest missions in the game.
 
-- **Estimated length:** 8 h 01 min
-- **Sampled range:** 4 h 40 min to 9 h 51 min across 7 playthrough uploads (16 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 7 h 55 min
+- **Sampled range:** 7 h 15 min to 8 h 34 min for the middle half (full spread 4 h 40 min to 9 h 51 min) across 12 playthrough uploads (11 further candidates screened out)
+- **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.0
-- **Stability:** median -4% against an earlier, independent query set
+- **Stability:** median -5% against an earlier, independent query set
 - **Quest parts (10):** Phantasmoon, the Merciful Queen; Topological Structure of an Imagenated City; Artwork in the Age of Mechanical Reproduction; Fundamentals of Imagenesis; Killers Don't Get Vacations; Symbolic Exchange and Detection; Here's Your Fifteen Minutes of Fame; Medical Disputes on the Ship of Fools; The Discreet Charm of a Streamer Girl; The Indifference of Those Who Yet Live
 <!--/gen-->
 
@@ -73,11 +73,16 @@ One of the three longest missions in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 4 h 40 min | Trailblaze Mission: Welcome to Arcadia V \| 4.0 \| EN Sub JP Dub \| Honkai: Star Rail | Meimimori | ~5 | n/a | <https://www.youtube.com/watch?v=3eDWkoT1C4E> |
+| 6 h 59 min | Version 4.0 Trailblaze Mission Full Story HD \| Planarcadia No Aha at Full Moon \| Honkai Star Rail | Noxxis Gaming | 3,885 | 2026-02-13 | <https://www.youtube.com/watch?v=8I_MHDP3UB8> |
+| 7 h 15 min | Honkai Star Rail 4.0 Full Story Walkthrough \| Act 5 Planarcadia Trailblaze Mission | Nine's Own Wish  | 170 | 2026-02-14 | <https://www.youtube.com/watch?v=BRkqk2SOpBY> |
 | 7 h 17 min | Welcome to Arcadia (Full Trailblaze Story) \| Honkai: Star Rail 4.0 | Sir Patty | 6 | 2026-02-18 | <https://www.youtube.com/watch?v=D-eqMmvO7kg> |
+| 7 h 29 min | Honkai Star Rail 4.0 Planarcadia - Full Trailblaze Quest Playthrough | Fayato | ~18,901 | n/a | <https://www.youtube.com/watch?v=e224jsG86Hc> |
 | 7 h 51 min | Honkai Star Rail Version 4.0 Trailblaze Mission Story Quest - Welcome to Arcadia | Streetwise Rhapsody | ~72,500 | n/a | <https://www.youtube.com/watch?v=hvYjQuSZwTA> |
+| 7 h 59 min | Honkai Star Rail 4.0 Planarcadia - Trailblaze Story Quest Full Walkthrough (HSR 4.0) | Rubhen925 | 165,363 | 2026-02-13 | <https://www.youtube.com/watch?v=LIXpOpDSKNY> |
 | 8 h 01 min | Honkai: Star Rail v4.0 FULL Trailblaze Mission \| "Welcome to Arcadia" | T.H Bunn | ~10 | n/a | <https://www.youtube.com/watch?v=4tlf9OkRoyA> |
 | 8 h 22 min | Honkai Star Rail Version 4.0 - Welcome To Arcadia Trailblaze Mission Story Quest ( Full Gameplay ) | DIABLO PLAY'S  | ~13 | n/a | <https://www.youtube.com/watch?v=YoMBTYbmFoM> |
 | 8 h 38 min | Honkai Star Rail 4.0 – Welcome to Arcadia Full Walkthrough (Trailblaze Mission) | Life is Wakaranai | ~618 | n/a | <https://www.youtube.com/watch?v=o9IFh6UovTQ> |
+| 8 h 47 min | Honkai Star Rail 4.0 Planarcadia Trailblaze Story Quest \| HSR Walkthrough (JP Voice) | ViGAMES | ~919 | n/a | <https://www.youtube.com/watch?v=eJ5VC9fsCxA> |
 | 9 h 51 min | Honkai Star Rail 4.0 – Welcome to Arcadia Full Story – Trailblaze Mission | Kuroyukihime | 148 | 2026-03-30 | <https://www.youtube.com/watch?v=M-9A74lmZsg> |
 
 </details>
@@ -92,12 +97,12 @@ the living seeking justice for the dead,
 and a hero's name that some carry and some betray.
 <!--gen:stats act="Mission 2"-->
 
-- **Estimated length:** 6 h 38 min
-- **Sampled range:** 6 h 11 min to 6 h 54 min for the middle half (full spread 4 h 48 min to 7 h 52 min) across 9 playthrough uploads (29 further candidates screened out)
+- **Estimated length:** 6 h 33 min
+- **Sampled range:** 6 h 18 min to 6 h 51 min for the middle half (full spread 4 h 48 min to 7 h 52 min) across 14 playthrough uploads (24 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.1
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** Portrait of a Middle-Aged Artist; Society of the Spectacle and Its Enemies; Confessions of a Righteous Sinner; The Bum's as Holy as the Seraphim; Simulacra and Simulation, or Even the Just; Echoes from a Sombre Empire; Real Holy Laughter!
 <!--/gen-->
 
@@ -110,11 +115,16 @@ and a hero's name that some carry and some betray.
 | 4 h 48 min | Honkai Star Rail 4.1 Trailblaze Mission FULL Story \| Unraveled for Daybreak\| HSR 4.1 | TapoPlays | 16 | 2026-04-02 | <https://www.youtube.com/watch?v=f29Fmp7jejo> |
 | 6 h 05 min | Version 4.1 Trailblaze Mission Full Story HD \| Planarcadia Unraveled For Daybreak \| Honkai Star Rail | Noxxis Gaming | 4,021 | 2026-03-26 | <https://www.youtube.com/watch?v=KjuGgTq4zcw> |
 | 6 h 16 min | Honkai Star Rail 4.1 Trailblaze Mission "Unraveled for Daybreak" Complete  Walkthrough | Nine's Own Wish  | 336 | 2026-03-25 | <https://www.youtube.com/watch?v=_pB0G_qgXpE> |
+| 6 h 18 min | Honkai Star Rail 4.1 Planarcadia - Trailblaze Entire Story Quest Gameplay Walkthrough (HSR 4.1) | Ryo | 886 | 2026-04-06 | <https://www.youtube.com/watch?v=5HZnLw0-2DY> |
 | 6 h 25 min | Unraveled for Daybreak - Trailblazer Mission (Full Main Story) \| Honkai: Star Rail 4.1 | Sir Patty | 12 | 2026-03-31 | <https://www.youtube.com/watch?v=Qq5Hh4oxK_M> |
+| 6 h 27 min | Honkai Star Rail 4.1   Trailblaze Story Quest Full Walkthrough | MashUp Gaming | 12 | 2026-04-05 | <https://www.youtube.com/watch?v=352lCHc0xMo> |
+| 6 h 28 min | Honkai Star Rail 4.1 Planarcadia - Full Trailblaze Quest Playthrough | Fayato | 18,514 | 2026-03-25 | <https://www.youtube.com/watch?v=W5AIqKLAcM4> |
 | 6 h 38 min | Planarcadia Trailblaze Mission - Unraveled For Daybreak \| Honkai Star Rail Version 4.1 | TriMori | ~1,067 | n/a | <https://www.youtube.com/watch?v=ZWRFe9CDADk> |
+| 6 h 43 min | Honkai Star Rail 4.1 - Trailblaze Story Quest Full Walkthrough (Male MC Caelus) | Rubhen925 | 120,375 | 2026-03-25 | <https://www.youtube.com/watch?v=QvVFP4LaJrY> |
 | 6 h 44 min | Honkai Star Rail Version 4.1 - Unraveled For Daybreak Trailblaze Mission Story Quest (Full Gameplay) | DIABLO PLAY'S  | 21 | 2026-03-26 | <https://www.youtube.com/watch?v=F4Ct6cHBByY> |
 | 6 h 49 min | Unraveled for Daybreak (Full playthrough) \| Honkai Star Rail 4.1 | Lait-la Rose | 7 | 2026-06-05 | <https://www.youtube.com/watch?v=xx5G9QLqrHU> |
 | 7 h 00 min | HONKAI STAR RAIL 4.1 Full Story Quest - Unraveled for Daybreak (No Commentary \| JP Dub \| 4K 60FPS) | AJ's Gaming Lyfe | 20 | 2026-05-14 | <https://www.youtube.com/watch?v=NRrHcg2mahA> |
+| 7 h 07 min | Honkai Star Rail 4.1 Planarcadia Trailblaze Story Quest \| HSR Walkthrough (JP Voice) | ViGAMES | 645 | 2026-03-27 | <https://www.youtube.com/watch?v=J-d42w4uDAY> |
 | 7 h 52 min | Unraveled For Daybreak, Full Story Complete Walkthrough, Trailblaze Mission Honkai Star Rail 4.1 | Kuroyukihime | ~275 | n/a | <https://www.youtube.com/watch?v=w-WgFiXU1Tc> |
 
 </details>
@@ -130,12 +140,12 @@ handing out the freedom of Elation
 and the chains that come with it.
 <!--gen:stats act="Mission 3"-->
 
-- **Estimated length:** 4 h 40 min
-- **Sampled range:** 4 h 13 min to 5 h 01 min for the middle half (full spread 3 h 34 min to 5 h 27 min) across 12 playthrough uploads (28 further candidates screened out)
+- **Estimated length:** 4 h 46 min
+- **Sampled range:** 4 h 25 min to 5 h 03 min for the middle half (full spread 3 h 34 min to 5 h 28 min) across 17 playthrough uploads (23 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.2
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median +4% against an earlier, independent query set
 - **Quest parts (13):** Philosophy of the Tourist; In the Shadow of the Millennium; A Superhero Caught in a Moral Dilemma; If We Spoke in Laughter; Howls, White Noise, or What You Feel; A Resounding Gong or a Clashing Cymbal; Mass Deaths and Detective Fiction; Postmodern Imagenesis; Metaphors We Live By; Serotonin Exposure Phobia; The Generative Grammar of Liquid Modernity; Happiness, or a Fatal Ailment; Arcadia Revisited
 <!--/gen-->
 
@@ -151,12 +161,17 @@ and the chains that come with it.
 | 4 h 23 min | So Laughed for the Masses - Trailblazer Mission (Full Main Story) \| Honkai: Star Rail 4.2 | Sir Patty | ~9 | n/a | <https://www.youtube.com/watch?v=dYLLM57qkbo> |
 | 4 h 28 min | Version 4.2 Trailblaze Mission Full Story HD \| Planarcadia So Laughed The Masses \| Honkai Star Rail | Noxxis Gaming | 1,973 | 2026-04-22 | <https://www.youtube.com/watch?v=Ac2EPid0MGs> |
 | 4 h 36 min | Planarcadia Trailblaze Mission - So Laughed the Masses \| Honkai Star Rail Version 4.2 | TriMori | ~771 | n/a | <https://www.youtube.com/watch?v=Tw5I5YBfXYI> |
+| 4 h 41 min | Honkai Star Rail 4.2 Planarcadia - Full Trailblaze Quest Playthrough | Fayato | ~16,178 | n/a | <https://www.youtube.com/watch?v=aVKCC3sxW1U> |
 | 4 h 45 min | So Laughed the Masses - Version 4.2 Honkai Star Rail \| Trailblaze Mission (Planarcadia) | Axus_Impact | 56 | 2026-04-29 | <https://www.youtube.com/watch?v=LrNiTBHLp2A> |
 | 4 h 46 min | Honkai: Star Rail v4.2 FULL Trailblaze Mission \| "So Laughed the Masses" | T.H Bunn | ~39 | n/a | <https://www.youtube.com/watch?v=ca0GkepCY00> |
 | 4 h 50 min | Honkai Star Rail 4.2 - New Main Story Quest \| So Laughed the Masses | Jonozoic | 221 | 2026-04-23 | <https://www.youtube.com/watch?v=ZQkfl7BGvOw> |
+| 4 h 54 min | Honkai Star Rail 4.2 (JP Dub) - Full New Planarcadia Trailblaze Story Quest | Segiri | 2,351 | 2026-04-22 | <https://www.youtube.com/watch?v=7GoAVPUzF7Q> |
+| 4 h 55 min | Honkai Star Rail 4.2 - Trailblaze Story Quest Full Walkthrough | Rubhen925 | ~56,560 | n/a | <https://www.youtube.com/watch?v=doXyREebk28> |
+| 5 h 02 min | Honkai Star Rail 4.2 Planarcadia Trailblaze Story Quest \| HSR Walkthrough (JP Voice) | ViGAMES | 474 | 2026-04-23 | <https://www.youtube.com/watch?v=7a0iPensmAg> |
 | 5 h 04 min | Honkai Star Rail 4.2 Trailblaze Mission - So Laughed the Masses | Omega197 | 39 | 2026-05-10 | <https://www.youtube.com/watch?v=R0NSPoQRoWE> |
 | 5 h 17 min | HONKAI STAR RAIL 4.2 FULL Story Quest - So Laughed the Masses [No Commentary \| JP Dub \| 4K 60FPS] | AJ's Gaming Lyfe | ~34 | n/a | <https://www.youtube.com/watch?v=djiAyQKCzcw> |
 | 5 h 27 min | 『Honkai Star Rail』4.2 ''So Laughed the Masses'' ❂ New Story Quest Full Walkthrough (HSR 4.2) | HEUBIOUS | ~151 | n/a | <https://www.youtube.com/watch?v=TwtWofYSIlg> |
+| 5 h 28 min | Honkai Star Rail 4.2 Planarcadia Trailblaze Quest Walkthrough (Full) | Kazuma Akimoto (Master Aki) | ~47 | n/a | <https://www.youtube.com/watch?v=lcJ7nBr9AfI> |
 
 </details>
 <!--/gen-->
@@ -170,13 +185,13 @@ where the Lethe runs and memories surface,
 among wanderers looking for a last rest.
 <!--gen:stats act="Mission 4"-->
 
-- **Estimated length:** 4 h 11 min
-- **Sampled range:** 3 h 49 min to 4 h 25 min for the middle half (full spread 2 h 26 min to 5 h 19 min) across 20 playthrough uploads (22 further candidates screened out)
+- **Estimated length:** 4 h 13 min
+- **Sampled range:** 3 h 54 min to 4 h 24 min for the middle half (full spread 2 h 26 min to 5 h 19 min) across 25 playthrough uploads (17 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.3
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 20 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 25 uploads
 - **Quest parts (7):** Illusion of the End; Living Sacrifice for Gods and Mortals; Arcadia of Mystery and Terror; Best Farewell to the World; Primeval and Other Times; Yesterday's World; Non-Existent State
 <!--/gen-->
 
@@ -192,16 +207,21 @@ among wanderers looking for a last rest.
 | 3 h 48 min | Honkai Star Rail \| 4.3 Main Story Quest Full Walkthrough The Lethe Below the Living | More ZeeTM | 6 | 2026-06-01 | <https://www.youtube.com/watch?v=3z5WiQiBJ-4> |
 | 3 h 49 min | Honkai Star Rail 4.3 Trailblaze Mission - The Lethe below the Living | Omega197 | 40 | 2026-06-06 | <https://www.youtube.com/watch?v=YiYTdciMBpI> |
 | 3 h 50 min | Version 4.3 Trailblaze Mission Full Story HD \| The Lethe Below The Living \| Honkai Star Rail | Noxxis Gaming | 1,243 | 2026-06-01 | <https://www.youtube.com/watch?v=HLeaaoA-t_g> |
+| 3 h 58 min | Illusion of the End - Trailblazer Mission (Full Main Story) \| Honkai: Star Rail 4.3 | Sir Patty | ~25 | n/a | <https://www.youtube.com/watch?v=tmQyGHDqVrM> |
 | 4 h 03 min | HSR Trailblaze Main Story Part 30 - The Lethe Below the Living Full Gameplay \| Honkai: Star Rail 4.3 | Akabirama | 94 | 2026-06-02 | <https://www.youtube.com/watch?v=8gQ_Gprdos8> |
 | 4 h 05 min | Honkai: Star Rail 4.3 Full Main Story "The Lethe Below the Living" | Memo Zero | 1,080 | 2026-06-01 | <https://www.youtube.com/watch?v=6ZSOKE1o_Yo> |
 | 4 h 06 min | Trailblaze Mission in HSR: The Lethe Below the Living | Tofuspin | ~26 | n/a | <https://www.youtube.com/watch?v=TK2SZqM1PqM> |
 | 4 h 09 min | Honkai: Star Rail - 4.3 Trailblaze Mission: "The Lethe Below the Living" Full | Major | ~56 | n/a | <https://www.youtube.com/watch?v=vNuKoZu-wjI> |
+| 4 h 12 min | Honkai Star Rail 4.3 Planarcadia - Full Trailblaze Quest Playthrough | Fayato | 8,974 | 2026-06-01 | <https://www.youtube.com/watch?v=RGZ2sgMXFdU> |
 | 4 h 13 min | [4.3 Trailblaze Mission]  The Lethe Below the Living \| Chinese Dub \| Honkai: Star Rail | Lake | ~71 | n/a | <https://www.youtube.com/watch?v=Y3qUNI-V2Jw> |
+| 4 h 15 min | Honkai Star Rail 4.3 Planarcadia - Trailblaze Full Story Quest Gameplay Walkthrough (HSR 4.3) | Ryo | ~704 | n/a | <https://www.youtube.com/watch?v=k4Rs4mIou28> |
 | 4 h 16 min | Honkai Star Rail 4.3 - Main Story Quest: "The Lethe Below the Living" | BSS Gaming | ~61 | n/a | <https://www.youtube.com/watch?v=_LUecc6LnrQ> |
 | 4 h 17 min | Honkai: Star Rail 4.3 Full Main Story Quest "The Lethe Below the Living" Full Gameplay | Izom F2P Gaming | 5 | 2026-06-03 | <https://www.youtube.com/watch?v=O7XoPz4sMTk> |
 | 4 h 18 min | HSR 4.3 - The Lethe Below the Living - Trailblaze Mission \| Full Gameplay | Jonozoic | ~55 | n/a | <https://www.youtube.com/watch?v=ee9QLr26cKU> |
+| 4 h 21 min | Honkai Star Rail 4.3 - New Trailblaze Story Quest Full Walkthrough | Rubhen925 | 52,792 | 2026-06-01 | <https://www.youtube.com/watch?v=Hiz6gxHjH00> |
 | 4 h 23 min | THE LETHE BELOW THE LIVING \| Honkai Star Rail - Version 4.3 Main Trailblaze Mission Quest | DIABLO PLAY'S  | ~16 | n/a | <https://www.youtube.com/watch?v=pnWRDptjGNk> |
 | 4 h 25 min | 『Honkai Star Rail』4.3 ''The Lethe Below the Living'' ❂ New Story Quest Full Walkthrough (HSR 4.3) | HEUBIOUS | 122 | 2026-06-01 | <https://www.youtube.com/watch?v=SRdnG-IFQ88> |
+| 4 h 31 min | Honkai Star Rail 4.3 Planarcadia Trailblaze Story Quest \| HSR Walkthrough (JP Voice) | ViGAMES | ~469 | n/a | <https://www.youtube.com/watch?v=b5iJGAxC9eo> |
 | 4 h 36 min | The Lethe Below the Living  Honkai Star Rail 4.3 Trailblaze Mission Full Story | Kuroyukihime | 82 | 2026-07-12 | <https://www.youtube.com/watch?v=-pcRYCqRj9s> |
 | 4 h 53 min | Honkai: Star Rail - The Lethe Below the Living - Complete Story Quest | CorporalOdin2 | 8 | 2026-06-14 | <https://www.youtube.com/watch?v=IegTe_-fx10> |
 | 5 h 12 min | Honkai: Star Rail (v4.3) Story Playthrough (Full) (No Commentary) | Delruf | 63 | 2026-06-04 | <https://www.youtube.com/watch?v=4glbx-XIFKw> |
@@ -220,12 +240,12 @@ the realm of death.
 <!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 4 h 24 min
-- **Sampled range:** 4 h 13 min to 4 h 42 min for the middle half (full spread 3 h 53 min to 5 h 56 min) across 19 playthrough uploads (28 further candidates screened out)
+- **Sampled range:** 4 h 14 min to 4 h 41 min for the middle half (full spread 3 h 53 min to 5 h 56 min) across 23 playthrough uploads (24 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 19 uploads
+- **Measured from the uploader's chapter markers:** 1 of 23 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
 <!--/gen-->
 
@@ -244,11 +264,15 @@ the realm of death.
 | 4 h 17 min | Honkai: Star Rail Trailblaze Mission - In Ravages Does the Whistle Sound (4.4 Full Story) | Major | ~22 | n/a | <https://www.youtube.com/watch?v=opYKVg9aIvs> |
 | 4 h 17 min | [4.4 Trailblaze Mission] In Ravages Does the Whistle Sound \| Chinese Dub \| Honkai: Star Rail | Lake | 33 | 2026-07-19 | <https://www.youtube.com/watch?v=7Y7oRZYTkDc> |
 | 4 h 21 min | Planarcadia Trailblaze Mission - In Ravages Does the Whistle Sound \| Honkai Star Rail Version 4.4 | TriMori | ~314 | n/a | <https://www.youtube.com/watch?v=_truCptYeEc> |
+| 4 h 22 min | Trailblaze Mission Main Story Quest (Full Story) \| Honkai Star Rail 4.4 | Lotus Ch. | 45 | 2026-07-15 | <https://www.youtube.com/watch?v=IFZFpxyXP4A> |
+| 4 h 23 min | Honkai Star Rail Japanese Dub 4.4  - Full New Planarcadia Trailblaze Story Quest | Segiri | 2,460 | 2026-07-15 | <https://www.youtube.com/watch?v=sGSK6atEqMs> |
 | 4 h 24 min | In Ravages Does the Whistle Sound (Part 1). | TheXGamer | ~25 | n/a | <https://www.youtube.com/watch?v=SDGEjwqMlHw> |
+| 4 h 26 min | Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Full Walkthrough (HSR 4.4) | Rubhen925 | ~35,268 | n/a | <https://www.youtube.com/watch?v=fyR69N7AbcQ> |
 | 4 h 29 min | HSR Planarcadia Chapter 5 In Ravages Does the Whistle Sound | LordBlackFrost90 | 5 | 2026-07-19 | <https://www.youtube.com/watch?v=-h-xQSxhjB8> |
 | 4 h 34 min | In Ravages Does the Whistle Sound Full Story (JP Dub) \| Honkai: Star Rail 4.4 | KNCPG | 32 | 2026-07-17 | <https://www.youtube.com/watch?v=4Fd5jwk7W4Y> |
 | 4 h 36 min | HSR 4.4 "In Ravages does the Whistle Sound" Trailblaze Quest \| Honkai: Star Rail | SnehNayan | ~2 | n/a | <https://www.youtube.com/watch?v=w1LWFqSOhII> |
 | 4 h 41 min | In Ravages Does the Whistle Sound! Honkai Star Rail- Version 4.4 Trailblaze Story | Salazar596  | ~54 | n/a | <https://www.youtube.com/watch?v=qKkbF_k1th0> |
+| 4 h 41 min | Honkai Star Rail 4.4 Planarcadia Trailblaze Story Quest \| HSR Walkthrough (JP Voice) | ViGAMES | 672 | 2026-07-15 | <https://www.youtube.com/watch?v=JYdPrWzJ25I> |
 | 4 h 42 min | 『Honkai Star Rail』4.4 ''In Ravages Does the Whistle Sound'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | 74 | 2026-07-15 | <https://www.youtube.com/watch?v=LCJYA9XkZYk> |
 | 4 h 47 min | Honkai: Star Rail 4.4 - Main Story Quest: "In Ravages Does the Whistle Sound" | BSS Gaming | 43 | 2026-07-15 | <https://www.youtube.com/watch?v=4WJ58dsGPRc> |
 | 5 h 15 min | Honkai: Star Rail - In Ravages Does the Whistle Sound - Complete Story Quest | CorporalOdin2 | ~9 | n/a | <https://www.youtube.com/watch?v=mzauRpIGFwI> |
@@ -270,8 +294,8 @@ The pitch that wins it is a new Phantasmoon Games,
 and Nihilux turns out to be Aha.
 <!--gen:stats act="Mission 6"-->
 
-- **Estimated length:** 3 h 19 min
-- **Sampled range:** 3 h 06 min to 3 h 27 min for the middle half (full spread 2 h 57 min to 4 h 04 min) across 18 playthrough uploads (21 further candidates screened out)
+- **Estimated length:** 3 h 21 min
+- **Sampled range:** 3 h 10 min to 3 h 32 min for the middle half (full spread 2 h 57 min to 4 h 04 min) across 23 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.5
@@ -291,15 +315,20 @@ and Nihilux turns out to be Aha.
 | 3 h 08 min | Act V Part VI: To Roll the Stars in Astropolis (Full Main Story) \| Honkai Star Rail 4.5 | Sir Patty | 55 | 2026-08-28 | <https://www.youtube.com/watch?v=e-_-mqiOTus> |
 | 3 h 10 min | [4.5 Trailblaze Mission] To Roll the Stars in Astropolis \| Chinese \| Honkai: Star Rail | Lake | 86 | 2026-08-30 | <https://www.youtube.com/watch?v=fDCBFDOQoms> |
 | 3 h 11 min | Planarcadia/Astropolis Trailblaze Mission - To Roll the Stars in Astropolis \| Honkai Star Rail  4.5 | TriMori | 302 | 2026-08-28 | <https://www.youtube.com/watch?v=gvu6YAcqaNc> |
+| 3 h 11 min | HSR 4.5 Planarcadia Main Story - Full Playthrough (Honkai Star Rail) | Abyss Breakdown | 44,601 | 2026-08-26 | <https://www.youtube.com/watch?v=jTOaNTG6Ops> |
 | 3 h 12 min | Playing "To Roll the Stars in Astropolis" HSR 4.5 Trailblaze Mission Full Playthrough | void | 808 | 2026-08-29 | <https://www.youtube.com/watch?v=rndV3uml7cs> |
+| 3 h 15 min | Honkai Star Rail 4.5 Planarcadia & Astropolis - Full NEW Trailblaze Quest Playthrough | Fayato | 11,855 | 2026-08-26 | <https://www.youtube.com/watch?v=XJ312xMAY78> |
 | 3 h 16 min | Honkai Star Rail 4.5 Trailblaze Mission "To Roll the Stars in Astropolis" Playthrough | SilverWolfNSFW | 6 | 2026-08-27 | <https://www.youtube.com/watch?v=4s8W2gdIrX4> |
+| 3 h 21 min | Robin & Aventurine Story Quest  \| Honkai Star Rail 4.5 Trailblaze Continuance | Arie seventline | 735 | 2026-08-26 | <https://www.youtube.com/watch?v=WU4tQBNiwng> |
 | 3 h 22 min | Honkai Star Rail 4.5 - To Roll The Stars In Astropolis - New Trailblaze Mission \| Full Gameplay | Jonozoic | 16 | 2026-08-26 | <https://www.youtube.com/watch?v=DZewJfUEwe4> |
 | 3 h 23 min | Honkai: Star Rail 4.5 — To Roll the Stars in Astropolis (Full Main Story Quest) | BSS Gaming | 453 | 2026-08-26 | <https://www.youtube.com/watch?v=gIL187On7Ow> |
-| 3 h 23 min | Main Story Full Walkthrough \| Honkai Star Rail 4.5 \| To Roll the Stars in Astropolis | Arie seventline | 187 | 2026-08-26 | <https://www.youtube.com/watch?v=zZeqMqmtA94> |
+| 3 h 23 min | Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough | Rubhen925 | 46,172 | 2026-08-26 | <https://www.youtube.com/watch?v=4lsrtrQcOe0> |
 | 3 h 24 min | Honkai: Star Rail ver. 4.5 [To Roll the Stars in Astropolis] - Trailblaze Mission Full Playthrough | syll_ | 6 | 2026-09-15 | <https://www.youtube.com/watch?v=_ygy_6ObCHY> |
 | 3 h 26 min | Honkai Star Rail Part 122 - To Roll the Stars in Astropolis (4.5) | Agent Potango | 8 | 2026-08-28 | <https://www.youtube.com/watch?v=B2I-JILqM6Y> |
 | 3 h 32 min | To Roll the Stars in Astropolis Trailblaze Mission \| Honkai Star Rail 4.5 | Starlight Phantom  | 29 | 2026-08-26 | <https://www.youtube.com/watch?v=fUKgcDrJfJU> |
 | 3 h 34 min | Honkai: Star Rail 4.5 – To Roll the Stars in Astropolis \| Full Trailblaze Mission (With Timestamps) | Riku-sama | 75 | 2026-09-16 | <https://www.youtube.com/watch?v=Lfe4RdqJQ68> |
+| 3 h 40 min | Honkai Star Rail 4.5 Planarcadia Trailblaze Story Quest \| HSR JP Voice | ViGAMES | 523 | 2026-08-26 | <https://www.youtube.com/watch?v=XZhc0iPa8jI> |
+| 3 h 41 min | Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough | Kazuma Akimoto (Master Aki) | 434 | 2026-08-28 | <https://www.youtube.com/watch?v=69uEcUytVZU> |
 | 3 h 44 min | We need to ESCAPE! ✧ To Roll the Stars in Astropolis ✦ Honkai: Star Rail 4.5 | Eve_ningMusic | 18,113 | 2026-08-28 | <https://www.youtube.com/watch?v=381phTfiXnc> |
 | 4 h 04 min | Honkai: Star Rail: To Roll the Stars in Astropolis (Part 1). | TheXGamer | 35 | 2026-08-26 | <https://www.youtube.com/watch?v=LyBReQU_WqQ> |
 
@@ -320,8 +349,8 @@ and a gondola carries everyone back to Planarcadia
 for the grandest Phantasmoon Games the painting has seen.
 <!--gen:stats act="Mission 7"-->
 
-- **Estimated length:** 3 h 25 min
-- **Sampled range:** 3 h 07 min to 3 h 32 min for the middle half (full spread 2 h 00 min to 4 h 16 min) across 13 playthrough uploads (27 further candidates screened out)
+- **Estimated length:** 3 h 26 min
+- **Sampled range:** 3 h 10 min to 3 h 35 min for the middle half (full spread 2 h 00 min to 4 h 16 min) across 17 playthrough uploads (23 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.6
@@ -338,13 +367,17 @@ for the grandest Phantasmoon Games the painting has seen.
 | 2 h 38 min | Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise) | Stanley Quach | ~4 | n/a | <https://www.youtube.com/watch?v=92ryybiq33s> |
 | 3 h 04 min | "Dance With the Beast Before Moonrise” (4.5 Full Quest) \| Honkai Starrail | Glitter Games! | ~66 | n/a | <https://www.youtube.com/watch?v=R0KtVIn53NE> |
 | 3 h 09 min | Version 4.6 Trailblaze Mission Full Story \| Dance With the Beast Before Moonrise \| Honkai Star Rail | Noxxis Gaming | ~963 | n/a | <https://www.youtube.com/watch?v=z748dGocYDU> |
+| 3 h 11 min | HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail) | Abyss Breakdown | ~11,015 | n/a | <https://www.youtube.com/watch?v=TV-XFcfKUn8> |
 | 3 h 18 min | Dance With the Beast Before Moonrise - Act V: Part VII (Full story) \| Honkai: Star Rail 4.6 | Sir Patty | ~8 | n/a | <https://www.youtube.com/watch?v=QYOaJH2Rnbg> |
 | 3 h 23 min | Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story) | Major | ~6 | n/a | <https://www.youtube.com/watch?v=hN_fnn1EGg8> |
 | 3 h 25 min | HSR 4.6 Trailblaze Missions \| Full Walkthrough (Dance With the Beast Before Moonrise) | Arie seventline | ~152 | n/a | <https://www.youtube.com/watch?v=r_t2u8z0w8o> |
 | 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | MilkyWayJono | ~4 | n/a | <https://www.youtube.com/watch?v=z0nmpxHgcSc> |
 | 3 h 30 min | HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise | Izom F2P Gaming | ~4 | n/a | <https://www.youtube.com/watch?v=EyOPNmtubwQ> |
 | 3 h 30 min | Honkai: Star Rail 4.6 — Dance With the Beast Before Moonrise (Full Main Story Quest) | BSS Gaming | ~184 | n/a | <https://www.youtube.com/watch?v=LjjYwBtOVBA> |
+| 3 h 30 min | Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough | Rubhen925 | ~27,864 | n/a | <https://www.youtube.com/watch?v=LwBVHHywpbs> |
 | 3 h 34 min | 『Honkai Star Rail』4.6 ''Dance With The Beast Before Moonrise'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | ~35 | n/a | <https://www.youtube.com/watch?v=qkoLqUEOyVg> |
+| 3 h 36 min | Honkai Star Rail 4.6 Planarcadia Trailblaze Story Quest \| HSR JP Voice | ViGAMES | ~373 | n/a | <https://www.youtube.com/watch?v=_AU5-Hu7iHM> |
+| 3 h 50 min | Honkai Star Rail 4.6 Trailblaze Quest (full walkthrough) | Kazuma Akimoto (Master Aki) | ~54 | n/a | <https://www.youtube.com/watch?v=fbmOu3b65nA> |
 | 3 h 55 min | Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest | CorporalOdin2 | ~12 | n/a | <https://www.youtube.com/watch?v=lC17NurFrs4> |
 | 4 h 16 min | It Comes Full Circle \| Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest | FervidTwo Gaming | ~12 | n/a | <https://www.youtube.com/watch?v=JWW4NsCI6OA> |
 

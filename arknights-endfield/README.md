@@ -5,7 +5,7 @@ from the prologue on the surface of Talos-II
 to the Wuling Very Large Rift,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->23 h 38 min<!--/f-->** (<!--f:n_report_entries-->12<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->158<!--/f--> accepted uploads out of <!--f:n_candidates-->512<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->23 h 38 min<!--/f-->** (<!--f:n_report_entries-->12<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->162<!--/f--> accepted uploads out of <!--f:n_candidates-->512<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->process<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.

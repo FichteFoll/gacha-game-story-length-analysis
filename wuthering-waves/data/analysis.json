@@ -4281,9 +4281,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=wzFnN-xJrpo",
     "views": 120300,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20240929"
    },
    {
@@ -4350,7 +4348,9 @@
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=M5SnnuiKyZk",
     "views": 42,
-    "rejected": [],
+    "rejected": [
+     "part-of-an-act"
+    ],
     "upload_date": "20250716"
    },
    {
@@ -4359,22 +4359,11 @@
     "uploader": "Game Chronicles",
     "url": "https://www.youtube.com/watch?v=CEPFDq6WloU",
     "views": 44,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20250717"
    }
   ],
   "kept": [
-   {
-    "seconds": 6040,
-    "title": "[ Wuthering Waves ] 1.3  Act 8 To the Shore\u2019s End Part 1 Main Story Playthrough  [Main Story Line ]",
-    "uploader": "Game Chronicles",
-    "url": "https://www.youtube.com/watch?v=M5SnnuiKyZk",
-    "views": 42,
-    "rejected": [],
-    "upload_date": "20250716"
-   },
    {
     "seconds": 6655,
     "title": "To the Shore's End - Chapter 1 Act 8 | Wuthering Waves",
@@ -4429,6 +4418,15 @@
     "upload_date": "20241006"
    },
    {
+    "seconds": 8418,
+    "title": "[ Wuthering Waves ] 1.3 (The Black Shores)  Act 8 To the Shore's End [Main Story Line Playthrough ]",
+    "uploader": "Game Chronicles",
+    "url": "https://www.youtube.com/watch?v=CEPFDq6WloU",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20250717"
+   },
+   {
     "seconds": 9225,
     "title": "FULL Chapter 1 Act 8 Black Shores | Wuthering Waves 1.3 \"To the Shore's End\"",
     "uploader": "T.H Bunn",
@@ -4456,6 +4454,15 @@
     "upload_date": "20260318"
    },
    {
+    "seconds": 10366,
+    "title": "Wuthering Waves 1.3 - New Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=wzFnN-xJrpo",
+    "views": 120300,
+    "rejected": [],
+    "upload_date": "20240929"
+   },
+   {
     "seconds": 11198,
     "title": "Wuthering Waves 3.3 Walkthrough PART 15 - To the Shore's End (PS5 1440p)",
     "uploader": "Gaming Reviving",
@@ -4475,16 +4482,16 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 131,
-   "low": 101,
+   "n": 12,
+   "median": 147,
+   "low": 111,
    "high": 193,
-   "q1": 120,
-   "q3": 165,
-   "trimmed_mean": 143,
+   "q1": 127,
+   "q3": 171,
+   "trimmed_mean": 149,
    "measured": 1,
    "parts": {},
-   "drift": 0.008
+   "drift": 0.131
   }
  },
  {
@@ -6514,7 +6521,7 @@
     "url": "https://www.youtube.com/watch?v=Peixgez7FZE",
     "views": 6,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260205"
    },

@@ -1719,9 +1719,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=bVh5Ol1_J1U",
     "views": "77009",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 7792,
@@ -1729,9 +1727,7 @@
     "uploader": "Kakuchopurei",
     "url": "https://www.youtube.com/watch?v=BfWs0XcGgA4",
     "views": 2726,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20230719"
    },
    {
@@ -1759,9 +1755,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=fmNIO2PoFZk",
     "views": "45500",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    }
   ],
   "kept": [
@@ -1771,6 +1765,14 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=yUhl4bCPV1k",
     "views": "16437",
+    "rejected": []
+   },
+   {
+    "seconds": 5786,
+    "title": "Full 1.2 Trailblaze Quest - Honkai Star Rail 1.2",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=bVh5Ol1_J1U",
+    "views": "77009",
     "rejected": []
    },
    {
@@ -1825,6 +1827,15 @@
     "rejected": []
    },
    {
+    "seconds": 7792,
+    "title": "Honkai Star Rail 1.2: Trailblaze Mission Story Quest | FULL WALKTHROUGH",
+    "uploader": "Kakuchopurei",
+    "url": "https://www.youtube.com/watch?v=BfWs0XcGgA4",
+    "views": 2726,
+    "rejected": [],
+    "upload_date": "20230719"
+   },
+   {
     "seconds": 8290,
     "title": "Honkai Star Rail 1.2 - Topclouded Towerthrust | The Xianzhou Luofu Trailblaze Mission",
     "uploader": "SilverBullet22_",
@@ -1842,6 +1853,14 @@
     "rejected": []
    },
    {
+    "seconds": 9496,
+    "title": "Honkai Star Rail 1.2 - Full New Trailblazer Story Quest",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=fmNIO2PoFZk",
+    "views": "45500",
+    "rejected": []
+   },
+   {
     "seconds": 12190,
     "title": "Topclouded Towerthrust \u2022 Honkai Star Rail",
     "uploader": "JungTutis",
@@ -1852,16 +1871,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 120,
+   "n": 13,
+   "median": 121,
    "low": 93,
    "high": 203,
-   "q1": 104,
-   "q3": 141,
-   "trimmed_mean": 121,
+   "q1": 102,
+   "q3": 143,
+   "trimmed_mean": 123,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.008
   }
  },
  {
@@ -1992,9 +2011,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=wkL9orbn85E",
     "views": "28508",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 2420,
@@ -2036,9 +2053,7 @@
     "uploader": "Srini510",
     "url": "https://www.youtube.com/watch?v=5WGbJ7dL440",
     "views": 49,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20230830"
    },
    {
@@ -2047,9 +2062,7 @@
     "uploader": "AliCeline  \u30a2\u30ea\u30bb\u30ea\u30f3",
     "url": "https://www.youtube.com/watch?v=-mCaJ1LjUdU",
     "views": 26,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20230912"
    },
    {
@@ -2093,6 +2106,32 @@
     "url": "https://www.youtube.com/watch?v=rasE3jSIiis",
     "views": "114",
     "rejected": []
+   },
+   {
+    "seconds": 2931,
+    "title": "Honkai Star Rail 1.3 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=wkL9orbn85E",
+    "views": "28508",
+    "rejected": []
+   },
+   {
+    "seconds": 3564,
+    "title": "Honkai: Star Rail 1.3 Trailblaze Mission - Xianzhou Luofu Conclusion Full (Stelle)",
+    "uploader": "AliCeline  \u30a2\u30ea\u30bb\u30ea\u30f3",
+    "url": "https://www.youtube.com/watch?v=-mCaJ1LjUdU",
+    "views": 26,
+    "rejected": [],
+    "upload_date": "20230912"
+   },
+   {
+    "seconds": 3996,
+    "title": "Version 1.3 Trailblaze Mission Full Honkai Star Rail",
+    "uploader": "Srini510",
+    "url": "https://www.youtube.com/watch?v=5WGbJ7dL440",
+    "views": 49,
+    "rejected": [],
+    "upload_date": "20230830"
    },
    {
     "seconds": 4086,
@@ -2156,16 +2195,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 76,
+   "n": 12,
+   "median": 69,
    "low": 40,
    "high": 95,
-   "q1": 57,
-   "q3": 82,
-   "trimmed_mean": 71,
+   "q1": 51,
+   "q3": 81,
+   "trimmed_mean": 68,
    "measured": 0,
    "parts": {},
-   "drift": -0.05
+   "drift": -0.138
   }
  },
  {
@@ -2372,9 +2411,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=9BPurI68Hvo",
     "views": 221375,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20240206"
    },
    {
@@ -2395,8 +2432,7 @@
     "url": "https://www.youtube.com/watch?v=7hH81R3DxV4",
     "views": "132019",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -2419,9 +2455,7 @@
     "uploader": "Leafomi",
     "url": "https://www.youtube.com/watch?v=F_h-33VK_ns",
     "views": 286,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20240207"
    }
   ],
@@ -2473,6 +2507,15 @@
     "rejected": []
    },
    {
+    "seconds": 17059,
+    "title": "Penacony's Dreamscape | Honkai Star Rail V2.0 Trailblaze Mission Full Walkthrough (No Commentary)",
+    "uploader": "Leafomi",
+    "url": "https://www.youtube.com/watch?v=F_h-33VK_ns",
+    "views": 286,
+    "rejected": [],
+    "upload_date": "20240207"
+   },
+   {
     "seconds": 18061,
     "title": "Honkai: Star Rail - Chapter 3: Penacony: The Sound and Fury (Part 1) Gameplay",
     "uploader": "RosalynXenobiaGames",
@@ -2495,6 +2538,15 @@
     }
    },
    {
+    "seconds": 19363,
+    "title": "Honkai Star Rail 2.0 Penacony - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=9BPurI68Hvo",
+    "views": 221375,
+    "rejected": [],
+    "upload_date": "20240206"
+   },
+   {
     "seconds": 19944,
     "title": "Honkai Star Rail - Chapter 3 Part 1: The Sound and the Fury | Penacony | Full Story JP Dub EN Sub 4K",
     "uploader": "Gudaoko",
@@ -2514,16 +2566,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 272,
+   "n": 10,
+   "median": 280,
    "low": 150,
    "high": 345,
-   "q1": 222,
+   "q1": 244,
    "q3": 325,
-   "trimmed_mean": 267,
+   "trimmed_mean": 281,
    "measured": 2,
    "parts": {},
-   "drift": 0.015
+   "drift": 0.045
   }
  },
  {
@@ -2674,9 +2726,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=8iBJZFtUHOA",
     "views": 211493,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20240327"
    },
    {
@@ -2686,8 +2736,7 @@
     "url": "https://www.youtube.com/watch?v=mgqwTFqGrsw",
     "views": "29556",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -2857,6 +2906,15 @@
     "parts": {}
    },
    {
+    "seconds": 21194,
+    "title": "Honkai Star Rail 2.1 Penacony - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=8iBJZFtUHOA",
+    "views": 211493,
+    "rejected": [],
+    "upload_date": "20240327"
+   },
+   {
     "seconds": 21628,
     "title": "Cats Among Pigeons | Honkai Star Rail 2.1 (Full Playthrough)",
     "uploader": "HaloMillennium",
@@ -2905,16 +2963,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 326,
+   "n": 10,
+   "median": 339,
    "low": 257,
    "high": 373,
-   "q1": 300,
-   "q3": 368,
-   "trimmed_mean": 329,
+   "q1": 302,
+   "q3": 366,
+   "trimmed_mean": 336,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.04
   }
  },
  {
@@ -2932,7 +2990,7 @@
     "url": "https://www.youtube.com/watch?v=aLo1wSR5mmA",
     "views": "107",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -3049,9 +3107,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=gOWbTlXZAMA",
     "views": "256628",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3732,
@@ -3060,8 +3116,7 @@
     "url": "https://www.youtube.com/watch?v=DWRCviaqqvY",
     "views": 29275,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20240508"
    },
@@ -3072,8 +3127,7 @@
     "url": "https://www.youtube.com/watch?v=gxtE3_NgTDM",
     "views": "58422",
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ]
    },
    {
@@ -3177,7 +3231,6 @@
     "url": "https://www.youtube.com/watch?v=PLiYEELOeBE",
     "views": "1056",
     "rejected": [
-     "act-mismatch",
      "re-upload"
     ]
    },
@@ -3196,7 +3249,7 @@
     "url": "https://www.youtube.com/watch?v=hANMBDyc7oE",
     "views": "91651",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -3206,7 +3259,7 @@
     "url": "https://www.youtube.com/watch?v=Y5hP_n-y8DA",
     "views": "6627",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -3268,6 +3321,14 @@
     "upload_date": "20240509"
    },
    {
+    "seconds": 31338,
+    "title": "Honkai Star Rail 2.2 Penacony - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=gOWbTlXZAMA",
+    "views": "256628",
+    "rejected": []
+   },
+   {
     "seconds": 31728,
     "title": "New Penacony Story Quest Walkthrough Part 1:\"In Our Time and on the Eighth Day\" Honkai Star Rail 2.2",
     "uploader": "HallowPmeister",
@@ -3295,16 +3356,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 471,
+   "n": 9,
+   "median": 476,
    "low": 317,
    "high": 566,
-   "q1": 437,
-   "q3": 538,
-   "trimmed_mean": 473,
+   "q1": 444,
+   "q3": 535,
+   "trimmed_mean": 478,
    "measured": 1,
    "parts": {},
-   "drift": 0.011
+   "drift": 0.021
   }
  },
  {
@@ -3329,9 +3390,7 @@
     "uploader": "Elrinell Gaming",
     "url": "https://www.youtube.com/watch?v=xHtZL_AxPHA",
     "views": "67",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 1739,
@@ -3477,9 +3536,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=4FjGsJKm4TQ",
     "views": 72832,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20240619"
    },
    {
@@ -3488,9 +3545,7 @@
     "uploader": "MrLulli",
     "url": "https://www.youtube.com/watch?v=uAwfpC86BZY",
     "views": "37",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 10090,
@@ -3512,6 +3567,22 @@
    }
   ],
   "kept": [
+   {
+    "seconds": 4814,
+    "title": "Honkai Star Rail - Penacony Chapter 3 (2.3) | Full Story Walkthrough (No Commentary)",
+    "uploader": "Elrinell Gaming",
+    "url": "https://www.youtube.com/watch?v=xHtZL_AxPHA",
+    "views": "67",
+    "rejected": []
+   },
+   {
+    "seconds": 7952,
+    "title": "Honkai Star Rail 2.3 Penacony - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "MrLulli",
+    "url": "https://www.youtube.com/watch?v=uAwfpC86BZY",
+    "views": "37",
+    "rejected": []
+   },
    {
     "seconds": 8099,
     "title": "Farewell Penacony FULL Story Quest",
@@ -3567,6 +3638,15 @@
     "rejected": []
    },
    {
+    "seconds": 10014,
+    "title": "Honkai Star Rail 2.3 Penacony - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=4FjGsJKm4TQ",
+    "views": 72832,
+    "rejected": [],
+    "upload_date": "20240619"
+   },
+   {
     "seconds": 10090,
     "title": "Farewell......Penacony I Honkai star rail Penacony Trailblaze Mission 2.3 Full walkthrough",
     "uploader": "Junjunyt",
@@ -3606,16 +3686,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 163,
-   "low": 135,
+   "n": 13,
+   "median": 161,
+   "low": 80,
    "high": 229,
-   "q1": 149,
-   "q3": 180,
-   "trimmed_mean": 164,
+   "q1": 136,
+   "q3": 172,
+   "trimmed_mean": 159,
    "measured": 2,
    "parts": {},
-   "drift": -0.012
+   "drift": -0.024
   }
  },
  {
@@ -3792,9 +3872,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=2ChbfSEWgBM",
     "views": 50096,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20241204"
    },
    {
@@ -3803,9 +3881,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=DDEbJum4DmQ",
     "views": 351,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20241205"
    },
    {
@@ -3814,9 +3890,7 @@
     "uploader": "Leafominion",
     "url": "https://www.youtube.com/watch?v=PI2zEQ4c984",
     "views": 15,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20241207"
    },
    {
@@ -3840,8 +3914,7 @@
     "url": "https://www.youtube.com/watch?v=nlQzX6NwjDM",
     "views": "2",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    }
   ],
@@ -3853,6 +3926,15 @@
     "url": "https://www.youtube.com/watch?v=jjylb6ol3cg",
     "views": "16411",
     "rejected": []
+   },
+   {
+    "seconds": 7768,
+    "title": "Sunday's New Journey | Honkai Star Rail V2.7 Trailblaze Mission Full Walkthrough",
+    "uploader": "Leafominion",
+    "url": "https://www.youtube.com/watch?v=PI2zEQ4c984",
+    "views": 15,
+    "rejected": [],
+    "upload_date": "20241207"
    },
    {
     "seconds": 8164,
@@ -3919,12 +4001,30 @@
     "rejected": []
    },
    {
+    "seconds": 9225,
+    "title": "Honkai Star Rail 2.7 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=2ChbfSEWgBM",
+    "views": 50096,
+    "rejected": [],
+    "upload_date": "20241204"
+   },
+   {
     "seconds": 9351,
     "title": "Honkai: Star Rail - A New Venture on the Eighth Dawn",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=nFNEx8gc87U",
     "views": "303",
     "rejected": []
+   },
+   {
+    "seconds": 9883,
+    "title": "Honkai Star Rail 2.7 Walkthrough | Penacony Trailblazer Mission: A New Venture [JP Voice]",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=DDEbJum4DmQ",
+    "views": 351,
+    "rejected": [],
+    "upload_date": "20241205"
    },
    {
     "seconds": 10678,
@@ -3937,16 +4037,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 141,
+   "n": 13,
+   "median": 143,
    "low": 127,
    "high": 178,
    "q1": 136,
-   "q3": 148,
-   "trimmed_mean": 142,
+   "q3": 155,
+   "trimmed_mean": 144,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.014
   }
  },
  {
@@ -4141,9 +4241,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=0Ib6bShGVrk",
     "views": 274089,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250116"
    },
    {
@@ -4164,9 +4262,7 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=BQixCuHns7o",
     "views": 124425,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250115"
    },
    {
@@ -4176,8 +4272,7 @@
     "url": "https://www.youtube.com/watch?v=njiU2TAaZbY",
     "views": "26488",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -4187,8 +4282,7 @@
     "url": "https://www.youtube.com/watch?v=GXZqe_FtDTM",
     "views": 56732,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ],
     "upload_date": "20250115"
    },
@@ -4229,6 +4323,15 @@
     "views": 3852,
     "rejected": [],
     "upload_date": "20250116"
+   },
+   {
+    "seconds": 29043,
+    "title": "Version 3.0 Trailblaze Mission Story Quest (Full Quest) Amphoreus Arc | Honkai Star Rail",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=BQixCuHns7o",
+    "views": 124425,
+    "rejected": [],
+    "upload_date": "20250115"
    },
    {
     "seconds": 29455,
@@ -4290,6 +4393,15 @@
     "rejected": []
    },
    {
+    "seconds": 37214,
+    "title": "Honkai Star Rail 3.0 Amphoreus - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=0Ib6bShGVrk",
+    "views": 274089,
+    "rejected": [],
+    "upload_date": "20250116"
+   },
+   {
     "seconds": 41521,
     "title": "Honkai: Star Rail 3.0 Quest | Heroic Saga of Flame-Chase | No Commentary",
     "uploader": "DForce Gaming",
@@ -4300,12 +4412,12 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 11,
    "median": 500,
    "low": 417,
    "high": 692,
-   "q1": 453,
-   "q3": 568,
+   "q1": 462,
+   "q3": 620,
    "trimmed_mean": 516,
    "measured": 2,
    "parts": {},
@@ -4514,9 +4626,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=Zi-_eihYNL4",
     "views": "127858",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 4910,
@@ -4525,8 +4635,7 @@
     "url": "https://www.youtube.com/watch?v=SQDOXX1MOAY",
     "views": "36",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -4547,8 +4656,7 @@
     "url": "https://www.youtube.com/watch?v=q5hXWsvFjCY",
     "views": 4,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250506"
    },
@@ -4558,9 +4666,7 @@
     "uploader": "MashUp Gaming",
     "url": "https://www.youtube.com/watch?v=f4E-vCxlKVc",
     "views": "58",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3920,
@@ -4616,6 +4722,14 @@
     "uploader": "OnGame MultiGaming",
     "url": "https://www.youtube.com/watch?v=XlhvTC6n1gE",
     "views": "193",
+    "rejected": []
+   },
+   {
+    "seconds": 23715,
+    "title": "Honkai Star Rail 3.1   New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=f4E-vCxlKVc",
+    "views": "58",
     "rejected": []
    },
    {
@@ -4687,6 +4801,14 @@
     "upload_date": "20250304"
    },
    {
+    "seconds": 27112,
+    "title": "Honkai Star Rail 3.1 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Zi-_eihYNL4",
+    "views": "127858",
+    "rejected": []
+   },
+   {
     "seconds": 27482,
     "title": "\u3010Honkai: Star Rail\u3011Light Slips the Gate, Shadow Greets the Throne Full Story [Jp Dub]",
     "uploader": "Super Executive",
@@ -4704,13 +4826,13 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 11,
    "median": 404,
    "low": 210,
    "high": 479,
-   "q1": 397,
-   "q3": 447,
-   "trimmed_mean": 400,
+   "q1": 396,
+   "q3": 452,
+   "trimmed_mean": 418,
    "measured": 2,
    "parts": {},
    "drift": 0.0
@@ -4786,9 +4908,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=K85RnXbh8fs",
     "views": 83175,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250409"
    },
    {
@@ -4913,8 +5033,7 @@
     "url": "https://www.youtube.com/watch?v=8isrCdYoAts",
     "views": 49027,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ],
     "upload_date": "20250409"
    },
@@ -4925,8 +5044,7 @@
     "url": "https://www.youtube.com/watch?v=ruymdRwN2b0",
     "views": "15",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -4936,7 +5054,7 @@
     "url": "https://www.youtube.com/watch?v=rw7b5Ex0e00",
     "views": "28",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -4946,8 +5064,7 @@
     "url": "https://www.youtube.com/watch?v=m3tyVLy5WE0",
     "views": 16,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250409"
    },
@@ -5105,6 +5222,15 @@
     "upload_date": "20250512"
    },
    {
+    "seconds": 30357,
+    "title": "Honkai Star Rail 3.2 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=K85RnXbh8fs",
+    "views": 83175,
+    "rejected": [],
+    "upload_date": "20250409"
+   },
+   {
     "seconds": 30542,
     "title": "Through the Petals in the Land of Repose ((Full playthrough)) | Honkai Star Rail 3.2",
     "uploader": "Lait-la Rose",
@@ -5115,16 +5241,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 460,
+   "n": 10,
+   "median": 468,
    "low": 282,
    "high": 509,
-   "q1": 447,
-   "q3": 487,
-   "trimmed_mean": 450,
+   "q1": 451,
+   "q3": 499,
+   "trimmed_mean": 471,
    "measured": 2,
    "parts": {},
-   "drift": -0.032
+   "drift": -0.015
   }
  },
  {
@@ -5301,8 +5427,7 @@
     "url": "https://www.youtube.com/watch?v=1Li5AFpVxVE",
     "views": "27734",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5322,8 +5447,7 @@
     "url": "https://www.youtube.com/watch?v=4oAkotza430",
     "views": 32147,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ],
     "upload_date": "20250521"
    },
@@ -5333,9 +5457,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=Rkso37x7zp8",
     "views": 110206,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250521"
    },
    {
@@ -5345,8 +5467,7 @@
     "url": "https://www.youtube.com/watch?v=QH2dZr24VTc",
     "views": 28,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250612"
    },
@@ -5357,8 +5478,7 @@
     "url": "https://www.youtube.com/watch?v=c0MvGRqCN-Q",
     "views": "21",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -5412,8 +5532,7 @@
     "url": "https://www.youtube.com/watch?v=-SqYE9xGuA0",
     "views": "2418",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5423,8 +5542,7 @@
     "url": "https://www.youtube.com/watch?v=M4GimwYLAn8",
     "views": "3211",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    }
   ],
@@ -5501,6 +5619,15 @@
     "rejected": []
    },
    {
+    "seconds": 28722,
+    "title": "Honkai Star Rail 3.3 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Rkso37x7zp8",
+    "views": 110206,
+    "rejected": [],
+    "upload_date": "20250521"
+   },
+   {
     "seconds": 31412,
     "title": "Honkai Star Rail - Chapter 4 Act 4: The Fall at Dawn's Rise | Amphoreus Full Story JP Dub EN Sub 4K",
     "uploader": "Gudaoko",
@@ -5510,16 +5637,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 440,
+   "n": 10,
+   "median": 441,
    "low": 295,
    "high": 524,
-   "q1": 396,
-   "q3": 445,
-   "trimmed_mean": 424,
+   "q1": 405,
+   "q3": 454,
+   "trimmed_mean": 435,
    "measured": 1,
    "parts": {},
-   "drift": -0.005
+   "drift": -0.002
   }
  },
  {
@@ -5665,8 +5792,7 @@
     "url": "https://www.youtube.com/watch?v=ycNcDYeHafk",
     "views": "346143",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5695,9 +5821,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=SHywWVGi1eQ",
     "views": "131572",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 18283,
@@ -5706,8 +5830,7 @@
     "url": "https://www.youtube.com/watch?v=9XXKgeIzA5Q",
     "views": 9185,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ],
     "upload_date": "20250702"
    },
@@ -5745,8 +5868,7 @@
     "url": "https://www.youtube.com/watch?v=V2pdMSGSEK0",
     "views": "20",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5756,7 +5878,7 @@
     "url": "https://www.youtube.com/watch?v=xvNOPX9lKDw",
     "views": "13",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -5878,19 +6000,27 @@
     "views": 44,
     "rejected": [],
     "upload_date": "20250705"
+   },
+   {
+    "seconds": 18678,
+    "title": "Honkai Star Rail 3.4 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=SHywWVGi1eQ",
+    "views": "131572",
+    "rejected": []
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 277,
+   "n": 10,
+   "median": 279,
    "low": 167,
-   "high": 303,
-   "q1": 237,
-   "q3": 291,
-   "trimmed_mean": 262,
+   "high": 311,
+   "q1": 245,
+   "q3": 295,
+   "trimmed_mean": 274,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.007
   }
  },
  {
@@ -5948,9 +6078,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=TM0fOBfHi0k",
     "views": "51399",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 410,
@@ -6059,9 +6187,7 @@
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=fAT6d9vvWqA",
     "views": "90961",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3482,
@@ -6070,8 +6196,7 @@
     "url": "https://www.youtube.com/watch?v=Ksr5JrXnv0A",
     "views": 12,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250817"
    },
@@ -6089,10 +6214,7 @@
     "uploader": "Shiven's Impact",
     "url": "https://www.youtube.com/watch?v=TnHb58P3sEM",
     "views": "2615",
-    "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
-    ]
+    "rejected": []
    }
   ],
   "kept": [
@@ -6104,6 +6226,14 @@
     "views": 2565,
     "rejected": [],
     "upload_date": "20250813"
+   },
+   {
+    "seconds": 19965,
+    "title": "HONKAI STAR RAIL 3.5 AMPHOREUS Full Story Walkthrough Part 12 (No Commentary)",
+    "uploader": "Shiven's Impact",
+    "url": "https://www.youtube.com/watch?v=TnHb58P3sEM",
+    "views": "2615",
+    "rejected": []
    },
    {
     "seconds": 20879,
@@ -6161,6 +6291,22 @@
     "upload_date": "20250905"
    },
    {
+    "seconds": 21846,
+    "title": "Honkai Star Rail 3.5 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=fAT6d9vvWqA",
+    "views": "90961",
+    "rejected": []
+   },
+   {
+    "seconds": 22540,
+    "title": "Honkai Star Rail 3.5 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=TM0fOBfHi0k",
+    "views": "51399",
+    "rejected": []
+   },
+   {
     "seconds": 23716,
     "title": "Honkai: Star Rail v3.5 | Amphoreus \u2013 Before Their Deaths | Trailblaze Mission Full Gameplay (JP Dub)",
     "uploader": "JS Gaming Realm",
@@ -6187,16 +6333,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 361,
+   "n": 13,
+   "median": 364,
    "low": 316,
    "high": 463,
    "q1": 348,
-   "q3": 398,
-   "trimmed_mean": 367,
+   "q3": 385,
+   "trimmed_mean": 365,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.008
   }
  },
  {
@@ -6259,9 +6405,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=yG_bXPnfIWk",
     "views": 148250,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250924"
    },
    {
@@ -6354,7 +6498,7 @@
     "url": "https://www.youtube.com/watch?v=oaJ8XaWwwmY",
     "views": "16923",
     "rejected": [
-     "act-mismatch"
+     "same-uploader"
     ]
    },
    {
@@ -6364,8 +6508,7 @@
     "url": "https://www.youtube.com/watch?v=0fEYB4xKQwE",
     "views": 17,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250930"
    }
@@ -6475,6 +6618,15 @@
     "upload_date": "20250926"
    },
    {
+    "seconds": 20301,
+    "title": "Honkai Star Rail 3.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=yG_bXPnfIWk",
+    "views": 148250,
+    "rejected": [],
+    "upload_date": "20250924"
+   },
+   {
     "seconds": 21945,
     "title": "Honkai Star Rail 3.6 (JP DUB) | Back to Earth in Evernight Full Story Quest",
     "uploader": "Atum-Ra",
@@ -6492,16 +6644,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 314,
+   "n": 13,
+   "median": 315,
    "low": 260,
    "high": 409,
-   "q1": 298,
-   "q3": 319,
-   "trimmed_mean": 314,
+   "q1": 301,
+   "q3": 329,
+   "trimmed_mean": 316,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.003
   }
  },
  {
@@ -6574,9 +6726,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=MHCEiYm4Pg0",
     "views": 64516,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20251105"
    },
    {
@@ -6713,9 +6863,7 @@
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=OkWp0SJ9t0o",
     "views": 9780,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20251105"
    },
    {
@@ -6724,9 +6872,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=Itfq_UPV2yE",
     "views": 462,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20251108"
    },
    {
@@ -6735,9 +6881,7 @@
     "uploader": "MashUp Gaming",
     "url": "https://www.youtube.com/watch?v=DsyQSMtx0kY",
     "views": 8,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20251108"
    }
   ],
@@ -6810,6 +6954,15 @@
     "rejected": []
    },
    {
+    "seconds": 22579,
+    "title": "Honkai Star Rail 3.7 Amphoreus Finale - New Trailblaze Story Quest Full Playthrough (iOS, Android)",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=DsyQSMtx0kY",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20251108"
+   },
+   {
     "seconds": 22604,
     "title": "Honkai: Star Rail 3.7 FULL Trailblaze Mission | As Tomorrow Became Yesterday",
     "uploader": "T.H Bunn",
@@ -6858,12 +7011,39 @@
     "upload_date": "20251107"
    },
    {
+    "seconds": 25198,
+    "title": "Honkai Star Rail 3.7 - Full Trailblaze Story Quest Walkthrough (Amphoreus Finale)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=OkWp0SJ9t0o",
+    "views": 9780,
+    "rejected": [],
+    "upload_date": "20251105"
+   },
+   {
+    "seconds": 26058,
+    "title": "Honkai Star Rail 3.7 Walkthrough | Trailblaze Mission: Amphoreus Story [JP Voice]",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=Itfq_UPV2yE",
+    "views": 462,
+    "rejected": [],
+    "upload_date": "20251108"
+   },
+   {
     "seconds": 26379,
     "title": "Honkai: Star Rail 3.7 \u2013 Trailblaze Mission \u201cAs Tomorrow Became Yesterday\u201d | JP Dub | No Commentary",
     "uploader": "Mikiyuki",
     "url": "https://www.youtube.com/watch?v=WJETACXCCSY",
     "views": "21",
     "rejected": []
+   },
+   {
+    "seconds": 26632,
+    "title": "Honkai Star Rail 3.7 - New Trailblaze Story Quest Full Walkthrough (HSR 3.7)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=MHCEiYm4Pg0",
+    "views": 64516,
+    "rejected": [],
+    "upload_date": "20251105"
    },
    {
     "seconds": 33096,
@@ -6875,16 +7055,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 378,
+   "n": 16,
+   "median": 380,
    "low": 335,
    "high": 552,
-   "q1": 356,
-   "q3": 390,
-   "trimmed_mean": 379,
+   "q1": 372,
+   "q3": 431,
+   "trimmed_mean": 390,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.005
   }
  },
  {
@@ -6910,9 +7090,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=e224jsG86Hc",
     "views": "18901",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 7201,
@@ -6930,9 +7108,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=LIXpOpDSKNY",
     "views": 165363,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260213"
    },
    {
@@ -7061,9 +7237,7 @@
     "uploader": "Noxxis Gaming",
     "url": "https://www.youtube.com/watch?v=8I_MHDP3UB8",
     "views": 3885,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260213"
    },
    {
@@ -7072,9 +7246,7 @@
     "uploader": "Nine's Own Wish ",
     "url": "https://www.youtube.com/watch?v=BRkqk2SOpBY",
     "views": 170,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260214"
    },
    {
@@ -7083,9 +7255,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=eJ5VC9fsCxA",
     "views": "919",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 4467,
@@ -7094,8 +7264,7 @@
     "url": "https://www.youtube.com/watch?v=m0eAP6Xp6_M",
     "views": "21338",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7145,6 +7314,24 @@
     "rejected": []
    },
    {
+    "seconds": 25162,
+    "title": "Version 4.0 Trailblaze Mission Full Story HD | Planarcadia No Aha at Full Moon | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=8I_MHDP3UB8",
+    "views": 3885,
+    "rejected": [],
+    "upload_date": "20260213"
+   },
+   {
+    "seconds": 26077,
+    "title": "Honkai Star Rail 4.0 Full Story Walkthrough | Act 5 Planarcadia Trailblaze Mission",
+    "uploader": "Nine's Own Wish ",
+    "url": "https://www.youtube.com/watch?v=BRkqk2SOpBY",
+    "views": 170,
+    "rejected": [],
+    "upload_date": "20260214"
+   },
+   {
     "seconds": 26247,
     "title": "Welcome to Arcadia (Full Trailblaze Story) | Honkai: Star Rail 4.0",
     "uploader": "Sir Patty",
@@ -7154,12 +7341,29 @@
     "upload_date": "20260218"
    },
    {
+    "seconds": 26931,
+    "title": "Honkai Star Rail 4.0 Planarcadia - Full Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=e224jsG86Hc",
+    "views": "18901",
+    "rejected": []
+   },
+   {
     "seconds": 28247,
     "title": "Honkai Star Rail Version 4.0 Trailblaze Mission Story Quest - Welcome to Arcadia",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=hvYjQuSZwTA",
     "views": "72500",
     "rejected": []
+   },
+   {
+    "seconds": 28758,
+    "title": "Honkai Star Rail 4.0 Planarcadia - Trailblaze Story Quest Full Walkthrough (HSR 4.0)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LIXpOpDSKNY",
+    "views": 165363,
+    "rejected": [],
+    "upload_date": "20260213"
    },
    {
     "seconds": 28840,
@@ -7186,6 +7390,14 @@
     "rejected": []
    },
    {
+    "seconds": 31641,
+    "title": "Honkai Star Rail 4.0 Planarcadia Trailblaze Story Quest | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=eJ5VC9fsCxA",
+    "views": "919",
+    "rejected": []
+   },
+   {
     "seconds": 35443,
     "title": "Honkai Star Rail 4.0 \u2013 Welcome to Arcadia Full Story \u2013 Trailblaze Mission",
     "uploader": "Kuroyukihime",
@@ -7196,16 +7408,16 @@
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 481,
+   "n": 12,
+   "median": 475,
    "low": 280,
    "high": 591,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 469,
+   "q1": 435,
+   "q3": 514,
+   "trimmed_mean": 472,
    "measured": 0,
    "parts": {},
-   "drift": -0.042
+   "drift": -0.054
   }
  },
  {
@@ -7241,8 +7453,7 @@
     "url": "https://www.youtube.com/watch?v=s8LRosEeMLk",
     "views": "7",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7263,8 +7474,7 @@
     "url": "https://www.youtube.com/watch?v=ach3QTIUHuo",
     "views": "5",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7294,8 +7504,7 @@
     "url": "https://www.youtube.com/watch?v=z5gVV_jyJn8",
     "views": "5",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7305,8 +7514,7 @@
     "url": "https://www.youtube.com/watch?v=k1V0mzL0mUk",
     "views": "5",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7316,8 +7524,7 @@
     "url": "https://www.youtube.com/watch?v=LbuBY4vBVEQ",
     "views": 3,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260709"
    },
@@ -7328,8 +7535,7 @@
     "url": "https://www.youtube.com/watch?v=VuBid14TDxA",
     "views": 2,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260712"
    },
@@ -7340,8 +7546,7 @@
     "url": "https://www.youtube.com/watch?v=DqycEo9UDwQ",
     "views": 7,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260715"
    },
@@ -7517,9 +7722,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=W5AIqKLAcM4",
     "views": 18514,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260325"
    },
    {
@@ -7529,8 +7732,7 @@
     "url": "https://www.youtube.com/watch?v=Ru4lVJPfTb8",
     "views": 9294,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260325"
    },
@@ -7540,9 +7742,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=QvVFP4LaJrY",
     "views": 120375,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260325"
    },
    {
@@ -7551,9 +7751,7 @@
     "uploader": "MashUp Gaming",
     "url": "https://www.youtube.com/watch?v=352lCHc0xMo",
     "views": 12,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260405"
    },
    {
@@ -7563,8 +7761,7 @@
     "url": "https://www.youtube.com/watch?v=ZeTvPqjN5LY",
     "views": "6806",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -7573,9 +7770,7 @@
     "uploader": "Ryo",
     "url": "https://www.youtube.com/watch?v=5HZnLw0-2DY",
     "views": 886,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260406"
    },
    {
@@ -7601,9 +7796,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=J-d42w4uDAY",
     "views": 645,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260327"
    },
    {
@@ -7613,8 +7806,7 @@
     "url": "https://www.youtube.com/watch?v=4UuyYq_k_Fo",
     "views": 17,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260325"
    }
@@ -7648,6 +7840,15 @@
     "upload_date": "20260325"
    },
    {
+    "seconds": 22710,
+    "title": "Honkai Star Rail 4.1 Planarcadia - Trailblaze Entire Story Quest Gameplay Walkthrough (HSR 4.1)",
+    "uploader": "Ryo",
+    "url": "https://www.youtube.com/watch?v=5HZnLw0-2DY",
+    "views": 886,
+    "rejected": [],
+    "upload_date": "20260406"
+   },
+   {
     "seconds": 23072,
     "title": "Unraveled for Daybreak - Trailblazer Mission (Full Main Story) | Honkai: Star Rail 4.1",
     "uploader": "Sir Patty",
@@ -7657,12 +7858,39 @@
     "upload_date": "20260331"
    },
    {
+    "seconds": 23249,
+    "title": "Honkai Star Rail 4.1   Trailblaze Story Quest Full Walkthrough",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=352lCHc0xMo",
+    "views": 12,
+    "rejected": [],
+    "upload_date": "20260405"
+   },
+   {
+    "seconds": 23299,
+    "title": "Honkai Star Rail 4.1 Planarcadia - Full Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=W5AIqKLAcM4",
+    "views": 18514,
+    "rejected": [],
+    "upload_date": "20260325"
+   },
+   {
     "seconds": 23861,
     "title": "Planarcadia Trailblaze Mission - Unraveled For Daybreak | Honkai Star Rail Version 4.1",
     "uploader": "TriMori",
     "url": "https://www.youtube.com/watch?v=ZWRFe9CDADk",
     "views": "1067",
     "rejected": []
+   },
+   {
+    "seconds": 24206,
+    "title": "Honkai Star Rail 4.1 - Trailblaze Story Quest Full Walkthrough (Male MC Caelus)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=QvVFP4LaJrY",
+    "views": 120375,
+    "rejected": [],
+    "upload_date": "20260325"
    },
    {
     "seconds": 24266,
@@ -7692,6 +7920,15 @@
     "upload_date": "20260514"
    },
    {
+    "seconds": 25636,
+    "title": "Honkai Star Rail 4.1 Planarcadia Trailblaze Story Quest | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=J-d42w4uDAY",
+    "views": 645,
+    "rejected": [],
+    "upload_date": "20260327"
+   },
+   {
     "seconds": 28329,
     "title": "Unraveled For Daybreak, Full Story Complete Walkthrough, Trailblaze Mission Honkai Star Rail 4.1",
     "uploader": "Kuroyukihime",
@@ -7701,16 +7938,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 398,
+   "n": 14,
+   "median": 393,
    "low": 288,
    "high": 472,
-   "q1": 371,
-   "q3": 414,
-   "trimmed_mean": 391,
+   "q1": 378,
+   "q3": 411,
+   "trimmed_mean": 395,
    "measured": 0,
    "parts": {},
-   "drift": 0.018
+   "drift": 0.005
   }
  },
  {
@@ -7826,9 +8063,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=aVKCC3sxW1U",
     "views": "16178",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3826,
@@ -7875,9 +8110,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=doXyREebk28",
     "views": "56560",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 15010,
@@ -8047,9 +8280,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=7a0iPensmAg",
     "views": 474,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260423"
    },
    {
@@ -8058,9 +8289,7 @@
     "uploader": "Kazuma Akimoto (Master Aki)",
     "url": "https://www.youtube.com/watch?v=lcJ7nBr9AfI",
     "views": "47",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 17635,
@@ -8068,9 +8297,7 @@
     "uploader": "Segiri",
     "url": "https://www.youtube.com/watch?v=7GoAVPUzF7Q",
     "views": 2351,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260422"
    },
    {
@@ -8080,8 +8307,7 @@
     "url": "https://www.youtube.com/watch?v=GR4xTxsru3E",
     "views": 5683,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260422"
    },
@@ -8092,8 +8318,7 @@
     "url": "https://www.youtube.com/watch?v=hPUFyASht_g",
     "views": "25",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -8112,8 +8337,7 @@
     "url": "https://www.youtube.com/watch?v=tuW6HScnXX0",
     "views": 264,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20260502"
    }
@@ -8169,6 +8393,14 @@
     "rejected": []
    },
    {
+    "seconds": 16851,
+    "title": "Honkai Star Rail 4.2 Planarcadia - Full Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=aVKCC3sxW1U",
+    "views": "16178",
+    "rejected": []
+   },
+   {
     "seconds": 17092,
     "title": "So Laughed the Masses - Version 4.2 Honkai Star Rail | Trailblaze Mission (Planarcadia)",
     "uploader": "Axus_Impact",
@@ -8191,6 +8423,32 @@
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=ZQkfl7BGvOw",
     "views": 221,
+    "rejected": [],
+    "upload_date": "20260423"
+   },
+   {
+    "seconds": 17635,
+    "title": "Honkai Star Rail 4.2 (JP Dub) - Full New Planarcadia Trailblaze Story Quest",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=7GoAVPUzF7Q",
+    "views": 2351,
+    "rejected": [],
+    "upload_date": "20260422"
+   },
+   {
+    "seconds": 17716,
+    "title": "Honkai Star Rail 4.2 - Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=doXyREebk28",
+    "views": "56560",
+    "rejected": []
+   },
+   {
+    "seconds": 18122,
+    "title": "Honkai Star Rail 4.2 Planarcadia Trailblaze Story Quest | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=7a0iPensmAg",
+    "views": 474,
     "rejected": [],
     "upload_date": "20260423"
    },
@@ -8218,19 +8476,27 @@
     "url": "https://www.youtube.com/watch?v=TwtWofYSIlg",
     "views": "151",
     "rejected": []
+   },
+   {
+    "seconds": 19660,
+    "title": "Honkai Star Rail 4.2 Planarcadia Trailblaze Quest Walkthrough (Full)",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=lcJ7nBr9AfI",
+    "views": "47",
+    "rejected": []
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 280,
+   "n": 17,
+   "median": 286,
    "low": 214,
-   "high": 327,
-   "q1": 253,
-   "q3": 301,
-   "trimmed_mean": 276,
+   "high": 328,
+   "q1": 265,
+   "q3": 303,
+   "trimmed_mean": 284,
    "measured": 0,
    "parts": {},
-   "drift": 0.014
+   "drift": 0.036
   }
  },
  {
@@ -8425,7 +8691,7 @@
     "url": "https://www.youtube.com/watch?v=RNtunDA20h0",
     "views": "37690",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -8434,9 +8700,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=RGZ2sgMXFdU",
     "views": 8974,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260601"
    },
    {
@@ -8454,9 +8718,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=Hiz6gxHjH00",
     "views": 52792,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260601"
    },
    {
@@ -8572,9 +8834,7 @@
     "uploader": "Ryo",
     "url": "https://www.youtube.com/watch?v=k4Rs4mIou28",
     "views": "704",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 4346,
@@ -8583,8 +8843,7 @@
     "url": "https://www.youtube.com/watch?v=lU1mAjRjLLA",
     "views": "4659",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -8593,10 +8852,7 @@
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=tmQyGHDqVrM",
     "views": "25",
-    "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 16253,
@@ -8604,9 +8860,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=b5iJGAxC9eo",
     "views": "469",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 7616,
@@ -8634,8 +8888,7 @@
     "url": "https://www.youtube.com/watch?v=UIUnJ7md6M4",
     "views": "85",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -8672,8 +8925,7 @@
     "url": "https://www.youtube.com/watch?v=OAC5Xzp-Cnc",
     "views": "3",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    }
   ],
@@ -8743,6 +8995,14 @@
     "upload_date": "20260601"
    },
    {
+    "seconds": 14298,
+    "title": "Illusion of the End - Trailblazer Mission (Full Main Story) | Honkai: Star Rail 4.3",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=tmQyGHDqVrM",
+    "views": "25",
+    "rejected": []
+   },
+   {
     "seconds": 14592,
     "title": "HSR Trailblaze Main Story Part 30 - The Lethe Below the Living Full Gameplay | Honkai: Star Rail 4.3",
     "uploader": "Akabirama",
@@ -8777,11 +9037,28 @@
     "rejected": []
    },
    {
+    "seconds": 15094,
+    "title": "Honkai Star Rail 4.3 Planarcadia - Full Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=RGZ2sgMXFdU",
+    "views": 8974,
+    "rejected": [],
+    "upload_date": "20260601"
+   },
+   {
     "seconds": 15206,
     "title": "[4.3 Trailblaze Mission]  The Lethe Below the Living | Chinese Dub | Honkai: Star Rail",
     "uploader": "Lake",
     "url": "https://www.youtube.com/watch?v=Y3qUNI-V2Jw",
     "views": "71",
+    "rejected": []
+   },
+   {
+    "seconds": 15323,
+    "title": "Honkai Star Rail 4.3 Planarcadia - Trailblaze Full Story Quest Gameplay Walkthrough (HSR 4.3)",
+    "uploader": "Ryo",
+    "url": "https://www.youtube.com/watch?v=k4Rs4mIou28",
+    "views": "704",
     "rejected": []
    },
    {
@@ -8810,6 +9087,15 @@
     "rejected": []
    },
    {
+    "seconds": 15658,
+    "title": "Honkai Star Rail 4.3 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Hiz6gxHjH00",
+    "views": 52792,
+    "rejected": [],
+    "upload_date": "20260601"
+   },
+   {
     "seconds": 15805,
     "title": "THE LETHE BELOW THE LIVING | Honkai Star Rail - Version 4.3 Main Trailblaze Mission Quest",
     "uploader": "DIABLO PLAY'S ",
@@ -8825,6 +9111,14 @@
     "views": 122,
     "rejected": [],
     "upload_date": "20260601"
+   },
+   {
+    "seconds": 16253,
+    "title": "Honkai Star Rail 4.3 Planarcadia Trailblaze Story Quest | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=b5iJGAxC9eo",
+    "views": "469",
+    "rejected": []
    },
    {
     "seconds": 16542,
@@ -8867,16 +9161,16 @@
    }
   ],
   "stats": {
-   "n": 20,
-   "median": 251,
+   "n": 25,
+   "median": 253,
    "low": 146,
    "high": 319,
-   "q1": 229,
-   "q3": 265,
-   "trimmed_mean": 250,
+   "q1": 234,
+   "q3": 264,
+   "trimmed_mean": 252,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.008
   }
  },
  {
@@ -9228,9 +9522,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=fyR69N7AbcQ",
     "views": "35268",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 4017,
@@ -9239,8 +9531,7 @@
     "url": "https://www.youtube.com/watch?v=uEncwvx6KIQ",
     "views": "3257",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -9268,7 +9559,7 @@
     "url": "https://www.youtube.com/watch?v=1wmJScndfBY",
     "views": 20,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260715"
    },
@@ -9278,9 +9569,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=JYdPrWzJ25I",
     "views": 672,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260715"
    },
    {
@@ -9307,8 +9596,7 @@
     "url": "https://www.youtube.com/watch?v=JQA2MQraPdQ",
     "views": "11157",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -9335,9 +9623,7 @@
     "uploader": "Lotus Ch.",
     "url": "https://www.youtube.com/watch?v=IFZFpxyXP4A",
     "views": 45,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260715"
    },
    {
@@ -9347,8 +9633,7 @@
     "url": "https://www.youtube.com/watch?v=HVLWmTM0gE8",
     "views": "107",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -9358,8 +9643,7 @@
     "url": "https://www.youtube.com/watch?v=ZoLnQg83AmM",
     "views": "64",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -9368,9 +9652,7 @@
     "uploader": "Segiri",
     "url": "https://www.youtube.com/watch?v=sGSK6atEqMs",
     "views": 2460,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260715"
    }
   ],
@@ -9462,11 +9744,37 @@
     "rejected": []
    },
    {
+    "seconds": 15707,
+    "title": "Trailblaze Mission Main Story Quest (Full Story) | Honkai Star Rail 4.4",
+    "uploader": "Lotus Ch.",
+    "url": "https://www.youtube.com/watch?v=IFZFpxyXP4A",
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260715"
+   },
+   {
+    "seconds": 15785,
+    "title": "Honkai Star Rail Japanese Dub 4.4  - Full New Planarcadia Trailblaze Story Quest",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=sGSK6atEqMs",
+    "views": 2460,
+    "rejected": [],
+    "upload_date": "20260715"
+   },
+   {
     "seconds": 15848,
     "title": "In Ravages Does the Whistle Sound (Part 1).",
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=SDGEjwqMlHw",
     "views": "25",
+    "rejected": []
+   },
+   {
+    "seconds": 15934,
+    "title": "Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Full Walkthrough (HSR 4.4)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=fyR69N7AbcQ",
+    "views": "35268",
     "rejected": []
    },
    {
@@ -9502,6 +9810,15 @@
     "url": "https://www.youtube.com/watch?v=qKkbF_k1th0",
     "views": "54",
     "rejected": []
+   },
+   {
+    "seconds": 16843,
+    "title": "Honkai Star Rail 4.4 Planarcadia Trailblaze Story Quest | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=JYdPrWzJ25I",
+    "views": 672,
+    "rejected": [],
+    "upload_date": "20260715"
    },
    {
     "seconds": 16905,
@@ -9549,13 +9866,13 @@
    }
   ],
   "stats": {
-   "n": 19,
+   "n": 23,
    "median": 264,
    "low": 233,
    "high": 356,
-   "q1": 253,
-   "q3": 282,
-   "trimmed_mean": 273,
+   "q1": 254,
+   "q3": 281,
+   "trimmed_mean": 269,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -9586,7 +9903,9 @@
     "uploader": "Arie seventline",
     "url": "https://www.youtube.com/watch?v=zZeqMqmtA94",
     "views": 187,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260826"
    },
    {
@@ -9734,9 +10053,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=XJ312xMAY78",
     "views": 11855,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -9783,9 +10100,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=4lsrtrQcOe0",
     "views": 46172,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -9804,8 +10119,7 @@
     "url": "https://www.youtube.com/watch?v=BlIGKKluNUk",
     "views": 14808,
     "rejected": [
-     "multi-act",
-     "act-mismatch"
+     "multi-act"
     ],
     "upload_date": "20260826"
    },
@@ -9815,9 +10129,7 @@
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=jTOaNTG6Ops",
     "views": 44601,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -9826,9 +10138,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=XZhc0iPa8jI",
     "views": 523,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -9838,7 +10148,7 @@
     "url": "https://www.youtube.com/watch?v=RjZjAFPyOTc",
     "views": 37,
     "rejected": [
-     "act-mismatch"
+     "same-uploader"
     ],
     "upload_date": "20260826"
    },
@@ -9849,7 +10159,7 @@
     "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
     "views": 41708,
     "rejected": [
-     "act-mismatch"
+     "same-uploader"
     ],
     "upload_date": "20260826"
    },
@@ -9859,9 +10169,7 @@
     "uploader": "Arie seventline",
     "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
     "views": 735,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -9870,9 +10178,7 @@
     "uploader": "Kazuma Akimoto (Master Aki)",
     "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
     "views": 434,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260828"
    },
    {
@@ -9882,8 +10188,7 @@
     "url": "https://www.youtube.com/watch?v=sSVeLZBFnlc",
     "views": "14523",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -10025,6 +10330,15 @@
     "upload_date": "20260828"
    },
    {
+    "seconds": 11472,
+    "title": "HSR 4.5 Planarcadia Main Story - Full Playthrough (Honkai Star Rail)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=jTOaNTG6Ops",
+    "views": 44601,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
     "seconds": 11504,
     "title": "Playing \"To Roll the Stars in Astropolis\" HSR 4.5 Trailblaze Mission Full Playthrough",
     "uploader": "void",
@@ -10034,6 +10348,15 @@
     "upload_date": "20260829"
    },
    {
+    "seconds": 11676,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis - Full NEW Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=XJ312xMAY78",
+    "views": 11855,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
     "seconds": 11787,
     "title": "Honkai Star Rail 4.5 Trailblaze Mission \"To Roll the Stars in Astropolis\" Playthrough",
     "uploader": "SilverWolfNSFW",
@@ -10041,6 +10364,15 @@
     "views": 6,
     "rejected": [],
     "upload_date": "20260827"
+   },
+   {
+    "seconds": 12056,
+    "title": "Robin & Aventurine Story Quest  | Honkai Star Rail 4.5 Trailblaze Continuance",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
+    "views": 735,
+    "rejected": [],
+    "upload_date": "20260826"
    },
    {
     "seconds": 12110,
@@ -10061,11 +10393,11 @@
     "upload_date": "20260826"
    },
    {
-    "seconds": 12206,
-    "title": "Main Story Full Walkthrough | Honkai Star Rail 4.5 | To Roll the Stars in Astropolis",
-    "uploader": "Arie seventline",
-    "url": "https://www.youtube.com/watch?v=zZeqMqmtA94",
-    "views": 187,
+    "seconds": 12205,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=4lsrtrQcOe0",
+    "views": 46172,
     "rejected": [],
     "upload_date": "20260826"
    },
@@ -10106,6 +10438,24 @@
     "upload_date": "20260916"
    },
    {
+    "seconds": 13199,
+    "title": "Honkai Star Rail 4.5 Planarcadia Trailblaze Story Quest | HSR JP Voice",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=XZhc0iPa8jI",
+    "views": 523,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 13278,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
+    "views": 434,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
     "seconds": 13421,
     "title": "We need to ESCAPE! \u2727 To Roll the Stars in Astropolis \u2726 Honkai: Star Rail 4.5",
     "uploader": "Eve_ningMusic",
@@ -10125,13 +10475,13 @@
    }
   ],
   "stats": {
-   "n": 18,
-   "median": 199,
+   "n": 23,
+   "median": 201,
    "low": 177,
    "high": 244,
-   "q1": 186,
-   "q3": 207,
-   "trimmed_mean": 198,
+   "q1": 190,
+   "q3": 212,
+   "trimmed_mean": 199,
    "measured": 0,
    "parts": {},
    "drift": null
@@ -10213,9 +10563,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=LwBVHHywpbs",
     "views": "27864",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 255,
@@ -10224,8 +10572,7 @@
     "url": "https://www.youtube.com/watch?v=mL2XGsxjH_w",
     "views": "11",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -10234,9 +10581,7 @@
     "uploader": "Abyss Breakdown",
     "url": "https://www.youtube.com/watch?v=TV-XFcfKUn8",
     "views": "11015",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 201,
@@ -10245,7 +10590,7 @@
     "url": "https://www.youtube.com/watch?v=LvZc7pm4Udk",
     "views": "4300",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -10255,7 +10600,7 @@
     "url": "https://www.youtube.com/watch?v=KDJWGT3clV4",
     "views": "24639",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -10376,9 +10721,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=_AU5-Hu7iHM",
     "views": "373",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 92,
@@ -10387,7 +10730,7 @@
     "url": "https://www.youtube.com/watch?v=_SEcm6o7RFc",
     "views": "2017",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -10408,8 +10751,7 @@
     "url": "https://www.youtube.com/watch?v=WA6bc0wpTV4",
     "views": "320",
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -10426,9 +10768,7 @@
     "uploader": "Kazuma Akimoto (Master Aki)",
     "url": "https://www.youtube.com/watch?v=fbmOu3b65nA",
     "views": "54",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 11676,
@@ -10560,6 +10900,14 @@
     "rejected": []
    },
    {
+    "seconds": 11450,
+    "title": "HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=TV-XFcfKUn8",
+    "views": "11015",
+    "rejected": []
+   },
+   {
     "seconds": 11883,
     "title": "Dance With the Beast Before Moonrise - Act V: Part VII (Full story) | Honkai: Star Rail 4.6",
     "uploader": "Sir Patty",
@@ -10608,11 +10956,35 @@
     "rejected": []
    },
    {
+    "seconds": 12625,
+    "title": "Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LwBVHHywpbs",
+    "views": "27864",
+    "rejected": []
+   },
+   {
     "seconds": 12843,
     "title": "\u300eHonkai Star Rail\u300f4.6 ''Dance With The Beast Before Moonrise'' \u2742 New Story Quest Full Walkthrough",
     "uploader": "HEUBIOUS",
     "url": "https://www.youtube.com/watch?v=qkoLqUEOyVg",
     "views": "35",
+    "rejected": []
+   },
+   {
+    "seconds": 12933,
+    "title": "Honkai Star Rail 4.6 Planarcadia Trailblaze Story Quest | HSR JP Voice",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=_AU5-Hu7iHM",
+    "views": "373",
+    "rejected": []
+   },
+   {
+    "seconds": 13809,
+    "title": "Honkai Star Rail 4.6 Trailblaze Quest (full walkthrough)",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=fbmOu3b65nA",
+    "views": "54",
     "rejected": []
    },
    {
@@ -10633,13 +11005,13 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 205,
+   "n": 17,
+   "median": 206,
    "low": 120,
    "high": 256,
-   "q1": 187,
-   "q3": 212,
-   "trimmed_mean": 201,
+   "q1": 190,
+   "q3": 215,
+   "trimmed_mean": 204,
    "measured": 0,
    "parts": {},
    "drift": null

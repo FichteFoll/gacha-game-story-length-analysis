@@ -389,6 +389,67 @@ def version_keys(workdir, acts):
     return {chapter: sorted(brands) for chapter, brands in keys.items()}
 
 
+def spelled(text):
+    """`Honkai: Star Rail` -> `honkai star rail`, for comparing names."""
+    return " ".join(re.findall(r"[a-z0-9]+", text.lower()))
+
+
+def patch_re(number):
+    """`4.6` as a patch number in a title, not as part of `14.6` or `4.65`."""
+    return re.compile(rf"(?<![\d.]){re.escape(number)}(?!\.?\d)")
+
+
+def version_pin_test(workdir, acts, chapter_keys):
+    """`(act, title) -> the patch number alone says this is the act`.
+
+    Recent uploads are often titled by nothing but the patch ("HSR 4.6 Main
+    Story"), which carries neither act-title words nor an act number. Where the
+    act list has exactly one act shipping in a version, that version's number
+    names it as well as its title would. A version that shipped several acts
+    pins none of them, and so does a version known only by name rather than by
+    number, since an event can share the name.
+
+    A patch number means nothing without the game it is a patch of, so the
+    title must also spell out the game's name (game.txt): the search results
+    carry other games' "Ver 7.3" as well, and the titles that abbreviate the
+    name ("ZZZ 3.0 story quest") included a gacha-pull stream and an epilogue
+    bundled with a side quest. And it must not point anywhere else: not at a
+    second patch number, not at another act's title and not at another
+    chapter's identifiers, which keeps a compilation of two patches or a recap
+    naming an older act out. Everything else screening checks still applies.
+    """
+    game = spelled(" ".join(extra_patterns(workdir, "game.txt")))
+    versions = load_json(workdir, "versions.json")
+    index = load_json(workdir, "version_index.json")
+    number_of = {name: v.get("number") for name, v in index.items()}
+    shipped = {}
+    for act in acts:
+        number = number_of.get(versions.get(act["act_title"]))
+        if number and re.fullmatch(r"\d+\.\d+", number):
+            shipped.setdefault(number, []).append(act)
+    patches = {number: patch_re(number) for number in shipped}
+    pinned_by = {id(group[0]): number for number, group in shipped.items()
+                 if len(group) == 1}
+
+    def is_this_act(act, title):
+        number = pinned_by.get(id(act))
+        if number is None or not patches[number].search(title) \
+                or not game or game not in spelled(title):
+            return False
+        if any(other != number and regex.search(title)
+               for other, regex in patches.items()):
+            return False
+        if any(other is not act and matches_act_title(title, other["act_title"])
+               for other in acts):
+            return False
+        low = title.lower()
+        return not any(k.lower() in low
+                       for chapter, keys in chapter_keys.items()
+                       if chapter != act["chapter_id"] for k in keys)
+
+    return is_this_act
+
+
 def load_json(workdir, name):
     path = workdir / name
     return json.loads(path.read_text()) if path.exists() else {}
@@ -492,8 +553,8 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, act_keys, reject, compilation,
-                   pin, partial, enriched, parts, floor=0):
+def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
+                   compilation, pin, partial, enriched, parts, floor=0):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -515,7 +576,8 @@ def candidates_for(act, workdir, chapter_keys, act_keys, reject, compilation,
         if not act_keys(act, title) \
                 or (pinned and number is not None and number not in pinned) \
                 or not (matches_act_title(title, act["act_title"])
-                        or matches_act_number(title, act, chapter_keys)):
+                        or matches_act_number(title, act, chapter_keys)
+                        or version_pin(act, title)):
             reasons.append("act-mismatch")
         row = dict(seconds=int(f[0]), title=title, uploader=f[2], url=f[3],
                    views=f[4] if len(f) > 4 else "NA", rejected=reasons)
@@ -796,6 +858,9 @@ def main(argv):
     baseline = load_baseline(compare) if compare else {}
     acts = load_acts(workdir)
     chapter_keys = load_json(workdir, "chapter_keys.json")
+    # Taken before the version brands join the keys: they are what the version
+    # pin checks with its own, boundary-aware patterns.
+    version_pin = version_pin_test(workdir, acts, dict(chapter_keys))
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     act_keys = act_key_test(workdir)
@@ -810,8 +875,9 @@ def main(argv):
     out = []
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
-        rows = candidates_for(act, workdir, chapter_keys, act_keys, reject,
-                              compilation, pin, partial, enriched, parts, floor)
+        rows = candidates_for(act, workdir, chapter_keys, act_keys, version_pin,
+                              reject, compilation, pin, partial, enriched, parts,
+                              floor)
         collapse_reuploads(rows)
         mark_splits(rows)
         readmit_partials(rows)

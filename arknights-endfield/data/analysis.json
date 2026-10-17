@@ -4945,9 +4945,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=db55_nc7P4k",
     "views": 14283,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260319"
    },
    {
@@ -4994,9 +4992,7 @@
     "uploader": "Nine's Own Wish ",
     "url": "https://www.youtube.com/watch?v=-Tq-C5mbEVA",
     "views": 208,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260312"
    },
    {
@@ -5108,7 +5104,7 @@
     "url": "https://www.youtube.com/watch?v=RmbQhc4DTBw",
     "views": 1054,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260317"
    },
@@ -5305,6 +5301,15 @@
     }
    },
    {
+    "seconds": 10604,
+    "title": "Arknights Endfield 1.1 Full Story Quest Playthrough",
+    "uploader": "Nine's Own Wish ",
+    "url": "https://www.youtube.com/watch?v=-Tq-C5mbEVA",
+    "views": 208,
+    "rejected": [],
+    "upload_date": "20260312"
+   },
+   {
     "seconds": 10891,
     "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 3: The Long Feud",
     "uploader": "Gelo Gaming",
@@ -5369,16 +5374,25 @@
     "views": 78,
     "rejected": [],
     "upload_date": "20260315"
+   },
+   {
+    "seconds": 12514,
+    "title": "Arknights Endfield 1.1 - Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=db55_nc7P4k",
+    "views": 14283,
+    "rejected": [],
+    "upload_date": "20260319"
    }
   ],
   "stats": {
-   "n": 11,
+   "n": 13,
    "median": 182,
    "low": 135,
-   "high": 206,
-   "q1": 168,
-   "q3": 201,
-   "trimmed_mean": 183,
+   "high": 209,
+   "q1": 170,
+   "q3": 202,
+   "trimmed_mean": 185,
    "measured": 3,
    "parts": {
     "Unexpected Attack": 11,
@@ -7355,9 +7369,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
     "views": "28422",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 126,
@@ -7366,8 +7378,7 @@
     "url": "https://www.youtube.com/watch?v=P4PlxVzSmxw",
     "views": "85",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7407,8 +7418,7 @@
     "url": "https://www.youtube.com/watch?v=yqlDvzNnT84",
     "views": "231462",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7430,8 +7440,7 @@
     "url": "https://www.youtube.com/watch?v=HpGAQqgSDFI",
     "views": "393",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7457,20 +7466,13 @@
     "upload_date": "20260730"
    },
    {
-    "seconds": 1148,
+    "seconds": 15648,
     "title": "Arknights: Endfield Version 1.4 - FULL Main Story Quest Walkthrough",
     "uploader": "Kuroakumoplaz",
     "url": "https://www.youtube.com/watch?v=qug4R09XQj0",
     "views": 36,
-    "rejected": [
-     "short-outlier"
-    ],
-    "upload_date": "20260724",
-    "runtime": 15648,
-    "measured": "chapter-markers",
-    "parts": {
-     "\"Homecoming\"": 1148
-    }
+    "rejected": [],
+    "upload_date": "20260724"
    },
    {
     "seconds": 14685,
@@ -7550,6 +7552,15 @@
     "upload_date": "20260718"
    },
    {
+    "seconds": 15648,
+    "title": "Arknights: Endfield Version 1.4 - FULL Main Story Quest Walkthrough",
+    "uploader": "Kuroakumoplaz",
+    "url": "https://www.youtube.com/watch?v=qug4R09XQj0",
+    "views": 36,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
     "seconds": 15874,
     "title": "[Arknights: Endfield 1.4] Chapter 2: Process 7 - Ruins in the Miasma | Full Story Playthrough",
     "uploader": "EllooTV",
@@ -7603,6 +7614,14 @@
     "rejected": []
    },
    {
+    "seconds": 17243,
+    "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
+    "views": "28422",
+    "rejected": []
+   },
+   {
     "seconds": 24272,
     "title": "Main Story Quest \"Ruins in the Miasma\"! [Arknights: Endfield v1.4]",
     "uploader": "EmperorNasch",
@@ -7621,13 +7640,13 @@
    }
   ],
   "stats": {
-   "n": 11,
+   "n": 13,
    "median": 274,
    "low": 137,
    "high": 439,
-   "q1": 245,
-   "q3": 284,
-   "trimmed_mean": 279,
+   "q1": 250,
+   "q3": 286,
+   "trimmed_mean": 278,
    "measured": 1,
    "parts": {},
    "drift": 0.0

@@ -17,11 +17,11 @@ to close the rifts the miasma grew out of.
 | --- | --- | --- | --- | --- | --- |
 | Process I | Lost in the Marsh | 1 h 24 min | 1 h 10 min - 1 h 42 min | 16 | medium |
 | Process II | The Way of Water | 1 h 50 min | 1 h 33 min - 2 h 07 min | 12 | medium |
-| Process III | The Long Feud | 3 h 02 min | 2 h 48 min - 3 h 21 min | 11 | high |
+| Process III | The Long Feud | 3 h 02 min | 2 h 50 min - 3 h 22 min | 13 | high |
 | Process IV | Tales of Old | 1 h 40 min | 1 h 24 min - 1 h 53 min | 12 | medium |
 | Process V | Wrothful Tide | 1 h 03 min | 58 min - 1 h 06 min | 15 | high |
 | Process VI | Ponderous Load | 1 h 37 min | 1 h 30 min - 1 h 39 min | 16 | high |
-| Process VII | Ruins in the Miasma | 4 h 34 min | 4 h 05 min - 4 h 44 min | 11 | high |
+| Process VII | Ruins in the Miasma | 4 h 34 min | 4 h 10 min - 4 h 46 min | 13 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->15 h 10 min<!--/f-->**
@@ -141,11 +141,11 @@ first for the truth of the uprising and then for Ruan Yi's loyalists.
 One of the three longest processes in the game.
 
 - **Estimated length:** 3 h 02 min
-- **Sampled range:** 2 h 48 min to 3 h 21 min for the middle half (full spread 2 h 15 min to 3 h 26 min) across 11 playthrough uploads (30 further candidates screened out)
+- **Sampled range:** 2 h 50 min to 3 h 22 min for the middle half (full spread 2 h 15 min to 3 h 29 min) across 13 playthrough uploads (28 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Old Deep Water Dies, by Rising Tide It is Denied (1.1)
 - **Stability:** median +3% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 11 uploads
+- **Measured from the uploader's chapter markers:** 3 of 13 uploads
 - **Quest parts (9):** Unexpected Attack (11 min); Deep in the Mire (18 min); The Flow Splits Course (41 min); Surging From a Withered Spring (15 min); A River Restless in Still Winds (11 min); Another Wave Comes Crashing In (18 min); Ripples Spread Throughout the Flow (6 min); Purity Reveals the Stubborn Stone (31 min); 'Twas One River That Gave Us Drink (18 min)
 <!--/gen-->
 
@@ -160,12 +160,14 @@ One of the three longest processes in the game.
 | 2 h 48 min | Arknights Endfield 1.1 Main Story - Full Chapter 2 Process 3 Full Playthrough (No Commentary) | Fizlen | 172 | 2026-03-13 | <https://www.youtube.com/watch?v=OvVlFTJPC_U> |
 | 2 h 52 min | Arknights Endfield Version 1.1 Main Story Quest "The Long Feud" | Kuroakumoplaz | ~28 | n/a | <https://www.youtube.com/watch?v=rcyuv3vAXl4> |
 | 2 h 56 min | [Arknights: Endfield 1.1] Chapter 2: Process 3 - The Long Feud \| Full Story Playthrough | EllooTV | 3 | 2026-05-22 | <https://www.youtube.com/watch?v=LwRpQDFrO6A> |
+| 2 h 57 min | Arknights Endfield 1.1 Full Story Quest Playthrough | Nine's Own Wish  | 208 | 2026-03-12 | <https://www.youtube.com/watch?v=-Tq-C5mbEVA> |
 | 3 h 02 min | [Arknights: Endfield - Main Mission] Chapter 2 Process 3: The Long Feud | Gelo Gaming | ~7 | n/a | <https://www.youtube.com/watch?v=9y8POvjfqOw> |
 | 3 h 04 min | Version 1.1 Main Story QUEST - The Long Feud \| Arknights Endfield | NeoBuns | 75 | 2026-03-13 | <https://www.youtube.com/watch?v=4b-Qbg8XPYI> |
 | 3 h 20 min | Arknights: Endfield 1.1 Gameplay \| The Long Feud Main Story Quest Full Playthrough (No Commentary) | BlazzerSora | 383 | 2026-03-15 | <https://www.youtube.com/watch?v=B05JUsWBY_U> |
 | 3 h 21 min | Arknights Endfield 1.1: Chapter 2 Process 3 FULL Story Playthrough (No Commentary) | Life is Wakaranai | 181 | 2026-03-14 | <https://www.youtube.com/watch?v=l31CaW28olA> |
 | 3 h 23 min | [Arknights: Endfield] - Version 1.1 Main Story Quest - Chapter 2 Process 3 "The Long Feud" | Just Another Internet Neko | 37 | 2026-03-12 | <https://www.youtube.com/watch?v=VqBGOprFDdc> |
 | 3 h 26 min | Arknights: Enfield 1.1 - Full Main Story Quest "The Long Feud" (Part-3) Chapter 3 | BSS Gaming | 78 | 2026-03-15 | <https://www.youtube.com/watch?v=aL0CNc1kynU> |
+| 3 h 29 min | Arknights Endfield 1.1 - Main Story Quest Full Walkthrough | Rubhen925 | 14,283 | 2026-03-19 | <https://www.youtube.com/watch?v=db55_nc7P4k> |
 
 </details>
 <!--/gen-->
@@ -311,11 +313,11 @@ on the way to the Wuling Very Large Rift.
 The single longest process in the game.
 
 - **Estimated length:** 4 h 34 min
-- **Sampled range:** 4 h 05 min to 4 h 44 min for the middle half (full spread 2 h 17 min to 7 h 19 min) across 11 playthrough uploads (27 further candidates screened out)
+- **Sampled range:** 4 h 10 min to 4 h 46 min for the middle half (full spread 2 h 17 min to 7 h 19 min) across 13 playthrough uploads (25 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Homecoming (1.4)
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 11 uploads
+- **Measured from the uploader's chapter markers:** 1 of 13 uploads
 - **Quest parts (9):** Bravely Breach the Hostile Winds; Thus Begins the Homeward March; A Past Shared by the Swordmancers; Same Old Faces in a Place Transformed; Warily Returns the Wandering Vigile; Finally Breaks the Hanging Clouds; "Homecoming"; Stubbornly Lingers the Setting Sun; Freedom of Expansion
 <!--/gen-->
 
@@ -329,11 +331,13 @@ The single longest process in the game.
 | 3 h 44 min | Ruins in the Miasma - Chapter II - Process VII (Full Mission) \| Arknights: Endfield 1.4 | Sir Patty | 25 | 2026-07-21 | <https://www.youtube.com/watch?v=0O2dlkP5Kc8> |
 | 4 h 05 min | Endfield Main Story Chapter 2: Process 7 Ruins in the Miasma Full Game \| Arknights: Endfield 1.4 | Akabirama | 158 | 2026-07-17 | <https://www.youtube.com/watch?v=dIq5cDghSKI> |
 | 4 h 16 min | [ ARKNIGHTS: ENDFIELD ] Chapter II: Process VII - RUINS IN THE MIASMA [ FULL STORY / NO COMMENTARY ] | Uranium Tea Gaming | 45 | 2026-07-18 | <https://www.youtube.com/watch?v=OZW8huQ3i_0> |
+| 4 h 21 min | Arknights: Endfield Version 1.4 - FULL Main Story Quest Walkthrough | Kuroakumoplaz | 36 | 2026-07-24 | <https://www.youtube.com/watch?v=qug4R09XQj0> |
 | 4 h 25 min | [Arknights: Endfield 1.4] Chapter 2: Process 7 - Ruins in the Miasma \| Full Story Playthrough | EllooTV | ~15 | n/a | <https://www.youtube.com/watch?v=sEzj1YleZl0> |
 | 4 h 34 min | Version 1.4 Full Main Story Quest - Ruins in the Miasma \| Arknights Endfield | NeoBuns | 211 | 2026-07-20 | <https://www.youtube.com/watch?v=Gp4W0CVv6ww> |
 | 4 h 36 min | Arknights: Endfield \| Ep38 \| Chapter 2: Process 7 - Ruins in the Miasma | ZeroNemeziz | 57 | 2026-07-16 | <https://www.youtube.com/watch?v=RUIhgBDHMr4> |
 | 4 h 40 min | Arknights Endfield - Day 199 (Chapter II: Process VII - Ruins in the Miasma) No comment No cuts | 23Gameplays | ~4 | n/a | <https://www.youtube.com/watch?v=z9JQfSOzX1w> |
 | 4 h 44 min | Main Story Chapter 2 Process 7: "Ruins in the Miasma" FULL Playthrough \| Arknights Endfield | Shukashuu Gaming | ~472 | n/a | <https://www.youtube.com/watch?v=sV7s0MSxMx8> |
+| 4 h 47 min | Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough | Rubhen925 | ~28,422 | n/a | <https://www.youtube.com/watch?v=uk1nT2kivZo> |
 | 6 h 45 min | Main Story Quest "Ruins in the Miasma"! [Arknights: Endfield v1.4] | EmperorNasch | 37 | 2026-07-21 | <https://www.youtube.com/watch?v=Dv4j7YGmZCQ> |
 | 7 h 19 min | Arknights: Endfield Walkthrough part 38 ~Ver 1.4~ Ruins in the Miasma Story Quest (Japanese Voices) | RedRawNes | ~51 | n/a | <https://www.youtube.com/watch?v=ij9R1pnhrmA> |
 

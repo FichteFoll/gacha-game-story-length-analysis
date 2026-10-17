@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Xianzhou Luofu
 
-**Region:** The Xianzhou Luofu | **Game versions:** 1.0 - 1.3 | **Entries:** 3 | **Estimated chapter length: 6 h 45 min**
+**Region:** The Xianzhou Luofu | **Game versions:** 1.0 - 1.3 | **Entries:** 3 | **Estimated chapter length: 6 h 39 min**
 <!--/gen-->
 
 A generation ship of immortals with a Stellaron in its hold
@@ -15,16 +15,16 @@ and it takes all three missions for that reason to surface.
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Windswept Wanderlust | 3 h 29 min | 2 h 42 min - 4 h 26 min | 8 | low |
-| Mission 2 | Topclouded Towerthrust | 2 h 00 min | 1 h 44 min - 2 h 21 min | 10 | medium |
-| Mission 3 | Karmic Clouds Faded, War Banners Folded | 1 h 16 min | 57 min - 1 h 22 min | 9 | medium |
+| Mission 2 | Topclouded Towerthrust | 2 h 01 min | 1 h 42 min - 2 h 23 min | 13 | medium |
+| Mission 3 | Karmic Clouds Faded, War Banners Folded | 1 h 09 min | 51 min - 1 h 21 min | 12 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->6 h 45 min<!--/f-->**
+**Total: <!--f:total-->6 h 39 min<!--/f-->**
 
 ## Pacing
 
 A long opening mission and then a steep taper:
-<!--f:len_Mission_1-->3 h 29 min<!--/f-->, <!--f:len_Mission_2-->2 h 00 min<!--/f-->, <!--f:len_Mission_3-->1 h 16 min<!--/f-->.
+<!--f:len_Mission_1-->3 h 29 min<!--/f-->, <!--f:len_Mission_2-->2 h 01 min<!--/f-->, <!--f:len_Mission_3-->1 h 09 min<!--/f-->.
 The Luofu was released over four versions rather than in one drop,
 and the last mission is an epilogue of
 <!--f:parts_Mission_3-->one<!--/f--> quest part,
@@ -81,12 +81,12 @@ finally surfaces.
 <!--gen:stats act="Mission 2"-->
 One of the three shortest entries in the questline.
 
-- **Estimated length:** 2 h 00 min
-- **Sampled range:** 1 h 44 min to 2 h 21 min for the middle half (full spread 1 h 33 min to 3 h 23 min) across 10 playthrough uploads (10 further candidates screened out)
+- **Estimated length:** 2 h 01 min
+- **Sampled range:** 1 h 42 min to 2 h 23 min for the middle half (full spread 1 h 33 min to 3 h 23 min) across 13 playthrough uploads (7 further candidates screened out)
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 1.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 - **Quest parts (5):** Desolate Depths of Despair; Dragon Mislay, Dreams Astray; Oblation Obtained, Order Ordained; A Dragon Gallant, Its Ocean Distant; Demise of Immortality, Finale of Calamity
 <!--/gen-->
 
@@ -97,14 +97,17 @@ One of the three shortest entries in the questline.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 33 min | Topclouded Towerthrust (Full Story Quest) Trailblaze Mission \| Honkai Star Rail Version 1.2 | Streetwise Rhapsody | ~16,437 | n/a | <https://www.youtube.com/watch?v=yUhl4bCPV1k> |
+| 1 h 36 min | Full 1.2 Trailblaze Quest - Honkai Star Rail 1.2 | Fayato | ~77,009 | n/a | <https://www.youtube.com/watch?v=bVh5Ol1_J1U> |
 | 1 h 37 min | Topclouded Towerthrust Full Story \| Xianzhou Luofu Trailblaze Mission Part 2 \| Honkai Star Rail 1.2 | Noxxis Gaming | ~31,756 | n/a | <https://www.youtube.com/watch?v=atb-yDu0EwE> |
 | 1 h 47 min | Trialblaze Mission - Topclouded Towerthrust (complete walkthrough) | Hoyo Quests | 42 | 2023-07-22 | <https://www.youtube.com/watch?v=5wVYFJHmBWg> |
 | 1 h 54 min | Trailblaze Mission Chapter 2 : Topclouded Towerthrust Story Walkthrough | Kroos | 100 | 2023-07-19 | <https://www.youtube.com/watch?v=vp11_klotBg> |
 | 1 h 59 min | Honkai: Star Rail - Chapter II: Topclouded Towerthrust (version 1.2 Trailblaze Mission - Stelle) | AliCeline  アリセリン | ~32 | n/a | <https://www.youtube.com/watch?v=gwfYesYyGbU> |
 | 2 h 01 min | Topclouded Towerthrust Full Story \| Honkai Star Rail | Rubieco | 367 | 2023-07-19 | <https://www.youtube.com/watch?v=m7nMrZ-JdNI> |
 | 2 h 04 min | Topclouded Towerthrust - Trailblaze Mission \| Honkai Star Rail version 1.2 | TriMori | ~3,725 | n/a | <https://www.youtube.com/watch?v=TafsOUGG7h4> |
+| 2 h 10 min | Honkai Star Rail 1.2: Trailblaze Mission Story Quest \| FULL WALKTHROUGH | Kakuchopurei | 2,726 | 2023-07-19 | <https://www.youtube.com/watch?v=BfWs0XcGgA4> |
 | 2 h 18 min | Honkai Star Rail 1.2 - Topclouded Towerthrust \| The Xianzhou Luofu Trailblaze Mission | SilverBullet22_ | 31 | 2023-08-12 | <https://www.youtube.com/watch?v=l2970rqNmHs> |
 | 2 h 28 min | 🎬 Topclouded Towerthrust \| Honkai Star Rail 1.2 | mimo.mp4 | ~46 | n/a | <https://www.youtube.com/watch?v=jgMYMAGOcLg> |
+| 2 h 38 min | Honkai Star Rail 1.2 - Full New Trailblazer Story Quest | Rubhen925 | ~45,500 | n/a | <https://www.youtube.com/watch?v=fmNIO2PoFZk> |
 | 3 h 23 min | Topclouded Towerthrust • Honkai Star Rail | JungTutis | 52 | 2023-07-20 | <https://www.youtube.com/watch?v=1_0KUeI2zoI> |
 
 </details>
@@ -120,12 +123,12 @@ and goodbyes on the Luofu.
 <!--gen:stats act="Mission 3"-->
 The shortest entry in the questline.
 
-- **Estimated length:** 1 h 16 min
-- **Sampled range:** 57 min to 1 h 22 min for the middle half (full spread 40 min to 1 h 35 min) across 9 playthrough uploads (12 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 1 h 09 min
+- **Sampled range:** 51 min to 1 h 21 min for the middle half (full spread 40 min to 1 h 35 min) across 12 playthrough uploads (9 further candidates screened out)
+- **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median -5% against an earlier, independent query set
+- **Stability:** median -14% against an earlier, independent query set
 - **Quest parts (1):** Obsequies Performed, A Long Road Ahead
 <!--/gen-->
 
@@ -137,6 +140,9 @@ The shortest entry in the questline.
 | --- | --- | --- | --- | --- | --- |
 | 40 min | Karmic Clouds Faded War Banners Folded Trailblaze Mission 1.3 (Honkai Star Rail) | Yukino Ace | ~65 | n/a | <https://www.youtube.com/watch?v=qazTIFfcAHk> |
 | 46 min | Trailblaze Mission \| Karmic Clouds Faded, War Banners Folded \| Honkai Star Rail 1.3 | Brocollei | ~114 | n/a | <https://www.youtube.com/watch?v=rasE3jSIiis> |
+| 49 min | Honkai Star Rail 1.3 - New Trailblaze Story Quest Full Walkthrough | Rubhen925 | ~28,508 | n/a | <https://www.youtube.com/watch?v=wkL9orbn85E> |
+| 59 min | Honkai: Star Rail 1.3 Trailblaze Mission - Xianzhou Luofu Conclusion Full (Stelle) | AliCeline  アリセリン | 26 | 2023-09-12 | <https://www.youtube.com/watch?v=-mCaJ1LjUdU> |
+| 1 h 07 min | Version 1.3 Trailblaze Mission Full Honkai Star Rail | Srini510 | 49 | 2023-08-30 | <https://www.youtube.com/watch?v=5WGbJ7dL440> |
 | 1 h 08 min | Karmic Clouds Faded, War Banners Folded - Trailblaze Mission #6 \| Honkai: Star Rail | Kallysta | 2,785 | 2023-08-30 | <https://www.youtube.com/watch?v=7mRHb3axLn0> |
 | 1 h 10 min | Honkai Star Rail - Chapter 2 Part 3: Karmic Clouds Faded, War Banners Folded \| Full Story JP Dub | Gudaoko | ~2,515 | n/a | <https://www.youtube.com/watch?v=bQO_ZUvu8rA> |
 | 1 h 16 min | Karmic Clouds Faded, War Banners Folded - Trailblaze Mission - Playthrough - Honkai Star Rail 1.3 | Francis Lee Arthur | 183 | 2023-09-12 | <https://www.youtube.com/watch?v=0b7QU57iyuE> |

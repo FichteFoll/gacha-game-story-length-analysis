@@ -111,7 +111,8 @@ uploads covering part of an act rather than all of it,
 in the games whose uploaders split acts that way,
 including the instalments a channel publishes under one repeated title;
 and uploads whose title does not name the act
-either by name or by chapter plus act number.
+either by name, by chapter plus act number,
+or by the game plus the patch number of a version that shipped no other act.
 Of the survivors, the outliers are dropped
 as truncated or padded uploads,
 and each playthrough counts once:

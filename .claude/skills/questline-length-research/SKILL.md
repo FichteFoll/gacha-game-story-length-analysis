@@ -328,6 +328,19 @@ Discard, by title:
   the version names and patch numbers are added per chapter automatically).
   Requiring both halves is what stops "Snezhnaya Act 1"
   from being counted as evidence for a different chapter's Act I.
+  A patch number alone names an act too,
+  where the act list has exactly one act shipping in that version:
+  "Honkai Star Rail 4.6 Main Story Quest Full Walkthrough" is Mission 7,
+  and before this rule four complete uploads of it were thrown away.
+  The title has to spell out the game's name as `game.txt` has it,
+  because the search results carry other games' "Ver 7.3"
+  and the abbreviated titles ("ZZZ 3.0 story quest") it would have let in
+  were a gacha-pull stream and an epilogue bundled with a side quest,
+  and it must not name a second patch number, another act's title
+  or another chapter's identifiers.
+  A version that shipped several acts pins none of them,
+  and neither does a version known only by name,
+  as Punishing: Gray Raven's are, since an event can share the name.
   A title that pins a *different* number of the same unit is out even where
   the act's title words are all in it: an uploader who repeats one act's name
   across a whole chapter ("Chapter 1 Process 4 - The Broken Lands")
