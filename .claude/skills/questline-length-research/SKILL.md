@@ -40,6 +40,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/00-<chapter-slug>.md     the authored chapter files, one per chapter
 <report>/data/wiki.json           which wiki, and how it records versions
 <report>/data/game.txt            the game's name, as uploaders spell it
+<report>/data/game_aliases.txt    abbreviations uploaders use for it, if any
 <report>/data/acts.tsv            the questline structure (step 1)
 <report>/data/chapter_keys.json   words that identify each chapter in a title
 <report>/data/act_keys.json       marks that tell two same-named acts apart
@@ -332,12 +333,16 @@ Discard, by title:
   where the act list has exactly one act shipping in that version:
   "Honkai Star Rail 4.6 Main Story Quest Full Walkthrough" is Mission 7,
   and before this rule four complete uploads of it were thrown away.
-  The title has to spell out the game's name as `game.txt` has it,
-  because the search results carry other games' "Ver 7.3"
-  and the abbreviated titles ("ZZZ 3.0 story quest") it would have let in
-  were a gacha-pull stream and an epilogue bundled with a side quest,
+  The title has to name the game,
+  as `game.txt` spells it or by an abbreviation in `game_aliases.txt`
+  ("HSR", "ZZZ"), because the search results carry other games' "Ver 7.3",
   and it must not name a second patch number, another act's title
   or another chapter's identifiers.
+  List only abbreviations the evidence titles actually use
+  and that name nothing else: "GI" and "WW" do not qualify.
+  The abbreviated titles are where the gacha-pull streams
+  and the bundles with a side quest turn up,
+  so screen them as usual, in `not_playthrough.txt` and `compilations.txt`.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.

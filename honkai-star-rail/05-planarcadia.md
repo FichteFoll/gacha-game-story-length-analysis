@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 38 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 37 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -22,14 +22,14 @@ and the bait turns up in an IPC research institute.
 | --- | --- | --- | --- | --- | --- |
 | Mission 1 | Welcome to Arcadia | 7 h 55 min | 7 h 15 min - 8 h 34 min | 12 | high |
 | Mission 2 | Unraveled for Daybreak | 6 h 33 min | 6 h 18 min - 6 h 51 min | 14 | high |
-| Mission 3 | So Laughed the Masses | 4 h 46 min | 4 h 25 min - 5 h 03 min | 17 | high |
+| Mission 3 | So Laughed the Masses | 4 h 45 min | 4 h 20 min - 5 h 03 min | 18 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 13 min | 3 h 54 min - 4 h 24 min | 25 | high |
-| Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 14 min - 4 h 41 min | 23 | high |
+| Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 14 min - 4 h 41 min | 24 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 21 min | 3 h 10 min - 3 h 32 min | 23 | high |
 | Mission 7 | Dance With the Beast Before Moonrise | 3 h 26 min | 3 h 10 min - 3 h 35 min | 17 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->34 h 38 min<!--/f-->**
+**Total: <!--f:total-->34 h 37 min<!--/f-->**
 
 ## Pacing
 
@@ -140,12 +140,12 @@ handing out the freedom of Elation
 and the chains that come with it.
 <!--gen:stats act="Mission 3"-->
 
-- **Estimated length:** 4 h 46 min
-- **Sampled range:** 4 h 25 min to 5 h 03 min for the middle half (full spread 3 h 34 min to 5 h 28 min) across 17 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 4 h 45 min
+- **Sampled range:** 4 h 20 min to 5 h 03 min for the middle half (full spread 3 h 08 min to 5 h 28 min) across 18 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.2
-- **Stability:** median +4% against an earlier, independent query set
+- **Stability:** median +3% against an earlier, independent query set
 - **Quest parts (13):** Philosophy of the Tourist; In the Shadow of the Millennium; A Superhero Caught in a Moral Dilemma; If We Spoke in Laughter; Howls, White Noise, or What You Feel; A Resounding Gong or a Clashing Cymbal; Mass Deaths and Detective Fiction; Postmodern Imagenesis; Metaphors We Live By; Serotonin Exposure Phobia; The Generative Grammar of Liquid Modernity; Happiness, or a Fatal Ailment; Arcadia Revisited
 <!--/gen-->
 
@@ -155,6 +155,7 @@ and the chains that come with it.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 3 h 08 min | HSR 4.2 Full Quest | Lunarstarr | 5 | 2026-05-06 | <https://www.youtube.com/watch?v=3_MJ1qipYYk> |
 | 3 h 34 min | "So Laughed the Masses" - Full Trailblaze Mission Playthrough! \| HSR 4.2 Main Quest | TapoPlays | ~32 | n/a | <https://www.youtube.com/watch?v=kd7Eh_Fhrv0> |
 | 3 h 46 min | So Laughed the Masses XD [Version 4.2 Main Trailblaze Mission] [Honkai: Star Rail] (ENG/JPN) | 🌸ReinaRose (Aireena)🎮 | ~59 | n/a | <https://www.youtube.com/watch?v=eEgJQCx1Pq8> |
 | 4 h 10 min | FUN QUEST! Playing Honkai: Star Rail 4.2 "So Laughed the Masses" Main Story Full Playthrough! | void | ~94 | n/a | <https://www.youtube.com/watch?v=TyLnwZ7Z98A> |
@@ -240,12 +241,12 @@ the realm of death.
 <!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 4 h 24 min
-- **Sampled range:** 4 h 14 min to 4 h 41 min for the middle half (full spread 3 h 53 min to 5 h 56 min) across 23 playthrough uploads (24 further candidates screened out)
+- **Sampled range:** 4 h 14 min to 4 h 41 min for the middle half (full spread 2 h 57 min to 5 h 56 min) across 24 playthrough uploads (23 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 23 uploads
+- **Measured from the uploader's chapter markers:** 1 of 24 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
 <!--/gen-->
 
@@ -255,6 +256,7 @@ the realm of death.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 2 h 57 min | HSR 4.4 Full Quest | Lunarstarr | ~3 | n/a | <https://www.youtube.com/watch?v=xxd2V8x1xhc> |
 | 3 h 53 min | Version 4.4 Trailblaze Mission Full Story HD \| In Ravages Does The Whistle Sound \| Honkai Star Rail | Noxxis Gaming | 786 | 2026-07-15 | <https://www.youtube.com/watch?v=L_wYkmuTcZ0> |
 | 4 h 08 min | In Ravages Does the Whistle Sound – Trailblaze Mission (HSR v4.4) \| CN Dub / ENG Sub | Citrix the cat | ~90 | n/a | <https://www.youtube.com/watch?v=dI6shulOzEY> |
 | 4 h 11 min | In Ravages Does the Whistle Sound - Act V: Part V (Full Main Story) \| Honkai: Star Rail 4.4 | Sir Patty | 14 | 2026-07-18 | <https://www.youtube.com/watch?v=05Y5Q3243hE> |

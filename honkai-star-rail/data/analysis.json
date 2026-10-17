@@ -8144,9 +8144,7 @@
     "uploader": "Lunarstarr",
     "url": "https://www.youtube.com/watch?v=3_MJ1qipYYk",
     "views": 5,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260506"
    },
    {
@@ -8344,6 +8342,15 @@
   ],
   "kept": [
    {
+    "seconds": 11289,
+    "title": "HSR 4.2 Full Quest",
+    "uploader": "Lunarstarr",
+    "url": "https://www.youtube.com/watch?v=3_MJ1qipYYk",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260506"
+   },
+   {
     "seconds": 12817,
     "title": "\"So Laughed the Masses\" - Full Trailblaze Mission Playthrough! | HSR 4.2 Main Quest",
     "uploader": "TapoPlays",
@@ -8487,16 +8494,16 @@
    }
   ],
   "stats": {
-   "n": 17,
-   "median": 286,
-   "low": 214,
+   "n": 18,
+   "median": 285,
+   "low": 188,
    "high": 328,
-   "q1": 265,
+   "q1": 260,
    "q3": 303,
-   "trimmed_mean": 284,
+   "trimmed_mean": 280,
    "measured": 0,
    "parts": {},
-   "drift": 0.036
+   "drift": 0.033
   }
  },
  {
@@ -9397,9 +9404,7 @@
     "uploader": "Lunarstarr",
     "url": "https://www.youtube.com/watch?v=xxd2V8x1xhc",
     "views": "3",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 16425,
@@ -9658,6 +9663,14 @@
   ],
   "kept": [
    {
+    "seconds": 10615,
+    "title": "HSR 4.4 Full Quest",
+    "uploader": "Lunarstarr",
+    "url": "https://www.youtube.com/watch?v=xxd2V8x1xhc",
+    "views": "3",
+    "rejected": []
+   },
+   {
     "seconds": 13984,
     "title": "Version 4.4 Trailblaze Mission Full Story HD | In Ravages Does The Whistle Sound | Honkai Star Rail",
     "uploader": "Noxxis Gaming",
@@ -9866,13 +9879,13 @@
    }
   ],
   "stats": {
-   "n": 23,
+   "n": 24,
    "median": 264,
-   "low": 233,
+   "low": 177,
    "high": 356,
    "q1": 254,
    "q3": 281,
-   "trimmed_mean": 269,
+   "trimmed_mean": 268,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -10854,7 +10867,7 @@
     "url": "https://www.youtube.com/watch?v=qQ4MXe86DB4",
     "views": "7",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {

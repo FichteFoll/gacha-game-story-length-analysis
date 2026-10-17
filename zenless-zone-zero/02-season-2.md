@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 2
 
-**Region:** Waifei Peninsula: Yunkui Summit and Suibian Temple | **Game versions:** 2.0 - 2.8 | **Entries:** 9 | **Estimated chapter length: 37 h 51 min**
+**Region:** Waifei Peninsula: Yunkui Summit and Suibian Temple | **Game versions:** 2.0 - 2.8 | **Entries:** 9 | **Estimated chapter length: 37 h 49 min**
 <!--/gen-->
 
 Neon and asphalt give way to cloud-covered mountains,
@@ -16,17 +16,17 @@ that the peninsula has been outrunning for generations.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 1 | Where Clouds Embrace the Dawn | 4 h 31 min | 4 h 05 min - 5 h 20 min | 13 | medium |
-| Chapter 2 | The Impending Crash of Waves | 4 h 06 min | 3 h 39 min - 4 h 18 min | 13 | high |
+| Chapter 2 | The Impending Crash of Waves | 4 h 00 min | 3 h 34 min - 4 h 18 min | 12 | high |
 | Chapter 3 | Do Not Go Gentle Into That Good Night | 3 h 43 min | 3 h 29 min - 4 h 14 min | 13 | high |
 | Chapter 4 | Memories of Dreams Bygone | 3 h 31 min | 3 h 15 min - 3 h 53 min | 15 | high |
 | Chapter 5 | On the Precipice of the Abyss | 4 h 12 min | 4 h 03 min - 4 h 50 min | 13 | high |
 | Chapter 6 | To Be Fuel for the Night | 6 h 49 min | 6 h 20 min - 8 h 01 min | 12 | medium |
 | Interlude | Encore for an Old Dream | 5 h 03 min | 4 h 47 min - 5 h 55 min | 11 | high |
-| Epilogue (A) | New: Eridan Sunset (A) | 3 h 14 min | 2 h 54 min - 3 h 33 min | 13 | high |
+| Epilogue (A) | New: Eridan Sunset (A) | 3 h 18 min | 2 h 54 min - 3 h 27 min | 15 | high |
 | Epilogue (B) | New: Eridan Sunset (B) | 2 h 42 min | 2 h 26 min - 2 h 50 min | 15 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->37 h 51 min<!--/f-->**
+**Total: <!--f:total-->37 h 49 min<!--/f-->**
 
 ## Pacing
 
@@ -93,11 +93,11 @@ A safety inspection, a pursuit across Sailume Bay,
 and the source of the Obscuras.
 <!--gen:stats act="Chapter 2"-->
 
-- **Estimated length:** 4 h 06 min
-- **Sampled range:** 3 h 39 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 13 playthrough uploads (8 further candidates screened out)
+- **Estimated length:** 4 h 00 min
+- **Sampled range:** 3 h 34 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 12 playthrough uploads (9 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -2% against an earlier, independent query set
 - **Quest parts (7):** Safety Inspection; Prank Perpetrator; Sailume Bay Pursuit; Source of the Obscuras; Secret Past; A Bond Returned; Echoes of Melody Linger
 <!--/gen-->
 
@@ -115,7 +115,6 @@ and the source of the Obscuras.
 | 3 h 54 min | Zenless Zone Zero - S2 Chapter 2: The Impending Crash of Waves \| Full Walkthrough \| No Commentary | Retroplay A-Z | ~33 | n/a | <https://www.youtube.com/watch?v=k9a4tW5MVGA> |
 | 4 h 06 min | Version 2.1 Main Story Quest (Full Quest) The Impending Crash of Waves \| Zenless Zone Zero | Streetwise Rhapsody | 49,547 | 2025-07-16 | <https://www.youtube.com/watch?v=xICDbkBScZE> |
 | 4 h 08 min | Zenless Zone Zero version 2.1 Main Quest \| Season 2 Chapter 2: The Impending Crash of Waves [FULL] | Zukebei Ch.  | ~48 | n/a | <https://www.youtube.com/watch?v=d9xr7JRhUN8> |
-| 4 h 10 min | Let's Go to the BEACH! Pulls & Story - "The Impending Crash of Waves!" \| ZZZ 2.1 #f2p | HappyOwlTV | 22 | 2025-07-17 | <https://www.youtube.com/watch?v=5up-i6UQNpw> |
 | 4 h 17 min | [Zenless Zone Zero 2.1] New Main Story Quest Season 2 Chapter 2 Full Walkthrough | Lotus Ch. | 56 | 2025-07-18 | <https://www.youtube.com/watch?v=uNn9Qd0Vvf4> |
 | 4 h 19 min | Zenless Zone Zero \| Version 2.1 Season 2 Chapter 2 \| The Impending Crash of Waves \| Full Gameplay | JS Gaming Realm | ~17 | n/a | <https://www.youtube.com/watch?v=ak__PtxGVe0> |
 | 4 h 39 min | The Impending Crash Of Waves \| Zenless Zone Zero Version 2.1 Main Story Quest  ( Full Gameplay ) | DIABLO PLAY'S  | ~33 | n/a | <https://www.youtube.com/watch?v=l71M6r1jiII> |
@@ -338,11 +337,11 @@ a ragtag crew signs up,
 and the first stage goes about as well as expected.
 <!--gen:stats act="Epilogue (A)"-->
 
-- **Estimated length:** 3 h 14 min
-- **Sampled range:** 2 h 54 min to 3 h 33 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 13 playthrough uploads (22 further candidates screened out)
+- **Estimated length:** 3 h 18 min
+- **Sampled range:** 2 h 54 min to 3 h 27 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 15 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.7
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +2% against an earlier, independent query set
 - **Quest parts (8):** A New Variable; Hollow Champion Competition; Ragtag Crew; Chaotic First Stage; Interrupted Showdown; Drown in the Nightmare; Chaotic Revelry; Before the Sun Sets
 <!--/gen-->
 
@@ -360,7 +359,9 @@ and the first stage goes about as well as expected.
 | 3 h 10 min | CHAMPIONSHIP GONE WRONG!!!!! 2.7 Story 'New: Eridan Sunset (A)' \| Zenless Zone Zero | JaydenHorn1406 | 52 | 2026-04-03 | <https://www.youtube.com/watch?v=FA7mOBwV9vo> |
 | 3 h 14 min | Zenless Zone Zero - Story - Season 2 - Epilogue - New: Eridan Sunset (A) | JehliuGamer | ~311 | n/a | <https://www.youtube.com/watch?v=rAAJ0ppsnfc> |
 | 3 h 18 min | Zenless Zone Zero Version 2.7 - Main Story Quest Epilogue - New: Eridan Sunset (A) ( Full Gameplay ) | DIABLO PLAY'S  | ~29 | n/a | <https://www.youtube.com/watch?v=xtIw2xVwOac> |
+| 3 h 20 min | ZZZ 2.7 Full Story Walkthrough \| Season 2 Epilogue: Champions Never Fall to the Past | JJcool4541(Unchosen) | ~26 | n/a | <https://www.youtube.com/watch?v=ZIK8H_Ae00s> |
 | 3 h 21 min | Zenless Zone Zero Version 2.7 \| Season 2 Epilogue Main Story Quest \| New: Eridan Sunset (A) (JP Dub) | JS Gaming Realm | ~19 | n/a | <https://www.youtube.com/watch?v=njdmvwv5vJU> |
+| 3 h 24 min | ZZZ 2.7 Full Story Quest: S2 Epilogue (A) Walkthrough [JP Voice] | ViGAMES | ~1,711 | n/a | <https://www.youtube.com/watch?v=cov4nL36QEY> |
 | 3 h 27 min | Zenless Zone Zero - New Eridan Sunset (A) - 2.7 Main Quest \|\| 4K Full Story \|\| | RÆIN | 40 | 2026-07-20 | <https://www.youtube.com/watch?v=6nj4X8twCxY> |
 | 3 h 39 min | Zenless Zone Zero Season 2  Epilogue Quest - New: Eridan Sunset(A) Full Playtrough | Just_MieWalktrough | ~18 | n/a | <https://www.youtube.com/watch?v=zljDTQisnco> |
 | 3 h 59 min | 2.7 Update, Main Story Season 2 - Epilogue "New: Eridan Sunset (A)" - Zenless Zone Zero 4K | Grateful Gaming 4K | 27 | 2026-03-26 | <https://www.youtube.com/watch?v=G7g32sx7kYQ> |

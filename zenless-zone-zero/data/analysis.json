@@ -2930,7 +2930,7 @@
     "url": "https://www.youtube.com/watch?v=WwDa_mN9RJo",
     "views": 45,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20240925"
    },
@@ -3326,7 +3326,7 @@
     "url": "https://www.youtube.com/watch?v=uX9WXaWJ-oM",
     "views": "52521",
     "rejected": [
-     "act-mismatch"
+     "long-outlier"
     ]
    },
    {
@@ -3684,7 +3684,7 @@
     "url": "https://www.youtube.com/watch?v=stlQwafRDEA",
     "views": "13",
     "rejected": [
-     "act-mismatch"
+     "multi-act"
     ]
    },
    {
@@ -4657,7 +4657,9 @@
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=5up-i6UQNpw",
     "views": 22,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20250717"
    },
    {
@@ -4824,15 +4826,6 @@
     "rejected": []
    },
    {
-    "seconds": 15009,
-    "title": "Let's Go to the BEACH! Pulls & Story - \"The Impending Crash of Waves!\" | ZZZ 2.1 #f2p",
-    "uploader": "HappyOwlTV",
-    "url": "https://www.youtube.com/watch?v=5up-i6UQNpw",
-    "views": 22,
-    "rejected": [],
-    "upload_date": "20250717"
-   },
-   {
     "seconds": 15406,
     "title": "[Zenless Zone Zero 2.1] New Main Story Quest Season 2 Chapter 2 Full Walkthrough",
     "uploader": "Lotus Ch.",
@@ -4868,16 +4861,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 246,
+   "n": 12,
+   "median": 240,
    "low": 199,
    "high": 294,
-   "q1": 219,
+   "q1": 214,
    "q3": 258,
-   "trimmed_mean": 240,
+   "trimmed_mean": 239,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.024
   }
  },
  {
@@ -6891,9 +6884,7 @@
     "uploader": "ViGAMES",
     "url": "https://www.youtube.com/watch?v=cov4nL36QEY",
     "views": "1711",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 10150,
@@ -6913,6 +6904,7 @@
     "url": "https://www.youtube.com/watch?v=ocypiz-XECc",
     "views": 31,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20260324"
@@ -6940,9 +6932,7 @@
     "uploader": "JJcool4541(Unchosen)",
     "url": "https://www.youtube.com/watch?v=ZIK8H_Ae00s",
     "views": "26",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    }
   ],
   "kept": [
@@ -7015,11 +7005,27 @@
     "rejected": []
    },
    {
+    "seconds": 12019,
+    "title": "ZZZ 2.7 Full Story Walkthrough | Season 2 Epilogue: Champions Never Fall to the Past",
+    "uploader": "JJcool4541(Unchosen)",
+    "url": "https://www.youtube.com/watch?v=ZIK8H_Ae00s",
+    "views": "26",
+    "rejected": []
+   },
+   {
     "seconds": 12063,
     "title": "Zenless Zone Zero Version 2.7 | Season 2 Epilogue Main Story Quest | New: Eridan Sunset (A) (JP Dub)",
     "uploader": "JS Gaming Realm",
     "url": "https://www.youtube.com/watch?v=njdmvwv5vJU",
     "views": "19",
+    "rejected": []
+   },
+   {
+    "seconds": 12221,
+    "title": "ZZZ 2.7 Full Story Quest: S2 Epilogue (A) Walkthrough [JP Voice]",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=cov4nL36QEY",
+    "views": "1711",
     "rejected": []
    },
    {
@@ -7058,16 +7064,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 194,
+   "n": 15,
+   "median": 198,
    "low": 167,
    "high": 242,
    "q1": 174,
-   "q3": 213,
-   "trimmed_mean": 195,
+   "q3": 207,
+   "trimmed_mean": 196,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.021
   }
  },
  {
@@ -7875,7 +7881,7 @@
     "url": "https://www.youtube.com/watch?v=zucxjt9V1pg",
     "views": "290",
     "rejected": [
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -8193,6 +8199,7 @@
     "url": "https://www.youtube.com/watch?v=_8BgOHv0qoI",
     "views": 4,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260729"

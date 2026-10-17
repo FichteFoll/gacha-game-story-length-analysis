@@ -28,6 +28,11 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
                                      plus the line "<quest part>" for titles
                                      naming one of the act's own quest parts;
                                      the mirror image of compilations.txt
+       <workdir>/game.txt            the game's name, which a title has to spell
+                                     out before its patch number alone names
+                                     the act shipped in that patch
+       <workdir>/game_aliases.txt    optional abbreviations accepted in place of
+                                     that name, one per line, e.g. "HSR"
        <workdir>/enriched.tsv        optional second-pass metadata (enrich.sh):
                                      exact duration, upload date, exact view
                                      count and the uploader's chapter markers
@@ -410,15 +415,18 @@ def version_pin_test(workdir, acts, chapter_keys):
     number, since an event can share the name.
 
     A patch number means nothing without the game it is a patch of, so the
-    title must also spell out the game's name (game.txt): the search results
-    carry other games' "Ver 7.3" as well, and the titles that abbreviate the
-    name ("ZZZ 3.0 story quest") included a gacha-pull stream and an epilogue
-    bundled with a side quest. And it must not point anywhere else: not at a
+    title must also name the game, by game.txt or by one of the abbreviations
+    in game_aliases.txt, as whole words: the search results carry other games'
+    "Ver 7.3" as well. The aliases are a list of their own rather than more
+    lines of game.txt, because the queries and the reports read that file as
+    the one name of the game. And it must not point anywhere else: not at a
     second patch number, not at another act's title and not at another
     chapter's identifiers, which keeps a compilation of two patches or a recap
     naming an older act out. Everything else screening checks still applies.
     """
-    game = spelled(" ".join(extra_patterns(workdir, "game.txt")))
+    names = [spelled(" ".join(extra_patterns(workdir, "game.txt")))] \
+        + [spelled(a) for a in extra_patterns(workdir, "game_aliases.txt")]
+    names = [f" {n} " for n in names if n]
     versions = load_json(workdir, "versions.json")
     index = load_json(workdir, "version_index.json")
     number_of = {name: v.get("number") for name, v in index.items()}
@@ -434,7 +442,7 @@ def version_pin_test(workdir, acts, chapter_keys):
     def is_this_act(act, title):
         number = pinned_by.get(id(act))
         if number is None or not patches[number].search(title) \
-                or not game or game not in spelled(title):
+                or not any(n in f" {spelled(title)} " for n in names):
             return False
         if any(other != number and regex.search(title)
                for other, regex in patches.items()):

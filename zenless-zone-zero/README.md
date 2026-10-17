@@ -4,7 +4,7 @@ Duration estimates for every chapter of the main story,
 from the prologue on Sixth Street to the newest season in Roscaelifer,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->74 h 15 min<!--/f-->** (<!--f:n_report_entries-->22<!--/f--> entries counting chapters, interludes and epilogues, measured against <!--f:n_videos-->289<!--/f--> accepted uploads out of <!--f:n_candidates-->629<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->74 h 13 min<!--/f-->** (<!--f:n_report_entries-->22<!--/f--> entries counting chapters, interludes and epilogues, measured against <!--f:n_videos-->290<!--/f--> accepted uploads out of <!--f:n_candidates-->629<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -13,7 +13,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Season 1 | New Eridu: Sixth Street, Lumina Square and the Outer Ring | 1.0 - 1.7 | 10 | 24 h 07 min | [01-season-1.md](01-season-1.md) |
-| Season 2 | Waifei Peninsula: Yunkui Summit and Suibian Temple | 2.0 - 2.8 | 9 | 37 h 51 min | [02-season-2.md](02-season-2.md) |
+| Season 2 | Waifei Peninsula: Yunkui Summit and Suibian Temple | 2.0 - 2.8 | 9 | 37 h 49 min | [02-season-2.md](02-season-2.md) |
 | Season 3 | Roscaelifer | 3.0 - 3.2 | 3 | 12 h 17 min | [03-season-3.md](03-season-3.md) |
 <!--/gen-->
 

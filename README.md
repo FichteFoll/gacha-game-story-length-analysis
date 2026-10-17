@@ -196,7 +196,8 @@ joined by `data/partials.txt` where the game's uploaders split acts
 across videos,
 by `data/min_minutes.txt` where every act is long enough
 that a short upload cannot be one,
-and by `data/act_keys.json` where a chapter has two acts of the same name.
+by `data/act_keys.json` where a chapter has two acts of the same name,
+and by `data/game_aliases.txt` where uploaders abbreviate the game's name.
 - `report.py` is the game's configuration and structure,
 and `claims.py` the assertions the prose is checked against.
 
