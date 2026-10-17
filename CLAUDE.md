@@ -142,7 +142,7 @@ Generic, in the skill's `scripts/`, parameterised by `<workdir>` or `<report>`:
 and `gen_docs.py` (the filler for the marked regions).
 
 Report-specific: the authored `README.md` and chapter files,
-`data/` (`wiki.json`, `game.txt`, `acts.tsv`,
+`data/` (`wiki.json`, `game.txt`, `game_aliases.txt`, `acts.tsv`,
 `chapter_keys.json`, `act_keys.json`, `not_playthrough.txt`,
 `compilations.txt`, `partials.txt`, `min_minutes.txt`,
 `query_templates.txt`),
