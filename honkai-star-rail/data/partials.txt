@@ -5,5 +5,5 @@
 \bwalkthrough ?\.? ?(\d+|[ivx]+)\b
 \bep(isode)?\.? ?\d+\b
 \b\d ?/ ?\d\b
-!\bfull story part \d+\b
+!\bfull story part ?\d+\b
 !\bwith pearl in honkai\b

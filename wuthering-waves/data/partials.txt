@@ -1,8 +1,8 @@
-\bpart \d+\b
+\bpart ?\d+\b
 \bpart (one|two|three|four|five|six)\b
 \bpt\.? ?\d+\b
 \[wuthering waves main quest\]
 [-–—] main quest \| wuthering waves
 !\(part\d+\)
 !\bmain quest - .+\(\d ?/ ?\d\)
-!\bmain story quest \| .+ part \d+\b
+!\bmain story quest \| .+ part ?\d+\b
