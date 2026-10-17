@@ -14167,7 +14167,9 @@
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
     "views": 16078,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260430",
     "runtime": 12583,
     "measured": "chapter-markers",
@@ -14175,18 +14177,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 6075,
-    "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
-    "uploader": "Akabirama",
-    "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
-    "views": 16078,
-    "rejected": [],
-    "upload_date": "20260430",
-    "runtime": 12583,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
    {
     "seconds": 8767,
     "title": "Wuwa 3.3 Chapter 3 Act 5 Starlights from Yesterdays #wutheringwaves #wuwa",
@@ -14390,16 +14380,16 @@
    }
   ],
   "stats": {
-   "n": 23,
-   "median": 172,
-   "low": 101,
+   "n": 22,
+   "median": 174,
+   "low": 146,
    "high": 233,
-   "q1": 157,
+   "q1": 159,
    "q3": 186,
-   "trimmed_mean": 174,
-   "measured": 2,
+   "trimmed_mean": 176,
+   "measured": 1,
    "parts": {},
-   "drift": -0.023
+   "drift": -0.011
   }
  },
  {

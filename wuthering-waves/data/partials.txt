@@ -6,3 +6,4 @@
 !\(part\d+\)
 !\bmain quest - .+\(\d ?/ ?\d\)
 !\bmain story quest \| .+ part ?\d+\b
+!\bsegue & act v full game\b
