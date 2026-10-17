@@ -606,6 +606,12 @@ and the build should either fail or correct itself.
   the page is `Chapter VII`, not `Chapter VII: Everwinter Without Mercy`.
   Link the page name, and verify it resolves through the API before publishing.
 - Do not assert release versions from memory. Query them, before harvesting.
+- A label in the form "[Chapter N Process M: X]" does not always name the act.
+  Arknights: Endfield's version pages use it for a mission inside the process,
+  so taking X for the process title lists an act under a name
+  no upload carries.
+  Check a new act's title against the overview table,
+  or against what the uploads call it, before adding the row.
 - A wiki writes its release dates in more than one format
   (`2024-07-04 10:00` next to `September 4th, 2025`),
   and the dates are sorted against each other to decide which acts are recent.
