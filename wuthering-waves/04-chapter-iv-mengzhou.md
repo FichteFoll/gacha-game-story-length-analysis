@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 35 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 37 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
@@ -21,16 +21,16 @@ sends Rover after its long-absent Sentinel.
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
 | Act III | Song of the Heart Sword | 4 h 39 min | 4 h 34 min - 4 h 54 min | 24 | high |
 | Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 19 | high |
-| Act IV | Simulacrum of the Heart | 4 h 54 min | 4 h 41 min - 5 h 16 min | 26 | high |
+| Act IV | Simulacrum of the Heart | 4 h 56 min | 4 h 41 min - 5 h 14 min | 27 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 35 min<!--/f-->**
+**Total: <!--f:total-->15 h 37 min<!--/f-->**
 
 ## Pacing
 
 Four long acts with two short pieces set between them.
 Act IV is the longest single entry in the game at
-<!--f:len_Act_IV-->4 h 54 min<!--/f-->,
+<!--f:len_Act_IV-->4 h 56 min<!--/f-->,
 followed by Act III at
 <!--f:len_Act_III-->4 h 39 min<!--/f-->,
 where the two segues add
@@ -310,11 +310,12 @@ leads back into the Manifold Sanctum, where Hsin was last felt.
 <!--gen:stats act="Act IV"-->
 The single longest act in the game.
 
-- **Estimated length:** 4 h 54 min
-- **Sampled range:** 4 h 41 min to 5 h 16 min for the middle half (full spread 3 h 43 min to 5 h 51 min) across 26 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 4 h 56 min
+- **Sampled range:** 4 h 41 min to 5 h 14 min for the middle half (full spread 3 h 43 min to 5 h 51 min) across 27 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.7
+- **Measured from the uploader's chapter markers:** 1 of 27 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -323,32 +324,33 @@ The single longest act in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 3 h 43 min | The Most HSINEMATIC Quest in Wuthering Waves! \| Simulacrum of the Heart Ver 3.7 | Grimm Talent Gaming | ~9 | n/a | <https://www.youtube.com/watch?v=ruoBL-YliHY> |
-| 4 h 20 min | Wuthering Waves - Story Quest Chapter IV Act IV: Simulacrum of the Heart walkthrough | heriawsity | ~40 | n/a | <https://www.youtube.com/watch?v=pqQZRuIZzxk> |
-| 4 h 28 min | Wuthering Waves 3.7: Xuanfang Finale \| Simulacrum of the Heart Full Walkthrough [4K] | Tarnished Blade  | ~259 | n/a | <https://www.youtube.com/watch?v=JgcT2cgdLv8> |
-| 4 h 34 min | Chapter IV Act IV: Simulacrum of the Heart - Wuthering Waves 3.7 \| Full Main Quest | Sternking | ~227 | n/a | <https://www.youtube.com/watch?v=4PhXIHyw3vk> |
-| 4 h 38 min | Rebirth From the Depths Mengzhou Chapter IV - Act IV "Simulacrum of the Heart" | Miki Kei Vod | ~587 | n/a | <https://www.youtube.com/watch?v=a63ERHgcI7k> |
-| 4 h 41 min | Wuthering Waves 3.7 FULL QUEST \| Hsin & Suoming’s Story – Simulacrum of the Heart \| #wuwa | Rahar-Gaming | ~22 | n/a | <https://www.youtube.com/watch?v=hX66wGCtaiQ> |
-| 4 h 41 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | KulnoZ | ~118 | n/a | <https://www.youtube.com/watch?v=WuC_3AWGqnE> |
-| 4 h 42 min | 3.7 Main Quest Complete Story - Full Playthrough (Wuthering Waves) | Abyss Breakdown | ~6,063 | n/a | <https://www.youtube.com/watch?v=qMD60z0vrl8> |
-| 4 h 46 min | [ WUTHERING WAVES ] [ MENGZHOU ] Chapter IV Act IV Simulacrum of the Heart  [ FULL STORY ] | Uranium Tea Gaming | ~302 | n/a | <https://www.youtube.com/watch?v=pCwT6aN0ECI> |
-| 4 h 49 min | Hasin Main Story Full Quest (Full Playthrough) - Wuthering Waves 3.7 | DreamerQuests | ~40 | n/a | <https://www.youtube.com/watch?v=tplMJBmsGOw> |
-| 4 h 50 min | Wuthering Waves 3.7 - Simulacrum of the Heart \| Main Story Quest Full Gameplay | Jonozoic | ~214 | n/a | <https://www.youtube.com/watch?v=LjWBIHoKoPA> |
-| 4 h 51 min | Wuthering Waves Chapter 4 Act 4: Simulacrum of the Heart Walkthrough \| 100% Complete | Virtual Gaming | ~20 | n/a | <https://www.youtube.com/watch?v=0YjX2IaKwsE> |
-| 4 h 52 min | Wuthering Waves 3.7 Walkthrough - Chapter IV Act IV: Simulacrum of the Heart (No Commentary) | Kiruno | ~104 | n/a | <https://www.youtube.com/watch?v=3X83GIHVBf4> |
-| 4 h 56 min | Wuthering Waves 3.7 Main Story Quest \| Chapter 4: Act 4 - Full Walkthrough (Female Rover) | QuestWatcher | ~623 | n/a | <https://www.youtube.com/watch?v=05ZyYBaej8A> |
-| 5 h 02 min | Wuthering Waves 3.7 Main Story Quests (Full Playthrough) | one  | ~16 | n/a | <https://www.youtube.com/watch?v=0kTv9o_f6jQ> |
-| 5 h 02 min | Wuthering Waves 3.7 — Simulacrum of the Heart (Full Main Story Quest) | BSS Gaming | ~781 | n/a | <https://www.youtube.com/watch?v=hizKt5Q3eyQ> |
-| 5 h 03 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | Rubhen925 | ~50,905 | n/a | <https://www.youtube.com/watch?v=hBHxE8xdkAs> |
-| 5 h 05 min | Wuthering Waves Version 3.7 Story Walkthrough (Chapter 4 Act 4) (No Mic) | popo | ~7 | n/a | <https://www.youtube.com/watch?v=CO4GPJfwkek> |
-| 5 h 07 min | Simulacrum of the Heart — Mengzhou Chapter 4, Act 4 — Wuthering Waves 3.7 | RPG Plays TV | ~10 | n/a | <https://www.youtube.com/watch?v=R_kn_-_NrKw> |
-| 5 h 14 min | Simulacrum of the heart Full Quest | ParadoX | ~62 | n/a | <https://www.youtube.com/watch?v=kMVMvIe03JI> |
-| 5 h 22 min | WUWA 3.7 IS HERE! \| Main Quest "Simulacrum of the Heart" Full Playthrough | ShiverDoom | ~1,628 | n/a | <https://www.youtube.com/watch?v=3a8-Xxbomns> |
-| 5 h 27 min | WuWa 4K \| Chapter 4 Act 4 "Simulacrum of the Heart" \| Main Story \| JP \| Wuthering Waves 3.7 | London22Gaming | ~73 | n/a | <https://www.youtube.com/watch?v=xJQvX9IOuoo> |
-| 5 h 42 min | Main Quests Chapter 4: Act 4 Simulacrum of the Heart \| Wuthering Waves 3.7 | mwRover | ~46 | n/a | <https://www.youtube.com/watch?v=AjdIk4tGdnA> |
-| 5 h 46 min | Wuthering Waves - Simulacrum of the Heart - Complete Story Quest | CorporalOdin2 | ~4 | n/a | <https://www.youtube.com/watch?v=1gy-0H-aJaA> |
-| 5 h 51 min | Wuwa 3.7 Finale \| Chapter 4 Act 4: "Simulacrum of the Heart" \| Mobile Gameplay \| No Commentary | The GlobalWarming | ~19 | n/a | <https://www.youtube.com/watch?v=gLbmCWkkq_Q> |
-| 5 h 51 min | Wuthering Waves Gameplay \| Main Story Quest : Simulacrum of the Heart | Mysterious Hero | ~18 | n/a | <https://www.youtube.com/watch?v=TfZXCv1F6Zc> |
+| 3 h 43 min | The Most HSINEMATIC Quest in Wuthering Waves! \| Simulacrum of the Heart Ver 3.7 | Grimm Talent Gaming | 9 | 2026-10-05 | <https://www.youtube.com/watch?v=ruoBL-YliHY> |
+| 4 h 20 min | Wuthering Waves - Story Quest Chapter IV Act IV: Simulacrum of the Heart walkthrough | heriawsity | 40 | 2026-10-04 | <https://www.youtube.com/watch?v=pqQZRuIZzxk> |
+| 4 h 28 min | Wuthering Waves 3.7: Xuanfang Finale \| Simulacrum of the Heart Full Walkthrough [4K] | Tarnished Blade  | 261 | 2026-10-01 | <https://www.youtube.com/watch?v=JgcT2cgdLv8> |
+| 4 h 34 min | Chapter IV Act IV: Simulacrum of the Heart - Wuthering Waves 3.7 \| Full Main Quest | Sternking | 227 | 2026-10-01 | <https://www.youtube.com/watch?v=4PhXIHyw3vk> |
+| 4 h 38 min | Rebirth From the Depths Mengzhou Chapter IV - Act IV "Simulacrum of the Heart" | Miki Kei Vod | 595 | 2026-10-03 | <https://www.youtube.com/watch?v=a63ERHgcI7k> |
+| 4 h 41 min | Wuthering Waves 3.7 FULL QUEST \| Hsin & Suoming’s Story – Simulacrum of the Heart \| #wuwa | Rahar-Gaming | 22 | 2026-10-05 | <https://www.youtube.com/watch?v=hX66wGCtaiQ> |
+| 4 h 41 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | KulnoZ | 118 | 2026-09-30 | <https://www.youtube.com/watch?v=WuC_3AWGqnE> |
+| 4 h 42 min | 3.7 Main Quest Complete Story - Full Playthrough (Wuthering Waves) | Abyss Breakdown | 6,068 | 2026-09-30 | <https://www.youtube.com/watch?v=qMD60z0vrl8> |
+| 4 h 46 min | [ WUTHERING WAVES ] [ MENGZHOU ] Chapter IV Act IV Simulacrum of the Heart  [ FULL STORY ] | Uranium Tea Gaming | 318 | 2026-10-01 | <https://www.youtube.com/watch?v=pCwT6aN0ECI> |
+| 4 h 49 min | Hasin Main Story Full Quest (Full Playthrough) - Wuthering Waves 3.7 | DreamerQuests | 40 | 2026-10-01 | <https://www.youtube.com/watch?v=tplMJBmsGOw> |
+| 4 h 50 min | Wuthering Waves 3.7 - Simulacrum of the Heart \| Main Story Quest Full Gameplay | Jonozoic | 215 | 2026-10-02 | <https://www.youtube.com/watch?v=LjWBIHoKoPA> |
+| 4 h 51 min | Wuthering Waves Chapter 4 Act 4: Simulacrum of the Heart Walkthrough \| 100% Complete | Virtual Gaming | 20 | 2026-10-01 | <https://www.youtube.com/watch?v=0YjX2IaKwsE> |
+| 4 h 52 min | Wuthering Waves 3.7 Walkthrough - Chapter IV Act IV: Simulacrum of the Heart (No Commentary) | Kiruno | 104 | 2026-10-01 | <https://www.youtube.com/watch?v=3X83GIHVBf4> |
+| 4 h 56 min | Wuthering Waves 3.7 Story - Chapter 4 Act 4 & Hsin Tales Quest Full Playthrough (XUANFANG FINALE) | ItsDaveTV Plays and ItsDaveTV | 98 | 2026-10-04 | <https://www.youtube.com/watch?v=KBCwgW9u1Oo> |
+| 4 h 56 min | Wuthering Waves 3.7 Main Story Quest \| Chapter 4: Act 4 - Full Walkthrough (Female Rover) | QuestWatcher | 623 | 2026-10-02 | <https://www.youtube.com/watch?v=05ZyYBaej8A> |
+| 5 h 02 min | Wuthering Waves 3.7 Main Story Quests (Full Playthrough) | one  | 16 | 2026-10-15 | <https://www.youtube.com/watch?v=0kTv9o_f6jQ> |
+| 5 h 02 min | Wuthering Waves 3.7 — Simulacrum of the Heart (Full Main Story Quest) | BSS Gaming | 785 | 2026-09-30 | <https://www.youtube.com/watch?v=hizKt5Q3eyQ> |
+| 5 h 03 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | Rubhen925 | 50,917 | 2026-09-30 | <https://www.youtube.com/watch?v=hBHxE8xdkAs> |
+| 5 h 05 min | Wuthering Waves Version 3.7 Story Walkthrough (Chapter 4 Act 4) (No Mic) | popo | 7 | 2026-09-30 | <https://www.youtube.com/watch?v=CO4GPJfwkek> |
+| 5 h 07 min | Simulacrum of the Heart — Mengzhou Chapter 4, Act 4 — Wuthering Waves 3.7 | RPG Plays TV | 10 | 2026-10-07 | <https://www.youtube.com/watch?v=R_kn_-_NrKw> |
+| 5 h 14 min | Simulacrum of the heart Full Quest | ParadoX | 63 | 2026-10-11 | <https://www.youtube.com/watch?v=kMVMvIe03JI> |
+| 5 h 22 min | WUWA 3.7 IS HERE! \| Main Quest "Simulacrum of the Heart" Full Playthrough | ShiverDoom | 1,631 | 2026-10-01 | <https://www.youtube.com/watch?v=3a8-Xxbomns> |
+| 5 h 27 min | WuWa 4K \| Chapter 4 Act 4 "Simulacrum of the Heart" \| Main Story \| JP \| Wuthering Waves 3.7 | London22Gaming | 73 | 2026-09-30 | <https://www.youtube.com/watch?v=xJQvX9IOuoo> |
+| 5 h 42 min | Main Quests Chapter 4: Act 4 Simulacrum of the Heart \| Wuthering Waves 3.7 | mwRover | 46 | 2026-10-05 | <https://www.youtube.com/watch?v=AjdIk4tGdnA> |
+| 5 h 46 min | Wuthering Waves - Simulacrum of the Heart - Complete Story Quest | CorporalOdin2 | 4 | 2026-10-06 | <https://www.youtube.com/watch?v=1gy-0H-aJaA> |
+| 5 h 51 min | Wuwa 3.7 Finale \| Chapter 4 Act 4: "Simulacrum of the Heart" \| Mobile Gameplay \| No Commentary | The GlobalWarming | 19 | 2026-10-04 | <https://www.youtube.com/watch?v=gLbmCWkkq_Q> |
+| 5 h 51 min | Wuthering Waves Gameplay \| Main Story Quest : Simulacrum of the Heart | Mysterious Hero | 18 | 2026-10-09 | <https://www.youtube.com/watch?v=TfZXCv1F6Zc> |
 
 </details>
 <!--/gen-->
