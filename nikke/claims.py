@@ -4,8 +4,8 @@ The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, is_extreme, largest_chapter,
-                        median_between, none_above, sample_at_most,
-                        total_ratio_between)
+                        median_between, none_above, rank_at_most,
+                        sample_at_most, total_ratio_between)
 
 CLAIMS = [
     # README.md
@@ -57,10 +57,22 @@ CLAIMS = [
     sample_at_most("v4", "Chapter 32", 6,
                    "and Advance rests on a handful of them either way"),
 
-    # 05-choice-to-rebirth.md
+    # 05-choice-to-reborn.md
     largest_chapter("v5",
                     "the largest volume in the report "
                     "despite being the smallest by count"),
     count_above("v5", 120, 6,
-                "Six of the seven chapters run past two hours"),
+                "Of its nine chapters, six run past two hours"),
+    rank_at_most("v5", "Chapter 47", 2,
+                 "Outbreak and Reborn are the two shortest chapters "
+                 "in the volume", scope="chapter", end="min"),
+    rank_at_most("v5", "Chapter 48", 2,
+                 "Outbreak and Reborn are the two shortest chapters "
+                 "in the volume", scope="chapter", end="min"),
+    median_between("v5", "Chapter 46", 150, 600,
+                   "took far less time over each of the two"),
+    median_between("v5", "Chapter 47", 1, 110,
+                   "took far less time over each of the two"),
+    median_between("v5", "Chapter 48", 1, 110,
+                   "took far less time over each of the two"),
 ]

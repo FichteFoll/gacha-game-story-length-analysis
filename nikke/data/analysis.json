@@ -545,6 +545,7 @@
     "url": "https://www.youtube.com/watch?v=7JX20L1cx6Q",
     "views": 25644,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260813"
@@ -1084,6 +1085,7 @@
     "url": "https://www.youtube.com/watch?v=7JX20L1cx6Q",
     "views": 25644,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260813"
@@ -1706,6 +1708,7 @@
     "url": "https://www.youtube.com/watch?v=7JX20L1cx6Q",
     "views": 25644,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260813"
@@ -9751,7 +9754,7 @@
     "url": "https://www.youtube.com/watch?v=33Sd782XPj8",
     "views": "18",
     "rejected": [
-     "short-outlier"
+     "multi-act"
     ]
    },
    {
@@ -11667,6 +11670,7 @@
     "url": "https://www.youtube.com/watch?v=6n3hMFKgxV0",
     "views": 2970,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260814"
@@ -12027,6 +12031,7 @@
     "url": "https://www.youtube.com/watch?v=vR_DCuJeRVo",
     "views": "85",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -12751,7 +12756,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 40",
   "act_title": "Choice",
   "wiki_page": "Choice",
@@ -13094,7 +13099,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 41",
   "act_title": "Birth",
   "wiki_page": "Birth",
@@ -13456,7 +13461,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 42",
   "act_title": "Only One",
   "wiki_page": "Only One (chapter)",
@@ -13802,7 +13807,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 43",
   "act_title": "Key",
   "wiki_page": "Key",
@@ -14170,7 +14175,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 44",
   "act_title": "Path",
   "wiki_page": "Path",
@@ -14492,7 +14497,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 45",
   "act_title": "The Price of Sin",
   "wiki_page": "The Price of Sin",
@@ -14600,6 +14605,7 @@
     "url": "https://www.youtube.com/watch?v=x4PftcV02_0",
     "views": "31598",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -14782,7 +14788,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Rebirth",
+  "chapter_title": "Volume 5: Choice to Reborn",
   "act_label": "Chapter 46",
   "act_title": "Rebirth",
   "wiki_page": "Rebirth",
@@ -14894,6 +14900,7 @@
     "url": "https://www.youtube.com/watch?v=x4PftcV02_0",
     "views": "31601",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -15065,6 +15072,724 @@
    "measured": 0,
    "parts": {},
    "drift": 0.0
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Choice to Reborn",
+  "act_label": "Chapter 47",
+  "act_title": "Outbreak",
+  "wiki_page": "Outbreak (chapter)",
+  "slug": "v5_Chapter_47",
+  "candidates": [
+   {
+    "seconds": 4803,
+    "title": "NIKKE Chapter 47 Full Story [EN Dub] | OUTBREAK",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=dGi3CViChbU",
+    "views": 165,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5791,
+    "title": "NIKKE - Chapter 47 - Outbreak",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=PFR5PWyLahw",
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 937,
+    "title": "Chapter 47-48 Best Story Moments [EN Dub] | NIKKE",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=9XZqxlTqIrI",
+    "views": 36,
+    "rejected": [
+     "multi-act",
+     "fragment"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 745,
+    "title": "Dorothy's Story in Chapter 47-48 [EN Dub] | Best Moments | NIKKE",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=ComVpLD9gg4",
+    "views": 164,
+    "rejected": [
+     "multi-act",
+     "fragment"
+    ],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 391,
+    "title": "Bahamut's Funniest Moments [EN Dub] | NIKKE Chapter 47\u201348",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=EKO38sYdEaM",
+    "views": 512,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 622,
+    "title": "Only One's Best Family Moments [EN Dub] | NIKKE Chapter 47\u201348",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=6n3hMFKgxV0",
+    "views": 2970,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 6459,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 47 [Outbreak] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=ggu1vmKMS2M",
+    "views": 7844,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 8290,
+    "title": "NIKKE - So THIS is how NIKKES are made | Chapter 47 - Outbreak FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=CCbV5fxqR5w",
+    "views": 463,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 5157,
+    "title": "Campaign Chapter 47, OUTBREAK, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=ss_qD4mtBTM",
+    "views": 528,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5060,
+    "title": "Chapter 47: Outbreak - FULL STORY | Goddess of Victory: NIKKE",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=-2iJBkrYmz0",
+    "views": 148,
+    "rejected": [],
+    "upload_date": "20260816"
+   },
+   {
+    "seconds": 5669,
+    "title": "Goddess of Victory NIKKE - Campaign Chapter 47 (Outbreak)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=9aoasVvLc3E",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 20075,
+    "title": "Main Story CH 47/48 Playthrough | BIG DAY | NIKKE",
+    "uploader": "EiZEN",
+    "url": "https://www.youtube.com/watch?v=7JX20L1cx6Q",
+    "views": 25644,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 19891,
+    "title": "NIKKE Chapter 47 48 FULL PLAYTHROUGH",
+    "uploader": "Pyrrhixz",
+    "url": "https://www.youtube.com/watch?v=85RQ7-q-_a8",
+    "views": "13816",
+    "rejected": [
+     "multi-act"
+    ]
+   },
+   {
+    "seconds": 4877,
+    "title": "[CAMPAIGN] Chapter 47 Full Story | EN Dubbed | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Light Yuusha",
+    "url": "https://www.youtube.com/watch?v=PHxy37D6MyA",
+    "views": 129,
+    "rejected": [],
+    "upload_date": "20260819"
+   },
+   {
+    "seconds": 4918,
+    "title": "Nikke Story Chapter 47 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=1YBmycmViRc",
+    "views": 9808,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5744,
+    "title": "NIKKE Main Story Chapter 47 English Sub and Dub",
+    "uploader": "KING1993GAMING",
+    "url": "https://www.youtube.com/watch?v=xvzEiyYFNi4",
+    "views": 99,
+    "rejected": [],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 4709,
+    "title": "Nikke Chapter 47 Full Story 'The Outbreak of War Echoes Across the Surface | Nikke",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=P_TdeUxGMVo",
+    "views": 4888,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5044,
+    "title": "Chapter 47 - NIKKE \"Outbreak\" Full Main Story Quest",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=-DU1apFAlcI",
+    "views": 8500,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4929,
+    "title": "Chapter 47 - Outbreak Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=kaVTUmmj464",
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 7508,
+    "title": "Goddess of Victory Nikke Chapter 47",
+    "uploader": "NickDXD",
+    "url": "https://www.youtube.com/watch?v=NWMDA2N3q8Y",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260816"
+   },
+   {
+    "seconds": 17437,
+    "title": "I'M NOT PREPARED! Chapter 47 and 48 Main Story! | Goddess of Victory: NIKKE",
+    "uploader": "Gavin Vengeance",
+    "url": "https://www.youtube.com/watch?v=Q6jA7nS22Yw",
+    "views": 7758,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260813"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 4709,
+    "title": "Nikke Chapter 47 Full Story 'The Outbreak of War Echoes Across the Surface | Nikke",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=P_TdeUxGMVo",
+    "views": 4888,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4803,
+    "title": "NIKKE Chapter 47 Full Story [EN Dub] | OUTBREAK",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=dGi3CViChbU",
+    "views": 165,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4877,
+    "title": "[CAMPAIGN] Chapter 47 Full Story | EN Dubbed | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Light Yuusha",
+    "url": "https://www.youtube.com/watch?v=PHxy37D6MyA",
+    "views": 129,
+    "rejected": [],
+    "upload_date": "20260819"
+   },
+   {
+    "seconds": 4918,
+    "title": "Nikke Story Chapter 47 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=1YBmycmViRc",
+    "views": 9808,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4929,
+    "title": "Chapter 47 - Outbreak Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=kaVTUmmj464",
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5044,
+    "title": "Chapter 47 - NIKKE \"Outbreak\" Full Main Story Quest",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=-DU1apFAlcI",
+    "views": 8500,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5060,
+    "title": "Chapter 47: Outbreak - FULL STORY | Goddess of Victory: NIKKE",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=-2iJBkrYmz0",
+    "views": 148,
+    "rejected": [],
+    "upload_date": "20260816"
+   },
+   {
+    "seconds": 5157,
+    "title": "Campaign Chapter 47, OUTBREAK, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=ss_qD4mtBTM",
+    "views": 528,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5669,
+    "title": "Goddess of Victory NIKKE - Campaign Chapter 47 (Outbreak)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=9aoasVvLc3E",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 5744,
+    "title": "NIKKE Main Story Chapter 47 English Sub and Dub",
+    "uploader": "KING1993GAMING",
+    "url": "https://www.youtube.com/watch?v=xvzEiyYFNi4",
+    "views": 99,
+    "rejected": [],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 5791,
+    "title": "NIKKE - Chapter 47 - Outbreak",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=PFR5PWyLahw",
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 6459,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 47 [Outbreak] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=ggu1vmKMS2M",
+    "views": 7844,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 7508,
+    "title": "Goddess of Victory Nikke Chapter 47",
+    "uploader": "NickDXD",
+    "url": "https://www.youtube.com/watch?v=NWMDA2N3q8Y",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260816"
+   },
+   {
+    "seconds": 8290,
+    "title": "NIKKE - So THIS is how NIKKES are made | Chapter 47 - Outbreak FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=CCbV5fxqR5w",
+    "views": 463,
+    "rejected": [],
+    "upload_date": "20260814"
+   }
+  ],
+  "stats": {
+   "n": 14,
+   "median": 85,
+   "low": 78,
+   "high": 138,
+   "q1": 82,
+   "q3": 99,
+   "trimmed_mean": 92,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Choice to Reborn",
+  "act_label": "Chapter 48",
+  "act_title": "Reborn",
+  "wiki_page": "Reborn",
+  "slug": "v5_Chapter_48",
+  "candidates": [
+   {
+    "seconds": 7052,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 48 [Reborn] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=HOvjnSeDES4",
+    "views": 8810,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 7251,
+    "title": "NIKKE - HOLY UPGRADES | Chapter 48 - Reborn FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=k2i15pLr9cg",
+    "views": 357,
+    "rejected": [],
+    "upload_date": "20260814"
+   },
+   {
+    "seconds": 216,
+    "title": "\u3010NIKKE\u3011 Normal Campaign Chapter 48 Reborn | Lost Relics",
+    "uploader": "Xiao. tian",
+    "url": "https://www.youtube.com/watch?v=hisjZtQUKQc",
+    "views": "181",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 5286,
+    "title": "RED SHOES IS BACK?! | REBORN Chapter 48 NIKKE Playthrough",
+    "uploader": "WhispyStars",
+    "url": "https://www.youtube.com/watch?v=GcWlewwT2Jo",
+    "views": 1478,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 4804,
+    "title": "Nikke goddess of victory chapter 48 reborn full story English ",
+    "uploader": "\ud314\ub808\ud2b8 nikke and other games  \u30c4 \ud83c\udfb0\ud83d\udcb0",
+    "url": "https://www.youtube.com/watch?v=LHtesxUuYOg",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 4964,
+    "title": "Chapter 48: Reborn - FULL STORY | Goddess of Victory: NIKKE",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=SyZKL1h7pLc",
+    "views": 160,
+    "rejected": [],
+    "upload_date": "20260817"
+   },
+   {
+    "seconds": 4763,
+    "title": "NIKKE Chapter 48 Full Story [EN Dub] | REBORN",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=i68RpxDj4ek",
+    "views": 189,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5674,
+    "title": "NIKKE - Chapter 48 - Reborn",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=J9adTiTeTRE",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 554,
+    "title": "Red Shoes Tries to Corrupt Rapunzel | NIKKE Chapter 48",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=mJnEm_bOA-E",
+    "views": 26693,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 937,
+    "title": "Chapter 47-48 Best Story Moments [EN Dub] | NIKKE",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=9XZqxlTqIrI",
+    "views": 36,
+    "rejected": [
+     "multi-act",
+     "fragment",
+     "act-mismatch"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 1103,
+    "title": "Rapunzel & Scarlet's New Form DECIMATE Altruia & Egovista | Goddess of Victory: NIKKE",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=iO9YvoSI0og",
+    "views": 638,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260817"
+   },
+   {
+    "seconds": 4834,
+    "title": "Nikke Story Chapter 48 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=eDOu_nbTThg",
+    "views": 8749,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4694,
+    "title": "Nikke Chapter 48 Full Story 'Rebirth Brings New Power' | Nikke",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=_c8ReqjgrcE",
+    "views": 4452,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 19891,
+    "title": "NIKKE Chapter 47 48 FULL PLAYTHROUGH",
+    "uploader": "Pyrrhixz",
+    "url": "https://www.youtube.com/watch?v=85RQ7-q-_a8",
+    "views": "13824",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17437,
+    "title": "I'M NOT PREPARED! Chapter 47 and 48 Main Story! | Goddess of Victory: NIKKE",
+    "uploader": "Gavin Vengeance",
+    "url": "https://www.youtube.com/watch?v=Q6jA7nS22Yw",
+    "views": 7758,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 17925,
+    "title": "{Nikke Chapter 48} Finally Facing the Fraud?",
+    "uploader": "Double Lucky",
+    "url": "https://www.youtube.com/watch?v=plUy3fSRFt4",
+    "views": 188,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20260818"
+   },
+   {
+    "seconds": 4995,
+    "title": "Chapter 48 - Reborn Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=zJrdALV2shg",
+    "views": 470,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 6103,
+    "title": "Goddess of Victory: Nikke - Chapter 48: Reborn (Eng Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=rT7wKeVZv4Q",
+    "views": 1338,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 582,
+    "title": "Chapter 48 : REBORN | GODDESS OF VICTORY: NIKKE OST",
+    "uploader": "Cosmograph",
+    "url": "https://www.youtube.com/watch?v=HOKF-wM7GNM",
+    "views": "147534",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 342,
+    "title": "[NIKKE] Chapter 48-36 Normal | Liberalio Body Boss | 31.5% Deficit/599k CP Clear",
+    "uploader": "Chump77",
+    "url": "https://www.youtube.com/watch?v=L3vzI-0xpfw",
+    "views": 5090,
+    "rejected": [
+     "multi-act",
+     "fragment"
+    ],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 8698,
+    "title": "Nikke: Campaign Chapter 48 | Twitch VOD",
+    "uploader": "HeksVT",
+    "url": "https://www.youtube.com/watch?v=g8Lcv3ZdQd8",
+    "views": "27",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4816,
+    "title": "[CAMPAIGN] Chapter 48 Full Story | EN Dubbed | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Light Yuusha",
+    "url": "https://www.youtube.com/watch?v=TPNJf5-5KUc",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 256,
+    "title": "Stage 48-36 BOSS (Liberalio Body) Normal Mode | Goddess of Victory: Nikke",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=8vBUuWEFV1U",
+    "views": "2560",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 4694,
+    "title": "Nikke Chapter 48 Full Story 'Rebirth Brings New Power' | Nikke",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=_c8ReqjgrcE",
+    "views": 4452,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4763,
+    "title": "NIKKE Chapter 48 Full Story [EN Dub] | REBORN",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=i68RpxDj4ek",
+    "views": 189,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4804,
+    "title": "Nikke goddess of victory chapter 48 reborn full story English ",
+    "uploader": "\ud314\ub808\ud2b8 nikke and other games  \u30c4 \ud83c\udfb0\ud83d\udcb0",
+    "url": "https://www.youtube.com/watch?v=LHtesxUuYOg",
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260815"
+   },
+   {
+    "seconds": 4816,
+    "title": "[CAMPAIGN] Chapter 48 Full Story | EN Dubbed | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Light Yuusha",
+    "url": "https://www.youtube.com/watch?v=TPNJf5-5KUc",
+    "views": 62,
+    "rejected": [],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 4834,
+    "title": "Nikke Story Chapter 48 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=eDOu_nbTThg",
+    "views": 8749,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 4964,
+    "title": "Chapter 48: Reborn - FULL STORY | Goddess of Victory: NIKKE",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=SyZKL1h7pLc",
+    "views": 160,
+    "rejected": [],
+    "upload_date": "20260817"
+   },
+   {
+    "seconds": 4995,
+    "title": "Chapter 48 - Reborn Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=zJrdALV2shg",
+    "views": 470,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 5286,
+    "title": "RED SHOES IS BACK?! | REBORN Chapter 48 NIKKE Playthrough",
+    "uploader": "WhispyStars",
+    "url": "https://www.youtube.com/watch?v=GcWlewwT2Jo",
+    "views": 1478,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 5674,
+    "title": "NIKKE - Chapter 48 - Reborn",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=J9adTiTeTRE",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 6103,
+    "title": "Goddess of Victory: Nikke - Chapter 48: Reborn (Eng Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=rT7wKeVZv4Q",
+    "views": 1338,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 7052,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 48 [Reborn] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=HOvjnSeDES4",
+    "views": 8810,
+    "rejected": [],
+    "upload_date": "20260813"
+   },
+   {
+    "seconds": 7251,
+    "title": "NIKKE - HOLY UPGRADES | Chapter 48 - Reborn FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=k2i15pLr9cg",
+    "views": 357,
+    "rejected": [],
+    "upload_date": "20260814"
+   }
+  ],
+  "stats": {
+   "n": 12,
+   "median": 83,
+   "low": 78,
+   "high": 121,
+   "q1": 80,
+   "q3": 100,
+   "trimmed_mean": 89,
+   "measured": 0,
+   "parts": {},
+   "drift": null
   }
  }
 ]
