@@ -234,6 +234,7 @@ and spends the bot-check budget on them before it reaches the new one.
 YouTube starts answering "Sign in to confirm you're not a bot"
 after a few hundred full extractions.
 `enrich.sh` ends by printing how many URLs it attempted, enriched and failed,
+the error line of the first failure,
 and a `BOT CHECK` notice when that answer was among the failures,
 after which it attempts none of the URLs still queued;
 it exits non-zero whenever an extraction failed.
@@ -521,6 +522,13 @@ and the build should either fail or correct itself.
 - `yt-dlp --print "%(duration)s\t..."` does **not** interpret `\t`.
   Pass a real tab (`TAB=$'\t'` and `${TAB}` in the template),
   or every downstream field split silently collapses.
+- yt-dlp's messages use typographic punctuation
+  (the apostrophe in "you're" is U+2019),
+  and in the C locale a sandboxed or scheduled script often runs in
+  a regex `.` matches one byte of that three-byte character and no more.
+  Match the ASCII stretch of a message ("not a bot"),
+  as `enrich.sh` does; an interactive shell whose `grep` is not GNU grep
+  can hide the miss entirely.
 - Label the count of chapter entries "entries", not "acts",
   when a chapter also contains a prelude, prologue or interlude.
 - Quest part titles can contain commas
