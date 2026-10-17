@@ -537,6 +537,9 @@ Instead:
 
 The vocabulary for those assertions is in `scripts/assertions.py`;
 the assertions themselves belong in the report's own `claims.py`.
+A ranking claim counts from either end,
+so "followed by" after the longest is `rank_at_most(..., 2)`
+and "the next shortest" is `rank_at_most(..., 2, end="min")`.
 Verification is the default and `--no-verify` is the escape hatch.
 The test is: delete a video from an evidence file, re-run,
 and the build should either fail or correct itself.

@@ -10,7 +10,9 @@ Vocabulary:
     count_above(chapter, minutes, n)      at least n entries longer than `minutes`
     none_above(chapter, minutes)          no entry is longer than `minutes`
     median_between(chapter, act, lo, hi)  this act's estimate is within [lo, hi]
-    rank_at_most(chapter, act, k, scope)  this act is among the k longest
+    rank_at_most(chapter, act, k, scope, end)
+                                          this act is among the k longest, or
+                                          with end="min" the k shortest
     sample_at_most(chapter, act, n)       this act rests on n uploads or fewer
     sample_at_least(chapter, act, n)      this act rests on n uploads or more
     every_sample_at_least(chapter, n)     every entry rests on n uploads or more
@@ -103,15 +105,22 @@ def every_sample_at_least(chapter, n, quote):
     return Claim(quote, f"{chapter}: every entry on {n}+ uploads", check)
 
 
-def rank_at_most(chapter, act_label, k, quote, scope="global"):
+def rank_at_most(chapter, act_label, k, quote, scope="global", end="max"):
+    """`end` counts from the same end as in is_extreme, so that "the second
+    longest" and "the next shortest" are both a rank of at most 2."""
+    sign = 1 if end == "max" else -1
+    side = "longest" if end == "max" else "shortest"
+
     def check(index):
         act = _act(index, chapter, act_label)
         pool = _ranked(index, chapter, act, scope)
         if pool is None:
             return False, _unranked(act)
-        got = 1 + sum(1 for o in pool if median_of(o) > median_of(act))
-        return got <= k, f"{act_label} ranks {got} of {len(pool)}, wanted top {k}"
-    return Claim(quote, f"{chapter} {act_label}: top {k} {scope}", check)
+        got = 1 + sum(1 for o in pool
+                      if sign * median_of(o) > sign * median_of(act))
+        return got <= k, \
+            f"{act_label} ranks {got} of {len(pool)}, wanted {k} {side} or better"
+    return Claim(quote, f"{chapter} {act_label}: {k} {side} {scope}", check)
 
 
 def is_extreme(chapter, act_label, end, quote, scope="chapter"):

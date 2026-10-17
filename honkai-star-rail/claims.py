@@ -45,6 +45,10 @@ CLAIMS = [
                  scope="chapter"),
     is_extreme("planarcadia", "Mission 6", "min",
                "*To Roll the Stars in Astropolis* is the shortest, at {shortest_len}"),
+    rank_at_most("planarcadia", "Mission 7", 2,
+                 "and *Dance With the Beast Before Moonrise*, the second mission "
+                 "set on Astropolis, follows at {len_Mission_7}",
+                 scope="chapter", end="min"),
     count_above("planarcadia", 240, 5,
                 "the two Astropolis missions are the only ones under four hours"),
     median_between("planarcadia", "Mission 6", 0, 240,
