@@ -365,6 +365,20 @@ Discard, by title:
   Nothing catches that automatically;
   add a `!` pattern for that uploader's titles to `partials.txt`,
   as Reverse: 1999 does.
+- **one video, two uploaders**: a channel that mirrors its uploads to a second
+  channel, or re-uploads someone else's, offers one playthrough under two names,
+  and the per-uploader rule above counts both.
+  Rows with the same title (case and spacing aside)
+  and runtimes within `REUPLOAD_SHARE` (a fifth of a percent) of each other
+  are one video: the marker-measured copy is kept,
+  else the earliest upload, and the rest are rejected as `re-upload`.
+  The title alone is not enough,
+  because uploaders copy each other's title templates
+  ("Version 3.1 Main Story Quest (Full Playthrough)")
+  for playthroughs minutes apart;
+  matching the runtime as well is what makes it the same file,
+  and the few seconds of slack are for a re-uploader
+  who trimmed a channel intro or an end card.
 
 Then drop anything below half or above 1.8 times the median as truncated or padded.
 
@@ -529,6 +543,14 @@ and the build should either fail or correct itself.
   Match the ASCII stretch of a message ("not a bot"),
   as `enrich.sh` does; an interactive shell whose `grep` is not GNU grep
   can hide the miss entirely.
+- A re-upload looks like independent corroboration.
+  Honkai: Star Rail's Mission 7 counted one playthrough twice,
+  under MilkyWayJono and Jonozoic,
+  and Wuthering Waves' first chapter carried a 2026 re-upload
+  of each of QuestWatcher's 2025 videos.
+  The runtime gives it away; the uploader never does.
+  A copy trimmed by more than a few seconds is not caught,
+  so look at same-titled pairs a minute or two apart in step 7.
 - Label the count of chapter entries "entries", not "acts",
   when a chapter also contains a prelude, prologue or interlude.
 - Quest part titles can contain commas

@@ -15,7 +15,7 @@ are all handed over here before the story proper starts.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prologue I | Utterance of Marvels: I | 36 min | 32 min - 40 min | 14 | high |
+| Prologue I | Utterance of Marvels: I | 36 min | 31 min - 40 min | 13 | medium |
 | Prologue II | Utterance of Marvels: II | 15 min | 8 min - 15 min | 3 | low |
 <!--/gen-->
 
@@ -46,12 +46,12 @@ and puts down the thing waiting at the bottom of it.
 <!--gen:stats act="Prologue I"-->
 
 - **Estimated length:** 36 min
-- **Sampled range:** 32 min to 40 min for the middle half (full spread 20 min to 46 min) across 14 playthrough uploads (22 further candidates screened out)
-- **Confidence:** high
+- **Sampled range:** 31 min to 40 min for the middle half (full spread 20 min to 46 min) across 13 playthrough uploads (23 further candidates screened out)
+- **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 14 uploads
+- **Measured from the uploader's chapter markers:** 3 of 13 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Prologue I"-->
@@ -67,7 +67,6 @@ and puts down the thing waiting at the bottom of it.
 | 34 min | Wuthering Waves: Utterance of Marvels ACT: I & II FULL QUEST (4K/60fps PS5 Gameplay - No Commentary) | Sakibrex AdvGaming | 193 | 2025-06-03 | <https://www.youtube.com/watch?v=FGB6I5LZtN4> |
 | 35 min | Utterance of Marvels Act I \| Wuthering Waves Main Quest | chris28zero.gaming | 27 | 2024-06-09 | <https://www.youtube.com/watch?v=Rm9O2lXNEDY> |
 | 36 min | Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover) | QuestWatcher | 3,543 | 2025-11-18 | <https://www.youtube.com/watch?v=SzSifkaGfiM> |
-| 36 min | Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover) | Răzvan Ciprian | 32 | 2026-07-23 | <https://www.youtube.com/watch?v=Ckhl8NuFkD8> |
 | 39 min | Utterance of Marvels I / Prologue / Main Quest / Mobile Gameplay / iOS / Wuthering Waves | Galaxy Playgroundz | 94 | 2024-05-23 | <https://www.youtube.com/watch?v=3E2Ho2V_hAE> |
 | 39 min | Prologue \| Act 1: Utterance of Marvels \| Wuthering Waves 1.0 | Reonoki | 18 | 2024-05-24 | <https://www.youtube.com/watch?v=A7y3_lscyQQ> |
 | 40 min | Wuthering Waves: Prologue & First Steps in Jinzhou City \| Full Gameplay No Commentary [Ep 1] | ZaxFih_Channel | 26 | 2026-01-15 | <https://www.youtube.com/watch?v=yurc2zsrqoc> |

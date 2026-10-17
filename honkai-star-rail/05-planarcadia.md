@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 39 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 38 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -26,10 +26,10 @@ and the bait turns up in an IPC research institute.
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 19 min | 3 h 06 min - 3 h 27 min | 18 | high |
-| Mission 7 | Dance With the Beast Before Moonrise | 3 h 26 min | 3 h 08 min - 3 h 31 min | 14 | high |
+| Mission 7 | Dance With the Beast Before Moonrise | 3 h 25 min | 3 h 07 min - 3 h 32 min | 13 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->34 h 39 min<!--/f-->**
+**Total: <!--f:total-->34 h 38 min<!--/f-->**
 
 ## Pacing
 
@@ -38,7 +38,7 @@ followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 38 min<!--/f--
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
 is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->,
 and *Dance With the Beast Before Moonrise*, the second mission set on Astropolis,
-follows at <!--f:len_Mission_7-->3 h 26 min<!--/f-->:
+follows at <!--f:len_Mission_7-->3 h 25 min<!--/f-->:
 the two Astropolis missions are the only ones under four hours.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
@@ -320,8 +320,8 @@ and a gondola carries everyone back to Planarcadia
 for the grandest Phantasmoon Games the painting has seen.
 <!--gen:stats act="Mission 7"-->
 
-- **Estimated length:** 3 h 26 min
-- **Sampled range:** 3 h 08 min to 3 h 31 min for the middle half (full spread 2 h 00 min to 4 h 16 min) across 14 playthrough uploads (26 further candidates screened out)
+- **Estimated length:** 3 h 25 min
+- **Sampled range:** 3 h 07 min to 3 h 32 min for the middle half (full spread 2 h 00 min to 4 h 16 min) across 13 playthrough uploads (27 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.6
@@ -342,7 +342,6 @@ for the grandest Phantasmoon Games the painting has seen.
 | 3 h 23 min | Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story) | Major | ~6 | n/a | <https://www.youtube.com/watch?v=hN_fnn1EGg8> |
 | 3 h 25 min | HSR 4.6 Trailblaze Missions \| Full Walkthrough (Dance With the Beast Before Moonrise) | Arie seventline | ~152 | n/a | <https://www.youtube.com/watch?v=r_t2u8z0w8o> |
 | 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | MilkyWayJono | ~4 | n/a | <https://www.youtube.com/watch?v=z0nmpxHgcSc> |
-| 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | Jonozoic | ~828 | n/a | <https://www.youtube.com/watch?v=eKPLA-tsZa4> |
 | 3 h 30 min | HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise | Izom F2P Gaming | ~4 | n/a | <https://www.youtube.com/watch?v=EyOPNmtubwQ> |
 | 3 h 30 min | Honkai: Star Rail 4.6 — Dance With the Beast Before Moonrise (Full Main Story Quest) | BSS Gaming | ~184 | n/a | <https://www.youtube.com/watch?v=LjjYwBtOVBA> |
 | 3 h 34 min | 『Honkai Star Rail』4.6 ''Dance With The Beast Before Moonrise'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | ~35 | n/a | <https://www.youtube.com/watch?v=qkoLqUEOyVg> |

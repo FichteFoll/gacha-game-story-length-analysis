@@ -42,7 +42,7 @@ and prints a one-line-per-act summary for eyeballing.
 
 A candidate survives only if its title plausibly names this exact act and it is
 not a cutscene reel, a stream, a multi-act compilation or a truncated upload,
-and only one candidate per uploader is counted per act.
+and only one candidate per uploader, and per video, is counted per act.
 """
 import json
 import pathlib
@@ -118,6 +118,8 @@ PART_SAMPLES = 3             # uploads needed before a quest part's time is kept
 IQR_SAMPLES = 8              # ... and before the middle half beats the extremes
 UNSTABLE_DRIFT = 0.10        # median move against the baseline that means "soft"
 BUNDLE_TOLERANCE = 0.15      # how far a bundle's runtime may sit from the sum
+REUPLOAD_SHARE = 0.002       # runtime gap, as a fraction, within which one
+                             # title under two uploaders is one video
 
 
 def unit_pattern(acts):
@@ -632,6 +634,46 @@ def mark_splits(rows):
                     row["rejected"].append("part-of-an-act")
 
 
+def collapse_reuploads(rows):
+    """One video posted by several uploaders is one playthrough.
+
+    A channel that mirrors its videos to a second channel, or re-uploads someone
+    else's, offers the same footage under two uploaders, and dedupe_uploaders()
+    keys on the uploader, so both would count. The tell is the title and the
+    runtime together: uploaders copy each other's title templates, so a title
+    repeats between independent playthroughs, but those differ by minutes. The
+    runtime is the upload's own rather than a marker-measured span, and is
+    allowed a fifth of a percent, because a re-uploader who trims a channel
+    intro or an end card shaves off seconds rather than nothing.
+
+    The row kept is the one screening thinks best of, so that a marker-measured
+    copy wins over one whose markers were never fetched, and between equals the
+    earliest upload: the original, which keeps the playthrough under the
+    uploader dedupe_uploaders() will weigh it against their other rows with.
+    """
+    def rank(row):
+        return (bool(row["rejected"]), not row.get("measured"),
+                row.get("upload_date") or "~")
+
+    groups = []
+    for row in sorted(rows, key=rank):
+        runtime = row.get("runtime", row["seconds"])
+        title = " ".join(row["title"].lower().split())
+        for group in groups:
+            first = group[0]
+            if first[0] == title \
+                    and abs(first[1] - runtime) <= REUPLOAD_SHARE * runtime:
+                group.append((title, runtime, row))
+                break
+        else:
+            groups.append([(title, runtime, row)])
+    for group in groups:
+        kept = group[0][2]
+        for _, _, row in group[1:]:
+            if row["uploader"] != kept["uploader"]:
+                row["rejected"].append("re-upload")
+
+
 def readmit_partials(rows):
     """Undo a "part of an act" rejection where the runtime contradicts the title.
 
@@ -770,6 +812,7 @@ def main(argv):
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
         rows = candidates_for(act, workdir, chapter_keys, act_keys, reject,
                               compilation, pin, partial, enriched, parts, floor)
+        collapse_reuploads(rows)
         mark_splits(rows)
         readmit_partials(rows)
         kept = dedupe_uploaders(

@@ -42,7 +42,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=Ckhl8NuFkD8",
     "views": 32,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260723"
    },
    {
@@ -459,15 +461,6 @@
     "upload_date": "20251118"
    },
    {
-    "seconds": 2190,
-    "title": "Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=Ckhl8NuFkD8",
-    "views": 32,
-    "rejected": [],
-    "upload_date": "20260723"
-   },
-   {
     "seconds": 2314,
     "title": "Utterance of Marvels I / Prologue / Main Quest / Mobile Gameplay / iOS / Wuthering Waves",
     "uploader": "Galaxy Playgroundz",
@@ -529,11 +522,11 @@
    }
   ],
   "stats": {
-   "n": 14,
+   "n": 13,
    "median": 36,
    "low": 20,
    "high": 46,
-   "q1": 32,
+   "q1": 31,
    "q3": 40,
    "trimmed_mean": 36,
    "measured": 3,
@@ -1179,7 +1172,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=o_bTYJ9wxHo",
     "views": 11,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260724"
    },
    {
@@ -1409,15 +1404,6 @@
     "upload_date": "20251214"
    },
    {
-    "seconds": 4175,
-    "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=o_bTYJ9wxHo",
-    "views": 11,
-    "rejected": [],
-    "upload_date": "20260724"
-   },
-   {
     "seconds": 4266,
     "title": "Wuthering Waves - Main Quests - First Resonance",
     "uploader": "Authrone",
@@ -1464,12 +1450,12 @@
    }
   ],
   "stats": {
-   "n": 18,
+   "n": 17,
    "median": 67,
    "low": 36,
    "high": 91,
-   "q1": 51,
-   "q3": 72,
+   "q1": 50,
+   "q3": 74,
    "trimmed_mean": 64,
    "measured": 0,
    "parts": {},
@@ -1622,7 +1608,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=U2emm_5r4lg",
     "views": 11,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260724"
    },
    {
@@ -1768,15 +1756,6 @@
     "upload_date": "20251123"
    },
    {
-    "seconds": 2905,
-    "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=U2emm_5r4lg",
-    "views": 11,
-    "rejected": [],
-    "upload_date": "20260724"
-   },
-   {
     "seconds": 2910,
     "title": "1.0 Story Quest | Huanglong I Act II | Jinzhou Rising: Echoing Marche | Wuthering Waves | D & K",
     "uploader": "D & K",
@@ -1832,16 +1811,16 @@
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 46,
+   "n": 15,
+   "median": 44,
    "low": 25,
    "high": 70,
    "q1": 35,
-   "q3": 52,
+   "q3": 53,
    "trimmed_mean": 45,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.043
   }
  },
  {
@@ -2010,7 +1989,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=Fax2sLyUqvQ",
     "views": 7,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260725"
    },
    {
@@ -2192,15 +2173,6 @@
     "upload_date": "20260527"
    },
    {
-    "seconds": 2859,
-    "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 3: Ominous Star (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=Fax2sLyUqvQ",
-    "views": 7,
-    "rejected": [],
-    "upload_date": "20260725"
-   },
-   {
     "seconds": 2918,
     "title": "Wuthering Waves - Main Quest Huanglong Chapter 1\u00b7Act 3: Ominous Star - no commentary",
     "uploader": "Flaeri",
@@ -2220,16 +2192,16 @@
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 40,
+   "n": 15,
+   "median": 39,
    "low": 27,
    "high": 55,
-   "q1": 35,
+   "q1": 34,
    "q3": 47,
-   "trimmed_mean": 40,
+   "trimmed_mean": 39,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.025
   }
  },
  {
@@ -2385,7 +2357,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=gEOzkVmWzoE",
     "views": 12,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260725"
    },
    {
@@ -2595,15 +2569,6 @@
    {
     "seconds": 3523,
     "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=gEOzkVmWzoE",
-    "views": 12,
-    "rejected": [],
-    "upload_date": "20260725"
-   },
-   {
-    "seconds": 3523,
-    "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=rfzK0Vfdx88",
     "views": 524,
@@ -2639,7 +2604,7 @@
    }
   ],
   "stats": {
-   "n": 19,
+   "n": 18,
    "median": 54,
    "low": 30,
    "high": 70,
@@ -2796,7 +2761,9 @@
     "uploader": "R\u0103zvan Ciprian",
     "url": "https://www.youtube.com/watch?v=i8-ccQ__i0Q",
     "views": 8,
-    "rejected": [],
+    "rejected": [
+     "re-upload"
+    ],
     "upload_date": "20260725"
    },
    {
@@ -2943,15 +2910,6 @@
     "upload_date": "20251129"
    },
    {
-    "seconds": 4468,
-    "title": "Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Female Rover)",
-    "uploader": "R\u0103zvan Ciprian",
-    "url": "https://www.youtube.com/watch?v=i8-ccQ__i0Q",
-    "views": 8,
-    "rejected": [],
-    "upload_date": "20260725"
-   },
-   {
     "seconds": 4659,
     "title": "Wuthering Waves - Main Quest Huanglong Chapter 1\u00b7Act 5: Rewinding Raindrops - no commentary",
     "uploader": "Flaeri",
@@ -2971,12 +2929,12 @@
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 12,
    "median": 69,
    "low": 36,
    "high": 101,
-   "q1": 64,
-   "q3": 74,
+   "q1": 63,
+   "q3": 73,
    "trimmed_mean": 67,
    "measured": 0,
    "parts": {},

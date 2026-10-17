@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter I: Jinzhou Rising
 
-**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 39 min**
+**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 36 min**
 <!--/gen-->
 
 Jinzhou takes Rover in, and the city's quiet turns out to be borrowed.
@@ -15,18 +15,18 @@ to an island that is not on any map.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | First Resonance | 1 h 07 min | 51 min - 1 h 12 min | 18 | medium |
-| Act II | Echoing Marche | 46 min | 35 min - 52 min | 16 | medium |
-| Act III | Ominous Star | 40 min | 35 min - 47 min | 16 | medium |
-| Act IV | Clashing Blades | 54 min | 46 min - 59 min | 19 | medium |
-| Act V | Rewinding Raindrops | 1 h 09 min | 1 h 04 min - 1 h 14 min | 13 | high |
+| Act I | First Resonance | 1 h 07 min | 50 min - 1 h 14 min | 17 | medium |
+| Act II | Echoing Marche | 44 min | 35 min - 53 min | 15 | low |
+| Act III | Ominous Star | 39 min | 34 min - 47 min | 15 | medium |
+| Act IV | Clashing Blades | 54 min | 46 min - 59 min | 18 | medium |
+| Act V | Rewinding Raindrops | 1 h 09 min | 1 h 03 min - 1 h 13 min | 12 | high |
 | Act VI | Grand Warstorm | 1 h 34 min | 1 h 18 min - 1 h 45 min | 16 | medium |
 | Interlude | A New Companion | 25 min | 21 min - 34 min | 5 | low |
 | Act VII | Thaw of Eons | 2 h 53 min | 2 h 32 min - 3 h 05 min | 17 | high |
 | Act VIII | To the Shore's End | 2 h 11 min | 2 h 00 min - 2 h 45 min | 11 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->11 h 39 min<!--/f-->**
+**Total: <!--f:total-->11 h 36 min<!--/f-->**
 
 ## Pacing
 
@@ -54,7 +54,7 @@ by people who are far too interested in a stranger with no frequency.
 <!--gen:stats act="Act I"-->
 
 - **Estimated length:** 1 h 07 min
-- **Sampled range:** 51 min to 1 h 12 min for the middle half (full spread 36 min to 1 h 31 min) across 18 playthrough uploads (7 further candidates screened out)
+- **Sampled range:** 50 min to 1 h 14 min for the middle half (full spread 36 min to 1 h 31 min) across 17 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
@@ -79,7 +79,6 @@ by people who are far too interested in a stranger with no frequency.
 | 1 h 07 min | Wuthering Waves V.1.0 - 1 Main Quest Chapter 1 Act 1 [Eng Sub] [Ultrawide] [4K] | Adamantine | 7 | 2025-06-06 | <https://www.youtube.com/watch?v=k00VC1Ay2HM> |
 | 1 h 08 min | Chapter I - Act I: First Resonance \| Wuthering Waves 1.0 | xored | 5 | 2025-10-19 | <https://www.youtube.com/watch?v=Su1clah5938> |
 | 1 h 09 min | Wuthering Waves: Huanglong Main Quest Act 1 First Resonance - Walkthrough No Commentary [4K] | Prunalaul | 21 | 2025-12-14 | <https://www.youtube.com/watch?v=9_mTZ8vfkUc> |
-| 1 h 10 min | Wuthering Waves 1.0 Story - Chapter 1 Act 1: First Resonance (Female Rover) | Răzvan Ciprian | 11 | 2026-07-24 | <https://www.youtube.com/watch?v=o_bTYJ9wxHo> |
 | 1 h 11 min | Wuthering Waves - Main Quests - First Resonance | Authrone | 105 | 2024-05-25 | <https://www.youtube.com/watch?v=bhgofnGbpBE> |
 | 1 h 16 min | Wuthering Waves \| Prologue & Chapter 1 Act 1: First Resonance \| Story Playthrough (No Commentary) | FantasyCore  | 100 | 2025-01-18 | <https://www.youtube.com/watch?v=e14OQ5grDbk> |
 | 1 h 20 min | Wuthering Waves Chapter 1 Act 1: First Resonance (Full Gameplay Walkthrough - No Commentary) | Gatenia | 15 | 2026-03-15 | <https://www.youtube.com/watch?v=p52SYQ3g6XU> |
@@ -98,12 +97,12 @@ detection beacons to repair, Exiles to clear off them,
 and a first look at what the border actually costs.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 46 min
-- **Sampled range:** 35 min to 52 min for the middle half (full spread 25 min to 1 h 10 min) across 16 playthrough uploads (5 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 44 min
+- **Sampled range:** 35 min to 53 min for the middle half (full spread 25 min to 1 h 10 min) across 15 playthrough uploads (6 further candidates screened out)
+- **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -4% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -121,7 +120,6 @@ and a first look at what the border actually costs.
 | 42 min | Wuthering Waves: Main quest Chapter I  - Huanglong - ACT II  - Echoing Marche | Sho | 73 | 2024-05-24 | <https://www.youtube.com/watch?v=Z5fsrisOMTs> |
 | 44 min | Wuthering Waves V.1.0 - 2 Main Quest Chapter 1 Act 2 [Eng Sub] [Ultrawide] [4K] | Adamantine | 8 | 2025-06-06 | <https://www.youtube.com/watch?v=1mMvxoPDwvY> |
 | 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Male Rover) | QuestWatcher | 29 | 2025-11-23 | <https://www.youtube.com/watch?v=QPLHOEidcsA> |
-| 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 2: Echoing Marche (Female Rover) | Răzvan Ciprian | 11 | 2026-07-24 | <https://www.youtube.com/watch?v=U2emm_5r4lg> |
 | 48 min | 1.0 Story Quest \| Huanglong I Act II \| Jinzhou Rising: Echoing Marche \| Wuthering Waves \| D & K | D & K | 41 | 2024-06-01 | <https://www.youtube.com/watch?v=fHCnGyq0ZyQ> |
 | 50 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 2: Echoing Marche - no commentary | Flaeri | 9 | 2025-08-03 | <https://www.youtube.com/watch?v=bpEcaldst4o> |
 | 53 min | WuWa Huanglong Story Quest: Act II \| Wuthering Waves 1.0 Walkthrough (JP Voice) | ViGAMES | 489 | 2026-05-27 | <https://www.youtube.com/watch?v=6hbUgFo3sew> |
@@ -141,12 +139,12 @@ the "fractured star" that did it,
 and Scar, who would rather talk than fight until he does both.
 <!--gen:stats act="Act III"-->
 
-- **Estimated length:** 40 min
-- **Sampled range:** 35 min to 47 min for the middle half (full spread 27 min to 55 min) across 16 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 39 min
+- **Sampled range:** 34 min to 47 min for the middle half (full spread 27 min to 55 min) across 15 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -2% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -168,7 +166,6 @@ and Scar, who would rather talk than fight until he does both.
 | 46 min | 1.0 Story Quest \| Huanglong I Act III \| Jinzhou Rising: Ominous Star \| Wuthering Waves \| D & K | D & K | 65 | 2024-06-01 | <https://www.youtube.com/watch?v=kC_DJ5-TzsE> |
 | 47 min | Wuthering Waves 1.0 Story - Chapter 1 Act 3: Ominous Star (Male Rover) | QuestWatcher | 34 | 2025-11-25 | <https://www.youtube.com/watch?v=FaTfde4T0EY> |
 | 47 min | WuWa Huanglong Story Quest: Act III \| Wuthering Waves 1.0 Walkthrough (JP Voice) | ViGAMES | 404 | 2026-05-27 | <https://www.youtube.com/watch?v=mUiLHBqta4Y> |
-| 48 min | Wuthering Waves 1.0 Story - Chapter 1 Act 3: Ominous Star (Female Rover) | Răzvan Ciprian | 7 | 2026-07-25 | <https://www.youtube.com/watch?v=Fax2sLyUqvQ> |
 | 49 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 3: Ominous Star - no commentary | Flaeri | 8 | 2025-08-03 | <https://www.youtube.com/watch?v=gXEEvx0DAdg> |
 | 55 min | Wuthering Waves \|\| Gameplay Story Quest Huanglong 1; ACT III Ominous Star (No Commentary) | Alonebucket | 6 | 2025-04-21 | <https://www.youtube.com/watch?v=u2pgXR76E04> |
 
@@ -185,7 +182,7 @@ and Scar waiting at the end of it.
 <!--gen:stats act="Act IV"-->
 
 - **Estimated length:** 54 min
-- **Sampled range:** 46 min to 59 min for the middle half (full spread 30 min to 1 h 10 min) across 19 playthrough uploads (5 further candidates screened out)
+- **Sampled range:** 46 min to 59 min for the middle half (full spread 30 min to 1 h 10 min) across 18 playthrough uploads (6 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** 11
 - **Released in:** 1.0
@@ -212,7 +209,6 @@ and Scar waiting at the end of it.
 | 56 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 4: Clashing Blades - no commentary | Flaeri | 6 | 2025-08-04 | <https://www.youtube.com/watch?v=AfkBr666QeA> |
 | 58 min | 1.0 Story Quest \| Huanglong I Act IV \| Jinzhou Rising: Clashing Blades \| Wuthering Waves \| D & K | D & K | 57 | 2024-06-08 | <https://www.youtube.com/watch?v=iOblvcOqCrM> |
 | 59 min | Main Quest: "Clashing Blades" (Japanese dub/English sub) - Wuthering Waves | Aruki | 7 | 2026-06-18 | <https://www.youtube.com/watch?v=frOyjVzy16U> |
-| 59 min | Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover) | Răzvan Ciprian | 12 | 2026-07-25 | <https://www.youtube.com/watch?v=gEOzkVmWzoE> |
 | 59 min | Wuthering Waves 1.0 Story - Chapter 1 Act 4: Clashing Blades (Female Rover) | QuestWatcher | 524 | 2025-11-26 | <https://www.youtube.com/watch?v=rfzK0Vfdx88> |
 | 1 h 00 min | Wuthering Waves Complete Main Quest Clashing Blades | Waifu Delta | 23 | 2024-05-25 | <https://www.youtube.com/watch?v=XtGg3zDrR2g> |
 | 1 h 05 min | [Mobile - Wuthering Waves] Main Story Chp 1 Act 4: Clashing Blades | Jin Yuan | 3 | 2024-06-10 | <https://www.youtube.com/watch?v=qae_Td3p3u4> |
@@ -231,7 +227,7 @@ into the first solid lead on the Black Shores.
 <!--gen:stats act="Act V"-->
 
 - **Estimated length:** 1 h 09 min
-- **Sampled range:** 1 h 04 min to 1 h 14 min for the middle half (full spread 36 min to 1 h 41 min) across 13 playthrough uploads (7 further candidates screened out)
+- **Sampled range:** 1 h 03 min to 1 h 13 min for the middle half (full spread 36 min to 1 h 41 min) across 12 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.0
@@ -254,7 +250,6 @@ into the first solid lead on the Black Shores.
 | 1 h 10 min | Huanglong 1 . Act 5 - Rewinding Raindrops \| Story & Quest [Wuthering Waves] | RyoWesleyy Gamezone | 1,716 | 2024-06-03 | <https://www.youtube.com/watch?v=CaJ-2GXai64> |
 | 1 h 10 min | Rewinding Raindrops Wuthering Waves | WoW Quests | 11,646 | 2024-05-24 | <https://www.youtube.com/watch?v=8ztd68SCIQ4> |
 | 1 h 14 min | Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Male Rover) | QuestWatcher | 47 | 2025-11-29 | <https://www.youtube.com/watch?v=C-tGG1rj03Q> |
-| 1 h 14 min | Wuthering Waves 1.0 Story - Chapter 1 Act 5: Rewinding Raindrops (Female Rover) | Răzvan Ciprian | 8 | 2026-07-25 | <https://www.youtube.com/watch?v=i8-ccQ__i0Q> |
 | 1 h 18 min | Wuthering Waves - Main Quest Huanglong Chapter 1·Act 5: Rewinding Raindrops - no commentary | Flaeri | 16 | 2025-08-06 | <https://www.youtube.com/watch?v=EhyvcMRwQhg> |
 | 1 h 41 min | Wuthering Waves - Main Quests - Rewinding Raindrops | Authrone | 281 | 2024-06-01 | <https://www.youtube.com/watch?v=FO3cvTgr4Xs> |
 

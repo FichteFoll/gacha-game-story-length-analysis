@@ -3177,7 +3177,8 @@
     "url": "https://www.youtube.com/watch?v=PLiYEELOeBE",
     "views": "1056",
     "rejected": [
-     "act-mismatch"
+     "act-mismatch",
+     "re-upload"
     ]
    },
    {
@@ -10468,7 +10469,9 @@
     "uploader": "Jonozoic",
     "url": "https://www.youtube.com/watch?v=eKPLA-tsZa4",
     "views": "828",
-    "rejected": []
+    "rejected": [
+     "re-upload"
+    ]
    },
    {
     "seconds": 12621,
@@ -10589,14 +10592,6 @@
     "rejected": []
    },
    {
-    "seconds": 12386,
-    "title": "Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest | Full Playthrough",
-    "uploader": "Jonozoic",
-    "url": "https://www.youtube.com/watch?v=eKPLA-tsZa4",
-    "views": "828",
-    "rejected": []
-   },
-   {
     "seconds": 12578,
     "title": "HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise",
     "uploader": "Izom F2P Gaming",
@@ -10638,13 +10633,13 @@
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 206,
+   "n": 13,
+   "median": 205,
    "low": 120,
    "high": 256,
-   "q1": 188,
-   "q3": 211,
-   "trimmed_mean": 202,
+   "q1": 187,
+   "q3": 212,
+   "trimmed_mean": 201,
    "measured": 0,
    "parts": {},
    "drift": null

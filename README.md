@@ -113,7 +113,10 @@ including the instalments a channel publishes under one repeated title;
 and uploads whose title does not name the act
 either by name or by chapter plus act number.
 Of the survivors, the outliers are dropped
-as truncated or padded uploads.
+as truncated or padded uploads,
+and each playthrough counts once:
+one upload per uploader,
+and one per video where another channel re-uploaded it.
 
 6. **Estimate.**
 The published figure is the **median** of the accepted uploads.
