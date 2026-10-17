@@ -18,6 +18,9 @@ REPORT = dict(
     # None for a game that gates its story some other way.
     gate_label="Union Level",
     date="2026-09-26",
+    # The baseline was refreshed after the screening changes of that date, so
+    # the stability figure measures movement since then, not query sensitivity.
+    baseline="the medians of 2026-10-17",
 )
 
 CHAPTERS = [

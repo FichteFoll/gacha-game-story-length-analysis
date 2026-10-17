@@ -50,7 +50,7 @@ and puts down the thing waiting at the bottom of it.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 3 of 13 uploads
 <!--/gen-->
 
@@ -91,7 +91,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +88% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Prologue II"-->

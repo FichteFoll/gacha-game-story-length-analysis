@@ -415,6 +415,13 @@ Two checks that replace reviewer judgement, both free:
 - `--compare <earlier analysis.json>` records how far each median moved.
   An act whose median moves by 10 percent or more
   when the query set changes was never settled: rate it low, by definition.
+  A report keeps the map derived from that first analysis
+  (`load_baseline()`) as `data/baseline.json`.
+  Refreshing it from a later analysis resets every drift to zero,
+  and the drift then measures movement since, not query sensitivity:
+  set `baseline` in `report.py` to name it ("the medians of 2026-10-17"),
+  so that the generated text stops calling it an independent query set,
+  and say so in the report's limits.
 - `analyze.py` compares each bundled upload's runtime
   against the sum of the medians of the acts it bundles.
   Those uploads were harvested anyway and are sitting in the rejected pile,

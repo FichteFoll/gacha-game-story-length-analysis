@@ -66,7 +66,7 @@ and shakes off a Voidworm on the far side.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Prologue"-->
@@ -102,7 +102,7 @@ enrolment, an ID photo, the infirmary, and Lynae's missing-attendance problem.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 17 uploads
 <!--/gen-->
 
@@ -146,7 +146,7 @@ then out to the Atuja Camp and into an active Void Storm.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -189,7 +189,7 @@ One of the three longest acts in the game.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -229,7 +229,7 @@ and how much of the Exostrider plan he has been keeping in a drawer.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - I"-->
@@ -267,7 +267,7 @@ rooms that are not rooms, reflections that answer back, and "Mother".
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -308,7 +308,7 @@ and Professor Sevi's projection has to be chased down before it fades.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -347,7 +347,7 @@ The shortest entry in the questline.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 3.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - III"-->
@@ -377,7 +377,7 @@ which means going back to Honami to purge the Left Behind first.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 12 uploads
 <!--/gen-->
 
@@ -417,7 +417,7 @@ and taking the Exostrider up.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 23 uploads
 <!--/gen-->
 
@@ -468,7 +468,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - V"-->
@@ -510,7 +510,7 @@ and the follow-up runs from the infirmary to the station two days later.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VI"-->
@@ -553,7 +553,7 @@ and the nightmares have guns.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
-- **Stability:** median -1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 14 uploads
 <!--/gen-->
 
@@ -595,7 +595,7 @@ look like it is fine.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VII"-->

@@ -216,6 +216,17 @@ def region_label(report):
     return report.config.get("region_label", "Region")
 
 
+def baseline(report, default):
+    """What the stability figure is measured against, or `default`, the first
+    independent query set worded to fit the sentence.
+
+    A report whose baseline was refreshed from a later analysis names it
+    instead, because the drift then no longer says anything about how much the
+    figures depend on the queries.
+    """
+    return report.config.get("baseline", default)
+
+
 def bounds(stats):
     """The middle half where the sample carries it, the full spread otherwise."""
     if stats.get("q1") and stats.get("q3"):
@@ -341,8 +352,9 @@ def act_stats(report, act, parts, versions, version_index, superlative):
                     f"{report.gate_for(act)}")
     body.append(f"- **Released in:** {released_in(act, versions, version_index)}")
     if s.get("drift") is not None:
+        against = baseline(report, "an earlier, independent query set")
         body.append(f"- **Stability:** median {signed_percent(s['drift'])} "
-                    f"against an earlier, independent query set")
+                    f"against {against}")
     if s.get("measured"):
         body.append(f"- **Measured from the uploader's chapter markers:** "
                     f"{s['measured']} of {s['n']} uploads")
@@ -435,7 +447,8 @@ def thresholds(report):
         f"It is *low* on fewer than {word(MIN_SAMPLES)} uploads, \n"
         f"and *low* for any {unit(report)} whose median moved by "
         f"{round(UNSTABLE_DRIFT * 100)} percent or more \n"
-        "against the earlier, independent set of queries "
+        "against "
+        f"{baseline(report, 'the earlier, independent set of queries')} "
         "(`analyze.py --compare`), \n"
         "whatever its sample size says.",
         f"- {plural_unit(unit(report)).capitalize()} resting on fewer than "

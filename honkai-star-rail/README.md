@@ -77,7 +77,7 @@ below that it is the minimum and maximum.
 and *medium* under 1.5.
 It is *low* on fewer than eight uploads,
 and *low* for any mission whose median moved by 10 percent or more
-against the earlier, independent set of queries (`analyze.py --compare`),
+against the medians of 2026-10-17 (`analyze.py --compare`),
 whatever its sample size says.
 - Missions resting on fewer than three uploads are published with their figures
 but take no part in any ranking,
@@ -117,5 +117,11 @@ and the wiki types the Trailblaze Continuance chapters
 apart from the Trailblaze Missions.
 None of them is part of the main progression,
 so they are all outside this report's scope.
+- The stability figures here are measured against the medians of 2026-10-17,
+taken after that day's screening changes,
+rather than against the first, independent set of queries.
+They say how far a figure has moved since,
+not how much it depends on the queries,
+so an act unsettled before that date is no longer flagged by drift alone.
 
 Data collected <!--f:date-->2026-10-17<!--/f-->.

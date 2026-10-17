@@ -50,7 +50,7 @@ ending on a murder that cannot have happened.
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median +4% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (11):** Long Day's Journey Into Night; The Knocking at Ungodly Hours; The Youths Who Chase Dreams; Sleepless Night; Tales from the Golden Age; Good Omen, My Friend; Lullaby of the North Wind; Gentleness, the Name of Nocturne; Through a Glass Darkly; Should One Awaken at Midnight; Whodunit
 <!--/gen-->
@@ -90,7 +90,7 @@ the mystery of the Watchmaker.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.1
-- **Stability:** median +4% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
 - **Quest parts (9):** The Devil in Velvet; Lost Generation; Double Indemnity; When the Sacred Ginmill Closes; Heaven is a Place on Earth; Why Do the Heathen Rage?; The Tell-Tale Heart; All the Sad Tales; A Walk Among the Tombstones
 <!--/gen-->
@@ -131,7 +131,7 @@ One of the three longest missions in the game.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.2
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (12):** The Great Train Robbery; The Fool Always Rings Twice; Small Town Grotesque; The Public Enemy; Bullet & Brain; The Only Path to Tomorrow; Seabiscuit; Beauty and Destruction; Then Wake to Weep; Everything that Rises Must Converge; The Sun Also Rises; And on the Eighth Day
 <!--/gen-->
@@ -169,7 +169,7 @@ and everyone heading for their next stop.
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 2.3
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 2 of 13 uploads
 - **Quest parts (7):** Unconquered; All About Eve; Rivers Run Without Return; Life is But a Drifting Dream; Soldier's Pay; A Thousand Bells at Dawn; Stranger in a Strange Land
 <!--/gen-->
@@ -211,7 +211,7 @@ and seeing the way ahead means looking back first.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 - **Quest parts (7):** All Who Wakes; The Departed Will Return First; A Misfortune of Survivors; Reality is But Dream's Echo; Sound of Farewell Hums Reunion; Bow Out At Moment of Début; A New Venture on the Eighth Dawn
 <!--/gen-->

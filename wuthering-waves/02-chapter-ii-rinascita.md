@@ -65,7 +65,7 @@ then aboard the troupe liner bound for Ragunna.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 2 of 8 uploads
 <!--/gen-->
 
@@ -100,7 +100,7 @@ gondolas, and an Echo that loses control in the middle of it all.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -141,7 +141,7 @@ where the ones that attack turn out to be steered rather than mad.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 13 uploads
 <!--/gen-->
 
@@ -181,7 +181,7 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -224,7 +224,7 @@ so only its Interlude chapter markers are counted.
 - **Confidence:** low
 - **Union Level gate:** 14
 - **Released in:** unknown
-- **Stability:** median +5% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (5):** Set Sail! Pro Angler!; Love in the Time of Fishing; Where All Fish Converge; Old Man and the Whale; I Alone Survived
 <!--/gen-->
@@ -262,7 +262,7 @@ and down into the Avinoleum.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.2
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -308,7 +308,7 @@ and earning Arsinosa's attention the hard way.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.4
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -345,7 +345,7 @@ and the first clear look at what Leviathan has been doing to Lupa.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.4
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act VI"-->
@@ -388,7 +388,7 @@ where Fenrico offers an alliance and Phrolova makes the same offer worse.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 2.5
-- **Stability:** median +6% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act VII"-->
@@ -424,7 +424,7 @@ a girl with nothing, fought her way into the Great Agon and out the other side.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.5
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - I"-->
@@ -461,7 +461,7 @@ and the Corrosaurus Tyrannos run down across the Asphodel Barrens.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.6
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act VIII"-->
@@ -501,7 +501,7 @@ and what is behind it is not a hero's story.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.6
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act IX"-->
@@ -545,7 +545,7 @@ into the Mad King's arena.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act X"-->
@@ -591,7 +591,7 @@ One of the three longest acts in the game.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act XI"-->
@@ -630,7 +630,7 @@ who walked into Ragunna's worst night and never explained himself.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.7
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -670,7 +670,7 @@ and the Error Cell it comes from is a city coming apart around its own people.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 2.8
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act XII"-->
@@ -710,7 +710,7 @@ a cafe to redecorate, and a party that everyone is late for.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.8
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Segue - III"-->

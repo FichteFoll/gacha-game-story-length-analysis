@@ -62,7 +62,7 @@ One of the three longest missions in the game.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.0
-- **Stability:** median -5% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (10):** Phantasmoon, the Merciful Queen; Topological Structure of an Imagenated City; Artwork in the Age of Mechanical Reproduction; Fundamentals of Imagenesis; Killers Don't Get Vacations; Symbolic Exchange and Detection; Here's Your Fifteen Minutes of Fame; Medical Disputes on the Ship of Fools; The Discreet Charm of a Streamer Girl; The Indifference of Those Who Yet Live
 <!--/gen-->
 
@@ -102,7 +102,7 @@ and a hero's name that some carry and some betray.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (7):** Portrait of a Middle-Aged Artist; Society of the Spectacle and Its Enemies; Confessions of a Righteous Sinner; The Bum's as Holy as the Seraphim; Simulacra and Simulation, or Even the Just; Echoes from a Sombre Empire; Real Holy Laughter!
 <!--/gen-->
 
@@ -145,7 +145,7 @@ and the chains that come with it.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.2
-- **Stability:** median +3% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (13):** Philosophy of the Tourist; In the Shadow of the Millennium; A Superhero Caught in a Moral Dilemma; If We Spoke in Laughter; Howls, White Noise, or What You Feel; A Resounding Gong or a Clashing Cymbal; Mass Deaths and Detective Fiction; Postmodern Imagenesis; Metaphors We Live By; Serotonin Exposure Phobia; The Generative Grammar of Liquid Modernity; Happiness, or a Fatal Ailment; Arcadia Revisited
 <!--/gen-->
 
@@ -191,7 +191,7 @@ among wanderers looking for a last rest.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.3
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 2 of 25 uploads
 - **Quest parts (7):** Illusion of the End; Living Sacrifice for Gods and Mortals; Arcadia of Mystery and Terror; Best Farewell to the World; Primeval and Other Times; Yesterday's World; Non-Existent State
 <!--/gen-->
@@ -245,7 +245,7 @@ the realm of death.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 24 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
 <!--/gen-->
@@ -301,6 +301,7 @@ and Nihilux turns out to be Aha.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.5
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (6):** Why Hasn't Everything Already Disappeared?; World Hunger Theater; Regarding the Pain of Others; The Conspiracy of Art, The Flesh of Images; Identity and Resistance, Play and the Police; Mythological Philosophy and Fair Game
 <!--/gen-->
 
@@ -356,6 +357,7 @@ for the grandest Phantasmoon Games the painting has seen.
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.6
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (5):** The Theatre and Its Double; Knowledge, Silence, Passing By; The Unselfish Gene; Artificial Paradise & Fabricated Hell; Good Hunting
 <!--/gen-->
 

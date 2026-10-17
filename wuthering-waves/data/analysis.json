@@ -1041,7 +1041,7 @@
    "trimmed_mean": 13,
    "measured": 0,
    "parts": {},
-   "drift": 0.875
+   "drift": 0.0
   }
  },
  {
@@ -1820,7 +1820,7 @@
    "trimmed_mean": 45,
    "measured": 0,
    "parts": {},
-   "drift": -0.043
+   "drift": 0.0
   }
  },
  {
@@ -2201,7 +2201,7 @@
    "trimmed_mean": 39,
    "measured": 0,
    "parts": {},
-   "drift": -0.025
+   "drift": 0.0
   }
  },
  {
@@ -3703,7 +3703,7 @@
    "trimmed_mean": 26,
    "measured": 1,
    "parts": {},
-   "drift": 0.087
+   "drift": 0.0
   }
  },
  {
@@ -4136,7 +4136,7 @@
    "trimmed_mean": 171,
    "measured": 2,
    "parts": {},
-   "drift": -0.039
+   "drift": 0.0
   }
  },
  {
@@ -4491,7 +4491,7 @@
    "trimmed_mean": 149,
    "measured": 1,
    "parts": {},
-   "drift": 0.131
+   "drift": 0.0
   }
  },
  {
@@ -6289,7 +6289,7 @@
    "trimmed_mean": 114,
    "measured": 1,
    "parts": {},
-   "drift": 0.047
+   "drift": 0.0
   }
  },
  {
@@ -6720,7 +6720,7 @@
    "trimmed_mean": 201,
    "measured": 0,
    "parts": {},
-   "drift": 0.01
+   "drift": 0.0
   }
  },
  {
@@ -7885,7 +7885,7 @@
    "trimmed_mean": 166,
    "measured": 0,
    "parts": {},
-   "drift": 0.06
+   "drift": 0.0
   }
  },
  {
@@ -8540,7 +8540,7 @@
    "trimmed_mean": 206,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.0
   }
  },
  {
@@ -8937,7 +8937,7 @@
    "trimmed_mean": 158,
    "measured": 0,
    "parts": {},
-   "drift": 0.013
+   "drift": 0.0
   }
  },
  {
@@ -9780,7 +9780,7 @@
    "trimmed_mean": 270,
    "measured": 0,
    "parts": {},
-   "drift": 0.023
+   "drift": 0.0
   }
  },
  {
@@ -10066,7 +10066,7 @@
    "trimmed_mean": 63,
    "measured": 0,
    "parts": {},
-   "drift": -0.016
+   "drift": 0.0
   }
  },
  {
@@ -12794,7 +12794,7 @@
    "trimmed_mean": 203,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.0
   }
  },
  {
@@ -13765,7 +13765,7 @@
    "trimmed_mean": 43,
    "measured": 1,
    "parts": {},
-   "drift": 0.024
+   "drift": 0.0
   }
  },
  {
@@ -15170,7 +15170,7 @@
    "trimmed_mean": 122,
    "measured": 0,
    "parts": {},
-   "drift": 0.008
+   "drift": 0.0
   }
  },
  {
@@ -15629,7 +15629,7 @@
    "trimmed_mean": 173,
    "measured": 1,
    "parts": {},
-   "drift": -0.006
+   "drift": 0.0
   }
  },
  {
@@ -16821,7 +16821,7 @@
    "trimmed_mean": 164,
    "measured": 3,
    "parts": {},
-   "drift": 0.006
+   "drift": 0.0
   }
  },
  {
@@ -19228,7 +19228,7 @@
    "trimmed_mean": 280,
    "measured": 1,
    "parts": {},
-   "drift": 0.004
+   "drift": 0.0
   }
  },
  {
@@ -19937,7 +19937,7 @@
    "trimmed_mean": 18,
    "measured": 2,
    "parts": {},
-   "drift": 0.059
+   "drift": 0.0
   }
  }
 ]

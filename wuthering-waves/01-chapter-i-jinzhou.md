@@ -23,7 +23,7 @@ to an island that is not on any map.
 | Act VI | Grand Warstorm | 1 h 34 min | 1 h 18 min - 1 h 45 min | 16 | medium |
 | Interlude | A New Companion | 25 min | 21 min - 34 min | 5 | low |
 | Act VII | Thaw of Eons | 2 h 53 min | 2 h 32 min - 3 h 05 min | 17 | high |
-| Act VIII | To the Shore's End | 2 h 27 min | 2 h 07 min - 2 h 51 min | 12 | low |
+| Act VIII | To the Shore's End | 2 h 27 min | 2 h 07 min - 2 h 51 min | 12 | medium |
 <!--/gen-->
 
 **Total: <!--f:total-->11 h 52 min<!--/f-->**
@@ -58,7 +58,7 @@ by people who are far too interested in a stranger with no frequency.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -102,7 +102,7 @@ and a first look at what the border actually costs.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median -4% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -144,7 +144,7 @@ and Scar, who would rather talk than fight until he does both.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -186,7 +186,7 @@ and Scar waiting at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** 11
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -231,7 +231,7 @@ into the first solid lead on the Black Shores.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -270,7 +270,7 @@ and putting down the Thundering Mephis at the end of it.
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act VI"-->
@@ -312,7 +312,7 @@ where Rover's friends want to hear about the "little one" living inside them.
 - **Confidence:** low
 - **Union Level gate:** -
 - **Released in:** 1.1
-- **Stability:** median +9% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 5 uploads
 <!--/gen-->
 
@@ -344,7 +344,7 @@ the Mianloong Chamber, and Jinhsi's own history with the Commander of Time.
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.1
-- **Stability:** median -4% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 2 of 17 uploads
 - **Quest parts (7):** Dreamweaver's Ascent; To Mt. Firmament; Truthseeker's Pass; Road of Pilgrimage; Mianloong Chamber; The Commander of Time; Dawn of Snowstorm
 <!--/gen-->
@@ -387,10 +387,10 @@ to the Shorekeeper and what she has been keeping.
 
 - **Estimated length:** 2 h 27 min
 - **Sampled range:** 2 h 07 min to 2 h 51 min for the middle half (full spread 1 h 51 min to 3 h 13 min) across 12 playthrough uploads (9 further candidates screened out)
-- **Confidence:** low
+- **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median +13% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 12 uploads
 - **Quest parts (5):** From the Echoes of Destruction; Hidden Between the Waves; Legacy of the Lasting Night; Advance toward the Future from Today; Beyond the Shore's End
 <!--/gen-->

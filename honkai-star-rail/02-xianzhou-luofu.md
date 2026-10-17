@@ -47,7 +47,7 @@ all point at the same buried problem.
 - **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median +36% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Measured from the uploader's chapter markers:** 1 of 8 uploads
 - **Quest parts (11):** An Invitation Without Proffer; Amidst the Mara-Struck; Devising Stratagems; Scattered Memories of Hooded Past; The Hound Chases the Fox; Stars Spun, Prescience Sprung; New Friends Bring New Joy; Omniscient Inquiry of Arcana; Wood Sprouts Anew, Fate Tilts Askew; Tranquil Amidst Turmoil; Humming Antlers, Entwined Horns
 <!--/gen-->
@@ -86,7 +86,7 @@ One of the three shortest entries in the questline.
 - **Confidence:** medium
 - **Level gate:** -
 - **Released in:** 1.2
-- **Stability:** median +1% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (5):** Desolate Depths of Despair; Dragon Mislay, Dreams Astray; Oblation Obtained, Order Ordained; A Dragon Gallant, Its Ocean Distant; Demise of Immortality, Finale of Calamity
 <!--/gen-->
 
@@ -128,7 +128,7 @@ The shortest entry in the questline.
 - **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median -14% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (1):** Obsequies Performed, A Long Road Ahead
 <!--/gen-->
 

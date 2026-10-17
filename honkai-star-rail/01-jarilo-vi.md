@@ -50,7 +50,7 @@ to keep them safe.
 - **Confidence:** low
 - **Level gate:** Trailblaze Level 13, partway through
 - **Released in:** 1.0
-- **Stability:** median +6% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (13):** A Grand Cool Adventure; Travelers on a Winter Night; Everwinter Night; You Can Run, But You Can't Hide; Hide-and-Seek; The Eighth and Final Rule; Long Wait for the Blade's Edge; Ones Fallen Into the Abyss; A Sunset Rendezvous; The Past Will Return as an Avalanche; Lying in Rust; To Rot or to Burn; Not Good With Farewells
 <!--/gen-->
 
@@ -85,7 +85,7 @@ by handing the planet to the Stellaron.
 - **Confidence:** low
 - **Level gate:** Equilibrium Level 1
 - **Released in:** 1.0
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median 0% against the medians of 2026-10-17
 - **Quest parts (11):** Cleanse in the Darkness Outside; Unattainable Idol; Young Guard; Soldiers Stay Silent; The Stars Are Cold Toys; Roads to the Past Have Long Been Closed; The Dawn Here...; The Return; In the Dangerous Muddy Swamp; No Time for Me, My Friend; Silent Galaxy
 <!--/gen-->
 

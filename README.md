@@ -188,7 +188,8 @@ Both are fetched before the harvest,
 because the harvest searches for version-branded upload titles.
 - `data/baseline.json` holds the per-act medians
 from the first, independent set of queries,
-which is what the stability figure is measured against.
+unless a report says it was refreshed from a later analysis,
+and is what the stability figure is measured against.
 - `data/wiki.json`, `data/game.txt`, `data/chapter_keys.json`,
 `data/query_templates.txt` and `data/compilations.txt`
 are the inputs the pipeline is steered with,
