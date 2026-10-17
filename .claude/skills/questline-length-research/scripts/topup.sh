@@ -38,7 +38,30 @@ topup() {
 }
 export -f topup
 
-xargs -d '\n' -P 5 -I{} bash -c 'IFS="|" read -r s q <<< "{}"; topup "$s" "$q"'
+# Every line is checked before any search runs, so a malformed one stops the
+# batch with its line number instead of being skipped. Each line then reaches
+# the job as an argument rather than spliced into its script, so quotes and
+# backslashes in a query arrive at yt-dlp as written.
+mapfile -t LINES
+QUERIES=()
+bad=0
+for i in "${!LINES[@]}"; do
+  line="${LINES[i]}"
+  [[ "$line" =~ ^[[:space:]]*$ ]] && continue
+  if [[ "$line" =~ ^[A-Za-z0-9_-]+\|.*[^[:space:]] ]]; then
+    QUERIES+=("$line")
+    continue
+  fi
+  printf 'line %s is not "<slug>|<query>": %s\n' "$((i + 1))" "$line" >&2
+  bad=1
+done
+if ((bad)); then
+  echo "EXIT:2"
+  exit 2
+fi
+
+((${#QUERIES[@]})) && printf '%s\n' "${QUERIES[@]}" \
+  | xargs -d '\n' -n 1 -P 5 bash -c 'IFS="|" read -r s q <<< "$1"; topup "$s" "$q"' _
 
 for part in "$OUT"/*.tsv.part; do
   [[ -e "$part" ]] || continue
