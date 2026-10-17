@@ -182,7 +182,6 @@ A girl only Rover can see calls herself Aemeath,
 which sends the investigation into the simulator, onto the train
 and out across the frostlands after a voice.
 <!--gen:stats act="Act III"-->
-One of the three longest acts in the game.
 
 - **Estimated length:** 3 h 59 min
 - **Sampled range:** 3 h 52 min to 4 h 07 min for the middle half (full spread 3 h 32 min to 4 h 22 min) across 14 playthrough uploads (12 further candidates screened out)

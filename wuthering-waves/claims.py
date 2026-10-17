@@ -64,9 +64,19 @@ CLAIMS = [
                    "up to {len_Segue_VII}, which is longer than most "
                    "chapters' acts"),
 
-    is_extreme("ch4", "Act III", "max",
-               "Act III is the longest single entry in the game at "
-               "{len_Act_III}", scope="global"),
+    count_above("ch4", 120, 4,
+                "Four long acts with two short pieces set between them"),
+    is_extreme("ch4", "Act IV", "max",
+               "Act IV is the longest single entry in the game at "
+               "{len_Act_IV}", scope="global"),
+    rank_at_most("ch4", "Act III", 2,
+                 "followed by Act III at {len_Act_III}"),
+    rank_at_most("ch4", "Act III", 2,
+                 "The first of the chapter's two set pieces, second only to "
+                 "Act IV in length"),
+    sample_at_least("ch4", "Act IV", IQR_SAMPLES,
+                    "even Act IV, only weeks old at collection, has enough "
+                    "uploads to be rated on its spread"),
     median_between("ch4", "Segue - I", 5, 45,
                    "the two segues together add under {len_Segue_I} plus "
                    "{len_Segue_II}"),
@@ -74,8 +84,8 @@ CLAIMS = [
                    "the two segues together add under {len_Segue_I} plus "
                    "{len_Segue_II}"),
     sample_at_least("ch4", "Segue - II", IQR_SAMPLES,
-                    "the closing segue, thin while it was new, has since "
-                    "gathered enough uploads to be rated on its spread"),
+                    "The second segue, thin while it was new, has since "
+                    "gathered enough uploads to be rated on its spread too"),
 
     # README.md, limits
     every_sample_at_least("ch4", IQR_SAMPLES,

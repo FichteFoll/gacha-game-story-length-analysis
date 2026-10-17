@@ -4,7 +4,7 @@ Duration estimates for every entry of the Main Quest storyline,
 from the Huanglong prologue to Mengzhou,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->86 h 40 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->676<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->91 h 34 min<!--/f-->** (<!--f:n_report_entries-->48<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->702<!--/f--> accepted uploads out of <!--f:n_candidates-->1311<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter I: Jinzhou Rising | Huanglong, later the Black Shores | 1.0 - 1.3 | 9 | 11 h 52 min | [01-chapter-i-jinzhou.md](01-chapter-i-jinzhou.md) |
 | Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 36 h 45 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
 | Chapter III: To the Stars Yet to Shine | Roya Frostlands, Lahai-Roi | 3.0 - 3.4 | 14 | 26 h 30 min | [03-chapter-iii-roya-frostlands.md](03-chapter-iii-roya-frostlands.md) |
-| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.6 | 5 | 10 h 42 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
+| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.7 | 6 | 15 h 36 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
@@ -24,11 +24,11 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 <!--gen:extremes-->
 | | Act | Estimate |
 | --- | --- | --- |
+| longest | Chapter IV, Act IV: Simulacrum of the Heart | 4 h 54 min |
 | longest | Chapter IV, Act III: Song of the Heart Sword | 4 h 39 min |
 | longest | Chapter II, Act XI: Dawn Breaks on Dark Tides | 4 h 29 min |
 | longest | Chapter III, Act III: The Star That Voyages Far | 3 h 59 min |
 | longest | Chapter II, Act VIII: By Sun's Burning Hand | 3 h 27 min |
-| longest | Chapter III, Act IV: Gold Suspended in Shadows | 3 h 23 min |
 | shortest | Chapter III, Segue - III: The Flaming Red from Tomorrow | 7 min |
 | shortest | Chapter III, Segue - V: Wishes in the Bell: Epilogue | 14 min |
 | shortest | Prologue, Prologue II: Utterance of Marvels: II | 15 min |
@@ -102,6 +102,13 @@ A version that has just shipped is the one everyone uploads,
 so its acts are well covered,
 and its segues, thin while they were new,
 have since gathered enough uploads to be rated on their spread.
+*Simulacrum of the Heart*, its Act IV,
+was only weeks old at collection,
+so its pool is the youngest in the report
+and its figures the most likely to move on a re-harvest.
+It has no stability figure,
+because it was added to the report
+after the medians it would be compared against were taken.
 - Every act is gated behind a Union Level in game,
 but the wiki fills the requirement field on two quest pages only,
 so the gate reads "-" almost everywhere.
@@ -130,4 +137,4 @@ They say how far a figure has moved since,
 not how much it depends on the queries,
 so an act unsettled before that date is no longer flagged by drift alone.
 
-Data collected <!--f:date-->2026-09-26<!--/f-->.
+Data collected <!--f:date-->2026-10-17<!--/f-->.

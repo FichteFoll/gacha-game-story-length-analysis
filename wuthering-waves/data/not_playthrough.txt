@@ -1,0 +1,1 @@
+(?:&|and|\+) ?[\w' ]*\btales? quest
