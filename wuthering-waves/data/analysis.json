@@ -10277,7 +10277,9 @@
     "uploader": "Mikiyuki",
     "url": "https://www.youtube.com/watch?v=TyAH9O_EL-M",
     "views": 184,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20251120"
    },
    {
@@ -10286,7 +10288,9 @@
     "uploader": "ItsDaveTV Plays and ItsDaveTV",
     "url": "https://www.youtube.com/watch?v=baVW-7aUFiI",
     "views": 73,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20251120"
    }
   ],
@@ -10398,37 +10402,19 @@
     "views": 129,
     "rejected": [],
     "upload_date": "20251121"
-   },
-   {
-    "seconds": 13012,
-    "title": "Wuthering Waves 2.8 Chisa Story - Chapter 2 Act 12 & Segue Playthrough",
-    "uploader": "ItsDaveTV Plays and ItsDaveTV",
-    "url": "https://www.youtube.com/watch?v=baVW-7aUFiI",
-    "views": 73,
-    "rejected": [],
-    "upload_date": "20251120"
-   },
-   {
-    "seconds": 14105,
-    "title": "Wuthering Waves 2.8 Main Quest - \"Chronorift Metropolis\" Act 12 & Segue [JP Dub] | No Commentary",
-    "uploader": "Mikiyuki",
-    "url": "https://www.youtube.com/watch?v=TyAH9O_EL-M",
-    "views": 184,
-    "rejected": [],
-    "upload_date": "20251120"
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 147,
+   "n": 12,
+   "median": 142,
    "low": 133,
-   "high": 235,
-   "q1": 140,
-   "q3": 212,
-   "trimmed_mean": 163,
+   "high": 213,
+   "q1": 139,
+   "q3": 164,
+   "trimmed_mean": 153,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.034
   }
  },
  {
@@ -11965,7 +11951,7 @@
     "url": "https://www.youtube.com/watch?v=PEtpf2EuEto",
     "views": 1313,
     "rejected": [
-     "same-uploader"
+     "multi-act"
     ],
     "upload_date": "20260227"
    },
@@ -14176,16 +14162,31 @@
     "upload_date": "20260602"
    },
    {
-    "seconds": 12583,
+    "seconds": 6075,
     "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
     "views": 16078,
     "rejected": [],
-    "upload_date": "20260430"
+    "upload_date": "20260430",
+    "runtime": 12583,
+    "measured": "chapter-markers",
+    "parts": {}
    }
   ],
   "kept": [
+   {
+    "seconds": 6075,
+    "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
+    "views": 16078,
+    "rejected": [],
+    "upload_date": "20260430",
+    "runtime": 12583,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
    {
     "seconds": 8767,
     "title": "Wuwa 3.3 Chapter 3 Act 5 Starlights from Yesterdays #wutheringwaves #wuwa",
@@ -14352,15 +14353,6 @@
     "upload_date": "20260430"
    },
    {
-    "seconds": 12583,
-    "title": "WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game | Wuthering Waves 3.3",
-    "uploader": "Akabirama",
-    "url": "https://www.youtube.com/watch?v=RbY5Tx-Qdx8",
-    "views": 16078,
-    "rejected": [],
-    "upload_date": "20260430"
-   },
-   {
     "seconds": 12919,
     "title": "Wuthering Waves Version 3.3 Main Story Quest | Starlights from Yesterdays (Full Playthrough)",
     "uploader": "Dosa Kun",
@@ -14399,15 +14391,15 @@
   ],
   "stats": {
    "n": 23,
-   "median": 176,
-   "low": 146,
+   "median": 172,
+   "low": 101,
    "high": 233,
-   "q1": 160,
-   "q3": 188,
-   "trimmed_mean": 177,
-   "measured": 1,
+   "q1": 157,
+   "q3": 186,
+   "trimmed_mean": 174,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.023
   }
  },
  {
@@ -16857,7 +16849,9 @@
     "uploader": "Esper",
     "url": "https://www.youtube.com/watch?v=10RYqJTwPc8",
     "views": 24,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20260803"
    },
    {
@@ -17500,15 +17494,6 @@
     "upload_date": "20260715"
    },
    {
-    "seconds": 10809,
-    "title": "Wuthering Waves | Mengzhou Chapter IV Act II & Segue: Xuanling Sings, Storm Quelled",
-    "uploader": "Esper",
-    "url": "https://www.youtube.com/watch?v=10RYqJTwPc8",
-    "views": 24,
-    "rejected": [],
-    "upload_date": "20260803"
-   },
-   {
     "seconds": 10826,
     "title": "Wuthering Waves 3.5 Main Story Quest | Mengzhou: Chapter 4 - Act 2 | 2K",
     "uploader": "Aira",
@@ -17573,16 +17558,16 @@
    }
   ],
   "stats": {
-   "n": 28,
-   "median": 162,
+   "n": 27,
+   "median": 161,
    "low": 131,
    "high": 227,
-   "q1": 154,
+   "q1": 153,
    "q3": 180,
-   "trimmed_mean": 167,
+   "trimmed_mean": 166,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.006
   }
  },
  {
@@ -18525,6 +18510,7 @@
     "url": "https://www.youtube.com/watch?v=swF30IHBpG0",
     "views": 8,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260823"
@@ -18545,6 +18531,7 @@
     "url": "https://www.youtube.com/watch?v=hLEHTNWCbZ0",
     "views": 166,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260821"
@@ -20369,7 +20356,7 @@
     "url": "https://www.youtube.com/watch?v=KBCwgW9u1Oo",
     "views": "98",
     "rejected": [
-     "not-a-playthrough"
+     "multi-act"
     ]
    },
    {

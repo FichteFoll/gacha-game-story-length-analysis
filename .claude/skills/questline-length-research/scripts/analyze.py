@@ -21,7 +21,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
                                      below which an upload is too short to be a
                                      whole entry of this game, whatever it says
        <workdir>/compilations.txt    optional extra compilation regexes, one per
-                                     line, e.g. "full sumeru archon quest"
+                                     line, e.g. "full sumeru archon quest",
+                                     prefixed "!" where a title pinning one act
+                                     does not overrule them
        <workdir>/partials.txt        optional regexes for uploads covering less
                                      than one act, one per line, e.g. "part 3",
                                      prefixed "!" where no runtime readmits them,
@@ -76,7 +78,8 @@ REJECT = re.compile(
 CONTAINER = r"chapter|episode|arc"
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
-# ... and the prefix marking a partials.txt pattern no runtime readmits.
+# ... and the prefix marking a partials.txt pattern no runtime readmits, or a
+# compilations.txt pattern no act pin overrules.
 FRAGMENT = "!"
 # How a title writes one entry's number. `l` is in the class because Honkai
 # Impact 3rd reaches Chapter XLII; a run of letters that is not a numeral is
@@ -155,11 +158,16 @@ def container_pattern(acts):
                     if w not in unit | titled) or CONTAINER
 
 
-def compilation_re(workdir, acts):
-    """Genuine multi-act uploads, in this game's wording.
+def compilation_test(workdir, acts):
+    """`(title, pinned) -> this covers more than one act`, in this game's wording.
 
     Note that "full archon quest" is deliberately not matched: "full <questline>"
     is the usual phrasing for a complete single act, not for a compilation.
+
+    A title that pins exactly one act (`pinned`) is that act however it words
+    its scope, so the scope words give way. A compilations.txt pattern prefixed
+    with "!" does not: it names the second thing the upload carries ("Act 4 &
+    Hsin Tales Quest"), which pinning the act says nothing against.
     """
     units = unit_pattern(acts)
     patterns = [
@@ -170,9 +178,18 @@ def compilation_re(workdir, acts):
         rf"(?:{units}) \d+ ?- ?\d+",
         r"marathon",
     ]
-    return re.compile("|".join(patterns + extra_patterns(workdir,
-                                                         "compilations.txt")),
-                      re.I)
+    extra = extra_patterns(workdir, "compilations.txt")
+    certain = [e[len(FRAGMENT):] for e in extra if e.startswith(FRAGMENT)]
+    scope = re.compile("|".join(
+        patterns + [e for e in extra if not e.startswith(FRAGMENT)]), re.I)
+    bundle = re.compile("|".join(certain), re.I) if certain else None
+
+    def is_compilation(title, pinned):
+        if bundle and bundle.search(title):
+            return True
+        return not pinned and bool(scope.search(title))
+
+    return is_compilation
 
 
 def reject_re(workdir):
@@ -579,7 +596,7 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
         reasons = []
         if reject.search(title) or int(f[0]) < floor:
             reasons.append("not-a-playthrough")
-        if compilation.search(title) and pinned != {number}:
+        if compilation(title, pinned == {number}):
             reasons.append("multi-act")
         if partial and (scope := partial(title, parts)):
             reasons.append(scope)
@@ -875,7 +892,7 @@ def main(argv):
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     act_keys = act_key_test(workdir)
     reject = reject_re(workdir)
-    compilation = compilation_re(workdir, acts)
+    compilation = compilation_test(workdir, acts)
     pin = pin_re(acts)
     partial = partial_test(workdir)
     floor = runtime_floor(workdir)

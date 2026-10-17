@@ -4,7 +4,7 @@ Duration estimates for every entry of the Main Quest storyline,
 from the Huanglong prologue to Mengzhou,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->91 h 34 min<!--/f-->** (<!--f:n_report_entries-->48<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->702<!--/f--> accepted uploads out of <!--f:n_candidates-->1311<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->91 h 24 min<!--/f-->** (<!--f:n_report_entries-->48<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->699<!--/f--> accepted uploads out of <!--f:n_candidates-->1311<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -14,9 +14,9 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | --- | --- | --- | --- | --- | --- |
 | Prologue: Utterance of Marvels | Huanglong | 1.0 | 2 | 51 min | [00-prologue.md](00-prologue.md) |
 | Chapter I: Jinzhou Rising | Huanglong, later the Black Shores | 1.0 - 1.3 | 9 | 11 h 52 min | [01-chapter-i-jinzhou.md](01-chapter-i-jinzhou.md) |
-| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 36 h 45 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
-| Chapter III: To the Stars Yet to Shine | Roya Frostlands, Lahai-Roi | 3.0 - 3.4 | 14 | 26 h 30 min | [03-chapter-iii-roya-frostlands.md](03-chapter-iii-roya-frostlands.md) |
-| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.7 | 6 | 15 h 36 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
+| Chapter II: Even When Divinity Remains Silent | Rinascita | 2.0 - 2.8 | 17 | 36 h 40 min | [02-chapter-ii-rinascita.md](02-chapter-ii-rinascita.md) |
+| Chapter III: To the Stars Yet to Shine | Roya Frostlands, Lahai-Roi | 3.0 - 3.4 | 14 | 26 h 26 min | [03-chapter-iii-roya-frostlands.md](03-chapter-iii-roya-frostlands.md) |
+| Chapter IV: Rebirth From the Depths | Mengzhou | 3.5 - 3.7 | 6 | 15 h 35 min | [04-chapter-iv-mengzhou.md](04-chapter-iv-mengzhou.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
@@ -117,12 +117,11 @@ That is the wiki being silent, not the game being ungated.
 and the wiki categorises each of its five quest parts by release version
 but not the page the interlude itself lives on,
 so its release version reads "unknown" here.
-- Because a segue carries no number of its own,
-an upload titled "Act 12 & Segue" pins exactly one act label
-and is read as being about that act.
-Those uploads are kept, and they stretch the upper end of the range
-for the acts a segue follows;
-the estimate is a median, so they do not move it far.
+- A segue carries no number of its own,
+so an upload titled "Act 12 & Segue" names exactly one act label
+although it also covers the segue after it.
+Such an upload counts as a bundle,
+and is evidence for the act only where its chapter markers locate it.
 - *At Dream's Edge* is a collaboration side story
 that the wiki lists inside Chapter III's act list,
 so it is measured here alongside the acts.

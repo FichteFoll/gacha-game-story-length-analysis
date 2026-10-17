@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II: Even When Divinity Remains Silent
 
-**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 36 h 45 min**
+**Region:** Rinascita | **Game versions:** 2.0 - 2.8 | **Entries:** 17 | **Estimated chapter length: 36 h 40 min**
 <!--/gen-->
 
 Rinascita is a country of carnivals, gladiators and drowned gods,
@@ -30,11 +30,11 @@ and leaves having killed a Threnodian and a great deal else.
 | Act X | The Bygone Shall Always Return | 1 h 57 min | 1 h 55 min - 2 h 02 min | 18 | high |
 | Act XI | Dawn Breaks on Dark Tides | 4 h 29 min | 4 h 07 min - 4 h 51 min | 12 | high |
 | Segue - II | A Stranger in a Strange Land | 1 h 02 min | 1 h 01 min - 1 h 05 min | 14 | high |
-| Act XII | Stagnant Dawn on Wastelands | 2 h 27 min | 2 h 20 min - 3 h 32 min | 14 | low |
+| Act XII | Stagnant Dawn on Wastelands | 2 h 22 min | 2 h 19 min - 2 h 44 min | 12 | high |
 | Segue - III | Flowing Starlight in the Iris | 1 h 13 min | 1 h 09 min - 1 h 19 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->36 h 45 min<!--/f-->**
+**Total: <!--f:total-->36 h 40 min<!--/f-->**
 
 ## Pacing
 
@@ -665,12 +665,12 @@ The Black Shores picks up an unknown frequency,
 and the Error Cell it comes from is a city coming apart around its own people.
 <!--gen:stats act="Act XII"-->
 
-- **Estimated length:** 2 h 27 min
-- **Sampled range:** 2 h 20 min to 3 h 32 min for the middle half (full spread 2 h 13 min to 3 h 55 min) across 14 playthrough uploads (8 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 2 h 22 min
+- **Sampled range:** 2 h 19 min to 2 h 44 min for the middle half (full spread 2 h 13 min to 3 h 33 min) across 12 playthrough uploads (10 further candidates screened out)
+- **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 2.8
-- **Stability:** median 0% against the medians of 2026-10-17
+- **Stability:** median -3% against the medians of 2026-10-17
 <!--/gen-->
 
 <!--gen:evidence act="Act XII"-->
@@ -691,8 +691,6 @@ and the Error Cell it comes from is a city coming apart around its own people.
 | 2 h 46 min | Wuthering Waves 2.8 Main Quests Chapter 2 Act 12: Stagnant Dawn on Wastelands | mwRover | 10 | 2026-02-07 | <https://www.youtube.com/watch?v=Hb1fgcy4J3w> |
 | 3 h 32 min | Wuthering Waves 2.8 Full Story Quest Walkthrough [Act 12 & Afterstory] | CGInferno | 5,383 | 2025-11-20 | <https://www.youtube.com/watch?v=y_3zeCZBCsI> |
 | 3 h 33 min | Main Story Quest (Full Quest) Stagnant Dawn of Wastelands \| Wuthering Waves Version 2.8 | Lotus Ch. | 129 | 2025-11-21 | <https://www.youtube.com/watch?v=o8L6aiOrjlU> |
-| 3 h 37 min | Wuthering Waves 2.8 Chisa Story - Chapter 2 Act 12 & Segue Playthrough | ItsDaveTV Plays and ItsDaveTV | 73 | 2025-11-20 | <https://www.youtube.com/watch?v=baVW-7aUFiI> |
-| 3 h 55 min | Wuthering Waves 2.8 Main Quest - "Chronorift Metropolis" Act 12 & Segue [JP Dub] \| No Commentary | Mikiyuki | 184 | 2025-11-20 | <https://www.youtube.com/watch?v=TyAH9O_EL-M> |
 
 </details>
 <!--/gen-->

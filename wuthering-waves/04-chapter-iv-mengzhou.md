@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 36 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 35 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
@@ -17,14 +17,14 @@ sends Rover after its long-absent Sentinel.
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | The Wind Before the Storm | 2 h 44 min | 2 h 31 min - 2 h 58 min | 26 | high |
-| Act II | Xuanling Sings, Storm Quelled | 2 h 42 min | 2 h 34 min - 3 h 00 min | 28 | high |
+| Act II | Xuanling Sings, Storm Quelled | 2 h 41 min | 2 h 33 min - 3 h 00 min | 27 | high |
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
 | Act III | Song of the Heart Sword | 4 h 39 min | 4 h 34 min - 4 h 54 min | 24 | high |
 | Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 19 | high |
 | Act IV | Simulacrum of the Heart | 4 h 54 min | 4 h 41 min - 5 h 16 min | 26 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 36 min<!--/f-->**
+**Total: <!--f:total-->15 h 35 min<!--/f-->**
 
 ## Pacing
 
@@ -109,13 +109,13 @@ Tracking Yangyang's frequency through Xuanfang to the Skyworks,
 with Liangyu asking why the Autopuppets turned on their operators.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 2 h 42 min
-- **Sampled range:** 2 h 34 min to 3 h 00 min for the middle half (full spread 2 h 11 min to 3 h 47 min) across 28 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 2 h 41 min
+- **Sampled range:** 2 h 33 min to 3 h 00 min for the middle half (full spread 2 h 11 min to 3 h 47 min) across 27 playthrough uploads (20 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 28 uploads
+- **Stability:** median -1% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 3 of 27 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -144,7 +144,6 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | 2 h 51 min | Chapter 4 Mengzhou: Act II Xuanling Sings, Storm Quelled JP Dub FRover \| Wuthering Waves | Falynn | 23 | 2026-07-16 | <https://www.youtube.com/watch?v=siDKPr-f0VU> |
 | 2 h 54 min | Wuthering Waves Chapter IV Act II: Xuanling Sings, Storm Quelled +  Segue \| Full Quest Gameplay | Sternking | 86 | 2026-07-10 | <https://www.youtube.com/watch?v=vGHDwBqhmQ4> |
 | 2 h 58 min | Xuanling Sings, Storm Quelled — Mengzhou Chapter 4, Act 2 — Wuthering Waves | RPG Plays TV | 7 | 2026-07-15 | <https://www.youtube.com/watch?v=sonp4agH2jI> |
-| 3 h 00 min | Wuthering Waves \| Mengzhou Chapter IV Act II & Segue: Xuanling Sings, Storm Quelled | Esper | 24 | 2026-08-03 | <https://www.youtube.com/watch?v=10RYqJTwPc8> |
 | 3 h 00 min | Wuthering Waves 3.5 Main Story Quest \| Mengzhou: Chapter 4 - Act 2 \| 2K | Aira | 56 | 2026-08-17 | <https://www.youtube.com/watch?v=R5BD2S1vAzA> |
 | 3 h 02 min | V3.5 Chapter 4 Act 2-Xuanling Sings, Storm Quelled full quest \| wuthering waves | St Sunnut | 80 | 2026-07-11 | <https://www.youtube.com/watch?v=ubng8SvEI98> |
 | 3 h 08 min | Wuthering Waves 3.5 (PC) Walkthrough Main Quest Xuanling Sings Storm Quelled & Segue Story Quest | CyberFRZ | 8 | 2026-07-12 | <https://www.youtube.com/watch?v=okvTN8OpwhQ> |

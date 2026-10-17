@@ -306,6 +306,11 @@ Discard, by title:
   A title that pins exactly one act by the unit and a numeral
   ("FULL Chapter 2 - Process 3") is that act however it words its scope,
   so the scope words are overruled rather than the other way round.
+  That does not hold where the second thing is named rather than scoped:
+  "Act 4 & Hsin Tales Quest" and "Act 12 & Segue" pin one act
+  and still carry a side quest or a segue on top.
+  Prefix such a `compilations.txt` pattern with `!`,
+  as in `partials.txt`, and no act pin overrules it.
   A compilation whose chapter markers locate the act is readmitted, measured.
 - **part of an act**: "Part 3", "Walkthrough II", or a title naming
   a single quest part of the act.
@@ -344,7 +349,9 @@ Discard, by title:
   and that name nothing else: "GI" and "WW" do not qualify.
   The abbreviated titles are where the gacha-pull streams
   and the bundles with a side quest turn up,
-  so screen them as usual, in `not_playthrough.txt` and `compilations.txt`.
+  so screen them as usual: the streams are in the shared list,
+  and a side-quest bundle goes in `compilations.txt`,
+  as a `!` line where the title also pins the act.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.

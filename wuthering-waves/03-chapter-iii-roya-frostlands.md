@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter III: To the Stars Yet to Shine
 
-**Region:** Roya Frostlands, Lahai-Roi | **Game versions:** 3.0 - 3.4 | **Entries:** 14 | **Estimated chapter length: 26 h 30 min**
+**Region:** Roya Frostlands, Lahai-Roi | **Game versions:** 3.0 - 3.4 | **Entries:** 14 | **Estimated chapter length: 26 h 26 min**
 <!--/gen-->
 
 Lahai-Roi has no Sentinel and a Void Storm where its sky should be,
@@ -24,14 +24,14 @@ and ends up piloting the thing the whole world has been building.
 | Segue - II | Rabbit Reflected in Shades | 1 h 21 min | 1 h 15 min - 1 h 26 min | 12 | high |
 | Segue - III | The Flaming Red from Tomorrow | 7 min | 6 min - 8 min | 4 | low |
 | Segue - IV | Wishes in the Bell | 43 min | 38 min - 47 min | 12 | high |
-| Act V | Starlights from Yesterdays | 2 h 56 min | 2 h 40 min - 3 h 08 min | 23 | high |
+| Act V | Starlights from Yesterdays | 2 h 52 min | 2 h 37 min - 3 h 06 min | 23 | high |
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
 | Segue - VI | Beneath a Melting Night Sky | 2 h 00 min | 1 h 50 min - 2 h 08 min | 16 | high |
 | Side Story | At Dream's Edge | 2 h 51 min | 2 h 40 min - 3 h 06 min | 14 | high |
 | Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 57 min - 2 h 07 min | 14 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->26 h 30 min<!--/f-->**
+**Total: <!--f:total-->26 h 26 min<!--/f-->**
 
 ## Pacing
 
@@ -411,13 +411,13 @@ passing the synchronisation test,
 and taking the Exostrider up.
 <!--gen:stats act="Act V"-->
 
-- **Estimated length:** 2 h 56 min
-- **Sampled range:** 2 h 40 min to 3 h 08 min for the middle half (full spread 2 h 26 min to 3 h 53 min) across 23 playthrough uploads (18 further candidates screened out)
+- **Estimated length:** 2 h 52 min
+- **Sampled range:** 2 h 37 min to 3 h 06 min for the middle half (full spread 1 h 41 min to 3 h 53 min) across 23 playthrough uploads (18 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.3
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 23 uploads
+- **Stability:** median -2% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 2 of 23 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act V"-->
@@ -426,6 +426,7 @@ and taking the Exostrider up.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 1 h 41 min | WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game \| Wuthering Waves 3.3 | Akabirama | 16,078 | 2026-04-30 | <https://www.youtube.com/watch?v=RbY5Tx-Qdx8> |
 | 2 h 26 min | Wuwa 3.3 Chapter 3 Act 5 Starlights from Yesterdays #wutheringwaves #wuwa | KeoNovo | 26 | 2026-04-30 | <https://www.youtube.com/watch?v=SHrKUWd88uk> |
 | 2 h 30 min | Wuthering Waves - Story Quest Chapter III Act V: Starlights from Yesterdays walkthrough | heriawsity | 434 | 2026-05-05 | <https://www.youtube.com/watch?v=2YYIh4dUHKI> |
 | 2 h 36 min | Wuthering Waves 3.3 - Main Story Quest Full Gameplay \| Act 5: Starlights from Yesterdays | Jonozoic | 598 | 2026-04-30 | <https://www.youtube.com/watch?v=lre80PQlVKU> |
@@ -444,7 +445,6 @@ and taking the Exostrider up.
 | 3 h 04 min | Taking on Aleph-1 \| Wuthering Waves Lahai-Roi Story Act 5 [Starlights from Yesterdays] Full Quest | FervidTwo Gaming | 21 | 2026-08-09 | <https://www.youtube.com/watch?v=BjzzmGNZbqI> |
 | 3 h 06 min | Main Quest Chapter 3 Act 5 Starlights from Yesterdays \| Wuthering Waves 3.3 | mwRover | 29 | 2026-06-13 | <https://www.youtube.com/watch?v=wqb9zXAEp2w> |
 | 3 h 08 min | Wuthering Waves 3.3 Story - Chapter 3 Act 5: Starlights from Yesterdays (Female Rover) | QuestWatcher | 912 | 2026-04-30 | <https://www.youtube.com/watch?v=XX-QvUlLxGI> |
-| 3 h 30 min | WuWa Main Quest Lahai-Roi: Chapter 3 Segue & Act V Full Game \| Wuthering Waves 3.3 | Akabirama | 16,078 | 2026-04-30 | <https://www.youtube.com/watch?v=RbY5Tx-Qdx8> |
 | 3 h 35 min | Wuthering Waves Version 3.3 Main Story Quest \| Starlights from Yesterdays (Full Playthrough) | Dosa Kun | 132 | 2026-05-08 | <https://www.youtube.com/watch?v=6AKXYLgGUMw> |
 | 3 h 36 min | Wuthering Waves 3.3 Act 5 Starlights from Yesterdays Full | NaruVT | 2,736 | 2026-04-30 | <https://www.youtube.com/watch?v=wKWosnm1-Y8> |
 | 3 h 41 min | Wuthering Waves 3.3 Main Story Quest - ACT 5 \| Full Gameplay | Sheerun | 72 | 2026-05-04 | <https://www.youtube.com/watch?v=r5kJOLEUQTA> |
