@@ -541,6 +541,7 @@
     "url": "https://www.youtube.com/watch?v=1RL7w5iTNTI",
     "views": 5,
     "rejected": [
+     "multi-act",
      "fragment",
      "act-mismatch"
     ],
@@ -695,6 +696,7 @@
     "views": "46321",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "act-mismatch"
     ]
    },

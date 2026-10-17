@@ -139,7 +139,9 @@
     "uploader": "Sakibrex AdvGaming",
     "url": "https://www.youtube.com/watch?v=FGB6I5LZtN4",
     "views": 193,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20250603"
    },
    {
@@ -434,15 +436,6 @@
     "parts": {}
    },
    {
-    "seconds": 2031,
-    "title": "Wuthering Waves: Utterance of Marvels ACT: I & II FULL QUEST (4K/60fps PS5 Gameplay - No Commentary)",
-    "uploader": "Sakibrex AdvGaming",
-    "url": "https://www.youtube.com/watch?v=FGB6I5LZtN4",
-    "views": 193,
-    "rejected": [],
-    "upload_date": "20250603"
-   },
-   {
     "seconds": 2085,
     "title": "Utterance of Marvels Act I | Wuthering Waves Main Quest",
     "uploader": "chris28zero.gaming",
@@ -522,16 +515,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 36,
+   "n": 12,
+   "median": 38,
    "low": 20,
    "high": 46,
-   "q1": 31,
-   "q3": 40,
+   "q1": 29,
+   "q3": 41,
    "trimmed_mean": 36,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.056
   }
  },
  {
@@ -670,6 +663,7 @@
     "url": "https://www.youtube.com/watch?v=FGB6I5LZtN4",
     "views": 193,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20250603"
@@ -6916,7 +6910,7 @@
     "url": "https://www.youtube.com/watch?v=fld-LeLDg8M",
     "views": 11,
     "rejected": [
-     "long-outlier"
+     "multi-act"
     ],
     "upload_date": "20260208"
    },
@@ -17591,6 +17585,7 @@
     "url": "https://www.youtube.com/watch?v=W7SzDZPCrwg",
     "views": 24,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260710"

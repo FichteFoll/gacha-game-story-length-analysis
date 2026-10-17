@@ -5527,15 +5527,22 @@
     ]
    },
    {
-    "seconds": 16344,
+    "seconds": 5567,
     "title": "Arknights: Endfield 1.2 - Main Quest (Chapter II Process IV-VI) | Full Walkthrough JP Dub Male MC",
     "uploader": "Ren Kitarou \u604b\u559c\u592a\u6717",
     "url": "https://www.youtube.com/watch?v=NTTZqKwQEcM",
     "views": 18,
-    "rejected": [
-     "long-outlier"
-    ],
-    "upload_date": "20260429"
+    "rejected": [],
+    "upload_date": "20260429",
+    "runtime": 16344,
+    "measured": "chapter-markers",
+    "parts": {
+     "Like Fire and Ice": 571,
+     "A Lethal Invitation": 1316,
+     "Phantom Wisps": 1633,
+     "Awaiting Thine Coming": 686,
+     "Free Will": 651
+    }
    },
    {
     "seconds": 15874,
@@ -5903,6 +5910,24 @@
     "upload_date": "20260417"
    },
    {
+    "seconds": 5567,
+    "title": "Arknights: Endfield 1.2 - Main Quest (Chapter II Process IV-VI) | Full Walkthrough JP Dub Male MC",
+    "uploader": "Ren Kitarou \u604b\u559c\u592a\u6717",
+    "url": "https://www.youtube.com/watch?v=NTTZqKwQEcM",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260429",
+    "runtime": 16344,
+    "measured": "chapter-markers",
+    "parts": {
+     "Like Fire and Ice": 571,
+     "A Lethal Invitation": 1316,
+     "Phantom Wisps": 1633,
+     "Awaiting Thine Coming": 686,
+     "Free Will": 651
+    }
+   },
+   {
     "seconds": 5974,
     "title": "[Arknights: Endfield 1.2] Chapter 2: Process 4 - Tales of Old | Full Story Playthrough",
     "uploader": "EllooTV",
@@ -5981,14 +6006,14 @@
    }
   ],
   "stats": {
-   "n": 12,
+   "n": 13,
    "median": 100,
    "low": 79,
    "high": 146,
-   "q1": 84,
-   "q3": 113,
+   "q1": 85,
+   "q3": 110,
    "trimmed_mean": 99,
-   "measured": 4,
+   "measured": 5,
    "parts": {},
    "drift": 0.0
   }
@@ -9566,6 +9591,7 @@
     "url": "https://www.youtube.com/watch?v=6MxnRcXpz58",
     "views": 321,
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ],
     "upload_date": "20260621"

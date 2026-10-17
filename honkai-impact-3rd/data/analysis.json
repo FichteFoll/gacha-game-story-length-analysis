@@ -4361,7 +4361,6 @@
     "url": "https://www.youtube.com/watch?v=iSMUWrX_cho",
     "views": "475",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -4711,7 +4710,6 @@
     "url": "https://www.youtube.com/watch?v=iSMUWrX_cho",
     "views": "475",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -5208,7 +5206,6 @@
     "views": "68",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -5243,7 +5240,6 @@
     "url": "https://www.youtube.com/watch?v=WyeCKpGsZ8U",
     "views": "3609",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -5560,7 +5556,6 @@
     "url": "https://www.youtube.com/watch?v=iSMUWrX_cho",
     "views": "475",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -5582,7 +5577,6 @@
     "url": "https://www.youtube.com/watch?v=GR9WYgj7FRg",
     "views": "144",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -5912,7 +5906,7 @@
     "url": "https://www.youtube.com/watch?v=BXHFcfRR0fE",
     "views": "34",
     "rejected": [
-     "long-outlier"
+     "multi-act"
     ]
    },
    {
@@ -7616,7 +7610,6 @@
     "url": "https://www.youtube.com/watch?v=TWnX3xTgQ9U",
     "views": "40",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -7724,6 +7717,7 @@
     "views": "278",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "fragment"
     ]
    },
@@ -9373,7 +9367,6 @@
     "url": "https://www.youtube.com/watch?v=MpMhrKMelws",
     "views": "1036",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -10489,7 +10482,6 @@
     "views": "68",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -11799,7 +11791,6 @@
     "url": "https://www.youtube.com/watch?v=61-S9iJTxkI",
     "views": 26,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20201204"
@@ -13945,7 +13936,6 @@
     "url": "https://www.youtube.com/watch?v=kmDSDfXamaM",
     "views": "16",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14189,7 +14179,6 @@
     "url": "https://www.youtube.com/watch?v=h2fhiQ3CNqo",
     "views": "29",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14200,7 +14189,6 @@
     "url": "https://www.youtube.com/watch?v=CjY_qhMBTaA",
     "views": "19",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14510,7 +14498,6 @@
     "url": "https://www.youtube.com/watch?v=YDF6JIgmvkM",
     "views": "25",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14655,7 +14642,6 @@
     "views": "6479",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -14667,7 +14653,6 @@
     "views": "100",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -14689,7 +14674,6 @@
     "views": "844",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -14710,7 +14694,6 @@
     "url": "https://www.youtube.com/watch?v=Xj9TV2g6KuE",
     "views": "17",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14807,7 +14790,6 @@
     "url": "https://www.youtube.com/watch?v=SXbblQBawvw",
     "views": "32",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -15355,7 +15337,6 @@
     "url": "https://www.youtube.com/watch?v=2aLCAh5ah38",
     "views": 7253,
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ],
@@ -16911,7 +16892,7 @@
     "url": "https://www.youtube.com/watch?v=OmhbvNiD46Q",
     "views": "17",
     "rejected": [
-     "long-outlier"
+     "multi-act"
     ]
    },
    {
@@ -17134,7 +17115,9 @@
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=lUG_-fHSFPU",
     "views": "9617",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 3955,
@@ -17142,9 +17125,7 @@
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=gCBFL9iULjQ",
     "views": "7431",
-    "rejected": [
-     "part-of-an-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 4515,
@@ -17240,11 +17221,11 @@
     "rejected": []
    },
    {
-    "seconds": 4472,
-    "title": "Honkai Impact 3rd Story Chapter 28 Part 3 4k 60 FPS English Subtitles Gameplay Walkthrough",
+    "seconds": 3955,
+    "title": "Honkai Impact 3rd Story Chapter 28 Part 4 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
-    "url": "https://www.youtube.com/watch?v=lUG_-fHSFPU",
-    "views": "9617",
+    "url": "https://www.youtube.com/watch?v=gCBFL9iULjQ",
+    "views": "7431",
     "rejected": []
    },
    {
@@ -17288,7 +17269,7 @@
    "high": 93,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 73,
+   "trimmed_mean": 72,
    "measured": 0,
    "parts": {},
    "drift": -0.724
@@ -28431,6 +28412,7 @@
     "url": "https://www.youtube.com/watch?v=EiQi9CEVXWE",
     "views": "98",
     "rejected": [
+     "multi-act",
      "fragment"
     ]
    },
@@ -28854,7 +28836,7 @@
     "url": "https://www.youtube.com/watch?v=0bP4jvUsB58",
     "views": 219,
     "rejected": [
-     "short-outlier"
+     "multi-act"
     ],
     "upload_date": "20241213"
    },
@@ -30346,7 +30328,7 @@
     "url": "https://www.youtube.com/watch?v=134XefsBL-U",
     "views": 99,
     "rejected": [
-     "short-outlier"
+     "multi-act"
     ],
     "upload_date": "20250131"
    },

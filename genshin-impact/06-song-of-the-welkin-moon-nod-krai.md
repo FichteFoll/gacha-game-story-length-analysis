@@ -22,7 +22,7 @@ and finally deliver the Chapter III title drop.
 | Act IV | An Elegy for Faded Moonlight | 4 h 03 min | 3 h 52 min - 4 h 12 min | 10 | high |
 | Act V | A Nocturne of the Far North | 2 h 35 min | 2 h 24 min - 2 h 52 min | 23 | high |
 | Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 50 min - 3 h 12 min | 10 | high |
-| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 44 min - 3 h 07 min | 23 | high |
+| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 44 min - 3 h 07 min | 22 | high |
 | Act VIII | True Moon | 3 h 24 min | 3 h 17 min - 3 h 30 min | 9 | high |
 | Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 31 min - 2 h 48 min | 10 | high |
 | Act X | Truth Amongst the Pages of Purana | 4 h 13 min | 3 h 48 min - 4 h 23 min | 11 | high |
@@ -338,12 +338,12 @@ North to Dottore's lab with the Fatui as temporary allies.
 <!--gen:stats act="Act VII"-->
 
 - **Estimated length:** 2 h 56 min
-- **Sampled range:** 2 h 44 min to 3 h 07 min for the middle half (full spread 2 h 25 min to 3 h 18 min) across 23 playthrough uploads (23 further candidates screened out)
+- **Sampled range:** 2 h 44 min to 3 h 07 min for the middle half (full spread 2 h 25 min to 3 h 18 min) across 22 playthrough uploads (24 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 5 of 23 uploads
+- **Measured from the uploader's chapter markers:** 5 of 22 uploads
 - **Quest parts (3):** Moonless Night (30 min); Where Our Space and Time Intersect (1 h 20 min); Tracing the Footsteps of the Past (1 h 09 min)
 <!--/gen-->
 
@@ -362,7 +362,6 @@ North to Dottore's lab with the Fatui as temporary allies.
 | 2 h 49 min | Full Nod Krai Archon Quest Act 7 & 8 - Genshin Impact 6.3 / Luna 4 | Fayato | 147,963 | 2026-01-14 | <https://www.youtube.com/watch?v=au70Z7aYYDQ> |
 | 2 h 51 min | Nod-Krai Archon Quest ✦ ACT 7 ✦ Luna 4 / 6.3 ✦ Genshin Impact | Nara Haruna | 33 | 2026-01-18 | <https://www.youtube.com/watch?v=8oeFYqQLl_U> |
 | 2 h 54 min | SWM- Act VII: A Traveler On a Winter’s Night – Complete Quest Walkthrough \| Genshin Impact | V0id | 45 | 2026-01-20 | <https://www.youtube.com/watch?v=YzUXU_CRG_A> |
-| 2 h 54 min | Genshin Impact 6.3 Act VII : A Traveler on a Winter's Night & Act VIII : True Moon Full Story | MMOJACKX57 | 3,911 | 2026-01-14 | <https://www.youtube.com/watch?v=3ZySKCuCD3k> |
 | 2 h 55 min | LUNA 4 Archon Quest - ACT 7 \| Genshin Impact | Infinity Iris Gaming | 1,130 | 2026-01-17 | <https://www.youtube.com/watch?v=VkOuV_6tgt4> |
 | 2 h 56 min | Genshin Impact – Song of the Welkin Moon Act 7: A Traveler on a Winter's Night 🌙❄️ PART - 43 | BLACKOUT GAMING | ~18 | n/a | <https://www.youtube.com/watch?v=puxLEZYhWAs> |
 | 2 h 56 min | A Traveler on a Winter's Night [Song of the Welkin Moon Act 7] 6.3 Genshin Impact | Rubieco | ~117 | n/a | <https://www.youtube.com/watch?v=rBFCjG64lak> |

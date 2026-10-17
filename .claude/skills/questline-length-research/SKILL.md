@@ -312,6 +312,16 @@ Discard, by title:
   The same goes for "Full Story" and "Complete Story Quest",
   which Wuthering Waves uploaders say of a single quest;
   there only "entire story" and "full questline" name a compilation.
+  A title whose numbers pin more than one act is a compilation outright:
+  the run after the unit may be joined by "&", "and", "+", ",", "to",
+  a hyphen, a slash, a tilde, an en dash or a fullwidth tilde
+  ("Chapter 47-48", "CH 47/48", "Ch. 31~32"),
+  and where the unit is the chapter, "Ch." and "CH" count as the unit.
+  A second number no greater than the first is a stage, not an act
+  ("Ch 21-3" is Chapter 21's third stage),
+  and two numbers with only a space between them ("Chapter 47 48")
+  are left to the report's `compilations.txt`,
+  because generically a bare space between two numbers says too little.
   A title that pins exactly one act by the unit and a numeral
   ("FULL Chapter 2 - Process 3") is that act however it words its scope,
   so the scope words are overruled rather than the other way round.

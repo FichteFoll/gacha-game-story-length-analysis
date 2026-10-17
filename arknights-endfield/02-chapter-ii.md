@@ -18,7 +18,7 @@ to close the rifts the miasma grew out of.
 | Process I | Lost in the Marsh | 1 h 24 min | 1 h 10 min - 1 h 42 min | 16 | medium |
 | Process II | The Way of Water | 2 h 00 min | 1 h 39 min - 2 h 20 min | 12 | medium |
 | Process III | The Long Feud | 3 h 02 min | 2 h 54 min - 3 h 22 min | 13 | high |
-| Process IV | Tales of Old | 1 h 40 min | 1 h 24 min - 1 h 53 min | 12 | medium |
+| Process IV | Tales of Old | 1 h 40 min | 1 h 25 min - 1 h 50 min | 13 | medium |
 | Process V | Wrothful Tide | 1 h 04 min | 1 h 00 min - 1 h 06 min | 15 | high |
 | Process VI | Ponderous Load | 1 h 37 min | 1 h 30 min - 1 h 39 min | 16 | high |
 | Process VII | Ruins in the Miasma | 4 h 34 min | 4 h 10 min - 4 h 46 min | 13 | high |
@@ -185,11 +185,11 @@ and the Feranmut Heart held against everything he calls up around it.
 <!--gen:stats act="Process IV"-->
 
 - **Estimated length:** 1 h 40 min
-- **Sampled range:** 1 h 24 min to 1 h 53 min for the middle half (full spread 1 h 19 min to 2 h 26 min) across 12 playthrough uploads (28 further candidates screened out)
+- **Sampled range:** 1 h 25 min to 1 h 50 min for the middle half (full spread 1 h 19 min to 2 h 26 min) across 13 playthrough uploads (27 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** At the Wake of Spring (1.2)
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 12 uploads
+- **Measured from the uploader's chapter markers:** 5 of 13 uploads
 - **Quest parts (5):** Like Fire and Ice; A Lethal Invitation; Phantom Wisps; Awaiting Thine Coming; Free Will
 <!--/gen-->
 
@@ -204,6 +204,7 @@ and the Feranmut Heart held against everything he calls up around it.
 | 1 h 24 min | Endfield Main Story Chapter 2: Process 4 Tales of Old Full Walkthrough \| Arknights: Endfield 1.2 | Akabirama | ~538 | n/a | <https://www.youtube.com/watch?v=jkrnqY7yJuw> |
 | 1 h 27 min | Arknights Endfield Version 1.2 Main Story -Tales of Old- Chapter 2 Process 4 (Complete Playthrough) | DreamerQuests | 56 | 2026-04-20 | <https://www.youtube.com/watch?v=iWYxXh7cKE4> |
 | 1 h 27 min | [ ARKNIGHTS: ENDFIELD ] Chapter II: Process IV- TALES OF OLD  [ FULL STORY / NO COMMENTARY ] | Uranium Tea Gaming | 30 | 2026-04-17 | <https://www.youtube.com/watch?v=yqVUEtyzLcc> |
+| 1 h 33 min | Arknights: Endfield 1.2 - Main Quest (Chapter II Process IV-VI) \| Full Walkthrough JP Dub Male MC | Ren Kitarou 恋喜太朗 | 18 | 2026-04-29 | <https://www.youtube.com/watch?v=NTTZqKwQEcM> |
 | 1 h 40 min | [Arknights: Endfield 1.2] Chapter 2: Process 4 - Tales of Old \| Full Story Playthrough | EllooTV | 11 | 2026-05-24 | <https://www.youtube.com/watch?v=OGOLZTYPCKM> |
 | 1 h 40 min | Arknights Endfield 1.2 - Main Story Quest Full Walkthrough | NeoBuns | 274 | 2026-04-20 | <https://www.youtube.com/watch?v=Gfvs97PnNaY> |
 | 1 h 42 min | Arknights: Endfield - Tales of Old - Chapter 2 - Process 4 - Main Mission | Pik | 42 | 2026-05-15 | <https://www.youtube.com/watch?v=V7Nh97Fw9Io> |

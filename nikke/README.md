@@ -4,7 +4,7 @@ Duration estimates for every story chapter of the *Goddess of Victory: NIKKE* ca
 from the tutorial descent onto the surface to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole campaign story: <!--f:grand_total-->65 h 06 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->501<!--/f--> accepted uploads out of <!--f:n_candidates-->1079<!--/f--> candidates).
+**Total for the whole campaign story: <!--f:grand_total-->65 h 06 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->500<!--/f--> accepted uploads out of <!--f:n_candidates-->1079<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -92,7 +92,9 @@ since it is as likely to be the third instalment of a complete playthrough.
 A title that writes two chapter numbers side by side
 ("CH 45/46", "Chapter 31~32", "Chapter 47 48") is the opposite case,
 a bundle of both however the rest of it reads,
-and is screened out as one (`data/compilations.txt`).
+and is screened out as one:
+the shared screening reads a slash, a tilde or a dash between the numbers,
+and `data/compilations.txt` the bare space this game's uploaders also use.
 
 The figures it screens and grades on:
 

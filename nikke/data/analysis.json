@@ -417,7 +417,9 @@
     "uploader": "Gaming with DABz",
     "url": "https://www.youtube.com/watch?v=3dKOr8IzcxY",
     "views": 28,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20240426"
    },
    {
@@ -490,7 +492,8 @@
     "url": "https://www.youtube.com/watch?v=0T0UtVkqXwE",
     "views": "75",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "multi-act"
     ]
    },
    {
@@ -648,15 +651,6 @@
     "rejected": []
    },
    {
-    "seconds": 2162,
-    "title": "GODDESS OF VICTORY\uff1aNIKKE - Chapter 0: Fall + Chapter 1: Corruption [English] PC Gameplay",
-    "uploader": "Gaming with DABz",
-    "url": "https://www.youtube.com/watch?v=3dKOr8IzcxY",
-    "views": 28,
-    "rejected": [],
-    "upload_date": "20240426"
-   },
-   {
     "seconds": 2737,
     "title": "NIKKE: Goddess of Victory Playthrough | Campaign | Chapter 1\u2013Corruption",
     "uploader": "HaWuTsKi Archive",
@@ -666,13 +660,13 @@
    }
   ],
   "stats": {
-   "n": 12,
+   "n": 11,
    "median": 27,
    "low": 14,
    "high": 46,
    "q1": 26,
-   "q3": 30,
-   "trimmed_mean": 27,
+   "q3": 28,
+   "trimmed_mean": 26,
    "measured": 0,
    "parts": {},
    "drift": 0.0
@@ -1628,6 +1622,7 @@
     "views": "145",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -2268,6 +2263,7 @@
     "url": "https://www.youtube.com/watch?v=yYZ06-8bF7Y",
     "views": "396",
     "rejected": [
+     "multi-act",
      "part-of-an-act",
      "act-mismatch"
     ]
@@ -2912,7 +2908,6 @@
     "url": "https://www.youtube.com/watch?v=iSMUWrX_cho",
     "views": "475",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -2924,7 +2919,6 @@
     "url": "https://www.youtube.com/watch?v=GR9WYgj7FRg",
     "views": 144,
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ],
@@ -3356,6 +3350,7 @@
     "url": "https://www.youtube.com/watch?v=fJrsR5mriEs",
     "views": "14677",
     "rejected": [
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -4159,6 +4154,7 @@
     "url": "https://www.youtube.com/watch?v=l00udDI0H3I",
     "views": 2262,
     "rejected": [
+     "multi-act",
      "fragment"
     ],
     "upload_date": "20251115"
@@ -5642,7 +5638,6 @@
     "views": "38",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -6505,6 +6500,7 @@
     "url": "https://www.youtube.com/watch?v=Cmh1Lc_kPsE",
     "views": 542,
     "rejected": [
+     "multi-act",
      "fragment"
     ],
     "upload_date": "20251208"
@@ -8575,6 +8571,7 @@
     "views": "18",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -8586,7 +8583,6 @@
     "views": "74",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -8598,7 +8594,6 @@
     "views": "216",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -9517,7 +9512,6 @@
     "views": "639",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -11143,6 +11137,7 @@
     "url": "https://www.youtube.com/watch?v=j5TJB0jY0tI",
     "views": "3172",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -11945,7 +11940,6 @@
     "views": "4611",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -11965,7 +11959,6 @@
     "views": "34",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -11977,7 +11970,6 @@
     "views": "759",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -12000,7 +11992,6 @@
     "url": "https://www.youtube.com/watch?v=-8brL3bRk2o",
     "views": 450,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20260310"
@@ -12222,6 +12213,7 @@
     "url": "https://www.youtube.com/watch?v=VmQlnMsmakk",
     "views": "4209",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -12287,7 +12279,6 @@
     "views": "1615",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -12787,7 +12778,7 @@
     "url": "https://www.youtube.com/watch?v=sS7zbHX5RXU",
     "views": "21",
     "rejected": [
-     "long-outlier"
+     "act-mismatch"
     ]
    },
    {
@@ -12915,7 +12906,6 @@
     "url": "https://www.youtube.com/watch?v=lAwC7ZO4qJI",
     "views": "2629",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -12971,7 +12961,6 @@
     "views": "1245",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -13687,7 +13676,6 @@
     "views": "89",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -14015,6 +14003,7 @@
     "views": "24",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -14325,6 +14314,7 @@
     "url": "https://www.youtube.com/watch?v=rRyvObKzATA",
     "views": "17923",
     "rejected": [
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -14381,7 +14371,6 @@
     "url": "https://www.youtube.com/watch?v=s2MIsGjJ_Z0",
     "views": "1934",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -14634,6 +14623,7 @@
     "views": "6",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -14960,7 +14950,6 @@
     "views": "483",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -15632,7 +15621,6 @@
     "url": "https://www.youtube.com/watch?v=L3vzI-0xpfw",
     "views": 5090,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20260813"

@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->118 h 20 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->558<!--/f--> accepted uploads out of <!--f:n_candidates-->942<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->118 h 20 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->557<!--/f--> accepted uploads out of <!--f:n_candidates-->942<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters

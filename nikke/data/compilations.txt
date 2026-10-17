@@ -3,4 +3,4 @@ all (main )?story chapters
 all chapters
 chapters? \d+ ?(?:&|and|\+|,|-|to) ?\d+
 story (so far|recap)
-!\bch(?:apters?)?\.? ?\d+ ?(?:[~/\u2013\uFF5E]| ) ?\d+\b
+!\bch(?:apters?)?\.? ?\d+ \d+\b

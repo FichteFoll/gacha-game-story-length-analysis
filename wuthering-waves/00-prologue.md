@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Prologue: Utterance of Marvels
 
-**Region:** Huanglong | **Game versions:** 1.0 | **Entries:** 2 | **Estimated chapter length: 51 min**
+**Region:** Huanglong | **Game versions:** 1.0 | **Entries:** 2 | **Estimated chapter length: 53 min**
 <!--/gen-->
 
 Rover wakes in the Gorges of Spirits with no memory and no frequency,
@@ -15,11 +15,11 @@ are all handed over here before the story proper starts.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prologue I | Utterance of Marvels: I | 36 min | 31 min - 40 min | 13 | medium |
+| Prologue I | Utterance of Marvels: I | 38 min | 29 min - 41 min | 12 | medium |
 | Prologue II | Utterance of Marvels: II | 15 min | 8 min - 15 min | 3 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->51 min<!--/f-->**
+**Total: <!--f:total-->53 min<!--/f-->**
 
 ## Pacing
 
@@ -30,7 +30,7 @@ the first half carries the opening fight, the flight to Jinzhou
 and every tutorial the game hands out,
 while the second is a single Echo lesson on the way through the city gate,
 which is why it lands at <!--f:len_Prologue_II-->15 min<!--/f-->
-against the first half's <!--f:len_Prologue_I-->36 min<!--/f-->.
+against the first half's <!--f:len_Prologue_I-->38 min<!--/f-->.
 Most uploaders cover both halves in one video and title it after neither,
 so both pools here are smaller than the entries deserve.
 
@@ -45,13 +45,13 @@ glides down into a Tacet Field
 and puts down the thing waiting at the bottom of it.
 <!--gen:stats act="Prologue I"-->
 
-- **Estimated length:** 36 min
-- **Sampled range:** 31 min to 40 min for the middle half (full spread 20 min to 46 min) across 13 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 38 min
+- **Sampled range:** 29 min to 41 min for the middle half (full spread 20 min to 46 min) across 12 playthrough uploads (24 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.0
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 13 uploads
+- **Stability:** median +6% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 3 of 12 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Prologue I"-->
@@ -64,7 +64,6 @@ and puts down the thing waiting at the bottom of it.
 | 25 min | Wuthering Waves - Utterance of Marvels: I - Main Quest Walkthrough | Trophy Tom | 495 | 2024-05-23 | <https://www.youtube.com/watch?v=l-vxXX6agKw> |
 | 28 min | Wuthering Waves: Chapter 1 Act 1 \| Utterance of Marvels: l | EpicGamer | 23 | 2024-06-08 | <https://www.youtube.com/watch?v=fCQw4L0D-n0> |
 | 34 min | Wuthering Waves \| Prologue Act 1, 2 And Main Story Chapter 1 Act 1, 2 | JihoEcho | 455 | 2024-07-30 | <https://www.youtube.com/watch?v=_x7HRlf2RJs> |
-| 34 min | Wuthering Waves: Utterance of Marvels ACT: I & II FULL QUEST (4K/60fps PS5 Gameplay - No Commentary) | Sakibrex AdvGaming | 193 | 2025-06-03 | <https://www.youtube.com/watch?v=FGB6I5LZtN4> |
 | 35 min | Utterance of Marvels Act I \| Wuthering Waves Main Quest | chris28zero.gaming | 27 | 2024-06-09 | <https://www.youtube.com/watch?v=Rm9O2lXNEDY> |
 | 36 min | Wuthering Waves 1.0 Story - Prologue Act 1: Utterance of Marvels (Female Rover) | QuestWatcher | 3,543 | 2025-11-18 | <https://www.youtube.com/watch?v=SzSifkaGfiM> |
 | 39 min | Utterance of Marvels I / Prologue / Main Quest / Mobile Gameplay / iOS / Wuthering Waves | Galaxy Playgroundz | 94 | 2024-05-23 | <https://www.youtube.com/watch?v=3E2Ho2V_hAE> |

@@ -16,7 +16,7 @@ that he is not supposed to be following.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 00 | Fall | 8 min | 8 min - 9 min | 8 | high |
-| Chapter 01 | Corruption | 27 min | 26 min - 30 min | 12 | high |
+| Chapter 01 | Corruption | 27 min | 26 min - 28 min | 11 | high |
 | Chapter 02 | Identification | 32 min | 28 min - 38 min | 10 | medium |
 | Chapter 03 | Enlightenment | 12 min | 12 min - 16 min | 8 | medium |
 | Chapter 04 | Bouquet | 54 min | 49 min - 1 h 00 min | 12 | high |
@@ -88,7 +88,7 @@ and the commander meets the thing that happens to Nikkes who fight too long.
 <!--gen:stats act="Chapter 01"-->
 
 - **Estimated length:** 27 min
-- **Sampled range:** 26 min to 30 min for the middle half (full spread 14 min to 46 min) across 12 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 26 min to 28 min for the middle half (full spread 14 min to 46 min) across 11 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
 - **Stability:** median 0% against an earlier, independent query set
@@ -110,7 +110,6 @@ and the commander meets the thing that happens to Nikkes who fight too long.
 | 28 min | GODDESS OF VICTORY: NIKKE Chapter 01: Corruption | LeRandomRayquaza2011 | ~653 | n/a | <https://www.youtube.com/watch?v=ykU40rJ8O8k> |
 | 28 min | Goddess Of Victory: NIKKE \| Story Campaign, Chapter 1 - Corruption (Full, Eng Dub) | DeloneZ | 37 | 2025-04-25 | <https://www.youtube.com/watch?v=1dEyhjL84EU> |
 | 31 min | GODDESS OF VICTORY: NIKKE \| Chapter 01 [Corruption] (Japanese Dub) | Vincent Gaming | ~2,772 | n/a | <https://www.youtube.com/watch?v=s_F5lZxIUSo> |
-| 36 min | GODDESS OF VICTORY：NIKKE - Chapter 0: Fall + Chapter 1: Corruption [English] PC Gameplay | Gaming with DABz | 28 | 2024-04-26 | <https://www.youtube.com/watch?v=3dKOr8IzcxY> |
 | 46 min | NIKKE: Goddess of Victory Playthrough \| Campaign \| Chapter 1–Corruption | HaWuTsKi Archive | ~360 | n/a | <https://www.youtube.com/watch?v=Nn6PvtOqTVs> |
 
 </details>

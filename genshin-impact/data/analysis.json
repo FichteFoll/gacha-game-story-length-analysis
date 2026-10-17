@@ -11437,7 +11437,9 @@
     "uploader": "MMOJACKX57",
     "url": "https://www.youtube.com/watch?v=3ZySKCuCD3k",
     "views": 3911,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20260114"
    },
    {
@@ -11536,15 +11538,6 @@
     "views": 45,
     "rejected": [],
     "upload_date": "20260120"
-   },
-   {
-    "seconds": 10461,
-    "title": "Genshin Impact 6.3 Act VII : A Traveler on a Winter's Night & Act VIII : True Moon Full Story",
-    "uploader": "MMOJACKX57",
-    "url": "https://www.youtube.com/watch?v=3ZySKCuCD3k",
-    "views": 3911,
-    "rejected": [],
-    "upload_date": "20260114"
    },
    {
     "seconds": 10505,
@@ -11691,7 +11684,7 @@
    }
   ],
   "stats": {
-   "n": 23,
+   "n": 22,
    "median": 176,
    "low": 145,
    "high": 198,
@@ -13117,6 +13110,7 @@
     "url": "https://www.youtube.com/watch?v=1BWJBEyPxQg",
     "views": 19,
     "rejected": [
+     "multi-act",
      "fragment"
     ],
     "upload_date": "20260822"

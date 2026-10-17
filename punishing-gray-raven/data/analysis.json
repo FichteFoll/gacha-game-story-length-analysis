@@ -604,7 +604,6 @@
     "views": "63",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -1101,7 +1100,6 @@
     "views": "20",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -1561,6 +1559,7 @@
     "views": "8043",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -4566,7 +4565,6 @@
     "views": "23",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -4578,7 +4576,6 @@
     "views": "16",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -5102,7 +5099,6 @@
     "views": "55",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -5186,7 +5182,6 @@
     "views": "307",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -10000,8 +9995,7 @@
     "url": "https://www.youtube.com/watch?v=f-JSZSGKr7M",
     "views": "23503",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -10630,8 +10624,7 @@
     "url": "https://www.youtube.com/watch?v=7paa1iJk_Bk",
     "views": "383",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -13172,6 +13165,7 @@
     "views": "916",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -13183,6 +13177,7 @@
     "url": "https://www.youtube.com/watch?v=wFEbd4JteK0",
     "views": "1207",
     "rejected": [
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -15365,7 +15360,6 @@
     "views": "5",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -15376,7 +15370,6 @@
     "url": "https://www.youtube.com/watch?v=EnLsQqy5g1I",
     "views": "10",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -15387,7 +15380,6 @@
     "url": "https://www.youtube.com/watch?v=qWLPi0dhjNI",
     "views": "9",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -15867,7 +15859,6 @@
     "views": "2",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    }
@@ -15995,7 +15986,6 @@
     "url": "https://www.youtube.com/watch?v=WOJLIAGfb9Y",
     "views": "647",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -16006,7 +15996,6 @@
     "url": "https://www.youtube.com/watch?v=9UhA5dSVuKk",
     "views": "314",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -16017,7 +16006,6 @@
     "url": "https://www.youtube.com/watch?v=-0E-dJE7B5Q",
     "views": 268,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20230406"
@@ -16147,7 +16135,6 @@
     "url": "https://www.youtube.com/watch?v=5rwqqPsjomI",
     "views": 17,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20240614"
@@ -19498,6 +19485,7 @@
     "views": "21",
     "rejected": [
      "not-a-playthrough",
+     "multi-act",
      "fragment"
     ]
    },
@@ -19734,7 +19722,6 @@
     "views": "6",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -19859,7 +19846,6 @@
     "url": "https://www.youtube.com/watch?v=J47M5VIDhuM",
     "views": "13",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -21597,7 +21583,6 @@
     "views": "3",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -21829,8 +21814,7 @@
     "url": "https://www.youtube.com/watch?v=euGuA0r45C0",
     "views": "60",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -22312,8 +22296,7 @@
     "url": "https://www.youtube.com/watch?v=U0ri6FtgdCE",
     "views": "1299",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -22323,8 +22306,7 @@
     "url": "https://www.youtube.com/watch?v=oRFE9P67diI",
     "views": "28",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -22334,8 +22316,7 @@
     "url": "https://www.youtube.com/watch?v=E7md6ykl8k4",
     "views": "43",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -22345,8 +22326,7 @@
     "url": "https://www.youtube.com/watch?v=tliL_Feeh5s",
     "views": "62",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -22466,7 +22446,6 @@
     "views": "8",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23219,7 +23198,6 @@
     "views": "12",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23600,7 +23578,6 @@
     "url": "https://www.youtube.com/watch?v=JWpGXfhJ_Ic",
     "views": "83",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -26037,7 +26014,6 @@
     "views": "4",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26049,7 +26025,6 @@
     "views": "10",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26072,7 +26047,6 @@
     "views": "4",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26084,7 +26058,6 @@
     "views": "1",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26096,7 +26069,6 @@
     "views": "10",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26108,7 +26080,6 @@
     "views": "28",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    }
@@ -26964,7 +26935,6 @@
     "url": "https://www.youtube.com/watch?v=VdamW7ssppk",
     "views": "8",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -26976,7 +26946,6 @@
     "views": "7",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26987,7 +26956,6 @@
     "url": "https://www.youtube.com/watch?v=XMTgDeTQngk",
     "views": "11",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -26999,7 +26967,6 @@
     "views": "12",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -27011,7 +26978,6 @@
     "views": "3",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -27023,7 +26989,6 @@
     "views": "8",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -27035,7 +27000,6 @@
     "views": "6",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -27438,7 +27402,6 @@
     "url": "https://www.youtube.com/watch?v=Wrzqgh39Z74",
     "views": "29",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28038,7 +28001,6 @@
     "url": "https://www.youtube.com/watch?v=Gu5abQLNwHk",
     "views": "22",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28049,7 +28011,6 @@
     "url": "https://www.youtube.com/watch?v=V4cFk68wIsY",
     "views": "13",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28060,7 +28021,6 @@
     "url": "https://www.youtube.com/watch?v=1gL3Wgo1nvo",
     "views": 21,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20260226"
@@ -28072,7 +28032,6 @@
     "url": "https://www.youtube.com/watch?v=LWFQHCOwse8",
     "views": "23",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28083,7 +28042,6 @@
     "url": "https://www.youtube.com/watch?v=SKae2ynqOx0",
     "views": "11",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28095,7 +28053,6 @@
     "views": "76",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -28106,7 +28063,6 @@
     "url": "https://www.youtube.com/watch?v=vIgBr3Fzp5w",
     "views": "5",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28117,7 +28073,6 @@
     "url": "https://www.youtube.com/watch?v=OHKotSeVZSI",
     "views": "37",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    }
@@ -29671,6 +29626,7 @@
     "url": "https://www.youtube.com/watch?v=mptYJ5Vigew",
     "views": "14",
     "rejected": [
+     "multi-act",
      "act-mismatch"
     ]
    },
@@ -30173,7 +30129,6 @@
     "views": "8",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -31095,6 +31050,7 @@
     "url": "https://www.youtube.com/watch?v=wFEbd4JteK0",
     "views": "1207",
     "rejected": [
+     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -32794,7 +32750,6 @@
     "views": "521",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },

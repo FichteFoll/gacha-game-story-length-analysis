@@ -154,7 +154,7 @@ A long run of named stages, got through faster than their number suggests.
 | --- | --- | --- | --- | --- | --- |
 | 54 min | [HI3] Chapter 28 Phase 1 [ENG SUB/CN DUB] | Snea | ~42 | n/a | <https://www.youtube.com/watch?v=wXFxpnv4Be4> |
 | 59 min | Honkai Impact 3rd! Chapter XXVIII - Beyond Will - Part 1! | Yashinku | ~32 | n/a | <https://www.youtube.com/watch?v=gisAQocYbHM> |
-| 1 h 15 min | Honkai Impact 3rd Story Chapter 28 Part 3 4k 60 FPS English Subtitles Gameplay Walkthrough | KING1993GAMING | ~9,617 | n/a | <https://www.youtube.com/watch?v=lUG_-fHSFPU> |
+| 1 h 06 min | Honkai Impact 3rd Story Chapter 28 Part 4 4k 60 FPS English Subtitles Gameplay Walkthrough | KING1993GAMING | ~7,431 | n/a | <https://www.youtube.com/watch?v=gCBFL9iULjQ> |
 | 1 h 16 min | Honkai Impact - Chapter 28 (XXVIII) - Storyline Mission: 3. The Death of Otto Apocalypse | Aira Delasse | ~219 | n/a | <https://www.youtube.com/watch?v=blv_QkIZA_g> |
 | 1 h 17 min | Chapter 28 \| Beyond Will \| Honkai Impact 3rd Story Mode Gameplay | HowJuDuDat Gaming | 630 | 2022-02-23 | <https://www.youtube.com/watch?v=Tm2LYXLwhxs> |
 | 1 h 21 min | [Part 1] STORY CHAPTER 28 - Beyond Will Honkai Impact 3rd Story Gameplay | XoXo PD | ~40 | n/a | <https://www.youtube.com/watch?v=zE8ryDLR3HE> |

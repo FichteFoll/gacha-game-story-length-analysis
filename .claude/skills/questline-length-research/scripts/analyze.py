@@ -94,6 +94,10 @@ FRAGMENT = "!"
 # Impact 3rd reaches Chapter XLII; a run of letters that is not a numeral is
 # dropped by the ROMAN lookup that reads it, so widening the class costs nothing.
 NUMERAL = r"[ivxl]+|\d+"
+# What a title puts between the first and the last of a run of entry numbers
+# ("Chapter 47-48", "CH 47/48", "47~48"), besides the words and the ampersand:
+# hyphen, slash, tilde, en dash and the fullwidth tilde of Japanese titles.
+RANGE = r"-|/|~|\u2013|\uFF5E"
 
 STOPWORDS = {"the", "a", "an", "and", "of", "to", "in", "on", "for", "that",
              "under", "amidst", "without", "over", "with", "from"}
@@ -147,10 +151,19 @@ def unit_pattern(acts):
     Genshin numbers its acts "Act I" and Wuthering Waves "Act 1", but a game
     that says "Episode 2" would otherwise have every bundle and compilation of
     its episodes read as a single-act upload.
+
+    A game whose unit is the chapter is also written "CH 47" or "Ch. 47" by its
+    uploaders. The abbreviation is read for that unit only: where the unit is
+    the act or the mission, "Ch." names the container and pins nothing.
     """
     units = {act_unit(a["act_label"]).lower() for a in acts
              if act_number(a["act_label"])}
-    return "|".join(sorted(f"{u}s?" for u in units)) or "acts?"
+    words = [f"{u}s?" for u in sorted(units)]
+    if "chapter" in units:
+        # Bounded on both sides here, because the patterns it is joined into
+        # are not: "all ch" must not match "all characters".
+        words.append(r"\bch(?![a-z])\.?")
+    return "|".join(words) or "acts?"
 
 
 def container_pattern(acts):
@@ -290,7 +303,8 @@ def pin_re(acts):
     """
     return re.compile(
         rf"\b(?:{unit_pattern(acts)}):? *"
-        rf"((?:{NUMERAL})(?: *(?:&|and|\+|,|-|to) *(?:{NUMERAL}))*)(?!\.\d)\b",
+        rf"((?:{NUMERAL})(?: *(?:&|and|\+|,|to|{RANGE}) *(?:{NUMERAL}))*)"
+        rf"(?!\.\d)\b",
         re.I)
 
 
@@ -302,21 +316,26 @@ def pinned_acts(pin, title):
     whole chapter ("Chapter 1 Process 4 - The Broken Lands") is not evidence
     for the act named, and a scope word next to a single act label ("FULL
     Chapter 2 - Process 3") describes that act rather than a compilation.
+
+    Within a run, a number no greater than the one before it is a stage rather
+    than an act: "Ch 21-3" is the third stage of Chapter 21, where "Ch 21-22"
+    is two chapters.
     """
     out = set()
     for run in pin.findall(title):
+        last = -1
         for token in re.split(r"[^A-Za-z0-9]+", run):
-            if token.isdigit():
-                out.add(int(token))
-            elif token.upper() in ROMAN:
-                out.add(ROMAN[token.upper()])
+            number = int(token) if token.isdigit() else ROMAN.get(token.upper())
+            if number is not None and number > last:
+                out.add(number)
+                last = number
     return out
 
 
 def bundle_re(acts):
     """"Acts 9 & 10", "Act V and VI": a free second opinion on two acts at once."""
-    return re.compile(rf"(?:{unit_pattern(acts)}) +({NUMERAL}) *"
-                      rf"(?:&|and|\+|,) *({NUMERAL})\b", re.I)
+    return re.compile(rf"(?:{unit_pattern(acts)}) *({NUMERAL}) *"
+                      rf"(?:&|and|\+|,|{RANGE}) *({NUMERAL})\b", re.I)
 
 
 def title_words(text):
@@ -636,7 +655,7 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
         reasons = []
         if reject.search(title) or int(f[0]) < floor:
             reasons.append("not-a-playthrough")
-        if compilation(title, pinned == {number}):
+        if len(pinned) > 1 or compilation(title, pinned == {number}):
             reasons.append("multi-act")
         if partial and (scope := partial(title, parts)):
             reasons.append(scope)
@@ -873,6 +892,10 @@ def bundle_acts(bundle, title, chapter):
         return []
     wanted = [int(g) if g.isdigit() else ROMAN.get(g.upper())
               for g in match.groups()]
+    # Only two neighbours make a pair whose medians add up to the upload: "Ch
+    # 1-3" spans three chapters, and "Ch 9-01" is a stage.
+    if None in wanted or wanted[1] != wanted[0] + 1:
+        return []
     found = [chapter.get(n) for n in wanted]
     return found if all(found) else []
 
