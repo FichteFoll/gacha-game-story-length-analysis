@@ -4,7 +4,7 @@ Duration estimates for every entry of the Main Quest storyline,
 from the Huanglong prologue to Mengzhou,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->86 h 40 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->677<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->86 h 40 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, prologues, interludes and segues, measured against <!--f:n_videos-->676<!--/f--> accepted uploads out of <!--f:n_candidates-->1262<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters

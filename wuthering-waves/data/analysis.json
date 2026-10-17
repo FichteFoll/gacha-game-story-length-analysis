@@ -18268,7 +18268,9 @@
     "uploader": "Spec Ray ",
     "url": "https://www.youtube.com/watch?v=LaXEsrPkrq8",
     "views": 11,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260820"
    },
    {
@@ -18999,15 +19001,6 @@
     "upload_date": "20260820"
    },
    {
-    "seconds": 10336,
-    "title": "Wuthering Waves Main Quest Chapter 4 Act 3: Song of the Heart Sword | Pulling for Qingxiao #Qingxiao",
-    "uploader": "Spec Ray ",
-    "url": "https://www.youtube.com/watch?v=LaXEsrPkrq8",
-    "views": 11,
-    "rejected": [],
-    "upload_date": "20260820"
-   },
-   {
     "seconds": 14510,
     "title": "Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough",
     "uploader": "heriawsity",
@@ -19219,13 +19212,13 @@
    }
   ],
   "stats": {
-   "n": 25,
+   "n": 24,
    "median": 279,
    "low": 167,
    "high": 361,
-   "q1": 273,
-   "q3": 292,
-   "trimmed_mean": 280,
+   "q1": 274,
+   "q3": 294,
+   "trimmed_mean": 282,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -19322,6 +19315,7 @@
     "url": "https://www.youtube.com/watch?v=ayR8fNb0-VA",
     "views": 12,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20260822"

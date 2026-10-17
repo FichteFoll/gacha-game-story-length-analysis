@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Thus Spoke Apocalypse
 
-**Part:** Part 1 | **Game versions:** 5.1 - 5.4 | **Entries:** 4 | **Estimated arc length: 6 h 51 min**
+**Part:** Part 1 | **Game versions:** 5.1 - 5.4 | **Entries:** 4 | **Estimated arc length: 6 h 33 min**
 <!--/gen-->
 
 Otto and Kevin have struck their bargain, and the 2nd Divine Key with it.
@@ -15,16 +15,16 @@ and the arc runs from the first sign of it to the will that goes beyond.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter XXV - EX | Immortal Blades | 1 h 34 min | 1 h 24 min - 1 h 57 min | 7 | low |
-| Chapter XXVI | The Birth of Tragedy | 1 h 26 min | 57 min - 2 h 50 min | 6 | low |
+| Chapter XXVI | The Birth of Tragedy | 1 h 08 min | 50 min - 1 h 59 min | 6 | low |
 | Chapter XXVII | Dusk of the Fool | 2 h 35 min | 1 h 20 min - 4 h 26 min | 7 | low |
 | Chapter XXVIII | Beyond Will | 1 h 16 min | 54 min - 1 h 33 min | 7 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->6 h 51 min<!--/f-->**
+**Total: <!--f:total-->6 h 33 min<!--/f-->**
 
 ## Pacing
 
-Four entries and <!--f:total-->6 h 51 min<!--/f-->,
+Four entries and <!--f:total-->6 h 33 min<!--/f-->,
 with Chapter XXVII the largest of them
 at <!--f:len_Chapter_XXVII-->2 h 35 min<!--/f-->.
 The EX chapter opens the arc rather than closing it,
@@ -77,11 +77,11 @@ The wiki names its stages rather than numbering them,
 which is where the quest parts below come from.
 <!--gen:stats act="Chapter XXVI"-->
 
-- **Estimated length:** 1 h 26 min
-- **Sampled range:** 57 min to 2 h 50 min across 6 playthrough uploads (52 further candidates screened out)
+- **Estimated length:** 1 h 08 min
+- **Sampled range:** 50 min to 1 h 59 min across 6 playthrough uploads (52 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 5.2
-- **Stability:** median +291% against an earlier, independent query set
+- **Stability:** median +209% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XXVI"-->
@@ -90,12 +90,12 @@ which is where the quest parts below come from.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 50 min | Honkai Impact \| The Birth Of Tragedy - Open World \| Main Story Phase 3 \| Walkthrough | Niselia | ~3,529 | n/a | <https://www.youtube.com/watch?v=P_dFv9p8x-s> |
 | 57 min | 「HONKAI IMPACT 3RD」Chapter 26: The Birth of Tragedy Part 1 - Hibernation | Sakura Mizrahi | ~497 | n/a | <https://www.youtube.com/watch?v=ZtaM-X3jIDY> |
 | 1 h 07 min | Chapter 26 \| Birth Of Tragedy Part 1 \| Honkai Impact Story Mode Gameplay | HowJuDuDat Gaming | ~1,109 | n/a | <https://www.youtube.com/watch?v=z96X5HYZYOc> |
-| 1 h 20 min | [Part 4] STORY CHAPTER 26 - The Birth of Tragedy Honkai Impact 3rd Story Gameplay | XoXo PD | ~80 | n/a | <https://www.youtube.com/watch?v=N8FnkIetExY> |
-| 1 h 32 min | Chapter 26 PART 1 \| The Birth of Tragedy \| HI3rd | all beez | ~34 | n/a | <https://www.youtube.com/watch?v=hzW5U2J0txs> |
+| 1 h 09 min | [Part 6] STORY CHAPTER 26 - The Birth of Tragedy Honkai Impact 3rd Story Gameplay | XoXo PD | ~91 | n/a | <https://www.youtube.com/watch?v=XKZZ5J0qKFo> |
+| 1 h 16 min | Chapter 26 PART 4 \| The Birth of Tragedy \| HI3rd | all beez | ~37 | n/a | <https://www.youtube.com/watch?v=CcTnb1Un55I> |
 | 1 h 59 min | [CN Dub] Chapter 26: The Birth of Tragedy \| Sides - Honkai Impact 3 SEA | Hide's Honkai Archive | ~263 | n/a | <https://www.youtube.com/watch?v=qyNpVjGMob0> |
-| 2 h 50 min | 5.2 Pulls + Jumping into Chapter 26 \| Honkai Impact 3rd | NymNym | 86 | 2021-10-22 | <https://www.youtube.com/watch?v=05SRRrgVuc0> |
 
 </details>
 <!--/gen-->

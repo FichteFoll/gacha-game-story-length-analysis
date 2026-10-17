@@ -15653,7 +15653,9 @@
     "uploader": "NymNym",
     "url": "https://www.youtube.com/watch?v=05SRRrgVuc0",
     "views": 86,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20211022"
    },
    {
@@ -15692,7 +15694,9 @@
     "uploader": "all beez",
     "url": "https://www.youtube.com/watch?v=hzW5U2J0txs",
     "views": "34",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 15326,
@@ -15720,7 +15724,9 @@
     "uploader": "XoXo PD",
     "url": "https://www.youtube.com/watch?v=N8FnkIetExY",
     "views": "80",
-    "rejected": []
+    "rejected": [
+     "same-uploader"
+    ]
    },
    {
     "seconds": 7004,
@@ -15759,9 +15765,7 @@
     "uploader": "XoXo PD",
     "url": "https://www.youtube.com/watch?v=XKZZ5J0qKFo",
     "views": "91",
-    "rejected": [
-     "part-of-an-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 1519,
@@ -15852,7 +15856,7 @@
     "url": "https://www.youtube.com/watch?v=JqScZktLF6c",
     "views": "697",
     "rejected": [
-     "same-uploader"
+     "long-outlier"
     ]
    },
    {
@@ -16026,9 +16030,7 @@
     "uploader": "Niselia",
     "url": "https://www.youtube.com/watch?v=P_dFv9p8x-s",
     "views": "3529",
-    "rejected": [
-     "short-outlier"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3401,
@@ -16064,12 +16066,18 @@
     "uploader": "all beez",
     "url": "https://www.youtube.com/watch?v=CcTnb1Un55I",
     "views": "37",
-    "rejected": [
-     "part-of-an-act"
-    ]
+    "rejected": []
    }
   ],
   "kept": [
+   {
+    "seconds": 3012,
+    "title": "Honkai Impact | The Birth Of Tragedy - Open World | Main Story Phase 3 | Walkthrough",
+    "uploader": "Niselia",
+    "url": "https://www.youtube.com/watch?v=P_dFv9p8x-s",
+    "views": "3529",
+    "rejected": []
+   },
    {
     "seconds": 3401,
     "title": "\u300cHONKAI IMPACT 3RD\u300dChapter 26: The Birth of Tragedy Part 1 - Hibernation",
@@ -16087,19 +16095,19 @@
     "rejected": []
    },
    {
-    "seconds": 4795,
-    "title": "[Part 4] STORY CHAPTER 26 - The Birth of Tragedy Honkai Impact 3rd Story Gameplay",
+    "seconds": 4141,
+    "title": "[Part 6] STORY CHAPTER 26 - The Birth of Tragedy Honkai Impact 3rd Story Gameplay",
     "uploader": "XoXo PD",
-    "url": "https://www.youtube.com/watch?v=N8FnkIetExY",
-    "views": "80",
+    "url": "https://www.youtube.com/watch?v=XKZZ5J0qKFo",
+    "views": "91",
     "rejected": []
    },
    {
-    "seconds": 5503,
-    "title": "Chapter 26 PART 1 | The Birth of Tragedy | HI3rd",
+    "seconds": 4542,
+    "title": "Chapter 26 PART 4 | The Birth of Tragedy | HI3rd",
     "uploader": "all beez",
-    "url": "https://www.youtube.com/watch?v=hzW5U2J0txs",
-    "views": "34",
+    "url": "https://www.youtube.com/watch?v=CcTnb1Un55I",
+    "views": "37",
     "rejected": []
    },
    {
@@ -16109,28 +16117,19 @@
     "url": "https://www.youtube.com/watch?v=qyNpVjGMob0",
     "views": "263",
     "rejected": []
-   },
-   {
-    "seconds": 10218,
-    "title": "5.2 Pulls + Jumping into Chapter 26 | Honkai Impact 3rd",
-    "uploader": "NymNym",
-    "url": "https://www.youtube.com/watch?v=05SRRrgVuc0",
-    "views": 86,
-    "rejected": [],
-    "upload_date": "20211022"
    }
   ],
   "stats": {
    "n": 6,
-   "median": 86,
-   "low": 57,
-   "high": 170,
+   "median": 68,
+   "low": 50,
+   "high": 119,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 97,
+   "trimmed_mean": 73,
    "measured": 0,
    "parts": {},
-   "drift": 2.909
+   "drift": 2.091
   }
  },
  {
@@ -29578,6 +29577,7 @@
     "url": "https://www.youtube.com/watch?v=QO_3kkqyhEo",
     "views": 38,
     "rejected": [
+     "not-a-playthrough",
      "multi-act",
      "fragment",
      "act-mismatch"

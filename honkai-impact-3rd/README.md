@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 58 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->572<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->149 h 40 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->572<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -21,7 +21,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Here Lies Bellflower | Part 1 | 4.1 - 4.2 | 2 | 2 h 47 min | [07-here-lies-bellflower.md](07-here-lies-bellflower.md) |
 | Taixuan Dream | Part 1 | 4.3 - 4.5 | 3 | 6 h 08 min | [08-taixuan-dream.md](08-taixuan-dream.md) |
 | Remaining Flames | Part 1 | 4.7 - 4.9 | 3 | 10 h 52 min | [09-remaining-flames.md](09-remaining-flames.md) |
-| Thus Spoke Apocalypse | Part 1 | 5.1 - 5.4 | 4 | 6 h 51 min | [10-thus-spoke-apocalypse.md](10-thus-spoke-apocalypse.md) |
+| Thus Spoke Apocalypse | Part 1 | 5.1 - 5.4 | 4 | 6 h 33 min | [10-thus-spoke-apocalypse.md](10-thus-spoke-apocalypse.md) |
 | To the Flawless | Part 1 | 5.7 - 5.9 | 3 | 6 h 04 min | [11-to-the-flawless.md](11-to-the-flawless.md) |
 | The Day of Transcending Finality | Part 1 | 6.0 - 6.4 | 5 | 10 h 31 min | [12-the-day-of-transcending-finality.md](12-the-day-of-transcending-finality.md) |
 | At the Fingertip of the Sea | Part 1.5 | 6.5 - 6.8 | 4 | 9 h 46 min | [13-at-the-fingertip-of-the-sea.md](13-at-the-fingertip-of-the-sea.md) |

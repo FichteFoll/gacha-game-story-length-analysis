@@ -18,7 +18,7 @@ the wiki lists an Act IV that has not shipped at the time of writing.
 | Act I | The Wind Before the Storm | 2 h 44 min | 2 h 31 min - 2 h 58 min | 26 | high |
 | Act II | Xuanling Sings, Storm Quelled | 2 h 42 min | 2 h 34 min - 3 h 00 min | 28 | high |
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
-| Act III | Song of the Heart Sword | 4 h 39 min | 4 h 33 min - 4 h 52 min | 25 | high |
+| Act III | Song of the Heart Sword | 4 h 39 min | 4 h 34 min - 4 h 54 min | 24 | high |
 | Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 19 | high |
 <!--/gen-->
 
@@ -204,12 +204,12 @@ and what Mengzhou's lineages have been holding back with it.
 The single longest act in the game.
 
 - **Estimated length:** 4 h 39 min
-- **Sampled range:** 4 h 33 min to 4 h 52 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 25 playthrough uploads (61 further candidates screened out)
+- **Sampled range:** 4 h 34 min to 4 h 54 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 24 playthrough uploads (62 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 25 uploads
+- **Measured from the uploader's chapter markers:** 1 of 24 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -219,7 +219,6 @@ The single longest act in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 47 min | 【WUTHERING WAVES】Song of the Heart Sword \| Chapter 4 Act 3 | Mirai Shishiou VODS | 0 | 2026-08-20 | <https://www.youtube.com/watch?v=5cak1d3gsTk> |
-| 2 h 52 min | Wuthering Waves Main Quest Chapter 4 Act 3: Song of the Heart Sword \| Pulling for Qingxiao #Qingxiao | Spec Ray  | 11 | 2026-08-20 | <https://www.youtube.com/watch?v=LaXEsrPkrq8> |
 | 4 h 02 min | Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough | heriawsity | 21 | 2026-08-23 | <https://www.youtube.com/watch?v=SMO9-sjm_50> |
 | 4 h 15 min | Wuthering Wave 3.6 Act 3 Full Story Quest No Commentary Small segment and reveal Of Past Male Rover | Shadow Monarch | 8 | 2026-08-26 | <https://www.youtube.com/watch?v=qoogthR78Ro> |
 | 4 h 28 min | WuWa Main Quest Mengzhou Chapter 4 Act 3 - Song of the Heart Sword Full Game \| Wuthering Waves 3.6 | Akabirama | 5,132 | 2026-08-21 | <https://www.youtube.com/watch?v=vE4qpBJ7gFE> |

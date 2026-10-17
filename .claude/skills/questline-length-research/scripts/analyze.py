@@ -57,10 +57,12 @@ import sys
 
 # Uploads that are not hands-on playthrough footage. Streams and let's-plays are
 # excluded because their idle chatter inflates runtime well past the act length,
-# speedruns because they skip the dialogue a first playthrough sits through.
+# speedruns because they skip the dialogue a first playthrough sits through, and
+# gacha pulls because the summoning pads the runtime the same way. "Pulling the"
+# is left alone, as the start of a quest's name ("Pulling the Trigger").
 REJECT = re.compile(
     r"cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
-    r"\bspeed ?run|"
+    r"\bspeed ?run|\bpulls\b|\bpulling\b(?! the\b)|"
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
     r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"

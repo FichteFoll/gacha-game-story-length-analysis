@@ -288,6 +288,8 @@ Discard, by title:
   `<workdir>/min_minutes.txt` (one number) and they are counted out as not
   being playthroughs, which spares the second pass fetching them too.
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
+  Gacha pulls ("Pulls & Story", "pulling for <character>") pad it the same way
+  and are in the shared list too.
 - **multi-act compilations**: "Acts 9 & 10", "Full Sumeru Archon Quest", "all acts".
   The unit ("act", "episode") comes from the act labels,
   the container ("chapter", "episode", "arc") is fixed
