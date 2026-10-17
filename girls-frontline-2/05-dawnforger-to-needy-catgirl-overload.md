@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 5: Dawnforger to Needy Catgirl Overload
 
-**Chapters:** 18 - 19.5 | **Game versions:** not recorded | **Entries:** 3 | **Estimated volume length: 16 h 26 min**
+**Chapters:** 18 - 19.5 | **Game versions:** not recorded | **Entries:** 3 | **Estimated volume length: 16 h 37 min**
 <!--/gen-->
 
 The Doll community needs a market, which takes the Elmo underground to Mokosh,
@@ -15,12 +15,12 @@ and is a full-length chapter in spite of it.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 18 | Dawnforger - Part 1 | 5 h 16 min | 3 h 25 min - 6 h 08 min | 10 | low |
+| Chapter 18 | Dawnforger - Part 1 | 5 h 27 min | 3 h 25 min - 6 h 08 min | 10 | low |
 | Chapter 19 | Dawnforger - Part 2 | 6 h 36 min | 4 h 53 min - 7 h 18 min | 9 | low |
 | Chapter 19.5 | Needy Catgirl Overload | 4 h 34 min | 3 h 55 min - 6 h 19 min | 9 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->16 h 26 min<!--/f-->**
+**Total: <!--f:total-->16 h 37 min<!--/f-->**
 
 ## Pacing
 
@@ -50,13 +50,13 @@ a peacekeeper force called the Oathsworns,
 and lower levels that are nothing like what the upper levels advertise.
 <!--gen:stats act="Chapter 18"-->
 
-- **Estimated length:** 5 h 16 min
+- **Estimated length:** 5 h 27 min
 - **Sampled range:** 3 h 25 min to 6 h 08 min for the middle half (full spread 2 h 53 min to 8 h 20 min) across 10 playthrough uploads (33 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median -6% against an earlier, independent query set
+- **Stability:** median -3% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 10 uploads
-- **Quest parts (21):** LA-1-1: Cooperative Paradox (15 min); LS-1-1: Corroded Invitation (4 min); LA-1-2: First Fuse (30 min); LS-1-2: Lightless Night (42 min); LS-1-3: Double-Blind Tango (31 min); LA-1-3: Red Onion (23 min); LA-1-4: Drug-Fueled Dive (8 min); LA-1-5: Phase Transition Point (12 min); LA-1-6: Underground Titration (11 min); LS-1-4: Resonance Protocol (8 min); LA-1-7: Durance Synchrony (8 min); LA-1-8: Reunion Covenant (9 min); LA-1-9: Contractualism (19 min); LS-1-5: Forking Path (11 min); LA-1-10: Path of Abandonment (28 min); LS-1-6: Afterglow and Rebirth (23 min); LS-1-7: Thermal Dumping (13 min); LA-1-11: Burning the Land (12 min); LA-1-12: Settlement (10 min); LA-1-13: Reforging Dawn (24 min); LS-1-8: Man In The Hole (11 min)
+- **Quest parts (21):** LA-1-1: Cooperative Paradox (15 min); LS-1-1: Corroded Invitation (4 min); LA-1-2: First Fuse (30 min); LS-1-2: Lightless Night (42 min); LS-1-3: Double-Blind Tango (31 min); LA-1-3: Red Onion (23 min); LA-1-4: Drug-Fueled Dive (8 min); LA-1-5: Phase Transition Point (12 min); LA-1-6: Underground Titration (11 min); LS-1-4: Resonance Protocol (8 min); LA-1-7: Durance Synchrony (8 min); LA-1-8: Reunion Covenant (9 min); LA-1-9: Contractualism (19 min); LS-1-5: Forking Path (11 min); LA-1-10: Path of Abandonment (28 min); LS-1-6: Afterglow and Rebirth (23 min); LS-1-7: Thermal Dumping (13 min); LA-1-11: Burning the Land (12 min); LA-1-12: Settlement (10 min); LA-1-13: Reforging Dawn (27 min); LS-1-8: Man In The Hole (11 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 18"-->
@@ -69,8 +69,8 @@ and lower levels that are nothing like what the upper levels advertise.
 | 3 h 13 min | [GFL2 EXILIUM] [STORY] Dawnforger Part 1 | Vasteral082 | ~17 | n/a | <https://www.youtube.com/watch?v=jepXPlpGne4> |
 | 3 h 29 min | [GirIs Frontline 2] Main Story Chapter 18: Dawnforger Part 1 \| JP Dub \| EN Sub | Aldi Nova | 3 | 2026-08-19 | <https://www.youtube.com/watch?v=-UoGWMdHG04> |
 | 3 h 48 min | Dawnforger Part 1 - Loreley story \| Girl's Frontline 2 Exilium [GFL2] | eLLiXeon | ~889 | n/a | <https://www.youtube.com/watch?v=zoUMAOKonPc> |
-| 5 h 13 min | Dawnforger Part 1 \| GFL2 Exilium | OMGAZZ | 128 | 2026-06-28 | <https://www.youtube.com/watch?v=KsPP-AlZRpk> |
 | 5 h 19 min | Girls Frontline 2 \| Dawnforger (Part 1) | JasonDoesWhatever | 567 | 2026-06-28 | <https://www.youtube.com/watch?v=N4vtd1GTiEM> |
+| 5 h 36 min | Dawnforger Part 1 \| GFL2 Exilium | OMGAZZ | 128 | 2026-06-28 | <https://www.youtube.com/watch?v=KsPP-AlZRpk> |
 | 5 h 55 min | Chapter 18 "Dawnforger, Part 1" - Girls Frontline 2 | daesz | 86 | 2026-06-28 | <https://www.youtube.com/watch?v=Y3r3U6347EY> |
 | 5 h 56 min | Girls Frontline 2: Exilium - Loreley Event Streaming (Dawnforger Part 1) | Orin | ~5,855 | n/a | <https://www.youtube.com/watch?v=-l_1RKft62c> |
 | 6 h 44 min | Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough \| Girls' Frontline 2: Exilium | toufusoup | ~550 | n/a | <https://www.youtube.com/watch?v=TREf2AzPypo> |
@@ -90,7 +90,7 @@ that shows what Cecht FABN has been taking out of the city.
 One of the three longest chapters in the game.
 
 - **Estimated length:** 6 h 36 min
-- **Sampled range:** 4 h 53 min to 7 h 18 min for the middle half (full spread 3 h 01 min to 7 h 32 min) across 9 playthrough uploads (13 further candidates screened out)
+- **Sampled range:** 4 h 53 min to 7 h 18 min for the middle half (full spread 3 h 01 min to 8 h 56 min) across 9 playthrough uploads (13 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
 - **Stability:** median +31% against an earlier, independent query set
@@ -112,7 +112,7 @@ One of the three longest chapters in the game.
 | 6 h 52 min | Girls Frontline 2 \| Dawnforger (Part 2) | JasonDoesWhatever | ~988 | n/a | <https://www.youtube.com/watch?v=fYHZQaYFjWA> |
 | 7 h 13 min | Girls' Frontline 2 EXILIUM - Chapter 19 [Event] Dawnforger - Part 2 | Demonikar | 0 | 2026-08-03 | <https://www.youtube.com/watch?v=2GPCxUbwvSU> |
 | 7 h 24 min | Chapter 19 "Dawnforger, Part 2" - Girls Frontline 2 | daesz | ~79 | n/a | <https://www.youtube.com/watch?v=irw6r6qaJZ4> |
-| 7 h 32 min | 【Girls' Frontline 2】Event - Dawnforger Part 2 : Story Collection | Shoul | 141 | 2026-08-16 | <https://www.youtube.com/watch?v=fCQnyWoXVA8> |
+| 8 h 56 min | 【Girls' Frontline 2】Event - Dawnforger Part 2 : Story Collection | Shoul | 141 | 2026-08-16 | <https://www.youtube.com/watch?v=fCQnyWoXVA8> |
 
 </details>
 <!--/gen-->

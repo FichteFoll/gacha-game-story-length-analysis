@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 4: Corposant to Antiparallel
 
-**Chapters:** 13 - 17 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 28 h 28 min**
+**Chapters:** 13 - 17 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 28 h 34 min**
 <!--/gen-->
 
 Lviv, Project Eden, and the longest stretch of story in the game.
@@ -15,14 +15,14 @@ which is why Part 1.5 is a chapter here like any other.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 13 | Corposant - Part 1 | 3 h 59 min | 3 h 35 min - 4 h 52 min | 10 | medium |
+| Chapter 13 | Corposant - Part 1 | 3 h 59 min | 3 h 35 min - 4 h 58 min | 10 | medium |
 | Chapter 14 | Corposant - Part 1.5 | 6 h 09 min | 4 h 49 min - 7 h 01 min | 9 | medium |
 | Chapter 15 | Corposant - Part 2 | 7 h 17 min | 5 h 48 min - 9 h 57 min | 7 | low |
-| Chapter 16 | Antiparallel - Part 1 | 6 h 55 min | 3 h 08 min - 8 h 24 min | 7 | low |
-| Chapter 17 | Antiparallel - Part 2 | 4 h 08 min | 3 h 27 min - 4 h 31 min | 10 | medium |
+| Chapter 16 | Antiparallel - Part 1 | 7 h 01 min | 4 h 49 min - 8 h 13 min | 8 | low |
+| Chapter 17 | Antiparallel - Part 2 | 4 h 08 min | 3 h 29 min - 4 h 31 min | 10 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->28 h 28 min<!--/f-->**
+**Total: <!--f:total-->28 h 34 min<!--/f-->**
 
 ## Pacing
 
@@ -51,7 +51,7 @@ The Commander does not think much of the timetable.
 <!--gen:stats act="Chapter 13"-->
 
 - **Estimated length:** 3 h 59 min
-- **Sampled range:** 3 h 35 min to 4 h 52 min for the middle half (full spread 2 h 06 min to 5 h 43 min) across 10 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 3 h 35 min to 4 h 58 min for the middle half (full spread 2 h 06 min to 5 h 43 min) across 10 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
 - **Stability:** median -6% against an earlier, independent query set
@@ -72,7 +72,7 @@ The Commander does not think much of the timetable.
 | 3 h 53 min | Girls Frontline 2 \| Ch 13.0 - Corposant (Part 1) | JasonDoesWhatever | ~469 | n/a | <https://www.youtube.com/watch?v=b9nPFZ1oqWU> |
 | 4 h 04 min | Chapter 13 "Corposant, Part 1" - Girls Frontline 2 | daesz | ~271 | n/a | <https://www.youtube.com/watch?v=p8XDGD7_RoE> |
 | 4 h 22 min | Girls Frontline 2  Corposant Story Part 1 | Razorfur | 6 | 2026-04-01 | <https://www.youtube.com/watch?v=HwMjY8ONbw8> |
-| 4 h 50 min | Girls’ Frontline 2 Exilium - Corposant Part 1 (Event Story, JP VA) | Hetherlum Productions | 788 | 2026-02-20 | <https://www.youtube.com/watch?v=SVWLaiOtvHA> |
+| 4 h 57 min | Girls’ Frontline 2 Exilium - Corposant Part 1 (Event Story, JP VA) | Hetherlum Productions | 788 | 2026-02-20 | <https://www.youtube.com/watch?v=SVWLaiOtvHA> |
 | 5 h 00 min | Readthrough of Corposant Part 1 \| Girls' Frontline 2 | HeroMystic | 1,415 | 2026-02-20 | <https://www.youtube.com/watch?v=U6sUiottyM0> |
 | 5 h 43 min | 【Girls' Frontline 2】Event - Corposant Part 1 : Story Collection | Shoul | 613 | 2026-03-31 | <https://www.youtube.com/watch?v=YaU4RvC7VAI> |
 
@@ -162,13 +162,13 @@ until a call for help from the Doll community turns into somewhere to stop.
 <!--gen:stats act="Chapter 16"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 6 h 55 min
-- **Sampled range:** 3 h 08 min to 8 h 24 min across 7 playthrough uploads (26 further candidates screened out)
+- **Estimated length:** 7 h 01 min
+- **Sampled range:** 4 h 49 min to 8 h 13 min for the middle half (full spread 3 h 08 min to 10 h 54 min) across 8 playthrough uploads (25 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median -1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 7 uploads
-- **Quest parts (16):** HA-1-1: Slumbering Nightmare; HA-1-2: Bygone Name; HS-1-1: Phantom Construct; HS-1-2: Dream's Harbor; HA-1-3: Neural Labyrinth; HA-1-4: Coming Storm; HA-1-5: In-Depth Investigation; HA-1-6: Long-Awaited Reunion; HA-1-7: Mutual Use; HA-1-8: Source Divergence; HS-1-3: Through Thick and Thin; HA-1-9: Strange Reunion; HA-1-10: Reflection Interplay; HA-1-11: Chiaroscuro; HA-1-12: Separate Ways; HS-1-4: Home of My heart
+- **Stability:** median 0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 8 uploads
+- **Quest parts (16):** HA-1-1: Slumbering Nightmare (25 min); HA-1-2: Bygone Name (41 min); HS-1-1: Phantom Construct (21 min); HS-1-2: Dream's Harbor (38 min); HA-1-3: Neural Labyrinth (26 min); HA-1-4: Coming Storm (35 min); HA-1-5: In-Depth Investigation (25 min); HA-1-6: Long-Awaited Reunion (25 min); HA-1-7: Mutual Use (30 min); HA-1-8: Source Divergence (34 min); HS-1-3: Through Thick and Thin (16 min); HA-1-9: Strange Reunion (25 min); HA-1-10: Reflection Interplay (18 min); HA-1-11: Chiaroscuro (37 min); HA-1-12: Separate Ways; HS-1-4: Home of My heart (30 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 16"-->
@@ -179,11 +179,12 @@ One of the three longest chapters in the game.
 | --- | --- | --- | --- | --- | --- |
 | 3 h 08 min | Girls frontline 2 Exilium Chapter 16 (Antiparallel 1. Helen Event) Part 1 | Macu_bravo | ~85 | n/a | <https://www.youtube.com/watch?v=yV8ibvBECwY> |
 | 4 h 21 min | Girls' Frontline 2 Antiparallel Part 1 Story Eng Sub | THOA | ~185 | n/a | <https://www.youtube.com/watch?v=sT-5e1xmRxU> |
-| 5 h 27 min | Girls’ Frontline 2 Exilium - Antiparallel Part 1 (Event Story, JP VA) | Hetherlum Productions | 1,139 | 2026-04-25 | <https://www.youtube.com/watch?v=Aq7XClPVzPI> |
+| 6 h 14 min | Girls’ Frontline 2 Exilium - Antiparallel Part 1 (Event Story, JP VA) | Hetherlum Productions | 1,139 | 2026-04-25 | <https://www.youtube.com/watch?v=Aq7XClPVzPI> |
 | 6 h 55 min | Girls' Frontline 2 EXILIUM - Chapter 16 [Event] Antiparallel - Part 1 | Demonikar | ~4 | n/a | <https://www.youtube.com/watch?v=r1Bc-YLTbZw> |
 | 7 h 08 min | 【Girls' Frontline 2】Chapter 16 Antiparallel \| Part 1 - Story Collection | Bjorkit | 93 | 2026-07-04 | <https://www.youtube.com/watch?v=ZtmJX7fGdOk> |
 | 7 h 40 min | 【 Antiparallel Part 1 - Helen Event 】\| Girls Frontline 2 Exilium (Commentary) | TheRealKardiac | ~39 | n/a | <https://www.youtube.com/watch?v=rMUbSc_4CJA> |
 | 8 h 24 min | Chapter 16 "Antiparallel, Part 1" - Girls Frontline 2 | daesz | 126 | 2026-04-25 | <https://www.youtube.com/watch?v=VdInMPgaHDk> |
+| 10 h 54 min | 【Girls' Frontline 2】Event - Antiparallel Part 1 : Story Collection | Shoul | 586 | 2026-05-28 | <https://www.youtube.com/watch?v=W3Oh728HGQA> |
 
 </details>
 <!--/gen-->
@@ -198,7 +199,7 @@ is hard to get a decision out of.
 <!--gen:stats act="Chapter 17"-->
 
 - **Estimated length:** 4 h 08 min
-- **Sampled range:** 3 h 27 min to 4 h 31 min for the middle half (full spread 2 h 31 min to 5 h 41 min) across 10 playthrough uploads (10 further candidates screened out)
+- **Sampled range:** 3 h 29 min to 4 h 31 min for the middle half (full spread 2 h 31 min to 5 h 41 min) across 10 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
 - **Stability:** median 0% against an earlier, independent query set
@@ -214,8 +215,8 @@ is hard to get a decision out of.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 31 min | Girls' Frontline 2 Antiparallel Part 2 Story Eng Sub | THOA | ~101 | n/a | <https://www.youtube.com/watch?v=g3u7kX8CVak> |
 | 2 h 55 min | Girls frontline 2 Exilium Chapter 17 (Antiparallel 2. Phaetusa Event) | Macu_bravo | ~12 | n/a | <https://www.youtube.com/watch?v=nPsA3aJ3YEc> |
-| 3 h 37 min | Girls Frontline 2 \| Antiparallel (Part 2) | JasonDoesWhatever | 843 | 2026-05-16 | <https://www.youtube.com/watch?v=BTZnUMaYnEw> |
 | 3 h 40 min | 【Girls' Frontline 2】Chapter 17 Antiparallel \| Part 2 - Story Collection | Bjorkit | 45 | 2026-07-11 | <https://www.youtube.com/watch?v=Xpqdu61TYKo> |
+| 3 h 46 min | Girls Frontline 2 \| Antiparallel (Part 2) | JasonDoesWhatever | 843 | 2026-05-16 | <https://www.youtube.com/watch?v=BTZnUMaYnEw> |
 | 4 h 05 min | Girls' Frontline 2 EXILIUM - Chapter 17 [Event] Antiparallel - Part 2 | Demonikar | ~15 | n/a | <https://www.youtube.com/watch?v=p30nYUxvJE4> |
 | 4 h 10 min | Girls' Frontline 2: Exilium \| Antiparallel - Part 2: A Place of Belonging | mj-r2 | 6 | 2026-07-01 | <https://www.youtube.com/watch?v=F5GVrjYfZbM> |
 | 4 h 23 min | Chapter 17 "Antiparallel, Part 2" - Girls Frontline 2 | daesz | ~93 | n/a | <https://www.youtube.com/watch?v=o4nDclFWLGY> |

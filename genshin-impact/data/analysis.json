@@ -260,7 +260,7 @@
   "slug": "prologue_Act_II",
   "candidates": [
    {
-    "seconds": 3748,
+    "seconds": 4582,
     "title": "Genshin Impact #02 \u2013 Prologue Act II: For a Tomorrow Without Tears | Full Gameplay No Commentary",
     "uploader": "Mepplerior",
     "url": "https://www.youtube.com/watch?v=gTfJUV0i5eg",
@@ -273,12 +273,12 @@
      "Unexpected Encounter": 158,
      "That Green Fellow": 379,
      "Let the Wind Lead": 292,
-     "Venti's Plan": 532,
+     "Venti's Plan": 850,
      "Wild Escape": 390,
      "Chasing Shadows": 253,
      "Behind the Scenes": 549,
-     "State of the Holy Lyre der Himmel": 239,
-     "Crystal Tears": 438
+     "State of the Holy Lyre der Himmel": 1073,
+     "Crystal Tears": 638
     }
    },
    {
@@ -318,7 +318,7 @@
     "upload_date": "20210522"
    },
    {
-    "seconds": 2853,
+    "seconds": 3084,
     "title": "Genshin Impact - Prologue, Act II: For a Tomorrow Without Tears",
     "uploader": "Harmonea",
     "url": "https://www.youtube.com/watch?v=Jot_zia-qqk",
@@ -332,11 +332,11 @@
      "Unexpected Encounter": 77,
      "That Green Fellow": 334,
      "Let the Wind Lead": 233,
-     "Venti's Plan": 65,
+     "Venti's Plan": 404,
      "Wild Escape": 313,
      "Behind the Scenes": 202,
      "Chasing Shadows": 332,
-     "State of the Holy Lyre der Himmel": 260,
+     "State of the Holy Lyre der Himmel": 491,
      "Crystal Tears": 145,
      "Reunion With the Dragon": 272
     }
@@ -389,7 +389,7 @@
   ],
   "kept": [
    {
-    "seconds": 2853,
+    "seconds": 3084,
     "title": "Genshin Impact - Prologue, Act II: For a Tomorrow Without Tears",
     "uploader": "Harmonea",
     "url": "https://www.youtube.com/watch?v=Jot_zia-qqk",
@@ -403,11 +403,11 @@
      "Unexpected Encounter": 77,
      "That Green Fellow": 334,
      "Let the Wind Lead": 233,
-     "Venti's Plan": 65,
+     "Venti's Plan": 404,
      "Wild Escape": 313,
      "Behind the Scenes": 202,
      "Chasing Shadows": 332,
-     "State of the Holy Lyre der Himmel": 260,
+     "State of the Holy Lyre der Himmel": 491,
      "Crystal Tears": 145,
      "Reunion With the Dragon": 272
     }
@@ -431,28 +431,6 @@
     "upload_date": "20230910"
    },
    {
-    "seconds": 3748,
-    "title": "Genshin Impact #02 \u2013 Prologue Act II: For a Tomorrow Without Tears | Full Gameplay No Commentary",
-    "uploader": "Mepplerior",
-    "url": "https://www.youtube.com/watch?v=gTfJUV0i5eg",
-    "views": 11,
-    "rejected": [],
-    "upload_date": "20260504",
-    "runtime": 4947,
-    "measured": "chapter-markers",
-    "parts": {
-     "Unexpected Encounter": 158,
-     "That Green Fellow": 379,
-     "Let the Wind Lead": 292,
-     "Venti's Plan": 532,
-     "Wild Escape": 390,
-     "Chasing Shadows": 253,
-     "Behind the Scenes": 549,
-     "State of the Holy Lyre der Himmel": 239,
-     "Crystal Tears": 438
-    }
-   },
-   {
     "seconds": 3800,
     "title": "ARCHON QUEST [Prologue Chapter: ACT II] - For a Tomorrow Without Tears Quest | Genshin Impact 1.0",
     "uploader": "\u2022 \u2022 DUO LEVELING \u2022 \u2022",
@@ -469,6 +447,28 @@
     "views": 119,
     "rejected": [],
     "upload_date": "20250515"
+   },
+   {
+    "seconds": 4582,
+    "title": "Genshin Impact #02 \u2013 Prologue Act II: For a Tomorrow Without Tears | Full Gameplay No Commentary",
+    "uploader": "Mepplerior",
+    "url": "https://www.youtube.com/watch?v=gTfJUV0i5eg",
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20260504",
+    "runtime": 4947,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Encounter": 158,
+     "That Green Fellow": 379,
+     "Let the Wind Lead": 292,
+     "Venti's Plan": 850,
+     "Wild Escape": 390,
+     "Chasing Shadows": 253,
+     "Behind the Scenes": 549,
+     "State of the Holy Lyre der Himmel": 1073,
+     "Crystal Tears": 638
+    }
    },
    {
     "seconds": 4831,
@@ -508,15 +508,15 @@
   ],
   "stats": {
    "n": 10,
-   "median": 64,
-   "low": 48,
+   "median": 71,
+   "low": 51,
    "high": 113,
    "q1": 62,
    "q3": 83,
-   "trimmed_mean": 70,
+   "trimmed_mean": 72,
    "measured": 2,
    "parts": {},
-   "drift": -0.123
+   "drift": -0.027
   }
  },
  {
@@ -2283,7 +2283,7 @@
     "upload_date": "20211116"
    },
    {
-    "seconds": 6856,
+    "seconds": 8291,
     "title": "The Immovable God and The Eternal Euthymia \u2014 Archon Quest Chapter II: Act I | Genshin Impact",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=N38tXEOOPoM",
@@ -2293,13 +2293,13 @@
     "runtime": 10774,
     "measured": "chapter-markers",
     "parts": {
-     "Setting Sail": 228,
+     "Setting Sail": 418,
      "Confessions of an Outlander": 2068,
-     "Ritou Escape Plan": 1094,
-     "Three Wishes": 662,
+     "Ritou Escape Plan": 1560,
+     "Three Wishes": 886,
      "The Meaning of Meaningless Waiting": 764,
      "To Treat the Well-Meaning Well": 1951,
-     "A Swordmaster's Path Is Paved With Broken Blades": 56,
+     "A Swordmaster's Path Is Paved With Broken Blades": 611,
      "A Flower Blooms in a Prison": 33
     }
    },
@@ -2468,7 +2468,7 @@
   ],
   "kept": [
    {
-    "seconds": 6856,
+    "seconds": 8291,
     "title": "The Immovable God and The Eternal Euthymia \u2014 Archon Quest Chapter II: Act I | Genshin Impact",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=N38tXEOOPoM",
@@ -2478,13 +2478,13 @@
     "runtime": 10774,
     "measured": "chapter-markers",
     "parts": {
-     "Setting Sail": 228,
+     "Setting Sail": 418,
      "Confessions of an Outlander": 2068,
-     "Ritou Escape Plan": 1094,
-     "Three Wishes": 662,
+     "Ritou Escape Plan": 1560,
+     "Three Wishes": 886,
      "The Meaning of Meaningless Waiting": 764,
      "To Treat the Well-Meaning Well": 1951,
-     "A Swordmaster's Path Is Paved With Broken Blades": 56,
+     "A Swordmaster's Path Is Paved With Broken Blades": 611,
      "A Flower Blooms in a Prison": 33
     }
    },
@@ -2596,7 +2596,7 @@
   "stats": {
    "n": 11,
    "median": 175,
-   "low": 114,
+   "low": 138,
    "high": 198,
    "q1": 160,
    "q3": 188,
@@ -3800,7 +3800,7 @@
     "upload_date": "20250905"
    },
    {
-    "seconds": 8802,
+    "seconds": 9051,
     "title": "The Morn a Thousand Roses Brings \u2014 Chapter III: Act II (Sumeru Archon Quest) | Genshin Impact",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=dqIysUtQlQ4",
@@ -3810,7 +3810,7 @@
     "runtime": 9275,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1053,
+     "The Coming of the Sabzeruz Festival": 8805,
      "Dawn": 246
     }
    },
@@ -3843,7 +3843,7 @@
     "runtime": 8816,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1551,
+     "The Coming of the Sabzeruz Festival": 8097,
      "Dawn": 707
     }
    },
@@ -3858,7 +3858,7 @@
     "runtime": 10696,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1442,
+     "The Coming of the Sabzeruz Festival": 9785,
      "Dawn": 911
     }
    },
@@ -3911,7 +3911,7 @@
     "runtime": 5219,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1150,
+     "The Coming of the Sabzeruz Festival": 5121,
      "Dawn": 98
     }
    },
@@ -3947,7 +3947,7 @@
     "runtime": 5219,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1150,
+     "The Coming of the Sabzeruz Festival": 5121,
      "Dawn": 98
     }
    },
@@ -3978,21 +3978,6 @@
     "upload_date": "20250905"
    },
    {
-    "seconds": 8802,
-    "title": "The Morn a Thousand Roses Brings \u2014 Chapter III: Act II (Sumeru Archon Quest) | Genshin Impact",
-    "uploader": "Mr. Trajet",
-    "url": "https://www.youtube.com/watch?v=dqIysUtQlQ4",
-    "views": 654,
-    "rejected": [],
-    "upload_date": "20220827",
-    "runtime": 9275,
-    "measured": "chapter-markers",
-    "parts": {
-     "The Coming of the Sabzeruz Festival": 1053,
-     "Dawn": 246
-    }
-   },
-   {
     "seconds": 8816,
     "title": "Genshin Impact FULL GAME [No Commentary] CHAPTER 3 ACT II: The Morn a Thousand Roses Brings PART 11",
     "uploader": "SilentPixie Gaming",
@@ -4003,8 +3988,23 @@
     "runtime": 8816,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1551,
+     "The Coming of the Sabzeruz Festival": 8097,
      "Dawn": 707
+    }
+   },
+   {
+    "seconds": 9051,
+    "title": "The Morn a Thousand Roses Brings \u2014 Chapter III: Act II (Sumeru Archon Quest) | Genshin Impact",
+    "uploader": "Mr. Trajet",
+    "url": "https://www.youtube.com/watch?v=dqIysUtQlQ4",
+    "views": 654,
+    "rejected": [],
+    "upload_date": "20220827",
+    "runtime": 9275,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Coming of the Sabzeruz Festival": 8805,
+     "Dawn": 246
     }
    },
    {
@@ -4048,7 +4048,7 @@
     "runtime": 10696,
     "measured": "chapter-markers",
     "parts": {
-     "The Coming of the Sabzeruz Festival": 1442,
+     "The Coming of the Sabzeruz Festival": 9785,
      "Dawn": 911
     }
    }
@@ -4063,7 +4063,7 @@
    "trimmed_mean": 136,
    "measured": 5,
    "parts": {
-    "The Coming of the Sabzeruz Festival": 22,
+    "The Coming of the Sabzeruz Festival": 141,
     "Dawn": 8
    },
    "drift": 0.021
@@ -5441,7 +5441,7 @@
     }
    },
    {
-    "seconds": 8871,
+    "seconds": 9472,
     "title": "As Light Rain Falls Without Reason \u2014 Fontaine Archon Quest, Chapter IV: Act II | Genshin Impact 4.0",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=f02h-AYxarg",
@@ -5453,7 +5453,7 @@
     "parts": {
      "Like the Faint Moonlight of Yesteryear": 1633,
      "The Truth, Lost With the Rain": 3356,
-     "When All Return to the Waters": 3882
+     "When All Return to the Waters": 4483
     }
    },
    {
@@ -5584,7 +5584,16 @@
     "upload_date": "20260219"
    },
    {
-    "seconds": 8871,
+    "seconds": 9373,
+    "title": "Archon Quest Chapter IV: Act II Full Story HD | As Light Rain Falls Without Reason | Genshin Impact",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=j6JyW3oi97M",
+    "views": 74026,
+    "rejected": [],
+    "upload_date": "20230816"
+   },
+   {
+    "seconds": 9472,
     "title": "As Light Rain Falls Without Reason \u2014 Fontaine Archon Quest, Chapter IV: Act II | Genshin Impact 4.0",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=f02h-AYxarg",
@@ -5596,17 +5605,8 @@
     "parts": {
      "Like the Faint Moonlight of Yesteryear": 1633,
      "The Truth, Lost With the Rain": 3356,
-     "When All Return to the Waters": 3882
+     "When All Return to the Waters": 4483
     }
-   },
-   {
-    "seconds": 9373,
-    "title": "Archon Quest Chapter IV: Act II Full Story HD | As Light Rain Falls Without Reason | Genshin Impact",
-    "uploader": "Noxxis Gaming",
-    "url": "https://www.youtube.com/watch?v=j6JyW3oi97M",
-    "views": 74026,
-    "rejected": [],
-    "upload_date": "20230816"
    },
    {
     "seconds": 9603,
@@ -5692,9 +5692,9 @@
    "median": 163,
    "low": 95,
    "high": 198,
-   "q1": 147,
+   "q1": 149,
    "q3": 176,
-   "trimmed_mean": 159,
+   "trimmed_mean": 160,
    "measured": 4,
    "parts": {
     "Like the Faint Moonlight of Yesteryear": 34,
@@ -6703,7 +6703,7 @@
     ]
    },
    {
-    "seconds": 9639,
+    "seconds": 10082,
     "title": "Natlan Archon Quest, Chapter V: Act I \u2014 Full Playthrough Part 1 | Genshin Impact 5.0",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=5V7ODPbaqVo",
@@ -6715,7 +6715,7 @@
     "parts": {
      "Natlan! A New Adventure": 4441,
      "Pilgrimage of the Return of the Sacred Flame": 2622,
-     "Home of the Hot Springs": 2576
+     "Home of the Hot Springs": 3019
     }
    },
    {
@@ -6851,22 +6851,6 @@
     "upload_date": "20240914"
    },
    {
-    "seconds": 9639,
-    "title": "Natlan Archon Quest, Chapter V: Act I \u2014 Full Playthrough Part 1 | Genshin Impact 5.0",
-    "uploader": "Mr. Trajet",
-    "url": "https://www.youtube.com/watch?v=5V7ODPbaqVo",
-    "views": 2347,
-    "rejected": [],
-    "upload_date": "20240829",
-    "runtime": 10508,
-    "measured": "chapter-markers",
-    "parts": {
-     "Natlan! A New Adventure": 4441,
-     "Pilgrimage of the Return of the Sacred Flame": 2622,
-     "Home of the Hot Springs": 2576
-    }
-   },
-   {
     "seconds": 10030,
     "title": "Genshin Impact - Chapter 5: Act 1 Gameplay",
     "uploader": "RosalynXenobiaGames",
@@ -6880,6 +6864,22 @@
      "Natlan! A New Adventure": 3792,
      "Pilgrimage of the Return of the Sacred Flame": 2632,
      "Home of the Hot Springs": 3606
+    }
+   },
+   {
+    "seconds": 10082,
+    "title": "Natlan Archon Quest, Chapter V: Act I \u2014 Full Playthrough Part 1 | Genshin Impact 5.0",
+    "uploader": "Mr. Trajet",
+    "url": "https://www.youtube.com/watch?v=5V7ODPbaqVo",
+    "views": 2347,
+    "rejected": [],
+    "upload_date": "20240829",
+    "runtime": 10508,
+    "measured": "chapter-markers",
+    "parts": {
+     "Natlan! A New Adventure": 4441,
+     "Pilgrimage of the Return of the Sacred Flame": 2622,
+     "Home of the Hot Springs": 3019
     }
    },
    {
@@ -6906,13 +6906,13 @@
    "low": 96,
    "high": 188,
    "q1": 122,
-   "q3": 175,
-   "trimmed_mean": 148,
+   "q3": 176,
+   "trimmed_mean": 149,
    "measured": 3,
    "parts": {
     "Natlan! A New Adventure": 63,
     "Pilgrimage of the Return of the Sacred Flame": 44,
-    "Home of the Hot Springs": 43
+    "Home of the Hot Springs": 50
    },
    "drift": 0.0
   }
@@ -6973,7 +6973,7 @@
     "upload_date": "20250812"
    },
    {
-    "seconds": 6456,
+    "seconds": 9790,
     "title": "Natlan Archon Quest, Chapter V: Act II \u2014 Full Playthrough Part 2 | Genshin Impact 5.0",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=FDJI4Qt9kgQ",
@@ -6983,10 +6983,10 @@
     "runtime": 10161,
     "measured": "chapter-markers",
     "parts": {
-     "A Decision": 1382,
+     "A Decision": 1868,
      "To Reclaim an Ancient Name": 2414,
-     "Echoes of Life": 1242,
-     "Past and Future": 1418
+     "Echoes of Life": 3293,
+     "Past and Future": 2215
     }
    },
    {
@@ -7061,23 +7061,6 @@
   ],
   "kept": [
    {
-    "seconds": 6456,
-    "title": "Natlan Archon Quest, Chapter V: Act II \u2014 Full Playthrough Part 2 | Genshin Impact 5.0",
-    "uploader": "Mr. Trajet",
-    "url": "https://www.youtube.com/watch?v=FDJI4Qt9kgQ",
-    "views": 3064,
-    "rejected": [],
-    "upload_date": "20240901",
-    "runtime": 10161,
-    "measured": "chapter-markers",
-    "parts": {
-     "A Decision": 1382,
-     "To Reclaim an Ancient Name": 2414,
-     "Echoes of Life": 1242,
-     "Past and Future": 1418
-    }
-   },
-   {
     "seconds": 8837,
     "title": "Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT II: Black Stone Under a White Stone PART 23",
     "uploader": "SilentPixie Gaming",
@@ -7112,6 +7095,23 @@
     "views": 198,
     "rejected": [],
     "upload_date": "20240830"
+   },
+   {
+    "seconds": 9790,
+    "title": "Natlan Archon Quest, Chapter V: Act II \u2014 Full Playthrough Part 2 | Genshin Impact 5.0",
+    "uploader": "Mr. Trajet",
+    "url": "https://www.youtube.com/watch?v=FDJI4Qt9kgQ",
+    "views": 3064,
+    "rejected": [],
+    "upload_date": "20240901",
+    "runtime": 10161,
+    "measured": "chapter-markers",
+    "parts": {
+     "A Decision": 1868,
+     "To Reclaim an Ancient Name": 2414,
+     "Echoes of Life": 3293,
+     "Past and Future": 2215
+    }
    },
    {
     "seconds": 9973,
@@ -7152,15 +7152,15 @@
   ],
   "stats": {
    "n": 8,
-   "median": 164,
-   "low": 108,
+   "median": 165,
+   "low": 147,
    "high": 191,
-   "q1": 148,
+   "q1": 155,
    "q3": 177,
-   "trimmed_mean": 160,
+   "trimmed_mean": 167,
    "measured": 2,
    "parts": {},
-   "drift": -0.024
+   "drift": -0.018
   }
  },
  {
@@ -8422,7 +8422,7 @@
     "runtime": 6751,
     "measured": "chapter-markers",
     "parts": {
-     "A Space and Time Without You": 3083,
+     "A Space and Time Without You": 3095,
      "The Key That Unlocks Fate": 1397,
      "\"Savior\"": 2259
     }
@@ -8567,7 +8567,7 @@
     "runtime": 6751,
     "measured": "chapter-markers",
     "parts": {
-     "A Space and Time Without You": 3083,
+     "A Space and Time Without You": 3095,
      "The Key That Unlocks Fate": 1397,
      "\"Savior\"": 2259
     }
@@ -8701,7 +8701,7 @@
     ]
    },
    {
-    "seconds": 6670,
+    "seconds": 8390,
     "title": "The Journey Home \u2014 Song of the Welkin Moon: Prelude (Nod-Krai Archon Quest) | Genshin Impact 5.8",
     "uploader": "Mr. Trajet",
     "url": "https://www.youtube.com/watch?v=4kkAE9Keh2g",
@@ -8713,7 +8713,7 @@
     "parts": {
      "Flamelets": 1700,
      "Smoldering": 2988,
-     "Searing": 1982
+     "Searing": 3702
     }
    },
    {
@@ -8775,22 +8775,6 @@
   ],
   "kept": [
    {
-    "seconds": 6670,
-    "title": "The Journey Home \u2014 Song of the Welkin Moon: Prelude (Nod-Krai Archon Quest) | Genshin Impact 5.8",
-    "uploader": "Mr. Trajet",
-    "url": "https://www.youtube.com/watch?v=4kkAE9Keh2g",
-    "views": 4938,
-    "rejected": [],
-    "upload_date": "20250825",
-    "runtime": 9194,
-    "measured": "chapter-markers",
-    "parts": {
-     "Flamelets": 1700,
-     "Smoldering": 2988,
-     "Searing": 1982
-    }
-   },
-   {
     "seconds": 7865,
     "title": "The Journey Home - Song of the Welkin Moon - Prelude (Full Archon Quest) - Genshin Impact 5.8",
     "uploader": "Sir Patty",
@@ -8807,6 +8791,22 @@
     "views": 372,
     "rejected": [],
     "upload_date": "20250730"
+   },
+   {
+    "seconds": 8390,
+    "title": "The Journey Home \u2014 Song of the Welkin Moon: Prelude (Nod-Krai Archon Quest) | Genshin Impact 5.8",
+    "uploader": "Mr. Trajet",
+    "url": "https://www.youtube.com/watch?v=4kkAE9Keh2g",
+    "views": 4938,
+    "rejected": [],
+    "upload_date": "20250825",
+    "runtime": 9194,
+    "measured": "chapter-markers",
+    "parts": {
+     "Flamelets": 1700,
+     "Smoldering": 2988,
+     "Searing": 3702
+    }
    },
    {
     "seconds": 8428,
@@ -8865,11 +8865,11 @@
   "stats": {
    "n": 9,
    "median": 149,
-   "low": 111,
+   "low": 131,
    "high": 240,
-   "q1": 134,
+   "q1": 138,
    "q3": 159,
-   "trimmed_mean": 153,
+   "trimmed_mean": 156,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -9371,7 +9371,7 @@
     "runtime": 12164,
     "measured": "chapter-markers",
     "parts": {
-     "Fulminations and Undercurrents": 214,
+     "Fulminations and Undercurrents": 3928,
      "The Dark Side of Memory": 1250,
      "One There Was, Who Hunted the Moon": 3104,
      "The Ashen-White Order Burns": 3267,
@@ -9490,7 +9490,7 @@
     "runtime": 12164,
     "measured": "chapter-markers",
     "parts": {
-     "Fulminations and Undercurrents": 214,
+     "Fulminations and Undercurrents": 3928,
      "The Dark Side of Memory": 1250,
      "One There Was, Who Hunted the Moon": 3104,
      "The Ashen-White Order Burns": 3267,
@@ -9865,7 +9865,7 @@
     }
    },
    {
-    "seconds": 9067,
+    "seconds": 14981,
     "title": "An Elegy for Faded Moonlight FULL QUEST Genshin Impact",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=HGMxM_1B-eM",
@@ -9875,7 +9875,7 @@
     "runtime": 14981,
     "measured": "chapter-markers",
     "parts": {
-     "All Is Foretold": 583,
+     "All Is Foretold": 6497,
      "Dance of Death: Serpent and Scorpion": 3720,
      "Echoes of Fate": 4764
     }
@@ -9928,22 +9928,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 9067,
-    "title": "An Elegy for Faded Moonlight FULL QUEST Genshin Impact",
-    "uploader": "WoW Quests",
-    "url": "https://www.youtube.com/watch?v=HGMxM_1B-eM",
-    "views": 30389,
-    "rejected": [],
-    "upload_date": "20251022",
-    "runtime": 14981,
-    "measured": "chapter-markers",
-    "parts": {
-     "All Is Foretold": 583,
-     "Dance of Death: Serpent and Scorpion": 3720,
-     "Echoes of Fate": 4764
-    }
-   },
    {
     "seconds": 11250,
     "title": "THE END OF RERIR! \ud83c\udf19| Song Of The Welkin Moon Act 4 | An Elegy of Faded Moonlight | No Comentary | ",
@@ -10007,6 +9991,22 @@
     "upload_date": "20251024"
    },
    {
+    "seconds": 14981,
+    "title": "An Elegy for Faded Moonlight FULL QUEST Genshin Impact",
+    "uploader": "WoW Quests",
+    "url": "https://www.youtube.com/watch?v=HGMxM_1B-eM",
+    "views": 30389,
+    "rejected": [],
+    "upload_date": "20251022",
+    "runtime": 14981,
+    "measured": "chapter-markers",
+    "parts": {
+     "All Is Foretold": 6497,
+     "Dance of Death: Serpent and Scorpion": 3720,
+     "Echoes of Fate": 4764
+    }
+   },
+   {
     "seconds": 15494,
     "title": "Genshin Impact 4K 60FPS | Archon Quest: An Elegy for Faded Moonlight (No Commentary)",
     "uploader": "RTXMonkey",
@@ -10034,15 +10034,15 @@
   ],
   "stats": {
    "n": 10,
-   "median": 239,
-   "low": 151,
+   "median": 243,
+   "low": 188,
    "high": 260,
-   "q1": 212,
-   "q3": 248,
-   "trimmed_mean": 234,
+   "q1": 232,
+   "q3": 252,
+   "trimmed_mean": 241,
    "measured": 2,
    "parts": {},
-   "drift": -0.016
+   "drift": 0.0
   }
  },
  {
@@ -11151,7 +11151,7 @@
     "upload_date": "20260114"
    },
    {
-    "seconds": 7419,
+    "seconds": 11361,
     "title": "Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII",
     "uploader": "Kuroyukihime",
     "url": "https://www.youtube.com/watch?v=SWVwkwcJr5c",
@@ -11161,7 +11161,7 @@
     "runtime": 11361,
     "measured": "chapter-markers",
     "parts": {
-     "Moonless Night": 1111,
+     "Moonless Night": 5053,
      "Where Our Space and Time Intersect": 3416,
      "Tracing the Footsteps of the Past": 2892
     }
@@ -11454,22 +11454,6 @@
   ],
   "kept": [
    {
-    "seconds": 7419,
-    "title": "Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII",
-    "uploader": "Kuroyukihime",
-    "url": "https://www.youtube.com/watch?v=SWVwkwcJr5c",
-    "views": 66,
-    "rejected": [],
-    "upload_date": "20260227",
-    "runtime": 11361,
-    "measured": "chapter-markers",
-    "parts": {
-     "Moonless Night": 1111,
-     "Where Our Space and Time Intersect": 3416,
-     "Tracing the Footsteps of the Past": 2892
-    }
-   },
-   {
     "seconds": 8700,
     "title": "Genshin Impact:Archon Quest:A Traveler On A Winter Night",
     "uploader": "Don27",
@@ -11656,6 +11640,22 @@
     }
    },
    {
+    "seconds": 11361,
+    "title": "Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII",
+    "uploader": "Kuroyukihime",
+    "url": "https://www.youtube.com/watch?v=SWVwkwcJr5c",
+    "views": 66,
+    "rejected": [],
+    "upload_date": "20260227",
+    "runtime": 11361,
+    "measured": "chapter-markers",
+    "parts": {
+     "Moonless Night": 5053,
+     "Where Our Space and Time Intersect": 3416,
+     "Tracing the Footsteps of the Past": 2892
+    }
+   },
+   {
     "seconds": 11412,
     "title": "Genshin Impact 6.3 Archon Quest - Act 7 & 8 Full Walkthrough [4K 60FPS] - Nod-Krai Luna IV",
     "uploader": "Headstart Gaming",
@@ -11692,19 +11692,19 @@
   ],
   "stats": {
    "n": 23,
-   "median": 175,
-   "low": 124,
+   "median": 176,
+   "low": 145,
    "high": 198,
-   "q1": 163,
-   "q3": 181,
-   "trimmed_mean": 174,
+   "q1": 164,
+   "q3": 187,
+   "trimmed_mean": 176,
    "measured": 5,
    "parts": {
-    "Moonless Night": 28,
+    "Moonless Night": 30,
     "Where Our Space and Time Intersect": 80,
     "Tracing the Footsteps of the Past": 69
    },
-   "drift": -0.006
+   "drift": 0.0
   }
  },
  {
@@ -14759,8 +14759,8 @@
     "runtime": 20091,
     "measured": "chapter-markers",
     "parts": {
-     "Light and Shadow, Intertwined": 892,
-     "Sparks Converging Upon the Tundra": 771,
+     "Light and Shadow, Intertwined": 3573,
+     "Sparks Converging Upon the Tundra": 2308,
      "One Move Left to Make": 3937
     }
    },
@@ -15189,8 +15189,8 @@
     "runtime": 9818,
     "measured": "chapter-markers",
     "parts": {
-     "Light and Shadow, Intertwined": 892,
-     "Sparks Converging Upon the Tundra": 771,
+     "Light and Shadow, Intertwined": 3573,
+     "Sparks Converging Upon the Tundra": 2308,
      "One Move Left to Make": 3937
     }
    },
@@ -15530,8 +15530,8 @@
     "runtime": 20091,
     "measured": "chapter-markers",
     "parts": {
-     "Light and Shadow, Intertwined": 892,
-     "Sparks Converging Upon the Tundra": 771,
+     "Light and Shadow, Intertwined": 3573,
+     "Sparks Converging Upon the Tundra": 2308,
      "One Move Left to Make": 3937
     }
    },
@@ -15646,7 +15646,7 @@
    "trimmed_mean": 167,
    "measured": 5,
    "parts": {
-    "Light and Shadow, Intertwined": 58,
+    "Light and Shadow, Intertwined": 60,
     "Sparks Converging Upon the Tundra": 39,
     "One Move Left to Make": 66
    },
@@ -16475,7 +16475,7 @@
     "runtime": 21371,
     "measured": "chapter-markers",
     "parts": {
-     "Delusion": 585,
+     "Delusion": 906,
      "Etched in Time": 207,
      "Black Feathers Scattered at Parting": 1892
     }
@@ -16554,7 +16554,7 @@
     "runtime": 20596,
     "measured": "chapter-markers",
     "parts": {
-     "Delusion": 780
+     "Delusion": 1800
     }
    }
   ],

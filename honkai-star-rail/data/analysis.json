@@ -1375,7 +1375,7 @@
      "Stars Spun, Prescience Sprung": 1615,
      "New Friends Bring New Joy": 265,
      "Omniscient Inquiry of Arcana": 859,
-     "Wood Sprouts Anew, Fate Tilts Askew": 1373,
+     "Wood Sprouts Anew, Fate Tilts Askew": 1895,
      "Tranquil Amidst Turmoil": 556,
      "Humming Antlers, Entwined Horns": 1429
     }
@@ -1507,7 +1507,7 @@
      "Stars Spun, Prescience Sprung": 1615,
      "New Friends Bring New Joy": 265,
      "Omniscient Inquiry of Arcana": 859,
-     "Wood Sprouts Anew, Fate Tilts Askew": 1373,
+     "Wood Sprouts Anew, Fate Tilts Askew": 1895,
      "Tranquil Amidst Turmoil": 556,
      "Humming Antlers, Entwined Horns": 1429
     }
@@ -4162,7 +4162,7 @@
      "Night Stars, Accompany My Slumber": 1606,
      "Wasteland, Hark Back Glory of Old": 4042,
      "Night Veil, Shroud the Silent Past": 3482,
-     "Kremnos, Cleanse Thy Rusted Blood (I)": 5829,
+     "Kremnos, Cleanse Thy Rusted Blood (I)": 6766,
      "A Cleansing of Gold": 1194,
      "A Witch's Scientific Repose": 2095,
      "Hero, Bear Thy Coreflame": 993
@@ -4349,7 +4349,7 @@
      "Night Stars, Accompany My Slumber": 1606,
      "Wasteland, Hark Back Glory of Old": 4042,
      "Night Veil, Shroud the Silent Past": 3482,
-     "Kremnos, Cleanse Thy Rusted Blood (I)": 5829,
+     "Kremnos, Cleanse Thy Rusted Blood (I)": 6766,
      "A Cleansing of Gold": 1194,
      "A Witch's Scientific Repose": 2095,
      "Hero, Bear Thy Coreflame": 993
@@ -6683,7 +6683,7 @@
     "upload_date": "20251107"
    },
    {
-    "seconds": 20117,
+    "seconds": 29597,
     "title": "HSR 3.7 | FULL Story Quest JP DUB | 2K | Amphoreus \u2014 As Tomorrow Became Yesterday | Honkai Star Rail",
     "uploader": "Xheldon G.Archive",
     "url": "https://www.youtube.com/watch?v=8sn-NbxXS_E",
@@ -6695,10 +6695,10 @@
     "parts": {
      "Dawn, Caress the Distant Lands Once More": 1499,
      "Traverse Stars and Stride Cosmos": 1584,
-     "The Witch's Ardent Research": 1076,
-     "Hero, Return to Dawn in Mortality": 5295,
-     "Pages, Ripples That Engrave Memories": 2162,
-     "Silver Chariot, Part With That Humanity's Epic": 2628,
+     "The Witch's Ardent Research": 7665,
+     "Hero, Return to Dawn in Mortality": 7761,
+     "Pages, Ripples That Engrave Memories": 3185,
+     "Silver Chariot, Part With That Humanity's Epic": 4216,
      "Fallen Petals, Leave Fading Traces of Fragrance": 3170
     }
    },
@@ -6887,26 +6887,6 @@
   ],
   "kept": [
    {
-    "seconds": 20117,
-    "title": "HSR 3.7 | FULL Story Quest JP DUB | 2K | Amphoreus \u2014 As Tomorrow Became Yesterday | Honkai Star Rail",
-    "uploader": "Xheldon G.Archive",
-    "url": "https://www.youtube.com/watch?v=8sn-NbxXS_E",
-    "views": 2805,
-    "rejected": [],
-    "upload_date": "20251106",
-    "runtime": 33050,
-    "measured": "chapter-markers",
-    "parts": {
-     "Dawn, Caress the Distant Lands Once More": 1499,
-     "Traverse Stars and Stride Cosmos": 1584,
-     "The Witch's Ardent Research": 1076,
-     "Hero, Return to Dawn in Mortality": 5295,
-     "Pages, Ripples That Engrave Memories": 2162,
-     "Silver Chariot, Part With That Humanity's Epic": 2628,
-     "Fallen Petals, Leave Fading Traces of Fragrance": 3170
-    }
-   },
-   {
     "seconds": 20407,
     "title": "As Tomorrow Became Yesterday | Amphoreus FINALE | Honkai Star Rail 3.7 Full Playthrough",
     "uploader": "Mihoyuri ",
@@ -7046,6 +7026,26 @@
     "upload_date": "20251105"
    },
    {
+    "seconds": 29597,
+    "title": "HSR 3.7 | FULL Story Quest JP DUB | 2K | Amphoreus \u2014 As Tomorrow Became Yesterday | Honkai Star Rail",
+    "uploader": "Xheldon G.Archive",
+    "url": "https://www.youtube.com/watch?v=8sn-NbxXS_E",
+    "views": 2805,
+    "rejected": [],
+    "upload_date": "20251106",
+    "runtime": 33050,
+    "measured": "chapter-markers",
+    "parts": {
+     "Dawn, Caress the Distant Lands Once More": 1499,
+     "Traverse Stars and Stride Cosmos": 1584,
+     "The Witch's Ardent Research": 7665,
+     "Hero, Return to Dawn in Mortality": 7761,
+     "Pages, Ripples That Engrave Memories": 3185,
+     "Silver Chariot, Part With That Humanity's Epic": 4216,
+     "Fallen Petals, Leave Fading Traces of Fragrance": 3170
+    }
+   },
+   {
     "seconds": 33096,
     "title": "As Tomorrow Became Yesterday (3.7 FULL Story Quest) Honkai Star Rail (English dubbing and subtitles)",
     "uploader": "Kuroyukihime",
@@ -7056,15 +7056,15 @@
   ],
   "stats": {
    "n": 16,
-   "median": 380,
-   "low": 335,
+   "median": 381,
+   "low": 340,
    "high": 552,
-   "q1": 372,
-   "q3": 431,
-   "trimmed_mean": 390,
+   "q1": 376,
+   "q3": 438,
+   "trimmed_mean": 401,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.003
   }
  },
  {

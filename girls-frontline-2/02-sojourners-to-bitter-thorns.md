@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies
 
-**Chapters:** 6.5 - 8.7 | **Game versions:** not recorded | **Entries:** 6 | **Estimated volume length: 19 h 22 min**
+**Chapters:** 6.5 - 8.7 | **Game versions:** not recorded | **Entries:** 6 | **Estimated volume length: 19 h 59 min**
 <!--/gen-->
 
 The volume where the campaign menu starts counting in decimals.
@@ -17,19 +17,19 @@ and between them Chapters 7 and 8 carry the Paradeus cult plot forward.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 6.5 | Sojourners of the Glass Island - Part 1 | 2 h 34 min | 2 h 06 min - 3 h 21 min | 8 | low |
+| Chapter 6.5 | Sojourners of the Glass Island - Part 1 | 3 h 11 min | 2 h 27 min - 3 h 45 min | 8 | low |
 | Chapter 6.7 | Sojourners of the Glass Island - Part 2 | 1 h 56 min | 1 h 23 min - 2 h 13 min | 10 | low |
 | Chapter 7 | Radiation Decay | 2 h 56 min | 2 h 22 min - 3 h 26 min | 9 | medium |
-| Chapter 8 | Aliasing Effect | 4 h 02 min | 3 h 19 min - 5 h 13 min | 12 | low |
+| Chapter 8 | Aliasing Effect | 4 h 02 min | 3 h 21 min - 5 h 13 min | 12 | low |
 | Chapter 8.3 | Amidst Wings of Gray | 2 h 14 min | 1 h 56 min - 3 h 30 min | 10 | low |
 | Chapter 8.7 | Bitter Thorns and Daisies | 5 h 40 min | 3 h 17 min - 8 h 42 min | 7 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->19 h 22 min<!--/f-->**
+**Total: <!--f:total-->19 h 59 min<!--/f-->**
 
 ## Pacing
 
-Three of the four decimal chapters come in under both whole-numbered ones,
+Chapters 6.7 and 8.3 come in under both whole-numbered ones,
 and not because they are side content:
 they hold fewer stages.
 Chapter 6.7 has <!--f:parts_Chapter_6_7-->eight<!--/f--> of them, the fewest here,
@@ -54,12 +54,12 @@ and stakes it on the abandoned Marley power station,
 which is full of the equipment they need and the ELIDs they cannot fight.
 <!--gen:stats act="Chapter 6.5"-->
 
-- **Estimated length:** 2 h 34 min
-- **Sampled range:** 2 h 06 min to 3 h 21 min for the middle half (full spread 1 h 30 min to 3 h 51 min) across 8 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 3 h 11 min
+- **Sampled range:** 2 h 27 min to 3 h 45 min for the middle half (full spread 2 h 00 min to 5 h 09 min) across 8 playthrough uploads (23 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median -25% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 8 uploads
+- **Stability:** median -7% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 8 uploads
 - **Quest parts (13):** UA-1-1: Unexpected Discovery; UA-1-2: Brilliant Disguise; US-1-1: Old Friend; UA-1-3: Mystical Adventure; UA-1-4: Unsolved Mystery; UA-1-5: Hidden Crisis; UA-1-6: Eerie Ghost; UA-1-7: Daring Decision; US-1-2: The Two Ends of the Scale; UA-1-8: Strike Again; UA-1-9: Expulsion Signal; UA-1-10: Chasing Shadows; US-1-3: Prototype of a Dream
 <!--/gen-->
 
@@ -69,14 +69,14 @@ which is full of the equipment they need and the ELIDs they cannot fight.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 30 min | Girls' Frontline 2: Exilium - Part 28 [Story - Chapter 6.5] [Event - Glass Island Residents] | Valeri Zaharevici (Valera-Live) | 328 | 2024-08-22 | <https://www.youtube.com/watch?v=DxxpZMBo4Tk> |
 | 2 h 00 min | Sojourners of the Glass Island - Story part 1 (Ullrid, Suomi event) \| Girl's Frontline 2 Exilium | eLLiXeon | 381 | 2025-01-01 | <https://www.youtube.com/watch?v=5GHzLjRmWII> |
 | 2 h 25 min | GFL 2 EXILIUM \| Full Story ⟡ Chapter 6.5 - Sojourners pt.2 ⟡ [ JP/ENG ] | Tomioka 𑄝੭ | 24 | 2025-09-08 | <https://www.youtube.com/watch?v=XfSKl4KMsls> |
 | 2 h 32 min | 【GIRLS' FRONTLINE 2：EXILIUM】 Sojourners of the Glass Island - Part 1- Full Story Event | DeltaMcKnight | ~239 | n/a | <https://www.youtube.com/watch?v=1rCMwxkzlMQ> |
-| 2 h 35 min | Sojourners of The Glass Island Full Story Event Part 1 No Commentary \| Girl's Frontline 2 Exilium | RickookGame | 21 | 2025-01-04 | <https://www.youtube.com/watch?v=EQnE3AbdywU> |
 | 3 h 06 min | Girls' Frontline 2: Exilium Event: Sojourners of the Glass Island Part 1 Full Story No Commentary | Uranium Tea Gaming | 68 | 2024-12-16 | <https://www.youtube.com/watch?v=3r5ztgLxcAM> |
+| 3 h 16 min | Sojourners of The Glass Island Full Story Event Part 1 No Commentary \| Girl's Frontline 2 Exilium | RickookGame | 21 | 2025-01-04 | <https://www.youtube.com/watch?v=EQnE3AbdywU> |
 | 3 h 26 min | Girls frontline 2 Exilium Chapter 6.5 (Sojourners of the Glass Island 1. Ullrid Event). | Macu_bravo | 8 | 2025-09-14 | <https://www.youtube.com/watch?v=viXo1_vTo_k> |
 | 3 h 51 min | Chapter 6.5 '"Sojourners of the Glass Island, Part 1" - Girls Frontline 2 | daesz | ~92 | n/a | <https://www.youtube.com/watch?v=mgzyj6ydMdk> |
+| 5 h 09 min | 【Girls' Frontline 2】Chapter 6.5 Sojourners of the Glass Island - Story Collection | Bjorkit | 152 | 2025-01-11 | <https://www.youtube.com/watch?v=Bo7PJjMKnP8> |
 
 </details>
 <!--/gen-->
@@ -166,7 +166,7 @@ that ends with Crifium turned into a monster.
 <!--gen:stats act="Chapter 8"-->
 
 - **Estimated length:** 4 h 02 min
-- **Sampled range:** 3 h 19 min to 5 h 13 min for the middle half (full spread 2 h 51 min to 6 h 09 min) across 12 playthrough uploads (8 further candidates screened out)
+- **Sampled range:** 3 h 21 min to 5 h 13 min for the middle half (full spread 2 h 51 min to 6 h 09 min) across 12 playthrough uploads (8 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
 - **Stability:** median +2% against an earlier, independent query set
@@ -183,8 +183,8 @@ that ends with Crifium turned into a monster.
 | 2 h 51 min | GIRLS' FRONTLINE 2: EXILIUM - [Story Chapter 8] Aliasing Effect Gameplay Walkthrough 🎮 | TheGameSampler | ~47 | n/a | <https://www.youtube.com/watch?v=yH-VAp3sGG0> |
 | 3 h 13 min | Chapter 8 '"Aliasing Effect" - Girls Frontline 2 | daesz | ~38 | n/a | <https://www.youtube.com/watch?v=rqIsRQItITQ> |
 | 3 h 18 min | Girls Frontline 2: Exilium \| Ch 8 - Aliasing Effect | JasonDoesWhatever | 132 | 2025-03-19 | <https://www.youtube.com/watch?v=NmSrXimMQNA> |
-| 3 h 21 min | Girls’ Frontline 2 Exilium - Chapter 8 (Aliasing Effect, JP VA) | Hetherlum Productions | 21 | 2026-03-22 | <https://www.youtube.com/watch?v=WxA3-Un8g98> |
 | 3 h 30 min | [Girls' Frontline 2: Exilium] Main Story - Chapter 8 | Pluggedddddddd | 13 | 2025-03-31 | <https://www.youtube.com/watch?v=NEjVuPKXP4E> |
+| 3 h 44 min | Girls’ Frontline 2 Exilium - Chapter 8 (Aliasing Effect, JP VA) | Hetherlum Productions | 21 | 2026-03-22 | <https://www.youtube.com/watch?v=WxA3-Un8g98> |
 | 3 h 57 min | 【Girls' Frontline 2】Chapter 08 - Aliasing Effect : Story Collection | Shoul | ~883 | n/a | <https://www.youtube.com/watch?v=ggQwM4TsZL0> |
 | 4 h 07 min | Girls' Frontline 2: Exilium  Chapter 8: Aliasing Effect Full Story No Commentary | Uranium Tea Gaming | 83 | 2025-01-29 | <https://www.youtube.com/watch?v=RTrm6slirTQ> |
 | 4 h 31 min | GIRLS' FRONTLINE 2: EXILIUM - Chapter 8 (Campaign) - Full Story Playthrough - No Commentary | Bek | ~2,722 | n/a | <https://www.youtube.com/watch?v=k1rotXlVU8w> |

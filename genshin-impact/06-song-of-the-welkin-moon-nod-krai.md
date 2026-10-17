@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Song of the Welkin Moon (unofficially Chapter VI)
 
-**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 33 min**
+**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 38 min**
 <!--/gen-->
 
 Ineffa leads the Traveler out of Natlan to Nod-Krai,
@@ -15,25 +15,25 @@ and finally deliver the Chapter III title drop.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prelude | The Journey Home | 2 h 29 min | 2 h 14 min - 2 h 39 min | 9 | high |
+| Prelude | The Journey Home | 2 h 29 min | 2 h 18 min - 2 h 39 min | 9 | high |
 | Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min | 4 h 08 min - 4 h 51 min | 14 | high |
 | Act II | Elegy of Dust and Lamplight | 3 h 19 min | 2 h 56 min - 3 h 36 min | 11 | high |
 | Act III | A Nation That Doesn't Exist | 2 h 21 min | 2 h 15 min - 2 h 29 min | 10 | high |
-| Act IV | An Elegy for Faded Moonlight | 3 h 59 min | 3 h 32 min - 4 h 08 min | 10 | high |
+| Act IV | An Elegy for Faded Moonlight | 4 h 03 min | 3 h 52 min - 4 h 12 min | 10 | high |
 | Act V | A Nocturne of the Far North | 2 h 35 min | 2 h 24 min - 2 h 52 min | 23 | high |
 | Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 50 min - 3 h 12 min | 10 | high |
-| Act VII | A Traveler on a Winter's Night | 2 h 55 min | 2 h 43 min - 3 h 01 min | 23 | high |
+| Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 44 min - 3 h 07 min | 23 | high |
 | Act VIII | True Moon | 3 h 24 min | 3 h 17 min - 3 h 30 min | 9 | high |
 | Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 31 min - 2 h 48 min | 10 | high |
 | Act X | Truth Amongst the Pages of Purana | 4 h 13 min | 3 h 48 min - 4 h 23 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->35 h 33 min<!--/f-->**
+**Total: <!--f:total-->35 h 38 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter: <!--f:n_entries-->eleven<!--/f--> entries,
-and a running time of <!--f:total-->35 h 33 min<!--/f-->,
+and a running time of <!--f:total-->35 h 38 min<!--/f-->,
 comparable to Sumeru and Fontaine combined.
 Act I alone runs <!--f:len_Act_I-->4 h 43 min<!--/f-->.
 Although the later acts are also the most recent content sampled,
@@ -52,7 +52,7 @@ Ineffa's introduction.
 <!--gen:stats act="Prelude"-->
 
 - **Estimated length:** 2 h 29 min
-- **Sampled range:** 2 h 14 min to 2 h 39 min for the middle half (full spread 1 h 51 min to 4 h 00 min) across 9 playthrough uploads (2 further candidates screened out)
+- **Sampled range:** 2 h 18 min to 2 h 39 min for the middle half (full spread 2 h 11 min to 4 h 00 min) across 9 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.8
@@ -67,9 +67,9 @@ Ineffa's introduction.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 51 min | The Journey Home — Song of the Welkin Moon: Prelude (Nod-Krai Archon Quest) \| Genshin Impact 5.8 | Mr. Trajet | 4,938 | 2025-08-25 | <https://www.youtube.com/watch?v=4kkAE9Keh2g> |
 | 2 h 11 min | The Journey Home - Song of the Welkin Moon - Prelude (Full Archon Quest) - Genshin Impact 5.8 | Sir Patty | 68 | 2025-07-31 | <https://www.youtube.com/watch?v=piaIIgPJZ8U> |
 | 2 h 17 min | The Journey Home 5.8 Archon Quest Full ENG Dub Lumine Version \| Genshin Impact | Nyx | 372 | 2025-07-30 | <https://www.youtube.com/watch?v=f34Zs-HYkHY> |
+| 2 h 20 min | The Journey Home — Song of the Welkin Moon: Prelude (Nod-Krai Archon Quest) \| Genshin Impact 5.8 | Mr. Trajet | 4,938 | 2025-08-25 | <https://www.youtube.com/watch?v=4kkAE9Keh2g> |
 | 2 h 20 min | Genshin Impact 5.8 Archon Quest Full Gameplay. The Journey Home. | Abir. | 53 | 2025-07-30 | <https://www.youtube.com/watch?v=YSIyj5uqKT8> |
 | 2 h 29 min | Genshin Impact - Archon Quest: The Journey Home \|  Chapter 6 - Prelude  Full Story | Momizy Gaming | 160 | 2026-01-17 | <https://www.youtube.com/watch?v=GChpMNS2now> |
 | 2 h 29 min | Archon Quest "Song of the Welkin Moon: Prelude - The Journey Home" (Full Story) - Genshin Impact 5.8 | LyurGG | 10,182 | 2025-07-30 | <https://www.youtube.com/watch?v=jqGFlI5YRR0> |
@@ -210,12 +210,12 @@ Arlecchino and Sandrone circle each other,
 and fate starts closing in.
 <!--gen:stats act="Act IV"-->
 
-- **Estimated length:** 3 h 59 min
-- **Sampled range:** 3 h 32 min to 4 h 08 min for the middle half (full spread 2 h 31 min to 4 h 20 min) across 10 playthrough uploads (2 further candidates screened out)
+- **Estimated length:** 4 h 03 min
+- **Sampled range:** 3 h 52 min to 4 h 12 min for the middle half (full spread 3 h 08 min to 4 h 20 min) across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna II (6.1)
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (3):** All Is Foretold; Dance of Death: Serpent and Scorpion; Echoes of Fate
 <!--/gen-->
@@ -226,7 +226,6 @@ and fate starts closing in.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 31 min | An Elegy for Faded Moonlight FULL QUEST Genshin Impact | WoW Quests | 30,389 | 2025-10-22 | <https://www.youtube.com/watch?v=HGMxM_1B-eM> |
 | 3 h 08 min | THE END OF RERIR! 🌙\| Song Of The Welkin Moon Act 4 \| An Elegy of Faded Moonlight \| No Comentary \|  | FightMatrix Gaming | 15 | 2026-03-01 | <https://www.youtube.com/watch?v=NyKl6BVDH2k> |
 | 3 h 40 min | An Elegy for Faded Moonlight \| Song of the Welkin Moon Act IV \| Chinese Dub + Eng Sub | Genshin Compass Archives | 75 | 2025-11-05 | <https://www.youtube.com/watch?v=FfUuRSLlYgc> |
 | 3 h 56 min | \| 2K \| Full Archon Quest Song Of The Welkin Moon - Act IV: An Elegy for Faded Moonlight | LamLN | 151 | 2025-11-01 | <https://www.youtube.com/watch?v=FTJ_dCa68os> |
@@ -234,6 +233,7 @@ and fate starts closing in.
 | 4 h 01 min | Archon Quest: "An Elegy for Faded Moonlight" (Japanese dub/English sub) - Genshin Impact | Aruki | 148 | 2025-11-20 | <https://www.youtube.com/watch?v=LRwSgsIFNII> |
 | 4 h 05 min | Song of the Welkin Moon: Act IV An Elegy for Faded Moonlight \| Genshin Impact 6.1 FULL QUEST | teeliplays | 1 | 2025-12-22 | <https://www.youtube.com/watch?v=52puKMUz-Gc> |
 | 4 h 05 min | An Elegy for Faded Moonlight Full Quest Genshin Impact  | Epic Nithan | 86 | 2025-10-24 | <https://www.youtube.com/watch?v=h2e3OPliD7g> |
+| 4 h 10 min | An Elegy for Faded Moonlight FULL QUEST Genshin Impact | WoW Quests | 30,389 | 2025-10-22 | <https://www.youtube.com/watch?v=HGMxM_1B-eM> |
 | 4 h 18 min | Genshin Impact 4K 60FPS \| Archon Quest: An Elegy for Faded Moonlight (No Commentary) | RTXMonkey | 73 | 2025-10-23 | <https://www.youtube.com/watch?v=NrILAkcVOTA> |
 | 4 h 20 min | Genshin Impact 6.1 Archon Quest Act 4 Full Walkthrough [4K 60FPS] - Nod-Krai Luna II | Headstart Gaming | 235 | 2025-12-16 | <https://www.youtube.com/watch?v=5c6plAdYjVM> |
 
@@ -337,14 +337,14 @@ and the search for Columbina's true name.
 North to Dottore's lab with the Fatui as temporary allies.
 <!--gen:stats act="Act VII"-->
 
-- **Estimated length:** 2 h 55 min
-- **Sampled range:** 2 h 43 min to 3 h 01 min for the middle half (full spread 2 h 04 min to 3 h 18 min) across 23 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 2 h 56 min
+- **Sampled range:** 2 h 44 min to 3 h 07 min for the middle half (full spread 2 h 25 min to 3 h 18 min) across 23 playthrough uploads (23 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna IV (6.3)
-- **Stability:** median -1% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 5 of 23 uploads
-- **Quest parts (3):** Moonless Night (28 min); Where Our Space and Time Intersect (1 h 20 min); Tracing the Footsteps of the Past (1 h 09 min)
+- **Quest parts (3):** Moonless Night (30 min); Where Our Space and Time Intersect (1 h 20 min); Tracing the Footsteps of the Past (1 h 09 min)
 <!--/gen-->
 
 <!--gen:evidence act="Act VII"-->
@@ -353,7 +353,6 @@ North to Dottore's lab with the Fatui as temporary allies.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 04 min | Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII | Kuroyukihime | 66 | 2026-02-27 | <https://www.youtube.com/watch?v=SWVwkwcJr5c> |
 | 2 h 25 min | Genshin Impact:Archon Quest:A Traveler On A Winter Night | Don27 | 5 | 2026-01-14 | <https://www.youtube.com/watch?v=d2R0V9ZYoK8> |
 | 2 h 32 min | Genshin Impact PC \| A Traveler on a Winter’s Night – Main Story Quest Full Gameplay Part 1 | F2P | 15 | 2026-01-15 | <https://www.youtube.com/watch?v=Kjihg9T-ezU> |
 | 2 h 38 min | Genshin Impact - A Traveler on a Winter's Night [ Act VII ] [ FULL QUEST ] | Arcade Glory | 41 | 2026-01-16 | <https://www.youtube.com/watch?v=n-8rKbtVDbA> |
@@ -373,6 +372,7 @@ North to Dottore's lab with the Fatui as temporary allies.
 | 3 h 01 min | A Traveler on a Winter's Night \| Genshin Impact 6.3 - Archon Quest Act 7 | Casual Oni | 12 | 2026-02-11 | <https://www.youtube.com/watch?v=fuF1AcTnuR4> |
 | 3 h 07 min | Genshin Impact Luna IV Archon Quest ACT 7 full walkthrough | Lee | 53 | 2026-01-16 | <https://www.youtube.com/watch?v=br1UrJutE4E> |
 | 3 h 09 min | Song of the Welkin Moon Act: VII - Complete Story \| Genshin Impact | Nyxienx | 31 | 2026-02-02 | <https://www.youtube.com/watch?v=FjDMtWqvfwk> |
+| 3 h 09 min | Genshin Impact Luna IV A Traveler on a Winter's Night FULL QUEST Song of the Welkin Moon Act VII | Kuroyukihime | 66 | 2026-02-27 | <https://www.youtube.com/watch?v=SWVwkwcJr5c> |
 | 3 h 10 min | Genshin Impact 6.3 Archon Quest - Act 7 & 8 Full Walkthrough [4K 60FPS] - Nod-Krai Luna IV | Headstart Gaming | 1,636 | 2026-01-17 | <https://www.youtube.com/watch?v=NxuPqHGGgA8> |
 | 3 h 16 min | Nod krai Archon Quest Act 7 "A Traveler on a Winter's Night" Walkthrough \| Genshin Impact \| Luna IV | Mikiyuki | 5 | 2026-01-15 | <https://www.youtube.com/watch?v=o8YaGT3Bvbg> |
 | 3 h 18 min | 6.3 Archon Quest ACT 7: A Traveler on a Winter's Night \| Genshin Impact | Hoppie426TheGamer | 2 | 2026-02-25 | <https://www.youtube.com/watch?v=hcbdUFqxDSk> |

@@ -3715,7 +3715,7 @@
   "slug": "ch1_Act_VII",
   "candidates": [
    {
-    "seconds": 8483,
+    "seconds": 9105,
     "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
     "uploader": "RTXMonkey",
     "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
@@ -3725,7 +3725,7 @@
     "runtime": 11185,
     "measured": "chapter-markers",
     "parts": {
-     "To Mt. Firmament": 1569,
+     "To Mt. Firmament": 2191,
      "Truthseeker's Pass": 2073,
      "Road of Pilgrimage": 935,
      "Mianloong Chamber": 2348,
@@ -3971,25 +3971,6 @@
     "upload_date": "20240804"
    },
    {
-    "seconds": 8483,
-    "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
-    "uploader": "RTXMonkey",
-    "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
-    "views": 1647,
-    "rejected": [],
-    "upload_date": "20250120",
-    "runtime": 11185,
-    "measured": "chapter-markers",
-    "parts": {
-     "To Mt. Firmament": 1569,
-     "Truthseeker's Pass": 2073,
-     "Road of Pilgrimage": 935,
-     "Mianloong Chamber": 2348,
-     "The Commander of Time": 1293,
-     "Dawn of Snowstorm": 265
-    }
-   },
-   {
     "seconds": 8902,
     "title": "Wuthering Waves 1.1 Main Quests Chapter 1 Act 7: Thaw of Eons Complete | Wuthering Waves 1.1",
     "uploader": "mwRover",
@@ -4006,6 +3987,25 @@
      "Mianloong Chamber": 2163,
      "The Commander of Time": 1196,
      "Dawn of Snowstorm": 230
+    }
+   },
+   {
+    "seconds": 9105,
+    "title": "Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary)",
+    "uploader": "RTXMonkey",
+    "url": "https://www.youtube.com/watch?v=Z9N5ZNovkJ8",
+    "views": 1647,
+    "rejected": [],
+    "upload_date": "20250120",
+    "runtime": 11185,
+    "measured": "chapter-markers",
+    "parts": {
+     "To Mt. Firmament": 2191,
+     "Truthseeker's Pass": 2073,
+     "Road of Pilgrimage": 935,
+     "Mianloong Chamber": 2348,
+     "The Commander of Time": 1293,
+     "Dawn of Snowstorm": 265
     }
    },
    {
@@ -4131,9 +4131,9 @@
    "median": 173,
    "low": 117,
    "high": 249,
-   "q1": 152,
+   "q1": 154,
    "q3": 185,
-   "trimmed_mean": 171,
+   "trimmed_mean": 172,
    "measured": 2,
    "parts": {},
    "drift": 0.0
@@ -4199,7 +4199,7 @@
     "upload_date": "20241005"
    },
    {
-    "seconds": 6655,
+    "seconds": 8474,
     "title": "To the Shore's End - Chapter 1 Act 8 | Wuthering Waves",
     "uploader": "MysticStarX",
     "url": "https://www.youtube.com/watch?v=-kHhk3aEw38",
@@ -4209,7 +4209,7 @@
     "runtime": 8474,
     "measured": "chapter-markers",
     "parts": {
-     "From the Echoes of Destruction": 1189,
+     "From the Echoes of Destruction": 5170,
      "Hidden Between the Waves": 2699,
      "Legacy of the Lasting Night": 387,
      "Beyond the Shore's End": 218
@@ -4250,9 +4250,7 @@
     "uploader": "Neurax206",
     "url": "https://www.youtube.com/watch?v=ewNxFuJP0IY",
     "views": 69,
-    "rejected": [
-     "long-outlier"
-    ],
+    "rejected": [],
     "upload_date": "20241004"
    },
    {
@@ -4365,23 +4363,6 @@
   ],
   "kept": [
    {
-    "seconds": 6655,
-    "title": "To the Shore's End - Chapter 1 Act 8 | Wuthering Waves",
-    "uploader": "MysticStarX",
-    "url": "https://www.youtube.com/watch?v=-kHhk3aEw38",
-    "views": 243,
-    "rejected": [],
-    "upload_date": "20250120",
-    "runtime": 8474,
-    "measured": "chapter-markers",
-    "parts": {
-     "From the Echoes of Destruction": 1189,
-     "Hidden Between the Waves": 2699,
-     "Legacy of the Lasting Night": 387,
-     "Beyond the Shore's End": 218
-    }
-   },
-   {
     "seconds": 7215,
     "title": "To the Shore's End  | Wuthering Waves (Story Quest - Full Quest)",
     "uploader": "SneakyDaisies",
@@ -4425,6 +4406,23 @@
     "views": 44,
     "rejected": [],
     "upload_date": "20250717"
+   },
+   {
+    "seconds": 8474,
+    "title": "To the Shore's End - Chapter 1 Act 8 | Wuthering Waves",
+    "uploader": "MysticStarX",
+    "url": "https://www.youtube.com/watch?v=-kHhk3aEw38",
+    "views": 243,
+    "rejected": [],
+    "upload_date": "20250120",
+    "runtime": 8474,
+    "measured": "chapter-markers",
+    "parts": {
+     "From the Echoes of Destruction": 5170,
+     "Hidden Between the Waves": 2699,
+     "Legacy of the Lasting Night": 387,
+     "Beyond the Shore's End": 218
+    }
    },
    {
     "seconds": 9225,
@@ -4479,19 +4477,28 @@
     "views": 81,
     "rejected": [],
     "upload_date": "20251215"
+   },
+   {
+    "seconds": 15183,
+    "title": "Wuthering Waves \"To the Shores End\" full story quest gameplay",
+    "uploader": "Neurax206",
+    "url": "https://www.youtube.com/watch?v=ewNxFuJP0IY",
+    "views": 69,
+    "rejected": [],
+    "upload_date": "20241004"
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 147,
-   "low": 111,
-   "high": 193,
-   "q1": 127,
-   "q3": 171,
-   "trimmed_mean": 149,
+   "n": 13,
+   "median": 154,
+   "low": 120,
+   "high": 253,
+   "q1": 130,
+   "q3": 180,
+   "trimmed_mean": 155,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.048
   }
  },
  {

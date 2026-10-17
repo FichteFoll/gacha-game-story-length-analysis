@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter V: Incandescent Ode of Resurrection
 
-**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 28 min**
+**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 29 min**
 <!--/gen-->
 
 Natlan fights the Abyss with Ancient Names borrowed from the Night Kingdom.
@@ -14,8 +14,8 @@ to keep the Sacred Flame burning.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 55 min | 9 | medium |
-| Act II | Black Stone Under a White Stone | 2 h 44 min | 2 h 28 min - 2 h 57 min | 8 | high |
+| Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 56 min | 9 | medium |
+| Act II | Black Stone Under a White Stone | 2 h 45 min | 2 h 35 min - 2 h 57 min | 8 | high |
 | Act III | Beyond the Smoke and Mirrors | 2 h 33 min | 2 h 22 min - 2 h 45 min | 21 | high |
 | Act IV | The Rainbow Destined to Burn | 3 h 17 min | 3 h 02 min - 3 h 38 min | 10 | high |
 | Interlude | All Fires Fuel the Flame | 52 min | 42 min - 56 min | 10 | medium |
@@ -23,7 +23,7 @@ to keep the Sacred Flame burning.
 | Act VI | A Space and Time for You | 1 h 56 min | 1 h 51 min - 2 h 04 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 28 min<!--/f-->**
+**Total: <!--f:total-->17 h 29 min<!--/f-->**
 
 ## Pacing
 
@@ -46,13 +46,13 @@ and the pilgrimage of the Sacred Flame.
 <!--gen:stats act="Act I"-->
 
 - **Estimated length:** 2 h 32 min
-- **Sampled range:** 2 h 02 min to 2 h 55 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (3 further candidates screened out)
+- **Sampled range:** 2 h 02 min to 2 h 56 min for the middle half (full spread 1 h 36 min to 3 h 08 min) across 9 playthrough uploads (3 further candidates screened out)
 - **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
 - **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 3 of 9 uploads
-- **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (43 min)
+- **Quest parts (3):** Natlan! A New Adventure (1 h 03 min); Pilgrimage of the Return of the Sacred Flame (44 min); Home of the Hot Springs (50 min)
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -66,8 +66,8 @@ and the pilgrimage of the Sacred Flame.
 | 2 h 13 min | Genshin Impact - Gameplay CHAPTER 5 ACT I: Flowers Resplendent on the Sun-Scorched Sojourn PART 22 | SilentPixie Gaming | ~47 | n/a | <https://www.youtube.com/watch?v=onkKzwcRKdc> |
 | 2 h 19 min | Flowers Resplendant on the Sun-Scorched Sojourn - Chapter V: Act 1 - Genshin Impact 5.0 | Sir Patty | 8 | 2024-09-01 | <https://www.youtube.com/watch?v=RwF_RWXhTfs> |
 | 2 h 32 min | Flowers Resplendent on the Sun-Scorched Sojourn Full Story Act 1 Archon Quest \|\| Genshin Impact | Brad203 | 12 | 2024-09-14 | <https://www.youtube.com/watch?v=LceGxkzV69o> |
-| 2 h 41 min | Natlan Archon Quest, Chapter V: Act I — Full Playthrough Part 1 \| Genshin Impact 5.0 | Mr. Trajet | 2,347 | 2024-08-29 | <https://www.youtube.com/watch?v=5V7ODPbaqVo> |
 | 2 h 47 min | Genshin Impact - Chapter 5: Act 1 Gameplay | RosalynXenobiaGames | 5 | 2024-08-29 | <https://www.youtube.com/watch?v=Lt34rj8tUKE> |
+| 2 h 48 min | Natlan Archon Quest, Chapter V: Act I — Full Playthrough Part 1 \| Genshin Impact 5.0 | Mr. Trajet | 2,347 | 2024-08-29 | <https://www.youtube.com/watch?v=5V7ODPbaqVo> |
 | 3 h 03 min | Natlan Archon Quest Act One! \| 5.0 Flowers Resplendent on the Sun-Scorched Sojourn Full Playthrough | Tori Noemi | 1,084 | 2024-08-30 | <https://www.youtube.com/watch?v=CGRJkGA9dko> |
 | 3 h 08 min | Genshin Impact - Chapter 5 Act 1: Flowers Resplendent on the Sun-Scorched Sojourn \| JP Dub EN Sub 4K | Gudaoko | ~591 | n/a | <https://www.youtube.com/watch?v=qOWbpI5uIag> |
 
@@ -82,8 +82,8 @@ The Ode of Resurrection fails to bring Kachina back,
 and the Abyss turns out to have tailored a disaster for every tribe.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 2 h 44 min
-- **Sampled range:** 2 h 28 min to 2 h 57 min for the middle half (full spread 1 h 48 min to 3 h 11 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 2 h 45 min
+- **Sampled range:** 2 h 35 min to 2 h 57 min for the middle half (full spread 2 h 27 min to 3 h 11 min) across 8 playthrough uploads (4 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.0
@@ -98,10 +98,10 @@ and the Abyss turns out to have tailored a disaster for every tribe.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 48 min | Natlan Archon Quest, Chapter V: Act II — Full Playthrough Part 2 \| Genshin Impact 5.0 | Mr. Trajet | 3,064 | 2024-09-01 | <https://www.youtube.com/watch?v=FDJI4Qt9kgQ> |
 | 2 h 27 min | Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT II: Black Stone Under a White Stone PART 23 | SilentPixie Gaming | 28 | 2026-01-16 | <https://www.youtube.com/watch?v=mJFHvNF2Ue0> |
 | 2 h 32 min | Genshin Impact PC Gameplay - Part 491 (Black Stone Under a White Stone) | Averse | 7 | 2024-10-15 | <https://www.youtube.com/watch?v=fsuJE0s9guI> |
 | 2 h 42 min | Natlan archon quest Chapter V: Act II - Black Stone Under a White Stone \| Genshin Impact 5.0 | TriMori | 198 | 2024-08-30 | <https://www.youtube.com/watch?v=mUi9bY4S3N0> |
+| 2 h 43 min | Natlan Archon Quest, Chapter V: Act II — Full Playthrough Part 2 \| Genshin Impact 5.0 | Mr. Trajet | 3,064 | 2024-09-01 | <https://www.youtube.com/watch?v=FDJI4Qt9kgQ> |
 | 2 h 46 min | Archon Quest Chapter 5: Act 2 ""Black Stone Under a White Stone" \| 【Genshin Impact】 | LyurGG | 6,992 | 2025-01-05 | <https://www.youtube.com/watch?v=DjqoFROhwFk> |
 | 2 h 53 min | Natlan Archon Quest Act 2 - Black Stone Under a White Stone \| Genshin Impact 5.0 | Streetwise Rhapsody | 35,121 | 2024-08-28 | <https://www.youtube.com/watch?v=KWflRWevNYQ> |
 | 2 h 58 min | Genshin Impact - Black Stone Under a White Stone Archon Quest - Full Walkthrough (No Commentary) | KookieQuest | 24 | 2025-02-04 | <https://www.youtube.com/watch?v=2VWw5ysV6Cw> |

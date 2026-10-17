@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter I: Jinzhou Rising
 
-**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 52 min**
+**Region:** Huanglong, later the Black Shores | **Game versions:** 1.0 - 1.3 | **Entries:** 9 | **Estimated chapter length: 11 h 59 min**
 <!--/gen-->
 
 Jinzhou takes Rover in, and the city's quiet turns out to be borrowed.
@@ -22,11 +22,11 @@ to an island that is not on any map.
 | Act V | Rewinding Raindrops | 1 h 09 min | 1 h 03 min - 1 h 13 min | 12 | high |
 | Act VI | Grand Warstorm | 1 h 34 min | 1 h 18 min - 1 h 45 min | 16 | medium |
 | Interlude | A New Companion | 25 min | 21 min - 34 min | 5 | low |
-| Act VII | Thaw of Eons | 2 h 53 min | 2 h 32 min - 3 h 05 min | 17 | high |
-| Act VIII | To the Shore's End | 2 h 27 min | 2 h 07 min - 2 h 51 min | 12 | medium |
+| Act VII | Thaw of Eons | 2 h 53 min | 2 h 34 min - 3 h 05 min | 17 | high |
+| Act VIII | To the Shore's End | 2 h 34 min | 2 h 10 min - 3 h 00 min | 13 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->11 h 52 min<!--/f-->**
+**Total: <!--f:total-->11 h 59 min<!--/f-->**
 
 ## Pacing
 
@@ -38,7 +38,7 @@ Then the version content arrives, and the scale changes:
 Act VII opens Mt. Firmament with <!--f:parts_Act_VII-->seven<!--/f--> quest parts
 and takes <!--f:len_Act_VII-->2 h 53 min<!--/f-->,
 and Act VIII crosses to the Black Shores with <!--f:parts_Act_VIII-->five<!--/f-->
-for <!--f:len_Act_VIII-->2 h 27 min<!--/f-->.
+for <!--f:len_Act_VIII-->2 h 34 min<!--/f-->.
 Those two are the longest entries in the chapter,
 and Act VII is the largest single thing in it.
 
@@ -340,7 +340,7 @@ the Mianloong Chamber, and Jinhsi's own history with the Commander of Time.
 <!--gen:stats act="Act VII"-->
 
 - **Estimated length:** 2 h 53 min
-- **Sampled range:** 2 h 32 min to 3 h 05 min for the middle half (full spread 1 h 57 min to 4 h 09 min) across 17 playthrough uploads (5 further candidates screened out)
+- **Sampled range:** 2 h 34 min to 3 h 05 min for the middle half (full spread 1 h 57 min to 4 h 09 min) across 17 playthrough uploads (5 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 1.1
@@ -357,8 +357,8 @@ the Mianloong Chamber, and Jinhsi's own history with the Commander of Time.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 57 min | Thaws of Eons - Jinzhou Rising - Huanglong I - Act VII (Full Main Quest) \| Wuthering Waves | Sir Patty | 44 | 2025-08-26 | <https://www.youtube.com/watch?v=nKUFbf3AYrk> |
 | 2 h 04 min | Wuthering Waves 1.1 \| C1 Act VII Thaw of Eons \| Main Quest Walkthrough | KCS BLANK | 48 | 2024-08-04 | <https://www.youtube.com/watch?v=xIVqU65GwjA> |
-| 2 h 21 min | Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary) | RTXMonkey | 1,647 | 2025-01-20 | <https://www.youtube.com/watch?v=Z9N5ZNovkJ8> |
 | 2 h 28 min | Wuthering Waves 1.1 Main Quests Chapter 1 Act 7: Thaw of Eons Complete \| Wuthering Waves 1.1 | mwRover | 20 | 2024-07-05 | <https://www.youtube.com/watch?v=KRIXKOPXgPk> |
+| 2 h 32 min | Wuthering Waves Main Quest: Chapter 1 Act 7 Thaw of Eons - Full Gameplay Walkthrough (No Commentary) | RTXMonkey | 1,647 | 2025-01-20 | <https://www.youtube.com/watch?v=Z9N5ZNovkJ8> |
 | 2 h 36 min | Thaw of Eons \| Chapter 1 - Act VII \| Wuthering Waves Main Story Quest PART 8 | R o b | 40 | 2024-08-15 | <https://www.youtube.com/watch?v=pgu7SzEKnhI> |
 | 2 h 46 min | Wuthering Waves 1.1 Huanglong Chapter 1 Act 7 - Thaw of Eons - Full Story Walkthrough | Uranium Tea Gaming | 208 | 2024-07-02 | <https://www.youtube.com/watch?v=JVRWNerKhFM> |
 | 2 h 47 min | Wuthering Waves ver 1.1 Thaw of Eons full walkthrough no commentary. | Lar7on | 60 | 2024-06-28 | <https://www.youtube.com/watch?v=7ScrbJMnI8c> |
@@ -385,13 +385,13 @@ through the echoes of destruction and the legacy of the lasting night,
 to the Shorekeeper and what she has been keeping.
 <!--gen:stats act="Act VIII"-->
 
-- **Estimated length:** 2 h 27 min
-- **Sampled range:** 2 h 07 min to 2 h 51 min for the middle half (full spread 1 h 51 min to 3 h 13 min) across 12 playthrough uploads (9 further candidates screened out)
+- **Estimated length:** 2 h 34 min
+- **Sampled range:** 2 h 10 min to 3 h 00 min for the middle half (full spread 2 h 00 min to 4 h 13 min) across 13 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Union Level gate:** -
 - **Released in:** 1.3
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 12 uploads
+- **Stability:** median +5% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 1 of 13 uploads
 - **Quest parts (5):** From the Echoes of Destruction; Hidden Between the Waves; Legacy of the Lasting Night; Advance toward the Future from Today; Beyond the Shore's End
 <!--/gen-->
 
@@ -401,18 +401,19 @@ to the Shorekeeper and what she has been keeping.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 51 min | To the Shore's End - Chapter 1 Act 8 \| Wuthering Waves | MysticStarX | 243 | 2025-01-20 | <https://www.youtube.com/watch?v=-kHhk3aEw38> |
 | 2 h 00 min | To the Shore's End  \| Wuthering Waves (Story Quest - Full Quest) | SneakyDaisies | 7 | 2026-02-12 | <https://www.youtube.com/watch?v=M7Q2UHTfiII> |
 | 2 h 07 min | WuWa Main Quest Black Shores 1 Act 8 - To the Shore's End Full Walkthrough \| Wuthering Waves 1.3 | Akabirama | 23,728 | 2024-10-01 | <https://www.youtube.com/watch?v=kKUV8pSNlb8> |
 | 2 h 10 min | To the Shore's End - Black Shore I - ACT VIII - Jinzhou Rising \| Wuthering Waves | Sir Patty | 5 | 2025-10-25 | <https://www.youtube.com/watch?v=3HidOGgk56Y> |
 | 2 h 11 min | [WUWA] \| To The Shore's End Full Quest Gameplay \| 1440P | average game journalist footage | 85 | 2024-10-06 | <https://www.youtube.com/watch?v=F1w704Jor-U> |
 | 2 h 20 min | [ Wuthering Waves ] 1.3 (The Black Shores)  Act 8 To the Shore's End [Main Story Line Playthrough ] | Game Chronicles | 44 | 2025-07-17 | <https://www.youtube.com/watch?v=CEPFDq6WloU> |
+| 2 h 21 min | To the Shore's End - Chapter 1 Act 8 \| Wuthering Waves | MysticStarX | 243 | 2025-01-20 | <https://www.youtube.com/watch?v=-kHhk3aEw38> |
 | 2 h 34 min | FULL Chapter 1 Act 8 Black Shores \| Wuthering Waves 1.3 "To the Shore's End" | T.H Bunn | 67 | 2024-09-30 | <https://www.youtube.com/watch?v=Rd1rtL1Hx1M> |
 | 2 h 45 min | Wuthering Waves Main Quest : Chapter 1 Act 8 To The Shore's End - Full Gameplay Walkthrough | RTXMonkey | 572 | 2025-02-02 | <https://www.youtube.com/watch?v=_gCVHkxuHSk> |
 | 2 h 45 min | Wuthering Waves 1.3 Story - Chapter 1 Act 8: To the Shore's End (Male Rover) | QuestWatcher | 30 | 2026-03-18 | <https://www.youtube.com/watch?v=53u24skwBiA> |
 | 2 h 53 min | Wuthering Waves 1.3 - New Story Quest Full Walkthrough | Rubhen925 | 120,300 | 2024-09-29 | <https://www.youtube.com/watch?v=wzFnN-xJrpo> |
 | 3 h 07 min | Wuthering Waves 3.3 Walkthrough PART 15 - To the Shore's End (PS5 1440p) | Gaming Reviving | 56 | 2026-05-24 | <https://www.youtube.com/watch?v=ears8UMNeMk> |
 | 3 h 13 min | Wuthering Waves 1.3 Full Story Walkthrough \| To The Shore’s End \| Black Shores \| 4K 60FPS \| GAMFO | GAMFO | 81 | 2025-12-15 | <https://www.youtube.com/watch?v=Hm-w7lGKgf8> |
+| 4 h 13 min | Wuthering Waves "To the Shores End" full story quest gameplay | Neurax206 | 69 | 2024-10-04 | <https://www.youtube.com/watch?v=ewNxFuJP0IY> |
 
 </details>
 <!--/gen-->

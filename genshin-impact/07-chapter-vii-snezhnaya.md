@@ -171,7 +171,7 @@ and Vesna's authority of life becomes the Seal of Life program against Ronova's 
 - **Adventure Rank gate:** 18
 - **Released in:** 7.1
 - **Measured from the uploader's chapter markers:** 5 of 21 uploads
-- **Quest parts (3):** Light and Shadow, Intertwined (58 min); Sparks Converging Upon the Tundra (39 min); One Move Left to Make (1 h 06 min)
+- **Quest parts (3):** Light and Shadow, Intertwined (1 h 00 min); Sparks Converging Upon the Tundra (39 min); One Move Left to Make (1 h 06 min)
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->

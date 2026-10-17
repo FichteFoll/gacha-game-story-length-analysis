@@ -84,7 +84,7 @@ and a first audience with the Raiden Shogun that ends in defeat.
 <!--gen:stats act="Act I"-->
 
 - **Estimated length:** 2 h 55 min
-- **Sampled range:** 2 h 40 min to 3 h 08 min for the middle half (full spread 1 h 54 min to 3 h 18 min) across 11 playthrough uploads (11 further candidates screened out)
+- **Sampled range:** 2 h 40 min to 3 h 08 min for the middle half (full spread 2 h 18 min to 3 h 18 min) across 11 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.0
@@ -99,7 +99,7 @@ and a first audience with the Raiden Shogun that ends in defeat.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 54 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | 2021-07-24 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
+| 2 h 18 min | The Immovable God and The Eternal Euthymia — Archon Quest Chapter II: Act I \| Genshin Impact | Mr. Trajet | 4,517 | 2021-07-24 | <https://www.youtube.com/watch?v=N38tXEOOPoM> |
 | 2 h 32 min | Genshin Impact FULL GAME [No Commentary] CH2 ACT I: The Immovable God and the Eternal Euthymia PART6 | SilentPixie Gaming | 10 | 2026-01-05 | <https://www.youtube.com/watch?v=QAPRg0qGqTI> |
 | 2 h 40 min | Genshin Impact #35: The Immovable God and the Eternal Euthymia [No Commentary Gameplay] | Maîtrise | 2,120 | 2021-07-21 | <https://www.youtube.com/watch?v=9v7DHpLa-ME> |
 | 2 h 43 min | Full Inazuma Archon Quest - Genshin Impact | Fayato | 179,762 | 2024-06-12 | <https://www.youtube.com/watch?v=kUl9eBi_x_o> |

@@ -18,7 +18,7 @@ Chapter 1 is <!--f:len_Chapter_1-->1 h 39 min<!--/f--> and Chapter 6 is more tha
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 1 | Double Pendulum Simulation | 1 h 39 min | 1 h 20 min - 2 h 16 min | 10 | low |
-| Chapter 2 | Second Signal | 2 h 25 min | 2 h 06 min - 2 h 43 min | 12 | medium |
+| Chapter 2 | Second Signal | 2 h 25 min | 2 h 09 min - 2 h 43 min | 12 | medium |
 | Chapter 3 | Lacuna Rectification | 2 h 19 min | 1 h 35 min - 3 h 07 min | 10 | low |
 | Chapter 4 | Reverse Matrix | 3 h 29 min | 2 h 36 min - 3 h 55 min | 12 | low |
 | Chapter 5 | Heterodyne Resonance | 3 h 06 min | 2 h 05 min - 3 h 28 min | 10 | low |
@@ -92,7 +92,7 @@ and the first Boojum-class ELID the squad barely survives.
 <!--gen:stats act="Chapter 2"-->
 
 - **Estimated length:** 2 h 25 min
-- **Sampled range:** 2 h 06 min to 2 h 43 min for the middle half (full spread 1 h 14 min to 3 h 20 min) across 12 playthrough uploads (9 further candidates screened out)
+- **Sampled range:** 2 h 09 min to 2 h 43 min for the middle half (full spread 1 h 14 min to 3 h 20 min) across 12 playthrough uploads (9 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
 - **Stability:** median 0% against an earlier, independent query set
@@ -108,9 +108,9 @@ and the first Boojum-class ELID the squad barely survives.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 14 min | Girls Frontline Chapter 2 Second Signal Part 1 | Bronnies | 0 | 2024-12-27 | <https://www.youtube.com/watch?v=qmz2sfKwCPU> |
 | 1 h 48 min | Chapter 2 '"Second Signal" - Girls Frontline 2 | daesz | 38 | 2025-05-03 | <https://www.youtube.com/watch?v=9idz9cNnnG8> |
-| 2 h 05 min | 【Girls' Frontline 2】Chapter 02 - Second Signal : Story Collection | Shoul | 834 | 2024-12-12 | <https://www.youtube.com/watch?v=4MrrFyXVNFk> |
 | 2 h 08 min | GIRLS' FRONTLINE 2: EXILIUM - [Story Chapter 2] Second Signal Gameplay Walkthrough 🎮 | TheGameSampler | 24 | 2025-05-24 | <https://www.youtube.com/watch?v=DmA3_zON28Y> |
 | 2 h 13 min | Girls Frontline 2: Exilium \| Main Story Chapter 2 | caRma aPple G | ~36 | n/a | <https://www.youtube.com/watch?v=vAH6HhPuy9U> |
+| 2 h 14 min | 【Girls' Frontline 2】Chapter 02 - Second Signal : Story Collection | Shoul | 834 | 2024-12-12 | <https://www.youtube.com/watch?v=4MrrFyXVNFk> |
 | 2 h 24 min | Chapter 2 - Second Signal Girls's Frontline Exilium | Chesa's Quest | ~2 | n/a | <https://www.youtube.com/watch?v=lpjxWAWYohk> |
 | 2 h 26 min | Chapter 2–Second Signal \| GIRL'S FRONTLINE 2: EXILIUM | HaWuTsKi Archive | 43 | 2025-05-14 | <https://www.youtube.com/watch?v=-KcMiNAKfXI> |
 | 2 h 29 min | GIRLS' FRONTLINE 2: EXILIUM - Chapter 2 (Campaign) - Full Story Playthrough - No Commentary | Bek | 2,460 | 2024-12-08 | <https://www.youtube.com/watch?v=U6pdIeizFr0> |

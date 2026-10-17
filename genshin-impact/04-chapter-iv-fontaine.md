@@ -16,7 +16,7 @@ and watches Focalors execute herself to void the prophecy.
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Prelude of Blancheur and Noirceur | 3 h 27 min | 3 h 03 min - 3 h 50 min | 10 | medium |
-| Act II | As Light Rain Falls Without Reason | 2 h 43 min | 2 h 27 min - 2 h 56 min | 12 | high |
+| Act II | As Light Rain Falls Without Reason | 2 h 43 min | 2 h 29 min - 2 h 56 min | 12 | high |
 | Act III | To the Stars Shining in the Depths | 2 h 14 min | 1 h 47 min - 2 h 27 min | 10 | medium |
 | Act IV | Cataclysm's Quickening | 2 h 44 min | 2 h 30 min - 2 h 47 min | 9 | high |
 | Act V | Masquerade of the Guilty | 4 h 46 min | 4 h 31 min - 5 h 15 min | 9 | high |
@@ -82,7 +82,7 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 <!--gen:stats act="Act II"-->
 
 - **Estimated length:** 2 h 43 min
-- **Sampled range:** 2 h 27 min to 2 h 56 min for the middle half (full spread 1 h 35 min to 3 h 18 min) across 12 playthrough uploads (0 further candidates screened out)
+- **Sampled range:** 2 h 29 min to 2 h 56 min for the middle half (full spread 1 h 35 min to 3 h 18 min) across 12 playthrough uploads (0 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 4.0
@@ -100,8 +100,8 @@ and a trial that sentences the Traveler to the Fortress of Meropide.
 | 1 h 35 min | Archon Quest - As Light Rain Falls Without Reason \| Chapter4-Like The Faint Moonlight Of Yesteryear | FightMatrix Gaming | 62 | 2026-01-13 | <https://www.youtube.com/watch?v=hLAhAbkmqwQ> |
 | 1 h 53 min | As Light Rain Falls Without Reason Full Quest Genshin Impact  | Epic Nithan | 38 | 2025-09-07 | <https://www.youtube.com/watch?v=SoDJdDUEt00> |
 | 2 h 27 min | Genshin Impact - Fontaine Archon Quest Act 2 (4.0) \| Full Story Walkthrough (No Commentary) | Elrinell Gaming | 39 | 2026-02-19 | <https://www.youtube.com/watch?v=ZojAufn_FZc> |
-| 2 h 28 min | As Light Rain Falls Without Reason — Fontaine Archon Quest, Chapter IV: Act II \| Genshin Impact 4.0 | Mr. Trajet | 347 | 2023-08-19 | <https://www.youtube.com/watch?v=f02h-AYxarg> |
 | 2 h 36 min | Archon Quest Chapter IV: Act II Full Story HD \| As Light Rain Falls Without Reason \| Genshin Impact | Noxxis Gaming | 74,026 | 2023-08-16 | <https://www.youtube.com/watch?v=j6JyW3oi97M> |
+| 2 h 38 min | As Light Rain Falls Without Reason — Fontaine Archon Quest, Chapter IV: Act II \| Genshin Impact 4.0 | Mr. Trajet | 347 | 2023-08-19 | <https://www.youtube.com/watch?v=f02h-AYxarg> |
 | 2 h 40 min | Genshin Impact: As Light Rain Falls Without Reason \| FONTAINE ARCHON QUEST ACT 2 CHAPTER IV \| 4K60 | Genshin Quests and Guides | 29,695 | 2023-08-19 | <https://www.youtube.com/watch?v=FdDP-hk7plw> |
 | 2 h 45 min | Genshin Impact \| Fontaine archon quest - As light rain falls without reason \| No commentary | why | ~34 | n/a | <https://www.youtube.com/watch?v=yMLC7k9s2Us> |
 | 2 h 46 min | Full Fontaine Archon Quest - Genshin Impact | Fayato | 669,227 | 2023-11-09 | <https://www.youtube.com/watch?v=fyJbgnbOh2g> |

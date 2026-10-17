@@ -4,7 +4,7 @@ Duration estimates for every numbered main story chapter of *Girls' Frontline 2:
 from the opening simulation to the latest campaign the wiki gives a number,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole numbered main story: <!--f:grand_total-->101 h 21 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> chapters counting the five filed between two whole numbers, measured against <!--f:n_videos-->245<!--/f--> accepted uploads out of <!--f:n_candidates-->573<!--/f--> candidates).
+**Total for the whole numbered main story: <!--f:grand_total-->102 h 57 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> chapters counting the five filed between two whole numbers, measured against <!--f:n_videos-->247<!--/f--> accepted uploads out of <!--f:n_candidates-->573<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -13,10 +13,10 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume | Chapters | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Volume 1: Double Pendulum Simulation to Harmonic Cycle | 1 - 6 | not recorded | 6 | 16 h 34 min | [01-double-pendulum-to-harmonic-cycle.md](01-double-pendulum-to-harmonic-cycle.md) |
-| Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies | 6.5 - 8.7 | not recorded | 6 | 19 h 22 min | [02-sojourners-to-bitter-thorns.md](02-sojourners-to-bitter-thorns.md) |
-| Volume 3: Aphelion to Intertwined Assault | 9 - 12.5 | not recorded | 5 | 20 h 31 min | [03-aphelion-to-intertwined-assault.md](03-aphelion-to-intertwined-assault.md) |
-| Volume 4: Corposant to Antiparallel | 13 - 17 | not recorded | 5 | 28 h 28 min | [04-corposant-to-antiparallel.md](04-corposant-to-antiparallel.md) |
-| Volume 5: Dawnforger to Needy Catgirl Overload | 18 - 19.5 | not recorded | 3 | 16 h 26 min | [05-dawnforger-to-needy-catgirl-overload.md](05-dawnforger-to-needy-catgirl-overload.md) |
+| Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies | 6.5 - 8.7 | not recorded | 6 | 19 h 59 min | [02-sojourners-to-bitter-thorns.md](02-sojourners-to-bitter-thorns.md) |
+| Volume 3: Aphelion to Intertwined Assault | 9 - 12.5 | not recorded | 5 | 21 h 13 min | [03-aphelion-to-intertwined-assault.md](03-aphelion-to-intertwined-assault.md) |
+| Volume 4: Corposant to Antiparallel | 13 - 17 | not recorded | 5 | 28 h 34 min | [04-corposant-to-antiparallel.md](04-corposant-to-antiparallel.md) |
+| Volume 5: Dawnforger to Needy Catgirl Overload | 18 - 19.5 | not recorded | 3 | 16 h 37 min | [05-dawnforger-to-needy-catgirl-overload.md](05-dawnforger-to-needy-catgirl-overload.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -25,7 +25,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | | Chapter | Estimate |
 | --- | --- | --- |
 | longest | Volume 4, Chapter 15: Corposant - Part 2 | 7 h 17 min |
-| longest | Volume 4, Chapter 16: Antiparallel - Part 1 | 6 h 55 min |
+| longest | Volume 4, Chapter 16: Antiparallel - Part 1 | 7 h 01 min |
 | longest | Volume 5, Chapter 19: Dawnforger - Part 2 | 6 h 36 min |
 | longest | Volume 4, Chapter 14: Corposant - Part 1.5 | 6 h 09 min |
 | longest | Volume 2, Chapter 8.7: Bitter Thorns and Daisies | 5 h 40 min |

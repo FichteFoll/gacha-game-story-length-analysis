@@ -479,7 +479,7 @@
     "upload_date": "20250105"
    },
    {
-    "seconds": 7481,
+    "seconds": 8016,
     "title": "\u3010Girls' Frontline 2\u3011Chapter 02 - Second Signal : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=4MrrFyXVNFk",
@@ -496,9 +496,9 @@
      "SL-2-2: Convergence": 1767,
      "2-4: Disturbance": 661,
      "2-5: Simulated Defense": 53,
-     "2-6: Narrow Path I": 407,
+     "2-6: Narrow Path I": 628,
      "2-8: Wolf Pack Assault": 17,
-     "SL-2-3: Price": 268,
+     "SL-2-3: Price": 803,
      "SL-2-4: Paradox Loop": 653,
      "2-10: Black Swan": 323,
      "SL-2-5: Final Curtain": 259
@@ -535,7 +535,24 @@
     "upload_date": "20250503"
    },
    {
-    "seconds": 7481,
+    "seconds": 7706,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - [Story Chapter 2] Second Signal Gameplay Walkthrough \ud83c\udfae",
+    "uploader": "TheGameSampler",
+    "url": "https://www.youtube.com/watch?v=DmA3_zON28Y",
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20250524"
+   },
+   {
+    "seconds": 7960,
+    "title": "Girls Frontline 2: Exilium | Main Story Chapter 2",
+    "uploader": "caRma aPple G",
+    "url": "https://www.youtube.com/watch?v=vAH6HhPuy9U",
+    "views": "36",
+    "rejected": []
+   },
+   {
+    "seconds": 8016,
     "title": "\u3010Girls' Frontline 2\u3011Chapter 02 - Second Signal : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=4MrrFyXVNFk",
@@ -552,30 +569,13 @@
      "SL-2-2: Convergence": 1767,
      "2-4: Disturbance": 661,
      "2-5: Simulated Defense": 53,
-     "2-6: Narrow Path I": 407,
+     "2-6: Narrow Path I": 628,
      "2-8: Wolf Pack Assault": 17,
-     "SL-2-3: Price": 268,
+     "SL-2-3: Price": 803,
      "SL-2-4: Paradox Loop": 653,
      "2-10: Black Swan": 323,
      "SL-2-5: Final Curtain": 259
     }
-   },
-   {
-    "seconds": 7706,
-    "title": "GIRLS' FRONTLINE 2: EXILIUM - [Story Chapter 2] Second Signal Gameplay Walkthrough \ud83c\udfae",
-    "uploader": "TheGameSampler",
-    "url": "https://www.youtube.com/watch?v=DmA3_zON28Y",
-    "views": 24,
-    "rejected": [],
-    "upload_date": "20250524"
-   },
-   {
-    "seconds": 7960,
-    "title": "Girls Frontline 2: Exilium | Main Story Chapter 2",
-    "uploader": "caRma aPple G",
-    "url": "https://www.youtube.com/watch?v=vAH6HhPuy9U",
-    "views": "36",
-    "rejected": []
    },
    {
     "seconds": 8610,
@@ -643,9 +643,9 @@
    "median": 145,
    "low": 74,
    "high": 200,
-   "q1": 126,
+   "q1": 129,
    "q3": 163,
-   "trimmed_mean": 143,
+   "trimmed_mean": 144,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -1493,7 +1493,7 @@
     "measured": "chapter-markers",
     "parts": {
      "SL-5-1: Jostled Cradle": 1576,
-     "5-1: Breakthrough I": 39,
+     "5-1: Breakthrough I": 299,
      "5-3: Transient Reflection": 158,
      "5-4: Quantum Light": 1264,
      "SL-5-2: Waveform Deviation": 2502,
@@ -1592,7 +1592,7 @@
     "measured": "chapter-markers",
     "parts": {
      "SL-5-1: Jostled Cradle": 1576,
-     "5-1: Breakthrough I": 39,
+     "5-1: Breakthrough I": 299,
      "5-3: Transient Reflection": 158,
      "5-4: Quantum Light": 1264,
      "SL-5-2: Waveform Deviation": 2502,
@@ -1844,7 +1844,7 @@
      "SL-6-3: Wavefront": 512,
      "6-7: Reimaging": 176,
      "SL-6-4: Discordant Note": 1393,
-     "6-5: Sneak Attack I": 203,
+     "6-5: Sneak Attack I": 281,
      "SL-6-5: Rules of Bartering": 1320,
      "6-10: Critical Angle": 375
     }
@@ -1906,7 +1906,7 @@
      "SL-6-3: Wavefront": 512,
      "6-7: Reimaging": 176,
      "SL-6-4: Discordant Note": 1393,
-     "6-5: Sneak Attack I": 203,
+     "6-5: Sneak Attack I": 281,
      "SL-6-5: Rules of Bartering": 1320,
      "6-10: Critical Angle": 375
     }
@@ -1997,9 +1997,7 @@
     "uploader": "Bjorkit",
     "url": "https://www.youtube.com/watch?v=Bo7PJjMKnP8",
     "views": 152,
-    "rejected": [
-     "long-outlier"
-    ],
+    "rejected": [],
     "upload_date": "20250111",
     "runtime": 27245,
     "measured": "chapter-markers",
@@ -2056,7 +2054,9 @@
     "uploader": "Valeri Zaharevici (Valera-Live)",
     "url": "https://www.youtube.com/watch?v=DxxpZMBo4Tk",
     "views": 328,
-    "rejected": [],
+    "rejected": [
+     "short-outlier"
+    ],
     "upload_date": "20240822"
    },
    {
@@ -2102,7 +2102,7 @@
     "upload_date": "20241214"
    },
    {
-    "seconds": 9311,
+    "seconds": 11775,
     "title": "Sojourners of The Glass Island Full Story Event Part 1 No Commentary | Girl's Frontline 2 Exilium",
     "uploader": "RickookGame",
     "url": "https://www.youtube.com/watch?v=EQnE3AbdywU",
@@ -2114,16 +2114,16 @@
     "parts": {
      "UA-1-1: Unexpected Discovery": 539,
      "UA-1-2: Brilliant Disguise": 1470,
-     "US-1-1: Old Friend": 83,
-     "UA-1-3: Mystical Adventure": 343,
+     "US-1-1: Old Friend": 1374,
+     "UA-1-3: Mystical Adventure": 819,
      "UA-1-4: Unsolved Mystery": 857,
      "UA-1-5: Hidden Crisis": 466,
-     "UA-1-6: Eerie Ghost": 105,
+     "UA-1-6: Eerie Ghost": 602,
      "UA-1-7: Daring Decision": 1514,
      "US-1-2: The Two Ends of the Scale": 1774,
      "UA-1-8: Strike Again": 311,
      "UA-1-9: Expulsion Signal": 554,
-     "UA-1-10: Chasing Shadows": 272,
+     "UA-1-10: Chasing Shadows": 472,
      "US-1-3: Prototype of a Dream": 1023
     }
    },
@@ -2339,15 +2339,6 @@
   ],
   "kept": [
    {
-    "seconds": 5413,
-    "title": "Girls' Frontline 2: Exilium - Part 28 [Story - Chapter 6.5] [Event - Glass Island Residents]",
-    "uploader": "Valeri Zaharevici (Valera-Live)",
-    "url": "https://www.youtube.com/watch?v=DxxpZMBo4Tk",
-    "views": 328,
-    "rejected": [],
-    "upload_date": "20240822"
-   },
-   {
     "seconds": 7178,
     "title": "Sojourners of the Glass Island - Story part 1 (Ullrid, Suomi event) | Girl's Frontline 2 Exilium",
     "uploader": "eLLiXeon",
@@ -2374,7 +2365,16 @@
     "rejected": []
    },
    {
-    "seconds": 9311,
+    "seconds": 11158,
+    "title": "Girls' Frontline 2: Exilium Event: Sojourners of the Glass Island Part 1 Full Story No Commentary",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=3r5ztgLxcAM",
+    "views": 68,
+    "rejected": [],
+    "upload_date": "20241216"
+   },
+   {
+    "seconds": 11775,
     "title": "Sojourners of The Glass Island Full Story Event Part 1 No Commentary | Girl's Frontline 2 Exilium",
     "uploader": "RickookGame",
     "url": "https://www.youtube.com/watch?v=EQnE3AbdywU",
@@ -2386,27 +2386,18 @@
     "parts": {
      "UA-1-1: Unexpected Discovery": 539,
      "UA-1-2: Brilliant Disguise": 1470,
-     "US-1-1: Old Friend": 83,
-     "UA-1-3: Mystical Adventure": 343,
+     "US-1-1: Old Friend": 1374,
+     "UA-1-3: Mystical Adventure": 819,
      "UA-1-4: Unsolved Mystery": 857,
      "UA-1-5: Hidden Crisis": 466,
-     "UA-1-6: Eerie Ghost": 105,
+     "UA-1-6: Eerie Ghost": 602,
      "UA-1-7: Daring Decision": 1514,
      "US-1-2: The Two Ends of the Scale": 1774,
      "UA-1-8: Strike Again": 311,
      "UA-1-9: Expulsion Signal": 554,
-     "UA-1-10: Chasing Shadows": 272,
+     "UA-1-10: Chasing Shadows": 472,
      "US-1-3: Prototype of a Dream": 1023
     }
-   },
-   {
-    "seconds": 11158,
-    "title": "Girls' Frontline 2: Exilium Event: Sojourners of the Glass Island Part 1 Full Story No Commentary",
-    "uploader": "Uranium Tea Gaming",
-    "url": "https://www.youtube.com/watch?v=3r5ztgLxcAM",
-    "views": 68,
-    "rejected": [],
-    "upload_date": "20241216"
    },
    {
     "seconds": 12387,
@@ -2424,19 +2415,45 @@
     "url": "https://www.youtube.com/watch?v=mgzyj6ydMdk",
     "views": "92",
     "rejected": []
+   },
+   {
+    "seconds": 18562,
+    "title": "\u3010Girls' Frontline 2\u3011Chapter 6.5 Sojourners of the Glass Island - Story Collection",
+    "uploader": "Bjorkit",
+    "url": "https://www.youtube.com/watch?v=Bo7PJjMKnP8",
+    "views": 152,
+    "rejected": [],
+    "upload_date": "20250111",
+    "runtime": 27245,
+    "measured": "chapter-markers",
+    "parts": {
+     "UA-1-1: Unexpected Discovery": 1105,
+     "UA-1-2: Brilliant Disguise": 2915,
+     "US-1-1: Old Friend": 2294,
+     "UA-1-3: Mystical Adventure": 1254,
+     "UA-1-4: Unsolved Mystery": 1451,
+     "UA-1-5: Hidden Crisis": 889,
+     "UA-1-6: Eerie Ghost": 707,
+     "UA-1-7: Daring Decision": 1734,
+     "US-1-2: The Two Ends of the Scale": 2988,
+     "UA-1-8: Strike Again": 214,
+     "UA-1-9: Expulsion Signal": 556,
+     "UA-1-10: Chasing Shadows": 426,
+     "US-1-3: Prototype of a Dream": 2029
+    }
    }
   ],
   "stats": {
    "n": 8,
-   "median": 154,
-   "low": 90,
-   "high": 231,
-   "q1": 126,
-   "q3": 201,
-   "trimmed_mean": 161,
-   "measured": 1,
+   "median": 191,
+   "low": 120,
+   "high": 309,
+   "q1": 147,
+   "q3": 225,
+   "trimmed_mean": 193,
+   "measured": 2,
    "parts": {},
-   "drift": -0.252
+   "drift": -0.073
   }
  },
  {
@@ -2798,7 +2815,7 @@
     "runtime": 7008,
     "measured": "chapter-markers",
     "parts": {
-     "7-1: Clearance I": 113,
+     "7-1: Clearance I": 388,
      "SL-7-3: Metastable": 1356,
      "7-3: Polarization": 723,
      "7-4: Surpass": 425,
@@ -2958,7 +2975,7 @@
     "runtime": 7008,
     "measured": "chapter-markers",
     "parts": {
-     "7-1: Clearance I": 113,
+     "7-1: Clearance I": 388,
      "SL-7-3: Metastable": 1356,
      "7-3: Polarization": 723,
      "7-4: Surpass": 425,
@@ -3089,7 +3106,7 @@
     "upload_date": "20250216"
    },
    {
-    "seconds": 12076,
+    "seconds": 13467,
     "title": "Girls\u2019 Frontline 2 Exilium - Chapter 8 (Aliasing Effect, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=WxA3-Un8g98",
@@ -3100,16 +3117,16 @@
     "measured": "chapter-markers",
     "parts": {
      "8-1: Covert Surveillance": 703,
-     "8-2: Reverse Hacking": 1112,
+     "8-2: Reverse Hacking": 1390,
      "SL-8-1: Handover Area": 2514,
-     "8-3: Pathfinding I": 167,
+     "8-3: Pathfinding I": 1729,
      "SL-8-2: Darkest Moment": 891,
      "SL-8-3: Epiphyllum": 1373,
      "SL-8-4: Light": 1360,
      "8-7: Out of Hand": 458,
      "8-8: Merge": 339,
      "SL-8-5: Coaxial": 2126,
-     "8-10: Fame Chaser": 322
+     "8-10: Fame Chaser": 584
     }
    },
    {
@@ -3290,7 +3307,16 @@
     "upload_date": "20250319"
    },
    {
-    "seconds": 12076,
+    "seconds": 12585,
+    "title": "[Girls' Frontline 2: Exilium] Main Story - Chapter 8",
+    "uploader": "Pluggedddddddd",
+    "url": "https://www.youtube.com/watch?v=NEjVuPKXP4E",
+    "views": 13,
+    "rejected": [],
+    "upload_date": "20250331"
+   },
+   {
+    "seconds": 13467,
     "title": "Girls\u2019 Frontline 2 Exilium - Chapter 8 (Aliasing Effect, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=WxA3-Un8g98",
@@ -3301,26 +3327,17 @@
     "measured": "chapter-markers",
     "parts": {
      "8-1: Covert Surveillance": 703,
-     "8-2: Reverse Hacking": 1112,
+     "8-2: Reverse Hacking": 1390,
      "SL-8-1: Handover Area": 2514,
-     "8-3: Pathfinding I": 167,
+     "8-3: Pathfinding I": 1729,
      "SL-8-2: Darkest Moment": 891,
      "SL-8-3: Epiphyllum": 1373,
      "SL-8-4: Light": 1360,
      "8-7: Out of Hand": 458,
      "8-8: Merge": 339,
      "SL-8-5: Coaxial": 2126,
-     "8-10: Fame Chaser": 322
+     "8-10: Fame Chaser": 584
     }
-   },
-   {
-    "seconds": 12585,
-    "title": "[Girls' Frontline 2: Exilium] Main Story - Chapter 8",
-    "uploader": "Pluggedddddddd",
-    "url": "https://www.youtube.com/watch?v=NEjVuPKXP4E",
-    "views": 13,
-    "rejected": [],
-    "upload_date": "20250331"
    },
    {
     "seconds": 14223,
@@ -3386,9 +3403,9 @@
    "median": 242,
    "low": 171,
    "high": 369,
-   "q1": 199,
+   "q1": 201,
    "q3": 313,
-   "trimmed_mean": 249,
+   "trimmed_mean": 251,
    "measured": 1,
    "parts": {},
    "drift": 0.021
@@ -4415,7 +4432,7 @@
     "upload_date": "20250325"
    },
    {
-    "seconds": 13589,
+    "seconds": 14543,
     "title": "\u3010Girls' Frontline 2\u3011Event - Aphelion Part 1 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=8AsMbY2poWA",
@@ -4428,7 +4445,7 @@
      "9-1: Twilight": 1071,
      "9-2: Eye of th'e Storm": 936,
      "9-3: Secondary Mirror": 796,
-     "9-4: Out of Focus": 219,
+     "9-4: Out of Focus": 1173,
      "SL-9-1: Entangled State": 1200,
      "9-6: Dual-Beam Observation": 799,
      "SL-9-2: Dormant Black Hole": 419,
@@ -4618,7 +4635,7 @@
     }
    },
    {
-    "seconds": 13589,
+    "seconds": 14543,
     "title": "\u3010Girls' Frontline 2\u3011Event - Aphelion Part 1 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=8AsMbY2poWA",
@@ -4631,7 +4648,7 @@
      "9-1: Twilight": 1071,
      "9-2: Eye of th'e Storm": 936,
      "9-3: Secondary Mirror": 796,
-     "9-4: Out of Focus": 219,
+     "9-4: Out of Focus": 1173,
      "SL-9-1: Entangled State": 1200,
      "9-6: Dual-Beam Observation": 799,
      "SL-9-2: Dormant Black Hole": 419,
@@ -4660,13 +4677,13 @@
    "high": 243,
    "q1": 127,
    "q3": 212,
-   "trimmed_mean": 165,
+   "trimmed_mean": 166,
    "measured": 4,
    "parts": {
     "9-1: Twilight": 16,
     "9-2: Eye of th'e Storm": 13,
     "9-3: Secondary Mirror": 12,
-    "9-4: Out of Focus": 3,
+    "9-4: Out of Focus": 6,
     "9-5: Roche Limit": 14,
     "SL-9-1: Entangled State": 17,
     "9-6: Dual-Beam Observation": 12,
@@ -4708,7 +4725,7 @@
     "upload_date": "20250429"
    },
    {
-    "seconds": 18452,
+    "seconds": 19667,
     "title": "Girls Frontline 2 | Ch 10 - Aphelion (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=LjBH4OjLOUw",
@@ -4732,7 +4749,7 @@
      "SL-10-5: Dialetheia": 1400,
      "10-8: Condensed Matter": 482,
      "10-9: Hobson's Choice": 407,
-     "10-10: Tunneling Effect": 400,
+     "10-10: Tunneling Effect": 1615,
      "SL-10-6: Dark Matter": 1911
     }
    },
@@ -4999,7 +5016,16 @@
     "rejected": []
    },
    {
-    "seconds": 18452,
+    "seconds": 18936,
+    "title": "Chapter 10 '\"Aphelion, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=LBrSJ7Qo4Bo",
+    "views": 100,
+    "rejected": [],
+    "upload_date": "20250429"
+   },
+   {
+    "seconds": 19667,
     "title": "Girls Frontline 2 | Ch 10 - Aphelion (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=LjBH4OjLOUw",
@@ -5023,18 +5049,9 @@
      "SL-10-5: Dialetheia": 1400,
      "10-8: Condensed Matter": 482,
      "10-9: Hobson's Choice": 407,
-     "10-10: Tunneling Effect": 400,
+     "10-10: Tunneling Effect": 1615,
      "SL-10-6: Dark Matter": 1911
     }
-   },
-   {
-    "seconds": 18936,
-    "title": "Chapter 10 '\"Aphelion, Part 2\" - Girls Frontline 2",
-    "uploader": "daesz",
-    "url": "https://www.youtube.com/watch?v=LBrSJ7Qo4Bo",
-    "views": 100,
-    "rejected": [],
-    "upload_date": "20250429"
    },
    {
     "seconds": 23291,
@@ -5072,15 +5089,15 @@
   ],
   "stats": {
    "n": 11,
-   "median": 308,
+   "median": 316,
    "low": 219,
    "high": 537,
    "q1": 253,
    "q3": 462,
-   "trimmed_mean": 330,
+   "trimmed_mean": 332,
    "measured": 1,
    "parts": {},
-   "drift": 0.077
+   "drift": 0.105
   }
  },
  {
@@ -5152,12 +5169,12 @@
     "measured": "chapter-markers",
     "parts": {
      "LA-1-5: Routine Traffic Stop": 699,
-     "LA-1-6: Danger Sign I": 215,
+     "LA-1-6: Danger Sign I": 606,
      "LA-1-8: Bizarre Investigation": 864,
      "LS-1-4: Projection Conflict": 1317,
      "LA-1-9: Invisible Tactics": 404,
      "LS-1-5: Hidden Clues": 1170,
-     "LA-1-10: DEFY I": 265,
+     "LA-1-10: DEFY I": 2022,
      "LA-1-12: Third-Generation Doll": 1191,
      "LS-1-6: Yearn for freedom": 1069,
      "LA-1-13: Destruction Schedule": 575,
@@ -5347,12 +5364,12 @@
     "measured": "chapter-markers",
     "parts": {
      "LA-1-5: Routine Traffic Stop": 699,
-     "LA-1-6: Danger Sign I": 215,
+     "LA-1-6: Danger Sign I": 606,
      "LA-1-8: Bizarre Investigation": 864,
      "LS-1-4: Projection Conflict": 1317,
      "LA-1-9: Invisible Tactics": 404,
      "LS-1-5: Hidden Clues": 1170,
-     "LA-1-10: DEFY I": 265,
+     "LA-1-10: DEFY I": 2022,
      "LA-1-12: Third-Generation Doll": 1191,
      "LS-1-6: Yearn for freedom": 1069,
      "LA-1-13: Destruction Schedule": 575,
@@ -5501,7 +5518,7 @@
     "LS-1-4: Projection Conflict": 17,
     "LA-1-9: Invisible Tactics": 3,
     "LS-1-5: Hidden Clues": 16,
-    "LA-1-10: DEFY I": 17,
+    "LA-1-10: DEFY I": 21,
     "LA-1-12: Third-Generation Doll": 12,
     "LS-1-6: Yearn for freedom": 15,
     "LA-1-13: Destruction Schedule": 7,
@@ -5638,7 +5655,7 @@
      "BS-1-5: Dead-End": 494,
      "BA-1-13: Breakout Security": 950,
      "BS-1-6: Bridge of Hope": 1422,
-     "BA-1-14: Choice I": 200,
+     "BA-1-14: Choice I": 1275,
      "BS-1-7: Special Guest": 832,
      "BA-1-16: Ongoing Storm": 1283,
      "BS-1-8: To An Era Of Peace": 2383
@@ -5888,7 +5905,7 @@
     "upload_date": "20251204"
    },
    {
-    "seconds": 10444,
+    "seconds": 12771,
     "title": "Girls' Frontline 2 Exilium - Campaign - Chapter 12.5 Intertwined Assault",
     "uploader": "Asator",
     "url": "https://www.youtube.com/watch?v=9OMa-5VPYo0",
@@ -5900,11 +5917,11 @@
     "parts": {
      "LS-1-1: Under the Undercurrents": 1568,
      "LA-1-1: Expensive Hopes": 1830,
-     "LA-1-2: Tangled Roots": 1495,
+     "LA-1-2: Tangled Roots": 2940,
      "LA-1-4: Deluded Illusion": 792,
      "LA-1-5: Sleeping Subject": 1540,
      "LA-1-6: Moment of Intersection": 1002,
-     "LA-1-7: Underground Deal": 921,
+     "LA-1-7: Underground Deal": 1803,
      "LA-1-9: Forged Choice": 851,
      "LS-1-2: Lingering Traces": 445
     }
@@ -5991,7 +6008,7 @@
     ]
    },
    {
-    "seconds": 13893,
+    "seconds": 16993,
     "title": "\u3010Girls' Frontline 2\u3011Event - Intertwined Assault : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=sEq_Az7SCt8",
@@ -6003,11 +6020,11 @@
     "parts": {
      "LS-1-1: Under the Undercurrents": 2125,
      "LA-1-1: Expensive Hopes": 2440,
-     "LA-1-2: Tangled Roots": 1974,
+     "LA-1-2: Tangled Roots": 3865,
      "LA-1-4: Deluded Illusion": 1037,
      "LA-1-5: Sleeping Subject": 1994,
      "LA-1-6: Moment of Intersection": 1366,
-     "LA-1-7: Underground Deal": 1250,
+     "LA-1-7: Underground Deal": 2459,
      "LA-1-9: Forged Choice": 1099,
      "LS-1-2: Lingering Traces": 608
     }
@@ -6036,13 +6053,11 @@
     "uploader": "Hawk2zer0",
     "url": "https://www.youtube.com/watch?v=DsIIv5-fnnQ",
     "views": 1365,
-    "rejected": [
-     "long-outlier"
-    ],
+    "rejected": [],
     "upload_date": "20251217"
    },
    {
-    "seconds": 14396,
+    "seconds": 17524,
     "title": "Girls Frontline 2 | Intertwined Assault (Event Story)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=-34CPF2uarI",
@@ -6054,11 +6069,11 @@
     "parts": {
      "LS-1-1: Under the Undercurrents": 2222,
      "LA-1-1: Expensive Hopes": 2562,
-     "LA-1-2: Tangled Roots": 2073,
+     "LA-1-2: Tangled Roots": 3981,
      "LA-1-4: Deluded Illusion": 1106,
      "LA-1-5: Sleeping Subject": 1998,
      "LA-1-6: Moment of Intersection": 1420,
-     "LA-1-7: Underground Deal": 1316,
+     "LA-1-7: Underground Deal": 2536,
      "LA-1-9: Forged Choice": 1073,
      "LS-1-2: Lingering Traces": 626
     }
@@ -6083,7 +6098,16 @@
     "rejected": []
    },
    {
-    "seconds": 10444,
+    "seconds": 12488,
+    "title": "Intertwined Assault | Full Story | Girls' Frontline 2: Exilium",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=1PA7pWTOUlE",
+    "views": 943,
+    "rejected": [],
+    "upload_date": "20260111"
+   },
+   {
+    "seconds": 12771,
     "title": "Girls' Frontline 2 Exilium - Campaign - Chapter 12.5 Intertwined Assault",
     "uploader": "Asator",
     "url": "https://www.youtube.com/watch?v=9OMa-5VPYo0",
@@ -6095,23 +6119,14 @@
     "parts": {
      "LS-1-1: Under the Undercurrents": 1568,
      "LA-1-1: Expensive Hopes": 1830,
-     "LA-1-2: Tangled Roots": 1495,
+     "LA-1-2: Tangled Roots": 2940,
      "LA-1-4: Deluded Illusion": 792,
      "LA-1-5: Sleeping Subject": 1540,
      "LA-1-6: Moment of Intersection": 1002,
-     "LA-1-7: Underground Deal": 921,
+     "LA-1-7: Underground Deal": 1803,
      "LA-1-9: Forged Choice": 851,
      "LS-1-2: Lingering Traces": 445
     }
-   },
-   {
-    "seconds": 12488,
-    "title": "Intertwined Assault | Full Story | Girls' Frontline 2: Exilium",
-    "uploader": "Villenthessis",
-    "url": "https://www.youtube.com/watch?v=1PA7pWTOUlE",
-    "views": 943,
-    "rejected": [],
-    "upload_date": "20260111"
    },
    {
     "seconds": 12798,
@@ -6121,50 +6136,6 @@
     "views": 883,
     "rejected": [],
     "upload_date": "20251219"
-   },
-   {
-    "seconds": 13893,
-    "title": "\u3010Girls' Frontline 2\u3011Event - Intertwined Assault : Story Collection",
-    "uploader": "Shoul",
-    "url": "https://www.youtube.com/watch?v=sEq_Az7SCt8",
-    "views": 1790,
-    "rejected": [],
-    "upload_date": "20251214",
-    "runtime": 17008,
-    "measured": "chapter-markers",
-    "parts": {
-     "LS-1-1: Under the Undercurrents": 2125,
-     "LA-1-1: Expensive Hopes": 2440,
-     "LA-1-2: Tangled Roots": 1974,
-     "LA-1-4: Deluded Illusion": 1037,
-     "LA-1-5: Sleeping Subject": 1994,
-     "LA-1-6: Moment of Intersection": 1366,
-     "LA-1-7: Underground Deal": 1250,
-     "LA-1-9: Forged Choice": 1099,
-     "LS-1-2: Lingering Traces": 608
-    }
-   },
-   {
-    "seconds": 14396,
-    "title": "Girls Frontline 2 | Intertwined Assault (Event Story)",
-    "uploader": "JasonDoesWhatever",
-    "url": "https://www.youtube.com/watch?v=-34CPF2uarI",
-    "views": 883,
-    "rejected": [],
-    "upload_date": "20251202",
-    "runtime": 17524,
-    "measured": "chapter-markers",
-    "parts": {
-     "LS-1-1: Under the Undercurrents": 2222,
-     "LA-1-1: Expensive Hopes": 2562,
-     "LA-1-2: Tangled Roots": 2073,
-     "LA-1-4: Deluded Illusion": 1106,
-     "LA-1-5: Sleeping Subject": 1998,
-     "LA-1-6: Moment of Intersection": 1420,
-     "LA-1-7: Underground Deal": 1316,
-     "LA-1-9: Forged Choice": 1073,
-     "LS-1-2: Lingering Traces": 626
-    }
    },
    {
     "seconds": 15273,
@@ -6185,6 +6156,50 @@
     "upload_date": "20260116"
    },
    {
+    "seconds": 16993,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Intertwined Assault : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=sEq_Az7SCt8",
+    "views": 1790,
+    "rejected": [],
+    "upload_date": "20251214",
+    "runtime": 17008,
+    "measured": "chapter-markers",
+    "parts": {
+     "LS-1-1: Under the Undercurrents": 2125,
+     "LA-1-1: Expensive Hopes": 2440,
+     "LA-1-2: Tangled Roots": 3865,
+     "LA-1-4: Deluded Illusion": 1037,
+     "LA-1-5: Sleeping Subject": 1994,
+     "LA-1-6: Moment of Intersection": 1366,
+     "LA-1-7: Underground Deal": 2459,
+     "LA-1-9: Forged Choice": 1099,
+     "LS-1-2: Lingering Traces": 608
+    }
+   },
+   {
+    "seconds": 17524,
+    "title": "Girls Frontline 2 | Intertwined Assault (Event Story)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=-34CPF2uarI",
+    "views": 883,
+    "rejected": [],
+    "upload_date": "20251202",
+    "runtime": 17524,
+    "measured": "chapter-markers",
+    "parts": {
+     "LS-1-1: Under the Undercurrents": 2222,
+     "LA-1-1: Expensive Hopes": 2562,
+     "LA-1-2: Tangled Roots": 3981,
+     "LA-1-4: Deluded Illusion": 1106,
+     "LA-1-5: Sleeping Subject": 1998,
+     "LA-1-6: Moment of Intersection": 1420,
+     "LA-1-7: Underground Deal": 2536,
+     "LA-1-9: Forged Choice": 1073,
+     "LS-1-2: Lingering Traces": 626
+    }
+   },
+   {
     "seconds": 18857,
     "title": "Chapter 12.5 \"Intertwined Assault\" - Girls Frontline 2",
     "uploader": "daesz",
@@ -6192,29 +6207,38 @@
     "views": 281,
     "rejected": [],
     "upload_date": "20251204"
+   },
+   {
+    "seconds": 28392,
+    "title": "Lenna's Event Story - Intertwined Assault| Girl's Frontline 2 Exilium - Anniversary",
+    "uploader": "Hawk2zer0",
+    "url": "https://www.youtube.com/watch?v=DsIIv5-fnnQ",
+    "views": 1365,
+    "rejected": [],
+    "upload_date": "20251217"
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 232,
+   "n": 10,
+   "median": 266,
    "low": 165,
-   "high": 314,
-   "q1": 191,
-   "q3": 266,
-   "trimmed_mean": 231,
+   "high": 473,
+   "q1": 212,
+   "q3": 298,
+   "trimmed_mean": 257,
    "measured": 3,
    "parts": {
     "LS-1-1: Under the Undercurrents": 35,
     "LA-1-1: Expensive Hopes": 41,
-    "LA-1-2: Tangled Roots": 33,
+    "LA-1-2: Tangled Roots": 64,
     "LA-1-4: Deluded Illusion": 17,
     "LA-1-5: Sleeping Subject": 33,
     "LA-1-6: Moment of Intersection": 23,
-    "LA-1-7: Underground Deal": 21,
+    "LA-1-7: Underground Deal": 41,
     "LA-1-9: Forged Choice": 18,
     "LS-1-2: Lingering Traces": 10
    },
-   "drift": -0.128
+   "drift": 0.0
   }
  },
  {
@@ -6352,7 +6376,7 @@
     "upload_date": "20260220"
    },
    {
-    "seconds": 17381,
+    "seconds": 17840,
     "title": "Girls\u2019 Frontline 2 Exilium - Corposant Part 1 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=SVWLaiOtvHA",
@@ -6365,14 +6389,14 @@
      "AS-1-1: The First Substance": 2239,
      "AA-1-1: Sun's Gold": 106,
      "AS-1-2: As above, so below.": 1924,
-     "AA-1-2: Moon's Silver": 115,
+     "AA-1-2: Moon's Silver": 205,
      "AS-1-3: Pelican's Blood": 1749,
      "AA-1-3: Gnostic Revelation": 2307,
      "AA-1-4: Caduceus": 1019,
-     "AA-1-5: Tree of Life": 1409,
-     "AS-1-4: Mercurial Fountain": 1461,
+     "AA-1-5: Tree of Life": 1517,
+     "AS-1-4: Mercurial Fountain": 1577,
      "AA-1-7: Ouroboros": 1642,
-     "AA-1-8: Spark of Life": 2630,
+     "AA-1-8: Spark of Life": 2775,
      "AS-1-5: The Fifth Element": 780
     }
    },
@@ -6530,7 +6554,7 @@
     "upload_date": "20260401"
    },
    {
-    "seconds": 17381,
+    "seconds": 17840,
     "title": "Girls\u2019 Frontline 2 Exilium - Corposant Part 1 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=SVWLaiOtvHA",
@@ -6543,14 +6567,14 @@
      "AS-1-1: The First Substance": 2239,
      "AA-1-1: Sun's Gold": 106,
      "AS-1-2: As above, so below.": 1924,
-     "AA-1-2: Moon's Silver": 115,
+     "AA-1-2: Moon's Silver": 205,
      "AS-1-3: Pelican's Blood": 1749,
      "AA-1-3: Gnostic Revelation": 2307,
      "AA-1-4: Caduceus": 1019,
-     "AA-1-5: Tree of Life": 1409,
-     "AS-1-4: Mercurial Fountain": 1461,
+     "AA-1-5: Tree of Life": 1517,
+     "AS-1-4: Mercurial Fountain": 1577,
      "AA-1-7: Ouroboros": 1642,
-     "AA-1-8: Spark of Life": 2630,
+     "AA-1-8: Spark of Life": 2775,
      "AS-1-5: The Fifth Element": 780
     }
    },
@@ -6596,8 +6620,8 @@
    "low": 126,
    "high": 343,
    "q1": 215,
-   "q3": 292,
-   "trimmed_mean": 248,
+   "q3": 298,
+   "trimmed_mean": 249,
    "measured": 2,
    "parts": {},
    "drift": -0.055
@@ -7556,7 +7580,7 @@
     "upload_date": "20250930"
    },
    {
-    "seconds": 19608,
+    "seconds": 22432,
     "title": "Girls\u2019 Frontline 2 Exilium - Antiparallel Part 1 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=Aq7XClPVzPI",
@@ -7575,11 +7599,11 @@
      "HA-1-5: In-Depth Investigation": 1335,
      "HA-1-6: Long-Awaited Reunion": 1200,
      "HA-1-7: Mutual Use": 1523,
-     "HA-1-8: Source Divergence": 1246,
+     "HA-1-8: Source Divergence": 2039,
      "HS-1-3: Through Thick and Thin": 710,
      "HA-1-9: Strange Reunion": 1165,
      "HA-1-10: Reflection Interplay": 999,
-     "HA-1-11: Chiaroscuro": 1268,
+     "HA-1-11: Chiaroscuro": 3299,
      "HS-1-4: Home of My heart": 1357
     }
    },
@@ -7589,9 +7613,7 @@
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=W3Oh728HGQA",
     "views": 586,
-    "rejected": [
-     "long-outlier"
-    ],
+    "rejected": [],
     "upload_date": "20260528",
     "runtime": 39708,
     "measured": "chapter-markers",
@@ -7803,7 +7825,7 @@
     "rejected": []
    },
    {
-    "seconds": 19608,
+    "seconds": 22432,
     "title": "Girls\u2019 Frontline 2 Exilium - Antiparallel Part 1 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=Aq7XClPVzPI",
@@ -7822,11 +7844,11 @@
      "HA-1-5: In-Depth Investigation": 1335,
      "HA-1-6: Long-Awaited Reunion": 1200,
      "HA-1-7: Mutual Use": 1523,
-     "HA-1-8: Source Divergence": 1246,
+     "HA-1-8: Source Divergence": 2039,
      "HS-1-3: Through Thick and Thin": 710,
      "HA-1-9: Strange Reunion": 1165,
      "HA-1-10: Reflection Interplay": 999,
-     "HA-1-11: Chiaroscuro": 1268,
+     "HA-1-11: Chiaroscuro": 3299,
      "HS-1-4: Home of My heart": 1357
     }
    },
@@ -7883,19 +7905,64 @@
     "views": 126,
     "rejected": [],
     "upload_date": "20260425"
+   },
+   {
+    "seconds": 39247,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Antiparallel Part 1 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=W3Oh728HGQA",
+    "views": 586,
+    "rejected": [],
+    "upload_date": "20260528",
+    "runtime": 39708,
+    "measured": "chapter-markers",
+    "parts": {
+     "HA-1-1: Slumbering Nightmare": 2294,
+     "HA-1-2: Bygone Name": 3729,
+     "HS-1-1: Phantom Construct": 1867,
+     "HS-1-2: Dream's Harbor": 3310,
+     "HA-1-3: Neural Labyrinth": 2347,
+     "HA-1-4: Coming Storm": 3228,
+     "HA-1-5: In-Depth Investigation": 2298,
+     "HA-1-6: Long-Awaited Reunion": 2373,
+     "HA-1-7: Mutual Use": 2867,
+     "HA-1-8: Source Divergence": 2105,
+     "HS-1-3: Through Thick and Thin": 1423,
+     "HA-1-9: Strange Reunion": 2310,
+     "HA-1-10: Reflection Interplay": 1661,
+     "HA-1-11: Chiaroscuro": 2195,
+     "HA-1-12: Separate Ways": 2480,
+     "HS-1-4: Home of My heart": 2760
+    }
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 415,
+   "n": 8,
+   "median": 421,
    "low": 188,
-   "high": 504,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 369,
-   "measured": 2,
-   "parts": {},
-   "drift": -0.014
+   "high": 654,
+   "q1": 289,
+   "q3": 493,
+   "trimmed_mean": 410,
+   "measured": 3,
+   "parts": {
+    "HA-1-1: Slumbering Nightmare": 25,
+    "HA-1-2: Bygone Name": 41,
+    "HS-1-1: Phantom Construct": 21,
+    "HS-1-2: Dream's Harbor": 38,
+    "HA-1-3: Neural Labyrinth": 26,
+    "HA-1-4: Coming Storm": 35,
+    "HA-1-5: In-Depth Investigation": 25,
+    "HA-1-6: Long-Awaited Reunion": 25,
+    "HA-1-7: Mutual Use": 30,
+    "HA-1-8: Source Divergence": 34,
+    "HS-1-3: Through Thick and Thin": 16,
+    "HA-1-9: Strange Reunion": 25,
+    "HA-1-10: Reflection Interplay": 18,
+    "HA-1-11: Chiaroscuro": 37,
+    "HS-1-4: Home of My heart": 30
+   },
+   "drift": 0.0
   }
  },
  {
@@ -8053,7 +8120,7 @@
     ]
    },
    {
-    "seconds": 13045,
+    "seconds": 13588,
     "title": "Girls Frontline 2 | Antiparallel (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=BTZnUMaYnEw",
@@ -8064,7 +8131,7 @@
     "measured": "chapter-markers",
     "parts": {
      "PA-1-1: Desolate Blossom": 1275,
-     "PA-1-2: Promised Determination": 1745,
+     "PA-1-2: Promised Determination": 2288,
      "PA-1-3: Flourishing Greenery": 1345,
      "PS-1-2: Frigid Summons": 1004,
      "PA-1-4: Discordant Note": 1512,
@@ -8149,31 +8216,6 @@
     "rejected": []
    },
    {
-    "seconds": 13045,
-    "title": "Girls Frontline 2 | Antiparallel (Part 2)",
-    "uploader": "JasonDoesWhatever",
-    "url": "https://www.youtube.com/watch?v=BTZnUMaYnEw",
-    "views": 843,
-    "rejected": [],
-    "upload_date": "20260516",
-    "runtime": 13588,
-    "measured": "chapter-markers",
-    "parts": {
-     "PA-1-1: Desolate Blossom": 1275,
-     "PA-1-2: Promised Determination": 1745,
-     "PA-1-3: Flourishing Greenery": 1345,
-     "PS-1-2: Frigid Summons": 1004,
-     "PA-1-4: Discordant Note": 1512,
-     "PA-1-5: Pursuing Calamity": 1187,
-     "PA-1-6: Hidden Land": 255,
-     "PS-1-3: Destruction and Rebirth": 1444,
-     "PA-1-7: March of Resistance": 316,
-     "PA-1-8: Distant Bloodline": 1710,
-     "PA-1-9: Gentle Finale": 749,
-     "PS-1-4: Awaiting Departure": 503
-    }
-   },
-   {
     "seconds": 13230,
     "title": "\u3010Girls' Frontline 2\u3011Chapter 17 Antiparallel | Part 2 - Story Collection",
     "uploader": "Bjorkit",
@@ -8197,6 +8239,31 @@
      "PA-1-8: Distant Bloodline": 1597,
      "PA-1-9: Gentle Finale": 653,
      "PS-1-4: Awaiting Departure": 499
+    }
+   },
+   {
+    "seconds": 13588,
+    "title": "Girls Frontline 2 | Antiparallel (Part 2)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=BTZnUMaYnEw",
+    "views": 843,
+    "rejected": [],
+    "upload_date": "20260516",
+    "runtime": 13588,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-1: Desolate Blossom": 1275,
+     "PA-1-2: Promised Determination": 2288,
+     "PA-1-3: Flourishing Greenery": 1345,
+     "PS-1-2: Frigid Summons": 1004,
+     "PA-1-4: Discordant Note": 1512,
+     "PA-1-5: Pursuing Calamity": 1187,
+     "PA-1-6: Hidden Land": 255,
+     "PS-1-3: Destruction and Rebirth": 1444,
+     "PA-1-7: March of Resistance": 316,
+     "PA-1-8: Distant Bloodline": 1710,
+     "PA-1-9: Gentle Finale": 749,
+     "PS-1-4: Awaiting Departure": 503
     }
    },
    {
@@ -8254,9 +8321,9 @@
    "median": 248,
    "low": 151,
    "high": 341,
-   "q1": 207,
+   "q1": 209,
    "q3": 271,
-   "trimmed_mean": 239,
+   "trimmed_mean": 240,
    "measured": 2,
    "parts": {},
    "drift": 0.0
@@ -8486,7 +8553,7 @@
     ]
    },
    {
-    "seconds": 18787,
+    "seconds": 20153,
     "title": "Dawnforger Part 1 | GFL2 Exilium",
     "uploader": "OMGAZZ",
     "url": "https://www.youtube.com/watch?v=KsPP-AlZRpk",
@@ -8500,7 +8567,7 @@
      "LS-1-1: Corroded Invitation": 17,
      "LS-1-3: Double-Blind Tango": 240,
      "LA-1-2: First Fuse": 1798,
-     "LS-1-2: Lightless Night": 3128,
+     "LS-1-2: Lightless Night": 3428,
      "LA-1-3: Red Onion": 1370,
      "LA-1-4: Drug-Fueled Dive": 452,
      "LA-1-5: Phase Transition Point": 690,
@@ -8515,7 +8582,7 @@
      "LS-1-7: Thermal Dumping": 693,
      "LA-1-11: Burning the Land": 717,
      "LA-1-12: Settlement": 630,
-     "LA-1-13: Reforging Dawn": 529,
+     "LA-1-13: Reforging Dawn": 1595,
      "LS-1-8: Man In The Hole": 643
     }
    },
@@ -8818,40 +8885,6 @@
     "rejected": []
    },
    {
-    "seconds": 18787,
-    "title": "Dawnforger Part 1 | GFL2 Exilium",
-    "uploader": "OMGAZZ",
-    "url": "https://www.youtube.com/watch?v=KsPP-AlZRpk",
-    "views": 128,
-    "rejected": [],
-    "upload_date": "20260628",
-    "runtime": 20153,
-    "measured": "chapter-markers",
-    "parts": {
-     "LA-1-1: Cooperative Paradox": 920,
-     "LS-1-1: Corroded Invitation": 17,
-     "LS-1-3: Double-Blind Tango": 240,
-     "LA-1-2: First Fuse": 1798,
-     "LS-1-2: Lightless Night": 3128,
-     "LA-1-3: Red Onion": 1370,
-     "LA-1-4: Drug-Fueled Dive": 452,
-     "LA-1-5: Phase Transition Point": 690,
-     "LA-1-6: Underground Titration": 661,
-     "LS-1-4: Resonance Protocol": 430,
-     "LA-1-7: Durance Synchrony": 474,
-     "LA-1-8: Reunion Covenant": 520,
-     "LA-1-9: Contractualism": 1129,
-     "LS-1-5: Forking Path": 639,
-     "LA-1-10: Path of Abandonment": 1700,
-     "LS-1-6: Afterglow and Rebirth": 1279,
-     "LS-1-7: Thermal Dumping": 693,
-     "LA-1-11: Burning the Land": 717,
-     "LA-1-12: Settlement": 630,
-     "LA-1-13: Reforging Dawn": 529,
-     "LS-1-8: Man In The Hole": 643
-    }
-   },
-   {
     "seconds": 19144,
     "title": "Girls Frontline 2 | Dawnforger (Part 1)",
     "uploader": "JasonDoesWhatever",
@@ -8883,6 +8916,40 @@
      "LA-1-12: Settlement": 519,
      "LA-1-13: Reforging Dawn": 1422,
      "LS-1-8: Man In The Hole": 655
+    }
+   },
+   {
+    "seconds": 20153,
+    "title": "Dawnforger Part 1 | GFL2 Exilium",
+    "uploader": "OMGAZZ",
+    "url": "https://www.youtube.com/watch?v=KsPP-AlZRpk",
+    "views": 128,
+    "rejected": [],
+    "upload_date": "20260628",
+    "runtime": 20153,
+    "measured": "chapter-markers",
+    "parts": {
+     "LA-1-1: Cooperative Paradox": 920,
+     "LS-1-1: Corroded Invitation": 17,
+     "LS-1-3: Double-Blind Tango": 240,
+     "LA-1-2: First Fuse": 1798,
+     "LS-1-2: Lightless Night": 3428,
+     "LA-1-3: Red Onion": 1370,
+     "LA-1-4: Drug-Fueled Dive": 452,
+     "LA-1-5: Phase Transition Point": 690,
+     "LA-1-6: Underground Titration": 661,
+     "LS-1-4: Resonance Protocol": 430,
+     "LA-1-7: Durance Synchrony": 474,
+     "LA-1-8: Reunion Covenant": 520,
+     "LA-1-9: Contractualism": 1129,
+     "LS-1-5: Forking Path": 639,
+     "LA-1-10: Path of Abandonment": 1700,
+     "LS-1-6: Afterglow and Rebirth": 1279,
+     "LS-1-7: Thermal Dumping": 693,
+     "LA-1-11: Burning the Land": 717,
+     "LA-1-12: Settlement": 630,
+     "LA-1-13: Reforging Dawn": 1595,
+     "LS-1-8: Man In The Hole": 643
     }
    },
    {
@@ -8947,12 +9014,12 @@
   ],
   "stats": {
    "n": 10,
-   "median": 316,
+   "median": 327,
    "low": 173,
    "high": 500,
    "q1": 205,
    "q3": 368,
-   "trimmed_mean": 297,
+   "trimmed_mean": 300,
    "measured": 3,
    "parts": {
     "LA-1-1: Cooperative Paradox": 15,
@@ -8974,10 +9041,10 @@
     "LS-1-7: Thermal Dumping": 13,
     "LA-1-11: Burning the Land": 12,
     "LA-1-12: Settlement": 10,
-    "LA-1-13: Reforging Dawn": 24,
+    "LA-1-13: Reforging Dawn": 27,
     "LS-1-8: Man In The Hole": 11
    },
-   "drift": -0.06
+   "drift": -0.027
   }
  },
  {
@@ -9119,7 +9186,7 @@
     "rejected": []
    },
    {
-    "seconds": 27101,
+    "seconds": 32162,
     "title": "\u3010Girls' Frontline 2\u3011Event - Dawnforger Part 2 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=fCQnyWoXVA8",
@@ -9135,14 +9202,14 @@
      "CS-1-3: Echoes of Days Past": 2148,
      "CA-1-3: Faking Humanity": 1804,
      "CA-1-4: Steelcleave": 1843,
-     "CS-1-4: Tacet": 1737,
+     "CS-1-4: Tacet": 1793,
      "CA-1-6: Hot-Blooded City": 2089,
      "CS-1-5: Behind Consensus": 890,
      "CA-1-7: Lonely at the Top": 1384,
      "CS-1-6: Blazing Plains": 654,
      "CA-1-8: Hail Mary": 2764,
      "CS-1-7: Not Best Pleased": 1313,
-     "CA-1-9: Blade And Gaol": 907,
+     "CA-1-9: Blade And Gaol": 5912,
      "CS-1-8: Gala": 2115
     }
    },
@@ -9293,7 +9360,7 @@
     "rejected": []
    },
    {
-    "seconds": 27101,
+    "seconds": 32162,
     "title": "\u3010Girls' Frontline 2\u3011Event - Dawnforger Part 2 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=fCQnyWoXVA8",
@@ -9309,14 +9376,14 @@
      "CS-1-3: Echoes of Days Past": 2148,
      "CA-1-3: Faking Humanity": 1804,
      "CA-1-4: Steelcleave": 1843,
-     "CS-1-4: Tacet": 1737,
+     "CS-1-4: Tacet": 1793,
      "CA-1-6: Hot-Blooded City": 2089,
      "CS-1-5: Behind Consensus": 890,
      "CA-1-7: Lonely at the Top": 1384,
      "CS-1-6: Blazing Plains": 654,
      "CA-1-8: Hail Mary": 2764,
      "CS-1-7: Not Best Pleased": 1313,
-     "CA-1-9: Blade And Gaol": 907,
+     "CA-1-9: Blade And Gaol": 5912,
      "CS-1-8: Gala": 2115
     }
    }
@@ -9325,10 +9392,10 @@
    "n": 9,
    "median": 396,
    "low": 181,
-   "high": 452,
+   "high": 536,
    "q1": 293,
    "q3": 438,
-   "trimmed_mean": 356,
+   "trimmed_mean": 366,
    "measured": 1,
    "parts": {},
    "drift": 0.311

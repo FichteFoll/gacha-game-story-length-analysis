@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Amphoreus
 
-**Region:** Amphoreus, the Eternal Land | **Game versions:** 3.0 - 3.7 | **Entries:** 8 | **Estimated chapter length: 52 h 31 min**
+**Region:** Amphoreus, the Eternal Land | **Game versions:** 3.0 - 3.7 | **Entries:** 8 | **Estimated chapter length: 52 h 32 min**
 <!--/gen-->
 
 A world locked in a doomed cycle,
@@ -22,15 +22,15 @@ and stays for all of it.
 | Mission 5 | For the Sun is Set to Die | 4 h 39 min | 4 h 05 min - 4 h 55 min | 10 | high |
 | Mission 6 | Before Their Deaths | 6 h 04 min | 5 h 48 min - 6 h 25 min | 13 | high |
 | Mission 7 | Back to Earth in Evernight | 5 h 15 min | 5 h 01 min - 5 h 29 min | 13 | high |
-| Mission 8 | As Tomorrow Became Yesterday | 6 h 20 min | 6 h 12 min - 7 h 11 min | 16 | high |
+| Mission 8 | As Tomorrow Became Yesterday | 6 h 21 min | 6 h 16 min - 7 h 18 min | 16 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->52 h 31 min<!--/f-->**
+**Total: <!--f:total-->52 h 32 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter:
-<!--f:n_entries-->eight<!--/f--> missions and <!--f:total-->52 h 31 min<!--/f--> in total,
+<!--f:n_entries-->eight<!--/f--> missions and <!--f:total-->52 h 32 min<!--/f--> in total,
 released across the whole of the 3.x cycle.
 Every one of them runs past three hours.
 *<!--f:longest_title-->Heroic Saga of Flame-Chase<!--/f-->*, the arrival on Amphoreus, is the longest
@@ -330,8 +330,8 @@ The close of the Amphoreus saga,
 asked to be remembered rather than mourned.
 <!--gen:stats act="Mission 8"-->
 
-- **Estimated length:** 6 h 20 min
-- **Sampled range:** 6 h 12 min to 7 h 11 min for the middle half (full spread 5 h 35 min to 9 h 12 min) across 16 playthrough uploads (4 further candidates screened out)
+- **Estimated length:** 6 h 21 min
+- **Sampled range:** 6 h 16 min to 7 h 18 min for the middle half (full spread 5 h 40 min to 9 h 12 min) across 16 playthrough uploads (4 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 3.7
@@ -346,7 +346,6 @@ asked to be remembered rather than mourned.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 5 h 35 min | HSR 3.7 \| FULL Story Quest JP DUB \| 2K \| Amphoreus — As Tomorrow Became Yesterday \| Honkai Star Rail | Xheldon G.Archive | 2,805 | 2025-11-06 | <https://www.youtube.com/watch?v=8sn-NbxXS_E> |
 | 5 h 40 min | As Tomorrow Became Yesterday \| Amphoreus FINALE \| Honkai Star Rail 3.7 Full Playthrough | Mihoyuri  | 55 | 2025-11-10 | <https://www.youtube.com/watch?v=GjExQI7O--s> |
 | 5 h 51 min | Version 3.7 Trailblaze Mission Full Story HD \| As Tomorrow Became Yesterday \| Honkai Star Rail | Noxxis Gaming | 2,576 | 2025-11-05 | <https://www.youtube.com/watch?v=MBtSPrYzjoA> |
 | 6 h 10 min | As Tomorrow Became Yesterday (Version 3.7 Trailblaze Mission) \| Honkai: Star Rail | StarChases | 275 | 2026-01-14 | <https://www.youtube.com/watch?v=HpBrkkneMe4> |
@@ -361,6 +360,7 @@ asked to be remembered rather than mourned.
 | 7 h 14 min | Honkai Star Rail 3.7 Walkthrough \| Trailblaze Mission: Amphoreus Story [JP Voice] | ViGAMES | 462 | 2025-11-08 | <https://www.youtube.com/watch?v=Itfq_UPV2yE> |
 | 7 h 20 min | Honkai: Star Rail 3.7 – Trailblaze Mission “As Tomorrow Became Yesterday” \| JP Dub \| No Commentary | Mikiyuki | ~21 | n/a | <https://www.youtube.com/watch?v=WJETACXCCSY> |
 | 7 h 24 min | Honkai Star Rail 3.7 - New Trailblaze Story Quest Full Walkthrough (HSR 3.7) | Rubhen925 | 64,516 | 2025-11-05 | <https://www.youtube.com/watch?v=MHCEiYm4Pg0> |
+| 8 h 13 min | HSR 3.7 \| FULL Story Quest JP DUB \| 2K \| Amphoreus — As Tomorrow Became Yesterday \| Honkai Star Rail | Xheldon G.Archive | 2,805 | 2025-11-06 | <https://www.youtube.com/watch?v=8sn-NbxXS_E> |
 | 9 h 12 min | As Tomorrow Became Yesterday (3.7 FULL Story Quest) Honkai Star Rail (English dubbing and subtitles) | Kuroyukihime | ~215 | n/a | <https://www.youtube.com/watch?v=ogDxojaoRW4> |
 
 </details>

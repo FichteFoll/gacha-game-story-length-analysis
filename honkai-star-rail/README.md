@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->125 h 57 min<!--/f-->** (<!--f:n_report_entries-->26<!--/f--> entries counting missions, measured against <!--f:n_videos-->338<!--/f--> accepted uploads out of <!--f:n_candidates-->731<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->125 h 58 min<!--/f-->** (<!--f:n_report_entries-->26<!--/f--> entries counting missions, measured against <!--f:n_videos-->338<!--/f--> accepted uploads out of <!--f:n_candidates-->731<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | Jarilo-VI | Jarilo-VI: Belobog and the Underworld | 1.0 | 2 | 6 h 32 min | [01-jarilo-vi.md](01-jarilo-vi.md) |
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 39 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 23 h 19 min | [03-penacony.md](03-penacony.md) |
-| Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 31 min | [04-amphoreus.md](04-amphoreus.md) |
+| Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 32 min | [04-amphoreus.md](04-amphoreus.md) |
 | Planarcadia | Planarcadia | 4.0 - 4.6 | 7 | 34 h 37 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 

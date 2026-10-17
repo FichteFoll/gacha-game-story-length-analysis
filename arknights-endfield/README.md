@@ -5,7 +5,7 @@ from the prologue on the surface of Talos-II
 to Si's Painting,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->26 h 52 min<!--/f-->** (<!--f:n_report_entries-->13<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->190<!--/f--> accepted uploads out of <!--f:n_candidates-->706<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->27 h 03 min<!--/f-->** (<!--f:n_report_entries-->13<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->190<!--/f--> accepted uploads out of <!--f:n_candidates-->706<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->process<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.
@@ -16,7 +16,7 @@ rather than a number anyone actually clocked end to end.
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Chapter I | Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | 1.0 | 5 | 8 h 28 min | [01-chapter-i.md](01-chapter-i.md) |
-| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, the North Wuling Exclusion Zone and Si's Painting | 1.0 - 1.6 | 8 | 18 h 24 min | [02-chapter-ii.md](02-chapter-ii.md) |
+| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, the North Wuling Exclusion Zone and Si's Painting | 1.0 - 1.6 | 8 | 18 h 35 min | [02-chapter-ii.md](02-chapter-ii.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->processes<!--/f-->
@@ -31,7 +31,7 @@ rather than a number anyone actually clocked end to end.
 | longest | Chapter I, Process III: Path of Ascension | 2 h 37 min |
 | shortest | Chapter I, Prologue: Prologue | 28 min |
 | shortest | Chapter I, Process II: The Turbid Heavens | 59 min |
-| shortest | Chapter II, Process V: Wrothful Tide | 1 h 03 min |
+| shortest | Chapter II, Process V: Wrothful Tide | 1 h 04 min |
 <!--/gen-->
 
 ## Method

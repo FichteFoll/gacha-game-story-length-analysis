@@ -93,7 +93,7 @@ and pulls Nahida out of the Akademiya's dream.
 - **Released in:** 3.0
 - **Stability:** median +2% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 5 of 11 uploads
-- **Quest parts (8):** The Coming of the Sabzeruz Festival (22 min); The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn (8 min)
+- **Quest parts (8):** The Coming of the Sabzeruz Festival (2 h 21 min); The Arrival of the Sabzeruz Festival; The Continuation of the Sabzeruz Festival; The Samsara of the Sabzeruz Festival; The Causality of the Sabzeruz Festival; The Empty Illusions of the Sabzeruz Festival; The End of the Sabzeruz Festival; Dawn (8 min)
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -107,8 +107,8 @@ and pulls Nahida out of the Akademiya's dream.
 | 1 h 48 min | The Morn a Thousand Roses Brings Genshin Impact | WoW Quests | ~11,384 | n/a | <https://www.youtube.com/watch?v=wrQKD7-bQbo> |
 | 1 h 51 min | Genshin Impact - Chapter III: Act II The Morn a Thousand Roses Brings Part 1 | Aya Impact | 127 | 2022-08-25 | <https://www.youtube.com/watch?v=PquwhPPYHoE> |
 | 2 h 21 min | The Morn a Thousand Roses Brings (Full Walkthrough) \| Archon Quest Chapter III: Act II | ArcadeAura Gamer | 59 | 2025-09-05 | <https://www.youtube.com/watch?v=ZjuFPVFlXpc> |
-| 2 h 27 min | The Morn a Thousand Roses Brings — Chapter III: Act II (Sumeru Archon Quest) \| Genshin Impact | Mr. Trajet | 654 | 2022-08-27 | <https://www.youtube.com/watch?v=dqIysUtQlQ4> |
 | 2 h 27 min | Genshin Impact FULL GAME [No Commentary] CHAPTER 3 ACT II: The Morn a Thousand Roses Brings PART 11 | SilentPixie Gaming | 10 | 2026-01-07 | <https://www.youtube.com/watch?v=dXWAfZJlfTQ> |
+| 2 h 31 min | The Morn a Thousand Roses Brings — Chapter III: Act II (Sumeru Archon Quest) \| Genshin Impact | Mr. Trajet | 654 | 2022-08-27 | <https://www.youtube.com/watch?v=dqIysUtQlQ4> |
 | 2 h 32 min | The Morn A Thousand Roses Brings Full Story \| Sumeru 3.0 Archon Quest Part 2 \| Genshin Impact | Noxxis Gaming | 64,720 | 2022-08-27 | <https://www.youtube.com/watch?v=EIiBjrXo3o4> |
 | 2 h 43 min | Archon Quest Chapter 3: Act 2 "The Morn a Thousand Roses Brings" \| 【Genshin Impact】 | LyurGG | 6,469 | 2025-05-26 | <https://www.youtube.com/watch?v=2c5cPsTFrYk> |
 | 2 h 44 min | Full Sumeru Archon Quest - Genshin Impact | Fayato | 346,179 | 2024-06-16 | <https://www.youtube.com/watch?v=gxjF9KTXKU4> |

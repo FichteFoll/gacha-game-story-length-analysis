@@ -675,9 +675,9 @@
     "runtime": 3110,
     "measured": "chapter-markers",
     "parts": {
-     "Dream Dissociation": 300,
-     "Bridge Battle": 325,
-     "S-rank Valkyrie's Name": 249
+     "Dream Dissociation": 1165,
+     "Bridge Battle": 1041,
+     "S-rank Valkyrie's Name": 904
     }
    },
    {
@@ -749,8 +749,8 @@
     "runtime": 3511,
     "measured": "chapter-markers",
     "parts": {
-     "Dream Dissociation": 1585,
-     "S-rank Valkyrie's Name": 9
+     "Dream Dissociation": 2374,
+     "S-rank Valkyrie's Name": 615
     }
    },
    {
@@ -897,8 +897,8 @@
     "runtime": 3511,
     "measured": "chapter-markers",
     "parts": {
-     "Dream Dissociation": 1585,
-     "S-rank Valkyrie's Name": 9
+     "Dream Dissociation": 2374,
+     "S-rank Valkyrie's Name": 615
     }
    },
    {
@@ -928,9 +928,9 @@
     "runtime": 3110,
     "measured": "chapter-markers",
     "parts": {
-     "Dream Dissociation": 300,
-     "Bridge Battle": 325,
-     "S-rank Valkyrie's Name": 249
+     "Dream Dissociation": 1165,
+     "Bridge Battle": 1041,
+     "S-rank Valkyrie's Name": 904
     }
    },
    {
@@ -1136,8 +1136,8 @@
     "runtime": 2036,
     "measured": "chapter-markers",
     "parts": {
-     "Gem of Desire": 51,
-     "Bumpy Road": 480,
+     "Gem of Desire": 947,
+     "Bumpy Road": 755,
      "Lost Wind": 334
     }
    },
@@ -1306,8 +1306,8 @@
     "runtime": 2036,
     "measured": "chapter-markers",
     "parts": {
-     "Gem of Desire": 51,
-     "Bumpy Road": 480,
+     "Gem of Desire": 947,
+     "Bumpy Road": 755,
      "Lost Wind": 334
     }
    },
@@ -5447,8 +5447,8 @@
     "runtime": 2542,
     "measured": "chapter-markers",
     "parts": {
-     "Lost in Darkness": 167,
-     "Serpent's Shadow": 232
+     "Lost in Darkness": 1820,
+     "Serpent's Shadow": 722
     }
    },
    {
@@ -5624,8 +5624,8 @@
     "runtime": 2542,
     "measured": "chapter-markers",
     "parts": {
-     "Lost in Darkness": 167,
-     "Serpent's Shadow": 232
+     "Lost in Darkness": 1820,
+     "Serpent's Shadow": 722
     }
    },
    {
@@ -7254,7 +7254,7 @@
     "runtime": 2003,
     "measured": "chapter-markers",
     "parts": {
-     "VOID HEAVENS": 204
+     "VOID HEAVENS": 2003
     }
    },
    {
@@ -7288,7 +7288,7 @@
     "runtime": 2003,
     "measured": "chapter-markers",
     "parts": {
-     "VOID HEAVENS": 204
+     "VOID HEAVENS": 2003
     }
    },
    {
@@ -7738,12 +7738,12 @@
     "runtime": 8392,
     "measured": "chapter-markers",
     "parts": {
-     "Undercurrent": 429,
-     "Twilight": 560,
-     "Torrents": 273,
+     "Undercurrent": 2459,
+     "Twilight": 2303,
+     "Torrents": 746,
      "Daybreak": 803,
-     "Echo of Shadows": 118,
-     "Echo of Light": 144
+     "Echo of Shadows": 514,
+     "Echo of Light": 706
     }
    },
    {
@@ -7958,12 +7958,12 @@
     "runtime": 8392,
     "measured": "chapter-markers",
     "parts": {
-     "Undercurrent": 429,
-     "Twilight": 560,
-     "Torrents": 273,
+     "Undercurrent": 2459,
+     "Twilight": 2303,
+     "Torrents": 746,
      "Daybreak": 803,
-     "Echo of Shadows": 118,
-     "Echo of Light": 144
+     "Echo of Shadows": 514,
+     "Echo of Light": 706
     }
    },
    {

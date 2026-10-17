@@ -225,6 +225,15 @@ locates one act inside a longer upload. That means:
 
 Ignore a marker set covering less than 60 percent of a single-act upload:
 those markers were something else, and trusting them under-measures the act.
+Where the named markers do pass, the unnamed ones between them
+("Boss Battle", "Story Trails", "Talk to Venti") count towards the part before,
+and after the act's final quest part so does what reads as its close
+("Si Boss Fight", "Ending", "Post-quest"), up to the first marker that does not.
+Anything after another part is left out:
+there it was as often a side quest, another mode or the next act.
+The coverage test itself stays on the named markers,
+or a sparse set that misses the act's opening and close
+would pass on its gaps and measure less than the runtime it replaces.
 
 `--only` takes the same slugs as `harvest.sh`
 and fetches only the named acts' candidates.

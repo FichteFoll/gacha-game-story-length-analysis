@@ -76,6 +76,15 @@ REJECT = re.compile(
 # Quest" (the normal phrasing for one complete act) into a compilation.
 # Anything else a game's uploaders say belongs in <workdir>/compilations.txt.
 CONTAINER = r"chapter|episode|arc"
+# Chapter markers that are the uploader's rather than the act's, and those that
+# read as the act's own close, for the unnamed markers act_markers() weighs.
+OUTRO = re.compile(
+    r"\b(?:outro|end ?(?:card|screen)|next (?:time|episode|video|part)|preview|"
+    r"upcoming|thanks? for watching|subscribe|gacha|pulls|pulling|summons?|"
+    r"rewards?|shop)\b", re.I)
+ACT_END = re.compile(
+    r"\b(?:boss|battle|fight|finale?|ending|end|conclusion|epilogue|cutscene|"
+    r"credits|post[- ]?(?:quest|story|stage|battle|archon quest))\b", re.I)
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
 # ... and the prefix marking a partials.txt pattern no runtime readmits, or a
@@ -522,21 +531,44 @@ def part_named(marker_title, parts):
     return next((p for p in parts if matches_act_title(marker_title, p)), None)
 
 
-def act_markers(act, chapters, parts):
+def act_markers(act, chapters, parts, single=False):
     """The markers of one upload that belong to this act, as (marker, part).
 
     Walkthrough uploads very often name their chapter markers after the quest
     parts, which is what makes an act locatable inside a longer video: it is how
     an "Acts 9 & 10" compilation becomes evidence for each act separately, and
     how the uploader's pre-roll and detours stay out of the measurement.
+
+    In an upload of this act alone (`single`), the markers between two named
+    ones are the walk from one quest part to the next ("Talk to Nefer", "Boss
+    Battle", "Story Trails") and count towards the part before them. After the
+    last named marker, and only where that marker is the act's final quest
+    part, what reads as the act's own close ("Si Boss Fight", "Ending",
+    "Post-quest") is added too, as far as it runs unbroken (ACT_END): what
+    follows anything else is as often a side quest, a date, another game mode or
+    the next act as it is the finale. A marker that says it is the uploader's
+    rather than the act's (OUTRO) never counts. In an upload of several acts the markers after one act
+    may open the next, so there only the named markers count.
     """
-    out = []
-    for marker in chapters:
-        title = marker.get("title") or ""
-        part = part_named(title, parts)
-        if part or matches_act_title(title, act["act_title"]) \
-                or names_act_number(title, act):
-            out.append((marker, part))
+    named = [part_named(m.get("title") or "", parts) for m in chapters]
+    hits = [i for i, m in enumerate(chapters)
+            if named[i] or matches_act_title(m.get("title") or "", act["act_title"])
+            or names_act_number(m.get("title") or "", act)]
+    if not single or not hits:
+        return [(chapters[i], named[i]) for i in hits]
+    closes = bool(parts) and named[hits[-1]] == parts[-1]
+    out, part = [], None
+    for i in range(hits[0], len(chapters)):
+        title = chapters[i].get("title") or ""
+        if i in hits:
+            part = named[i]
+        elif OUTRO.search(title):
+            if i > hits[-1]:
+                break
+            continue
+        elif i > hits[-1] and not (closes and ACT_END.search(title)):
+            break
+        out.append((chapters[i], part))
     return out
 
 
@@ -550,14 +582,22 @@ def act_span(act, chapters, parts, duration, bundled):
     A span that covers only a fraction of a single-act upload means the markers
     were not the quest parts after all, and trusting it would under-measure the
     act; for an upload that genuinely covers several acts there is no such floor.
+    A single-act span that passes is widened to the unnamed markers that belong
+    to the act as well (act_markers()).
     """
     matched = act_markers(act, chapters, parts)
     span = sum(marker_seconds(m) for m, _ in matched)
     if not matched or span < SPAN_MINIMUM:
         return None
-    if not bundled and duration and span < SPAN_COVERAGE * duration:
+    if bundled:
+        return span
+    if duration and span < SPAN_COVERAGE * duration:
         return None
-    return span
+    # Judged on the named markers alone: counting the unnamed ones between them
+    # would pass sparse marker sets that miss the act's opening and close, and
+    # measure less of it than the runtime they fall back to now.
+    return sum(marker_seconds(m)
+               for m, _ in act_markers(act, chapters, parts, single=True))
 
 
 def load_acts(workdir):
@@ -631,8 +671,10 @@ def measure_from_markers(row, act, chapters, parts):
     row["runtime"] = row["seconds"]
     row["seconds"] = span
     row["measured"] = "chapter-markers"
-    row["parts"] = {part: marker_seconds(marker)
-                    for marker, part in act_markers(act, chapters, parts) if part}
+    row["parts"] = {}
+    for marker, part in act_markers(act, chapters, parts, single=not bundled):
+        if part:
+            row["parts"][part] = row["parts"].get(part, 0) + marker_seconds(marker)
     row["rejected"] = [r for r in row["rejected"]
                        if r not in ("multi-act", "act-mismatch")]
 

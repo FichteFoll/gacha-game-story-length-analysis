@@ -45,14 +45,14 @@ CLAIMS = [
     none_above("v1", 240,
                "Chapter 8 being the first entry in the game "
                "to pass four hours"),
-    median_between("v2", "Chapter 6.5", 60, 175,
-                   "Three of the four decimal chapters come in under both "
+    median_between("v2", "Chapter 6.7", 60, 160,
+                   "Chapters 6.7 and 8.3 come in under both "
                    "whole-numbered ones"),
-    median_between("v2", "Chapter 6.7", 60, 175,
-                   "Three of the four decimal chapters come in under both "
+    median_between("v2", "Chapter 8.3", 60, 160,
+                   "Chapters 6.7 and 8.3 come in under both "
                    "whole-numbered ones"),
-    median_between("v2", "Chapter 7", 176, 239,
-                   "Three of the four decimal chapters come in under both "
+    median_between("v2", "Chapter 7", 161, 239,
+                   "Chapters 6.7 and 8.3 come in under both "
                    "whole-numbered ones"),
     median_between("v2", "Chapter 8.3", 100, 175,
                    "it has no more stages than Chapter 8.3 "
@@ -71,15 +71,15 @@ CLAIMS = [
     total_ratio_between("v3", ["v1"], 1.05, 2.0,
                         "are the reason this volume outweighs the launch run "
                         "on one entry fewer"),
-    median_between("v3", "Chapter 12.5", 180, 247,
-                   "Chapter 12.5 closes the volume out below both of the "
-                   "chapters it sits between"),
-    median_between("v3", "Chapter 11", 248, 330,
-                   "Chapter 12.5 closes the volume out below both of the "
-                   "chapters it sits between"),
-    median_between("v3", "Chapter 12", 248, 360,
-                   "Chapter 12.5 closes the volume out below both of the "
-                   "chapters it sits between"),
+    median_between("v3", "Chapter 12.5", 230, 300,
+                   "Chapter 12.5 closes the volume out at about the length of "
+                   "the two chapters it sits between"),
+    median_between("v3", "Chapter 11", 230, 300,
+                   "Chapter 12.5 closes the volume out at about the length of "
+                   "the two chapters it sits between"),
+    median_between("v3", "Chapter 12", 230, 300,
+                   "Chapter 12.5 closes the volume out at about the length of "
+                   "the two chapters it sits between"),
 
     # 04-corposant-to-antiparallel.md
     largest_chapter("v4",

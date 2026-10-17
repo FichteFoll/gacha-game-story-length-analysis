@@ -2710,7 +2710,7 @@
     "upload_date": "20260709"
    },
    {
-    "seconds": 6573,
+    "seconds": 8192,
     "title": "Arknights Endfield Chapter 1: Smoking Embers Full Quest ( Process 4 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=0922YjgWsL4",
@@ -2721,11 +2721,11 @@
     "measured": "chapter-markers",
     "parts": {
      "Entering the Endgame": 318,
-     "Counterstrike Brewing": 918,
+     "Counterstrike Brewing": 2241,
      "Frontline Rush": 1330,
      "Undying Cinders": 1206,
      "Temporary Peace": 431,
-     "Mysterious Signal": 1278,
+     "Mysterious Signal": 1574,
      "Conference of the Four": 1092
     }
    },
@@ -3192,26 +3192,6 @@
     }
    },
    {
-    "seconds": 6573,
-    "title": "Arknights Endfield Chapter 1: Smoking Embers Full Quest ( Process 4 )",
-    "uploader": "TheWayCafe Productions",
-    "url": "https://www.youtube.com/watch?v=0922YjgWsL4",
-    "views": 161,
-    "rejected": [],
-    "upload_date": "20260208",
-    "runtime": 9998,
-    "measured": "chapter-markers",
-    "parts": {
-     "Entering the Endgame": 318,
-     "Counterstrike Brewing": 918,
-     "Frontline Rush": 1330,
-     "Undying Cinders": 1206,
-     "Temporary Peace": 431,
-     "Mysterious Signal": 1278,
-     "Conference of the Four": 1092
-    }
-   },
-   {
     "seconds": 7249,
     "title": "Arknights Endfield - Main Story Chapter 1 Part 4 Smoking Embers - Entering the Endgame | Version 1.0",
     "uploader": "MaL AnimsGaming",
@@ -3245,16 +3225,36 @@
     "url": "https://www.youtube.com/watch?v=fUYlvHXOUoY",
     "views": "171",
     "rejected": []
+   },
+   {
+    "seconds": 8192,
+    "title": "Arknights Endfield Chapter 1: Smoking Embers Full Quest ( Process 4 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=0922YjgWsL4",
+    "views": 161,
+    "rejected": [],
+    "upload_date": "20260208",
+    "runtime": 9998,
+    "measured": "chapter-markers",
+    "parts": {
+     "Entering the Endgame": 318,
+     "Counterstrike Brewing": 2241,
+     "Frontline Rush": 1330,
+     "Undying Cinders": 1206,
+     "Temporary Peace": 431,
+     "Mysterious Signal": 1574,
+     "Conference of the Four": 1092
+    }
    }
   ],
   "stats": {
    "n": 12,
    "median": 106,
    "low": 88,
-   "high": 127,
+   "high": 137,
    "q1": 95,
-   "q3": 123,
-   "trimmed_mean": 108,
+   "q3": 126,
+   "trimmed_mean": 110,
    "measured": 5,
    "parts": {
     "Entering the Endgame": 6,
@@ -3262,7 +3262,7 @@
     "Frontline Rush": 9,
     "Undying Cinders": 20,
     "Temporary Peace": 7,
-    "Mysterious Signal": 21
+    "Mysterious Signal": 24
    },
    "drift": 0.0
   }
@@ -3422,7 +3422,7 @@
     "measured": "chapter-markers",
     "parts": {
      "Arrival at Wuling": 2625,
-     "Destination Wuling": 1649
+     "Destination Wuling": 2917
     }
    },
    {
@@ -3967,7 +3967,7 @@
     "measured": "chapter-markers",
     "parts": {
      "Arrival at Wuling": 2625,
-     "Destination Wuling": 1649
+     "Destination Wuling": 2917
     }
    },
    {
@@ -4180,7 +4180,7 @@
     "upload_date": "20260712"
    },
    {
-    "seconds": 7609,
+    "seconds": 9059,
     "title": "The Way of Water FULL QUEST Arknights Endfield",
     "uploader": "NeoBuns",
     "url": "https://www.youtube.com/watch?v=umkbaZcVthI",
@@ -4190,7 +4190,7 @@
     "runtime": 9059,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 1822,
+     "A Glance of Astonishment": 3272,
      "Of Grace and Gentle Might": 2271,
      "The Surging Tide": 2895,
      "Where Danger Sleeps": 621
@@ -4207,7 +4207,7 @@
     ]
    },
    {
-    "seconds": 4838,
+    "seconds": 5773,
     "title": "Chapter 2 Process 2 - The Way of Water | Arknights Endfield (Story Quest - Full Quest)",
     "uploader": "SneakyDaisies",
     "url": "https://www.youtube.com/watch?v=2FP8Zp1ltfk",
@@ -4217,7 +4217,7 @@
     "runtime": 5778,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 1425,
+     "A Glance of Astonishment": 2360,
      "Of Grace and Gentle Might": 1911,
      "The Surging Tide": 1239,
      "Where Danger Sleeps": 263
@@ -4234,7 +4234,7 @@
     ]
    },
    {
-    "seconds": 6712,
+    "seconds": 8475,
     "title": "Arknights Endfield Chapter 2: The Way of Water ( Process 2 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=Zdu2vQPDMj0",
@@ -4244,7 +4244,7 @@
     "runtime": 8475,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 43,
+     "A Glance of Astonishment": 1806,
      "Of Grace and Gentle Might": 2546,
      "The Surging Tide": 2908,
      "Where Danger Sleeps": 1215
@@ -4285,7 +4285,7 @@
     "parts": {}
    },
    {
-    "seconds": 6143,
+    "seconds": 7436,
     "title": "[JP VA] Chapter II - Pocess II | The Way of Water [Arknights Endfield] No Commentary",
     "uploader": "Vejah",
     "url": "https://www.youtube.com/watch?v=38uv0gctjVs",
@@ -4295,7 +4295,7 @@
     "runtime": 7436,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 1682,
+     "A Glance of Astonishment": 2975,
      "Of Grace and Gentle Might": 2304,
      "The Surging Tide": 1776,
      "Where Danger Sleeps": 381
@@ -4605,23 +4605,6 @@
   ],
   "kept": [
    {
-    "seconds": 4838,
-    "title": "Chapter 2 Process 2 - The Way of Water | Arknights Endfield (Story Quest - Full Quest)",
-    "uploader": "SneakyDaisies",
-    "url": "https://www.youtube.com/watch?v=2FP8Zp1ltfk",
-    "views": 8,
-    "rejected": [],
-    "upload_date": "20260424",
-    "runtime": 5778,
-    "measured": "chapter-markers",
-    "parts": {
-     "A Glance of Astonishment": 1425,
-     "Of Grace and Gentle Might": 1911,
-     "The Surging Tide": 1239,
-     "Where Danger Sleeps": 263
-    }
-   },
-   {
     "seconds": 5010,
     "title": "Arknights Endfield Wuling Full Story Quest | Arknights: Endfield",
     "uploader": "Nine's Own Wish ",
@@ -4648,20 +4631,20 @@
     "upload_date": "20260213"
    },
    {
-    "seconds": 6143,
-    "title": "[JP VA] Chapter II - Pocess II | The Way of Water [Arknights Endfield] No Commentary",
-    "uploader": "Vejah",
-    "url": "https://www.youtube.com/watch?v=38uv0gctjVs",
-    "views": 24,
+    "seconds": 5773,
+    "title": "Chapter 2 Process 2 - The Way of Water | Arknights Endfield (Story Quest - Full Quest)",
+    "uploader": "SneakyDaisies",
+    "url": "https://www.youtube.com/watch?v=2FP8Zp1ltfk",
+    "views": 8,
     "rejected": [],
-    "upload_date": "20260216",
-    "runtime": 7436,
+    "upload_date": "20260424",
+    "runtime": 5778,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 1682,
-     "Of Grace and Gentle Might": 2304,
-     "The Surging Tide": 1776,
-     "Where Danger Sleeps": 381
+     "A Glance of Astonishment": 2360,
+     "Of Grace and Gentle Might": 1911,
+     "The Surging Tide": 1239,
+     "Where Danger Sleeps": 263
     }
    },
    {
@@ -4682,23 +4665,6 @@
     "rejected": []
    },
    {
-    "seconds": 6712,
-    "title": "Arknights Endfield Chapter 2: The Way of Water ( Process 2 )",
-    "uploader": "TheWayCafe Productions",
-    "url": "https://www.youtube.com/watch?v=Zdu2vQPDMj0",
-    "views": 161,
-    "rejected": [],
-    "upload_date": "20260212",
-    "runtime": 8475,
-    "measured": "chapter-markers",
-    "parts": {
-     "A Glance of Astonishment": 43,
-     "Of Grace and Gentle Might": 2546,
-     "The Surging Tide": 2908,
-     "Where Danger Sleeps": 1215
-    }
-   },
-   {
     "seconds": 6998,
     "title": "Chapter II Process I, II - Arknights Endfield",
     "uploader": "daesz",
@@ -4711,20 +4677,20 @@
     "parts": {}
    },
    {
-    "seconds": 7609,
-    "title": "The Way of Water FULL QUEST Arknights Endfield",
-    "uploader": "NeoBuns",
-    "url": "https://www.youtube.com/watch?v=umkbaZcVthI",
-    "views": 174,
+    "seconds": 7436,
+    "title": "[JP VA] Chapter II - Pocess II | The Way of Water [Arknights Endfield] No Commentary",
+    "uploader": "Vejah",
+    "url": "https://www.youtube.com/watch?v=38uv0gctjVs",
+    "views": 24,
     "rejected": [],
-    "upload_date": "20260305",
-    "runtime": 9059,
+    "upload_date": "20260216",
+    "runtime": 7436,
     "measured": "chapter-markers",
     "parts": {
-     "A Glance of Astonishment": 1822,
-     "Of Grace and Gentle Might": 2271,
-     "The Surging Tide": 2895,
-     "Where Danger Sleeps": 621
+     "A Glance of Astonishment": 2975,
+     "Of Grace and Gentle Might": 2304,
+     "The Surging Tide": 1776,
+     "Where Danger Sleeps": 381
     }
    },
    {
@@ -4745,6 +4711,40 @@
     "rejected": []
    },
    {
+    "seconds": 8475,
+    "title": "Arknights Endfield Chapter 2: The Way of Water ( Process 2 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=Zdu2vQPDMj0",
+    "views": 161,
+    "rejected": [],
+    "upload_date": "20260212",
+    "runtime": 8475,
+    "measured": "chapter-markers",
+    "parts": {
+     "A Glance of Astonishment": 1806,
+     "Of Grace and Gentle Might": 2546,
+     "The Surging Tide": 2908,
+     "Where Danger Sleeps": 1215
+    }
+   },
+   {
+    "seconds": 9059,
+    "title": "The Way of Water FULL QUEST Arknights Endfield",
+    "uploader": "NeoBuns",
+    "url": "https://www.youtube.com/watch?v=umkbaZcVthI",
+    "views": 174,
+    "rejected": [],
+    "upload_date": "20260305",
+    "runtime": 9059,
+    "measured": "chapter-markers",
+    "parts": {
+     "A Glance of Astonishment": 3272,
+     "Of Grace and Gentle Might": 2271,
+     "The Surging Tide": 2895,
+     "Where Danger Sleeps": 621
+    }
+   },
+   {
     "seconds": 10218,
     "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 2: The Way of Water",
     "uploader": "Gelo Gaming",
@@ -4755,20 +4755,20 @@
   ],
   "stats": {
    "n": 12,
-   "median": 110,
-   "low": 81,
+   "median": 120,
+   "low": 84,
    "high": 170,
-   "q1": 93,
-   "q3": 127,
-   "trimmed_mean": 111,
+   "q1": 99,
+   "q3": 140,
+   "trimmed_mean": 120,
    "measured": 6,
    "parts": {
-    "A Glance of Astonishment": 24,
+    "A Glance of Astonishment": 39,
     "Of Grace and Gentle Might": 38,
     "The Surging Tide": 30,
     "Where Danger Sleeps": 6
    },
-   "drift": 0.0
+   "drift": 0.091
   }
  },
  {
@@ -4955,7 +4955,9 @@
     "uploader": "Buckii",
     "url": "https://www.youtube.com/watch?v=F1DaW7JG8p4",
     "views": 66,
-    "rejected": [],
+    "rejected": [
+     "part-of-an-act"
+    ],
     "upload_date": "20260322"
    },
    {
@@ -4982,9 +4984,7 @@
     "uploader": "Buckii",
     "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
     "views": 25,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20260323"
    },
    {
@@ -5044,7 +5044,7 @@
     "upload_date": "20260314"
    },
    {
-    "seconds": 10054,
+    "seconds": 10830,
     "title": "Arknights Endfield 1.1 Main Story - Full Chapter 2 Process 3 Full Playthrough (No Commentary)",
     "uploader": "Fizlen",
     "url": "https://www.youtube.com/watch?v=OvVlFTJPC_U",
@@ -5057,7 +5057,7 @@
      "Unexpected Attack": 682,
      "Deep in the Mire": 1120,
      "The Flow Splits Course": 2473,
-     "Surging From a Withered Spring": 645,
+     "Surging From a Withered Spring": 1421,
      "A River Restless in Still Winds": 684,
      "Another Wave Comes Crashing In": 1072,
      "Ripples Spread Throughout the Flow": 328,
@@ -5233,13 +5233,13 @@
   ],
   "kept": [
    {
-    "seconds": 8096,
-    "title": "Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 1",
+    "seconds": 9355,
+    "title": "Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 2 (complete)",
     "uploader": "Buckii",
-    "url": "https://www.youtube.com/watch?v=F1DaW7JG8p4",
-    "views": 66,
+    "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
+    "views": 25,
     "rejected": [],
-    "upload_date": "20260322"
+    "upload_date": "20260323"
    },
    {
     "seconds": 9829,
@@ -5248,28 +5248,6 @@
     "url": "https://www.youtube.com/watch?v=uI5xzcXjQVM",
     "views": "9",
     "rejected": []
-   },
-   {
-    "seconds": 10054,
-    "title": "Arknights Endfield 1.1 Main Story - Full Chapter 2 Process 3 Full Playthrough (No Commentary)",
-    "uploader": "Fizlen",
-    "url": "https://www.youtube.com/watch?v=OvVlFTJPC_U",
-    "views": 172,
-    "rejected": [],
-    "upload_date": "20260313",
-    "runtime": 10830,
-    "measured": "chapter-markers",
-    "parts": {
-     "Unexpected Attack": 682,
-     "Deep in the Mire": 1120,
-     "The Flow Splits Course": 2473,
-     "Surging From a Withered Spring": 645,
-     "A River Restless in Still Winds": 684,
-     "Another Wave Comes Crashing In": 1072,
-     "Ripples Spread Throughout the Flow": 328,
-     "Purity Reveals the Stubborn Stone": 1996,
-     "'Twas One River That Gave Us Drink": 1054
-    }
    },
    {
     "seconds": 10322,
@@ -5309,6 +5287,28 @@
     "views": 208,
     "rejected": [],
     "upload_date": "20260312"
+   },
+   {
+    "seconds": 10830,
+    "title": "Arknights Endfield 1.1 Main Story - Full Chapter 2 Process 3 Full Playthrough (No Commentary)",
+    "uploader": "Fizlen",
+    "url": "https://www.youtube.com/watch?v=OvVlFTJPC_U",
+    "views": 172,
+    "rejected": [],
+    "upload_date": "20260313",
+    "runtime": 10830,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 682,
+     "Deep in the Mire": 1120,
+     "The Flow Splits Course": 2473,
+     "Surging From a Withered Spring": 1421,
+     "A River Restless in Still Winds": 684,
+     "Another Wave Comes Crashing In": 1072,
+     "Ripples Spread Throughout the Flow": 328,
+     "Purity Reveals the Stubborn Stone": 1996,
+     "'Twas One River That Gave Us Drink": 1054
+    }
    },
    {
     "seconds": 10891,
@@ -5389,17 +5389,17 @@
   "stats": {
    "n": 13,
    "median": 182,
-   "low": 135,
+   "low": 156,
    "high": 209,
-   "q1": 170,
+   "q1": 174,
    "q3": 202,
-   "trimmed_mean": 185,
+   "trimmed_mean": 186,
    "measured": 3,
    "parts": {
     "Unexpected Attack": 11,
     "Deep in the Mire": 18,
     "The Flow Splits Course": 41,
-    "Surging From a Withered Spring": 15,
+    "Surging From a Withered Spring": 24,
     "A River Restless in Still Winds": 11,
     "Another Wave Comes Crashing In": 18,
     "Ripples Spread Throughout the Flow": 6,
@@ -6021,7 +6021,7 @@
     ]
    },
    {
-    "seconds": 2708,
+    "seconds": 4029,
     "title": "Arknights Endfield Chapter 2: Wrothful Tide ( Process 5 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=S0L0U8y8Ww0",
@@ -6032,7 +6032,7 @@
     "measured": "chapter-markers",
     "parts": {
      "Thus Rise the Wave and Wind": 504,
-     "Tremors of the Crashing Tide": 851,
+     "Tremors of the Crashing Tide": 2172,
      "Where Friendship Was Made": 1353
     }
    },
@@ -6378,22 +6378,6 @@
   ],
   "kept": [
    {
-    "seconds": 2708,
-    "title": "Arknights Endfield Chapter 2: Wrothful Tide ( Process 5 )",
-    "uploader": "TheWayCafe Productions",
-    "url": "https://www.youtube.com/watch?v=S0L0U8y8Ww0",
-    "views": 232,
-    "rejected": [],
-    "upload_date": "20260504",
-    "runtime": 4029,
-    "measured": "chapter-markers",
-    "parts": {
-     "Thus Rise the Wave and Wind": 504,
-     "Tremors of the Crashing Tide": 851,
-     "Where Friendship Was Made": 1353
-    }
-   },
-   {
     "seconds": 3208,
     "title": "Wrothful Tide - Chapter II: Process V (Full Main Story) | Arknights: Endfield 1.2",
     "uploader": "Sir Patty",
@@ -6521,6 +6505,22 @@
     "parts": {}
    },
    {
+    "seconds": 4029,
+    "title": "Arknights Endfield Chapter 2: Wrothful Tide ( Process 5 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=S0L0U8y8Ww0",
+    "views": 232,
+    "rejected": [],
+    "upload_date": "20260504",
+    "runtime": 4029,
+    "measured": "chapter-markers",
+    "parts": {
+     "Thus Rise the Wave and Wind": 504,
+     "Tremors of the Crashing Tide": 2172,
+     "Where Friendship Was Made": 1353
+    }
+   },
+   {
     "seconds": 4371,
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
     "uploader": "Admiralvic",
@@ -6544,19 +6544,19 @@
   ],
   "stats": {
    "n": 15,
-   "median": 63,
-   "low": 45,
+   "median": 64,
+   "low": 53,
    "high": 80,
-   "q1": 58,
+   "q1": 60,
    "q3": 66,
-   "trimmed_mean": 63,
+   "trimmed_mean": 64,
    "measured": 6,
    "parts": {
     "Thus Rise the Wave and Wind": 6,
-    "Tremors of the Crashing Tide": 33,
+    "Tremors of the Crashing Tide": 35,
     "Where Friendship Was Made": 21
    },
-   "drift": 0.0
+   "drift": 0.016
   }
  },
  {
@@ -8604,7 +8604,7 @@
     ]
    },
    {
-    "seconds": 9129,
+    "seconds": 11199,
     "title": "Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
     "uploader": "Admiralvic",
     "url": "https://www.youtube.com/watch?v=AsqJrGqwglQ",
@@ -8618,7 +8618,7 @@
      "Learn of Rise and Fall": 1704,
      "Witness the Game Unfold": 2176,
      "See Through the Self": 2453,
-     "Paint with Fresh Ink": 328
+     "Paint with Fresh Ink": 2398
     }
    },
    {
@@ -9744,24 +9744,6 @@
   ],
   "kept": [
    {
-    "seconds": 9129,
-    "title": "Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
-    "uploader": "Admiralvic",
-    "url": "https://www.youtube.com/watch?v=AsqJrGqwglQ",
-    "views": 61,
-    "rejected": [],
-    "upload_date": "20261015",
-    "runtime": 11199,
-    "measured": "chapter-markers",
-    "parts": {
-     "Enter the Painted World": 2468,
-     "Learn of Rise and Fall": 1704,
-     "Witness the Game Unfold": 2176,
-     "See Through the Self": 2453,
-     "Paint with Fresh Ink": 328
-    }
-   },
-   {
     "seconds": 10222,
     "title": "Sanctuary from the Rift - Chapter II: Process VIII (Full Story) | Arknights: Endfield 1.6",
     "uploader": "Sir Patty",
@@ -9786,6 +9768,24 @@
     "url": "https://www.youtube.com/watch?v=ybdGBNwFN0E",
     "views": "8",
     "rejected": []
+   },
+   {
+    "seconds": 11199,
+    "title": "Arknights Endfield 1.6 - Main Story Quest Full Playthrough / Walkthrough (No Commentary)",
+    "uploader": "Admiralvic",
+    "url": "https://www.youtube.com/watch?v=AsqJrGqwglQ",
+    "views": 61,
+    "rejected": [],
+    "upload_date": "20261015",
+    "runtime": 11199,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2468,
+     "Learn of Rise and Fall": 1704,
+     "Witness the Game Unfold": 2176,
+     "See Through the Self": 2453,
+     "Paint with Fresh Ink": 2398
+    }
    },
    {
     "seconds": 11213,
@@ -10011,7 +10011,7 @@
   "stats": {
    "n": 28,
    "median": 194,
-   "low": 152,
+   "low": 170,
    "high": 321,
    "q1": 188,
    "q3": 207,

@@ -18,7 +18,7 @@ from the dark Hub Base to the Æther Test Site under the rift.
 | Process I | The Broken Lands | 2 h 38 min | 1 h 59 min - 3 h 05 min | 14 | low |
 | Process II | The Turbid Heavens | 59 min | 32 min - 1 h 18 min | 11 | low |
 | Process III | Path of Ascension | 2 h 37 min | 2 h 14 min - 2 h 51 min | 14 | medium |
-| Process IV | Smoking Embers | 1 h 46 min | 1 h 35 min - 2 h 03 min | 12 | medium |
+| Process IV | Smoking Embers | 1 h 46 min | 1 h 35 min - 2 h 06 min | 12 | medium |
 <!--/gen-->
 
 **Total: <!--f:total-->8 h 28 min<!--/f-->**
@@ -231,12 +231,12 @@ and the secret meeting the four factions call.
 <!--gen:stats act="Process IV"-->
 
 - **Estimated length:** 1 h 46 min
-- **Sampled range:** 1 h 35 min to 2 h 03 min for the middle half (full spread 1 h 28 min to 2 h 07 min) across 12 playthrough uploads (33 further candidates screened out)
+- **Sampled range:** 1 h 35 min to 2 h 06 min for the middle half (full spread 1 h 28 min to 2 h 17 min) across 12 playthrough uploads (33 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** Zeroth Directive (1.0)
 - **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 5 of 12 uploads
-- **Quest parts (9):** Entering the Endgame (6 min); Counterstrike Brewing (9 min); Scaldings of Utjug; Frontline Rush (9 min); Undying Cinders (20 min); Temporary Peace (7 min); Mysterious Signal (21 min); Conference of the Four; Work Preparation
+- **Quest parts (9):** Entering the Endgame (6 min); Counterstrike Brewing (9 min); Scaldings of Utjug; Frontline Rush (9 min); Undying Cinders (20 min); Temporary Peace (7 min); Mysterious Signal (24 min); Conference of the Four; Work Preparation
 <!--/gen-->
 
 <!--gen:evidence act="Process IV"-->
@@ -252,11 +252,11 @@ and the secret meeting the four factions call.
 | 1 h 41 min | Arknights Endfield \| Chapter 1, Process 4 \| Smoking Embers (No Commentary) | Mayovanimates | ~47 | n/a | <https://www.youtube.com/watch?v=vwyVXorj3_g> |
 | 1 h 44 min | Arknights: Endfield - Chapter I Process IV: Smoking Embers (English dub) | simplephobia | 6 | 2026-03-01 | <https://www.youtube.com/watch?v=hNY4jwigfXE> |
 | 1 h 49 min | [Arknights: Endfield] Chapter 1: Process 4 Smoking Embers \| Full Story Playthrough | EllooTV | 12 | 2026-05-14 | <https://www.youtube.com/watch?v=Prs3chVbMQE> |
-| 1 h 50 min | Arknights Endfield Chapter 1: Smoking Embers Full Quest ( Process 4 ) | TheWayCafe Productions | 161 | 2026-02-08 | <https://www.youtube.com/watch?v=0922YjgWsL4> |
 | 2 h 01 min | Arknights Endfield - Main Story Chapter 1 Part 4 Smoking Embers - Entering the Endgame \| Version 1.0 | MaL AnimsGaming | 10 | 2026-08-10 | <https://www.youtube.com/watch?v=F8KyDPMzF2Q> |
 | 2 h 04 min | Smoking Embers — Chapter 1, Process 4 — Arknights Endfield | RPG Plays TV | 5 | 2026-05-02 | <https://www.youtube.com/watch?v=5eSIVdJ_yGE> |
 | 2 h 07 min | Smoking Embers Main Mission \| Arknights: Endfield Chapter 1 prgogres 4 Gameplay Walkthrough | Life is Wakaranai | 118 | 2026-01-28 | <https://www.youtube.com/watch?v=NWUenrFSJ8k> |
 | 2 h 07 min | Arknights: Endfield Main Story – Chapter 1 Process 4 Walkthrough \| Valley IV (JP Dub) | Mikiyuki | ~171 | n/a | <https://www.youtube.com/watch?v=fUYlvHXOUoY> |
+| 2 h 17 min | Arknights Endfield Chapter 1: Smoking Embers Full Quest ( Process 4 ) | TheWayCafe Productions | 161 | 2026-02-08 | <https://www.youtube.com/watch?v=0922YjgWsL4> |
 
 </details>
 <!--/gen-->
