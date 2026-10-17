@@ -150,8 +150,12 @@ chapter markers reached about two thirds of the candidates
 before YouTube's bot check cut it off.
 The rest keep the search listing's rounded view counts,
 marked with a `~`, and read "n/a" for their upload date.
-The estimates themselves are unaffected:
-they come from the runtimes, which the harvest already had.
+This reaches the estimates only in part.
+An enriched upload whose chapter markers locate its chapter
+is measured from those markers,
+counting the battles and story trails its uploader marks between stages,
+and every other upload is measured on its whole runtime,
+which the harvest already had.
 - The arcs are the wiki's grouping of the story and mean nothing mechanically:
 nothing in the game gates on an arc boundary,
 and the report files chapters by arc only because the wiki does.
