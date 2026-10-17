@@ -10135,5 +10135,519 @@
    "parts": {},
    "drift": null
   }
+ },
+ {
+  "chapter_id": "planarcadia",
+  "chapter_title": "Planarcadia",
+  "act_label": "Mission 7",
+  "act_title": "Dance With the Beast Before Moonrise",
+  "wiki_page": "Dance With the Beast Before Moonrise",
+  "slug": "planarcadia_Mission_7",
+  "candidates": [
+   {
+    "seconds": 12386,
+    "title": "Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest | Full Playthrough",
+    "uploader": "MilkyWayJono",
+    "url": "https://www.youtube.com/watch?v=z0nmpxHgcSc",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 12843,
+    "title": "\u300eHonkai Star Rail\u300f4.6 ''Dance With The Beast Before Moonrise'' \u2742 New Story Quest Full Walkthrough",
+    "uploader": "HEUBIOUS",
+    "url": "https://www.youtube.com/watch?v=qkoLqUEOyVg",
+    "views": "35",
+    "rejected": []
+   },
+   {
+    "seconds": 7486,
+    "title": "HSR Planarcadia Chapter 7 Dance With the Beast Before Moonrise Part1",
+    "uploader": "LordBlackFrost90",
+    "url": "https://www.youtube.com/watch?v=wHigkgHxMuo",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 11883,
+    "title": "Dance With the Beast Before Moonrise - Act V: Part VII (Full story) | Honkai: Star Rail 4.6",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=QYOaJH2Rnbg",
+    "views": "8",
+    "rejected": []
+   },
+   {
+    "seconds": 9469,
+    "title": "Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise)",
+    "uploader": "Stanley Quach",
+    "url": "https://www.youtube.com/watch?v=92ryybiq33s",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 18260,
+    "title": "Dancing With the Beast Before Moonrise with Pearl in Honkai: Star Rail (Finale).",
+    "uploader": "TheXGamer",
+    "url": "https://www.youtube.com/watch?v=_tUWng3xpVE",
+    "views": "10",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 9149,
+    "title": "Dancing With the Beast Before Moonrise with Pearl in Honkai: Star Rail.",
+    "uploader": "TheXGamer",
+    "url": "https://www.youtube.com/watch?v=eceTGAcmQIE",
+    "views": "17",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 12625,
+    "title": "Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LwBVHHywpbs",
+    "views": "27864",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 255,
+    "title": "Yabuli - Boss Batlte & Cutscene | Honkai: Star Rail 4.6",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=mL2XGsxjH_w",
+    "views": "11",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11450,
+    "title": "HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=TV-XFcfKUn8",
+    "views": "11015",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 201,
+    "title": "Aha & Trailblazer Caelus awaken Evanescia the Evanefox - Honkai Star Rail 4.6",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LvZc7pm4Udk",
+    "views": "4300",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 113,
+    "title": "Aha, Trailblazer Caelus, Ashveil & Kuchiba vs Yabuli - Honkai Star Rail 4.6",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=KDJWGT3clV4",
+    "views": "24639",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11335,
+    "title": "Version 4.6 Trailblaze Mission Full Story | Dance With the Beast Before Moonrise | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=z748dGocYDU",
+    "views": "963",
+    "rejected": []
+   },
+   {
+    "seconds": 878,
+    "title": "Trailblaze Mission \"Dance With the Beast Before Moonrise\" 1 Treasure Guide \u3010Honkai: Star Rail 4.6\u3011",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=vbct7RsAuew",
+    "views": "323",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1943,
+    "title": "Dance with the Beast Before Moonrise FULL TRAILBLAZE MISSION 4.6 Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=TE2FR7bGxcA",
+    "views": "365",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 12188,
+    "title": "Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story)",
+    "uploader": "Major",
+    "url": "https://www.youtube.com/watch?v=hN_fnn1EGg8",
+    "views": "6",
+    "rejected": []
+   },
+   {
+    "seconds": 15340,
+    "title": "It Comes Full Circle | Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest",
+    "uploader": "FervidTwo Gaming",
+    "url": "https://www.youtube.com/watch?v=JWW4NsCI6OA",
+    "views": "12",
+    "rejected": []
+   },
+   {
+    "seconds": 217,
+    "title": "All cutscenes from the Honkai Star Rail 4.6 Trailblaze Mission: Dance With the Beast Before Moonrise",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=IA8nOC69gQ0",
+    "views": "83",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 236,
+    "title": "Version 4.6 Trailer OST - Dance With the Beast Before Moonrise | Honkai: Star Rail",
+    "uploader": "Pom-Pom\u2019s Workstation",
+    "url": "https://www.youtube.com/watch?v=SCMOFMK52SQ",
+    "views": "12963",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 112,
+    "title": "Battle against Yabuli cutscenes | Dance With the Beast Before Moonrise | Honkai: Star Rail 4.6",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=i6IOP_-baTo",
+    "views": "66",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 7178,
+    "title": "Honkai: Star Rail 4.6 \u2014 Trailblaze Mission \"Dance With the Beast Before Moonrise\" Full Gameplay",
+    "uploader": "TapoPlays",
+    "url": "https://www.youtube.com/watch?v=Dx9H_8ZHDfs",
+    "views": "2",
+    "rejected": []
+   },
+   {
+    "seconds": 68,
+    "title": "Silver wolf get her revenge | Dance With the Beast Before Moonrise | Honkai Star Rail 4.6",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=-tTFshFpNY8",
+    "views": "30",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 58,
+    "title": "The Phantasmoon Games commence once more | Dance With the Beast Before Moonrise | HSR 4.6",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=J4CUHGnVyKY",
+    "views": "70",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 285,
+    "title": "The truth about AHA | Dance With the Beast Before Moonrise | Honkai Star Rail 4.6",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=-GKVjnlrkl0",
+    "views": "12",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 12933,
+    "title": "Honkai Star Rail 4.6 Planarcadia Trailblaze Story Quest | HSR JP Voice",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=_AU5-Hu7iHM",
+    "views": "373",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 92,
+    "title": "Phoenix Illusion Demon Fist & Mirror-Like Serenity | Honkai: Star Rail 4.6 Achievements",
+    "uploader": "Sneaky Sheep",
+    "url": "https://www.youtube.com/watch?v=_SEcm6o7RFc",
+    "views": "2017",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 28758,
+    "title": "Honkai Star Rail 4.0 Planarcadia - Trailblaze Story Quest Full Walkthrough (HSR 4.0)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LIXpOpDSKNY",
+    "views": 165363,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260213"
+   },
+   {
+    "seconds": 2336,
+    "title": "Honkai: Star Rail 4.6 \u2013 Good Hunting | Trailblaze Mission",
+    "uploader": "FantasyGamer93",
+    "url": "https://www.youtube.com/watch?v=WA6bc0wpTV4",
+    "views": "320",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 12311,
+    "title": "HSR 4.6 Trailblaze Missions | Full Walkthrough (Dance With the Beast Before Moonrise)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=r_t2u8z0w8o",
+    "views": "152",
+    "rejected": []
+   },
+   {
+    "seconds": 13809,
+    "title": "Honkai Star Rail 4.6 Trailblaze Quest (full walkthrough)",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=fbmOu3b65nA",
+    "views": "54",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11676,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis - Full NEW Trailblaze Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=XJ312xMAY78",
+    "views": 11855,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 11472,
+    "title": "HSR 4.5 Planarcadia Main Story - Full Playthrough (Honkai Star Rail)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=jTOaNTG6Ops",
+    "views": 44601,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12205,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=4lsrtrQcOe0",
+    "views": 46172,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12386,
+    "title": "Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest | Full Playthrough",
+    "uploader": "Jonozoic",
+    "url": "https://www.youtube.com/watch?v=eKPLA-tsZa4",
+    "views": "828",
+    "rejected": []
+   },
+   {
+    "seconds": 12621,
+    "title": "Honkai: Star Rail 4.6 \u2014 Dance With the Beast Before Moonrise (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=LjjYwBtOVBA",
+    "views": "184",
+    "rejected": []
+   },
+   {
+    "seconds": 12578,
+    "title": "HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=EyOPNmtubwQ",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 11062,
+    "title": "\"Dance With the Beast Before Moonrise\u201d (4.5 Full Quest) | Honkai Starrail",
+    "uploader": "Glitter Games!",
+    "url": "https://www.youtube.com/watch?v=R0KtVIn53NE",
+    "views": "66",
+    "rejected": []
+   },
+   {
+    "seconds": 16393,
+    "title": "Let's Play Honkai Star Rail 4.6 - Dance With the Beast Before Moonrise",
+    "uploader": "TheWayCafe",
+    "url": "https://www.youtube.com/watch?v=zBgwIPmgY40",
+    "views": "6900",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 5603,
+    "title": "HSR 4.6 Full Quest",
+    "uploader": "Starryrains",
+    "url": "https://www.youtube.com/watch?v=qQ4MXe86DB4",
+    "views": "7",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 14088,
+    "title": "Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=lC17NurFrs4",
+    "views": "12",
+    "rejected": []
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 7178,
+    "title": "Honkai: Star Rail 4.6 \u2014 Trailblaze Mission \"Dance With the Beast Before Moonrise\" Full Gameplay",
+    "uploader": "TapoPlays",
+    "url": "https://www.youtube.com/watch?v=Dx9H_8ZHDfs",
+    "views": "2",
+    "rejected": []
+   },
+   {
+    "seconds": 9469,
+    "title": "Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise)",
+    "uploader": "Stanley Quach",
+    "url": "https://www.youtube.com/watch?v=92ryybiq33s",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 11062,
+    "title": "\"Dance With the Beast Before Moonrise\u201d (4.5 Full Quest) | Honkai Starrail",
+    "uploader": "Glitter Games!",
+    "url": "https://www.youtube.com/watch?v=R0KtVIn53NE",
+    "views": "66",
+    "rejected": []
+   },
+   {
+    "seconds": 11335,
+    "title": "Version 4.6 Trailblaze Mission Full Story | Dance With the Beast Before Moonrise | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=z748dGocYDU",
+    "views": "963",
+    "rejected": []
+   },
+   {
+    "seconds": 11883,
+    "title": "Dance With the Beast Before Moonrise - Act V: Part VII (Full story) | Honkai: Star Rail 4.6",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=QYOaJH2Rnbg",
+    "views": "8",
+    "rejected": []
+   },
+   {
+    "seconds": 12188,
+    "title": "Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story)",
+    "uploader": "Major",
+    "url": "https://www.youtube.com/watch?v=hN_fnn1EGg8",
+    "views": "6",
+    "rejected": []
+   },
+   {
+    "seconds": 12311,
+    "title": "HSR 4.6 Trailblaze Missions | Full Walkthrough (Dance With the Beast Before Moonrise)",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=r_t2u8z0w8o",
+    "views": "152",
+    "rejected": []
+   },
+   {
+    "seconds": 12386,
+    "title": "Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest | Full Playthrough",
+    "uploader": "MilkyWayJono",
+    "url": "https://www.youtube.com/watch?v=z0nmpxHgcSc",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 12386,
+    "title": "Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest | Full Playthrough",
+    "uploader": "Jonozoic",
+    "url": "https://www.youtube.com/watch?v=eKPLA-tsZa4",
+    "views": "828",
+    "rejected": []
+   },
+   {
+    "seconds": 12578,
+    "title": "HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=EyOPNmtubwQ",
+    "views": "4",
+    "rejected": []
+   },
+   {
+    "seconds": 12621,
+    "title": "Honkai: Star Rail 4.6 \u2014 Dance With the Beast Before Moonrise (Full Main Story Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=LjjYwBtOVBA",
+    "views": "184",
+    "rejected": []
+   },
+   {
+    "seconds": 12843,
+    "title": "\u300eHonkai Star Rail\u300f4.6 ''Dance With The Beast Before Moonrise'' \u2742 New Story Quest Full Walkthrough",
+    "uploader": "HEUBIOUS",
+    "url": "https://www.youtube.com/watch?v=qkoLqUEOyVg",
+    "views": "35",
+    "rejected": []
+   },
+   {
+    "seconds": 14088,
+    "title": "Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=lC17NurFrs4",
+    "views": "12",
+    "rejected": []
+   },
+   {
+    "seconds": 15340,
+    "title": "It Comes Full Circle | Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest",
+    "uploader": "FervidTwo Gaming",
+    "url": "https://www.youtube.com/watch?v=JWW4NsCI6OA",
+    "views": "12",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 14,
+   "median": 206,
+   "low": 120,
+   "high": 256,
+   "q1": 188,
+   "q3": 211,
+   "trimmed_mean": 202,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
  }
 ]

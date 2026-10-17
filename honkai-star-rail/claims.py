@@ -3,8 +3,8 @@
 The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
-from assertions import (count_above, is_extreme, largest_chapter, none_above,
-                        rank_at_most, total_ratio_between)
+from assertions import (count_above, is_extreme, largest_chapter, median_between,
+                        none_above, rank_at_most, total_ratio_between)
 
 CLAIMS = [
     total_ratio_between("herta", ["jarilo"], 0.2, 0.6,
@@ -45,4 +45,10 @@ CLAIMS = [
                  scope="chapter"),
     is_extreme("planarcadia", "Mission 6", "min",
                "*To Roll the Stars in Astropolis* is the shortest, at {shortest_len}"),
+    count_above("planarcadia", 240, 5,
+                "the two Astropolis missions are the only ones under four hours"),
+    median_between("planarcadia", "Mission 6", 0, 240,
+                   "the two Astropolis missions are the only ones under four hours"),
+    median_between("planarcadia", "Mission 7", 0, 240,
+                   "the two Astropolis missions are the only ones under four hours"),
 ]

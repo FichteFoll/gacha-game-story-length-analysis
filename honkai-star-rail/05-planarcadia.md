@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.5 | **Entries:** 6 | **Estimated chapter length: 31 h 13 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 39 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -12,6 +12,8 @@ and Elation turns out to have a bill attached.
 When the husk of Voracity wakes,
 the Express carries the painting's refugees to Astropolis,
 where the IPC votes on whether Planarcadia is worth saving.
+To save it, Nihilux restarts the Phantasmoon Games as a hunt for the Voracity,
+and the bait turns up in an IPC research institute.
 
 ## At a glance
 
@@ -24,16 +26,20 @@ where the IPC votes on whether Planarcadia is worth saving.
 | Mission 4 | The Lethe Below the Living | 4 h 11 min | 3 h 49 min - 4 h 25 min | 20 | high |
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 24 min | 4 h 13 min - 4 h 42 min | 19 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 19 min | 3 h 06 min - 3 h 27 min | 18 | high |
+| Mission 7 | Dance With the Beast Before Moonrise | 3 h 26 min | 3 h 08 min - 3 h 31 min | 14 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->31 h 13 min<!--/f-->**
+**Total: <!--f:total-->34 h 39 min<!--/f-->**
 
 ## Pacing
 
 The opening mission is the longest, at <!--f:longest_len-->8 h 01 min<!--/f-->,
 followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 38 min<!--/f-->.
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
-is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->.
+is the shortest, at <!--f:shortest_len-->3 h 19 min<!--/f-->,
+and *Dance With the Beast Before Moonrise*, the second mission set on Astropolis,
+follows at <!--f:len_Mission_7-->3 h 26 min<!--/f-->:
+the two Astropolis missions are the only ones under four hours.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
 and its figures the least settled.
@@ -300,9 +306,57 @@ and Nihilux turns out to be Aha.
 </details>
 <!--/gen-->
 
+<!--gen:act-heading act="Mission 7"-->
+### Mission 7 - [Dance With the Beast Before Moonrise](https://honkai-star-rail.fandom.com/wiki/Dance_With_the_Beast_Before_Moonrise)
+<!--/gen-->
+
+Nihilux needs bait to lure the Voracity,
+and Yabuli's Life Sciences Institute turns out to build its imagenae
+from leviathan flesh and blood.
+Ashveil and Kuchiba, sent by Pearl, take the case from the inside,
+until Yabuli gorges on Leviathan Essence and has to be put down.
+Asat Pramad's Die becomes the bait instead,
+and a gondola carries everyone back to Planarcadia
+for the grandest Phantasmoon Games the painting has seen.
+<!--gen:stats act="Mission 7"-->
+
+- **Estimated length:** 3 h 26 min
+- **Sampled range:** 3 h 08 min to 3 h 31 min for the middle half (full spread 2 h 00 min to 4 h 16 min) across 14 playthrough uploads (26 further candidates screened out)
+- **Confidence:** high
+- **Level gate:** -
+- **Released in:** 4.6
+- **Quest parts (5):** The Theatre and Its Double; Knowledge, Silence, Passing By; The Unselfish Gene; Artificial Paradise & Fabricated Hell; Good Hunting
+<!--/gen-->
+
+<!--gen:evidence act="Mission 7"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 00 min | Honkai: Star Rail 4.6 — Trailblaze Mission "Dance With the Beast Before Moonrise" Full Gameplay | TapoPlays | ~2 | n/a | <https://www.youtube.com/watch?v=Dx9H_8ZHDfs> |
+| 2 h 38 min | Honkai Star Rail - Story pt. 53 (Dance With the Beast Before Moonrise) | Stanley Quach | ~4 | n/a | <https://www.youtube.com/watch?v=92ryybiq33s> |
+| 3 h 04 min | "Dance With the Beast Before Moonrise” (4.5 Full Quest) \| Honkai Starrail | Glitter Games! | ~66 | n/a | <https://www.youtube.com/watch?v=R0KtVIn53NE> |
+| 3 h 09 min | Version 4.6 Trailblaze Mission Full Story \| Dance With the Beast Before Moonrise \| Honkai Star Rail | Noxxis Gaming | ~963 | n/a | <https://www.youtube.com/watch?v=z748dGocYDU> |
+| 3 h 18 min | Dance With the Beast Before Moonrise - Act V: Part VII (Full story) \| Honkai: Star Rail 4.6 | Sir Patty | ~8 | n/a | <https://www.youtube.com/watch?v=QYOaJH2Rnbg> |
+| 3 h 23 min | Honkai: Star Rail: 4.6 Trailblaze Mission - Dance With the Beast Before Moonrise (Full Story) | Major | ~6 | n/a | <https://www.youtube.com/watch?v=hN_fnn1EGg8> |
+| 3 h 25 min | HSR 4.6 Trailblaze Missions \| Full Walkthrough (Dance With the Beast Before Moonrise) | Arie seventline | ~152 | n/a | <https://www.youtube.com/watch?v=r_t2u8z0w8o> |
+| 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | MilkyWayJono | ~4 | n/a | <https://www.youtube.com/watch?v=z0nmpxHgcSc> |
+| 3 h 26 min | Honkai Star Rail 4.6 - Dance with the Beast Before Moonrise - Main Story Quest \| Full Playthrough | Jonozoic | ~828 | n/a | <https://www.youtube.com/watch?v=eKPLA-tsZa4> |
+| 3 h 30 min | HONKAI: STAR RAIL 4.6 New Quest : Dance With the Beast Before Moonrise | Izom F2P Gaming | ~4 | n/a | <https://www.youtube.com/watch?v=EyOPNmtubwQ> |
+| 3 h 30 min | Honkai: Star Rail 4.6 — Dance With the Beast Before Moonrise (Full Main Story Quest) | BSS Gaming | ~184 | n/a | <https://www.youtube.com/watch?v=LjjYwBtOVBA> |
+| 3 h 34 min | 『Honkai Star Rail』4.6 ''Dance With The Beast Before Moonrise'' ❂ New Story Quest Full Walkthrough | HEUBIOUS | ~35 | n/a | <https://www.youtube.com/watch?v=qkoLqUEOyVg> |
+| 3 h 55 min | Honkai: Star Rail - Dance With the Beast Before Moonrise - Complete Story Quest | CorporalOdin2 | ~12 | n/a | <https://www.youtube.com/watch?v=lC17NurFrs4> |
+| 4 h 16 min | It Comes Full Circle \| Honkai Star Rail 4.6 [Dance With the Beast Before Moonrise] Full Quest | FervidTwo Gaming | ~12 | n/a | <https://www.youtube.com/watch?v=JWW4NsCI6OA> |
+
+</details>
+<!--/gen-->
+
 ## Sources
 
 - Questline structure, mission titles, quest parts and Level gates: [Planarcadia](https://honkai-star-rail.fandom.com/wiki/Planarcadia) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
 - Where *To Roll the Stars in Astropolis* is filed and set: [To Roll the Stars in Astropolis](https://honkai-star-rail.fandom.com/wiki/To_Roll_the_Stars_in_Astropolis), which places it on Planarcadia and [Astropolis](https://honkai-star-rail.fandom.com/wiki/Astropolis), and the Trailblaze Mission page, which lists it under Planarcadia/Astropolis.
+- Where *Dance With the Beast Before Moonrise* is filed and set: [Dance With the Beast Before Moonrise](https://honkai-star-rail.fandom.com/wiki/Dance_With_the_Beast_Before_Moonrise), which files it as a Planarcadia chapter taking place on Astropolis, and the Trailblaze Mission page, which lists it under Planarcadia/Astropolis.
+- Story of *Dance With the Beast Before Moonrise*: the mission summaries on the pages of its quest parts, starting with [The Theatre and Its Double](https://honkai-star-rail.fandom.com/wiki/The_Theatre_and_Its_Double).
 - Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.
