@@ -4,7 +4,8 @@
 **Chapters:** 13 - 17 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 28 h 38 min**
 <!--/gen-->
 
-Lviv, Project Eden, and the longest stretch of story in the game.
+Lviv, Project Eden, and the longest stretch of story in the game
+until *Chiral Redundancy*.
 *Corposant* alone spans Chapters 13 to 15,
 and the game numbered its middle one 14 rather than splitting the difference,
 which is why Part 1.5 is a chapter here like any other.
@@ -26,8 +27,10 @@ which is why Part 1.5 is a chapter here like any other.
 
 ## Pacing
 
-This is by a wide margin the largest volume in the report,
-and it holds the largest chapters in the game.
+This is the second largest volume in the report,
+behind only the fifth,
+and Chapters 15 and 16 are the longest chapters in the game
+after the two halves of *Chiral Redundancy*.
 Chapter 13 opens it at about the length the previous volume was running,
 then Chapters 14, 15 and 16 all pass six hours,
 three consecutive entries longer than anything published before them.
@@ -125,7 +128,7 @@ Lviv contaminated as the residue.
 A secret raid, Kryuger taken hostage,
 and District Seven's Central Army Group arriving over the top of all of it.
 <!--gen:stats act="Chapter 15"-->
-The single longest chapter in the game.
+One of the three longest chapters in the game.
 
 - **Estimated length:** 7 h 17 min
 - **Sampled range:** 5 h 48 min to 9 h 57 min across 7 playthrough uploads (30 further candidates screened out)
@@ -161,7 +164,6 @@ A week of running across the contamination zone with bounty hunters behind
 and Helena's health failing,
 until a call for help from the Doll community turns into somewhere to stop.
 <!--gen:stats act="Chapter 16"-->
-One of the three longest chapters in the game.
 
 - **Estimated length:** 7 h 08 min
 - **Sampled range:** 4 h 21 min to 10 h 54 min across 7 playthrough uploads (26 further candidates screened out)

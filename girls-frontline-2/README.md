@@ -4,7 +4,7 @@ Duration estimates for every numbered main story chapter of *Girls' Frontline 2:
 from the opening simulation to the latest campaign the wiki gives a number,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole numbered main story: <!--f:grand_total-->103 h 13 min<!--/f-->** (<!--f:n_report_entries-->25<!--/f--> chapters counting the six filed between two whole numbers, measured against <!--f:n_videos-->238<!--/f--> accepted uploads out of <!--f:n_candidates-->611<!--/f--> candidates).
+**Total for the whole numbered main story: <!--f:grand_total-->123 h 31 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> chapters counting the six filed between two whole numbers, measured against <!--f:n_videos-->255<!--/f--> accepted uploads out of <!--f:n_candidates-->765<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies | 6.5 - 8.7 | not recorded | 6 | 19 h 42 min | [02-sojourners-to-bitter-thorns.md](02-sojourners-to-bitter-thorns.md) |
 | Volume 3: Aphelion to Intertwined Assault | 9 - 12.5 | not recorded | 5 | 21 h 59 min | [03-aphelion-to-intertwined-assault.md](03-aphelion-to-intertwined-assault.md) |
 | Volume 4: Corposant to Antiparallel | 13 - 17 | not recorded | 5 | 28 h 38 min | [04-corposant-to-antiparallel.md](04-corposant-to-antiparallel.md) |
-| Volume 5: Dawnforger to Needy Catgirl Overload | 18 - 19.5 | not recorded | 3 | 16 h 20 min | [05-dawnforger-to-needy-catgirl-overload.md](05-dawnforger-to-needy-catgirl-overload.md) |
+| Volume 5: Dawnforger to Chiral Redundancy | 18 - 21 | not recorded | 5 | 36 h 38 min | [05-dawnforger-to-chiral-redundancy.md](05-dawnforger-to-chiral-redundancy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -24,11 +24,11 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
+| longest | Volume 5, Chapter 21: Chiral Redundancy - Part 2 | 11 h 15 min |
+| longest | Volume 5, Chapter 20: Chiral Redundancy - Part 1 | 9 h 03 min |
 | longest | Volume 4, Chapter 15: Corposant - Part 2 | 7 h 17 min |
 | longest | Volume 4, Chapter 16: Antiparallel - Part 1 | 7 h 08 min |
 | longest | Volume 5, Chapter 19: Dawnforger - Part 2 | 6 h 27 min |
-| longest | Volume 4, Chapter 14: Corposant - Part 1.5 | 6 h 09 min |
-| longest | Volume 2, Chapter 8.7: Bitter Thorns and Daisies | 5 h 40 min |
 | shortest | Volume 1, Chapter 1: Double Pendulum Simulation | 1 h 39 min |
 | shortest | Volume 2, Chapter 6.7: Sojourners of the Glass Island - Part 2 | 1 h 44 min |
 | shortest | Volume 2, Chapter 8.3: Amidst Wings of Gray | 2 h 14 min |
@@ -136,12 +136,14 @@ Beyond the limits every report in this repository shares,
 listed in the [repository README](../README.md):
 
 - **This report covers the chapters the game gives a number.**
-Two further main story campaigns have shipped,
-[Moonshroud Requiem](https://iopwiki.com/wiki/Moonshroud_Requiem) and
-[Chiral Redundancy](https://iopwiki.com/wiki/Chiral_Redundancy),
-which the wiki files under the main story with no chapter number against them,
-and a third, *Siege of Iliad*, which has only reached the Chinese server.
-None of the three is measured here.
+One further main story campaign has shipped,
+[Moonshroud Requiem](https://iopwiki.com/wiki/Moonshroud_Requiem),
+which the wiki files under the main story with no chapter number against it,
+and a second, *Siege of Iliad*, has only reached the Chinese server.
+Neither is measured here.
+[Chiral Redundancy](https://iopwiki.com/wiki/Chiral_Redundancy)
+sat in the same place until the wiki numbered it Chapters 20 and 21,
+and is measured as those two chapters.
 - **The wiki records no release version for any chapter**, and no GFL2 version
 pages exist on it at all, so the Versions column reads "not recorded"
 throughout and the harvest could not search the newest chapters
@@ -169,6 +171,8 @@ so many view counts here are the search listing's rounded figures,
 marked with a `~`, and many upload dates read "n/a".
 The estimates themselves are barely affected:
 they come from the runtimes, which the harvest already had.
+For the newest chapters, re-measured on the date below,
+the second pass fetched every candidate.
 - **Most chapters have no quest-part bullets.** The stage list is on the wiki
 for every chapter, but a stage's time can only be published
 where enough uploaders marked it out with a chapter marker,

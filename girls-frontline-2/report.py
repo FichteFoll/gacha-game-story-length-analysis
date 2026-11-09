@@ -15,6 +15,12 @@ own device, five files in chapter order cut where a campaign ends, and
 place. The README says so in as many words, because a reader is otherwise
 entitled to think the game draws the line where this report does.
 
+A volume is titled after its first and its last campaign. Volume 5 is still
+open, taking chapters as the wiki numbers them, so its title follows its
+newest campaign: when Chiral Redundancy was numbered Chapters 20 and 21 and
+joined it, "Dawnforger to Needy Catgirl Overload" became "Dawnforger to Chiral
+Redundancy" and its file was renamed to match.
+
 The wiki pages recorded here feed the renderer nothing. They record what the
 authored markdown links by hand, because a chapter's own wiki page reaches the
 renderer through `analysis.json` instead.
@@ -56,9 +62,9 @@ CHAPTERS = [
         title="Volume 4: Corposant to Antiparallel",
     ),
     dict(
-        id="v5", slug="05-dawnforger-to-needy-catgirl-overload",
-        wiki_page="GFL2 Story", region="18 - 19.5", versions="not recorded",
-        title="Volume 5: Dawnforger to Needy Catgirl Overload",
+        id="v5", slug="05-dawnforger-to-chiral-redundancy",
+        wiki_page="GFL2 Story", region="18 - 21", versions="not recorded",
+        title="Volume 5: Dawnforger to Chiral Redundancy",
     ),
 ]
 

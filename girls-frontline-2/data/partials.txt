@@ -1,4 +1,4 @@
-!\b(?:SL|SA|SS|UA|US|GA|GS|GW|CA|CS|LA|LS|BA|BS|AA|AS|VA|VS|VZ|HA|HS|PA|PS)-\d+-\d+\b
+!\b(?:SL|SA|SS|UA|US|GA|GS|GW|CA|CS|LA|LS|BA|BS|AA|AS|VA|VS|VZ|HA|HS|PA|PS|OA|OS)-\d+-\d+\b
 !\b\d{1,2}-\d{1,2}\b
 \b\d{1,2} ?/ ?\d{1,2}\b
 \[story part ?\d+\]
