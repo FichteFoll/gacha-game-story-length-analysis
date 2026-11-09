@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 4: Shaper's Ripples to Steering By Light
 
-**Chapters:** 31 - 42 | **Game versions:** Shaper's Ripples - Steering By Light | **Entries:** 12 | **Estimated volume length: 47 h 53 min**
+**Chapters:** 31 - 42 | **Game versions:** Shaper's Ripples - Steering By Light | **Entries:** 12 | **Estimated volume length: 48 h 16 min**
 <!--/gen-->
 
 The late story up to the chapter before the newest one,
@@ -23,15 +23,15 @@ and the channels that cover it publish it a stage or a stream at a time.
 | Chapter 34 | Dream till the Timeless End | 4 h 08 min | 3 h 10 min - 4 h 31 min | 4 | low |
 | Chapter 35 | Echoes Adrift | 23 min | 23 min - 23 min | 1 | low |
 | Chapter 36 | Dreams Rewound | 3 h 28 min | 2 h 19 min - 5 h 36 min | 4 | low |
-| Chapter 37 | Where Nightmares Dwell | 3 h 25 min | 2 h 30 min - 4 h 07 min | 3 | low |
+| Chapter 37 | Where Nightmares Dwell | 3 h 46 min | 3 h 25 min - 4 h 07 min | 2 | low |
 | Chapter 38 | Sightline Breach | 6 h 59 min | 5 h 28 min - 8 h 30 min | 2 | low |
 | Chapter 39 | Withering Crown | 3 h 06 min | 2 h 04 min - 3 h 48 min | 3 | low |
 | Chapter 40 | A Better Tomorrow | 5 h 19 min | 4 h 32 min - 6 h 08 min | 5 | low |
-| Chapter 41 | Homecoming Voyage | 5 h 34 min | 2 h 59 min - 7 h 29 min | 5 | low |
+| Chapter 41 | Homecoming Voyage | 5 h 36 min | 2 h 59 min - 7 h 29 min | 4 | low |
 | Chapter 42 | Steering By Light | 3 h 03 min | 2 h 39 min - 3 h 12 min | 3 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->47 h 53 min<!--/f-->**
+**Total: <!--f:total-->48 h 16 min<!--/f-->**
 
 ## Pacing
 
@@ -220,11 +220,11 @@ The second of the two chapters *Through the Tide Home* shipped.
 Patch page only, with its number stated there.
 <!--gen:stats act="Chapter 37"-->
 
-- **Estimated length:** 3 h 25 min
-- **Sampled range:** 2 h 30 min to 4 h 07 min across 3 playthrough uploads (67 further candidates screened out)
+- **Estimated length:** 3 h 46 min
+- **Sampled range:** 3 h 25 min to 4 h 07 min across 2 playthrough uploads (68 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Where Nightmares Dwell
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +10% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 37"-->
@@ -233,7 +233,6 @@ Patch page only, with its number stated there.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 30 min | Finishing Liv Story! (Chapter 37) \| Punishing Gray Raven | Noctis Kyrios | ~16 | n/a | <https://www.youtube.com/watch?v=SUL1hADwbcQ> |
 | 3 h 25 min | Punishing: Gray Raven \| Chapter 37: Where Nightmares Dwell (Part 1) | Luke Aurora PNGTuber | ~9 | n/a | <https://www.youtube.com/watch?v=ZY_miyG-0oE> |
 | 4 h 07 min | Punishing Gray Raven: Where Nightmares Dwell (Story) | ThaiV | ~106 | n/a | <https://www.youtube.com/watch?v=QBZgMBN9ERw> |
 
@@ -332,11 +331,11 @@ Two patches old at the collection date.
 <!--gen:stats act="Chapter 41"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 5 h 34 min
-- **Sampled range:** 2 h 59 min to 7 h 29 min across 5 playthrough uploads (67 further candidates screened out)
+- **Estimated length:** 5 h 36 min
+- **Sampled range:** 2 h 59 min to 7 h 29 min across 4 playthrough uploads (81 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Homecoming Voyage
-- **Stability:** median +55% against an earlier, independent query set
+- **Stability:** median +56% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 41"-->
@@ -346,7 +345,6 @@ One of the three longest chapters in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 59 min | Chapter 41(27-) : Homecoming Voyage \|\| Punishing : Gray Raven [Global] | Jaysan009 | ~69 | n/a | <https://www.youtube.com/watch?v=dAflUD-MrYI> |
-| 5 h 28 min | 【PUNISHING: GRAY RAVEN】 Finishing the Homecoming Voyage story! | Ushio Ebi Ch. | ~2,903 | n/a | <https://www.youtube.com/watch?v=TVeXKQ0hlIM> |
 | 5 h 34 min | My Disappointment in Kuro, is Immeasurable... \| Punishing Gray Raven: Homecoming Voyage | Sujeito 17 Ch. | ~36 | n/a | <https://www.youtube.com/watch?v=zVzCBYMh2Ps> |
 | 5 h 37 min | Punishing: Gray Raven \| Chapter 41: Homecoming Voyage (Part 3) | Luke Aurora PNGTuber | ~15 | n/a | <https://www.youtube.com/watch?v=IapzxNdNRQo> |
 | 7 h 29 min | Punishing Gray Raven: "Homecoming Voyage" (Story) | ThaiV | 777 | 2026-06-03 | <https://www.youtube.com/watch?v=EY398oxr7fE> |
@@ -359,7 +357,7 @@ One of the three longest chapters in the game.
 <!--/gen-->
 
 The last chapter of this volume;
-the chapter after it opens [Volume 5](05-anchored-in-faith.md).
+the chapter after it opens [Volume 5](05-anchored-in-faith-to-a-comets-afterglow.md).
 What survived screening is three uploads that each cover part of it,
 the hidden story, one channel's fourth instalment
 and an unlabelled share of the chapter,
@@ -367,7 +365,7 @@ so the figure is a floor rather than an estimate.
 <!--gen:stats act="Chapter 42"-->
 
 - **Estimated length:** 3 h 03 min
-- **Sampled range:** 2 h 39 min to 3 h 12 min across 3 playthrough uploads (113 further candidates screened out)
+- **Sampled range:** 2 h 39 min to 3 h 12 min across 3 playthrough uploads (122 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Steering By Light
 <!--/gen-->

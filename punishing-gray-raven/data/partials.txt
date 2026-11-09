@@ -4,6 +4,7 @@
 !\(\s?\d{1,2}[a-zA-Z]?\s?\)
 !\(\s?(?:final|end|ending)\s?\)
 !\bfinale\b
+!\b(?:starting|continuing|finishing)\b
 !\bnodes? ?\d+\b
 \bstages?\b
 \bhidden\b
