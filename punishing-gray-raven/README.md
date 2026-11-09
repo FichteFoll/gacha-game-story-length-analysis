@@ -191,7 +191,7 @@ and its figure rests on two uploads,
 both from channels whose uploads run long elsewhere in this report:
 read it as provisional.
 - The second pass that fetches exact view counts, upload dates and chapter
-markers reached about a seventh of the candidates before
+markers reached only a small share of the candidates before
 YouTube's bot check cut it off.
 Most view counts here are therefore the search listing's rounded figures,
 marked with a `~`, and most upload dates read "n/a".
