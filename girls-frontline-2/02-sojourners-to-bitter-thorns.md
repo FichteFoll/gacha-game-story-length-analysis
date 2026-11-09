@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies
 
-**Chapters:** 6.5 - 8.7 | **Game versions:** not recorded | **Entries:** 6 | **Estimated volume length: 19 h 59 min**
+**Chapters:** 6.5 - 8.7 | **Game versions:** not recorded | **Entries:** 6 | **Estimated volume length: 19 h 42 min**
 <!--/gen-->
 
 The volume where the campaign menu starts counting in decimals.
@@ -18,14 +18,14 @@ and between them Chapters 7 and 8 carry the Paradeus cult plot forward.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 6.5 | Sojourners of the Glass Island - Part 1 | 3 h 11 min | 2 h 27 min - 3 h 45 min | 8 | low |
-| Chapter 6.7 | Sojourners of the Glass Island - Part 2 | 1 h 56 min | 1 h 23 min - 2 h 13 min | 10 | low |
+| Chapter 6.7 | Sojourners of the Glass Island - Part 2 | 1 h 44 min | 1 h 19 min - 2 h 11 min | 9 | low |
 | Chapter 7 | Radiation Decay | 2 h 56 min | 2 h 22 min - 3 h 26 min | 9 | medium |
-| Chapter 8 | Aliasing Effect | 4 h 02 min | 3 h 21 min - 5 h 13 min | 12 | low |
+| Chapter 8 | Aliasing Effect | 3 h 57 min | 3 h 18 min - 4 h 39 min | 11 | medium |
 | Chapter 8.3 | Amidst Wings of Gray | 2 h 14 min | 1 h 56 min - 3 h 30 min | 10 | low |
 | Chapter 8.7 | Bitter Thorns and Daisies | 5 h 40 min | 3 h 17 min - 8 h 42 min | 7 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->19 h 59 min<!--/f-->**
+**Total: <!--f:total-->19 h 42 min<!--/f-->**
 
 ## Pacing
 
@@ -35,7 +35,7 @@ they hold fewer stages.
 Chapter 6.7 has <!--f:parts_Chapter_6_7-->eight<!--/f--> of them, the fewest here,
 and it is the shortest entry in this volume.
 Chapters 7 and 8 carry on the launch run's climb,
-Chapter 8 being the first entry in the game to pass four hours.
+Chapter 8 being the first entry in the game to reach about four hours.
 Chapter 8.7 is then the exception on both counts:
 it has no more stages than Chapter 8.3
 and is more than twice as long as it,
@@ -91,11 +91,11 @@ The Commander breaks the Mephisto Agreement by keeping her aboard.
 <!--gen:stats act="Chapter 6.7"-->
 One of the three shortest entries in the questline.
 
-- **Estimated length:** 1 h 56 min
-- **Sampled range:** 1 h 23 min to 2 h 13 min for the middle half (full spread 1 h 06 min to 3 h 12 min) across 10 playthrough uploads (10 further candidates screened out)
+- **Estimated length:** 1 h 44 min
+- **Sampled range:** 1 h 19 min to 2 h 11 min for the middle half (full spread 1 h 06 min to 3 h 12 min) across 9 playthrough uploads (11 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median +13% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 - **Quest parts (8):** SS-1-1: Unexpected Signal; SA-1-4: King's Game; SA-1-5: High Efficiency Computation; SS-1-2: Switching the Joker; SA-1-6: Interference from outside the field; SA-1-7: Murphy's Law; SA-1-8: A Letter; SA-1-9: Chasing the Sunset
 <!--/gen-->
 
@@ -113,7 +113,6 @@ One of the three shortest entries in the questline.
 | 2 h 08 min | Chapter 6.7 '"Sojourners of the Glass Island, Part 2" - Girls Frontline 2 | daesz | 53 | 2025-07-06 | <https://www.youtube.com/watch?v=LyCMM15Xfbc> |
 | 2 h 10 min | Girls' Frontline 2: Exilium (2024) - Sojourners of the Glass Island Part 2 | FeyHunt 2 | ~18 | n/a | <https://www.youtube.com/watch?v=mE4iwlMpn4I> |
 | 2 h 13 min | Sojourners of The Glass Island Full Story Event Part 2 No Commentary \| Girl's Frontline 2 Exilium | RickookGame | ~14 | n/a | <https://www.youtube.com/watch?v=dOzws4nHcb0> |
-| 2 h 13 min | Girls' Frontline 2: Exilium \| Sojourners of the Glass Island - Part 2: Mysterious Assailant | mj-r2 | ~9 | n/a | <https://www.youtube.com/watch?v=SeFOTh-b8TI> |
 | 3 h 12 min | Girls' Frontline 2: Chapter 6.7 - Sojourners of the Glass Island Part 3 | 白猫（Shiro） | ~3 | n/a | <https://www.youtube.com/watch?v=_w9XF6HPmr4> |
 
 </details>
@@ -165,12 +164,12 @@ and Team Groza attends a purification ceremony in disguise
 that ends with Crifium turned into a monster.
 <!--gen:stats act="Chapter 8"-->
 
-- **Estimated length:** 4 h 02 min
-- **Sampled range:** 3 h 21 min to 5 h 13 min for the middle half (full spread 2 h 51 min to 6 h 09 min) across 12 playthrough uploads (8 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 3 h 57 min
+- **Sampled range:** 3 h 18 min to 4 h 39 min for the middle half (full spread 2 h 51 min to 6 h 09 min) across 11 playthrough uploads (9 further candidates screened out)
+- **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 12 uploads
+- **Stability:** median 0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 11 uploads
 - **Quest parts (15):** 8-1: Covert Surveillance; 8-2: Reverse Hacking; SL-8-1: Handover Area; 8-3: Pathfinding I; SL-8-2: Darkest Moment; 8-4: Pathfinding II; 8-5: Pathfinding III; SL-8-3: Epiphyllum; 8-6: Pathfinding IV; SL-8-4: Light; 8-7: Out of Hand; 8-8: Merge; 8-9: Pathfinding V; SL-8-5: Coaxial; 8-10: Fame Chaser
 <!--/gen-->
 
@@ -190,7 +189,6 @@ that ends with Crifium turned into a monster.
 | 4 h 31 min | GIRLS' FRONTLINE 2: EXILIUM - Chapter 8 (Campaign) - Full Story Playthrough - No Commentary | Bek | ~2,722 | n/a | <https://www.youtube.com/watch?v=k1rotXlVU8w> |
 | 4 h 39 min | Girls' Frontline 2 EXILIUM [PC] \| Chapter 8 | Valzoa's Archive | 33 | 2025-02-16 | <https://www.youtube.com/watch?v=Ngdxvi2VpnE> |
 | 5 h 24 min | Main story, Ch. 8, Aliasing Effect then Amidst Wings of Gray event | CiphDra | ~29 | n/a | <https://www.youtube.com/watch?v=sPx11a6dFg0> |
-| 5 h 28 min | Continuing the Story of GFL2! Chapter 8 (Plus more) | Soul Thewhiteangel | ~85 | n/a | <https://www.youtube.com/watch?v=jvMJsvxjULA> |
 | 6 h 09 min | GFL2 Exilium: Chapter 8 "Aliasing Effect" + "Amidst Wings of Gray" Story Quests \| Blind Playthrough | toufusoup | ~339 | n/a | <https://www.youtube.com/watch?v=jTBRzTSU1S4> |
 
 </details>

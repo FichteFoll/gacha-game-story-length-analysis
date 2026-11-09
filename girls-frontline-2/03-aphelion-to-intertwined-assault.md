@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 3: Aphelion to Intertwined Assault
 
-**Chapters:** 9 - 12.5 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 21 h 13 min**
+**Chapters:** 9 - 12.5 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 21 h 59 min**
 <!--/gen-->
 
 The story splits into two casts here.
@@ -16,14 +16,14 @@ this is the volume where an entry stops being an evening and becomes two.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 9 | Aphelion - Part 1 | 2 h 39 min | 2 h 07 min - 3 h 32 min | 15 | low |
+| Chapter 9 | Aphelion - Part 1 | 2 h 40 min | 2 h 22 min - 3 h 34 min | 14 | low |
 | Chapter 10 | Aphelion - Part 2 | 5 h 16 min | 4 h 13 min - 7 h 42 min | 11 | low |
-| Chapter 11 | Deep Oblivion - Part 1 | 4 h 08 min | 3 h 51 min - 5 h 30 min | 10 | medium |
-| Chapter 12 | Deep Oblivion - Part 2 | 4 h 44 min | 3 h 54 min - 5 h 43 min | 10 | medium |
-| Chapter 12.5 | Intertwined Assault | 4 h 26 min | 3 h 32 min - 4 h 58 min | 10 | medium |
+| Chapter 11 | Deep Oblivion - Part 1 | 4 h 21 min | 3 h 53 min - 5 h 31 min | 9 | medium |
+| Chapter 12 | Deep Oblivion - Part 2 | 5 h 06 min | 3 h 59 min - 5 h 49 min | 9 | medium |
+| Chapter 12.5 | Intertwined Assault | 4 h 36 min | 3 h 33 min - 5 h 03 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->21 h 13 min<!--/f-->**
+**Total: <!--f:total-->21 h 59 min<!--/f-->**
 
 ## Pacing
 
@@ -50,13 +50,13 @@ and a URNC survey platoon under a soldier who hates Dolls.
 Klukai spends the chapter paying Dmitry for the use of his radio.
 <!--gen:stats act="Chapter 9"-->
 
-- **Estimated length:** 2 h 39 min
-- **Sampled range:** 2 h 07 min to 3 h 32 min for the middle half (full spread 1 h 40 min to 4 h 03 min) across 15 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 2 h 40 min
+- **Sampled range:** 2 h 22 min to 3 h 34 min for the middle half (full spread 1 h 40 min to 4 h 03 min) across 14 playthrough uploads (8 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 15 uploads
-- **Quest parts (14):** 9-1: Twilight (16 min); 9-2: Eye of th'e Storm (13 min); 9-3: Secondary Mirror (12 min); 9-4: Out of Focus (6 min); 9-5: Roche Limit (14 min); SL-9-1: Entangled State (17 min); 9-6: Dual-Beam Observation (12 min); SL-9-2: Dormant Black Hole (6 min); 9-7: Lattice Distortion (12 min); SL-9-3: Delayed Signal (29 min); 9-8: Tidal Effect (6 min); 9-9: Buried Consciousness (14 min); 9-10: Fusion (35 min); SL-9-4: Approaching Light (28 min)
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 14 uploads
+- **Quest parts (14):** 9-1: Twilight (16 min); 9-2: Eye of th'e Storm (14 min); 9-3: Secondary Mirror (12 min); 9-4: Out of Focus (3 min); 9-5: Roche Limit; SL-9-1: Entangled State (18 min); 9-6: Dual-Beam Observation (12 min); SL-9-2: Dormant Black Hole (6 min); 9-7: Lattice Distortion (11 min); SL-9-3: Delayed Signal (29 min); 9-8: Tidal Effect (6 min); 9-9: Buried Consciousness (14 min); 9-10: Fusion (35 min); SL-9-4: Approaching Light (28 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 9"-->
@@ -66,7 +66,6 @@ Klukai spends the chapter paying Dmitry for the use of his radio.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 40 min | GIRLS' FRONTLINE 2:EXILIUM (Global) - Aphelion : Part 1 Event Story Part 1 | Ryanto F2P | ~26 | n/a | <https://www.youtube.com/watch?v=o02xATjcq18> |
-| 1 h 42 min | Girls' Frontline 2: Exilium \| Aphelion - Part 1: H.I.D.E 404 | mj-r2 | 39 | 2025-04-07 | <https://www.youtube.com/watch?v=S_Xr0CYvT24> |
 | 1 h 57 min | Aphelion Part 1 (Chapter 9) - Full Story (Klukai event) \| Girl's Frontline 2 Exilium [GFL2] | eLLiXeon | ~606 | n/a | <https://www.youtube.com/watch?v=dEa48BKuTJk> |
 | 2 h 07 min | Aphelion - Part 1 \| Full Story \| Girls' Frontline 2: Exilium | Villenthessis | ~1,439 | n/a | <https://www.youtube.com/watch?v=czTvrwvtGNQ> |
 | 2 h 27 min | Ch 9 Aphelion Part 1 \| GF2 Exilium | OMGAZZ | 25 | 2025-03-25 | <https://www.youtube.com/watch?v=AVAxq__noV8> |
@@ -132,13 +131,13 @@ and surveillance footage of Sextans committing a murder
 that the Girard Group would rather nobody watched.
 <!--gen:stats act="Chapter 11"-->
 
-- **Estimated length:** 4 h 08 min
-- **Sampled range:** 3 h 51 min to 5 h 30 min for the middle half (full spread 3 h 43 min to 6 h 31 min) across 10 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 4 h 21 min
+- **Sampled range:** 3 h 53 min to 5 h 31 min for the middle half (full spread 3 h 43 min to 6 h 31 min) across 9 playthrough uploads (8 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 10 uploads
-- **Quest parts (24):** LS-1-1: Hearty Welcome; LA-1-1: Unfamiliar Familiarity; LA-1-2: Deliberate Oversight; LS-1-2: Covert Investigation; LA-1-3: Roiling Undertow; LA-1-4: Extreme Decryption; LS-1-3: Publicity Stunt; LA-1-5: Routine Traffic Stop (6 min); LA-1-6: Danger Sign I (2 min); LA-1-7: Danger Signal II; LA-1-8: Bizarre Investigation (7 min); LS-1-4: Projection Conflict (17 min); LA-1-9: Invisible Tactics (3 min); LS-1-5: Hidden Clues (16 min); LA-1-10: DEFY I (21 min); LA-1-11: DEFY II; LA-1-12: Third-Generation Doll (12 min); LS-1-6: Yearn for freedom (15 min); LA-1-13: Destruction Schedule (7 min); LA-1-14: Breaking Out (2 min); LA-1-15: Mortal Choice (4 min); LA-1-16: Only Chance (11 min); LA-1-17: Sheltering Wings (19 min); LS-1-7: Strife and Confusion (8 min)
+- **Stability:** median +5% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 9 uploads
+- **Quest parts (24):** LS-1-1: Hearty Welcome; LA-1-1: Unfamiliar Familiarity; LA-1-2: Deliberate Oversight; LS-1-2: Covert Investigation; LA-1-3: Roiling Undertow; LA-1-4: Extreme Decryption; LS-1-3: Publicity Stunt; LA-1-5: Routine Traffic Stop; LA-1-6: Danger Sign I; LA-1-7: Danger Signal II; LA-1-8: Bizarre Investigation; LS-1-4: Projection Conflict; LA-1-9: Invisible Tactics; LS-1-5: Hidden Clues; LA-1-10: DEFY I; LA-1-11: DEFY II; LA-1-12: Third-Generation Doll; LS-1-6: Yearn for freedom; LA-1-13: Destruction Schedule; LA-1-14: Breaking Out; LA-1-15: Mortal Choice; LA-1-16: Only Chance; LA-1-17: Sheltering Wings; LS-1-7: Strife and Confusion
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 11"-->
@@ -148,7 +147,6 @@ that the Girard Group would rather nobody watched.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 3 h 43 min | Girls' Frontline 2: Deep Oblivion Part 1 Story JP Dub Eng Sub | THOA | 45 | 2026-01-06 | <https://www.youtube.com/watch?v=19iVN5yGi_8> |
-| 3 h 46 min | Girls' Frontline 2: Exilium \| Deep Oblivion - Part 2: Hidden Intentions | mj-r2 | 10 | 2026-01-15 | <https://www.youtube.com/watch?v=Fh1El-ESEjg> |
 | 3 h 52 min | Deep Oblivion - Part 1 \| Full Story \| Girls' Frontline 2: Exilium | Villenthessis | 2,711 | 2025-11-28 | <https://www.youtube.com/watch?v=BJL_kKDhNrE> |
 | 3 h 53 min | Deep Oblivion Part 1 - Leva story \| Girl's Frontline 2 Exilium [GFL2] | eLLiXeon | 562 | 2025-12-18 | <https://www.youtube.com/watch?v=6OWAvvl-FgA> |
 | 3 h 55 min | [GirIs Frontline 2] Main Story Chapter 11: Deep Oblivion Part 1 \| JP Dub \| EN Sub | Aldi Nova | ~0 | n/a | <https://www.youtube.com/watch?v=snfoMlmC90Q> |
@@ -170,12 +168,12 @@ then the ELID outbreak turns out to be walking in
 with the troops recalled from the irradiated zones, vaccinated on paper.
 <!--gen:stats act="Chapter 12"-->
 
-- **Estimated length:** 4 h 44 min
-- **Sampled range:** 3 h 54 min to 5 h 43 min for the middle half (full spread 3 h 46 min to 6 h 34 min) across 10 playthrough uploads (9 further candidates screened out)
+- **Estimated length:** 5 h 06 min
+- **Sampled range:** 3 h 59 min to 5 h 49 min for the middle half (full spread 3 h 49 min to 6 h 34 min) across 9 playthrough uploads (10 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 10 uploads
+- **Stability:** median +8% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (24):** BA-1-1: Gray Area; BS-1-1: Cashflow; BA-1-2: Multiple Pile-up I; BA-1-3: Multiple Pile-up II; BA-1-4: Clues Resurgent; BS-1-2: Second Spread; BA-1-5: Load Limit; BA-1-6: Vaccine; BS-1-3: Ripples of Truth; BA-1-7: Manufacturing Plant; BA-1-8: Echo Tracing; BA-1-9: Login Privileges; BA-1-10: Nonexistent Date; BA-1-11: Ruined File; BS-1-4: Pawn; BA-1-12: Overloaded Field; BS-1-5: Dead-End; BA-1-13: Breakout Security; BS-1-6: Bridge of Hope; BA-1-14: Choice I; BA-1-15: Choice II; BS-1-7: Special Guest; BA-1-16: Ongoing Storm; BS-1-8: To An Era Of Peace
 <!--/gen-->
 
@@ -185,7 +183,6 @@ with the troops recalled from the irradiated zones, vaccinated on paper.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 3 h 46 min | Girls' Frontline 2: Exilium \| Deep Oblivion - Part 2: Hidden Intentions | mj-r2 | 10 | 2026-01-15 | <https://www.youtube.com/watch?v=Fh1El-ESEjg> |
 | 3 h 49 min | Deep Oblivion Part 2 - Robella story \| Girl's Frontline 2 Exilium [GFL2] | eLLiXeon | 558 | 2026-01-09 | <https://www.youtube.com/watch?v=NYMO4nF-4sw> |
 | 3 h 56 min | [GirIs Frontline 2] Main Story Chapter 12: Deep Oblivion Part 2 \| JP Dub \| EN Sub | Aldi Nova | ~0 | n/a | <https://www.youtube.com/watch?v=cFxrRx8Ei00> |
 | 4 h 02 min | Deep Oblivion - Part 2 \| Full Story \| Girls' Frontline 2: Exilium | Villenthessis | ~1,211 | n/a | <https://www.youtube.com/watch?v=d-ZHcWPYE3c> |
@@ -208,12 +205,12 @@ and discovers what the vaccine shortage has done to Yellow Zone prices,
 which is the same story as Chapter 12 seen from the other side of the line.
 <!--gen:stats act="Chapter 12.5"-->
 
-- **Estimated length:** 4 h 26 min
-- **Sampled range:** 3 h 32 min to 4 h 58 min for the middle half (full spread 2 h 45 min to 7 h 53 min) across 10 playthrough uploads (6 further candidates screened out)
+- **Estimated length:** 4 h 36 min
+- **Sampled range:** 3 h 33 min to 5 h 03 min for the middle half (full spread 3 h 28 min to 7 h 53 min) across 9 playthrough uploads (7 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 10 uploads
+- **Stability:** median +4% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 9 uploads
 - **Quest parts (11):** LS-1-1: Under the Undercurrents (35 min); LA-1-1: Expensive Hopes (41 min); LA-1-2: Tangled Roots (1 h 04 min); LA-1-3: The Sniper and the Clam; LA-1-4: Deluded Illusion (17 min); LA-1-5: Sleeping Subject (33 min); LA-1-6: Moment of Intersection (23 min); LA-1-7: Underground Deal (41 min); LA-1-8: Pathways to Dreams; LA-1-9: Forged Choice (18 min); LS-1-2: Lingering Traces (10 min)
 <!--/gen-->
 
@@ -223,7 +220,6 @@ which is the same story as Chapter 12 seen from the other side of the line.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 45 min | Girls frontline 2 Exilium Chapter 12.5 (Intertwined Assault. Lenna Event) Part 1 | Macu_bravo | ~36 | n/a | <https://www.youtube.com/watch?v=k2esobGPGLk> |
 | 3 h 28 min | Intertwined Assault \| Full Story \| Girls' Frontline 2: Exilium | Villenthessis | 943 | 2026-01-11 | <https://www.youtube.com/watch?v=1PA7pWTOUlE> |
 | 3 h 33 min | Girls' Frontline 2 Exilium - Campaign - Chapter 12.5 Intertwined Assault | Asator | 23 | 2026-03-28 | <https://www.youtube.com/watch?v=9OMa-5VPYo0> |
 | 3 h 33 min | Intertwined Assault - Lenna story \| Girl's Frontline 2 Exilium [GFL2] | eLLiXeon | 883 | 2025-12-19 | <https://www.youtube.com/watch?v=On9WGc6Dwe8> |

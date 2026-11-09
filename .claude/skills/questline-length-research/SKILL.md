@@ -225,6 +225,10 @@ locates one act inside a longer upload. That means:
 
 Ignore a marker set covering less than 60 percent of a single-act upload:
 those markers were something else, and trusting them under-measures the act.
+An upload whose title calls it part of an act is held to the same floor,
+because a few matched stage markers would otherwise replace a complete runtime
+with a fraction of it, and the runtime is what readmits it.
+Only a compilation, or an upload whose title names another act, is exempt.
 Where the named markers do pass, the unnamed ones between them
 ("Boss Battle", "Story Trails", "Talk to Venti") count towards the part before,
 and after the act's final quest part so does what reads as its close
@@ -396,6 +400,12 @@ Discard, by title:
   in instalments often reuses the title verbatim and lets the upload order
   carry the sequence, so nothing in the wording says "part 2".
   Those are read as splits automatically, without a pattern.
+  A channel that numbers its own videos in its titles needs a `!` line in
+  `partials.txt` instead, wherever the counter sits where the game's own
+  numbering would: mj-r2's "Deep Oblivion - Part 2: Hidden Intentions"
+  counts that channel's instalments, and Girls' Frontline 2's act keys read
+  it as the campaign's second part, so one video counted for two chapters.
+  "Starting", "Continuing" and "Finishing" are the same counter in words.
 - **the same uploader twice**: an uploader who posts a single-act upload
   *and* a compilation that contains it
   offers one playthrough under two URLs,

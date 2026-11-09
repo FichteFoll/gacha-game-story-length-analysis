@@ -39,12 +39,12 @@ CLAIMS = [
     # "the first entry in the game to pass four hours" rests on this bound plus
     # everything published before it staying under, which the claims above and
     # the three below cover between them.
-    median_between("v2", "Chapter 8", 240, 299,
+    median_between("v2", "Chapter 8", 225, 299,
                    "Chapter 8 being the first entry in the game "
-                   "to pass four hours"),
-    none_above("v1", 240,
+                   "to reach about four hours"),
+    none_above("v1", 225,
                "Chapter 8 being the first entry in the game "
-               "to pass four hours"),
+               "to reach about four hours"),
     median_between("v2", "Chapter 6.7", 60, 160,
                    "Chapters 6.7 and 8.3 come in under both "
                    "whole-numbered ones"),
@@ -71,25 +71,36 @@ CLAIMS = [
     total_ratio_between("v3", ["v1"], 1.05, 2.0,
                         "are the reason this volume outweighs the launch run "
                         "on one entry fewer"),
-    median_between("v3", "Chapter 12.5", 230, 300,
+    median_between("v3", "Chapter 12.5", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
-    median_between("v3", "Chapter 11", 230, 300,
+    median_between("v3", "Chapter 11", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
-    median_between("v3", "Chapter 12", 230, 300,
+    median_between("v3", "Chapter 12", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
 
     # 04-corposant-to-antiparallel.md
-    largest_chapter("v4",
-                    "by a wide margin the largest volume in the report"),
+    # "the second largest volume" and the blurb's "the longest stretch of story
+    # in the game until Chiral Redundancy": ahead of every earlier volume, with
+    # the fifth the only one above it.
     total_ratio_between("v4", ["v3"], 1.2, 3.0,
-                        "by a wide margin the largest volume in the report"),
-    is_extreme("v4", "Chapter 15", "max",
-               "it holds the largest chapters in the game", scope="global"),
-    rank_at_most("v4", "Chapter 16", 2,
-                 "it holds the largest chapters in the game", scope="global"),
+                        "This is the second largest volume in the report"),
+    total_ratio_between("v4", ["v2"], 1.2, 3.0,
+                        "This is the second largest volume in the report"),
+    largest_chapter("v5",
+                    "This is the second largest volume in the report, "
+                    "behind only the fifth"),
+    rank_at_most("v4", "Chapter 15", 3,
+                 "Chapters 15 and 16 are the longest chapters in the game "
+                 "after the two halves of Chiral Redundancy", scope="global"),
+    rank_at_most("v4", "Chapter 16", 4,
+                 "Chapters 15 and 16 are the longest chapters in the game "
+                 "after the two halves of Chiral Redundancy", scope="global"),
+    rank_at_most("v5", "Chapter 20", 2,
+                 "Chapters 15 and 16 are the longest chapters in the game "
+                 "after the two halves of Chiral Redundancy", scope="global"),
     count_above("v4", 360, 3,
                 "then Chapters 14, 15 and 16 all pass six hours, "
                 "three consecutive entries longer than anything published "
@@ -106,11 +117,15 @@ CLAIMS = [
                    "started, and those two are the only entries here under "
                    "six hours"),
 
-    # 05-dawnforger-to-needy-catgirl-overload.md
-    count_above("v5", 240, 3,
+    # 05-dawnforger-to-chiral-redundancy.md
+    count_above("v5", 240, 5,
                 "every entry here is over four hours"),
-    is_extreme("v5", "Chapter 19", "max",
-               "Chapter 19 is the longest of the three"),
+    is_extreme("v5", "Chapter 21", "max",
+               "the volume ends on the two longest chapters in the game",
+               scope="global"),
+    rank_at_most("v5", "Chapter 20", 2,
+                 "the volume ends on the two longest chapters in the game",
+                 scope="global"),
     is_extreme("v5", "Chapter 19.5", "min",
                "Even Chapter 19.5, the volume's floor, sits above almost "
                "everything in the first two volumes"),
@@ -120,4 +135,16 @@ CLAIMS = [
     median_between("v5", "Chapter 19.5", 240, 330,
                    "something close to the running time of an ordinary "
                    "chapter"),
+    is_extreme("v5", "Chapter 21", "max",
+               "and still run longer than any chapter before them, "
+               "Chapter 21 the longest of all", scope="global"),
+    rank_at_most("v5", "Chapter 20", 2,
+                 "and still run longer than any chapter before them, "
+                 "Chapter 21 the longest of all", scope="global"),
+    # The cutscene-only uploads sit among the rejected candidates, where no
+    # claim reaches; this bound at least keeps the launch run they are compared
+    # against below them.
+    none_above("v1", 330,
+               "run longer than most whole chapters in the first two volumes "
+               "on their own"),
 ]

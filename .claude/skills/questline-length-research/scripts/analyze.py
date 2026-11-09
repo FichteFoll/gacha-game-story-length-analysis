@@ -68,7 +68,7 @@ REJECT = re.compile(
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
     r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"
-    r"\blive\b|livestream|\bstream\b|let'?s play|lets play|\U0001F534",
+    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534",
     re.I,
 )
 # What an upload calls the whole of a chapter. Kept short on purpose, and
@@ -676,14 +676,22 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
     return rows
 
 
+# The rejections an upload's chapter markers can overrule, by locating the act.
+BUNDLE_REJECTIONS = ("multi-act", "act-mismatch")
+
+
 def measure_from_markers(row, act, chapters, parts):
     """Replace an upload's runtime with the part of it that is this act.
 
     An upload rejected only for covering several acts, or for a title that does
     not name this one, is readmitted when its markers say where this act runs:
     the measurement no longer depends on the title being right about the scope.
+    Only those two rejections mark a bundle, which waives the coverage floor:
+    an upload whose title calls it part of the act is held to the floor like a
+    single-act one, or a few matched stage markers would replace a complete
+    runtime with a fraction of it and stop readmit_partials() from seeing it.
     """
-    bundled = bool(row["rejected"])
+    bundled = any(r in BUNDLE_REJECTIONS for r in row["rejected"])
     span = act_span(act, chapters, parts, row["seconds"], bundled)
     if span is None:
         return
@@ -694,8 +702,7 @@ def measure_from_markers(row, act, chapters, parts):
     for marker, part in act_markers(act, chapters, parts, single=not bundled):
         if part:
             row["parts"][part] = row["parts"].get(part, 0) + marker_seconds(marker)
-    row["rejected"] = [r for r in row["rejected"]
-                       if r not in ("multi-act", "act-mismatch")]
+    row["rejected"] = [r for r in row["rejected"] if r not in BUNDLE_REJECTIONS]
 
 
 def part_medians(kept, parts):

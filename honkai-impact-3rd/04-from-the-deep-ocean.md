@@ -17,7 +17,7 @@ with a side trip into the Void Heavens along the way.
 | Chapter X | Under The Deep | 1 h 33 min | 1 h 22 min - 1 h 43 min | 11 | medium |
 | Chapter XI | Deep End of the Sea | 2 h 36 min | 2 h 24 min - 2 h 42 min | 8 | high |
 | Chapter XI - EX | Void Heavens & Diane's Sojourn | 44 min | 39 min - 45 min | 14 | high |
-| Chapter XII | Plain of Vigrid | 1 h 54 min | 1 h 37 min - 2 h 08 min | 10 | low |
+| Chapter XII | Plain of Vigrid | 1 h 54 min | 1 h 37 min - 2 h 15 min | 10 | low |
 <!--/gen-->
 
 **Total: <!--f:total-->6 h 47 min<!--/f-->**
@@ -155,7 +155,7 @@ and two echo acts after them.
 <!--gen:stats act="Chapter XII"-->
 
 - **Estimated length:** 1 h 54 min
-- **Sampled range:** 1 h 37 min to 2 h 08 min for the middle half (full spread 59 min to 2 h 25 min) across 10 playthrough uploads (36 further candidates screened out)
+- **Sampled range:** 1 h 37 min to 2 h 15 min for the middle half (full spread 59 min to 2 h 25 min) across 10 playthrough uploads (36 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 3.4
 - **Stability:** median +138% against an earlier, independent query set
@@ -176,8 +176,8 @@ and two echo acts after them.
 | 1 h 54 min | Honkai Impact 3rd Story Chapter 12 4k 60 FPS English Subtitles Gameplay Walkthrough | KING1993GAMING | ~27,433 | n/a | <https://www.youtube.com/watch?v=ncbCMLlonMY> |
 | 1 h 54 min | Plain of Vigrid - Chapter 12. Honkai Impact 3rd Main Story | Captain Ainsophia | ~71 | n/a | <https://www.youtube.com/watch?v=pHlNiSRo7bY> |
 | 1 h 56 min | Honkai Impact 3 \| Chapter XII: Plain of Vigrid (Japanese Dub) | Aiyoshizawa Aisuke | ~421 | n/a | <https://www.youtube.com/watch?v=MhgJpC5PfdM> |
-| 2 h 06 min | Honkai Impact 3rd - Part 015: Plain of Vigrid | Ideasthete | 14 | 2024-08-30 | <https://www.youtube.com/watch?v=4o6KsQMMyQI> |
 | 2 h 14 min | Honkai Impact 3rd - pushing further into the story! Level 53, let's go! Chapter XII: Plain of Vigrid | Ferenjianboard Introspection Protocols | ~3 | n/a | <https://www.youtube.com/watch?v=WDU6NavklEI> |
+| 2 h 20 min | Honkai Impact 3rd - Part 015: Plain of Vigrid | Ideasthete | 14 | 2024-08-30 | <https://www.youtube.com/watch?v=4o6KsQMMyQI> |
 | 2 h 25 min | [Honkai Impact 3rd] Chapter 12–Plain of Vigrid | HaWuTsKi Archive | ~31 | n/a | <https://www.youtube.com/watch?v=_pn2lGUOXGM> |
 
 </details>

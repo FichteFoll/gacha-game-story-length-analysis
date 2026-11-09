@@ -43,5 +43,11 @@
  ],
  "v3|Chapter 9": [
   "(?=.*(?:\\bchapters? ?9\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v5|Chapter 20": [
+  "(?=.*(?:\\bchapters? ?20\\b|\\bpart ?1\\b(?!\\.\\d)))"
+ ],
+ "v5|Chapter 21": [
+  "(?=.*(?:\\bchapters? ?21\\b|\\bpart ?2\\b(?!\\.\\d)))"
  ]
 }

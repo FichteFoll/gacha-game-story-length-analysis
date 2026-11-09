@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 1: The Living and the Rest
 
-**Chapters:** Prologue - 7 | **Game versions:** up to 1.9 | **Entries:** 10 | **Estimated arc length: 32 h 46 min**
+**Chapters:** Prologue - 7 | **Game versions:** up to 1.9 | **Entries:** 10 | **Estimated arc length: 32 h 35 min**
 <!--/gen-->
 
 The arc the game shipped with, and the largest in this report:
@@ -18,9 +18,9 @@ Chapter 7 is the longest entry in the game.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Prologue | This is Tomorrow | 37 min | 33 min - 40 min | 13 | high |
-| Chapter 1 | In Our Time | 2 h 01 min | 1 h 44 min - 2 h 34 min | 10 | medium |
+| Chapter 1 | In Our Time | 2 h 03 min | 1 h 44 min - 2 h 34 min | 10 | medium |
 | Chapter 2 | Tender is the Night | 2 h 51 min | 2 h 12 min - 3 h 25 min | 11 | low |
-| Chapter 3 | Nouvelles et Textes pour Rien | 2 h 52 min | 2 h 11 min - 3 h 10 min | 13 | medium |
+| Chapter 3 | Nouvelles et Textes pour Rien | 2 h 39 min | 2 h 09 min - 3 h 04 min | 12 | medium |
 | Chapter 4 | El Oro de los Tigres | 3 h 59 min | 3 h 21 min - 4 h 34 min | 10 | medium |
 | Chapter 5 | The Prisoner in the Cave | 3 h 46 min | 2 h 50 min - 4 h 31 min | 12 | low |
 | Inter Chapter - I | The Star | 1 h 22 min | 1 h 22 min - 1 h 30 min | 8 | high |
@@ -29,11 +29,11 @@ Chapter 7 is the longest entry in the game.
 | Inter Chapter - II | To the New World | 41 min | 34 min - 48 min | 11 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->32 h 46 min<!--/f-->**
+**Total: <!--f:total-->32 h 35 min<!--/f-->**
 
 ## Pacing
 
-The arc runs to <!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->32 h 46 min<!--/f-->,
+The arc runs to <!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->32 h 35 min<!--/f-->,
 the largest arc in the report
 and the only one whose entries run from under an hour to over seven.
 The shape is a ramp with two steps in it:
@@ -106,11 +106,11 @@ and find the speakeasy the Manus Vindictae run underneath it.
 <!--f:parts_Chapter_1-->16<!--/f--> stages, closing on Heaven Apostles.
 <!--gen:stats act="Chapter 1"-->
 
-- **Estimated length:** 2 h 01 min
+- **Estimated length:** 2 h 03 min
 - **Sampled range:** 1 h 44 min to 2 h 34 min for the middle half (full spread 1 h 32 min to 3 h 23 min) across 10 playthrough uploads (21 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (16):** Wretched Brats; Dr.Papper; To the New World; Chicago Rescue; Sharpodonty and Black Wine; The Rosa Killer; Scorched Woods; Druvis III; Security Carnival; The Origin Butterfly; Charge Baby, Charge!; Appetizers; The Rattenfanger; The Eye of the Storm; Underground Labyrinth; Heaven Apostles
 <!--/gen-->
@@ -126,8 +126,8 @@ and find the speakeasy the Manus Vindictae run underneath it.
 | 1 h 47 min | Reverse: 1999 \| Main Story Chapter 1 (In Our Time) All Episode | JihoEcho | 51 | 2023-11-02 | <https://www.youtube.com/watch?v=_NHB7EVf6Is> |
 | 1 h 47 min | In Our Time \| Chapter 1 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 120 | 2023-12-28 | <https://www.youtube.com/watch?v=jBusmTGWbLE> |
 | 1 h 57 min | Chapter 1: In Our Time - Full Story \| Reverse: 1999 | Villenthessis | ~25,781 | n/a | <https://www.youtube.com/watch?v=vulMnWPhZhE> |
-| 2 h 05 min | 【Reverse: 1999】- Walkthrough Part 1 -【Chapter 1: In Our Time \| 4K60】 | Slice of Life  | 270 | 2023-10-30 | <https://www.youtube.com/watch?v=ipD0nTSWLDY> |
 | 2 h 09 min | In Our Time \| Reverse 1999 Main Storyline Chapter 1 \| No Commentary | NEON DEMON | 21 | 2025-09-27 | <https://www.youtube.com/watch?v=Ce-O_xIlILU> |
+| 2 h 17 min | 【Reverse: 1999】- Walkthrough Part 1 -【Chapter 1: In Our Time \| 4K60】 | Slice of Life  | 270 | 2023-10-30 | <https://www.youtube.com/watch?v=ipD0nTSWLDY> |
 | 2 h 30 min | In Our Time \| Reverse: 1999 \| Chapter 1 Full Story [No Commentary] [CBT] | 八咫烏_Merui | ~23,059 | n/a | <https://www.youtube.com/watch?v=y-m56nn4LeQ> |
 | 2 h 48 min | Reverse 1999 (Main Story) - The Living and the Rest - Chapter 1 | LT Uni Neptunia Gaming | 9 | 2026-06-29 | <https://www.youtube.com/watch?v=8XyGpeMWk7s> |
 | 3 h 23 min | Reverse:1999 New Global CBT Full Gameplay \| Chapter 1: In Our Time Chapter Main Story Walkthrough | Noxxis Gaming | 19,890 | 2023-08-04 | <https://www.youtube.com/watch?v=_uvD5sUR_Jg> |
@@ -185,12 +185,12 @@ and the assembly the students sing a Manus poem at.
 <!--f:parts_Chapter_3-->16<!--/f--> stages.
 <!--gen:stats act="Chapter 3"-->
 
-- **Estimated length:** 2 h 52 min
-- **Sampled range:** 2 h 11 min to 3 h 10 min for the middle half (full spread 1 h 59 min to 4 h 02 min) across 13 playthrough uploads (22 further candidates screened out)
+- **Estimated length:** 2 h 39 min
+- **Sampled range:** 2 h 09 min to 3 h 04 min for the middle half (full spread 1 h 59 min to 3 h 27 min) across 12 playthrough uploads (23 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 13 uploads
+- **Stability:** median -8% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (16):** Chaldean Oracles; Frog and Toffee; Stalkee; New Blood; A Deep Sleep; Black Sheep Wall; Scottish; Scattered Pamphlets; George the Oak; O Captain!; Freedom of the Dumb; Burning Tears; A Yard; Lost Lambs; The Other Future; Storm and the New World
 <!--/gen-->
 
@@ -212,7 +212,6 @@ and the assembly the students sing a Manus poem at.
 | 3 h 04 min | Nouvelles et Textes pour rien \| Reverse: 1999 \| Chapter 3 Full Story [No Commentary] [CBT] | 八咫烏_Merui | 13,710 | 2023-08-10 | <https://www.youtube.com/watch?v=Yj7sgYOg6-M> |
 | 3 h 15 min | Reverse 1999 Full Story Playthrough - Chapter 3 | Dastopia | 24 | 2023-10-30 | <https://www.youtube.com/watch?v=VXsmGu2gUvU> |
 | 3 h 27 min | Reverse: 1999; Chapter 3: Nouvelles et Textes pour Rien [NO COMMENTARY] | Vilwyn | ~2 | n/a | <https://www.youtube.com/watch?v=xYXjtNifuY4> |
-| 4 h 02 min | Reverse: 1999 ~ working my way through Chapter 3 story quests ♥︎ (Streamed 11/20/25) | honeygarlicLIVE | 41 | 2025-11-25 | <https://www.youtube.com/watch?v=09Ixc7n67qI> |
 
 </details>
 <!--/gen-->

@@ -41,3 +41,4 @@
 \baffinity\b
 \bcn (?:server|version|release|story)\b
 \bbeta\b
+\baudiobook\b

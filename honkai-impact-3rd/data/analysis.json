@@ -7722,7 +7722,7 @@
     ]
    },
    {
-    "seconds": 7531,
+    "seconds": 8392,
     "title": "Honkai Impact 3rd - Part 015: Plain of Vigrid",
     "uploader": "Ideasthete",
     "url": "https://www.youtube.com/watch?v=4o6KsQMMyQI",
@@ -7732,9 +7732,9 @@
     "runtime": 8392,
     "measured": "chapter-markers",
     "parts": {
-     "Undercurrent": 2459,
-     "Twilight": 2303,
-     "Torrents": 746,
+     "Undercurrent": 2672,
+     "Twilight": 2688,
+     "Torrents": 1009,
      "Daybreak": 803,
      "Echo of Shadows": 514,
      "Echo of Light": 706
@@ -7942,7 +7942,15 @@
     "rejected": []
    },
    {
-    "seconds": 7531,
+    "seconds": 8025,
+    "title": "Honkai Impact 3rd - pushing further into the story! Level 53, let's go! Chapter XII: Plain of Vigrid",
+    "uploader": "Ferenjianboard Introspection Protocols",
+    "url": "https://www.youtube.com/watch?v=WDU6NavklEI",
+    "views": "3",
+    "rejected": []
+   },
+   {
+    "seconds": 8392,
     "title": "Honkai Impact 3rd - Part 015: Plain of Vigrid",
     "uploader": "Ideasthete",
     "url": "https://www.youtube.com/watch?v=4o6KsQMMyQI",
@@ -7952,21 +7960,13 @@
     "runtime": 8392,
     "measured": "chapter-markers",
     "parts": {
-     "Undercurrent": 2459,
-     "Twilight": 2303,
-     "Torrents": 746,
+     "Undercurrent": 2672,
+     "Twilight": 2688,
+     "Torrents": 1009,
      "Daybreak": 803,
      "Echo of Shadows": 514,
      "Echo of Light": 706
     }
-   },
-   {
-    "seconds": 8025,
-    "title": "Honkai Impact 3rd - pushing further into the story! Level 53, let's go! Chapter XII: Plain of Vigrid",
-    "uploader": "Ferenjianboard Introspection Protocols",
-    "url": "https://www.youtube.com/watch?v=WDU6NavklEI",
-    "views": "3",
-    "rejected": []
    },
    {
     "seconds": 8709,
@@ -7983,8 +7983,8 @@
    "low": 59,
    "high": 145,
    "q1": 97,
-   "q3": 128,
-   "trimmed_mean": 111,
+   "q3": 135,
+   "trimmed_mean": 112,
    "measured": 1,
    "parts": {},
    "drift": 1.375
@@ -15255,7 +15255,7 @@
     ]
    },
    {
-    "seconds": 1253,
+    "seconds": 6081,
     "title": "Honkai Impact 3rd - Chapter 25 EX (Act. 1, The Experiment and The Mission)",
     "uploader": "Jirangu",
     "url": "https://www.youtube.com/watch?v=W0aSQGxtwBc",
@@ -15263,10 +15263,7 @@
     "rejected": [
      "fragment"
     ],
-    "upload_date": "20210918",
-    "runtime": 6081,
-    "measured": "chapter-markers",
-    "parts": {}
+    "upload_date": "20210918"
    },
    {
     "seconds": 151,

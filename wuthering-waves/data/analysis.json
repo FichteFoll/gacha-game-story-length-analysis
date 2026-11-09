@@ -16193,7 +16193,9 @@
     "uploader": "ODD JOBS OFFICE",
     "url": "https://www.youtube.com/watch?v=yUFmG9BJQPw",
     "views": 58,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260717"
    },
    {
@@ -16783,28 +16785,19 @@
     "views": 25,
     "rejected": [],
     "upload_date": "20260710"
-   },
-   {
-    "seconds": 14558,
-    "title": "The Wind Before the Storm \"Wuthering Waves\" (main quest) Chill Streaming ODD JOBS OFFICE",
-    "uploader": "ODD JOBS OFFICE",
-    "url": "https://www.youtube.com/watch?v=yUFmG9BJQPw",
-    "views": 58,
-    "rejected": [],
-    "upload_date": "20260717"
    }
   ],
   "stats": {
-   "n": 26,
-   "median": 164,
+   "n": 25,
+   "median": 163,
    "low": 100,
-   "high": 243,
-   "q1": 151,
-   "q3": 178,
-   "trimmed_mean": 164,
+   "high": 199,
+   "q1": 148,
+   "q3": 174,
+   "trimmed_mean": 163,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.006
   }
  },
  {

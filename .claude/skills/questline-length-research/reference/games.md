@@ -260,10 +260,12 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   Beware `\blore\b` in the shared reject list: the *Dawnforger* campaign's
   own character is named Loreley, and an unbounded `lore` threw away every
   complete upload of Chapters 18 and 19.
-  The main story runs past what the game numbers - `Moonshroud Requiem` and
-  `Chiral Redundancy` are filed under it with no chapter number, and
-  `Siege of Iliad` is Chinese-server only - so the report's scope is the
-  numbered chapters and it says so.
+  The main story runs past what the game numbers - `Moonshroud Requiem` is
+  filed under it with no chapter number, and `Siege of Iliad` is
+  Chinese-server only - so the report's scope is the numbered chapters
+  and it says so.
+  `Chiral Redundancy` was unnumbered too until the wiki filed its two parts
+  as Chapters 20 and 21, so check the unnumbered campaigns on every update.
 
 - **Punishing: Gray Raven.** The fifth game here whose *entry* is a chapter,
   and the one whose wiki documents the least of it. Main story chapters are

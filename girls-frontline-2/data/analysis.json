@@ -2623,7 +2623,9 @@
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=SeFOTh-b8TI",
     "views": "9",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 3398,
@@ -2724,14 +2726,6 @@
     "rejected": []
    },
    {
-    "seconds": 7976,
-    "title": "Girls' Frontline 2: Exilium | Sojourners of the Glass Island - Part 2: Mysterious Assailant",
-    "uploader": "mj-r2",
-    "url": "https://www.youtube.com/watch?v=SeFOTh-b8TI",
-    "views": "9",
-    "rejected": []
-   },
-   {
     "seconds": 11529,
     "title": "Girls' Frontline 2: Chapter 6.7 - Sojourners of the Glass Island Part 3",
     "uploader": "\u767d\u732b\uff08Shiro\uff09",
@@ -2741,16 +2735,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 116,
+   "n": 9,
+   "median": 104,
    "low": 66,
    "high": 192,
-   "q1": 83,
-   "q3": 133,
-   "trimmed_mean": 111,
+   "q1": 79,
+   "q3": 131,
+   "trimmed_mean": 112,
    "measured": 0,
    "parts": {},
-   "drift": 0.126
+   "drift": 0.01
   }
  },
  {
@@ -3211,7 +3205,9 @@
     "uploader": "Soul Thewhiteangel",
     "url": "https://www.youtube.com/watch?v=jvMJsvxjULA",
     "views": "85",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 22121,
@@ -3381,14 +3377,6 @@
     "rejected": []
    },
    {
-    "seconds": 19691,
-    "title": "Continuing the Story of GFL2! Chapter 8 (Plus more)",
-    "uploader": "Soul Thewhiteangel",
-    "url": "https://www.youtube.com/watch?v=jvMJsvxjULA",
-    "views": "85",
-    "rejected": []
-   },
-   {
     "seconds": 22121,
     "title": "GFL2 Exilium: Chapter 8 \"Aliasing Effect\" + \"Amidst Wings of Gray\" Story Quests | Blind Playthrough",
     "uploader": "toufusoup",
@@ -3398,16 +3386,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 242,
+   "n": 11,
+   "median": 237,
    "low": 171,
    "high": 369,
-   "q1": 201,
-   "q3": 313,
-   "trimmed_mean": 251,
+   "q1": 198,
+   "q3": 279,
+   "trimmed_mean": 243,
    "measured": 1,
    "parts": {},
-   "drift": 0.021
+   "drift": 0.0
   }
  },
  {
@@ -3849,7 +3837,7 @@
     "url": "https://www.youtube.com/watch?v=IsqkaM8q53c",
     "views": 55,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20250303"
    },
@@ -3860,7 +3848,7 @@
     "url": "https://www.youtube.com/watch?v=LEE0dLLGy1s",
     "views": 29,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20250305"
    },
@@ -4248,7 +4236,9 @@
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=S_Xr0CYvT24",
     "views": 39,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250407",
     "runtime": 7215,
     "measured": "chapter-markers",
@@ -4292,7 +4282,7 @@
     "url": "https://www.youtube.com/watch?v=SQ3IluwptEs",
     "views": 14,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20250412",
     "runtime": 6519,
@@ -4483,27 +4473,6 @@
     "rejected": []
    },
    {
-    "seconds": 6124,
-    "title": "Girls' Frontline 2: Exilium | Aphelion - Part 1: H.I.D.E 404",
-    "uploader": "mj-r2",
-    "url": "https://www.youtube.com/watch?v=S_Xr0CYvT24",
-    "views": 39,
-    "rejected": [],
-    "upload_date": "20250407",
-    "runtime": 7215,
-    "measured": "chapter-markers",
-    "parts": {
-     "9-2: Eye of th'e Storm": 765,
-     "9-3: Secondary Mirror": 832,
-     "9-4: Out of Focus": 508,
-     "9-5: Roche Limit": 1021,
-     "SL-9-1: Entangled State": 879,
-     "9-6: Dual-Beam Observation": 743,
-     "SL-9-2: Dormant Black Hole": 389,
-     "9-7: Lattice Distortion": 987
-    }
-   },
-   {
     "seconds": 7019,
     "title": "Aphelion Part 1 (Chapter 9) - Full Story (Klukai event) | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
@@ -4670,31 +4639,30 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 159,
+   "n": 14,
+   "median": 160,
    "low": 100,
    "high": 243,
-   "q1": 127,
-   "q3": 212,
-   "trimmed_mean": 166,
-   "measured": 4,
+   "q1": 142,
+   "q3": 214,
+   "trimmed_mean": 171,
+   "measured": 3,
    "parts": {
     "9-1: Twilight": 16,
-    "9-2: Eye of th'e Storm": 13,
+    "9-2: Eye of th'e Storm": 14,
     "9-3: Secondary Mirror": 12,
-    "9-4: Out of Focus": 6,
-    "9-5: Roche Limit": 14,
-    "SL-9-1: Entangled State": 17,
+    "9-4: Out of Focus": 3,
+    "SL-9-1: Entangled State": 18,
     "9-6: Dual-Beam Observation": 12,
     "SL-9-2: Dormant Black Hole": 6,
-    "9-7: Lattice Distortion": 12,
+    "9-7: Lattice Distortion": 11,
     "SL-9-3: Delayed Signal": 29,
     "9-8: Tidal Effect": 6,
     "9-9: Buried Consciousness": 14,
     "9-10: Fusion": 35,
     "SL-9-4: Approaching Light": 28
    },
-   "drift": 0.0
+   "drift": 0.006
   }
  },
  {
@@ -4786,7 +4754,7 @@
     "url": "https://www.youtube.com/watch?v=SQ3IluwptEs",
     "views": 14,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20250412"
    },
@@ -4921,7 +4889,8 @@
     "url": "https://www.youtube.com/watch?v=VkiIIaWdoaY",
     "views": "41",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -5153,7 +5122,7 @@
     "url": "https://www.youtube.com/watch?v=g08unASiB2k",
     "views": "10",
     "rejected": [
-     "same-uploader"
+     "fragment"
     ]
    },
    {
@@ -5162,7 +5131,9 @@
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=Fh1El-ESEjg",
     "views": 10,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260115",
     "runtime": 13534,
     "measured": "chapter-markers",
@@ -5191,6 +5162,7 @@
     "url": "https://www.youtube.com/watch?v=zJM5TyBAe_w",
     "views": 8,
     "rejected": [
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260117"
@@ -5352,34 +5324,6 @@
     "upload_date": "20260106"
    },
    {
-    "seconds": 13534,
-    "title": "Girls' Frontline 2: Exilium | Deep Oblivion - Part 2: Hidden Intentions",
-    "uploader": "mj-r2",
-    "url": "https://www.youtube.com/watch?v=Fh1El-ESEjg",
-    "views": 10,
-    "rejected": [],
-    "upload_date": "20260115",
-    "runtime": 13534,
-    "measured": "chapter-markers",
-    "parts": {
-     "LA-1-5: Routine Traffic Stop": 699,
-     "LA-1-6: Danger Sign I": 606,
-     "LA-1-8: Bizarre Investigation": 864,
-     "LS-1-4: Projection Conflict": 1317,
-     "LA-1-9: Invisible Tactics": 404,
-     "LS-1-5: Hidden Clues": 1170,
-     "LA-1-10: DEFY I": 2022,
-     "LA-1-12: Third-Generation Doll": 1191,
-     "LS-1-6: Yearn for freedom": 1069,
-     "LA-1-13: Destruction Schedule": 575,
-     "LA-1-14: Breaking Out": 398,
-     "LA-1-15: Mortal Choice": 600,
-     "LA-1-16: Only Chance": 812,
-     "LA-1-17: Sheltering Wings": 1210,
-     "LS-1-7: Strife and Confusion": 597
-    }
-   },
-   {
     "seconds": 13942,
     "title": "Deep Oblivion - Part 1 | Full Story | Girls' Frontline 2: Exilium",
     "uploader": "Villenthessis",
@@ -5502,32 +5446,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 248,
+   "n": 9,
+   "median": 261,
    "low": 223,
    "high": 391,
-   "q1": 231,
-   "q3": 330,
-   "trimmed_mean": 271,
-   "measured": 3,
-   "parts": {
-    "LA-1-5: Routine Traffic Stop": 6,
-    "LA-1-6: Danger Sign I": 2,
-    "LA-1-8: Bizarre Investigation": 7,
-    "LS-1-4: Projection Conflict": 17,
-    "LA-1-9: Invisible Tactics": 3,
-    "LS-1-5: Hidden Clues": 16,
-    "LA-1-10: DEFY I": 21,
-    "LA-1-12: Third-Generation Doll": 12,
-    "LS-1-6: Yearn for freedom": 15,
-    "LA-1-13: Destruction Schedule": 7,
-    "LA-1-14: Breaking Out": 2,
-    "LA-1-15: Mortal Choice": 4,
-    "LA-1-16: Only Chance": 11,
-    "LA-1-17: Sheltering Wings": 19,
-    "LS-1-7: Strife and Confusion": 8
-   },
-   "drift": 0.0
+   "q1": 233,
+   "q3": 331,
+   "trimmed_mean": 284,
+   "measured": 2,
+   "parts": {},
+   "drift": 0.052
   }
  },
  {
@@ -5622,7 +5550,9 @@
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=Fh1El-ESEjg",
     "views": 10,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260115"
    },
    {
@@ -5643,7 +5573,7 @@
     "url": "https://www.youtube.com/watch?v=Q6Fe2ZwQplY",
     "views": 14,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260119",
     "runtime": 10651,
@@ -5667,6 +5597,7 @@
     "url": "https://www.youtube.com/watch?v=g08unASiB2k",
     "views": "10",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -5760,15 +5691,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 13534,
-    "title": "Girls' Frontline 2: Exilium | Deep Oblivion - Part 2: Hidden Intentions",
-    "uploader": "mj-r2",
-    "url": "https://www.youtube.com/watch?v=Fh1El-ESEjg",
-    "views": 10,
-    "rejected": [],
-    "upload_date": "20260115"
-   },
    {
     "seconds": 13730,
     "title": "Deep Oblivion Part 2 - Robella story | Girl's Frontline 2 Exilium [GFL2]",
@@ -5874,16 +5796,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 284,
-   "low": 226,
+   "n": 9,
+   "median": 306,
+   "low": 229,
    "high": 394,
-   "q1": 234,
-   "q3": 343,
-   "trimmed_mean": 289,
+   "q1": 239,
+   "q3": 349,
+   "trimmed_mean": 300,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.077
   }
  },
  {
@@ -5931,7 +5853,9 @@
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=k2esobGPGLk",
     "views": "36",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 16588,
@@ -6089,14 +6013,6 @@
   ],
   "kept": [
    {
-    "seconds": 9902,
-    "title": "Girls frontline 2 Exilium Chapter 12.5 (Intertwined Assault. Lenna Event) Part 1",
-    "uploader": "Macu_bravo",
-    "url": "https://www.youtube.com/watch?v=k2esobGPGLk",
-    "views": "36",
-    "rejected": []
-   },
-   {
     "seconds": 12488,
     "title": "Intertwined Assault | Full Story | Girls' Frontline 2: Exilium",
     "uploader": "Villenthessis",
@@ -6218,13 +6134,13 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 266,
-   "low": 165,
+   "n": 9,
+   "median": 276,
+   "low": 208,
    "high": 473,
-   "q1": 212,
-   "q3": 298,
-   "trimmed_mean": 257,
+   "q1": 213,
+   "q3": 303,
+   "trimmed_mean": 281,
    "measured": 3,
    "parts": {
     "LS-1-1: Under the Undercurrents": 35,
@@ -6237,7 +6153,7 @@
     "LA-1-9: Forged Choice": 18,
     "LS-1-2: Lingering Traces": 10
    },
-   "drift": 0.0
+   "drift": 0.038
   }
  },
  {
@@ -7069,7 +6985,7 @@
     "url": "https://www.youtube.com/watch?v=oaoyARCppvM",
     "views": "9",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -7125,12 +7041,31 @@
     "upload_date": "20260313"
    },
    {
-    "seconds": 29968,
+    "seconds": 29927,
     "title": "Girls\u2019 Frontline 2 Exilium - Corposant Part 2 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=tlzUDSLWXjw",
-    "views": "1385",
-    "rejected": []
+    "views": 1482,
+    "rejected": [],
+    "upload_date": "20260313",
+    "runtime": 29967,
+    "measured": "chapter-markers",
+    "parts": {
+     "VS-1-1: Enter, Stage Left": 992,
+     "VA-1-1: Knight I": 2413,
+     "VS-1-2: King I": 2068,
+     "VA-1-2: Hunter I": 3071,
+     "VS-1-4: Witch I": 3784,
+     "VS-1-5: Prophet I": 3922,
+     "VA-1-8: Confluence": 2228,
+     "VZ-1-1: Beyond The Stage I": 3841,
+     "VS-1-7: Door Ajar": 1316,
+     "VA-1-9: Faithful Sacrifice": 731,
+     "VA-1-11: Collapsing Epiphyllum": 956,
+     "VA-1-12: Princess' Dream": 2397,
+     "VS-1-10: The Curtain Falls": 831,
+     "VS-1-11: New Script": 1377
+    }
    },
    {
     "seconds": 1869,
@@ -7372,12 +7307,31 @@
     "rejected": []
    },
    {
-    "seconds": 29968,
+    "seconds": 29927,
     "title": "Girls\u2019 Frontline 2 Exilium - Corposant Part 2 (Event Story, JP VA)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=tlzUDSLWXjw",
-    "views": "1385",
-    "rejected": []
+    "views": 1482,
+    "rejected": [],
+    "upload_date": "20260313",
+    "runtime": 29967,
+    "measured": "chapter-markers",
+    "parts": {
+     "VS-1-1: Enter, Stage Left": 992,
+     "VA-1-1: Knight I": 2413,
+     "VS-1-2: King I": 2068,
+     "VA-1-2: Hunter I": 3071,
+     "VS-1-4: Witch I": 3784,
+     "VS-1-5: Prophet I": 3922,
+     "VA-1-8: Confluence": 2228,
+     "VZ-1-1: Beyond The Stage I": 3841,
+     "VS-1-7: Door Ajar": 1316,
+     "VA-1-9: Faithful Sacrifice": 731,
+     "VA-1-11: Collapsing Epiphyllum": 956,
+     "VA-1-12: Princess' Dream": 2397,
+     "VS-1-10: The Curtain Falls": 831,
+     "VS-1-11: New Script": 1377
+    }
    },
    {
     "seconds": 34367,
@@ -7403,8 +7357,8 @@
    "high": 597,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 464,
-   "measured": 0,
+   "trimmed_mean": 463,
+   "measured": 1,
    "parts": {},
    "drift": 0.048
   }
@@ -7423,7 +7377,9 @@
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=yV8ibvBECwY",
     "views": "85",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 30242,
@@ -7478,7 +7434,7 @@
     "url": "https://www.youtube.com/watch?v=Y1fd8BbnrNc",
     "views": 46,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20260430"
    },
@@ -7548,24 +7504,27 @@
     "upload_date": "20260429"
    },
    {
-    "seconds": 15766,
+    "seconds": 15765,
     "title": "Chapter 17 \"Antiparallel, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=o4nDclFWLGY",
-    "views": "93",
+    "views": 124,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260517"
    },
    {
-    "seconds": 8414,
+    "seconds": 8413,
     "title": "Girls' Frontline 2: Exilium | Antiparallel - Part 4: [Ending] No More Strings",
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=vZghkKGJ1HE",
-    "views": "7",
+    "views": 9,
     "rejected": [
+     "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260707"
    },
    {
     "seconds": 7360,
@@ -7708,10 +7667,11 @@
     "title": "Girls\u2019 Frontline 2 Exilium - Moonshround Requiem (Event Story)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=0HruRG6fT30",
-    "views": "40",
+    "views": 91,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260810"
    },
    {
     "seconds": 8661,
@@ -7724,14 +7684,15 @@
     ]
    },
    {
-    "seconds": 13564,
+    "seconds": 13563,
     "title": "Moonshroud Requiem - Sextans story | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
     "url": "https://www.youtube.com/watch?v=mozm8vAH-CE",
-    "views": "185",
+    "views": 1197,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260823"
    },
    {
     "seconds": 1205,
@@ -7807,14 +7768,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 11276,
-    "title": "Girls frontline 2 Exilium Chapter 16 (Antiparallel 1. Helen Event) Part 1",
-    "uploader": "Macu_bravo",
-    "url": "https://www.youtube.com/watch?v=yV8ibvBECwY",
-    "views": "85",
-    "rejected": []
-   },
    {
     "seconds": 15640,
     "title": "Girls' Frontline 2 Antiparallel Part 1 Story Eng Sub",
@@ -7936,13 +7889,13 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 421,
-   "low": 188,
+   "n": 7,
+   "median": 428,
+   "low": 261,
    "high": 654,
-   "q1": 289,
-   "q3": 493,
-   "trimmed_mean": 410,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 442,
    "measured": 3,
    "parts": {
     "HA-1-1: Slumbering Nightmare": 25,
@@ -7961,7 +7914,7 @@
     "HA-1-11: Chiaroscuro": 37,
     "HS-1-4: Home of My heart": 30
    },
-   "drift": 0.0
+   "drift": 0.017
   }
  },
  {
@@ -7973,28 +7926,31 @@
   "slug": "v4_Chapter_17",
   "candidates": [
    {
-    "seconds": 15766,
+    "seconds": 15765,
     "title": "Chapter 17 \"Antiparallel, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=o4nDclFWLGY",
-    "views": "93",
-    "rejected": []
+    "views": 124,
+    "rejected": [],
+    "upload_date": "20260517"
    },
    {
     "seconds": 14719,
     "title": "Girls' Frontline 2 EXILIUM - Chapter 17 [Event] Antiparallel - Part 2",
     "uploader": "Demonikar",
     "url": "https://www.youtube.com/watch?v=p30nYUxvJE4",
-    "views": "15",
-    "rejected": []
+    "views": 15,
+    "rejected": [],
+    "upload_date": "20260529"
    },
    {
     "seconds": 10513,
     "title": "Girls frontline 2 Exilium Chapter 17 (Antiparallel 2. Phaetusa Event)",
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=nPsA3aJ3YEc",
-    "views": "12",
-    "rejected": []
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260520"
    },
    {
     "seconds": 13230,
@@ -8045,24 +8001,38 @@
     "upload_date": "20260520"
    },
    {
-    "seconds": 8414,
+    "seconds": 8413,
     "title": "Girls' Frontline 2: Exilium | Antiparallel - Part 4: [Ending] No More Strings",
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=vZghkKGJ1HE",
-    "views": "7",
+    "views": 9,
     "rejected": [
-     "act-mismatch"
-    ]
+     "fragment"
+    ],
+    "upload_date": "20260707",
+    "runtime": 8413,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-5: Pursuing Calamity": 1683,
+     "PA-1-6: Hidden Land": 657,
+     "PS-1-3: Destruction and Rebirth": 1636,
+     "PA-1-7: March of Resistance": 679,
+     "PA-1-8: Distant Bloodline": 2108,
+     "PA-1-9: Gentle Finale": 1111,
+     "PS-1-4: Awaiting Departure": 539
+    }
    },
    {
-    "seconds": 14722,
+    "seconds": 14721,
     "title": "Girls' Frontline 2: Exilium | Antiparallel - Part 1: Days Gone Bye",
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=Zr-4n88QCCM",
-    "views": "12",
+    "views": 15,
     "rejected": [
+     "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260614"
    },
    {
     "seconds": 14999,
@@ -8070,7 +8040,9 @@
     "uploader": "mj-r2",
     "url": "https://www.youtube.com/watch?v=F5GVrjYfZbM",
     "views": 6,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260701"
    },
    {
@@ -8144,46 +8116,84 @@
     }
    },
    {
-    "seconds": 16299,
+    "seconds": 16298,
     "title": "Antiparallel (Part 2/2, Phaetusa) Story Event One-Shot Playthrough | Girls' Frontline 2: Exilium",
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=t6kWQDpAY-U",
-    "views": "215",
-    "rejected": []
+    "views": 273,
+    "rejected": [],
+    "upload_date": "20260515"
    },
    {
     "seconds": 9071,
     "title": "Girls' Frontline 2 Antiparallel Part 2 Story Eng Sub",
     "uploader": "THOA",
     "url": "https://www.youtube.com/watch?v=g3u7kX8CVak",
-    "views": "101",
-    "rejected": []
+    "views": 127,
+    "rejected": [],
+    "upload_date": "20260603"
    },
    {
-    "seconds": 16274,
+    "seconds": 16241,
     "title": "\u3010 Antiparallel Part 2 - Phaetusa Event \u3011| Girls Frontline 2 Exilium (Commentary)",
     "uploader": "TheRealKardiac",
     "url": "https://www.youtube.com/watch?v=li7Bqrd2AOk",
-    "views": "9",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20260807",
+    "runtime": 16273,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-1: Desolate Blossom": 1516,
+     "PA-1-2: Promised Determination": 2569,
+     "PA-1-3: Flourishing Greenery": 1719,
+     "PS-1-2: Frigid Summons": 1178,
+     "PA-1-4: Discordant Note": 1694,
+     "PA-1-5: Pursuing Calamity": 1460,
+     "PA-1-6: Hidden Land": 425,
+     "PS-1-3: Destruction and Rebirth": 1437,
+     "PA-1-7: March of Resistance": 475,
+     "PA-1-8: Distant Bloodline": 2001,
+     "PA-1-9: Gentle Finale": 1021,
+     "PS-1-4: Awaiting Departure": 746
+    }
    },
    {
-    "seconds": 3267,
+    "seconds": 3266,
     "title": "Antiparallel - Part 2 (2/3)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=Yzx5yEnaL5I",
-    "views": "21",
+    "views": 22,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260607"
    },
    {
-    "seconds": 20459,
+    "seconds": 20275,
     "title": "\u3010Girls' Frontline 2\u3011Event - Antiparallel Part 2 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=ibISPEi8TxE",
-    "views": "441",
-    "rejected": []
+    "views": 560,
+    "rejected": [],
+    "upload_date": "20260604",
+    "runtime": 20459,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-1: Desolate Blossom": 1875,
+     "PA-1-2: Promised Determination": 2579,
+     "PS-1-1: Schr\u00f6dinger's Trust": 867,
+     "PA-1-3: Flourishing Greenery": 2121,
+     "PS-1-2: Frigid Summons": 1530,
+     "PA-1-4: Discordant Note": 2259,
+     "PA-1-5: Pursuing Calamity": 1802,
+     "PA-1-6: Hidden Land": 397,
+     "PS-1-3: Destruction and Rebirth": 2074,
+     "PA-1-7: March of Resistance": 489,
+     "PA-1-8: Distant Bloodline": 2465,
+     "PA-1-9: Gentle Finale": 1051,
+     "PS-1-4: Awaiting Departure": 766
+    }
    },
    {
     "seconds": 6917,
@@ -8192,9 +8202,95 @@
     "url": "https://www.youtube.com/watch?v=Y1fd8BbnrNc",
     "views": 46,
     "rejected": [
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260430"
+   },
+   {
+    "seconds": 2665,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM Part 135, No Commentary Playthrough on PC",
+    "uploader": "chaossonic 00",
+    "url": "https://www.youtube.com/watch?v=QXSJoS2FvMY",
+    "views": 5,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260518"
+   },
+   {
+    "seconds": 102,
+    "title": "Antiparallel Part 1 OST | Seraphim Protocol: Helen | Girls' Frontline 2: Exilium",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=QR_qenkFuro",
+    "views": "9622",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1049,
+    "title": "The Entire Story Explained - Girls Frontline 2: Exilium - Full Story Recap - Main Story Chapters 1-7",
+    "uploader": "Francis Lee Arthur",
+    "url": "https://www.youtube.com/watch?v=BpzGViwW_Tk",
+    "views": "22120",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9006,
+    "title": "\u3010Girls Frontline 2 Exilium\u3011 Cult Con [#17]",
+    "uploader": "Cutie Bunni",
+    "url": "https://www.youtube.com/watch?v=f-NtWM4bP00",
+    "views": 2518,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260831"
+   },
+   {
+    "seconds": 1300,
+    "title": "GFL2: Exilium | Dreambound Neverland Pt.17 - Brighter Than the Sun",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=xsPdt8940Ek",
+    "views": "236",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 925,
+    "title": "Antiparallel - Helen and Phaetusa story | Girl's Frontline 2 Exilium [GFL2]",
+    "uploader": "eLLiXeon",
+    "url": "https://www.youtube.com/watch?v=YIB_hdAyyuA",
+    "views": 862,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260605",
+    "runtime": 26240,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-9: Gentle Finale": 581,
+     "PS-1-4: Awaiting Departure": 344
+    }
+   },
+   {
+    "seconds": 342,
+    "title": "Girls' Frontline 2: Exilium | [CLIP] GROZA BREAKS DOWN (Dawnforger)",
+    "uploader": "Far2close - Visual Novel Playthroughs",
+    "url": "https://www.youtube.com/watch?v=2-JBjYIJ90k",
+    "views": "1322",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
    }
   ],
   "kept": [
@@ -8203,16 +8299,18 @@
     "title": "Girls' Frontline 2 Antiparallel Part 2 Story Eng Sub",
     "uploader": "THOA",
     "url": "https://www.youtube.com/watch?v=g3u7kX8CVak",
-    "views": "101",
-    "rejected": []
+    "views": 127,
+    "rejected": [],
+    "upload_date": "20260603"
    },
    {
     "seconds": 10513,
     "title": "Girls frontline 2 Exilium Chapter 17 (Antiparallel 2. Phaetusa Event)",
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=nPsA3aJ3YEc",
-    "views": "12",
-    "rejected": []
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260520"
    },
    {
     "seconds": 13230,
@@ -8270,67 +8368,109 @@
     "title": "Girls' Frontline 2 EXILIUM - Chapter 17 [Event] Antiparallel - Part 2",
     "uploader": "Demonikar",
     "url": "https://www.youtube.com/watch?v=p30nYUxvJE4",
-    "views": "15",
-    "rejected": []
-   },
-   {
-    "seconds": 14999,
-    "title": "Girls' Frontline 2: Exilium | Antiparallel - Part 2: A Place of Belonging",
-    "uploader": "mj-r2",
-    "url": "https://www.youtube.com/watch?v=F5GVrjYfZbM",
-    "views": 6,
+    "views": 15,
     "rejected": [],
-    "upload_date": "20260701"
+    "upload_date": "20260529"
    },
    {
-    "seconds": 15766,
+    "seconds": 15765,
     "title": "Chapter 17 \"Antiparallel, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=o4nDclFWLGY",
-    "views": "93",
-    "rejected": []
+    "views": 124,
+    "rejected": [],
+    "upload_date": "20260517"
    },
    {
-    "seconds": 16274,
+    "seconds": 16241,
     "title": "\u3010 Antiparallel Part 2 - Phaetusa Event \u3011| Girls Frontline 2 Exilium (Commentary)",
     "uploader": "TheRealKardiac",
     "url": "https://www.youtube.com/watch?v=li7Bqrd2AOk",
-    "views": "9",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20260807",
+    "runtime": 16273,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-1: Desolate Blossom": 1516,
+     "PA-1-2: Promised Determination": 2569,
+     "PA-1-3: Flourishing Greenery": 1719,
+     "PS-1-2: Frigid Summons": 1178,
+     "PA-1-4: Discordant Note": 1694,
+     "PA-1-5: Pursuing Calamity": 1460,
+     "PA-1-6: Hidden Land": 425,
+     "PS-1-3: Destruction and Rebirth": 1437,
+     "PA-1-7: March of Resistance": 475,
+     "PA-1-8: Distant Bloodline": 2001,
+     "PA-1-9: Gentle Finale": 1021,
+     "PS-1-4: Awaiting Departure": 746
+    }
    },
    {
-    "seconds": 16299,
+    "seconds": 16298,
     "title": "Antiparallel (Part 2/2, Phaetusa) Story Event One-Shot Playthrough | Girls' Frontline 2: Exilium",
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=t6kWQDpAY-U",
-    "views": "215",
-    "rejected": []
+    "views": 273,
+    "rejected": [],
+    "upload_date": "20260515"
    },
    {
-    "seconds": 20459,
+    "seconds": 20275,
     "title": "\u3010Girls' Frontline 2\u3011Event - Antiparallel Part 2 : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=ibISPEi8TxE",
-    "views": "441",
-    "rejected": []
+    "views": 560,
+    "rejected": [],
+    "upload_date": "20260604",
+    "runtime": 20459,
+    "measured": "chapter-markers",
+    "parts": {
+     "PA-1-1: Desolate Blossom": 1875,
+     "PA-1-2: Promised Determination": 2579,
+     "PS-1-1: Schr\u00f6dinger's Trust": 867,
+     "PA-1-3: Flourishing Greenery": 2121,
+     "PS-1-2: Frigid Summons": 1530,
+     "PA-1-4: Discordant Note": 2259,
+     "PA-1-5: Pursuing Calamity": 1802,
+     "PA-1-6: Hidden Land": 397,
+     "PS-1-3: Destruction and Rebirth": 2074,
+     "PA-1-7: March of Resistance": 489,
+     "PA-1-8: Distant Bloodline": 2465,
+     "PA-1-9: Gentle Finale": 1051,
+     "PS-1-4: Awaiting Departure": 766
+    }
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 248,
+   "n": 9,
+   "median": 245,
    "low": 151,
-   "high": 341,
-   "q1": 209,
+   "high": 338,
+   "q1": 198,
    "q3": 271,
    "trimmed_mean": 240,
-   "measured": 2,
-   "parts": {},
-   "drift": 0.0
+   "measured": 4,
+   "parts": {
+    "PA-1-1: Desolate Blossom": 23,
+    "PA-1-2: Promised Determination": 40,
+    "PA-1-3: Flourishing Greenery": 26,
+    "PS-1-2: Frigid Summons": 18,
+    "PA-1-4: Discordant Note": 27,
+    "PA-1-5: Pursuing Calamity": 22,
+    "PA-1-6: Hidden Land": 5,
+    "PS-1-3: Destruction and Rebirth": 24,
+    "PA-1-7: March of Resistance": 7,
+    "PA-1-8: Distant Bloodline": 31,
+    "PA-1-9: Gentle Finale": 15,
+    "PS-1-4: Awaiting Departure": 10
+   },
+   "drift": -0.012
   }
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Dawnforger to Needy Catgirl Overload",
+  "chapter_title": "Volume 5: Dawnforger to Chiral Redundancy",
   "act_label": "Chapter 18",
   "act_title": "Dawnforger - Part 1",
   "wiki_page": "GFL2 Story/Summary#Chapter_18_(Dawnforger_-_Part_1)",
@@ -8372,10 +8512,11 @@
     "title": "Girls' Frontline 2 Exilium - [Story Part 198] - Dawnforger Part 1 (Chapter 18)",
     "uploader": "KiRiRi~\u2606",
     "url": "https://www.youtube.com/watch?v=z8VZ9n5YbHc",
-    "views": "70",
+    "views": 113,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260629"
    },
    {
     "seconds": 2328,
@@ -8400,34 +8541,37 @@
     "upload_date": "20260703"
    },
    {
-    "seconds": 26614,
+    "seconds": 26613,
     "title": "Chapter 19 \"Dawnforger, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=irw6r6qaJZ4",
-    "views": "79",
+    "views": 120,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260718"
    },
    {
-    "seconds": 2105,
+    "seconds": 2104,
     "title": "Girls' Frontline 2 Exilium - [Story Part 197] - Dawnforger Part 1 (Chapter 18)",
     "uploader": "KiRiRi~\u2606",
     "url": "https://www.youtube.com/watch?v=bs7gYopCfWo",
-    "views": "36",
+    "views": 51,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260628"
    },
    {
     "seconds": 9837,
     "title": "Punishing Gray Raven Main Story Chapter 18 60 FPS Gameplay Walkthrough English Subbed",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=ic6QIBi1n3Q",
-    "views": "675",
+    "views": 681,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230517"
    },
    {
     "seconds": 12548,
@@ -8439,14 +8583,15 @@
     "upload_date": "20260819"
    },
    {
-    "seconds": 4758,
+    "seconds": 4757,
     "title": "\u3010Girls' Frontline 2: Exilium\u3011It was Essential for the Mission\u3010Dawnforger \u2014 3\u3011",
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=Wxbs7gmRxHo",
-    "views": "231",
+    "views": 249,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260712"
    },
    {
     "seconds": 74,
@@ -8597,12 +8742,15 @@
     ]
    },
    {
-    "seconds": 10397,
+    "seconds": 10396,
     "title": "Girls frontline 2 Exilium Chapter 18 (Dawnforger 1. Loreley Event) Part 1",
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=DrLhCGTH7J8",
-    "views": "11",
-    "rejected": []
+    "views": 41,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260628"
    },
    {
     "seconds": 659,
@@ -8617,12 +8765,13 @@
     ]
    },
    {
-    "seconds": 24245,
+    "seconds": 24244,
     "title": "Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough | Girls' Frontline 2: Exilium",
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=TREf2AzPypo",
-    "views": "550",
-    "rejected": []
+    "views": 841,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 480,
@@ -8636,22 +8785,24 @@
     ]
    },
    {
-    "seconds": 13673,
+    "seconds": 13672,
     "title": "Dawnforger Part 1 - Loreley story | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
     "url": "https://www.youtube.com/watch?v=zoUMAOKonPc",
-    "views": "889",
-    "rejected": []
+    "views": 1371,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
-    "seconds": 24709,
+    "seconds": 24708,
     "title": "Girls Frontline 2 | Dawnforger (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=fYHZQaYFjWA",
-    "views": "988",
+    "views": 1850,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260720"
    },
    {
     "seconds": 21342,
@@ -8659,98 +8810,109 @@
     "uploader": "Orin",
     "url": "https://www.youtube.com/watch?v=-l_1RKft62c",
     "views": "5855",
-    "rejected": []
+    "rejected": [
+     "not-a-playthrough"
+    ]
    },
    {
     "seconds": 11567,
     "title": "[GFL2 EXILIUM] [STORY] Dawnforger Part 1",
     "uploader": "Vasteral082",
     "url": "https://www.youtube.com/watch?v=jepXPlpGne4",
-    "views": "17",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260801"
    },
    {
     "seconds": 3759,
     "title": "Dawnforger - Part 1 (1/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=4KQUXGVax7I",
-    "views": "33",
+    "views": 37,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260704"
    },
    {
     "seconds": 3731,
     "title": "Dawnforger - Part 1 (2/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=xO2gnq4fspE",
-    "views": "28",
+    "views": 28,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260704"
    },
    {
     "seconds": 3647,
     "title": "Dawnforger - Part 1 (3/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=uSDLvsMoV_o",
-    "views": "36",
+    "views": 36,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260705"
    },
    {
-    "seconds": 3198,
+    "seconds": 3197,
     "title": "Dawnforger - Part 1 (5/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=Lq2BpxKqfMI",
-    "views": "32",
+    "views": 36,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260706"
    },
    {
-    "seconds": 5641,
+    "seconds": 5640,
     "title": "Dawnforger - Part 2 (1/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=8CBAFQCGO1I",
-    "views": "24",
+    "views": 25,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260803"
    },
    {
-    "seconds": 3846,
+    "seconds": 3845,
     "title": "Dawnforger - Part 2 (4/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=UfIefC57krM",
-    "views": "15",
+    "views": 16,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260806"
    },
    {
     "seconds": 4205,
     "title": "Dawnforger - Part 2 (2/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=lrMW0xne1-E",
-    "views": "26",
+    "views": 26,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260804"
    },
    {
     "seconds": 3355,
     "title": "Dawnforger - Part 1 (4/5)",
     "uploader": "Redsoul",
     "url": "https://www.youtube.com/watch?v=4xiPf4_eJfc",
-    "views": "22",
+    "views": 23,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260705"
    },
    {
     "seconds": 857,
@@ -8768,10 +8930,11 @@
     "title": "Girls\u2019 Frontline 2 Exilium - Moonshround Requiem (Event Story)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=0HruRG6fT30",
-    "views": "40",
+    "views": 91,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260810"
    },
    {
     "seconds": 1066,
@@ -8818,14 +8981,15 @@
     ]
    },
    {
-    "seconds": 19689,
+    "seconds": 19688,
     "title": "Girls Frontline 2: Exilium - Sextans Event (Moonshroud Requiem)",
     "uploader": "Orin",
     "url": "https://www.youtube.com/watch?v=8vqkG8kB04s",
-    "views": "3546",
+    "views": 4227,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260225"
    },
    {
     "seconds": 104,
@@ -8847,24 +9011,138 @@
      "not-a-playthrough",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 104,
+    "title": "Dawnforger Part 1 OST | Loreley's Tango | Girls' Frontline 2: Exilium",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=pitbmeu7BWo",
+    "views": "8963",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 2636,
+    "title": "Groza Swap [Chiral Redundancy]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=H3MgRnLfRqU",
+    "views": 8504,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260319"
+   },
+   {
+    "seconds": 1647,
+    "title": "Girls' Frontline 2: Exilium STORY CRASH COURSE",
+    "uploader": "Rexlent",
+    "url": "https://www.youtube.com/watch?v=pASTMnWKuV0",
+    "views": 8474,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251128"
+   },
+   {
+    "seconds": 750,
+    "title": "Cheyanne My Daughterwife \ud83d\ude2d\ud83d\ude2d (M200) - Dork Animation | Girls' Frontline 2",
+    "uploader": "HoxyNyaa",
+    "url": "https://www.youtube.com/watch?v=a6Tx1Dd4cXE",
+    "views": "4630",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 10819,
+    "title": "\u3010Girls Frontline 2 Exilium\u3011 Amidst Wings of Gray [#18]",
+    "uploader": "Cutie Bunni",
+    "url": "https://www.youtube.com/watch?v=Lk9KDwNmVgI",
+    "views": 1173,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261019"
+   },
+   {
+    "seconds": 2156,
+    "title": "GFL2: Exilium | Dreambound Neverland Pt.18 (End) - End of the Journey  (M16 Returns!)",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=fqYZtKQOUQc",
+    "views": 250,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 959,
+    "title": "EXPANSION DRILL EM-56-11 vs FUSED ENTROPY BOSS STAGE | FRENZY 18 & 40 CLEAR GUIDE [GFL2: EXILIUM]",
+    "uploader": "Nitrogen",
+    "url": "https://www.youtube.com/watch?v=wp8QEAeIUm8",
+    "views": "3077",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1151,
+    "title": "[GFL2:Exilium] Boss Fight: Crossroad Challenge - Terrorhorn Chimera",
+    "uploader": "MikuSama",
+    "url": "https://www.youtube.com/watch?v=SjyFRbK3pj8",
+    "views": "16978",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 13588,
+    "title": "Girls Frontline 2 | Ch 17 - Antiparallel (Part 2)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=BTZnUMaYnEw",
+    "views": 843,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260516"
+   },
+   {
+    "seconds": 13563,
+    "title": "Moonshroud Requiem - Sextans story | Girl's Frontline 2 Exilium [GFL2]",
+    "uploader": "eLLiXeon",
+    "url": "https://www.youtube.com/watch?v=mozm8vAH-CE",
+    "views": 1197,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260823"
+   },
+   {
+    "seconds": 1135,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Dawnforger Part 1 - [20] LA-1-13 Reforging Dawn",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=p7v5uXq4VWM",
+    "views": "28",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
    }
   ],
   "kept": [
-   {
-    "seconds": 10397,
-    "title": "Girls frontline 2 Exilium Chapter 18 (Dawnforger 1. Loreley Event) Part 1",
-    "uploader": "Macu_bravo",
-    "url": "https://www.youtube.com/watch?v=DrLhCGTH7J8",
-    "views": "11",
-    "rejected": []
-   },
    {
     "seconds": 11567,
     "title": "[GFL2 EXILIUM] [STORY] Dawnforger Part 1",
     "uploader": "Vasteral082",
     "url": "https://www.youtube.com/watch?v=jepXPlpGne4",
-    "views": "17",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260801"
    },
    {
     "seconds": 12548,
@@ -8876,12 +9154,13 @@
     "upload_date": "20260819"
    },
    {
-    "seconds": 13673,
+    "seconds": 13672,
     "title": "Dawnforger Part 1 - Loreley story | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
     "url": "https://www.youtube.com/watch?v=zoUMAOKonPc",
-    "views": "889",
-    "rejected": []
+    "views": 1371,
+    "rejected": [],
+    "upload_date": "20260711"
    },
    {
     "seconds": 19144,
@@ -8961,20 +9240,13 @@
     "upload_date": "20260628"
    },
    {
-    "seconds": 21342,
-    "title": "Girls Frontline 2: Exilium - Loreley Event Streaming (Dawnforger Part 1)",
-    "uploader": "Orin",
-    "url": "https://www.youtube.com/watch?v=-l_1RKft62c",
-    "views": "5855",
-    "rejected": []
-   },
-   {
-    "seconds": 24245,
+    "seconds": 24244,
     "title": "Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough | Girls' Frontline 2: Exilium",
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=TREf2AzPypo",
-    "views": "550",
-    "rejected": []
+    "views": 841,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 29983,
@@ -9012,13 +9284,13 @@
    }
   ],
   "stats": {
-   "n": 10,
+   "n": 8,
    "median": 327,
-   "low": 173,
+   "low": 193,
    "high": 500,
-   "q1": 205,
-   "q3": 368,
-   "trimmed_mean": 300,
+   "q1": 214,
+   "q3": 392,
+   "trimmed_mean": 318,
    "measured": 3,
    "parts": {
     "LA-1-1: Cooperative Paradox": 15,
@@ -9048,19 +9320,20 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Dawnforger to Needy Catgirl Overload",
+  "chapter_title": "Volume 5: Dawnforger to Chiral Redundancy",
   "act_label": "Chapter 19",
   "act_title": "Dawnforger - Part 2",
   "wiki_page": "GFL2 Story/Summary#Chapter_19_(Dawnforger_-_Part_2)",
   "slug": "v5_Chapter_19",
   "candidates": [
    {
-    "seconds": 26614,
+    "seconds": 26613,
     "title": "Chapter 19 \"Dawnforger, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=irw6r6qaJZ4",
-    "views": "79",
-    "rejected": []
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20260718"
    },
    {
     "seconds": 25968,
@@ -9072,12 +9345,15 @@
     "upload_date": "20260803"
    },
    {
-    "seconds": 10882,
+    "seconds": 10881,
     "title": "Girls frontline 2 Exilium Chapter 19 (Dawnforger 2. Cheyanne Event) Part 2",
     "uploader": "Macu_bravo",
     "url": "https://www.youtube.com/watch?v=vn6a4pdlGHc",
-    "views": "7",
-    "rejected": []
+    "views": 12,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260725"
    },
    {
     "seconds": 11426,
@@ -9086,7 +9362,7 @@
     "url": "https://www.youtube.com/watch?v=L5U-vR1pBjY",
     "views": 16,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260720"
    },
@@ -9167,22 +9443,44 @@
     ]
    },
    {
-    "seconds": 4758,
+    "seconds": 4757,
     "title": "\u3010Girls' Frontline 2: Exilium\u3011It was Essential for the Mission\u3010Dawnforger \u2014 3\u3011",
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=Wxbs7gmRxHo",
-    "views": "231",
+    "views": 249,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260712"
    },
    {
-    "seconds": 24709,
+    "seconds": 23218,
     "title": "Girls Frontline 2 | Dawnforger (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=fYHZQaYFjWA",
-    "views": "988",
-    "rejected": []
+    "views": 1850,
+    "rejected": [],
+    "upload_date": "20260720",
+    "runtime": 24708,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 1117,
+     "CS-1-2: From The Depths": 1070,
+     "CA-1-2: Black And White": 3347,
+     "CS-1-3: Echoes of Days Past": 1657,
+     "CA-1-3: Faking Humanity": 1211,
+     "CA-1-4: Steelcleave": 1436,
+     "CS-1-4: Tacet": 1250,
+     "CA-1-5: Takeback": 27,
+     "CA-1-6: Hot-Blooded City": 1492,
+     "CS-1-5: Behind Consensus": 613,
+     "CA-1-7: Lonely at the Top": 981,
+     "CS-1-6: Blazing Plains": 440,
+     "CA-1-8: Hail Mary": 1848,
+     "CS-1-7: Not Best Pleased": 992,
+     "CA-1-9: Blade And Gaol": 4200,
+     "CS-1-8: Gala": 1537
+    }
    },
    {
     "seconds": 32162,
@@ -9213,12 +9511,13 @@
     }
    },
    {
-    "seconds": 18127,
+    "seconds": 18126,
     "title": "Dawnforger Part 2 - Cheyanne story | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
     "url": "https://www.youtube.com/watch?v=tP7YC6UqMI4",
-    "views": "263",
-    "rejected": []
+    "views": 743,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
     "seconds": 17650,
@@ -9241,32 +9540,55 @@
     ]
    },
    {
-    "seconds": 1820,
+    "seconds": 1819,
     "title": "Girls' Frontline 2: Exilium | Dawnforger Part 2 - Event Story Gameplay",
     "uploader": "Casual Old Gamer",
     "url": "https://www.youtube.com/watch?v=_zdQcyBqlHc",
-    "views": "6",
+    "views": 8,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260801"
    },
    {
-    "seconds": 23768,
+    "seconds": 23767,
     "title": "Dawnforger Part 2 | GFL2 Exilium",
     "uploader": "OMGAZZ",
     "url": "https://www.youtube.com/watch?v=pcuA2mjywNk",
-    "views": "79",
-    "rejected": []
+    "views": 102,
+    "rejected": [],
+    "upload_date": "20260720",
+    "runtime": 23767,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 1042,
+     "CS-1-2: From The Depths": 1032,
+     "CA-1-2: Black And White": 3175,
+     "CS-1-3: Echoes of Days Past": 1445,
+     "CA-1-3: Faking Humanity": 1205,
+     "CA-1-4: Steelcleave": 1403,
+     "CS-1-4: Tacet": 1125,
+     "CA-1-5: Takeback": 167,
+     "CA-1-6: Hot-Blooded City": 1530,
+     "CS-1-5: Behind Consensus": 570,
+     "CA-1-7: Lonely at the Top": 1016,
+     "CS-1-6: Blazing Plains": 430,
+     "CA-1-8: Hail Mary": 1897,
+     "CS-1-7: Not Best Pleased": 884,
+     "CA-1-9: Blade And Gaol": 4028,
+     "CS-1-8: Gala": 1425
+    }
    },
    {
-    "seconds": 7872,
+    "seconds": 7871,
     "title": "GFL2: Dawnforger - Part Two - Main Story - Part 01",
     "uploader": "Fimbulwinter",
     "url": "https://www.youtube.com/watch?v=8HzcSb68SzM",
-    "views": "4",
+    "views": 7,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260804"
    },
    {
     "seconds": 80,
@@ -9288,17 +9610,148 @@
      "not-a-playthrough",
      "fragment"
     ]
+   },
+   {
+    "seconds": 29967,
+    "title": "Girls\u2019 Frontline 2 Exilium - Corposant Part 2 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=tlzUDSLWXjw",
+    "views": 1482,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 246,
+    "title": "\u3010GFL2\u3011Inverse Cipher SEASON 13 ALL Puzzles Solutions! - Girls Frontline 2: Exilium",
+    "uploader": "Touch Me Not",
+    "url": "https://www.youtube.com/watch?v=4_i2VXOxvbI",
+    "views": "8793",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 11609,
+    "title": "\u3010Girls Frontline 2 Exilium\u3011 Amidst Wings of Gray Pt 2 [#19]",
+    "uploader": "Cutie Bunni",
+    "url": "https://www.youtube.com/watch?v=8Lu4lKQBRTQ",
+    "views": 1446,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 1853,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.19 - Countercurrent Distribution  (Nele meets Kalina)",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=jAkuS6K_OzU",
+    "views": 265,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 1634,
+    "title": "Girls\u2019 Frontline 2 \u2013 Chiral Redundancy Part 19 | Full Event Story",
+    "uploader": "Casual Old Gamer",
+    "url": "https://www.youtube.com/watch?v=TjPEDq41JsA",
+    "views": 11,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 69,
+    "title": "Stealth Is Optional | Girls' Frontline 2: Exilium Animation",
+    "uploader": "Enthralpy",
+    "url": "https://www.youtube.com/watch?v=_QUPmyS9AiE",
+    "views": "38357",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 165,
+    "title": "All QBZ-95 (Daiyan) dorm interaction scenes",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=UFCZbgxLrak",
+    "views": "20355",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1647,
+    "title": "Girls' Frontline 2: Exilium STORY CRASH COURSE",
+    "uploader": "Rexlent",
+    "url": "https://www.youtube.com/watch?v=pASTMnWKuV0",
+    "views": 8474,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251128"
+   },
+   {
+    "seconds": 87,
+    "title": "POV: You are a Varjager | GIRLS' FRONTLINE 2: EXILIUM",
+    "uploader": "Crying Aqua",
+    "url": "https://www.youtube.com/watch?v=do_ueKj0vQs",
+    "views": "228331",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 433,
+    "title": "ABSOLUTE CINEMA - Girls Frontline 2 | Corposant Event All Cutscenes",
+    "uploader": "HoxyNyaa",
+    "url": "https://www.youtube.com/watch?v=OS4jayba9V4",
+    "views": "73429",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 18619,
+    "title": "GFL2: Exilium | Cheyanne (M200) Story \u2013 DAWNFORGER PART 2",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=miwXBXDJNVc",
+    "views": 95,
+    "rejected": [],
+    "upload_date": "20261104",
+    "runtime": 19799,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 910,
+     "CS-1-2: From The Depths": 940,
+     "CA-1-2: Black And White": 2605,
+     "CS-1-3: Echoes of Days Past": 1305,
+     "CA-1-3: Faking Humanity": 980,
+     "CA-1-4: Steelcleave": 1185,
+     "CS-1-4: Tacet": 960,
+     "CA-1-5: Takeback": 90,
+     "CA-1-6: Hot-Blooded City": 1185,
+     "CS-1-5: Behind Consensus": 495,
+     "CA-1-7: Lonely at the Top": 825,
+     "CS-1-6: Blazing Plains": 345,
+     "CA-1-8: Hail Mary": 1460,
+     "CS-1-7: Not Best Pleased": 770,
+     "CA-1-9: Blade And Gaol": 3365,
+     "CS-1-8: Gala": 1199
+    }
    }
   ],
   "kept": [
-   {
-    "seconds": 10882,
-    "title": "Girls frontline 2 Exilium Chapter 19 (Dawnforger 2. Cheyanne Event) Part 2",
-    "uploader": "Macu_bravo",
-    "url": "https://www.youtube.com/watch?v=vn6a4pdlGHc",
-    "views": "7",
-    "rejected": []
-   },
    {
     "seconds": 17495,
     "title": "[GirIs Frontline 2] Main Story Chapter 19: Dawnforger Part 2 | JP Dub | EN Sub",
@@ -9318,28 +9771,100 @@
     "upload_date": "20260801"
    },
    {
-    "seconds": 18127,
+    "seconds": 18126,
     "title": "Dawnforger Part 2 - Cheyanne story | Girl's Frontline 2 Exilium [GFL2]",
     "uploader": "eLLiXeon",
     "url": "https://www.youtube.com/watch?v=tP7YC6UqMI4",
-    "views": "263",
-    "rejected": []
+    "views": 743,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
-    "seconds": 23768,
-    "title": "Dawnforger Part 2 | GFL2 Exilium",
-    "uploader": "OMGAZZ",
-    "url": "https://www.youtube.com/watch?v=pcuA2mjywNk",
-    "views": "79",
-    "rejected": []
+    "seconds": 18619,
+    "title": "GFL2: Exilium | Cheyanne (M200) Story \u2013 DAWNFORGER PART 2",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=miwXBXDJNVc",
+    "views": 95,
+    "rejected": [],
+    "upload_date": "20261104",
+    "runtime": 19799,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 910,
+     "CS-1-2: From The Depths": 940,
+     "CA-1-2: Black And White": 2605,
+     "CS-1-3: Echoes of Days Past": 1305,
+     "CA-1-3: Faking Humanity": 980,
+     "CA-1-4: Steelcleave": 1185,
+     "CS-1-4: Tacet": 960,
+     "CA-1-5: Takeback": 90,
+     "CA-1-6: Hot-Blooded City": 1185,
+     "CS-1-5: Behind Consensus": 495,
+     "CA-1-7: Lonely at the Top": 825,
+     "CS-1-6: Blazing Plains": 345,
+     "CA-1-8: Hail Mary": 1460,
+     "CS-1-7: Not Best Pleased": 770,
+     "CA-1-9: Blade And Gaol": 3365,
+     "CS-1-8: Gala": 1199
+    }
    },
    {
-    "seconds": 24709,
+    "seconds": 23218,
     "title": "Girls Frontline 2 | Dawnforger (Part 2)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=fYHZQaYFjWA",
-    "views": "988",
-    "rejected": []
+    "views": 1850,
+    "rejected": [],
+    "upload_date": "20260720",
+    "runtime": 24708,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 1117,
+     "CS-1-2: From The Depths": 1070,
+     "CA-1-2: Black And White": 3347,
+     "CS-1-3: Echoes of Days Past": 1657,
+     "CA-1-3: Faking Humanity": 1211,
+     "CA-1-4: Steelcleave": 1436,
+     "CS-1-4: Tacet": 1250,
+     "CA-1-5: Takeback": 27,
+     "CA-1-6: Hot-Blooded City": 1492,
+     "CS-1-5: Behind Consensus": 613,
+     "CA-1-7: Lonely at the Top": 981,
+     "CS-1-6: Blazing Plains": 440,
+     "CA-1-8: Hail Mary": 1848,
+     "CS-1-7: Not Best Pleased": 992,
+     "CA-1-9: Blade And Gaol": 4200,
+     "CS-1-8: Gala": 1537
+    }
+   },
+   {
+    "seconds": 23767,
+    "title": "Dawnforger Part 2 | GFL2 Exilium",
+    "uploader": "OMGAZZ",
+    "url": "https://www.youtube.com/watch?v=pcuA2mjywNk",
+    "views": 102,
+    "rejected": [],
+    "upload_date": "20260720",
+    "runtime": 23767,
+    "measured": "chapter-markers",
+    "parts": {
+     "CA-1-1: Crouching Tiger, Hidden Dragon": 1042,
+     "CS-1-2: From The Depths": 1032,
+     "CA-1-2: Black And White": 3175,
+     "CS-1-3: Echoes of Days Past": 1445,
+     "CA-1-3: Faking Humanity": 1205,
+     "CA-1-4: Steelcleave": 1403,
+     "CS-1-4: Tacet": 1125,
+     "CA-1-5: Takeback": 167,
+     "CA-1-6: Hot-Blooded City": 1530,
+     "CS-1-5: Behind Consensus": 570,
+     "CA-1-7: Lonely at the Top": 1016,
+     "CS-1-6: Blazing Plains": 430,
+     "CA-1-8: Hail Mary": 1897,
+     "CS-1-7: Not Best Pleased": 884,
+     "CA-1-9: Blade And Gaol": 4028,
+     "CS-1-8: Gala": 1425
+    }
    },
    {
     "seconds": 25968,
@@ -9351,12 +9876,13 @@
     "upload_date": "20260803"
    },
    {
-    "seconds": 26614,
+    "seconds": 26613,
     "title": "Chapter 19 \"Dawnforger, Part 2\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=irw6r6qaJZ4",
-    "views": "79",
-    "rejected": []
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20260718"
    },
    {
     "seconds": 32162,
@@ -9389,20 +9915,37 @@
   ],
   "stats": {
    "n": 9,
-   "median": 396,
-   "low": 181,
+   "median": 387,
+   "low": 292,
    "high": 536,
-   "q1": 293,
+   "q1": 298,
    "q3": 438,
-   "trimmed_mean": 366,
-   "measured": 1,
-   "parts": {},
-   "drift": 0.311
+   "trimmed_mean": 377,
+   "measured": 4,
+   "parts": {
+    "CA-1-1: Crouching Tiger, Hidden Dragon": 18,
+    "CS-1-2: From The Depths": 18,
+    "CA-1-2: Black And White": 54,
+    "CS-1-3: Echoes of Days Past": 26,
+    "CA-1-3: Faking Humanity": 20,
+    "CA-1-4: Steelcleave": 24,
+    "CS-1-4: Tacet": 20,
+    "CA-1-5: Takeback": 2,
+    "CA-1-6: Hot-Blooded City": 25,
+    "CS-1-5: Behind Consensus": 10,
+    "CA-1-7: Lonely at the Top": 17,
+    "CS-1-6: Blazing Plains": 7,
+    "CA-1-8: Hail Mary": 31,
+    "CS-1-7: Not Best Pleased": 16,
+    "CA-1-9: Blade And Gaol": 69,
+    "CS-1-8: Gala": 25
+   },
+   "drift": 0.281
   }
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Dawnforger to Needy Catgirl Overload",
+  "chapter_title": "Volume 5: Dawnforger to Chiral Redundancy",
   "act_label": "Chapter 19.5",
   "act_title": "Needy Catgirl Overload",
   "wiki_page": "GFL2 Story/Summary#Chapter_19.5_(Needy_Catgirl_Overload)",
@@ -9441,14 +9984,15 @@
     "upload_date": "20230726"
    },
    {
-    "seconds": 15317,
+    "seconds": 15316,
     "title": "Punishing Gray Raven Main Story Chapter 20 60 FPS Gameplay Walkthrough English Subbed",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=i3DLUz9Vpy0",
-    "views": "867",
+    "views": 871,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20231005"
    },
    {
     "seconds": 932,
@@ -9502,50 +10046,91 @@
     "upload_date": "20260624"
    },
    {
-    "seconds": 15643,
+    "seconds": 15604,
     "title": "Girls\u2019 Frontline 2 Exilium - Needy Catgirl Overload (Event Story)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=pjIoGMQ5rJ4",
-    "views": "209",
-    "rejected": []
+    "views": 233,
+    "rejected": [],
+    "upload_date": "20260606",
+    "runtime": 15642,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1242,
+     "BA-1-1: Milk Teeth": 1224,
+     "BA-1-2: Starter's Pistol": 1151,
+     "BA-1-3: Entropization": 979,
+     "BS-1-2: Three-Way Junction": 920,
+     "BA-1-4: Cat In A Box": 1178,
+     "BA-1-5: Under the Undercurrents": 1053,
+     "BS-1-3: Tears of the Thorn": 1365,
+     "BA-1-6: Sudden Silence": 1114,
+     "BA-1-7: Bad Guy Fireworks": 1250,
+     "BS-1-4: Butterfly's Interment": 1186,
+     "BA-1-8: Love And Punishment": 457,
+     "BA-1-9: Final Signal": 1052,
+     "BS-1-5: Ideal Reborn": 1433
+    }
    },
    {
-    "seconds": 35546,
+    "seconds": 35274,
     "title": "\u3010Girls' Frontline 2\u3011Event - Needy Catgirl Overload : Story Collection",
     "uploader": "Shoul",
     "url": "https://www.youtube.com/watch?v=sCRTJEOxXys",
-    "views": "771",
+    "views": 937,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20260614",
+    "runtime": 35546,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 3280,
+     "BA-1-1: Milk Teeth": 3026,
+     "BA-1-2: Starter's Pistol": 2488,
+     "BA-1-3: Entropization": 1592,
+     "BS-1-2: Three-Way Junction": 2490,
+     "BA-1-4: Cat In A Box": 2709,
+     "BA-1-5: Under the Undercurrents": 1690,
+     "BS-1-3: Tears of the Thorn": 3611,
+     "BA-1-6: Sudden Silence": 2661,
+     "BA-1-7: Bad Guy Fireworks": 2143,
+     "BS-1-4: Butterfly's Interment": 3230,
+     "BA-1-8: Love And Punishment": 720,
+     "BA-1-9: Final Signal": 1856,
+     "BS-1-5: Ideal Reborn": 3778
+    }
    },
    {
-    "seconds": 2206,
+    "seconds": 2205,
     "title": "Girls' Frontline 2: Exilium (2024) - Needy Catgirl Overload Event Part 1",
     "uploader": "FeyHunt 2",
     "url": "https://www.youtube.com/watch?v=evDTT0MlU4M",
-    "views": "15",
+    "views": 17,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260621"
    },
    {
     "seconds": 16459,
     "title": "Girls' Frontline 2 - Needy Catgirl Overload Heroic Playthrough",
     "uploader": "Juancho",
     "url": "https://www.youtube.com/watch?v=ltxUhvhEIoU",
-    "views": "144",
-    "rejected": []
+    "views": 157,
+    "rejected": [],
+    "upload_date": "20260606"
    },
    {
     "seconds": 1620,
     "title": "Needy Catgirl Overload Ep. 1 - Starting Station",
     "uploader": "Defh",
     "url": "https://www.youtube.com/watch?v=BJ5VmitXiO0",
-    "views": "53",
+    "views": 59,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260614"
    },
    {
     "seconds": 20885,
@@ -9553,49 +10138,187 @@
     "uploader": "Orin",
     "url": "https://www.youtube.com/watch?v=vyHZqgR5CL4",
     "views": "3641",
-    "rejected": []
+    "rejected": [
+     "not-a-playthrough"
+    ]
    },
    {
     "seconds": 19667,
     "title": "Girls Frontline 2 | Needy Catgirl Overload (Event Story)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=MO-_osZfCK8",
-    "views": "292",
-    "rejected": []
+    "views": 400,
+    "rejected": [],
+    "upload_date": "20260612",
+    "runtime": 19667,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1721,
+     "BA-1-1: Milk Teeth": 1659,
+     "BA-1-2: Starter's Pistol": 1400,
+     "BA-1-3: Entropization": 869,
+     "BS-1-2: Three-Way Junction": 1421,
+     "BA-1-4: Cat In A Box": 1512,
+     "BA-1-5: Under the Undercurrents": 925,
+     "BS-1-3: Tears of the Thorn": 2046,
+     "BA-1-6: Sudden Silence": 1467,
+     "BA-1-7: Bad Guy Fireworks": 1196,
+     "BS-1-4: Butterfly's Interment": 1860,
+     "BA-1-8: Love And Punishment": 414,
+     "BA-1-9: Final Signal": 1078,
+     "BS-1-5: Ideal Reborn": 2099
+    }
    },
    {
     "seconds": 24592,
     "title": "Readthrough of Needy Catgirl Overload | Girls' Frontline 2 [CN]",
     "uploader": "HeroMystic",
     "url": "https://www.youtube.com/watch?v=YJSnHHUsjx4",
-    "views": "2073",
-    "rejected": []
+    "views": 2112,
+    "rejected": [],
+    "upload_date": "20260117"
    },
    {
-    "seconds": 26003,
+    "seconds": 26002,
     "title": "Side Story \"Needy Catgirl Overload\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=vW-YIw_bipM",
-    "views": "88",
-    "rejected": []
+    "views": 115,
+    "rejected": [],
+    "upload_date": "20260606"
    },
    {
-    "seconds": 16088,
+    "seconds": 16087,
     "title": "Overloading Needy Catgirl Basti in Girls' Frontline 2: Exilium.",
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=tswPBG7Npmk",
-    "views": "68",
-    "rejected": []
+    "views": 80,
+    "rejected": [],
+    "upload_date": "20260605"
    },
    {
-    "seconds": 26573,
+    "seconds": 26572,
     "title": "The Lethe Below the Living (Part 2) ft. Phase Clashing in Girls' Frontline 2: EXILIUM.",
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=PxW4zRpy5Ks",
-    "views": "25",
+    "views": 25,
     "rejected": [
      "act-mismatch"
+    ],
+    "upload_date": "20260602"
+   },
+   {
+    "seconds": 23816,
+    "title": "Girls' Frontline 2 EXILIUM - Chapter 19.5 [Event] Needy Cat Girl Overload",
+    "uploader": "Demonikar",
+    "url": "https://www.youtube.com/watch?v=O_JJEcM5fXo",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20260719"
+   },
+   {
+    "seconds": 19688,
+    "title": "Girls Frontline 2: Exilium - Sextans Event (Moonshroud Requiem)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=8vqkG8kB04s",
+    "views": 4227,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260225"
+   },
+   {
+    "seconds": 1049,
+    "title": "The Entire Story Explained - Girls Frontline 2: Exilium - Full Story Recap - Main Story Chapters 1-7",
+    "uploader": "Francis Lee Arthur",
+    "url": "https://www.youtube.com/watch?v=BpzGViwW_Tk",
+    "views": "22120",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "fragment",
+     "act-mismatch"
     ]
+   },
+   {
+    "seconds": 1647,
+    "title": "Girls' Frontline 2: Exilium STORY CRASH COURSE",
+    "uploader": "Rexlent",
+    "url": "https://www.youtube.com/watch?v=pASTMnWKuV0",
+    "views": 8474,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251128"
+   },
+   {
+    "seconds": 484,
+    "title": "Girls' Frontline 2: Exilium Is ACTUALLY Insane",
+    "uploader": "ImInFlame",
+    "url": "https://www.youtube.com/watch?v=Cti096ELeMU",
+    "views": "26826",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19649,
+    "title": "Girls Frontline 2: Exilium - Agent Event (Silent Synapses Continuation)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=DLzrf2kWnog",
+    "views": 14890,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260929"
+   },
+   {
+    "seconds": 487,
+    "title": "This New Update Changes EVERYTHING | Girls' Frontline 2: Exilium",
+    "uploader": "The Gaming Shelf",
+    "url": "https://www.youtube.com/watch?v=I-KghAWymbE",
+    "views": "26593",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 18319,
+    "title": "\"Needy Catgirl Overload\" MK23/Basti Story Event Blind Playthrough | Girls Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=5OPM8sQIfUk",
+    "views": 283,
+    "rejected": [],
+    "upload_date": "20260605"
+   },
+   {
+    "seconds": 13320,
+    "title": "[Girls' Frontline 2: Exilium] \ud835\udc0d\ud835\udc04\ud835\udc04\ud835\udc03\ud835\udc18 \ud835\udc02\ud835\udc00\ud835\udc13\ud835\udc06\ud835\udc08\ud835\udc11\ud835\udc0b \ud835\udc0e\ud835\udc15\ud835\udc04\ud835\udc11\ud835\udc0b\ud835\udc0e\ud835\udc00\ud835\udc03 (Story)",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=H_bcvTi0Mu8",
+    "views": 35,
+    "rejected": [],
+    "upload_date": "20260825",
+    "runtime": 13499,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1185,
+     "BA-1-1: Milk Teeth": 1125,
+     "BA-1-2: Starter's Pistol": 970,
+     "BA-1-3: Entropization": 630,
+     "BS-1-2: Three-Way Junction": 905,
+     "BA-1-4: Cat In A Box": 1050,
+     "BA-1-5: Under the Undercurrents": 650,
+     "BS-1-3: Tears of the Thorn": 1320,
+     "BA-1-6: Sudden Silence": 1000,
+     "BA-1-7: Bad Guy Fireworks": 835,
+     "BS-1-4: Butterfly's Interment": 1235,
+     "BA-1-8: Love And Punishment": 310,
+     "BA-1-9: Final Signal": 720,
+     "BS-1-5: Ideal Reborn": 1385
+    }
    }
   ],
   "kept": [
@@ -9618,73 +10341,2229 @@
     "upload_date": "20260624"
    },
    {
-    "seconds": 15643,
+    "seconds": 13320,
+    "title": "[Girls' Frontline 2: Exilium] \ud835\udc0d\ud835\udc04\ud835\udc04\ud835\udc03\ud835\udc18 \ud835\udc02\ud835\udc00\ud835\udc13\ud835\udc06\ud835\udc08\ud835\udc11\ud835\udc0b \ud835\udc0e\ud835\udc15\ud835\udc04\ud835\udc11\ud835\udc0b\ud835\udc0e\ud835\udc00\ud835\udc03 (Story)",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=H_bcvTi0Mu8",
+    "views": 35,
+    "rejected": [],
+    "upload_date": "20260825",
+    "runtime": 13499,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1185,
+     "BA-1-1: Milk Teeth": 1125,
+     "BA-1-2: Starter's Pistol": 970,
+     "BA-1-3: Entropization": 630,
+     "BS-1-2: Three-Way Junction": 905,
+     "BA-1-4: Cat In A Box": 1050,
+     "BA-1-5: Under the Undercurrents": 650,
+     "BS-1-3: Tears of the Thorn": 1320,
+     "BA-1-6: Sudden Silence": 1000,
+     "BA-1-7: Bad Guy Fireworks": 835,
+     "BS-1-4: Butterfly's Interment": 1235,
+     "BA-1-8: Love And Punishment": 310,
+     "BA-1-9: Final Signal": 720,
+     "BS-1-5: Ideal Reborn": 1385
+    }
+   },
+   {
+    "seconds": 15604,
     "title": "Girls\u2019 Frontline 2 Exilium - Needy Catgirl Overload (Event Story)",
     "uploader": "Hetherlum Productions",
     "url": "https://www.youtube.com/watch?v=pjIoGMQ5rJ4",
-    "views": "209",
-    "rejected": []
+    "views": 233,
+    "rejected": [],
+    "upload_date": "20260606",
+    "runtime": 15642,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1242,
+     "BA-1-1: Milk Teeth": 1224,
+     "BA-1-2: Starter's Pistol": 1151,
+     "BA-1-3: Entropization": 979,
+     "BS-1-2: Three-Way Junction": 920,
+     "BA-1-4: Cat In A Box": 1178,
+     "BA-1-5: Under the Undercurrents": 1053,
+     "BS-1-3: Tears of the Thorn": 1365,
+     "BA-1-6: Sudden Silence": 1114,
+     "BA-1-7: Bad Guy Fireworks": 1250,
+     "BS-1-4: Butterfly's Interment": 1186,
+     "BA-1-8: Love And Punishment": 457,
+     "BA-1-9: Final Signal": 1052,
+     "BS-1-5: Ideal Reborn": 1433
+    }
    },
    {
-    "seconds": 16088,
+    "seconds": 16087,
     "title": "Overloading Needy Catgirl Basti in Girls' Frontline 2: Exilium.",
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=tswPBG7Npmk",
-    "views": "68",
-    "rejected": []
+    "views": 80,
+    "rejected": [],
+    "upload_date": "20260605"
    },
    {
     "seconds": 16459,
     "title": "Girls' Frontline 2 - Needy Catgirl Overload Heroic Playthrough",
     "uploader": "Juancho",
     "url": "https://www.youtube.com/watch?v=ltxUhvhEIoU",
-    "views": "144",
-    "rejected": []
+    "views": 157,
+    "rejected": [],
+    "upload_date": "20260606"
+   },
+   {
+    "seconds": 18319,
+    "title": "\"Needy Catgirl Overload\" MK23/Basti Story Event Blind Playthrough | Girls Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=5OPM8sQIfUk",
+    "views": 283,
+    "rejected": [],
+    "upload_date": "20260605"
    },
    {
     "seconds": 19667,
     "title": "Girls Frontline 2 | Needy Catgirl Overload (Event Story)",
     "uploader": "JasonDoesWhatever",
     "url": "https://www.youtube.com/watch?v=MO-_osZfCK8",
-    "views": "292",
-    "rejected": []
+    "views": 400,
+    "rejected": [],
+    "upload_date": "20260612",
+    "runtime": 19667,
+    "measured": "chapter-markers",
+    "parts": {
+     "BS-1-1: Starting Station": 1721,
+     "BA-1-1: Milk Teeth": 1659,
+     "BA-1-2: Starter's Pistol": 1400,
+     "BA-1-3: Entropization": 869,
+     "BS-1-2: Three-Way Junction": 1421,
+     "BA-1-4: Cat In A Box": 1512,
+     "BA-1-5: Under the Undercurrents": 925,
+     "BS-1-3: Tears of the Thorn": 2046,
+     "BA-1-6: Sudden Silence": 1467,
+     "BA-1-7: Bad Guy Fireworks": 1196,
+     "BS-1-4: Butterfly's Interment": 1860,
+     "BA-1-8: Love And Punishment": 414,
+     "BA-1-9: Final Signal": 1078,
+     "BS-1-5: Ideal Reborn": 2099
+    }
    },
    {
-    "seconds": 20885,
-    "title": "Girls Frontline 2: Exilium - Basti Event Streaming (Needy Catgirl Overload)",
-    "uploader": "Orin",
-    "url": "https://www.youtube.com/watch?v=vyHZqgR5CL4",
-    "views": "3641",
-    "rejected": []
+    "seconds": 23816,
+    "title": "Girls' Frontline 2 EXILIUM - Chapter 19.5 [Event] Needy Cat Girl Overload",
+    "uploader": "Demonikar",
+    "url": "https://www.youtube.com/watch?v=O_JJEcM5fXo",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20260719"
    },
    {
     "seconds": 24592,
     "title": "Readthrough of Needy Catgirl Overload | Girls' Frontline 2 [CN]",
     "uploader": "HeroMystic",
     "url": "https://www.youtube.com/watch?v=YJSnHHUsjx4",
-    "views": "2073",
-    "rejected": []
+    "views": 2112,
+    "rejected": [],
+    "upload_date": "20260117"
    },
    {
-    "seconds": 26003,
+    "seconds": 26002,
     "title": "Side Story \"Needy Catgirl Overload\" - Girls Frontline 2",
     "uploader": "daesz",
     "url": "https://www.youtube.com/watch?v=vW-YIw_bipM",
-    "views": "88",
-    "rejected": []
+    "views": 115,
+    "rejected": [],
+    "upload_date": "20260606"
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 11,
    "median": 274,
    "low": 174,
    "high": 433,
-   "q1": 235,
-   "q3": 379,
-   "trimmed_mean": 301,
-   "measured": 0,
-   "parts": {},
+   "q1": 222,
+   "q3": 397,
+   "trimmed_mean": 297,
+   "measured": 3,
+   "parts": {
+    "BS-1-1: Starting Station": 21,
+    "BA-1-1: Milk Teeth": 20,
+    "BA-1-2: Starter's Pistol": 19,
+    "BA-1-3: Entropization": 14,
+    "BS-1-2: Three-Way Junction": 15,
+    "BA-1-4: Cat In A Box": 20,
+    "BA-1-5: Under the Undercurrents": 15,
+    "BS-1-3: Tears of the Thorn": 23,
+    "BA-1-6: Sudden Silence": 19,
+    "BA-1-7: Bad Guy Fireworks": 20,
+    "BS-1-4: Butterfly's Interment": 21,
+    "BA-1-8: Love And Punishment": 7,
+    "BA-1-9: Final Signal": 18,
+    "BS-1-5: Ideal Reborn": 24
+   },
    "drift": 0.166
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Dawnforger to Chiral Redundancy",
+  "act_label": "Chapter 20",
+  "act_title": "Chiral Redundancy - Part 1",
+  "wiki_page": "GFL2 Story/Summary#Chapter_20_(Chiral_Redundancy_-_Part_1)",
+  "slug": "v5_Chapter_20",
+  "candidates": [
+   {
+    "seconds": 42741,
+    "title": "Chapter 20 \"Chiral Redundancy, Part 1\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=HF96ieaKEIQ",
+    "views": 117,
+    "rejected": [],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 33315,
+    "title": "Girls' Frontline 2 EXILIUM - Chapter 20 [Event] Chiral Redundancy - Part 1",
+    "uploader": "Demonikar",
+    "url": "https://www.youtube.com/watch?v=9CmnDwPjenM",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261003"
+   },
+   {
+    "seconds": 29593,
+    "title": "Girls Frontline 2: Exilium - OTs-14 Event Streaming (Chiral Redundancy Part 1)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=JuEnM2qRXrI",
+    "views": "15353",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3733,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy Part 20 | Finale | Story Gameplay",
+    "uploader": "Casual Old Gamer",
+    "url": "https://www.youtube.com/watch?v=BVMVEZ7U9aw",
+    "views": 24,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 1683,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.1 - Cocooned Dreams / Fractured Reflection",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=BicO8CiOMu0",
+    "views": 386,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 1092,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.20 - Bloody Rebirth",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=vpkjbfeGnH8",
+    "views": "275",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 70,
+    "title": "Making Marshmallows from Scratch [GFL2 Voymastina animation]",
+    "uploader": "Simi and Chapchap",
+    "url": "https://www.youtube.com/watch?v=QVGwSjcHRms",
+    "views": "82992",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 43168,
+    "title": "Chapter 21 \"Chiral Redundancy, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=CQdXtkLShcM",
+    "views": 124,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 27324,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy Part 2 - All Cutscenes",
+    "uploader": "No Commentary",
+    "url": "https://www.youtube.com/watch?v=PSCNr9q6NJQ",
+    "views": "1088",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4853,
+    "title": "[Chiral Redundancy] Beilan Island Emergency Shelter Broadcast | Girls' Frontline 2: Exilium",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=vI8gEXoBHVc",
+    "views": 116707,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 1618,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.11 - Bloody-Teared Confession / Gray Wedding",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=q74A7jIvEUw",
+    "views": 2050,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 1243,
+    "title": "Girls' Frontline 2 Explained: Groza",
+    "uploader": "KansaiDorito",
+    "url": "https://www.youtube.com/watch?v=JWQQlFHEGGI",
+    "views": "47188",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1771,
+    "title": "GFL2: Exilium | Mimisbrunnr's Loop Pt.20 - Nowhere To Run",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=-54A1gAPIac",
+    "views": 72,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 3698,
+    "title": "Girls' Frontline 2 Exilium - [Story Part 216] - Needy Catgirl Overload (Chapter 20)",
+    "uploader": "KiRiRi~\u2606",
+    "url": "https://www.youtube.com/watch?v=CHmgxpEzJU4",
+    "views": 50,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260730"
+   },
+   {
+    "seconds": 1234,
+    "title": "GFL2: Exilium | Antiparallel Pt.20 - Destruction and Rebirth / March of Resistance",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=RdnfBI6JZvI",
+    "views": "110",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 50900,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Chiral Redundancy Part 1 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=uVd1AK7iwEQ",
+    "views": 553,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20261018"
+   },
+   {
+    "seconds": 23283,
+    "title": "Chiral Redundancy Part 1 - OTs-14 story | Girl's Frontline 2 Exilium [GFL2]",
+    "uploader": "eLLiXeon",
+    "url": "https://www.youtube.com/watch?v=j2MbpMtuS0w",
+    "views": 1595,
+    "rejected": [],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 20281,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy Part 1 - All Cutscenes",
+    "uploader": "No Commentary",
+    "url": "https://www.youtube.com/watch?v=qrNWkG5tac8",
+    "views": "2256",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 32602,
+    "title": "Chiral Redundancy (Part 1/2, OTs-14/Groza) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=r9U-pucZEH8",
+    "views": 1912,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 3814,
+    "title": "Heroic Story Mode - Chiral Redundancy Part 1 (All Objectives, No Rewinds)",
+    "uploader": "Defh",
+    "url": "https://www.youtube.com/watch?v=OFUxQcKmINA",
+    "views": 22,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261009",
+    "runtime": 3853,
+    "measured": "chapter-markers",
+    "parts": {
+     "OA-1-1: Fractured Reflection": 262,
+     "OA-1-2: Calm Before The Storm": 219,
+     "OA-1-3: Hollow Nest": 530,
+     "OA-1-4: Sympathetic Pain": 262,
+     "OA-1-5: Reborn From Hellfire": 233,
+     "OA-1-6: Twin Eves": 239,
+     "OA-1-7: Gray Wedding": 1216,
+     "OA-1-8: Clawsheathed Beast": 228,
+     "OA-1-9: Gnosis": 272,
+     "OA-1-10: Binary Orbit": 353
+    }
+   },
+   {
+    "seconds": 11606,
+    "title": "GIRLS FRONTLINE 2 EXILIUM Chiral Redundancy story Full part 1",
+    "uploader": "ARED GAMES",
+    "url": "https://www.youtube.com/watch?v=T6M5ExyNVKQ",
+    "views": 21,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261001"
+   },
+   {
+    "seconds": 94,
+    "title": "When you give guns to girls | GIRLS' FRONTLINE 2: EXILIUM",
+    "uploader": "Dangoheart Animation",
+    "url": "https://www.youtube.com/watch?v=wkAU9ZOV1N8",
+    "views": "146509",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 122,
+    "title": "(CN) Welrod Trailer [ JP DUB ] Girls' Frontline 2: EXILIUM Character Preview",
+    "uploader": "Nitrogen",
+    "url": "https://www.youtube.com/watch?v=X62tRIhgyo4",
+    "views": "22719",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 6562,
+    "title": "Girls Frontline 2 ~ Corposant - Parte 1 ~ Normal",
+    "uploader": "AstreaHTT",
+    "url": "https://www.youtube.com/watch?v=7KkvqmON8n4",
+    "views": 181,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260302"
+   },
+   {
+    "seconds": 2525,
+    "title": "M200 (Cheyanne)'s covenant scene + bond story [Girls frontline 2]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=uLRT8b1Vrdw",
+    "views": 3961,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251223"
+   },
+   {
+    "seconds": 2366,
+    "title": "P90 (Mityl)'s covenant scene + bond story [Girls frontline 2]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=q4i2TDadj3w",
+    "views": 1847,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260428"
+   },
+   {
+    "seconds": 91,
+    "title": "Special Animation | Frontline without Girls",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=sHsLi8KCqk4",
+    "views": "106514",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 122,
+    "title": "(CN) Faelynn / G41 Trailer [ JP DUB ] Girls' Frontline 2: EXILIUM Character Preview",
+    "uploader": "Nitrogen",
+    "url": "https://www.youtube.com/watch?v=qVL9wrNRkwo",
+    "views": "151014",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 115,
+    "title": "[Doll PV] Rainy [Girls' Frontline 2]",
+    "uploader": "\u30c9\u30fc\u30eb\u30ba\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f32:\u30a8\u30af\u30b7\u30ea\u30a6\u30e0\u3010\u516c\u5f0f\u3011",
+    "url": "https://www.youtube.com/watch?v=ws4-qqA8aS0",
+    "views": "23214",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19089,
+    "title": "NEED TO PLAY GACHA BUT SO MUCH DRAMA??? GFL2 HUGE PATCH! | Livestream",
+    "uploader": "GuitarRock First",
+    "url": "https://www.youtube.com/watch?v=Ooe1dPt0qTw",
+    "views": "2640",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 288,
+    "title": "GFL 2 (Iliad) OST || Twilight",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=Znb8pE2DScs",
+    "views": "21315",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 221,
+    "title": "Sextans crew deck",
+    "uploader": "VanToto",
+    "url": "https://www.youtube.com/watch?v=XQBztHX8X1Q",
+    "views": "6272",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 614,
+    "title": "Groza Should Not Have Been the Main Girl for Girls' Frontline 2",
+    "uploader": "HeroMystic",
+    "url": "https://www.youtube.com/watch?v=EX5mF9AX_TI",
+    "views": "6141",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19649,
+    "title": "Girls Frontline 2: Exilium - Agent Event (Silent Synapses Continuation)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=DLzrf2kWnog",
+    "views": 14890,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260929"
+   },
+   {
+    "seconds": 4540,
+    "title": "Chiral Redundancy - Part 1 (1/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=4MQHcqjiiEE",
+    "views": 55,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 5939,
+    "title": "Chiral Redundancy - Part 1 (2/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=vNlCBobeFd0",
+    "views": 45,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 378,
+    "title": "2 Grozas [Chiral Redundancy]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=o_iz3zTJzQY",
+    "views": "73701",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5756,
+    "title": "Chiral Redundancy - Part 1 (5/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=GL1ri11fYEg",
+    "views": 52,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 4703,
+    "title": "Chiral Redundancy - Part 1 (4/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=RleY0_pReJ8",
+    "views": 55,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260908"
+   },
+   {
+    "seconds": 5063,
+    "title": "Chiral Redundancy - Part 1 (3/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=LPfjgz6MoEo",
+    "views": 28,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260907"
+   },
+   {
+    "seconds": 4581,
+    "title": "Chiral Redundancy - Part 1 (6/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=VbPqdy9ctsM",
+    "views": 82,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 5483,
+    "title": "Chiral Redundancy - Part 2 (1/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=v8rbTJ6_DF0",
+    "views": 43,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 10503,
+    "title": "Chapter 21.1 \"Chiral Redundancy, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=E9os5C9O7Ew",
+    "views": 96,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 77,
+    "title": "[GFL2] Igla VS Voymastina (no commentary)",
+    "uploader": "Defh",
+    "url": "https://www.youtube.com/watch?v=MN-sfRXvpSw",
+    "views": "7659",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 8035,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chapter 1 (Campaign - Full Story Playthrough - No Commentary",
+    "uploader": "Bek",
+    "url": "https://www.youtube.com/watch?v=1CRJ_YmALH4",
+    "views": 11615,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20241206"
+   },
+   {
+    "seconds": 165,
+    "title": "Event Story Chiral Redundancy Part 1 Movie Cutscenes\u300eGirls' Frontline 2: Exilium\u300f",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=Vx51vk6QZEI",
+    "views": "5861",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1211,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 1 (Supply)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=XqRBX8f3geM",
+    "views": "89",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9842,
+    "title": "\u3010GIRLS' FRONTLINE 2: EXILIUM #63\u3011 Starting Chiral Redundancy Part 1",
+    "uploader": "Misaki Nobunaga",
+    "url": "https://www.youtube.com/watch?v=TuOL6vAKhvQ",
+    "views": 1103,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260911"
+   },
+   {
+    "seconds": 32944,
+    "title": "Girls Frontline 2 | Chiral Redundancy (Part 1)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=BQ5n1wt0JBk",
+    "views": 1881,
+    "rejected": [],
+    "upload_date": "20260831",
+    "runtime": 32944,
+    "measured": "chapter-markers",
+    "parts": {
+     "OS-1-1: Cocooned Dreams": 996,
+     "OA-1-1: Fractured Reflection": 1958,
+     "OS-1-2: But For Your Sake": 1109,
+     "OS-1-3: Stolen Echo": 744,
+     "OS-1-4: Tenebrous Whisper": 1554,
+     "OA-1-2: Calm Before The Storm": 696,
+     "OS-1-5: Wilderness Wanderings": 880,
+     "OA-1-3: Hollow Nest": 1205,
+     "OS-1-6: When The Prism Shatters": 2052,
+     "OA-1-4: Sympathetic Pain": 1113,
+     "OS-1-7: Shards In The Incinerator": 2192,
+     "OS-1-8: Bloody Mask": 2221,
+     "OA-1-5: Reborn From Hellfire": 1560,
+     "OA-1-6: Twin Eves": 1461,
+     "OS-1-9: Bloody-Teared Confession": 2656,
+     "OS-1-10: Oathbreaker Bride": 3131,
+     "OA-1-8: Clawsheathed Beast": 2379,
+     "OA-1-9: Gnosis": 880,
+     "OA-1-10: Binary Orbit": 2654,
+     "OS-1-12: Shadows of Dawn": 1503
+    }
+   },
+   {
+    "seconds": 685,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [01] OS-1-1 Cocooned Dreams",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=P6PIr2JS26Q",
+    "views": "195",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 967,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [05] OS-1-4 Tenebrous Whisper",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=e1PQmDOUwEg",
+    "views": "47",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2388,
+    "title": "Girls' Frontline 2 - Chiral Redundancy Part 1 | Event Story",
+    "uploader": "Casual Old Gamer",
+    "url": "https://www.youtube.com/watch?v=GH70i5P2u34",
+    "views": 74,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 1238,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [15] OS-1-9 Bloody-Teared Confession",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=8D-7Hwp11WA",
+    "views": "25",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 28231,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 1 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=3zjD5GG6xqc",
+    "views": 197,
+    "rejected": [],
+    "upload_date": "20260830",
+    "runtime": 28591,
+    "measured": "chapter-markers",
+    "parts": {
+     "OS-1-1: Cocooned Dreams": 762,
+     "OA-1-1: Fractured Reflection": 1622,
+     "OS-1-2: But For Your Sake": 791,
+     "OS-1-3: Stolen Echo": 542,
+     "OS-1-4: Tenebrous Whisper": 1123,
+     "OA-1-2: Calm Before The Storm": 643,
+     "OS-1-5: Wilderness Wanderings": 634,
+     "OA-1-3: Hollow Nest": 1239,
+     "OS-1-6: When The Prism Shatters": 1409,
+     "OA-1-4: Sympathetic Pain": 1074,
+     "OS-1-7: Shards In The Incinerator": 1653,
+     "OS-1-8: Bloody Mask": 1656,
+     "OA-1-5: Reborn From Hellfire": 1389,
+     "OA-1-6: Twin Eves": 1287,
+     "OS-1-9: Bloody-Teared Confession": 1486,
+     "OA-1-7: Gray Wedding": 3698,
+     "OA-1-8: Clawsheathed Beast": 2153,
+     "OA-1-9: Gnosis": 976,
+     "OA-1-10: Binary Orbit": 2914,
+     "OS-1-12: Shadows of Dawn": 1180
+    }
+   },
+   {
+    "seconds": 1307,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [17] OS-1-10 Oathbreaker Bride #gaming",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=-3nP5EbX_dU",
+    "views": "107",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 42898,
+    "title": "Chiral Redundancy (Part 2/2, Soppo/M4 SOPMOD II) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=VY-_yoKvxKo",
+    "views": 1074,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 686,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [18] OS-1-11 Primshine #gaming",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=JEBwaUWQ6ps",
+    "views": "28",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1216,
+    "title": "GIRLS' FRONTLINE 2: EXILIUM - Chiral Redundancy: Part 1 - [02] OA-1-1 Fractured Reflection",
+    "uploader": "Duppy9410",
+    "url": "https://www.youtube.com/watch?v=rloGrPiyRmA",
+    "views": "86",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 21046,
+    "title": "ARE U GROZA?? Reading Story Event Chiral Redundancy Part 1 | #GFL2",
+    "uploader": "SinoDegen",
+    "url": "https://www.youtube.com/watch?v=PAxZFXSKlwk",
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 13536,
+    "title": "Girls' Frontline 2 Global | Chiral Redundancy Part 1 & OTs-14 Gameplay",
+    "uploader": "WhereIsMyBrain",
+    "url": "https://www.youtube.com/watch?v=ni3mtKPKd4A",
+    "views": 189,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 37829,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 2 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=GZhKTBKIf70",
+    "views": 478,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 130,
+    "title": "Chiral Redundancy Part 1 OST | Allegro Del Oscuro | Girls' Frontline 2: Exilium",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=olTGuvG5bio",
+    "views": "30011",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 61239,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Chiral Redundancy Part 2 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=uu3Szs8EAQs",
+    "views": 697,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261025"
+   },
+   {
+    "seconds": 402,
+    "title": "[GFL2] Chiral Redundancy Heroic Story PART 1 | AUTO Full Stars VS Juno - Aberrant",
+    "uploader": "TheClem",
+    "url": "https://www.youtube.com/watch?v=NQFU2gpK8Xk",
+    "views": "305",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 103,
+    "title": "OTs-14 (Groza Alter) VS Elmo Crew | GF2 Chiral Redundancy Part 1 Cutscene",
+    "uploader": "WhereIsMyBrain",
+    "url": "https://www.youtube.com/watch?v=hEzykNctudY",
+    "views": "7526",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1963,
+    "title": "OTS 14 Cutscene Only Recap Before Chiral Redundancy [GFL2]",
+    "uploader": "Yggdrasil Fire Safety Department",
+    "url": "https://www.youtube.com/watch?v=MeiKhuHNObY",
+    "views": "3436",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 260,
+    "title": "Groza Wedding Dress Boss Theme (Chiral Redundancy Event Part 1) | Girls' Frontline 2: Exilium",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=rQToUi2AHFg",
+    "views": "3627",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 85,
+    "title": "OTs-14 Forces Everyone to Watch Her Wedding | GF2 Chiral Redundancy Part 1",
+    "uploader": "WhereIsMyBrain",
+    "url": "https://www.youtube.com/watch?v=2l9loZxwSSE",
+    "views": "1984",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 61,
+    "title": "Groza & OTs-14\u2019s Dates Overlap?! [ GIRLS' FRONTLINE 2: EXILIUM ]",
+    "uploader": "The Bez",
+    "url": "https://www.youtube.com/watch?v=4JSFqa9R738",
+    "views": "80668",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 849,
+    "title": "Girls Frontline 2: Exilium - Chiral Redundancy cutscenes - wedding & epic fight",
+    "uploader": "VanToto",
+    "url": "https://www.youtube.com/watch?v=Q8M3yynMDas",
+    "views": "26231",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 141,
+    "title": "Girls' Frontline 2 CN - Ots-14 (Groza Alter) PV",
+    "uploader": "HoxyNyaa",
+    "url": "https://www.youtube.com/watch?v=HlQtIc4jaok",
+    "views": "64940",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 21046,
+    "title": "ARE U GROZA?? Reading Story Event Chiral Redundancy Part 1 | #GFL2",
+    "uploader": "SinoDegen",
+    "url": "https://www.youtube.com/watch?v=PAxZFXSKlwk",
+    "views": 42,
+    "rejected": [],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 23283,
+    "title": "Chiral Redundancy Part 1 - OTs-14 story | Girl's Frontline 2 Exilium [GFL2]",
+    "uploader": "eLLiXeon",
+    "url": "https://www.youtube.com/watch?v=j2MbpMtuS0w",
+    "views": 1595,
+    "rejected": [],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 28231,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 1 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=3zjD5GG6xqc",
+    "views": 197,
+    "rejected": [],
+    "upload_date": "20260830",
+    "runtime": 28591,
+    "measured": "chapter-markers",
+    "parts": {
+     "OS-1-1: Cocooned Dreams": 762,
+     "OA-1-1: Fractured Reflection": 1622,
+     "OS-1-2: But For Your Sake": 791,
+     "OS-1-3: Stolen Echo": 542,
+     "OS-1-4: Tenebrous Whisper": 1123,
+     "OA-1-2: Calm Before The Storm": 643,
+     "OS-1-5: Wilderness Wanderings": 634,
+     "OA-1-3: Hollow Nest": 1239,
+     "OS-1-6: When The Prism Shatters": 1409,
+     "OA-1-4: Sympathetic Pain": 1074,
+     "OS-1-7: Shards In The Incinerator": 1653,
+     "OS-1-8: Bloody Mask": 1656,
+     "OA-1-5: Reborn From Hellfire": 1389,
+     "OA-1-6: Twin Eves": 1287,
+     "OS-1-9: Bloody-Teared Confession": 1486,
+     "OA-1-7: Gray Wedding": 3698,
+     "OA-1-8: Clawsheathed Beast": 2153,
+     "OA-1-9: Gnosis": 976,
+     "OA-1-10: Binary Orbit": 2914,
+     "OS-1-12: Shadows of Dawn": 1180
+    }
+   },
+   {
+    "seconds": 32602,
+    "title": "Chiral Redundancy (Part 1/2, OTs-14/Groza) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=r9U-pucZEH8",
+    "views": 1912,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 32944,
+    "title": "Girls Frontline 2 | Chiral Redundancy (Part 1)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=BQ5n1wt0JBk",
+    "views": 1881,
+    "rejected": [],
+    "upload_date": "20260831",
+    "runtime": 32944,
+    "measured": "chapter-markers",
+    "parts": {
+     "OS-1-1: Cocooned Dreams": 996,
+     "OA-1-1: Fractured Reflection": 1958,
+     "OS-1-2: But For Your Sake": 1109,
+     "OS-1-3: Stolen Echo": 744,
+     "OS-1-4: Tenebrous Whisper": 1554,
+     "OA-1-2: Calm Before The Storm": 696,
+     "OS-1-5: Wilderness Wanderings": 880,
+     "OA-1-3: Hollow Nest": 1205,
+     "OS-1-6: When The Prism Shatters": 2052,
+     "OA-1-4: Sympathetic Pain": 1113,
+     "OS-1-7: Shards In The Incinerator": 2192,
+     "OS-1-8: Bloody Mask": 2221,
+     "OA-1-5: Reborn From Hellfire": 1560,
+     "OA-1-6: Twin Eves": 1461,
+     "OS-1-9: Bloody-Teared Confession": 2656,
+     "OS-1-10: Oathbreaker Bride": 3131,
+     "OA-1-8: Clawsheathed Beast": 2379,
+     "OA-1-9: Gnosis": 880,
+     "OA-1-10: Binary Orbit": 2654,
+     "OS-1-12: Shadows of Dawn": 1503
+    }
+   },
+   {
+    "seconds": 33315,
+    "title": "Girls' Frontline 2 EXILIUM - Chapter 20 [Event] Chiral Redundancy - Part 1",
+    "uploader": "Demonikar",
+    "url": "https://www.youtube.com/watch?v=9CmnDwPjenM",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20261003"
+   },
+   {
+    "seconds": 42741,
+    "title": "Chapter 20 \"Chiral Redundancy, Part 1\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=HF96ieaKEIQ",
+    "views": 117,
+    "rejected": [],
+    "upload_date": "20260830"
+   }
+  ],
+  "stats": {
+   "n": 7,
+   "median": 543,
+   "low": 351,
+   "high": 712,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 510,
+   "measured": 2,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Dawnforger to Chiral Redundancy",
+  "act_label": "Chapter 21",
+  "act_title": "Chiral Redundancy - Part 2",
+  "wiki_page": "GFL2 Story/Summary#Chapter_21_(Chiral_Redundancy_-_Part_2)",
+  "slug": "v5_Chapter_21",
+  "candidates": [
+   {
+    "seconds": 43168,
+    "title": "Chapter 21 \"Chiral Redundancy, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=CQdXtkLShcM",
+    "views": 124,
+    "rejected": [],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 15010,
+    "title": "Girls frontline 2 Exilium Chapter 21 (Chiral Redundancy 1. Black Groza Event) Part 2",
+    "uploader": "Macu_bravo",
+    "url": "https://www.youtube.com/watch?v=wHBKvdPF_jc",
+    "views": 19,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260902"
+   },
+   {
+    "seconds": 1020,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.23 - Resonant Homophony",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=OaAcC7IjuU8",
+    "views": "296",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 42741,
+    "title": "Chapter 20 \"Chiral Redundancy, Part 1\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=HF96ieaKEIQ",
+    "views": 117,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 1853,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.19 - Countercurrent Distribution  (Nele meets Kalina)",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=jAkuS6K_OzU",
+    "views": 265,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 1573,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.25 - Coincident Fault",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=PrK2B_uDPMM",
+    "views": 216,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 60,
+    "title": "Knock Knock... Who's There? | Girls' Frontline 2: Exilium",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=tRJeN28_LXE",
+    "views": "169974",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1788,
+    "title": "[Girl Frontline 2: Exilium] All Darture Story Bossfight",
+    "uploader": "Syahroedean",
+    "url": "https://www.youtube.com/watch?v=lTXSf4hXj08",
+    "views": 848,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20241221"
+   },
+   {
+    "seconds": 1243,
+    "title": "Girls' Frontline 2 Explained: Groza",
+    "uploader": "KansaiDorito",
+    "url": "https://www.youtube.com/watch?v=JWQQlFHEGGI",
+    "views": "47188",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 6390,
+    "title": "FIRST TIME Reacting to EVERY PV GIRLS FRONTLINE 2 Anniversary Celebration",
+    "uploader": "Unreal Dreamer",
+    "url": "https://www.youtube.com/watch?v=SYP7eyg2X6U",
+    "views": "8267",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1086,
+    "title": "GFL2: Exilium | Dawnforger Pt.21 - Hot-Blooded City",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=W0KzquLTDOA",
+    "views": "62",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4846,
+    "title": "Girls' Frontline 2: Exilium (2024) - Part 21 (Main Story - Chapter 8)",
+    "uploader": "FeyHunt 2",
+    "url": "https://www.youtube.com/watch?v=g78FsRtSIHY",
+    "views": 8,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250118"
+   },
+   {
+    "seconds": 1010,
+    "title": "GFL2: Exilium | Mimisbrunnr's Loop Pt.21 - Eradication",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=vML9x4py2Y0",
+    "views": "58",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1272,
+    "title": "GFL2: Exilium | Corposant Pt.21 - Hunter II / Witch I",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=t-6iX_TbCiA",
+    "views": "143",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1111,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.21 - Roiling Undertow",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=NoUko8VrB6c",
+    "views": "204",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1107,
+    "title": "GFL2: Exilium | Deep Oblivion Pt.21 - Pawn / Overloaded Field",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=vTK1JuczUFc",
+    "views": "58",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1618,
+    "title": "GFL2: Exilium | Chiral Redundancy Pt.11 - Bloody-Teared Confession / Gray Wedding",
+    "uploader": "XtraNinja",
+    "url": "https://www.youtube.com/watch?v=q74A7jIvEUw",
+    "views": 2050,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 69,
+    "title": "Stealth Is Optional | Girls' Frontline 2: Exilium Animation",
+    "uploader": "Enthralpy",
+    "url": "https://www.youtube.com/watch?v=_QUPmyS9AiE",
+    "views": "38355",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2230,
+    "title": "Sextans's covenant scene + bond story [Girls frontline 2]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=KDTF-JvKBeE",
+    "views": 9710,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260224"
+   },
+   {
+    "seconds": 77,
+    "title": "[GFL2] Igla VS Voymastina (no commentary)",
+    "uploader": "Defh",
+    "url": "https://www.youtube.com/watch?v=MN-sfRXvpSw",
+    "views": "7659",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 433,
+    "title": "ABSOLUTE CINEMA - Girls Frontline 2 | Corposant Event All Cutscenes",
+    "uploader": "HoxyNyaa",
+    "url": "https://www.youtube.com/watch?v=OS4jayba9V4",
+    "views": "73415",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 212,
+    "title": "Sextans Theme (Moonshroud Requiem Event) | Girls' Frontline 2: Exilium OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=nfJ-TkK9qdM",
+    "views": "3928",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 40874,
+    "title": "Girls Frontline 2 | Chiral Redundancy (Part 2)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=sDPH3mwT_i4",
+    "views": 1650,
+    "rejected": [],
+    "upload_date": "20260927",
+    "runtime": 40874,
+    "measured": "chapter-markers",
+    "parts": {
+     "SS-1-1: Quiescent Flame": 1499,
+     "SS-1-2: Countercurrent Distribution": 2828,
+     "SA-1-1: Bloody Rebirth": 1656,
+     "SS-1-3: Roiling Undertow": 1600,
+     "SA-1-2: Supreme Creation": 1708,
+     "SA-1-3: Resonant Homophony": 1646,
+     "SA-1-4: Silent GuardianShip": 1664,
+     "SA-1-5: Coincident Fault": 2377,
+     "SS-1-4: The Great Game": 1281,
+     "SA-1-6: Devouring Symbiosis": 2252,
+     "SA-1-7: Past Glory": 2678,
+     "SS-1-5: Fissure of Nirvana": 2154,
+     "SA-1-8: Self-Awareness": 2396,
+     "SA-1-9: Diversity of Life": 2874,
+     "SA-1-10: Dragon's Cry": 2198,
+     "SA-1-11: Loyalty And Treachery": 1767,
+     "SA-1-12: Animal Instinct": 1854,
+     "SA-1-13: Emergence": 935,
+     "SA-1-14: Dragonslayer": 1987,
+     "SS-1-6: Silent Labyrinth": 3520
+    }
+   },
+   {
+    "seconds": 37379,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 2 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=GZhKTBKIf70",
+    "views": 478,
+    "rejected": [],
+    "upload_date": "20260923",
+    "runtime": 37829,
+    "measured": "chapter-markers",
+    "parts": {
+     "SS-1-1: Quiescent Flame": 1189,
+     "SS-1-2: Countercurrent Distribution": 2196,
+     "SA-1-1: Bloody Rebirth": 1665,
+     "SS-1-3: Roiling Undertow": 1337,
+     "SA-1-2: Supreme Creation": 1562,
+     "SA-1-3: Resonant Homophony": 1478,
+     "SA-1-4: Silent GuardianShip": 1539,
+     "SA-1-5: Coincident Fault": 2338,
+     "SS-1-4: The Great Game": 1029,
+     "SA-1-6: Devouring Symbiosis": 2147,
+     "SA-1-7: Past Glory": 2664,
+     "SS-1-5: Fissure of Nirvana": 1664,
+     "SA-1-8: Self-Awareness": 2086,
+     "SA-1-9: Diversity of Life": 2658,
+     "SA-1-10: Dragon's Cry": 1893,
+     "SA-1-11: Loyalty And Treachery": 1653,
+     "SA-1-12: Animal Instinct": 1691,
+     "SA-1-13: Emergence": 993,
+     "SA-1-14: Dragonslayer": 2555,
+     "SS-1-6: Silent Labyrinth": 3042
+    }
+   },
+   {
+    "seconds": 27324,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy Part 2 - All Cutscenes",
+    "uploader": "No Commentary",
+    "url": "https://www.youtube.com/watch?v=PSCNr9q6NJQ",
+    "views": "1088",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 29593,
+    "title": "Girls Frontline 2: Exilium - OTs-14 Event Streaming (Chiral Redundancy Part 1)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=JuEnM2qRXrI",
+    "views": "15353",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 39655,
+    "title": "GFL2 - Chiral Redundancy Part 2 Full Story | Voiced Audiobook",
+    "uploader": "Tiz Voiced Gacha Stories",
+    "url": "https://www.youtube.com/watch?v=hYQw_cfGJag",
+    "views": "137",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 23283,
+    "title": "Chiral Redundancy Part 1 - OTs-14 story | Girl's Frontline 2 Exilium [GFL2]",
+    "uploader": "eLLiXeon",
+    "url": "https://www.youtube.com/watch?v=j2MbpMtuS0w",
+    "views": 1595,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 61239,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Chiral Redundancy Part 2 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=uu3Szs8EAQs",
+    "views": 697,
+    "rejected": [],
+    "upload_date": "20261025"
+   },
+   {
+    "seconds": 32602,
+    "title": "Chiral Redundancy (Part 1/2, OTs-14/Groza) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=r9U-pucZEH8",
+    "views": 1912,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 1734,
+    "title": "Girls' Frontline 2 - Chiral Redundancy Part 2 | Event Story",
+    "uploader": "Casual Old Gamer",
+    "url": "https://www.youtube.com/watch?v=tJvJxf381vA",
+    "views": 146,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 5922,
+    "title": "Chiral Redundancy - Part 2 (2/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=cU_pl8gVh5A",
+    "views": 28,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 28591,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 1 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=3zjD5GG6xqc",
+    "views": 197,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 40094,
+    "title": "GFL 2 : Exilium Event Chiral Redundancy Part 2",
+    "uploader": "Golf Stargazer",
+    "url": "https://www.youtube.com/watch?v=XoX-ZFMbIjQ",
+    "views": 13,
+    "rejected": [],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 19823,
+    "title": "\ud83d\udd25 THE NEW STORY BEGINS! \ud83d\ude31 Chiral Redundancy Story 2 - Part 1 | Girls' Frontline 2: Exilium",
+    "uploader": "SaltyVampire96",
+    "url": "https://www.youtube.com/watch?v=PB6FrAGqNKA",
+    "views": 12,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260918"
+   },
+   {
+    "seconds": 378,
+    "title": "2 Grozas [Chiral Redundancy]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=o_iz3zTJzQY",
+    "views": "73692",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 20281,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy Part 1 - All Cutscenes",
+    "uploader": "No Commentary",
+    "url": "https://www.youtube.com/watch?v=qrNWkG5tac8",
+    "views": "2256",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5483,
+    "title": "Chiral Redundancy - Part 2 (1/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=v8rbTJ6_DF0",
+    "views": 43,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 6411,
+    "title": "Chiral Redundancy - Part 2 (4/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=KW36tSG-sTk",
+    "views": 33,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 402,
+    "title": "[GFL2] Chiral Redundancy Heroic Story PART 1 | AUTO Full Stars VS Juno - Aberrant",
+    "uploader": "TheClem",
+    "url": "https://www.youtube.com/watch?v=NQFU2gpK8Xk",
+    "views": "305",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 42898,
+    "title": "Chiral Redundancy (Part 2/2, Soppo/M4 SOPMOD II) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=VY-_yoKvxKo",
+    "views": 1074,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 12847,
+    "title": "\u3010GFL2: Exilium\u3011Here be Soppos | Chiral Redundancy Part 2 [EN/ES]",
+    "uploader": "Ekinnox Aeterna",
+    "url": "https://www.youtube.com/watch?v=2vX6YedxHfs",
+    "views": 52,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 29365,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy - Part 2",
+    "uploader": "SHOGUNG-SS",
+    "url": "https://www.youtube.com/watch?v=D3_vOy1alAY",
+    "views": 147,
+    "rejected": [],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 20275,
+    "title": "Girls Frontline 2 - Finishing Chiral Redundancy Part 2",
+    "uploader": "TiferetEvocatus VODS",
+    "url": "https://www.youtube.com/watch?v=AkYMlai-Sxs",
+    "views": 290,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 37915,
+    "title": "Girls' Frontline 2: Chiral Redundancy Part 2 - Finding Soppo [1440p / Ultrawide]",
+    "uploader": "\u767d\u732b\uff08Shiro\uff09",
+    "url": "https://www.youtube.com/watch?v=WKDL9m9NWfg",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261028"
+   },
+   {
+    "seconds": 36243,
+    "title": "RIP AND TEAR SOPPO!! ~ Chiral Redundancy Part 2 Playthrough Girls' Frontline 2: Exilium Reaction VOD",
+    "uploader": "Pun Knee",
+    "url": "https://www.youtube.com/watch?v=iSweG1TKniY",
+    "views": "73",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 42899,
+    "title": "CHIRAL REDUNDANCY ( Part 2) | GIRLS FRONTLINE 2: EXILIUM |",
+    "uploader": "AzureNova",
+    "url": "https://www.youtube.com/watch?v=XRS53yehp1w",
+    "views": 938,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 11652,
+    "title": "Girls Frontline 2 - Starting Chiral Redundancy - Part 2",
+    "uploader": "TiferetEvocatus VODS",
+    "url": "https://www.youtube.com/watch?v=-T90uf1hLx8",
+    "views": 204,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260921"
+   },
+   {
+    "seconds": 21025,
+    "title": "Girls Frontline 2 -  Continuing Chiral Redundancy - Part 2",
+    "uploader": "TiferetEvocatus VODS",
+    "url": "https://www.youtube.com/watch?v=ECPOROwOh-8",
+    "views": 359,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 18275,
+    "title": "Readthrough of Mirror Redundancy (Part 2) | Girls' Frontline 2 [CN]",
+    "uploader": "HeroMystic",
+    "url": "https://www.youtube.com/watch?v=w29Ku6VAhDs",
+    "views": 1987,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260409"
+   },
+   {
+    "seconds": 13981,
+    "title": "GIRLS FRONTLINE 2 EXILIUM Chiral Redundancy story Full part 2 END",
+    "uploader": "ARED GAMES",
+    "url": "https://www.youtube.com/watch?v=R2gq2_Yf4Ew",
+    "views": 18,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261007"
+   },
+   {
+    "seconds": 230,
+    "title": "Girls' Frontline 2: Exilium | Major Event [Iliad] ED: Odyssey",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=tQas0OE9IGc",
+    "views": "52653",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 849,
+    "title": "Girls Frontline 2: Exilium - Chiral Redundancy cutscenes - wedding & epic fight",
+    "uploader": "VanToto",
+    "url": "https://www.youtube.com/watch?v=Q8M3yynMDas",
+    "views": "26224",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 57,
+    "title": "Cat break ( Girls' Frontline 2: Exilium )",
+    "uploader": "Fuengs",
+    "url": "https://www.youtube.com/watch?v=AqVNlV2FgEg",
+    "views": "89958",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 165,
+    "title": "Event Story Chiral Redundancy Part 1 Movie Cutscenes\u300eGirls' Frontline 2: Exilium\u300f",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=Vx51vk6QZEI",
+    "views": "5861",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 288,
+    "title": "GFL 2 (Iliad) OST || Twilight",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=Znb8pE2DScs",
+    "views": "21315",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 22,
+    "title": "Soppo go Brrrrrrrr--",
+    "uploader": "Dillion Mcrich",
+    "url": "https://www.youtube.com/watch?v=fnjmZzHBb90",
+    "views": "19998",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1279,
+    "title": "Girls' Frontline 2: Exilium | OST Collection",
+    "uploader": "GIRLS' FRONTLINE 2: EXILIUM-Official",
+    "url": "https://www.youtube.com/watch?v=Gm_PH4_qx38",
+    "views": "12515",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19649,
+    "title": "Girls Frontline 2: Exilium - Agent Event (Silent Synapses Continuation)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=DLzrf2kWnog",
+    "views": 14890,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260929"
+   },
+   {
+    "seconds": 19688,
+    "title": "Girls Frontline 2: Exilium - Sextans Event (Moonshroud Requiem)",
+    "uploader": "Orin",
+    "url": "https://www.youtube.com/watch?v=8vqkG8kB04s",
+    "views": 4227,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260225"
+   },
+   {
+    "seconds": 1751,
+    "title": "Phaetusa's covenant scene + bond story [Girls frontline 2]",
+    "uploader": "Seplios",
+    "url": "https://www.youtube.com/watch?v=si1ogAv9BiA",
+    "views": 3215,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20251021"
+   },
+   {
+    "seconds": 141,
+    "title": "Girls' Frontline 2 CN - Ots-14 (Groza Alter) PV",
+    "uploader": "HoxyNyaa",
+    "url": "https://www.youtube.com/watch?v=HlQtIc4jaok",
+    "views": "64944",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 20613,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Corposant Part 1 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=YaU4RvC7VAI",
+    "views": 613,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260331"
+   },
+   {
+    "seconds": 210,
+    "title": "Girls' Frontline 2: Exilium | Soppo \"M4 SOPMODII\" - All Animations | 4K",
+    "uploader": "Fire Mountain",
+    "url": "https://www.youtube.com/watch?v=-aD9cDIgrpI",
+    "views": "96713",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 10503,
+    "title": "Chapter 21.1 \"Chiral Redundancy, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=E9os5C9O7Ew",
+    "views": 96,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 7321,
+    "title": "Chiral Redundancy - Part 2 (6/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=kHwYRpNaepg",
+    "views": 38,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260922"
+   },
+   {
+    "seconds": 5257,
+    "title": "Chiral Redundancy - Part 2 (3/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=Z3thbIJAuWg",
+    "views": 32,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 6031,
+    "title": "Chiral Redundancy - Part 2 (5/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=iELd_bhi2ds",
+    "views": 45,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260921"
+   },
+   {
+    "seconds": 30565,
+    "title": "Solving Chiral Redundancy with Soppo in Girls' Frontline 2: Exilium (Finale).",
+    "uploader": "TheXGamer",
+    "url": "https://www.youtube.com/watch?v=3EwGWiUwIEM",
+    "views": 81,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 5939,
+    "title": "Chiral Redundancy - Part 1 (2/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=vNlCBobeFd0",
+    "views": 45,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 4581,
+    "title": "Chiral Redundancy - Part 1 (6/6)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=VbPqdy9ctsM",
+    "views": 82,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260910"
+   },
+   {
+    "seconds": 9960,
+    "title": "\ud83d\udd34\u3010Girls' Frontline 2: Exilium\u3011TAMATIN STORY SOPPU CHIRAL REDUNDANCY PART 2 (Sub Indonesia)",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=fETjRtOBgSo",
+    "views": "188",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 10301,
+    "title": "Soppo doesn't overthink, She acts.! Chiral Redundancy Part 2-2 Story (GF2: Exilium)",
+    "uploader": "THOA",
+    "url": "https://www.youtube.com/watch?v=zhKOiMERasA",
+    "views": 110,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 17281,
+    "title": "Girls frontline 2 Exilium Chapter 22 (Chiral Redundancy 2. Soppo/M4 Sopmod 2 Event) Part 2",
+    "uploader": "Macu_bravo",
+    "url": "https://www.youtube.com/watch?v=E0EdK7oU34w",
+    "views": 53,
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 9939,
+    "title": "It's SOPPO Arc but Lenna keep Pop Up! Chiral Redundancy Part 2-1 Story (GF2: Exilium)",
+    "uploader": "THOA",
+    "url": "https://www.youtube.com/watch?v=uG6mFVHDQU8",
+    "views": 116,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 11327,
+    "title": "\ud83d\udd34\u3010Girls' Frontline 2: Exilium\u3011MALAM MINGGU MENAMATKAN STORY CHIRAL REDUNDANCY PART 2 (Sub Indonesia)",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=OPqqXmcG8eE",
+    "views": "182",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12291,
+    "title": "\ud83d\udd34\u3010Girls' Frontline 2: Exilium\u3011HARI INI KELAR STORY CHIRAL REDUNDANCY PART 2 (Sub Indonesia)",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=WH-IYLs4_4o",
+    "views": "242",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 27268,
+    "title": "\u3010GIRLS FRONTLINE 2\u3011Im sure OTS-14 wont do anything unrede- oh - Chiral Redundancy Part 2",
+    "uploader": "Verteller Barach ch. ",
+    "url": "https://www.youtube.com/watch?v=cIzAbv3o2ko",
+    "views": 567,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 4001,
+    "title": "\ud83d\udd34\u3010Girls' Frontline 2: Exilium\u3011WITH SOPPU STORY REVIEW CHIRAL REDUNDANCY PART 2 - GFL2 Indonesia",
+    "uploader": "Raizei",
+    "url": "https://www.youtube.com/watch?v=Lz2ou2pu8iY",
+    "views": "260",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 293,
+    "title": "Soppo Theme (Chiral Redundancy Event Part 2) | Girls' Frontline 2: Exilium OST",
+    "uploader": "Finding Purposes",
+    "url": "https://www.youtube.com/watch?v=eUhXVDS8tXg",
+    "views": "19480",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 32944,
+    "title": "Girls Frontline 2 | Chiral Redundancy (Part 1)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=BQ5n1wt0JBk",
+    "views": 1881,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260831"
+   },
+   {
+    "seconds": 2781,
+    "title": "Girls' Frontline 2 Exilium - [Story Part 239] - Chiral Redundancy Part 2",
+    "uploader": "KiRiRi~\u2606",
+    "url": "https://www.youtube.com/watch?v=8m7sLDJVDKE",
+    "views": 75,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260923"
+   },
+   {
+    "seconds": 4645,
+    "title": "Girls' Frontline 2 Exilium - [Story Part 244] - Chiral Redundancy Part 2",
+    "uploader": "KiRiRi~\u2606",
+    "url": "https://www.youtube.com/watch?v=acgb2N9C8QU",
+    "views": 61,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260928"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 27268,
+    "title": "\u3010GIRLS FRONTLINE 2\u3011Im sure OTS-14 wont do anything unrede- oh - Chiral Redundancy Part 2",
+    "uploader": "Verteller Barach ch. ",
+    "url": "https://www.youtube.com/watch?v=cIzAbv3o2ko",
+    "views": 567,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 29365,
+    "title": "Girls' Frontline 2: Exilium | Chiral Redundancy - Part 2",
+    "uploader": "SHOGUNG-SS",
+    "url": "https://www.youtube.com/watch?v=D3_vOy1alAY",
+    "views": 147,
+    "rejected": [],
+    "upload_date": "20261006"
+   },
+   {
+    "seconds": 37379,
+    "title": "Girls\u2019 Frontline 2 Exilium - Chiral Redundancy Part 2 (Event Story, JP VA)",
+    "uploader": "Hetherlum Productions",
+    "url": "https://www.youtube.com/watch?v=GZhKTBKIf70",
+    "views": 478,
+    "rejected": [],
+    "upload_date": "20260923",
+    "runtime": 37829,
+    "measured": "chapter-markers",
+    "parts": {
+     "SS-1-1: Quiescent Flame": 1189,
+     "SS-1-2: Countercurrent Distribution": 2196,
+     "SA-1-1: Bloody Rebirth": 1665,
+     "SS-1-3: Roiling Undertow": 1337,
+     "SA-1-2: Supreme Creation": 1562,
+     "SA-1-3: Resonant Homophony": 1478,
+     "SA-1-4: Silent GuardianShip": 1539,
+     "SA-1-5: Coincident Fault": 2338,
+     "SS-1-4: The Great Game": 1029,
+     "SA-1-6: Devouring Symbiosis": 2147,
+     "SA-1-7: Past Glory": 2664,
+     "SS-1-5: Fissure of Nirvana": 1664,
+     "SA-1-8: Self-Awareness": 2086,
+     "SA-1-9: Diversity of Life": 2658,
+     "SA-1-10: Dragon's Cry": 1893,
+     "SA-1-11: Loyalty And Treachery": 1653,
+     "SA-1-12: Animal Instinct": 1691,
+     "SA-1-13: Emergence": 993,
+     "SA-1-14: Dragonslayer": 2555,
+     "SS-1-6: Silent Labyrinth": 3042
+    }
+   },
+   {
+    "seconds": 37915,
+    "title": "Girls' Frontline 2: Chiral Redundancy Part 2 - Finding Soppo [1440p / Ultrawide]",
+    "uploader": "\u767d\u732b\uff08Shiro\uff09",
+    "url": "https://www.youtube.com/watch?v=WKDL9m9NWfg",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261028"
+   },
+   {
+    "seconds": 40094,
+    "title": "GFL 2 : Exilium Event Chiral Redundancy Part 2",
+    "uploader": "Golf Stargazer",
+    "url": "https://www.youtube.com/watch?v=XoX-ZFMbIjQ",
+    "views": 13,
+    "rejected": [],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 40874,
+    "title": "Girls Frontline 2 | Chiral Redundancy (Part 2)",
+    "uploader": "JasonDoesWhatever",
+    "url": "https://www.youtube.com/watch?v=sDPH3mwT_i4",
+    "views": 1650,
+    "rejected": [],
+    "upload_date": "20260927",
+    "runtime": 40874,
+    "measured": "chapter-markers",
+    "parts": {
+     "SS-1-1: Quiescent Flame": 1499,
+     "SS-1-2: Countercurrent Distribution": 2828,
+     "SA-1-1: Bloody Rebirth": 1656,
+     "SS-1-3: Roiling Undertow": 1600,
+     "SA-1-2: Supreme Creation": 1708,
+     "SA-1-3: Resonant Homophony": 1646,
+     "SA-1-4: Silent GuardianShip": 1664,
+     "SA-1-5: Coincident Fault": 2377,
+     "SS-1-4: The Great Game": 1281,
+     "SA-1-6: Devouring Symbiosis": 2252,
+     "SA-1-7: Past Glory": 2678,
+     "SS-1-5: Fissure of Nirvana": 2154,
+     "SA-1-8: Self-Awareness": 2396,
+     "SA-1-9: Diversity of Life": 2874,
+     "SA-1-10: Dragon's Cry": 2198,
+     "SA-1-11: Loyalty And Treachery": 1767,
+     "SA-1-12: Animal Instinct": 1854,
+     "SA-1-13: Emergence": 935,
+     "SA-1-14: Dragonslayer": 1987,
+     "SS-1-6: Silent Labyrinth": 3520
+    }
+   },
+   {
+    "seconds": 42898,
+    "title": "Chiral Redundancy (Part 2/2, Soppo/M4 SOPMOD II) One-Shot Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=VY-_yoKvxKo",
+    "views": 1074,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 42899,
+    "title": "CHIRAL REDUNDANCY ( Part 2) | GIRLS FRONTLINE 2: EXILIUM |",
+    "uploader": "AzureNova",
+    "url": "https://www.youtube.com/watch?v=XRS53yehp1w",
+    "views": 938,
+    "rejected": [],
+    "upload_date": "20260925"
+   },
+   {
+    "seconds": 43168,
+    "title": "Chapter 21 \"Chiral Redundancy, Part 2\" - Girls Frontline 2",
+    "uploader": "daesz",
+    "url": "https://www.youtube.com/watch?v=CQdXtkLShcM",
+    "views": 124,
+    "rejected": [],
+    "upload_date": "20260920"
+   },
+   {
+    "seconds": 61239,
+    "title": "\u3010Girls' Frontline 2\u3011Event - Chiral Redundancy Part 2 : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=uu3Szs8EAQs",
+    "views": 697,
+    "rejected": [],
+    "upload_date": "20261025"
+   }
+  ],
+  "stats": {
+   "n": 10,
+   "median": 675,
+   "low": 454,
+   "high": 1021,
+   "q1": 590,
+   "q3": 716,
+   "trimmed_mean": 655,
+   "measured": 2,
+   "parts": {},
+   "drift": null
   }
  }
 ]

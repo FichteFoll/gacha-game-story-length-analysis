@@ -9393,7 +9393,9 @@
     "uploader": "ODD JOBS OFFICE",
     "url": "https://www.youtube.com/watch?v=1UdYQqxNMeM",
     "views": 32,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260805"
    },
    {
@@ -9442,15 +9444,6 @@
     "views": 32,
     "rejected": [],
     "upload_date": "20250913"
-   },
-   {
-    "seconds": 10544,
-    "title": "Elegy of Dust and Lamplight (main quest) \"Genshin Impact\" Chill Streaming ODD JOBS OFFICE",
-    "uploader": "ODD JOBS OFFICE",
-    "url": "https://www.youtube.com/watch?v=1UdYQqxNMeM",
-    "views": 32,
-    "rejected": [],
-    "upload_date": "20260805"
    },
    {
     "seconds": 10997,
@@ -9544,16 +9537,16 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 199,
+   "n": 10,
+   "median": 201,
    "low": 156,
    "high": 280,
-   "q1": 176,
-   "q3": 216,
-   "trimmed_mean": 202,
+   "q1": 181,
+   "q3": 226,
+   "trimmed_mean": 205,
    "measured": 2,
    "parts": {},
-   "drift": -0.01
+   "drift": 0.0
   }
  },
  {
