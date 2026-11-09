@@ -75,6 +75,7 @@
     "views": "82",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -6196,6 +6197,7 @@
     "url": "https://www.youtube.com/watch?v=JubPHkqcHjQ",
     "views": "4367",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -11495,6 +11497,7 @@
     "views": "49388",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -12299,6 +12302,7 @@
     "url": "https://www.youtube.com/watch?v=9tYhhr9wpgc",
     "views": "86",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -14437,7 +14441,8 @@
     "url": "https://www.youtube.com/watch?v=eD0r9Qgx0m8",
     "views": "73",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -14739,7 +14744,8 @@
     "url": "https://www.youtube.com/watch?v=_k1JuMTGyug",
     "views": "120",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -15132,7 +15138,8 @@
     "url": "https://www.youtube.com/watch?v=deMtOXP-Lek",
     "views": "103",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -16146,7 +16153,8 @@
     "url": "https://www.youtube.com/watch?v=ncyi10vh1jI",
     "views": "225",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -16337,6 +16345,7 @@
     "url": "https://www.youtube.com/watch?v=KzcY41-HvGE",
     "views": "93",
     "rejected": [
+     "not-a-playthrough",
      "fragment",
      "act-mismatch"
     ]
@@ -16348,6 +16357,7 @@
     "url": "https://www.youtube.com/watch?v=EYKsz2N-zyI",
     "views": "83",
     "rejected": [
+     "not-a-playthrough",
      "fragment",
      "act-mismatch"
     ]
@@ -16371,6 +16381,7 @@
     "url": "https://www.youtube.com/watch?v=YwovB-HKu_0",
     "views": "160",
     "rejected": [
+     "not-a-playthrough",
      "fragment",
      "act-mismatch"
     ]
@@ -16497,7 +16508,7 @@
     "url": "https://www.youtube.com/watch?v=5Fuc-O4MusM",
     "views": 23,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20240514"
    },
@@ -16529,7 +16540,8 @@
     "url": "https://www.youtube.com/watch?v=0FvZposUL5M",
     "views": "158",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -16978,6 +16990,7 @@
     "url": "https://www.youtube.com/watch?v=1SZpZOHDTwI",
     "views": 416,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20230829"
@@ -17201,7 +17214,8 @@
     "url": "https://www.youtube.com/watch?v=j9TA_Ht8hmI",
     "views": "93",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -17211,7 +17225,8 @@
     "url": "https://www.youtube.com/watch?v=FjNQAQx-9Oo",
     "views": "114",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -18009,7 +18024,8 @@
     "url": "https://www.youtube.com/watch?v=MVgij2PoVxw",
     "views": "365",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -18019,7 +18035,8 @@
     "url": "https://www.youtube.com/watch?v=YPom5Y8Rxpg",
     "views": "149",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -18103,7 +18120,8 @@
     "url": "https://www.youtube.com/watch?v=QOGZ2F1TvxM",
     "views": "189",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -18361,6 +18379,7 @@
     "url": "https://www.youtube.com/watch?v=JubPHkqcHjQ",
     "views": "4367",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -18898,6 +18917,7 @@
     "url": "https://www.youtube.com/watch?v=TVeXKQ0hlIM",
     "views": "2903",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -18908,6 +18928,7 @@
     "url": "https://www.youtube.com/watch?v=RZFisRzu-_c",
     "views": "24",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -19243,7 +19264,8 @@
     "url": "https://www.youtube.com/watch?v=IIOrWS36dtE",
     "views": "219",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -19253,7 +19275,8 @@
     "url": "https://www.youtube.com/watch?v=FCTTSCqn0HM",
     "views": "140",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -21444,7 +21467,8 @@
     "url": "https://www.youtube.com/watch?v=UjvTw4YjBk4",
     "views": "132",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -21865,7 +21889,8 @@
     "url": "https://www.youtube.com/watch?v=drn5DM7hKWk",
     "views": "137",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -21875,7 +21900,8 @@
     "url": "https://www.youtube.com/watch?v=DYBYhX6Fin8",
     "views": "116",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -22424,6 +22450,7 @@
     "views": "49388",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -22601,7 +22628,8 @@
     "url": "https://www.youtube.com/watch?v=WIX84dsKihs",
     "views": "512",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -22612,6 +22640,7 @@
     "views": "256",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -22623,6 +22652,7 @@
     "views": "197",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -22645,7 +22675,8 @@
     "url": "https://www.youtube.com/watch?v=tBXjyt9LbsQ",
     "views": "176",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -22974,6 +23005,7 @@
     "views": "157",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -23279,7 +23311,8 @@
     "url": "https://www.youtube.com/watch?v=hRjOTdSJqVo",
     "views": "172",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -23409,7 +23442,8 @@
     "url": "https://www.youtube.com/watch?v=5rJTQ5JBHy8",
     "views": "287",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -24065,6 +24099,7 @@
     "url": "https://www.youtube.com/watch?v=KdrYwt4E6mg",
     "views": "35",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -24402,6 +24437,7 @@
     "url": "https://www.youtube.com/watch?v=TVeXKQ0hlIM",
     "views": "2903",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -24523,7 +24559,8 @@
     "url": "https://www.youtube.com/watch?v=3vF-7OO_RTg",
     "views": "174",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -24556,7 +24593,8 @@
     "url": "https://www.youtube.com/watch?v=y1LMSQTEdxg",
     "views": "275",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -24662,6 +24700,7 @@
     "url": "https://www.youtube.com/watch?v=vVMiBXjCR-Y",
     "views": "25",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -24685,6 +24724,7 @@
     "views": "227",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -24696,6 +24736,7 @@
     "views": "221",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -24707,6 +24748,7 @@
     "views": "203",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "part-of-an-act"
     ]
    },
@@ -26146,7 +26188,8 @@
     "url": "https://www.youtube.com/watch?v=fjbaSXu0Em8",
     "views": "99",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -26167,7 +26210,8 @@
     "url": "https://www.youtube.com/watch?v=c_uFZ0CSXG8",
     "views": "112",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -26177,7 +26221,8 @@
     "url": "https://www.youtube.com/watch?v=-_qHetMwjtk",
     "views": "92",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -27287,6 +27332,7 @@
     "url": "https://www.youtube.com/watch?v=39YxD_IYDJQ",
     "views": 3059,
     "rejected": [
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20230519"
@@ -27331,7 +27377,8 @@
     "url": "https://www.youtube.com/watch?v=wYIRT6qrgbg",
     "views": "216",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -27341,7 +27388,8 @@
     "url": "https://www.youtube.com/watch?v=mWh9FsbDty0",
     "views": "115",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -28213,7 +28261,9 @@
     "uploader": "Noctis Kyrios",
     "url": "https://www.youtube.com/watch?v=SUL1hADwbcQ",
     "views": "16",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 31251,
@@ -28357,7 +28407,8 @@
     "url": "https://www.youtube.com/watch?v=9Zk-dKAkuMM",
     "views": "45",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    },
    {
@@ -28850,6 +28901,7 @@
     "url": "https://www.youtube.com/watch?v=jaRRi-Eiw3s",
     "views": "57",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -28866,14 +28918,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 9025,
-    "title": "Finishing Liv Story! (Chapter 37) | Punishing Gray Raven",
-    "uploader": "Noctis Kyrios",
-    "url": "https://www.youtube.com/watch?v=SUL1hADwbcQ",
-    "views": "16",
-    "rejected": []
-   },
    {
     "seconds": 12299,
     "title": "Punishing: Gray Raven | Chapter 37: Where Nightmares Dwell (Part 1)",
@@ -28892,16 +28936,16 @@
    }
   ],
   "stats": {
-   "n": 3,
-   "median": 205,
-   "low": 150,
+   "n": 2,
+   "median": 226,
+   "low": 205,
    "high": 247,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 201,
+   "trimmed_mean": 226,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.102
   }
  },
  {
@@ -30179,6 +30223,7 @@
     "views": "49391",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -30479,6 +30524,7 @@
     "views": "49388",
     "rejected": [
      "not-a-playthrough",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -32071,7 +32117,9 @@
     "uploader": "Ushio Ebi Ch.",
     "url": "https://www.youtube.com/watch?v=TVeXKQ0hlIM",
     "views": "2903",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 5029,
@@ -32349,14 +32397,6 @@
     "rejected": []
    },
    {
-    "seconds": 19662,
-    "title": "\u3010PUNISHING: GRAY RAVEN\u3011 Finishing the Homecoming Voyage story!",
-    "uploader": "Ushio Ebi Ch.",
-    "url": "https://www.youtube.com/watch?v=TVeXKQ0hlIM",
-    "views": "2903",
-    "rejected": []
-   },
-   {
     "seconds": 20049,
     "title": "My Disappointment in Kuro, is Immeasurable... | Punishing Gray Raven: Homecoming Voyage",
     "uploader": "Sujeito 17 Ch.",
@@ -32383,8 +32423,8 @@
    }
   ],
   "stats": {
-   "n": 5,
-   "median": 334,
+   "n": 4,
+   "median": 336,
    "low": 179,
    "high": 449,
    "q1": null,
@@ -32392,7 +32432,7 @@
    "trimmed_mean": 325,
    "measured": 0,
    "parts": {},
-   "drift": 0.553
+   "drift": 0.563
   }
  },
  {
@@ -34326,6 +34366,7 @@
     "url": "https://www.youtube.com/watch?v=etILL4OhSjo",
     "views": 425,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260925"
@@ -37174,6 +37215,7 @@
     "url": "https://www.youtube.com/watch?v=JubPHkqcHjQ",
     "views": "4367",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },

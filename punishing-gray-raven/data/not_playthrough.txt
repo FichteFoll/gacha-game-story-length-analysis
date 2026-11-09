@@ -53,3 +53,6 @@ story collection
 \btranslated\b
 \bnew events?\b
 \bwatch ?party\b
+(?:^|\s)![a-z]+\b
+\bbirthday\b
+\b(?:the dying sun|of solitude and stillness|lamento di phantasma|soaring beyond|blazing simulacrum|sands of wrath|left unsaid|cinder burns|floating reverie|ark beyond|reveries with a whale|recitativo di fantasia|untold naraka)\b
