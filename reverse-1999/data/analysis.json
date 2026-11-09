@@ -763,7 +763,7 @@
     ]
    },
    {
-    "seconds": 7482,
+    "seconds": 8223,
     "title": "\u3010Reverse: 1999\u3011- Walkthrough Part 1 -\u3010Chapter 1: In Our Time | 4K60\u3011",
     "uploader": "Slice of Life ",
     "url": "https://www.youtube.com/watch?v=ipD0nTSWLDY",
@@ -778,15 +778,15 @@
      "To the New World": 282,
      "Chicago Rescue": 302,
      "Sharpodonty and Black Wine": 372,
-     "The Rosa Killer": 537,
-     "Scorched Woods": 485,
-     "Druvis III": 495,
-     "Security Carnival": 453,
+     "The Rosa Killer": 595,
+     "Scorched Woods": 545,
+     "Druvis III": 573,
+     "Security Carnival": 771,
      "The Origin Butterfly": 276,
-     "Charge Baby, Charge!": 552,
-     "Appetizers": 745,
+     "Charge Baby, Charge!": 643,
+     "Appetizers": 810,
      "The Rattenfanger": 606,
-     "The Eye of the Storm": 438,
+     "The Eye of the Storm": 509,
      "Underground Labyrinth": 391,
      "Heaven Apostles": 817
     }
@@ -887,7 +887,16 @@
     "rejected": []
    },
    {
-    "seconds": 7482,
+    "seconds": 7716,
+    "title": "In Our Time | Reverse 1999 Main Storyline Chapter 1 | No Commentary",
+    "uploader": "NEON DEMON",
+    "url": "https://www.youtube.com/watch?v=Ce-O_xIlILU",
+    "views": 21,
+    "rejected": [],
+    "upload_date": "20250927"
+   },
+   {
+    "seconds": 8223,
     "title": "\u3010Reverse: 1999\u3011- Walkthrough Part 1 -\u3010Chapter 1: In Our Time | 4K60\u3011",
     "uploader": "Slice of Life ",
     "url": "https://www.youtube.com/watch?v=ipD0nTSWLDY",
@@ -902,27 +911,18 @@
      "To the New World": 282,
      "Chicago Rescue": 302,
      "Sharpodonty and Black Wine": 372,
-     "The Rosa Killer": 537,
-     "Scorched Woods": 485,
-     "Druvis III": 495,
-     "Security Carnival": 453,
+     "The Rosa Killer": 595,
+     "Scorched Woods": 545,
+     "Druvis III": 573,
+     "Security Carnival": 771,
      "The Origin Butterfly": 276,
-     "Charge Baby, Charge!": 552,
-     "Appetizers": 745,
+     "Charge Baby, Charge!": 643,
+     "Appetizers": 810,
      "The Rattenfanger": 606,
-     "The Eye of the Storm": 438,
+     "The Eye of the Storm": 509,
      "Underground Labyrinth": 391,
      "Heaven Apostles": 817
     }
-   },
-   {
-    "seconds": 7716,
-    "title": "In Our Time | Reverse 1999 Main Storyline Chapter 1 | No Commentary",
-    "uploader": "NEON DEMON",
-    "url": "https://www.youtube.com/watch?v=Ce-O_xIlILU",
-    "views": 21,
-    "rejected": [],
-    "upload_date": "20250927"
    },
    {
     "seconds": 8977,
@@ -953,15 +953,15 @@
   ],
   "stats": {
    "n": 10,
-   "median": 121,
+   "median": 123,
    "low": 92,
    "high": 203,
    "q1": 104,
    "q3": 154,
-   "trimmed_mean": 125,
+   "trimmed_mean": 126,
    "measured": 2,
    "parts": {},
-   "drift": -0.016
+   "drift": 0.0
   }
  },
  {
@@ -1832,7 +1832,7 @@
     ]
    },
    {
-    "seconds": 2144,
+    "seconds": 2813,
     "title": "Reverse 1999 Gameplay Walkthrough - Chapter 3: Nouvelles et Textes pour Rien Part 1 No Commentary",
     "uploader": "Donatong",
     "url": "https://www.youtube.com/watch?v=VidQr8qZNkk",
@@ -1844,8 +1844,8 @@
     "runtime": 2903,
     "measured": "chapter-markers",
     "parts": {
-     "Chaldean Oracles": 432,
-     "Frog and Toffee": 337,
+     "Chaldean Oracles": 867,
+     "Frog and Toffee": 571,
      "Stalkee": 439,
      "New Blood": 397,
      "A Deep Sleep": 539
@@ -1983,7 +1983,7 @@
     "upload_date": "20251125"
    },
    {
-    "seconds": 5759,
+    "seconds": 6300,
     "title": "Reverse 1999 - Chapter 3: Nouvelles et Textes pour Rien Part 9~16 (END) Walkthrough Gameplay Story",
     "uploader": "Jonooit",
     "url": "https://www.youtube.com/watch?v=Pb0IzXi9Mig",
@@ -1998,10 +1998,10 @@
      "George the Oak": 650,
      "O Captain!": 989,
      "Freedom of the Dumb": 727,
-     "Burning Tears": 356,
+     "Burning Tears": 553,
      "A Yard": 1026,
      "Lost Lambs": 911,
-     "The Other Future": 825,
+     "The Other Future": 1169,
      "Storm and the New World": 275
     }
    }
@@ -2335,7 +2335,7 @@
     "upload_date": "20231031"
    },
    {
-    "seconds": 2641,
+    "seconds": 2873,
     "title": "Reverse 1999 Gameplay Walkthrough - Chapter 4: El Oro de los Tigres Part 1 No Commentary",
     "uploader": "Donatong",
     "url": "https://www.youtube.com/watch?v=pNWqI74sXiM",
@@ -2350,8 +2350,8 @@
      "An Old Umbrella": 427,
      "A Letter": 40,
      "The Outsider": 361,
-     "A Coat Rack": 706,
-     "Raise A Glass!": 649,
+     "A Coat Rack": 906,
+     "Raise A Glass!": 681,
      "In the Castle": 458
     }
    },
@@ -4205,7 +4205,7 @@
     }
    },
    {
-    "seconds": 971,
+    "seconds": 10118,
     "title": "\u3010Reverse 1999\u3011 Main Story Ch 6 (Part 1) | E lucevan le stelle",
     "uploader": "Cutie Bunni",
     "url": "https://www.youtube.com/watch?v=j9KTmaCV4KA",
@@ -4213,12 +4213,7 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20250601",
-    "runtime": 10118,
-    "measured": "chapter-markers",
-    "parts": {
-     "Secession Building": 971
-    }
+    "upload_date": "20250601"
    },
    {
     "seconds": 10730,
@@ -4253,7 +4248,7 @@
     ]
    },
    {
-    "seconds": 9625,
+    "seconds": 11568,
     "title": "(PART 3/3) Reverse: 1999 1.7 - Chapter 6: \"E lucevan le stelle\" Full Playthrough \ud83c\udfad",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=WpDFc249MZk",
@@ -4266,17 +4261,17 @@
     "measured": "chapter-markers",
     "parts": {
      "Art Above All": 506,
-     "Only Applause": 615,
-     "The Clashing Tides": 1004,
-     "War and Peace": 844,
+     "Only Applause": 730,
+     "The Clashing Tides": 1247,
+     "War and Peace": 1286,
      "Fork and Torte": 148,
-     "Secession Building": 217,
+     "Secession Building": 420,
      "A Bad Seance": 297,
-     "Yes, Prime Minister": 236,
-     "The Mind's Endoscope": 300,
+     "Yes, Prime Minister": 762,
+     "The Mind's Endoscope": 518,
      "Art Exhibit": 217,
-     "Double Cross": 1415,
-     "Finished Page": 702,
+     "Double Cross": 1468,
+     "Finished Page": 740,
      "Hansel and Gretel": 654
     }
    },
@@ -4291,7 +4286,7 @@
     ]
    },
    {
-    "seconds": 7623,
+    "seconds": 8355,
     "title": "(Part 2/3) Reverse: 1999 1.7 - Chapter 6: \"E lucevan le stelle\" Full Playthrough \ud83c\udfad",
     "uploader": "Alex 393",
     "url": "https://www.youtube.com/watch?v=Ns7hF72T3eY",
@@ -4303,13 +4298,13 @@
     "runtime": 8597,
     "measured": "chapter-markers",
     "parts": {
-     "Between the Doors": 697,
+     "Between the Doors": 937,
      "The Mind's Endoscope": 1181,
      "One-Act Play": 1193,
      "Art Exhibit": 893,
-     "The Island": 628,
+     "The Island": 861,
      "Fitcher's Bird": 994,
-     "With Hope Rekindled": 1191,
+     "With Hope Rekindled": 1450,
      "Quest in the Woods": 846
     }
    },
@@ -4380,7 +4375,7 @@
     "upload_date": "20240924"
    },
    {
-    "seconds": 16366,
+    "seconds": 18291,
     "title": "Reverse: 1999. Story move to 10-24 [Chapter 6 - E Lucevan le stelle]",
     "uploader": "Homo Ludens",
     "url": "https://www.youtube.com/watch?v=k1IExo_75YQ",
@@ -4397,7 +4392,7 @@
      "Art Exhibit": 1202,
      "The Island": 956,
      "Fitcher's Bird": 1119,
-     "With Hope Rekindled": 1522,
+     "With Hope Rekindled": 3447,
      "Art Above All": 538,
      "Only Applause": 757,
      "The Clashing Tides": 1017,
@@ -5358,7 +5353,7 @@
     "upload_date": "20260508"
    },
    {
-    "seconds": 1300,
+    "seconds": 1338,
     "title": "5\u25b8\ud83d\udd0a(JP & EN) \u2b55Reverse:1999 \u2605Main Story (Vereinsamt) Chapter-7\u2605 \"Four Cross-Checks\"",
     "uploader": "Qito",
     "url": "https://www.youtube.com/watch?v=EQIa687d2XI",
@@ -5370,7 +5365,7 @@
     "runtime": 1338,
     "measured": "chapter-markers",
     "parts": {
-     "Four Cross-Checks": 1286
+     "Four Cross-Checks": 1324
     }
    },
    {
@@ -10138,7 +10133,7 @@
     "upload_date": "20200509"
    },
    {
-    "seconds": 5483,
+    "seconds": 6226,
     "title": "Reverse 1999 - The Campaign's Tale (Story Part 1) | [No Commentary]",
     "uploader": "Uzi MoeCoretta",
     "url": "https://www.youtube.com/watch?v=NuS6qjiYY_I",
@@ -10150,11 +10145,11 @@
     "runtime": 6412,
     "measured": "chapter-markers",
     "parts": {
-     "Quiet is the River Bank": 878,
-     "The Eternal Autumn": 1043,
-     "Intersection": 1276,
+     "Quiet is the River Bank": 1107,
+     "The Eternal Autumn": 1089,
+     "Intersection": 1694,
      "Beneath the Silence": 1103,
-     "Strange Gazes": 1183
+     "Strange Gazes": 1233
     }
    },
    {

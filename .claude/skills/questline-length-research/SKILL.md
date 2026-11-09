@@ -225,6 +225,10 @@ locates one act inside a longer upload. That means:
 
 Ignore a marker set covering less than 60 percent of a single-act upload:
 those markers were something else, and trusting them under-measures the act.
+An upload whose title calls it part of an act is held to the same floor,
+because a few matched stage markers would otherwise replace a complete runtime
+with a fraction of it, and the runtime is what readmits it.
+Only a compilation, or an upload whose title names another act, is exempt.
 Where the named markers do pass, the unnamed ones between them
 ("Boss Battle", "Story Trails", "Talk to Venti") count towards the part before,
 and after the act's final quest part so does what reads as its close

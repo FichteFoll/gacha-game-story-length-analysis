@@ -4,7 +4,7 @@ Duration estimates for every chapter of the *Reverse: 1999* main story,
 from the prologue aboard the APPLe to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->71 h 13 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->157<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->71 h 15 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->157<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
@@ -13,7 +13,7 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 <!--gen:chapters-->
 | Arc | Chapters | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 32 h 33 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
+| Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 32 h 35 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
 | Arc 2: The Journey Back | 8 - 10 | 2.2 - 2.8 | 3 | 17 h 33 min | [02-the-journey-back.md](02-the-journey-back.md) |
 | Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 21 h 07 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
 <!--/gen-->

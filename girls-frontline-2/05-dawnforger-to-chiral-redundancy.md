@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 5: Dawnforger to Chiral Redundancy
 
-**Chapters:** 18 - 21 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 36 h 38 min**
+**Chapters:** 18 - 21 | **Game versions:** not recorded | **Entries:** 5 | **Estimated volume length: 36 h 46 min**
 <!--/gen-->
 
 The Doll community needs a market, which takes the Elmo underground to Mokosh,
@@ -17,14 +17,14 @@ and its two chapters run longer than anything before them.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 18 | Dawnforger - Part 1 | 5 h 19 min | 3 h 13 min - 8 h 20 min | 7 | low |
+| Chapter 18 | Dawnforger - Part 1 | 5 h 27 min | 3 h 34 min - 6 h 32 min | 8 | low |
 | Chapter 19 | Dawnforger - Part 2 | 6 h 27 min | 4 h 58 min - 7 h 18 min | 9 | low |
 | Chapter 19.5 | Needy Catgirl Overload | 4 h 34 min | 3 h 42 min - 6 h 37 min | 11 | low |
 | Chapter 20 | Chiral Redundancy - Part 1 | 9 h 03 min | 5 h 51 min - 11 h 52 min | 7 | low |
 | Chapter 21 | Chiral Redundancy - Part 2 | 11 h 15 min | 9 h 50 min - 11 h 56 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->36 h 38 min<!--/f-->**
+**Total: <!--f:total-->36 h 46 min<!--/f-->**
 
 ## Pacing
 
@@ -63,12 +63,12 @@ a peacekeeper force called the Oathsworns,
 and lower levels that are nothing like what the upper levels advertise.
 <!--gen:stats act="Chapter 18"-->
 
-- **Estimated length:** 5 h 19 min
-- **Sampled range:** 3 h 13 min to 8 h 20 min across 7 playthrough uploads (47 further candidates screened out)
+- **Estimated length:** 5 h 27 min
+- **Sampled range:** 3 h 34 min to 6 h 32 min for the middle half (full spread 3 h 13 min to 8 h 20 min) across 8 playthrough uploads (46 further candidates screened out)
 - **Confidence:** low
 - **Released in:** unknown
-- **Stability:** median -5% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 7 uploads
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 8 uploads
 - **Quest parts (21):** LA-1-1: Cooperative Paradox (15 min); LS-1-1: Corroded Invitation (4 min); LA-1-2: First Fuse (30 min); LS-1-2: Lightless Night (42 min); LS-1-3: Double-Blind Tango (31 min); LA-1-3: Red Onion (23 min); LA-1-4: Drug-Fueled Dive (8 min); LA-1-5: Phase Transition Point (12 min); LA-1-6: Underground Titration (11 min); LS-1-4: Resonance Protocol (8 min); LA-1-7: Durance Synchrony (8 min); LA-1-8: Reunion Covenant (9 min); LA-1-9: Contractualism (19 min); LS-1-5: Forking Path (11 min); LA-1-10: Path of Abandonment (28 min); LS-1-6: Afterglow and Rebirth (23 min); LS-1-7: Thermal Dumping (13 min); LA-1-11: Burning the Land (12 min); LA-1-12: Settlement (10 min); LA-1-13: Reforging Dawn (27 min); LS-1-8: Man In The Hole (11 min)
 <!--/gen-->
 
@@ -84,6 +84,7 @@ and lower levels that are nothing like what the upper levels advertise.
 | 5 h 19 min | Girls Frontline 2 \| Dawnforger (Part 1) | JasonDoesWhatever | 567 | 2026-06-28 | <https://www.youtube.com/watch?v=N4vtd1GTiEM> |
 | 5 h 36 min | Dawnforger Part 1 \| GFL2 Exilium | OMGAZZ | 128 | 2026-06-28 | <https://www.youtube.com/watch?v=KsPP-AlZRpk> |
 | 5 h 55 min | Chapter 18 "Dawnforger, Part 1" - Girls Frontline 2 | daesz | 86 | 2026-06-28 | <https://www.youtube.com/watch?v=Y3r3U6347EY> |
+| 6 h 44 min | Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough \| Girls' Frontline 2: Exilium | toufusoup | 841 | 2026-06-27 | <https://www.youtube.com/watch?v=TREf2AzPypo> |
 | 8 h 20 min | 【Girls' Frontline 2】Event - Dawnforger Part 1 : Story Collection | Shoul | 131 | 2026-08-17 | <https://www.youtube.com/watch?v=WxGPHZpHayg> |
 
 </details>

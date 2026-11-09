@@ -20,7 +20,7 @@ are all pulling at the same thread.
 | Chapter 1 | Cat's Lost & Found | 2 h 14 min | 1 h 50 min - 2 h 38 min | 13 | low |
 | Chapter 1 Intermission | The Zero Zone | 1 h 28 min | 1 h 04 min - 1 h 42 min | 8 | low |
 | Chapter 2 | A Call From the Hollow's Heart | 1 h 59 min | 1 h 25 min - 2 h 56 min | 5 | low |
-| Chapter 2 Interlude | Mission Unthinkable | 1 h 58 min | 1 h 15 min - 2 h 34 min | 16 | low |
+| Chapter 2 Interlude | Mission Unthinkable | 1 h 58 min | 1 h 15 min - 2 h 40 min | 16 | low |
 | Chapter 3 | The Midnight Pursuit | 1 h 40 min | 1 h 28 min - 2 h 28 min | 12 | low |
 | Chapter 4 | Tour de Inferno | 2 h 59 min | 2 h 38 min - 3 h 22 min | 13 | medium |
 | Chapter 5 | A Storm of Falling Stars | 2 h 25 min | 2 h 09 min - 2 h 43 min | 12 | medium |
@@ -206,12 +206,12 @@ as the gate to the Senior Proxy rank.
 <!--gen:stats act="Chapter 2 Interlude"-->
 
 - **Estimated length:** 1 h 58 min
-- **Sampled range:** 1 h 15 min to 2 h 34 min for the middle half (full spread 1 h 06 min to 3 h 40 min) across 16 playthrough uploads (13 further candidates screened out)
+- **Sampled range:** 1 h 15 min to 2 h 40 min for the middle half (full spread 1 h 06 min to 3 h 40 min) across 16 playthrough uploads (13 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 1.0
 - **Stability:** median -7% against an earlier, independent query set
 - **Measured from the uploader's chapter markers:** 4 of 16 uploads
-- **Quest parts (10):** Crisis on the Street Corner; Unexpected Reunion; Unproductive Visit; Sixth Street Theft Case; Invisible Assistant (21 min); Emerging Crisis; Emergency Operation; Shared Beliefs; Moment to Counterattack; We'll Meet Again
+- **Quest parts (10):** Crisis on the Street Corner; Unexpected Reunion; Unproductive Visit; Sixth Street Theft Case; Invisible Assistant (31 min); Emerging Crisis; Emergency Operation; Shared Beliefs; Moment to Counterattack; We'll Meet Again
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 2 Interlude"-->
@@ -231,9 +231,9 @@ as the gate to the Senior Proxy rank.
 | 2 h 04 min | Chapter 2 Interlude (Full Story Quest) Mission Unthinkable \| Zenless Zone Zero | Streetwise Rhapsody | ~51,164 | n/a | <https://www.youtube.com/watch?v=dRpacRjMfMQ> |
 | 2 h 07 min | Zenless Zone Zero \| Main Story Chapter 2 Interlude -Mission Unthinkable- | JihoEcho | 372 | 2024-09-07 | <https://www.youtube.com/watch?v=S5p_hDR-_oU> |
 | 2 h 08 min | FULL Chapter 002 Interlude: Mission Unthinkable \| Zenless Zone Zero | T.H Bunn | 171 | 2024-07-15 | <https://www.youtube.com/watch?v=RKMHV12dmoc> |
-| 2 h 22 min | Zenless Zone Zero - Part 011: Mission Unthinkable | Ideasthete | 122 | 2025-02-18 | <https://www.youtube.com/watch?v=PL4d7JcTkUQ> |
 | 2 h 38 min | Chapter 2: Mission Unthinkable (4K)  -  Full Story  -  Zenless Zone Zero | RÆIN | ~21 | n/a | <https://www.youtube.com/watch?v=wE2KZ0STMO4> |
 | 2 h 41 min | [C002] Phaetheon's Story: Interlude: Mission Unthinkable \| 1.0 Zenless Zone Zero | Rubieco | 294 | 2024-07-09 | <https://www.youtube.com/watch?v=ARh_ZJUsl_k> |
+| 2 h 46 min | Zenless Zone Zero - Part 011: Mission Unthinkable | Ideasthete | 122 | 2025-02-18 | <https://www.youtube.com/watch?v=PL4d7JcTkUQ> |
 | 2 h 51 min | Zenless Zone Zero - Chapter 2 Interlude: Mission Unthinkable \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | 1,764 | 2024-07-19 | <https://www.youtube.com/watch?v=YYI0bjQWkFE> |
 | 3 h 40 min | [Main Quest Chapter 2 Interlude] Mission Unthinkable (Zenless Zone Zero) | ThisisHori | ~552 | n/a | <https://www.youtube.com/watch?v=Zl5KOqLaCBU> |
 

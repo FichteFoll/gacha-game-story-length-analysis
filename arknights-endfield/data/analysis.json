@@ -231,18 +231,15 @@
     "upload_date": "20260122"
    },
    {
-    "seconds": 1750,
+    "seconds": 5665,
     "title": "Arknights: Endfield - Full Gameplay Episode 1 (No Commentary) - Prologue & Chapter 1 | PS5 1080p",
     "uploader": "ZaxFih_Channel",
     "url": "https://www.youtube.com/watch?v=FWKYlGKBA8c",
     "views": 21,
-    "rejected": [],
-    "upload_date": "20260124",
-    "runtime": 5665,
-    "measured": "chapter-markers",
-    "parts": {
-     "Process: Cold Start": 1077
-    }
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260124"
    },
    {
     "seconds": 1246,
@@ -588,20 +585,6 @@
     }
    },
    {
-    "seconds": 1750,
-    "title": "Arknights: Endfield - Full Gameplay Episode 1 (No Commentary) - Prologue & Chapter 1 | PS5 1080p",
-    "uploader": "ZaxFih_Channel",
-    "url": "https://www.youtube.com/watch?v=FWKYlGKBA8c",
-    "views": 21,
-    "rejected": [],
-    "upload_date": "20260124",
-    "runtime": 5665,
-    "measured": "chapter-markers",
-    "parts": {
-     "Process: Cold Start": 1077
-    }
-   },
-   {
     "seconds": 1779,
     "title": "Force Start \u2014 Prologue \u2014 Arknights Endfield",
     "uploader": "RPG Plays TV",
@@ -633,14 +616,14 @@
    }
   ],
   "stats": {
-   "n": 14,
+   "n": 13,
    "median": 28,
    "low": 17,
    "high": 34,
-   "q1": 25,
+   "q1": 24,
    "q3": 29,
    "trimmed_mean": 27,
-   "measured": 3,
+   "measured": 2,
    "parts": {},
    "drift": -0.034
   }
@@ -5578,7 +5561,7 @@
     "upload_date": "20260126"
    },
    {
-    "seconds": 973,
+    "seconds": 2260,
     "title": "Arknights Endfield Tales of Old Part 1 ( Main Story )",
     "uploader": "KCG95",
     "url": "https://www.youtube.com/watch?v=-HtIVQoeqaQ",
@@ -5586,12 +5569,7 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20260419",
-    "runtime": 2260,
-    "measured": "chapter-markers",
-    "parts": {
-     "Like Fire and Ice": 973
-    }
+    "upload_date": "20260419"
    },
    {
     "seconds": 17243,

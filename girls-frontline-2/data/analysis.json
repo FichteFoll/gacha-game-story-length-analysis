@@ -8765,20 +8765,13 @@
     ]
    },
    {
-    "seconds": 1206,
+    "seconds": 24244,
     "title": "Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough | Girls' Frontline 2: Exilium",
     "uploader": "toufusoup",
     "url": "https://www.youtube.com/watch?v=TREf2AzPypo",
     "views": 841,
-    "rejected": [
-     "part-of-an-act"
-    ],
-    "upload_date": "20260627",
-    "runtime": 24244,
-    "measured": "chapter-markers",
-    "parts": {
-     "LA-1-3: Red Onion": 1206
-    }
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 480,
@@ -9247,6 +9240,15 @@
     "upload_date": "20260628"
    },
    {
+    "seconds": 24244,
+    "title": "Dawnforger (Part 1/2, Loreley/DSR-50) Major Story Event Playthrough | Girls' Frontline 2: Exilium",
+    "uploader": "toufusoup",
+    "url": "https://www.youtube.com/watch?v=TREf2AzPypo",
+    "views": 841,
+    "rejected": [],
+    "upload_date": "20260627"
+   },
+   {
     "seconds": 29983,
     "title": "\u3010Girls' Frontline 2\u3011Event - Dawnforger Part 1 : Story Collection",
     "uploader": "Shoul",
@@ -9282,13 +9284,13 @@
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 319,
+   "n": 8,
+   "median": 327,
    "low": 193,
    "high": 500,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 306,
+   "q1": 214,
+   "q3": 392,
+   "trimmed_mean": 318,
    "measured": 3,
    "parts": {
     "LA-1-1: Cooperative Paradox": 15,
@@ -9313,7 +9315,7 @@
     "LA-1-13: Reforging Dawn": 27,
     "LS-1-8: Man In The Hole": 11
    },
-   "drift": -0.051
+   "drift": -0.027
   }
  },
  {

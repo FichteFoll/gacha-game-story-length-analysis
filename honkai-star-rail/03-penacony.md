@@ -86,7 +86,7 @@ the mystery of the Watchmaker.
 <!--gen:stats act="Mission 2"-->
 
 - **Estimated length:** 5 h 39 min
-- **Sampled range:** 5 h 02 min to 6 h 06 min for the middle half (full spread 4 h 17 min to 6 h 13 min) across 10 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 5 h 02 min to 6 h 06 min for the middle half (full spread 4 h 17 min to 9 h 39 min) across 10 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.1
@@ -110,7 +110,7 @@ the mystery of the Watchmaker.
 | 6 h 00 min | Cats Among Pigeons \| Honkai Star Rail 2.1 (Full Playthrough) | HaloMillennium | ~664 | n/a | <https://www.youtube.com/watch?v=XVslTfSfYjM> |
 | 6 h 05 min | (JP Dub - EN Sub) Cat Among Pigeons \| Honkai: Star Rail | AndhraZX | ~66 | n/a | <https://www.youtube.com/watch?v=oj-SOy8k3k8> |
 | 6 h 10 min | Honkai Star Rail - Chapter 3 Part 2: Cat Among Pigeons \| Penacony \| Full Story JP Dub EN Sub 4K | Gudaoko | 9,044 | 2024-03-29 | <https://www.youtube.com/watch?v=a9Xzht0Znuk> |
-| 6 h 13 min | Aventurine's VA Plays 2.1 Trailblaze Mission - The Devil in Velvet \| Honkai Star Rail | CamdenVA | 119,432 | 2024-03-29 | <https://www.youtube.com/watch?v=KNzo-8MoE0I> |
+| 9 h 39 min | Aventurine's VA Plays 2.1 Trailblaze Mission - The Devil in Velvet \| Honkai Star Rail | CamdenVA | 119,432 | 2024-03-29 | <https://www.youtube.com/watch?v=KNzo-8MoE0I> |
 
 </details>
 <!--/gen-->

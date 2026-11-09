@@ -4,7 +4,7 @@ Duration estimates for every numbered main story chapter of *Girls' Frontline 2:
 from the opening simulation to the latest campaign the wiki gives a number,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole numbered main story: <!--f:grand_total-->123 h 31 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> chapters counting the six filed between two whole numbers, measured against <!--f:n_videos-->255<!--/f--> accepted uploads out of <!--f:n_candidates-->765<!--/f--> candidates).
+**Total for the whole numbered main story: <!--f:grand_total-->123 h 39 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> chapters counting the six filed between two whole numbers, measured against <!--f:n_videos-->256<!--/f--> accepted uploads out of <!--f:n_candidates-->765<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume 2: Sojourners of the Glass Island to Bitter Thorns and Daisies | 6.5 - 8.7 | not recorded | 6 | 19 h 42 min | [02-sojourners-to-bitter-thorns.md](02-sojourners-to-bitter-thorns.md) |
 | Volume 3: Aphelion to Intertwined Assault | 9 - 12.5 | not recorded | 5 | 21 h 59 min | [03-aphelion-to-intertwined-assault.md](03-aphelion-to-intertwined-assault.md) |
 | Volume 4: Corposant to Antiparallel | 13 - 17 | not recorded | 5 | 28 h 38 min | [04-corposant-to-antiparallel.md](04-corposant-to-antiparallel.md) |
-| Volume 5: Dawnforger to Chiral Redundancy | 18 - 21 | not recorded | 5 | 36 h 38 min | [05-dawnforger-to-chiral-redundancy.md](05-dawnforger-to-chiral-redundancy.md) |
+| Volume 5: Dawnforger to Chiral Redundancy | 18 - 21 | not recorded | 5 | 36 h 46 min | [05-dawnforger-to-chiral-redundancy.md](05-dawnforger-to-chiral-redundancy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->

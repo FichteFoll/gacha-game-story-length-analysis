@@ -14,7 +14,7 @@ from the dark Hub Base to the Æther Test Site under the rift.
 <!--gen:glance-->
 | Process | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Prologue | Prologue | 28 min | 25 min - 29 min | 14 | high |
+| Prologue | Prologue | 28 min | 24 min - 29 min | 13 | high |
 | Process I | The Broken Lands | 2 h 38 min | 1 h 59 min - 3 h 05 min | 14 | low |
 | Process II | The Turbid Heavens | 59 min | 32 min - 1 h 18 min | 11 | low |
 | Process III | Path of Ascension | 2 h 37 min | 2 h 14 min - 2 h 51 min | 14 | medium |
@@ -56,11 +56,11 @@ with everything about themselves to relearn.
 The shortest entry in the questline.
 
 - **Estimated length:** 28 min
-- **Sampled range:** 25 min to 29 min for the middle half (full spread 17 min to 34 min) across 14 playthrough uploads (32 further candidates screened out)
+- **Sampled range:** 24 min to 29 min for the middle half (full spread 17 min to 34 min) across 13 playthrough uploads (33 further candidates screened out)
 - **Confidence:** high
 - **Released in:** Zeroth Directive (1.0)
 - **Stability:** median -3% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 14 uploads
+- **Measured from the uploader's chapter markers:** 2 of 13 uploads
 - **Quest parts (2):** Process: Cold Start; Process: Awakening
 <!--/gen-->
 
@@ -80,7 +80,6 @@ The shortest entry in the questline.
 | 28 min | Arknights Endfield -- Prologue: Force Start | Drexyz | 4 | 2026-01-22 | <https://www.youtube.com/watch?v=yleAYcxmhWA> |
 | 29 min | Arknights Endfield – Main Mission \| Prologue (Full Walkthrough) | ArkSpire | ~37 | n/a | <https://www.youtube.com/watch?v=8VK_amTdglU> |
 | 29 min | Arknights: Endfield Main Story - Part One (No Commentary) | ZenzenHeiki | 20 | 2026-02-18 | <https://www.youtube.com/watch?v=CrkCD8lQVXg> |
-| 29 min | Arknights: Endfield - Full Gameplay Episode 1 (No Commentary) - Prologue & Chapter 1 \| PS5 1080p | ZaxFih_Channel | 21 | 2026-01-24 | <https://www.youtube.com/watch?v=FWKYlGKBA8c> |
 | 30 min | Force Start — Prologue — Arknights Endfield | RPG Plays TV | 3 | 2026-02-11 | <https://www.youtube.com/watch?v=ichyDSUXeSA> |
 | 33 min | [Arknights: Endfield] Story Playthrough (No Commentary) – Part 1 | HaWuTsKi Archive | 84 | 2026-01-26 | <https://www.youtube.com/watch?v=FQzvQIdxtD4> |
 | 34 min | Prologue \| Arknights: Endfield \| Cinematic Playthrough Episode 1 | Wizwag Plays | 18 | 2026-01-22 | <https://www.youtube.com/watch?v=_bK61DteAJc> |

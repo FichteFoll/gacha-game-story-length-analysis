@@ -489,7 +489,7 @@
     "upload_date": "20230510"
    },
    {
-    "seconds": 5184,
+    "seconds": 6075,
     "title": "In the Withering Wintry Night 2/3 - Trailblaze Mission #2 | Honkai: Star Rail",
     "uploader": "Kallysta",
     "url": "https://www.youtube.com/watch?v=JqSOrV2JTRM",
@@ -501,7 +501,7 @@
     "runtime": 6075,
     "measured": "chapter-markers",
     "parts": {
-     "Ones Fallen Into the Abyss": 2850,
+     "Ones Fallen Into the Abyss": 3741,
      "The Past Will Return as an Avalanche": 1929,
      "Lying in Rust": 405
     }
@@ -2256,7 +2256,7 @@
     "upload_date": "20240209"
    },
    {
-    "seconds": 4916,
+    "seconds": 5790,
     "title": "HONKAI STAR RAIL | The Sound and the Fury | Trailblaze Penacony Arc - Gameplay Walkthrough PART 3",
     "uploader": "GamePlayTru",
     "url": "https://www.youtube.com/watch?v=K2geHoP2Kwo",
@@ -2268,7 +2268,7 @@
     "runtime": 6196,
     "measured": "chapter-markers",
     "parts": {
-     "Through a Glass Darkly": 2560,
+     "Through a Glass Darkly": 3434,
      "Should One Awaken at Midnight": 2356
     }
    },
@@ -2285,7 +2285,7 @@
     "parts": {}
    },
    {
-    "seconds": 942,
+    "seconds": 3550,
     "title": "HONKAI STAR RAIL | The Sound and the Fury | Trailblaze Penacony Arc - Gameplay Walkthrough PART 4",
     "uploader": "GamePlayTru",
     "url": "https://www.youtube.com/watch?v=27q2f66Hjno",
@@ -2293,12 +2293,7 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20240703",
-    "runtime": 3550,
-    "measured": "chapter-markers",
-    "parts": {
-     "Whodunit": 942
-    }
+    "upload_date": "20240703"
    },
    {
     "seconds": 9027,
@@ -2740,7 +2735,7 @@
     ]
    },
    {
-    "seconds": 22369,
+    "seconds": 34732,
     "title": "Aventurine's VA Plays 2.1 Trailblaze Mission - The Devil in Velvet | Honkai Star Rail",
     "uploader": "CamdenVA",
     "url": "https://www.youtube.com/watch?v=KNzo-8MoE0I",
@@ -2750,15 +2745,15 @@
     "runtime": 36262,
     "measured": "chapter-markers",
     "parts": {
-     "The Devil in Velvet": 1290,
-     "Lost Generation": 1331,
+     "The Devil in Velvet": 2330,
+     "Lost Generation": 2167,
      "Double Indemnity": 6468,
-     "When the Sacred Ginmill Closes": 1098,
-     "Heaven is a Place on Earth": 1750,
+     "When the Sacred Ginmill Closes": 2233,
+     "Heaven is a Place on Earth": 2376,
      "Why Do the Heathen Rage?": 2265,
      "The Tell-Tale Heart": 1204,
-     "All the Sad Tales": 66,
-     "A Walk Among the Tombstones": 781
+     "All the Sad Tales": 6435,
+     "A Walk Among the Tombstones": 3138
     }
    },
    {
@@ -2940,7 +2935,7 @@
     "upload_date": "20240329"
    },
    {
-    "seconds": 22369,
+    "seconds": 34732,
     "title": "Aventurine's VA Plays 2.1 Trailblaze Mission - The Devil in Velvet | Honkai Star Rail",
     "uploader": "CamdenVA",
     "url": "https://www.youtube.com/watch?v=KNzo-8MoE0I",
@@ -2950,15 +2945,15 @@
     "runtime": 36262,
     "measured": "chapter-markers",
     "parts": {
-     "The Devil in Velvet": 1290,
-     "Lost Generation": 1331,
+     "The Devil in Velvet": 2330,
+     "Lost Generation": 2167,
      "Double Indemnity": 6468,
-     "When the Sacred Ginmill Closes": 1098,
-     "Heaven is a Place on Earth": 1750,
+     "When the Sacred Ginmill Closes": 2233,
+     "Heaven is a Place on Earth": 2376,
      "Why Do the Heathen Rage?": 2265,
      "The Tell-Tale Heart": 1204,
-     "All the Sad Tales": 66,
-     "A Walk Among the Tombstones": 781
+     "All the Sad Tales": 6435,
+     "A Walk Among the Tombstones": 3138
     }
    }
   ],
@@ -2966,7 +2961,7 @@
    "n": 10,
    "median": 339,
    "low": 257,
-   "high": 373,
+   "high": 579,
    "q1": 302,
    "q3": 366,
    "trimmed_mean": 336,
@@ -5262,7 +5257,7 @@
   "slug": "amphoreus_Mission_4",
   "candidates": [
    {
-    "seconds": 4881,
+    "seconds": 9492,
     "title": "HONKAI STAR RAIL | Ver 3.3 - The Fall at Dawn's Rise | Amphoreus Gameplay Walkthrough PART 17 | 4K",
     "uploader": "GamePlayTru",
     "url": "https://www.youtube.com/watch?v=GihYzA3nN1w",
@@ -5270,16 +5265,10 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20250602",
-    "runtime": 9492,
-    "measured": "chapter-markers",
-    "parts": {
-     "Grove, Judge the Past and Present": 2629,
-     "Poet, Speak of the Sky Through Me (I)": 2252
-    }
+    "upload_date": "20250602"
    },
    {
-    "seconds": 3037,
+    "seconds": 5354,
     "title": "HONKAI STAR RAIL | Ver 3.3 - The Fall at Dawn's Rise | Amphoreus Gameplay Walkthrough PART 16 | 4K",
     "uploader": "GamePlayTru",
     "url": "https://www.youtube.com/watch?v=-Fsn35LFetA",
@@ -5287,16 +5276,10 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20250529",
-    "runtime": 5354,
-    "measured": "chapter-markers",
-    "parts": {
-     "Chest, Bear the Bygone Dust": 2494,
-     "Golden Thread, Relay the Savior's Fate": 543
-    }
+    "upload_date": "20250529"
    },
    {
-    "seconds": 2337,
+    "seconds": 3963,
     "title": "HONKAI STAR RAIL | Ver 3.3 - The Fall at Dawn's Rise | Amphoreus Gameplay Walkthrough PART 18 | 4K",
     "uploader": "GamePlayTru",
     "url": "https://www.youtube.com/watch?v=81tl0EdCp6A",
@@ -5304,13 +5287,7 @@
     "rejected": [
      "part-of-an-act"
     ],
-    "upload_date": "20250606",
-    "runtime": 3963,
-    "measured": "chapter-markers",
-    "parts": {
-     "Poet, Speak of the Sky Through Me (I)": 1770,
-     "Slate, Why Neglect That Light's Shade": 567
-    }
+    "upload_date": "20250606"
    },
    {
     "seconds": 26426,
