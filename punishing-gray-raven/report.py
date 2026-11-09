@@ -6,7 +6,7 @@ the order they are published in. The prose lives in the markdown files next to
 this one, which the renderer fills in place rather than writes.
 
 Punishing: Gray Raven numbers its main story chapters straight through from 1 to
-43 and groups them under nothing: the game presents the campaign as one list,
+44 and groups them under nothing: the game presents the campaign as one list,
 and the wiki's `Main Story` page bands the chapters it covers in fives purely to
 fit them into a tabber. So the volumes below are this report's own device, ten
 chapters to a file in story order, and `region_label` holds the span of chapter
@@ -20,6 +20,11 @@ them, so that no published file changes its contents under a reader, and
 Volume 5 opens at Chapter 43 and takes the next ten from there. A fifth volume
 pushed the EX volume's file from `05-` to `06-`, keeping the filename prefixes
 in the order the volumes are published in.
+
+A volume is titled after its first and its last chapter. Volume 5 is still
+open, so its title follows its newest chapter: when Chapter 44 joined it,
+"Anchored in Faith" became "Anchored in Faith to A Comet's Afterglow" and its
+file was renamed to match.
 
 The six EX chapters are the exception the game itself makes: they are numbered
 EX-00 to EX-05 rather than in the main run, they are filed under the main story
@@ -40,7 +45,7 @@ REPORT = dict(
     unit="Chapter",
     container="Volume",
     region_label="Chapters",
-    date="2026-09-26",
+    date="2026-11-09",
 )
 
 CHAPTERS = [
@@ -68,10 +73,10 @@ CHAPTERS = [
         title="Volume 4: Shaper's Ripples to Steering By Light",
     ),
     dict(
-        id="v5", slug="05-anchored-in-faith",
+        id="v5", slug="05-anchored-in-faith-to-a-comets-afterglow",
         wiki_page="Main Story",
-        region="43", versions="Anchored in Faith",
-        title="Volume 5: Anchored in Faith",
+        region="43 - 44", versions="Anchored in Faith - A Comet's Afterglow",
+        title="Volume 5: Anchored in Faith to A Comet's Afterglow",
     ),
     dict(
         id="vex", slug="06-ex-frozen-darkness-to-inscription-of-labyrinth",

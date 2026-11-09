@@ -32385,6 +32385,138 @@
     "url": "https://www.youtube.com/watch?v=IapzxNdNRQo",
     "views": "15",
     "rejected": []
+   },
+   {
+    "seconds": 1489,
+    "title": "Chapter 41(1-7) : Homecoming Voyage [FIGHTS] || Punishing : Gray Raven [CN]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=_N5_0KhmWY0",
+    "views": "152",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1453,
+    "title": "Chapter 41(7) : Homecoming Voyage || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=iTDROjPm51Q",
+    "views": "177",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1426,
+    "title": "[Punishing Gray Raven] Homecoming Voyage Full",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=H_zFP0f-mRc",
+    "views": "494",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 326,
+    "title": "[Punishing Gray Raven] Homecoming Voyage Lucia(\u03b1) Inverse Crown Theme",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=h8scv76KaY0",
+    "views": "1912",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 355,
+    "title": "\u3010Punishing: Gray Raven\u3011- Vanguard vs Lucia: Inverse Crown [NO DAMAGE]",
+    "uploader": "CasuallyAverage",
+    "url": "https://www.youtube.com/watch?v=r0TXBVIORfA",
+    "views": "868",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 252,
+    "title": "All Cutscenes - Chapter 41 || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=0oSGECCK_ig",
+    "views": "75",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 851,
+    "title": "Chapter 41(8) : Homecoming Voyage || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=EuXMMcdrhX8",
+    "views": "152",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 616,
+    "title": "PURE CINEMA! | [Punishing: Gray Raven] \"Homecoming Voyage\" Animated Short",
+    "uploader": "Mamba Uchiha Tv",
+    "url": "https://www.youtube.com/watch?v=tMlAwFgggnY",
+    "views": "2681",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1890,
+    "title": "\u3010Punishing Gray Raven\u3011Babylonia - Homecoming and A New Journey",
+    "uploader": "SKChirley",
+    "url": "https://www.youtube.com/watch?v=qXKZxkTLbOI",
+    "views": "147",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 180,
+    "title": "Homecoming Voyage (Vocal) GMV\u3010PGR\u3011",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=XuZS62Q-URE",
+    "views": "4462",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 740,
+    "title": "\"Homecoming Voyage\" Animated Short Reaction! l Punishing: Gray Raven",
+    "uploader": "LegionzGaming",
+    "url": "https://www.youtube.com/watch?v=nt0DM0hfpcI",
+    "views": "7312",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 306,
+    "title": "[Punishing Gray Raven] Homecoming Voyage Story Theme 1",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=E3hDPyTcE78",
+    "views": "4544",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 209,
+    "title": "Punishing: Gray Raven | Homecoming Voyage - F.O.S. Anthem",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=2w8qIHoKEGU",
+    "views": "124963",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
@@ -33357,7 +33489,8 @@
     "url": "https://www.youtube.com/watch?v=Q5qvDUvf-_A",
     "views": "1700",
     "rejected": [
-     "act-mismatch"
+     "act-mismatch",
+     "part-of-an-act"
     ]
    },
    {
@@ -33670,6 +33803,101 @@
      "part-of-an-act",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 16746,
+    "title": "The Entire Story of Greek Mythology",
+    "uploader": "Lore Explainer",
+    "url": "https://www.youtube.com/watch?v=UfquVTobEZU",
+    "views": "2855",
+    "rejected": [
+     "act-mismatch",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 195,
+    "title": "[Punishing: Gray Raven] Steering By Light EP - To the Deepest Ocean",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=xrTgRuWXLCU",
+    "views": "8540",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 220,
+    "title": "Punishing: Gray Raven | Steering By Light PV",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=ecGHeFIhx4A",
+    "views": "72649",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1452,
+    "title": "[PGR] Karenina Full Story (part 1)",
+    "uploader": "WaifuVsBoss",
+    "url": "https://www.youtube.com/watch?v=IikKXJ6q1wA",
+    "views": 482,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260812"
+   },
+   {
+    "seconds": 255,
+    "title": "Wish You | Official English Lyrics [Punishing: Gray Raven ost] Lucia - Inverse Crown Theme Song PGR",
+    "uploader": "Yxelixi",
+    "url": "https://www.youtube.com/watch?v=bpn3SymgCTQ",
+    "views": "97802",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2554,
+    "title": "Punishing Gray Raven Android Gameplay Walkthrough Part 9 | Main story | Chapter 4",
+    "uploader": "Android Gaming with Ashraf",
+    "url": "https://www.youtube.com/watch?v=Fzo2Nbkh51w",
+    "views": "60",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2526,
+    "title": "Chapter 42 (15) : Steering By Light  || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=cQ-bscS3VO4",
+    "views": "100",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2635,
+    "title": "Chapter 42 (3) : Steering By Light || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=JcgYqexGj8g",
+    "views": "127",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 68,
+    "title": "Steering by light patch income [punishing gray raven]",
+    "uploader": "Dustfly",
+    "url": "https://www.youtube.com/watch?v=eTc_PSSFIYE",
+    "views": "2227",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
@@ -33714,7 +33942,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Anchored in Faith",
+  "chapter_title": "Volume 5: Anchored in Faith to A Comet's Afterglow",
   "act_label": "Chapter 43",
   "act_title": "Anchored in Faith",
   "wiki_page": "Anchored in Faith",
@@ -33726,7 +33954,9 @@
     "uploader": "BcsX",
     "url": "https://www.youtube.com/watch?v=CLOTSyjBquU",
     "views": 58,
-    "rejected": [],
+    "rejected": [
+     "short-outlier"
+    ],
     "upload_date": "20260924"
    },
    {
@@ -34435,27 +34665,886 @@
      "fragment"
     ],
     "upload_date": "20260925"
+   },
+   {
+    "seconds": 17681,
+    "title": "PGR Chapter 43 Full(Playing while feeling a bit under the weather)",
+    "uploader": "Rinne",
+    "url": "https://www.youtube.com/watch?v=oSOlPEnEEro",
+    "views": "150",
+    "rejected": []
+   },
+   {
+    "seconds": 1852,
+    "title": "[PGR] Chapter 43 Review and Analysis",
+    "uploader": "WaifuVsBoss",
+    "url": "https://www.youtube.com/watch?v=gJNBiWOO8Zw",
+    "views": "2939",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 5501,
+    "title": "Punishing: Gray Raven | Chapter 43: Anchored in Faith (Hidden Story)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=S1d40hM8xHk",
+    "views": "44",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 6103,
+    "title": "Punishing: Gray Raven Adelyde: Anabasis Affection story",
+    "uploader": "Ten",
+    "url": "https://www.youtube.com/watch?v=K3xyL6NOSBo",
+    "views": "296",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 570,
+    "title": "Adelyde Vs Rusalka - Ending - Punishing Gray Raven",
+    "uploader": "Moteyaba",
+    "url": "https://www.youtube.com/watch?v=R2bDIODDleM",
+    "views": "13781",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 70,
+    "title": "Character Showcase | Adelyde: Anabasis",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=3EvFIJaJYQA",
+    "views": "40284",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 374,
+    "title": "Adelyde Full Beta Gameplay Showcase - Punishing Gray Raven",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=efMPAK6u7rE",
+    "views": "42723",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 40,
+    "title": "PGR Adelyde Anabasis Combo",
+    "uploader": "Ultima Phantasma",
+    "url": "https://www.youtube.com/watch?v=HSNUBsV_pKk",
+    "views": "5568",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 314,
+    "title": "[Punishing: Gray Raven] Anchored in Faith EP - Paean to Bravery",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=z6H08Y8TEWQ",
+    "views": "22498",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 8519,
+    "title": "PGR: Anchored in Faith (Birthday Event)",
+    "uploader": "DreadArkive",
+    "url": "https://www.youtube.com/watch?v=KPp6ofUidVE",
+    "views": "52",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 494,
+    "title": "Punishing: Gray Raven - Anchored In Faith // Reaction & Analysis",
+    "uploader": "CatharsisYT",
+    "url": "https://www.youtube.com/watch?v=1wUMwkmE9Y8",
+    "views": "3047",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 13140,
+    "title": "Punishing Gray Raven: Lost Chapter | No, not Qu again. Part 1",
+    "uploader": "Sujeito 17 Ch.",
+    "url": "https://www.youtube.com/watch?v=HHmtLtDvl4g",
+    "views": 39,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20220415"
+   },
+   {
+    "seconds": 4675,
+    "title": "Punishing Gray Raven all Story Cutscenes",
+    "uploader": "Xen Hyun-ju ",
+    "url": "https://www.youtube.com/watch?v=UXjygefQlRo",
+    "views": "3103",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 452,
+    "title": "Punishing: Gray Raven | Story Animation \"A Perfect Day\"",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=oSGCOpxFyx4",
+    "views": "113938",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 19662,
+    "title": "\u3010PUNISHING: GRAY RAVEN\u3011 Finishing the Homecoming Voyage story!",
+    "uploader": "Ushio Ebi Ch.",
+    "url": "https://www.youtube.com/watch?v=TVeXKQ0hlIM",
+    "views": "3420",
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3168,
+    "title": "[NieR Reincarnation] - Beginning the Epic Story & Summons! Already completely hooked!",
+    "uploader": "Payneblade",
+    "url": "https://www.youtube.com/watch?v=xS6WdT6ZQro",
+    "views": "657",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17523,
+    "title": "[Punishing: Gray Raven] Reading Chapter 43 - Anchored in Faith (Node 9-18) | Stream #386",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=QP3x3UfNRiA",
+    "views": "455",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 10711,
+    "title": "[Punishing: Gray Raven] Reading Chapter 43 - Anchored in Faith (Node 19-29) | Stream #387",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=NIaSK3m91kY",
+    "views": "265",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1169,
+    "title": "Chapter 43 (25) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=HSUyd97XqDE",
+    "views": "113",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1482,
+    "title": "Chapter 43 (26-27) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=FdVuTM9na1A",
+    "views": "128",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2774,
+    "title": "Chapter 43 (21) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=EMTxu7RU4X8",
+    "views": "132",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3427,
+    "title": "Chapter 43 (20) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=8hU3oa_WPAc",
+    "views": "147",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1305,
+    "title": "Chapter 43 (28-29) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=m_fFrpCj6E4",
+    "views": "155",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1288,
+    "title": "Chapter 43 (19) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=VNMMOUC4WLw",
+    "views": "74",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3431,
+    "title": "Chapter 43 (10) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=CG_RYjcxeSY",
+    "views": "75",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2648,
+    "title": "Chapter 43 (9) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=51lNBKy0MpE",
+    "views": "84",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 914,
+    "title": "Chapter 43 (23) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=vuMIuAe5aiQ",
+    "views": "187",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1088,
+    "title": "Chapter 43 (24) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=sDPNtJv404s",
+    "views": "125",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 7231,
+    "title": "DOING THE HIDDEN CHAPTER FIRST AND THEN STARTING ON CHAPTER 43 [PGR]",
+    "uploader": "Plushman1",
+    "url": "https://www.youtube.com/watch?v=CyEVkdFC8cU",
+    "views": "206",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 4736,
+    "title": "EX03 - LOST CHAPTER PART 2 | PUNISHING GRAY RAVEN",
+    "uploader": "Kasha Minami",
+    "url": "https://www.youtube.com/watch?v=FEMKzvOhHok",
+    "views": "68",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1646,
+    "title": "Chapter 43 (22) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=g5z8Pd2prxQ",
+    "views": "123",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 15508,
+    "title": "Punishing: Gray Raven | Chapter 43: Anchored in Faith (Part 3)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=LypULG2kADw",
+    "views": "20",
+    "rejected": []
+   },
+   {
+    "seconds": 359,
+    "title": "All Adelyde Chapter (Cutscenes) - Punishing Gray Raven",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=NUJ3SKZLs-w",
+    "views": "3076",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1755,
+    "title": "[Punishing Gray Raven] Inner World Gameplay - Chapter 4: Karma Settlement \"Redit\"",
+    "uploader": "-Jed Madera",
+    "url": "https://www.youtube.com/watch?v=kHEbP9u3ZaE",
+    "views": "19",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1933,
+    "title": "Chapter 43 (18) : Anchored Faith || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=2BZ1A8s2_ls",
+    "views": "107",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 96,
+    "title": "Punishing: Gray Raven | \"Anchored in Faith\" Story Cutscene",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=p6Ln2fFzd_g",
+    "views": "10524",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 170,
+    "title": "Anchored in Faith",
+    "uploader": "Punishing Gray Raven - Topic",
+    "url": "https://www.youtube.com/watch?v=_n3u1MfCx-I",
+    "views": "13240",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 964,
+    "title": "Punishing: Gray Raven - Anchored in Faith EP: Paean to Bravery // Reaction & Analysis",
+    "uploader": "CatharsisYT",
+    "url": "https://www.youtube.com/watch?v=OWEf2ihYdjs",
+    "views": "3864",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12698,
+    "title": "PGR: Anchored in Faith",
+    "uploader": "DreadArkive",
+    "url": "https://www.youtube.com/watch?v=91moDPwJjls",
+    "views": "357",
+    "rejected": []
+   },
+   {
+    "seconds": 311,
+    "title": "Anchored in Faith Login OST - Punishing Gray Raven",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=YGS1FbpOv_M",
+    "views": "9361",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
    {
-    "seconds": 2199,
-    "title": "Punishing Gray Raven Gameplay (Chapter 43: Anchored in Faith and Adelyde: Anabasis Story)",
-    "uploader": "BcsX",
-    "url": "https://www.youtube.com/watch?v=CLOTSyjBquU",
-    "views": 58,
-    "rejected": [],
-    "upload_date": "20260924"
+    "seconds": 12698,
+    "title": "PGR: Anchored in Faith",
+    "uploader": "DreadArkive",
+    "url": "https://www.youtube.com/watch?v=91moDPwJjls",
+    "views": "357",
+    "rejected": []
+   },
+   {
+    "seconds": 15508,
+    "title": "Punishing: Gray Raven | Chapter 43: Anchored in Faith (Part 3)",
+    "uploader": "Luke Aurora PNGTuber",
+    "url": "https://www.youtube.com/watch?v=LypULG2kADw",
+    "views": "20",
+    "rejected": []
+   },
+   {
+    "seconds": 17681,
+    "title": "PGR Chapter 43 Full(Playing while feeling a bit under the weather)",
+    "uploader": "Rinne",
+    "url": "https://www.youtube.com/watch?v=oSOlPEnEEro",
+    "views": "150",
+    "rejected": []
    }
   ],
   "stats": {
-   "n": 1,
-   "median": 37,
-   "low": 37,
-   "high": 37,
+   "n": 3,
+   "median": 258,
+   "low": 212,
+   "high": 295,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 37,
+   "trimmed_mean": 255,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Anchored in Faith to A Comet's Afterglow",
+  "act_label": "Chapter 44",
+  "act_title": "A Comet's Afterglow",
+  "wiki_page": "A Comet's Afterglow",
+  "slug": "v5_Chapter_44",
+  "candidates": [
+   {
+    "seconds": 760,
+    "title": "Punishing: Gray Raven - 1st Play-through Pt. 44",
+    "uploader": "The DarkEdge",
+    "url": "https://www.youtube.com/watch?v=z_xJY0RloWA",
+    "views": "105",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2302,
+    "title": "Punishing Gray Raven Gameplay (Chapter 44: Comet's Afterglow and Leia:Fortunaster Story)",
+    "uploader": "BcsX",
+    "url": "https://www.youtube.com/watch?v=E-e4gWbGues",
+    "views": "48",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 203,
+    "title": "Ch.44-25: A Reason to Prevail + Illusory Firmament | Punishing: Gray Raven (PGR)",
+    "uploader": "FabioJo40",
+    "url": "https://www.youtube.com/watch?v=dvV5p6Kwa4M",
+    "views": "138",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1001,
+    "title": "\u3010Punishing: Gray Raven\u3011Border Pact - K-44 Defense Line : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=Oto8LDTrIdU",
+    "views": "318",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17762,
+    "title": "[Punishing: Gray Raven] Reading Chapter 44 - A Comet's Afterglow (Node 1-10) | Stream #413",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=I5Xg4oZcf3M",
+    "views": "207",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 22748,
+    "title": "[Punishing: Gray Raven] Reading Chapter 44 - A Comet's Afterglow (Node 21-30) | Stream #415",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=OYiagV5-5hA",
+    "views": "341",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 14738,
+    "title": "\u3010Punishing: Gray Raven\u3011A Comet's Afterglow \u2604\ufe0f !pgr #ad",
+    "uploader": "Rie Ch. \u59eb\u5bae\u308a\u3048\u3010Phase Connect\u3011",
+    "url": "https://www.youtube.com/watch?v=3sFc8RNoMZU",
+    "views": "13129",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 452,
+    "title": "Punishing: Gray Raven | Story Animation \"A Perfect Day\"",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=oSGCOpxFyx4",
+    "views": "113938",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 144,
+    "title": "Punishing: Gray Raven | 6th Anniversary Theme Song - Before Dawn",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=EBsUmHevHE0",
+    "views": "147068",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4490,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Finale | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=U7evbvBwgrM",
+    "views": "10",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3586,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 1 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=b6kaabhMOTA",
+    "views": "35",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 4310,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 4 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=KvNAlMcUCHA",
+    "views": "6",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2963,
+    "title": "Chapter 44 (10)[All Achievements] : A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=0Rg0_aA-r3Y",
+    "views": "68",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 56708,
+    "title": "Punishing: Gray Raven - 15 Hours Full Gameplay Ver.1.14.1 (No Commentary)",
+    "uploader": "LONG GAMES",
+    "url": "https://www.youtube.com/watch?v=0C0JHMmvDnY",
+    "views": 44515,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20220312"
+   },
+   {
+    "seconds": 2958,
+    "title": "Chapter 44 (2): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=OBmAiVkURdU",
+    "views": "161",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 4075,
+    "title": "Chapter 44 (3-4): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=qrIx_ejKiZw",
+    "views": "138",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3665,
+    "title": "Chapter 44 (6): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=YIvZP6fZQdc",
+    "views": "80",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 10054,
+    "title": "Chapter 44 (7-8): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=ZCNlLkZ2IYI",
+    "views": "119",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 19521,
+    "title": "[Punishing: Gray Raven] Reading Chapter 44 - A Comet's Afterglow (Node 11-20) | Stream #414",
+    "uploader": "Usubeni",
+    "url": "https://www.youtube.com/watch?v=sfyiUexVonw",
+    "views": "209",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3240,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 6 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=sIavEb6KtE4",
+    "views": "3",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3267,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 3 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=C2eSwpQSszc",
+    "views": "7",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3051,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 2 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=FKMjTfaSQks",
+    "views": "11",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3770,
+    "title": "A Comet's Afterglow (Main Story EP. 44) - Part 5 | Punishing: Gray Raven",
+    "uploader": "Rentarou Kashima",
+    "url": "https://www.youtube.com/watch?v=NzwplMxMyrQ",
+    "views": "6",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 208,
+    "title": "[Punishing Gray Raven] A Comets Afterglow Story Theme 3",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=8I37MHpzMk4",
+    "views": "83",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 291,
+    "title": "[Punishing Gray Raven] A Comets Afterglow Leia Fortunaster Story Theme",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=YONNuVBGrSE",
+    "views": "148",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9114,
+    "title": "\u3010Punishing: Gray Raven\u3011 Leia: Fortunaster Debut | Pulls & A Comet's Afterglow Story",
+    "uploader": "CyanBH | IN Vtuber",
+    "url": "https://www.youtube.com/watch?v=rNQiXWYWuRc",
+    "views": "102",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 325,
+    "title": "[Punishing Gray Raven] A Comets Afterglow Story Theme 1",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=NHYqKB1F-gc",
+    "views": "390",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 289,
+    "title": "[Punishing Gray Raven] A Comets Afterglow Story Theme 2",
+    "uploader": "Arclight",
+    "url": "https://www.youtube.com/watch?v=309jpzmTQRk",
+    "views": "152",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 245,
+    "title": "Punishing: Gray Raven | Anchored in Faith PV",
+    "uploader": "Punishing Gray Raven",
+    "url": "https://www.youtube.com/watch?v=lkyAtxYU2eU",
+    "views": "76879",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 21988,
+    "title": "Punishing Gray Raven:A Comet's Afterglow  (Story)",
+    "uploader": "ThaiV",
+    "url": "https://www.youtube.com/watch?v=La6I9UPXDZA",
+    "views": "3",
+    "rejected": []
+   },
+   {
+    "seconds": 23142,
+    "title": "PGR Chapter 44",
+    "uploader": "Rinne",
+    "url": "https://www.youtube.com/watch?v=yred0L404ZY",
+    "views": "13",
+    "rejected": []
+   },
+   {
+    "seconds": 2726,
+    "title": "Chapter 44 (11): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=yck1oxmAjyI",
+    "views": "61",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 293,
+    "title": "Leia vs Melonie Boss Fight | Punishing Gray Raven Chapter 44 A Comet's Afterglow",
+    "uploader": "RandomPGRGamer",
+    "url": "https://www.youtube.com/watch?v=xrq_E9mNoBw",
+    "views": "196",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1219,
+    "title": "Vonnegut & Chaos Has Returned!!?? - Punishing Gray Raven",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=rvfEWyHna4k",
+    "views": "6819",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5315,
+    "title": "Chapter 44 (5): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=4T2Bgf-kPrw",
+    "views": "105",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 1911,
+    "title": "Chapter 44 (9): A Comet's Afterglow || Punishing : Gray Raven [Global]",
+    "uploader": "Jaysan009",
+    "url": "https://www.youtube.com/watch?v=a9xM_TiM5no",
+    "views": "41",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2271,
+    "title": "\u3010Punishing: Gray Raven\u3011Lost Chapter - Hidden : Story Collection",
+    "uploader": "Shoul",
+    "url": "https://www.youtube.com/watch?v=VvHlbdixAUI",
+    "views": "1361",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 332,
+    "title": "Ch.44-10: Sunbreak + Clashing Steel | Punishing: Gray Raven (PGR)",
+    "uploader": "FabioJo40",
+    "url": "https://www.youtube.com/watch?v=FEy4bHydnSo",
+    "views": "213",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 21988,
+    "title": "Punishing Gray Raven:A Comet's Afterglow  (Story)",
+    "uploader": "ThaiV",
+    "url": "https://www.youtube.com/watch?v=La6I9UPXDZA",
+    "views": "3",
+    "rejected": []
+   },
+   {
+    "seconds": 23142,
+    "title": "PGR Chapter 44",
+    "uploader": "Rinne",
+    "url": "https://www.youtube.com/watch?v=yred0L404ZY",
+    "views": "13",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 2,
+   "median": 376,
+   "low": 366,
+   "high": 386,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 376,
    "measured": 0,
    "parts": {},
    "drift": null

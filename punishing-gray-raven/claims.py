@@ -4,13 +4,14 @@ The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, is_extreme, median_between, none_above,
-                        rank_at_most, sample_at_most, total_ratio_between)
+                        rank_at_most, sample_at_least, sample_at_most,
+                        total_ratio_between)
 from facts import RANK_SAMPLES
 
 CLAIMS = [
     # README.md
-    sample_at_most("v5", "Chapter 43", 1,
-                   "and its figure rests on a single upload"),
+    sample_at_most("v5", "Chapter 44", 2,
+                   "and its figure rests on two uploads"),
 
     # 01-graffiti-art-to-eternal-engine.md
     count_above("v4", 240, 2,
@@ -62,13 +63,16 @@ CLAIMS = [
                    "that each cover part of it"),
 
     # 05-anchored-in-faith.md
-    median_between("v5", "Chapter 43", 1, 90,
-                   "is a fraction of the three hours and more"),
-    count_above("v4", 180, 7,
-                "that most chapters of Volume 4 run to"),
-    sample_at_most("v5", "Chapter 43", 1,
-                   "The one upload that survived screening went up "
-                   "on release day"),
+    median_between("v5", "Chapter 43", 180, 420,
+                   "within the range of the Volume 4 chapters before it"),
+    sample_at_most("v5", "Chapter 43", 3, "but on three uploads"),
+    sample_at_least("v5", "Chapter 43", 3, "Three uploads survive screening"),
+    sample_at_most("v5", "Chapter 44", 2, "on two uploads"),
+    sample_at_most("v5", "Chapter 44", RANK_SAMPLES - 1,
+                   "too few for it to be ranked against the rest of the report"),
+    sample_at_least("v5", "Chapter 44", 2,
+                    "The two uploads that survive are titled as the whole "
+                    "chapter"),
 
     # 06-ex-frozen-darkness-to-inscription-of-labyrinth.md
     is_extreme("vex", "Chapter EX-04", "max", "The longest of the EX chapters"),

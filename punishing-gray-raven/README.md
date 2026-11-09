@@ -5,7 +5,7 @@ from the first descent onto the surface to the chapter the global client is on,
 plus the six EX chapters the game files alongside them,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->128 h 29 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the six EX chapters, measured against <!--f:n_videos-->244<!--/f--> accepted uploads out of <!--f:n_candidates-->3379<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->138 h 26 min<!--/f-->** (<!--f:n_report_entries-->50<!--/f--> chapters counting the six EX chapters, measured against <!--f:n_videos-->248<!--/f--> accepted uploads out of <!--f:n_candidates-->3479<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.
@@ -19,7 +19,7 @@ rather than a number anyone actually clocked end to end.
 | Volume 2: Nona Ouroboros to Across The Ruined Sea | 11 - 20 | Nona Ouroboros - Across The Ruined Sea | 10 | 24 h 33 min | [02-nona-ouroboros-to-across-the-ruined-sea.md](02-nona-ouroboros-to-across-the-ruined-sea.md) |
 | Volume 3: Spiral of Chronos to Stars Ensnared | 21 - 30 | Spiral of Chronos - Stars Ensnared | 10 | 33 h 50 min | [03-spiral-of-chronos-to-stars-ensnared.md](03-spiral-of-chronos-to-stars-ensnared.md) |
 | Volume 4: Shaper's Ripples to Steering By Light | 31 - 42 | Shaper's Ripples - Steering By Light | 12 | 48 h 16 min | [04-shapers-ripples-to-steering-by-light.md](04-shapers-ripples-to-steering-by-light.md) |
-| Volume 5: Anchored in Faith | 43 | Anchored in Faith | 1 | 37 min | [05-anchored-in-faith.md](05-anchored-in-faith.md) |
+| Volume 5: Anchored in Faith to A Comet's Afterglow | 43 - 44 | Anchored in Faith - A Comet's Afterglow | 2 | 10 h 34 min | [05-anchored-in-faith-to-a-comets-afterglow.md](05-anchored-in-faith-to-a-comets-afterglow.md) |
 | Volume EX: Frozen Darkness to Inscription of Labyrinth | EX-00 - EX-05 | Frozen Darkness - Inscription of Labyrinth | 6 | 13 h 15 min | [06-ex-frozen-darkness-to-inscription-of-labyrinth.md](06-ex-frozen-darkness-to-inscription-of-labyrinth.md) |
 <!--/gen-->
 
@@ -32,7 +32,7 @@ rather than a number anyone actually clocked end to end.
 | longest | Volume 4, Chapter 41: Homecoming Voyage | 5 h 36 min |
 | longest | Volume 4, Chapter 40: A Better Tomorrow | 5 h 19 min |
 | longest | Volume 4, Chapter 31: Shaper's Ripples | 4 h 57 min |
-| longest | Volume 3, Chapter 29: Source Beacon | 4 h 11 min |
+| longest | Volume 5, Chapter 43: Anchored in Faith | 4 h 18 min |
 | shortest | Volume 1, Chapter 5: Shattered Phantom | 35 min |
 | shortest | Volume 1, Chapter 4: Forgotten Golden Sand | 38 min |
 | shortest | Volume 1, Chapter 8: Consumed by Darkness | 38 min |
@@ -68,7 +68,7 @@ Read the chapter numbers, not the volume boundaries.
 - **The chapter numbers past 20 are not stated on the wiki.**
 Its `Main Story` page stops at Chapter 20,
 and after that a chapter's number appears only where a patch page happens
-to give it, which is Chapters 31, 32 and 34 to 43.
+to give it, which is Chapters 31, 32 and 34 to 44.
 The numbers in between are reconstructed
 from the order the patch pages are chained in
 and confirmed against the upload titles that name both number and chapter;
@@ -184,12 +184,12 @@ that is what has happened, and the chapter's own note says so.
 - **Chapter 26 carries no estimate.** Its pool held no upload that was
 a playthrough of the whole chapter, so the volume total that includes it,
 and the report total, are short by whatever it would have added.
-- Chapters 41 and 42 shipped in the four months before the collection date,
+- Chapters 41 to 43 shipped in the half year before the collection date,
 and the pools for them are young and thin.
-Chapter 43, Anchored in Faith, shipped days before it,
-and its figure rests on a single upload
-that covers only part of the chapter:
-it is a floor, not an estimate.
+Chapter 44, A Comet's Afterglow, shipped days before it,
+and its figure rests on two uploads,
+both from channels whose uploads run long elsewhere in this report:
+read it as provisional.
 - The second pass that fetches exact view counts, upload dates and chapter
 markers reached about a seventh of the candidates before
 YouTube's bot check cut it off.
@@ -198,4 +198,4 @@ marked with a `~`, and most upload dates read "n/a".
 The estimates themselves are unaffected:
 they come from the runtimes, which the harvest already had.
 
-Data collected <!--f:date-->2026-09-26<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.

@@ -332,7 +332,7 @@ Two patches old at the collection date.
 One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 36 min
-- **Sampled range:** 2 h 59 min to 7 h 29 min across 4 playthrough uploads (68 further candidates screened out)
+- **Sampled range:** 2 h 59 min to 7 h 29 min across 4 playthrough uploads (81 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Homecoming Voyage
 - **Stability:** median +56% against an earlier, independent query set
@@ -357,7 +357,7 @@ One of the three longest chapters in the game.
 <!--/gen-->
 
 The last chapter of this volume;
-the chapter after it opens [Volume 5](05-anchored-in-faith.md).
+the chapter after it opens [Volume 5](05-anchored-in-faith-to-a-comets-afterglow.md).
 What survived screening is three uploads that each cover part of it,
 the hidden story, one channel's fourth instalment
 and an unlabelled share of the chapter,
@@ -365,7 +365,7 @@ so the figure is a floor rather than an estimate.
 <!--gen:stats act="Chapter 42"-->
 
 - **Estimated length:** 3 h 03 min
-- **Sampled range:** 2 h 39 min to 3 h 12 min across 3 playthrough uploads (113 further candidates screened out)
+- **Sampled range:** 2 h 39 min to 3 h 12 min across 3 playthrough uploads (122 further candidates screened out)
 - **Confidence:** low
 - **Released in:** Steering By Light
 <!--/gen-->
