@@ -39,12 +39,12 @@ CLAIMS = [
     # "the first entry in the game to pass four hours" rests on this bound plus
     # everything published before it staying under, which the claims above and
     # the three below cover between them.
-    median_between("v2", "Chapter 8", 240, 299,
+    median_between("v2", "Chapter 8", 225, 299,
                    "Chapter 8 being the first entry in the game "
-                   "to pass four hours"),
-    none_above("v1", 240,
+                   "to reach about four hours"),
+    none_above("v1", 225,
                "Chapter 8 being the first entry in the game "
-               "to pass four hours"),
+               "to reach about four hours"),
     median_between("v2", "Chapter 6.7", 60, 160,
                    "Chapters 6.7 and 8.3 come in under both "
                    "whole-numbered ones"),
@@ -71,13 +71,13 @@ CLAIMS = [
     total_ratio_between("v3", ["v1"], 1.05, 2.0,
                         "are the reason this volume outweighs the launch run "
                         "on one entry fewer"),
-    median_between("v3", "Chapter 12.5", 230, 300,
+    median_between("v3", "Chapter 12.5", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
-    median_between("v3", "Chapter 11", 230, 300,
+    median_between("v3", "Chapter 11", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
-    median_between("v3", "Chapter 12", 230, 300,
+    median_between("v3", "Chapter 12", 240, 320,
                    "Chapter 12.5 closes the volume out at about the length of "
                    "the two chapters it sits between"),
 
