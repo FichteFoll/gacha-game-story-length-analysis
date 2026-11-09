@@ -1977,7 +1977,9 @@
     "uploader": "honeygarlicLIVE",
     "url": "https://www.youtube.com/watch?v=09Ixc7n67qI",
     "views": 41,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20251125"
    },
    {
@@ -2150,28 +2152,19 @@
     "url": "https://www.youtube.com/watch?v=xYXjtNifuY4",
     "views": "2",
     "rejected": []
-   },
-   {
-    "seconds": 14515,
-    "title": "Reverse: 1999 ~ working my way through Chapter 3 story quests \u2665\ufe0e (Streamed 11/20/25)",
-    "uploader": "honeygarlicLIVE",
-    "url": "https://www.youtube.com/watch?v=09Ixc7n67qI",
-    "views": 41,
-    "rejected": [],
-    "upload_date": "20251125"
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 172,
+   "n": 12,
+   "median": 159,
    "low": 119,
-   "high": 242,
-   "q1": 131,
-   "q3": 190,
-   "trimmed_mean": 162,
+   "high": 207,
+   "q1": 129,
+   "q3": 184,
+   "trimmed_mean": 158,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.076
   }
  },
  {

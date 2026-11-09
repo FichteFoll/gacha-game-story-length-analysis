@@ -68,7 +68,7 @@ REJECT = re.compile(
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
     r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"
-    r"\blive\b|livestream|\bstream\b|let'?s play|lets play|\U0001F534",
+    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534",
     re.I,
 )
 # What an upload calls the whole of a chapter. Kept short on purpose, and

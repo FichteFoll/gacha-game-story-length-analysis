@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 37 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 36 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
@@ -16,7 +16,7 @@ sends Rover after its long-absent Sentinel.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | The Wind Before the Storm | 2 h 44 min | 2 h 31 min - 2 h 58 min | 26 | high |
+| Act I | The Wind Before the Storm | 2 h 43 min | 2 h 28 min - 2 h 54 min | 25 | high |
 | Act II | Xuanling Sings, Storm Quelled | 2 h 41 min | 2 h 33 min - 3 h 00 min | 27 | high |
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
 | Act III | Song of the Heart Sword | 4 h 39 min | 4 h 34 min - 4 h 54 min | 24 | high |
@@ -24,7 +24,7 @@ sends Rover after its long-absent Sentinel.
 | Act IV | Simulacrum of the Heart | 4 h 56 min | 4 h 41 min - 5 h 14 min | 27 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 37 min<!--/f-->**
+**Total: <!--f:total-->15 h 36 min<!--/f-->**
 
 ## Pacing
 
@@ -56,13 +56,13 @@ and a reply that turns into a journey back to a Huanglong
 that has gone quiet in the wrong way.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 2 h 44 min
-- **Sampled range:** 2 h 31 min to 2 h 58 min for the middle half (full spread 1 h 40 min to 4 h 03 min) across 26 playthrough uploads (21 further candidates screened out)
+- **Estimated length:** 2 h 43 min
+- **Sampled range:** 2 h 28 min to 2 h 54 min for the middle half (full spread 1 h 40 min to 3 h 19 min) across 25 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 26 uploads
+- **Stability:** median -1% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 3 of 25 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -96,7 +96,6 @@ that has gone quiet in the wrong way.
 | 3 h 09 min | The Beginning of Something Much Bigger \| Wuthering Waves 3.5 Main Quest | Jadealy | 70,744 | 2026-07-11 | <https://www.youtube.com/watch?v=HPae19qpA0M> |
 | 3 h 16 min | Wuthering Waves 3.5 Main Story Quest Act 1 \| Full Gameplay [Male Rover] | Mnemenoir | 9 | 2026-07-14 | <https://www.youtube.com/watch?v=auSd2jMZhQc> |
 | 3 h 19 min | Wuwa 3.5 [Main Quest] Chapter IV Act I: The Wind Before the Storm walkthrough | Arzas_enfield | 25 | 2026-07-10 | <https://www.youtube.com/watch?v=eg8xkyuSOzI> |
-| 4 h 03 min | The Wind Before the Storm "Wuthering Waves" (main quest) Chill Streaming ODD JOBS OFFICE | ODD JOBS OFFICE | 58 | 2026-07-17 | <https://www.youtube.com/watch?v=yUFmG9BJQPw> |
 
 </details>
 <!--/gen-->

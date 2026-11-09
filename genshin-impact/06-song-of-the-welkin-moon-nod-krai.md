@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Song of the Welkin Moon (unofficially Chapter VI)
 
-**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 38 min**
+**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 40 min**
 <!--/gen-->
 
 Ineffa leads the Traveler out of Natlan to Nod-Krai,
@@ -17,7 +17,7 @@ and finally deliver the Chapter III title drop.
 | --- | --- | --- | --- | --- | --- |
 | Prelude | The Journey Home | 2 h 29 min | 2 h 18 min - 2 h 39 min | 9 | high |
 | Act I | A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min | 4 h 08 min - 4 h 51 min | 14 | high |
-| Act II | Elegy of Dust and Lamplight | 3 h 19 min | 2 h 56 min - 3 h 36 min | 11 | high |
+| Act II | Elegy of Dust and Lamplight | 3 h 21 min | 3 h 01 min - 3 h 46 min | 10 | high |
 | Act III | A Nation That Doesn't Exist | 2 h 21 min | 2 h 15 min - 2 h 29 min | 10 | high |
 | Act IV | An Elegy for Faded Moonlight | 4 h 03 min | 3 h 52 min - 4 h 12 min | 10 | high |
 | Act V | A Nocturne of the Far North | 2 h 35 min | 2 h 24 min - 2 h 52 min | 23 | high |
@@ -28,12 +28,12 @@ and finally deliver the Chapter III title drop.
 | Act X | Truth Amongst the Pages of Purana | 4 h 13 min | 3 h 48 min - 4 h 23 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->35 h 38 min<!--/f-->**
+**Total: <!--f:total-->35 h 40 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter: <!--f:n_entries-->eleven<!--/f--> entries,
-and a running time of <!--f:total-->35 h 38 min<!--/f-->,
+and a running time of <!--f:total-->35 h 40 min<!--/f-->,
 comparable to Sumeru and Fontaine combined.
 Act I alone runs <!--f:len_Act_I-->4 h 43 min<!--/f-->.
 Although the later acts are also the most recent content sampled,
@@ -132,13 +132,13 @@ the Kuuvahki Cannon repair,
 and Rerir regaining physical form.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 3 h 19 min
-- **Sampled range:** 2 h 56 min to 3 h 36 min for the middle half (full spread 2 h 36 min to 4 h 40 min) across 11 playthrough uploads (1 further candidate screened out)
+- **Estimated length:** 3 h 21 min
+- **Sampled range:** 3 h 01 min to 3 h 46 min for the middle half (full spread 2 h 36 min to 4 h 40 min) across 10 playthrough uploads (2 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna I (6.0)
-- **Stability:** median -1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 11 uploads
+- **Stability:** median 0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 10 uploads
 - **Quest parts (5):** Fulminations and Undercurrents; The Dark Side of Memory; One There Was, Who Hunted the Moon; The Ashen-White Order Burns; Rest Beyond Reach
 <!--/gen-->
 
@@ -150,7 +150,6 @@ and Rerir regaining physical form.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 36 min | Song of the Welkin Moon Act 2 \| Elegy of Dust and Lamplight \| Walkthrough \| THE SECRETS OF THE DUST🏮 | FightMatrix Gaming | 11 | 2026-02-25 | <https://www.youtube.com/watch?v=NgwuQvvGvCM> |
 | 2 h 55 min | Elegy of Dust and Lamplight - Song of the Welkin Moon: Act 2 (Full Quest Story) \| Genshin Impact 6,0 | Sir Patty | 32 | 2025-09-13 | <https://www.youtube.com/watch?v=YVn1ZvJ-fyc> |
-| 2 h 56 min | Elegy of Dust and Lamplight (main quest) "Genshin Impact" Chill Streaming ODD JOBS OFFICE | ODD JOBS OFFICE | 32 | 2026-08-05 | <https://www.youtube.com/watch?v=1UdYQqxNMeM> |
 | 3 h 03 min | Elegy of Dust and Lamplight Full Quest Genshin Impact  | Epic Nithan | 87 | 2025-09-11 | <https://www.youtube.com/watch?v=0fRXFAJi8CA> |
 | 3 h 13 min | Song of Welkin Moon: Act II - Elegy of Dust and Lamplight \| Genshin v6.0 Archon Quest | ViPlays | 4 | 2026-01-31 | <https://www.youtube.com/watch?v=w-GscX9ZFmw> |
 | 3 h 19 min | Nod Krai Archon Quest \|Song of the Welkin Moon : Act II \|Elegy of Dust and Lamplight \|Genshin Impact | Senthu Gamer | 6 | 2026-01-19 | <https://www.youtube.com/watch?v=aW-HDb-b8BE> |
