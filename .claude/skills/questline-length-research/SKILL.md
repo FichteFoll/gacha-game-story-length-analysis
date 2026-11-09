@@ -400,6 +400,12 @@ Discard, by title:
   in instalments often reuses the title verbatim and lets the upload order
   carry the sequence, so nothing in the wording says "part 2".
   Those are read as splits automatically, without a pattern.
+  A channel that numbers its own videos in its titles needs a `!` line in
+  `partials.txt` instead, wherever the counter sits where the game's own
+  numbering would: mj-r2's "Deep Oblivion - Part 2: Hidden Intentions"
+  counts that channel's instalments, and Girls' Frontline 2's act keys read
+  it as the campaign's second part, so one video counted for two chapters.
+  "Starting", "Continuing" and "Finishing" are the same counter in words.
 - **the same uploader twice**: an uploader who posts a single-act upload
   *and* a compilation that contains it
   offers one playthrough under two URLs,
