@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter II: Omnipresence Over Mortals
 
-**Region:** Inazuma | **Game versions:** 1.6 - 2.6 | **Entries:** 5 | **Estimated chapter length: 8 h 12 min**
+**Region:** Inazuma | **Game versions:** 1.6 - 2.6 | **Entries:** 5 | **Estimated chapter length: 8 h 15 min**
 <!--/gen-->
 
 Inazuma has sealed itself off under the Sakoku Decree
@@ -18,16 +18,16 @@ and confronts the Raiden Shogun over what eternity costs her people.
 | Prologue | Autumn Winds, Scarlet Leaves | 1 h 07 min | 1 h 02 min - 1 h 10 min | 12 | high |
 | Act I | The Immovable God and the Eternal Euthymia | 2 h 55 min | 2 h 40 min - 3 h 08 min | 11 | high |
 | Act II | Stillness, the Sublimation of Shadow | 50 min | 45 min - 57 min | 11 | medium |
-| Act III | Omnipresence Over Mortals | 2 h 22 min | 1 h 57 min - 2 h 29 min | 9 | medium |
+| Act III | Omnipresence Over Mortals | 2 h 25 min | 2 h 12 min - 2 h 29 min | 8 | high |
 | Act IV | Requiem of the Echoing Depths | 58 min | 49 min - 59 min | 9 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->8 h 12 min<!--/f-->**
+**Total: <!--f:total-->8 h 15 min<!--/f-->**
 
 ## Pacing
 
 Uneven in a way the earlier chapters are not.
-Act I and Act III are marathon acts of <!--f:len_Act_I-->2 h 55 min<!--/f--> and <!--f:len_Act_III-->2 h 22 min<!--/f-->,
+Act I and Act III are marathon acts of <!--f:len_Act_I-->2 h 55 min<!--/f--> and <!--f:len_Act_III-->2 h 25 min<!--/f-->,
 while Act II consists of only <!--f:parts_Act_II-->two<!--/f--> quest parts
 and takes <!--f:len_Act_II-->50 min<!--/f-->.
 Act IV (Enkanomiya) arrived much later than the rest
@@ -164,12 +164,12 @@ Signora dies in a duel,
 and the Vision Hunt Decree is repealed.
 <!--gen:stats act="Act III"-->
 
-- **Estimated length:** 2 h 22 min
-- **Sampled range:** 1 h 57 min to 2 h 29 min for the middle half (full spread 1 h 37 min to 3 h 24 min) across 9 playthrough uploads (3 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 25 min
+- **Sampled range:** 2 h 12 min to 2 h 29 min for the middle half (full spread 1 h 37 min to 3 h 24 min) across 8 playthrough uploads (4 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 30
 - **Released in:** 2.1
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +2% against an earlier, independent query set
 - **Quest parts (9):** Sword, Fish, Resistance; Those Who Yearn for the Gods' Gaze; Delusion; The Servant's Path; Proof of Guilt; Blind Loyalty, Reckless Courage; Duel Before the Throne; The Omnipresent God; Wishes
 <!--/gen-->
 
@@ -180,7 +180,6 @@ and the Vision Hunt Decree is repealed.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 37 min | Omnipresence over mortals \| Genshin Impact 2.1 Archon Quest | Frooxz | 123 | 2021-09-05 | <https://www.youtube.com/watch?v=V61CMYh9M_g> |
-| 1 h 44 min | Genshin Impact - Archon Quest [Chapter II : Act III - Omnipresence Over Mortals] Part 1 | Aya Impact | 52 | 2021-09-01 | <https://www.youtube.com/watch?v=jZj0mbvHW0o> |
 | 2 h 10 min | Archon Quest "Chapter II Act III - Omnipresence Over Mortals" - Genshin Impact | genshinboya | 75 | 2021-09-01 | <https://www.youtube.com/watch?v=Nzf16_tK4Oo> |
 | 2 h 18 min | Omnipresence Over Mortals — Archon Quest Chapter II: Act III \| Genshin Impact | Mr. Trajet | 1,215 | 2021-09-05 | <https://www.youtube.com/watch?v=dKNnb0A9nw0> |
 | 2 h 22 min | Chapter II: Act III - "Omnipresence Over Mortals" (Walkthrough) \| Genshin Impact | LegendSpell | 90 | 2021-09-01 | <https://www.youtube.com/watch?v=_mfYSbGYkZ8> |

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter V: Incandescent Ode of Resurrection
 
-**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 29 min**
+**Region:** Natlan | **Game versions:** 5.0 - 5.7 | **Entries:** 7 | **Estimated chapter length: 17 h 35 min**
 <!--/gen-->
 
 Natlan fights the Abyss with Ancient Names borrowed from the Night Kingdom.
@@ -16,19 +16,19 @@ to keep the Sacred Flame burning.
 | --- | --- | --- | --- | --- | --- |
 | Act I | Flowers Resplendent on the Sun-Scorched Sojourn | 2 h 32 min | 2 h 02 min - 2 h 56 min | 9 | medium |
 | Act II | Black Stone Under a White Stone | 2 h 45 min | 2 h 35 min - 2 h 57 min | 8 | high |
-| Act III | Beyond the Smoke and Mirrors | 2 h 33 min | 2 h 22 min - 2 h 45 min | 21 | high |
+| Act III | Beyond the Smoke and Mirrors | 2 h 36 min | 2 h 23 min - 2 h 45 min | 20 | high |
 | Act IV | The Rainbow Destined to Burn | 3 h 17 min | 3 h 02 min - 3 h 38 min | 10 | high |
 | Interlude | All Fires Fuel the Flame | 52 min | 42 min - 56 min | 10 | medium |
-| Act V | Incandescent Ode of Resurrection | 3 h 34 min | 3 h 00 min - 3 h 46 min | 8 | medium |
+| Act V | Incandescent Ode of Resurrection | 3 h 37 min | 2 h 56 min - 4 h 01 min | 7 | low |
 | Act VI | A Space and Time for You | 1 h 56 min | 1 h 51 min - 2 h 04 min | 10 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 29 min<!--/f-->**
+**Total: <!--f:total-->17 h 35 min<!--/f-->**
 
 ## Pacing
 
 Uniformly long without any single outlier:
-the numbered acts run from <!--f:acts_low-->1 h 56 min<!--/f--> to <!--f:acts_high-->3 h 34 min<!--/f-->.
+the numbered acts run from <!--f:acts_low-->1 h 56 min<!--/f--> to <!--f:acts_high-->3 h 37 min<!--/f-->.
 The Interlude is the exception,
 a <!--f:parts_Interlude-->one<!--/f-->-part cooldown quest of <!--f:len_Interlude-->52 min<!--/f-->.
 Natlan's mobility gadgets keep traversal overhead lower
@@ -118,13 +118,13 @@ Mavuika mobilizes the tribes and the Adventurers' Guild together
 while Capitano's purpose in Natlan comes into focus.
 <!--gen:stats act="Act III"-->
 
-- **Estimated length:** 2 h 33 min
-- **Sampled range:** 2 h 22 min to 2 h 45 min for the middle half (full spread 1 h 18 min to 4 h 01 min) across 21 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 2 h 36 min
+- **Sampled range:** 2 h 23 min to 2 h 45 min for the middle half (full spread 2 h 00 min to 4 h 01 min) across 20 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** 5.1
-- **Stability:** median +5% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 6 of 21 uploads
+- **Stability:** median +7% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 6 of 20 uploads
 - **Quest parts (3):** All Names are Noble (29 min); To Whence the Smoke Drifts (1 h 04 min); The Flickering Light Splits in Twain (58 min)
 <!--/gen-->
 
@@ -134,8 +134,7 @@ while Capitano's purpose in Natlan comes into focus.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 18 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 2(No Commentary) | Gaming_Dino | 6 | 2025-01-15 | <https://www.youtube.com/watch?v=ZLf8dHlZfBw> |
-| 1 h 21 min | 5.1 Archon Quest - "Beyond the Smoke and Mirrors" Part 3 HD Genshin Impact | Clips of Genshin | 54 | 2024-10-09 | <https://www.youtube.com/watch?v=36YYOszSYZs> |
+| 2 h 00 min | Genshin Impact Chapter V Act III - Beyond the Smoke and Mirrors Part 1(No Commentary) | Gaming_Dino | ~6 | n/a | <https://www.youtube.com/watch?v=zJCv_DCMG9A> |
 | 2 h 15 min | Natlan Archon Quest Act 3 Beyond The Smoke And Mirrors (No Commentary) | RaxDotVie | ~37 | n/a | <https://www.youtube.com/watch?v=njeLLyQPb8U> |
 | 2 h 21 min | Genshin Impact - FULL Gameplay [No Commentary] CHAPTER 5 ACT III: Beyond the Smoke and Mirror PART24 | SilentPixie Gaming | 10 | 2026-01-16 | <https://www.youtube.com/watch?v=Kr25c6Ftaks> |
 | 2 h 22 min | Natlan \| Archon Quest 5.1: Act 3: Beyond the Smoke and Mirrors \| (No Commentary) p1 \| Genshin Impact | Pikahrus | 30 | 2024-10-14 | <https://www.youtube.com/watch?v=qp0s3tEaF3w> |
@@ -246,13 +245,13 @@ The Night Kingdom, the truth about Mavuika's bargain,
 and the price already paid for the Ode of Resurrection.
 <!--gen:stats act="Act V"-->
 
-- **Estimated length:** 3 h 34 min
-- **Sampled range:** 3 h 00 min to 3 h 46 min for the middle half (full spread 2 h 03 min to 4 h 01 min) across 8 playthrough uploads (3 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 3 h 37 min
+- **Sampled range:** 2 h 56 min to 4 h 01 min across 7 playthrough uploads (4 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 40
 - **Released in:** 5.3
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 8 uploads
+- **Stability:** median +1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 7 uploads
 - **Quest parts (5):** Subterranean Ruins; As the Sun Rises and Sets; Journey of Stars and Flames; Where All Hopes Lie; When All Becomes a Monument
 <!--/gen-->
 
@@ -262,7 +261,6 @@ and the price already paid for the Ode of Resurrection.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 03 min | Genshin Impact Ch V act V - Incandescent Ode of Resurrection Part 2 (No Commentary) | Gaming_Dino | 2 | 2025-03-28 | <https://www.youtube.com/watch?v=sBUuEfWT8WI> |
 | 2 h 56 min | Genshin Impact - Gameplay [No Commentary] CHAPTER 5 ACT V: Incandescent Ode of Resurrection PART 27 | SilentPixie Gaming | 18 | 2026-01-17 | <https://www.youtube.com/watch?v=g04PdnvPZv0> |
 | 3 h 12 min | Incandescent Ode of Resurrection - Chapter V: Act V (Full Story Quest) - Genshin Impact 5.3 | Sir Patty | 40 | 2025-01-06 | <https://www.youtube.com/watch?v=87JJ-Wtv2Qc> |
 | 3 h 30 min | Natlan Archon Quest Act 5 Full Story HD \| Incandescent Ode Of Resurrection \| Genshin Impact 5.3 | Noxxis Gaming | 15,384 | 2025-01-01 | <https://www.youtube.com/watch?v=82Q_oSbZ0U4> |

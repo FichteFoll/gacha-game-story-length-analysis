@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter III: Truth Amongst the Pages of Purana
 
-**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 04 min**
+**Region:** Sumeru | **Game versions:** 3.0 - 3.5 | **Entries:** 6 | **Estimated chapter length: 16 h 07 min**
 <!--/gen-->
 
 The Akademiya has locked Sumeru's Archon away and rules through the Akasha.
@@ -14,7 +14,7 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Through Mists of Smoke and Forests Dark | 3 h 30 min | 2 h 28 min - 3 h 44 min | 15 | low |
+| Act I | Through Mists of Smoke and Forests Dark | 3 h 33 min | 3 h 21 min - 3 h 51 min | 12 | high |
 | Act II | The Morn a Thousand Roses Brings | 2 h 27 min | 1 h 48 min - 2 h 43 min | 11 | low |
 | Act III | Dreams, Emptiness, Deception | 1 h 52 min | 1 h 47 min - 1 h 56 min | 9 | high |
 | Act IV | King Deshret and the Three Magi | 2 h 12 min | 2 h 08 min - 2 h 21 min | 9 | high |
@@ -22,7 +22,7 @@ and storms the Divine Throne to break the Akademiya's god-making project.
 | Act VI | Caribert | 1 h 36 min | 1 h 21 min - 1 h 38 min | 9 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->16 h 04 min<!--/f-->**
+**Total: <!--f:total-->16 h 07 min<!--/f-->**
 
 ## Pacing
 
@@ -43,13 +43,13 @@ the Withering, Eleazar, the Aranara,
 and the Akasha's grip on Sumeru City.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 3 h 30 min
-- **Sampled range:** 2 h 28 min to 3 h 44 min for the middle half (full spread 1 h 42 min to 4 h 31 min) across 15 playthrough uploads (14 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 3 h 33 min
+- **Sampled range:** 3 h 21 min to 3 h 51 min for the middle half (full spread 2 h 11 min to 4 h 31 min) across 12 playthrough uploads (17 further candidates screened out)
+- **Confidence:** high
 - **Adventure Rank gate:** 35
 - **Released in:** 3.0
-- **Stability:** median +4% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 15 uploads
+- **Stability:** median +5% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 12 uploads
 - **Quest parts (7):** A Forest of Change; Further Observation; Chronic Illness; Silent Seeker of Knowledge; The Trail of the God of Wisdom; Lost in Prosperity; Ever So Close
 <!--/gen-->
 
@@ -59,10 +59,7 @@ and the Akasha's grip on Sumeru City.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 42 min | Genshin Impact 3.0 Chapter 3 Act 1: Through the Mists of Smoke and Forests Dark (Part 1) JP DUBBED | KCGamer | 23 | 2022-08-25 | <https://www.youtube.com/watch?v=aoA_su1l7Zs> |
 | 2 h 11 min | Sumeru Changes EVERYTHING!! \| Genshin Impact 3.0 Archon Quest Act 1 | Doro44 | 97,671 | 2022-08-30 | <https://www.youtube.com/watch?v=GHbUxD53xc4> |
-| 2 h 22 min | The Sumeru Archon Quest BEGINS! (ACT I PART 1) \| Genshin Impact 3.0 | BranOnline | 163,513 | 2022-08-26 | <https://www.youtube.com/watch?v=bNl1s-2nruE> |
-| 2 h 28 min | Chapter 3: Act 1 - Through Mists of Smoke and Forests Dark \| Part 1 \| Archon Quest \| Genshin Impact | ASJ Gaming | 82 | 2023-07-30 | <https://www.youtube.com/watch?v=OYQekUPOKt0> |
 | 3 h 15 min | 3.0 Sumeru Archon Quest Act 1 \| Through Mists of Smoke and Forests Dark - No Commentary EN Dub | Liloupar | 10 | 2025-08-12 | <https://www.youtube.com/watch?v=9sv_zUmGYd0> |
 | 3 h 20 min | Genshin Impact FULL GAME [No Commentary] CH3 ACT I: Through Mists of Smoke and Forests Dark PART 10 | SilentPixie Gaming | 10 | 2026-01-06 | <https://www.youtube.com/watch?v=lOVYHKDjhy4> |
 | 3 h 25 min | Archon Quest Chapter 3: Act 1 "Through Mists of Smoke and Forests Dark" \| 【Genshin Impact】 | LyurGG | 6,876 | 2025-05-22 | <https://www.youtube.com/watch?v=bGx4WG0h820> |
