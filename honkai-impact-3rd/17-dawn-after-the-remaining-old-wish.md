@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Dawn after the Remaining Old Wish
 
-**Part:** Part 2 | **Game versions:** 7.8 - 8.4 | **Entries:** 7 | **Estimated arc length: 25 h 29 min**
+**Part:** Part 2 | **Game versions:** 7.8 - 8.4 | **Entries:** 7 | **Estimated arc length: 25 h 30 min**
 <!--/gen-->
 
 Dreamseeker goes back into the system pulled by the need to find Senadina,
@@ -15,7 +15,7 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter V | The First and Last War | 3 h 17 min | 2 h 44 min - 3 h 36 min | 13 | medium |
+| Chapter V | The First and Last War | 3 h 18 min | 2 h 53 min - 3 h 39 min | 12 | medium |
 | Chapter VI | Wails Stifled by the Silent Shadow | 3 h 39 min | 2 h 51 min - 4 h 33 min | 6 | low |
 | Chapter VII | Bouquets of Unfulfilled Wishes | 3 h 48 min | 3 h 41 min - 4 h 04 min | 8 | high |
 | Chapter EX-2 | To None May God Pray | 1 h 56 min | 1 h 53 min - 1 h 59 min | 9 | high |
@@ -24,13 +24,13 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 | Chapter EX-3 | Yet the Stars Still Sparkle | 3 h 04 min | 2 h 24 min - 4 h 12 min | 7 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->25 h 29 min<!--/f-->**
+**Total: <!--f:total-->25 h 30 min<!--/f-->**
 
 ## Pacing
 
 The largest arc in the report,
 if only just ahead of the arc that follows it:
-<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 29 min<!--/f-->,
+<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 30 min<!--/f-->,
 which is more than the whole of Part 1's first six arcs put together.
 <!--f:n_above_3h-->six<!--/f--> of its entries run past three hours,
 and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is its longest entry
@@ -52,8 +52,8 @@ A hundred years back into Langqiu,
 and the first chapter of the arc.
 <!--gen:stats act="Chapter V"-->
 
-- **Estimated length:** 3 h 17 min
-- **Sampled range:** 2 h 44 min to 3 h 36 min for the middle half (full spread 1 h 47 min to 4 h 26 min) across 13 playthrough uploads (39 further candidates screened out)
+- **Estimated length:** 3 h 18 min
+- **Sampled range:** 2 h 53 min to 3 h 39 min for the middle half (full spread 2 h 00 min to 4 h 26 min) across 12 playthrough uploads (40 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 7.8
 - **Stability:** median 0% against an earlier, independent query set
@@ -65,7 +65,6 @@ and the first chapter of the arc.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 47 min | starting honkai story the first and last war | Alejandro Sciarretta | ~1 | n/a | <https://www.youtube.com/watch?v=jLJSwdXmzuI> |
 | 2 h 00 min | Honkai Impact 3rd Chapter 5 The First and Last War \| Sparkle and Vita | Dante Hades 闇 | ~237 | n/a | <https://www.youtube.com/watch?v=n_qK9P4wTPY> |
 | 2 h 42 min | (CN Dub - EN Sub) The First and Last War \| Honkai Impact 3rd | AndhraZX | ~231 | n/a | <https://www.youtube.com/watch?v=MjXH3S5ZAtA> |
 | 2 h 46 min | Honkai Impact 3rd 7.8 Story The First and Last War | 千羽鳥居 Senbatorii | ~106 | n/a | <https://www.youtube.com/watch?v=KwxgCukxXyI> |

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Future We Embrace
 
-**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 25 h 12 min**
+**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 24 h 58 min**
 <!--/gen-->
 
 The most recent stretch of the story, and still being added to.
@@ -15,18 +15,18 @@ and Dreamseeker and Vita head back to Difeng to stop the Great Wipe.
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter X | Reunited Under the Light of Faith | 4 h 00 min | 3 h 46 min - 4 h 46 min | 8 | low |
-| Chapter XI | A Mass for Atheists | 4 h 24 min | 3 h 42 min - 4 h 48 min | 14 | medium |
+| Chapter XI | A Mass for Atheists | 4 h 12 min | 3 h 38 min - 4 h 43 min | 12 | medium |
 | Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 5 | low |
-| Chapter XII | With You, Whom I Never Knew | 4 h 19 min | 3 h 37 min - 4 h 29 min | 17 | high |
+| Chapter XII | With You, Whom I Never Knew | 4 h 17 min | 3 h 34 min - 4 h 24 min | 15 | high |
 | Chapter XIII | A Rose in a Curtsy | 4 h 00 min | 3 h 43 min - 4 h 15 min | 14 | high |
 | Chapter XIV | The Future We Embrace | 6 h 02 min | 5 h 16 min - 6 h 44 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->25 h 12 min<!--/f-->**
+**Total: <!--f:total-->24 h 58 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->25 h 12 min<!--/f-->,
+<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->24 h 58 min<!--/f-->,
 the newest arc in the report and the last one it covers,
 and all but level with *Dawn after the Remaining Old Wish* as the largest.
 Four of its entries sit within half an hour of each other
@@ -76,14 +76,14 @@ Reunited under the light of faith, and the arc's opener.
 ### Chapter XI - [A Mass for Atheists](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_XI)
 <!--/gen-->
 
-A mass for atheists, and the second largest entry in the arc.
+A mass for atheists, and one of the arc's longer entries.
 <!--gen:stats act="Chapter XI"-->
 
-- **Estimated length:** 4 h 24 min
-- **Sampled range:** 3 h 42 min to 4 h 48 min for the middle half (full spread 3 h 28 min to 7 h 03 min) across 14 playthrough uploads (34 further candidates screened out)
+- **Estimated length:** 4 h 12 min
+- **Sampled range:** 3 h 38 min to 4 h 43 min for the middle half (full spread 3 h 28 min to 7 h 03 min) across 12 playthrough uploads (36 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 8.6
-- **Stability:** median +5% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XI"-->
@@ -101,10 +101,8 @@ A mass for atheists, and the second largest entry in the arc.
 | 4 h 23 min | Honkai Impact 3rd Story Mode Gameplay \| Part 2 Chapter 11 Mass Of The Atheists | HowJuDuDat Gaming | ~531 | n/a | <https://www.youtube.com/watch?v=qQ08YEO5DA8> |
 | 4 h 25 min | Youyun \| Honkai Impact 3rd Part 2 Story Quest Chapter 11 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~3,524 | n/a | <https://www.youtube.com/watch?v=qhlOl3uhcMg> |
 | 4 h 35 min | Honkai Impact 3rd: Part 2, Chapter XI: A Mass For Atheists | S'astra Mahan (CS19) | ~1 | n/a | <https://www.youtube.com/watch?v=Sq-0KcoZsDQ> |
-| 4 h 43 min | Finishing Part 2 Chapter 11: A Mass for Atheists | Solo Lightning | ~7 | n/a | <https://www.youtube.com/watch?v=WmRAOWmtY-s> |
 | 4 h 46 min | (11) Honkai Impact 3rd \| Part 2 \| Main Story - Chapter  11 - A Mass for Atheists | DodocoNotes | ~16 | n/a | <https://www.youtube.com/watch?v=Nrg6VYQQDHE> |
 | 4 h 54 min | Honkai Impact 3rd - 8.6 Story Chapter 11 - A Mass for Atheists. | Kurib | 50 | 2026-01-26 | <https://www.youtube.com/watch?v=3YybUi5f2Dg> |
-| 5 h 46 min | Honkai Impact 3rd Part 2 Ch 11 A Mass for Atheists What Does This Mean? | Glythic Mirror | ~25 | n/a | <https://www.youtube.com/watch?v=uXlbz_jXyFA> |
 | 7 h 03 min | 【Honkai Impact 3rd V8.6】 Part 2 Chapter 11 - A Mass for Atheists! | Yozakura Kawa Ch. 夜桜川 | ~54 | n/a | <https://www.youtube.com/watch?v=eaLPO-nyVmc> |
 
 </details>
@@ -147,11 +145,11 @@ and the only entry here under three hours.
 With you, whom I never knew.
 <!--gen:stats act="Chapter XII"-->
 
-- **Estimated length:** 4 h 19 min
-- **Sampled range:** 3 h 37 min to 4 h 29 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 17 playthrough uploads (47 further candidates screened out)
+- **Estimated length:** 4 h 17 min
+- **Sampled range:** 3 h 34 min to 4 h 24 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 15 playthrough uploads (49 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.8
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -1% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XII"-->
@@ -173,9 +171,7 @@ With you, whom I never knew.
 | 4 h 20 min | Honkai Impact 3rd Part 2 Story Quest Chapter 12 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~3,191 | n/a | <https://www.youtube.com/watch?v=AKHxPah4Y9c> |
 | 4 h 24 min | HONKAI IMPACT 3 MAIN STORY - WITH YOU WHOM I NEVER KNEW | UbanAja | ~6 | n/a | <https://www.youtube.com/watch?v=Ve9za0J4Bmo> |
 | 4 h 28 min | Honkai Impact 3rd Part 2 - Chapter 12 With You, Whom I Never Knew | Vergen | ~5 | n/a | <https://www.youtube.com/watch?v=HhAwHva5Uck> |
-| 4 h 31 min | Finishing Part 2 Chapter 12: With You, Whom I Never Knew | Solo Lightning | 1 | 2026-06-24 | <https://www.youtube.com/watch?v=-gIl5FU45do> |
 | 4 h 46 min | (13)Honkai Impact 3rd \| Part 2 \| Main Story - Chapter  12 \| With You, Whom I Never Knew | DodocoNotes | ~12 | n/a | <https://www.youtube.com/watch?v=8pjtZy669qo> |
-| 5 h 58 min | Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew Where Could This Be Going? | Glythic Mirror | ~23 | n/a | <https://www.youtube.com/watch?v=EEg3vVpnl1A> |
 | 6 h 35 min | Honkai Impact - Part 2 Chapter XII (12) - With You, Whom I Never Knew (Complete) | Aira Delasse | ~80 | n/a | <https://www.youtube.com/watch?v=PN7c8Tsb2rY> |
 
 </details>

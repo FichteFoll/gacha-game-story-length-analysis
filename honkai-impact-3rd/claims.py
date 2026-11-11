@@ -148,11 +148,9 @@ CLAIMS = [
                    "The arc's closing interlude, "
                    "and the longer of its two EX chapters"),
 
-    rank_at_most("aric", "Chapter XI", 2,
-                 "A mass for atheists, and the second largest entry in the arc",
+    rank_at_most("aric", "Chapter XI", 3,
+                 "A mass for atheists, and one of the arc's longer entries",
                  scope="chapter"),
-    is_extreme("aric", "Chapter XIV", "max",
-               "A mass for atheists, and the second largest entry in the arc"),
     median_between("aric", "Chapter X", 225, 275,
                    "Four of its entries sit within half an hour of each other"),
     median_between("aric", "Chapter XI", 225, 275,

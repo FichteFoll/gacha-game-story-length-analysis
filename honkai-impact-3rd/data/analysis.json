@@ -4440,7 +4440,7 @@
     "url": "https://www.youtube.com/watch?v=FejtiU2-IO4",
     "views": "1160",
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ]
    },
    {
@@ -22567,7 +22567,9 @@
     "uploader": "CiphDra",
     "url": "https://www.youtube.com/watch?v=-Z1XFB7HVKU",
     "views": 17,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20230506"
    },
    {
@@ -22691,15 +22693,6 @@
     "rejected": []
    },
    {
-    "seconds": 3521,
-    "title": "Finishing Main Story Chapter 36: Hailing from Nagazora Part 3 then I'm getting Railed by some Stars",
-    "uploader": "CiphDra",
-    "url": "https://www.youtube.com/watch?v=-Z1XFB7HVKU",
-    "views": 17,
-    "rejected": [],
-    "upload_date": "20230506"
-   },
-   {
     "seconds": 3818,
     "title": "A Mysterious Group in Nagazora: Honkai Impact Chapter 36 Part 1",
     "uploader": "Frozen Inferno",
@@ -22717,8 +22710,8 @@
    }
   ],
   "stats": {
-   "n": 4,
-   "median": 61,
+   "n": 3,
+   "median": 64,
    "low": 44,
    "high": 76,
    "q1": null,
@@ -22726,7 +22719,7 @@
    "trimmed_mean": 61,
    "measured": 0,
    "parts": {},
-   "drift": -0.103
+   "drift": -0.059
   }
  },
  {
@@ -25387,7 +25380,7 @@
     "url": "https://www.youtube.com/watch?v=9l7B3B1O8Y8",
     "views": "768",
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -29362,7 +29355,9 @@
     "uploader": "Alejandro Sciarretta",
     "url": "https://www.youtube.com/watch?v=jLJSwdXmzuI",
     "views": "1",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 9978,
@@ -29823,20 +29818,12 @@
     "views": "154",
     "rejected": [
      "multi-act",
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    }
   ],
   "kept": [
-   {
-    "seconds": 6407,
-    "title": "starting honkai story the first and last war",
-    "uploader": "Alejandro Sciarretta",
-    "url": "https://www.youtube.com/watch?v=jLJSwdXmzuI",
-    "views": "1",
-    "rejected": []
-   },
    {
     "seconds": 7187,
     "title": "Honkai Impact 3rd Chapter 5 The First and Last War | Sparkle and Vita",
@@ -29936,16 +29923,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 197,
-   "low": 107,
+   "n": 12,
+   "median": 198,
+   "low": 120,
    "high": 266,
-   "q1": 164,
-   "q3": 216,
-   "trimmed_mean": 192,
+   "q1": 173,
+   "q3": 219,
+   "trimmed_mean": 199,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.0
   }
  },
  {
@@ -32669,7 +32656,7 @@
     "url": "https://www.youtube.com/watch?v=ac1nMEv5hdA",
     "views": "245",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -32838,7 +32825,7 @@
     "url": "https://www.youtube.com/watch?v=_aObauymcnE",
     "views": "134",
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ]
    },
    {
@@ -32957,7 +32944,7 @@
     "url": "https://www.youtube.com/watch?v=AxDTv-8I0Rk",
     "views": "3",
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -33097,7 +33084,7 @@
     "url": "https://www.youtube.com/watch?v=YIm0shHKnu4",
     "views": "9",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -33149,7 +33136,7 @@
     "url": "https://www.youtube.com/watch?v=-ErBTduPNFI",
     "views": 41,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260529"
    },
@@ -33160,7 +33147,7 @@
     "url": "https://www.youtube.com/watch?v=t7yEBIvRp8c",
     "views": "128",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -33189,7 +33176,9 @@
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=WmRAOWmtY-s",
     "views": "7",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 14267,
@@ -33454,7 +33443,9 @@
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=uXlbz_jXyFA",
     "views": "25",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 55,
@@ -33628,14 +33619,6 @@
     "rejected": []
    },
    {
-    "seconds": 16986,
-    "title": "Finishing Part 2 Chapter 11: A Mass for Atheists",
-    "uploader": "Solo Lightning",
-    "url": "https://www.youtube.com/watch?v=WmRAOWmtY-s",
-    "views": "7",
-    "rejected": []
-   },
-   {
     "seconds": 17156,
     "title": "(11) Honkai Impact 3rd | Part 2 | Main Story - Chapter  11 - A Mass for Atheists",
     "uploader": "DodocoNotes",
@@ -33653,14 +33636,6 @@
     "upload_date": "20260126"
    },
    {
-    "seconds": 20746,
-    "title": "Honkai Impact 3rd Part 2 Ch 11 A Mass for Atheists What Does This Mean?",
-    "uploader": "Glythic Mirror",
-    "url": "https://www.youtube.com/watch?v=uXlbz_jXyFA",
-    "views": "25",
-    "rejected": []
-   },
-   {
     "seconds": 25400,
     "title": "\u3010Honkai Impact 3rd V8.6\u3011 Part 2 Chapter 11 - A Mass for Atheists!",
     "uploader": "Yozakura Kawa Ch. \u591c\u685c\u5ddd",
@@ -33670,16 +33645,16 @@
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 264,
+   "n": 12,
+   "median": 252,
    "low": 208,
    "high": 423,
-   "q1": 222,
-   "q3": 288,
-   "trimmed_mean": 262,
+   "q1": 218,
+   "q3": 283,
+   "trimmed_mean": 251,
    "measured": 0,
    "parts": {},
-   "drift": 0.048
+   "drift": 0.0
   }
  },
  {
@@ -33850,7 +33825,7 @@
     "url": "https://www.youtube.com/watch?v=pLjjyu3u_Fo",
     "views": "35",
     "rejected": [
-     "long-outlier"
+     "fragment"
     ]
    },
    {
@@ -34135,7 +34110,7 @@
     "url": "https://www.youtube.com/watch?v=CgcUarMJdJo",
     "views": "1",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -34144,7 +34119,9 @@
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=EEg3vVpnl1A",
     "views": "23",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 12839,
@@ -34169,7 +34146,9 @@
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=-gIl5FU45do",
     "views": 1,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260624"
    },
    {
@@ -34195,7 +34174,7 @@
     "url": "https://www.youtube.com/watch?v=gSo4nbW0AM8",
     "views": "33",
     "rejected": [
-     "same-uploader"
+     "fragment"
     ]
    },
    {
@@ -34853,28 +34832,11 @@
     "rejected": []
    },
    {
-    "seconds": 16258,
-    "title": "Finishing Part 2 Chapter 12: With You, Whom I Never Knew",
-    "uploader": "Solo Lightning",
-    "url": "https://www.youtube.com/watch?v=-gIl5FU45do",
-    "views": 1,
-    "rejected": [],
-    "upload_date": "20260624"
-   },
-   {
     "seconds": 17147,
     "title": "(13)Honkai Impact 3rd | Part 2 | Main Story - Chapter  12 | With You, Whom I Never Knew",
     "uploader": "DodocoNotes",
     "url": "https://www.youtube.com/watch?v=8pjtZy669qo",
     "views": "12",
-    "rejected": []
-   },
-   {
-    "seconds": 21451,
-    "title": "Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew Where Could This Be Going?",
-    "uploader": "Glythic Mirror",
-    "url": "https://www.youtube.com/watch?v=EEg3vVpnl1A",
-    "views": "23",
     "rejected": []
    },
    {
@@ -34887,16 +34849,16 @@
    }
   ],
   "stats": {
-   "n": 17,
-   "median": 259,
+   "n": 15,
+   "median": 257,
    "low": 199,
    "high": 395,
-   "q1": 217,
-   "q3": 269,
-   "trimmed_mean": 254,
+   "q1": 214,
+   "q3": 264,
+   "trimmed_mean": 245,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.008
   }
  },
  {
@@ -35035,7 +34997,7 @@
     "url": "https://www.youtube.com/watch?v=ZHseDi8Cjtk",
     "views": "1",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {

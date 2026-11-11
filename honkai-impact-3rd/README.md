@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 40 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->572<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->149 h 30 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->566<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -24,12 +24,12 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Thus Spoke Apocalypse | Part 1 | 5.1 - 5.4 | 4 | 6 h 33 min | [10-thus-spoke-apocalypse.md](10-thus-spoke-apocalypse.md) |
 | To the Flawless | Part 1 | 5.7 - 5.9 | 3 | 6 h 04 min | [11-to-the-flawless.md](11-to-the-flawless.md) |
 | The Day of Transcending Finality | Part 1 | 6.0 - 6.4 | 5 | 10 h 31 min | [12-the-day-of-transcending-finality.md](12-the-day-of-transcending-finality.md) |
-| At the Fingertip of the Sea | Part 1.5 | 6.5 - 6.8 | 4 | 9 h 46 min | [13-at-the-fingertip-of-the-sea.md](13-at-the-fingertip-of-the-sea.md) |
+| At the Fingertip of the Sea | Part 1.5 | 6.5 - 6.8 | 4 | 9 h 49 min | [13-at-the-fingertip-of-the-sea.md](13-at-the-fingertip-of-the-sea.md) |
 | Beyond the Stars | Part 1.5 | 6.9 - 7.2 | 4 | 10 h 13 min | [14-beyond-the-stars.md](14-beyond-the-stars.md) |
 | Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 19 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
 | A Shore Under Watch | Part 2 | 7.7 | 1 | 3 h 10 min | [16-a-shore-under-watch.md](16-a-shore-under-watch.md) |
-| Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 29 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
-| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 25 h 12 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
+| Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 30 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
+| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 24 h 58 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -40,8 +40,8 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 02 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
-| longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 24 min |
-| longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 19 min |
+| longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 17 min |
+| longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 12 min |
 | shortest | Part 1, Chapter VII: Lift the Sword of Rebellion | 21 min |
 | shortest | Part 1, Chapter XIV: Dispel the Darkness | 27 min |
 | shortest | Part 1, Chapter I: Dusk, Girls, Battleship | 28 min |
@@ -93,7 +93,9 @@ Where an uploader has more than one video under one title for a chapter,
 the set is read as a split.
 One channel instead gives each instalment a subtitle of its own,
 which no wording catches,
-so its instalments of the newest chapter are screened out by name.
+so its instalments are screened out by the title format it publishes them under.
+Others count their instalments in words ("Starting", "Finishing")
+or as a "(Playthrough Part 1)", and those are screened out as well.
 Another numbers only its later instalments,
 putting the instalment before the storyline's part
 ("Part 2 (Part 2 Chapter 14)"),
