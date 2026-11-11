@@ -7668,7 +7668,9 @@
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=20lp1A47uAA",
     "views": 36,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260621"
    },
    {
@@ -8113,15 +8115,6 @@
   ],
   "kept": [
    {
-    "seconds": 10445,
-    "title": "ZZZ - Main Story: S3 Chapter 1: A Sleepwalker's Confession - 4. Clear the Mist [FIN]",
-    "uploader": "Aira Delasse",
-    "url": "https://www.youtube.com/watch?v=20lp1A47uAA",
-    "views": 36,
-    "rejected": [],
-    "upload_date": "20260621"
-   },
-   {
     "seconds": 14203,
     "title": "Zenless Zone Zero Season 3 Chapter 1 : A Sleepwalker's Confession (1/2)",
     "uploader": "IrfanzPlayz",
@@ -8285,16 +8278,16 @@
    }
   ],
   "stats": {
-   "n": 19,
-   "median": 276,
-   "low": 174,
+   "n": 18,
+   "median": 277,
+   "low": 237,
    "high": 350,
    "q1": 261,
-   "q3": 306,
-   "trimmed_mean": 279,
+   "q3": 307,
+   "trimmed_mean": 281,
    "measured": 0,
    "parts": {},
-   "drift": 0.015
+   "drift": 0.018
   }
  },
  {

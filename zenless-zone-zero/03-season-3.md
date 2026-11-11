@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 3
 
-**Region:** Roscaelifer | **Game versions:** 3.0 - 3.3 | **Entries:** 4 | **Estimated chapter length: 15 h 53 min**
+**Region:** Roscaelifer | **Game versions:** 3.0 - 3.3 | **Entries:** 4 | **Estimated chapter length: 15 h 54 min**
 <!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
@@ -14,19 +14,19 @@ that nobody is quite awake to hear.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 1 | A Sleepwalker's Confession | 4 h 36 min | 4 h 21 min - 5 h 06 min | 19 | high |
+| Chapter 1 | A Sleepwalker's Confession | 4 h 37 min | 4 h 21 min - 5 h 07 min | 18 | high |
 | Chapter 2 | The Long Goodbye | 4 h 29 min | 4 h 13 min - 4 h 41 min | 28 | high |
 | Chapter 3 | Their Secret Histories | 3 h 16 min | 3 h 09 min - 3 h 32 min | 22 | high |
 | Chapter 4 | Journey to the Sky | 3 h 32 min | 3 h 26 min - 3 h 40 min | 14 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 53 min<!--/f-->**
+**Total: <!--f:total-->15 h 54 min<!--/f-->**
 
 ## Pacing
 
 Still being released: <!--f:n_entries-->four<!--/f--> chapters so far,
-<!--f:total-->15 h 53 min<!--/f--> between them.
-The first two, at <!--f:len_Chapter_1-->4 h 36 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->,
+<!--f:total-->15 h 54 min<!--/f--> between them.
+The first two, at <!--f:len_Chapter_1-->4 h 37 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->,
 were written at the Season 2 scale rather than the Season 1 one.
 The two since are shorter.
 *Their Secret Histories* is the shortest of the four at <!--f:len_Chapter_3-->3 h 16 min<!--/f-->,
@@ -49,8 +49,8 @@ where the trouble starts before the luggage is unpacked.
 <!--gen:stats act="Chapter 1"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 4 h 36 min
-- **Sampled range:** 4 h 21 min to 5 h 06 min for the middle half (full spread 2 h 54 min to 5 h 50 min) across 19 playthrough uploads (34 further candidates screened out)
+- **Estimated length:** 4 h 37 min
+- **Sampled range:** 4 h 21 min to 5 h 07 min for the middle half (full spread 3 h 57 min to 5 h 50 min) across 18 playthrough uploads (35 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.0
 - **Stability:** median +2% against an earlier, independent query set
@@ -63,7 +63,6 @@ One of the three longest chapters in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 54 min | ZZZ - Main Story: S3 Chapter 1: A Sleepwalker's Confession - 4. Clear the Mist [FIN] | Aira Delasse | 36 | 2026-06-21 | <https://www.youtube.com/watch?v=20lp1A47uAA> |
 | 3 h 57 min | Zenless Zone Zero Season 3 Chapter 1 : A Sleepwalker's Confession (1/2) | IrfanzPlayz | 19 | 2026-06-19 | <https://www.youtube.com/watch?v=MOcofQ8jPV0> |
 | 4 h 09 min | Zenless Zone Zero - A Sleepwalker's Confession - 3.0 Main Quest \|\| Story Cut 4K \|\| | RÆIN | 8 | 2026-06-20 | <https://www.youtube.com/watch?v=4ANXevA13Pc> |
 | 4 h 12 min | A Sleepwalker's Confession - Season 3: Chapter 1 (Full Main Story) \| Zenless Zone Zero 3.0 | Sir Patty | 36 | 2026-06-18 | <https://www.youtube.com/watch?v=sF9wrB9-JB0> |
