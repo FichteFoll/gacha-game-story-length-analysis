@@ -10,6 +10,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/act_keys.json       optional {chapter_id|act_label: [regex]},
                                      what a title must carry to be about this act
                                      rather than the one it shares its name with
+       <workdir>/act_aliases.json    optional {chapter_id|act_label: [regex]},
+                                     other names a title may give the act by,
+                                     such as the branding it shipped under
        <workdir>/versions.json       optional, act title -> release version
        <workdir>/version_index.json  optional, version -> {number, date};
                                      both extend the chapter keys with the
@@ -431,6 +434,26 @@ def act_key_test(workdir):
     return is_this_act
 
 
+def act_alias_test(workdir):
+    """`(act, title) -> the title names this act by another name`.
+
+    Some acts are uploaded under their branding rather than their title: a
+    collaboration quest is "Cyberpunk Edgerunners Collab Story Quest" more
+    often than "At Dream's Edge", and where its version shipped a second entry
+    the patch number cannot stand in for the name either. act_aliases.json
+    gives such an act the other names it goes by, as regexes; a title carrying
+    one counts as naming the act, and every other screening rule still applies.
+    """
+    aliases = {k: re.compile("|".join(v), re.I)
+               for k, v in load_json(workdir, "act_aliases.json").items()}
+
+    def is_named(act, title):
+        alias = aliases.get(f"{act['chapter_id']}|{act['act_label']}")
+        return bool(alias and alias.search(title))
+
+    return is_named
+
+
 def version_keys(workdir, acts):
     """Per chapter, the version names and patch numbers its acts shipped in.
 
@@ -661,8 +684,8 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
-                   compilation, pin, partial, enriched, parts, floor=0):
+def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, alias,
+                   reject, compilation, pin, partial, enriched, parts, floor=0):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -684,6 +707,7 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
         if not act_keys(act, title) \
                 or (pinned and number is not None and number not in pinned) \
                 or not (matches_act_title(title, act["act_title"])
+                        or alias(act, title)
                         or matches_act_number(title, act, chapter_keys)
                         or version_pin(act, title)):
             reasons.append("act-mismatch")
@@ -1004,6 +1028,7 @@ def main(argv):
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     act_keys = act_key_test(workdir)
+    alias = act_alias_test(workdir)
     reject = reject_re(workdir)
     compilation = compilation_test(workdir, acts)
     pin = pin_re(acts)
@@ -1016,8 +1041,8 @@ def main(argv):
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
         rows = candidates_for(act, workdir, chapter_keys, act_keys, version_pin,
-                              reject, compilation, pin, partial, enriched, parts,
-                              floor)
+                              alias, reject, compilation, pin, partial, enriched,
+                              parts, floor)
         collapse_reuploads(rows)
         mark_splits(rows)
         readmit_partials(rows)

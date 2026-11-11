@@ -44,6 +44,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/acts.tsv            the questline structure (step 1)
 <report>/data/chapter_keys.json   words that identify each chapter in a title
 <report>/data/act_keys.json       marks that tell two same-named acts apart
+<report>/data/act_aliases.json    other names an act is uploaded under, if any
 <report>/data/query_templates.txt the YouTube searches to run per act
 <report>/data/not_playthrough.txt phrasings for footage that is not the questline
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
@@ -398,6 +399,11 @@ Discard, by title:
   the act's title words are all in it: an uploader who repeats one act's name
   across a whole chapter ("Chapter 1 Process 4 - The Broken Lands")
   is evidence for the number, not for the name.
+  An act uploaded under its branding rather than its title
+  ("Cyberpunk Edgerunners Collab Story Quest" for At Dream's Edge),
+  in a version that shipped a second entry so that the patch cannot pin it,
+  gets those names as regexes in `<workdir>/act_aliases.json`,
+  keyed `"<chapter_id>|<act_label>"`; a title carrying one names the act.
 - **the wrong one of two same-named acts**: where the title match cannot tell
   two acts apart, give the pair their distinguishing marks in
   `<workdir>/act_keys.json`, keyed `"<chapter_id>|<act_label>"`:

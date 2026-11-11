@@ -15325,7 +15325,7 @@
     "url": "https://www.youtube.com/watch?v=RYGe9F-JniI",
     "views": 9,
     "rejected": [
-     "act-mismatch"
+     "fragment"
     ],
     "upload_date": "20260620"
    },
@@ -15356,7 +15356,7 @@
     "url": "https://www.youtube.com/watch?v=undnVTu_HH8",
     "views": 8,
     "rejected": [
-     "act-mismatch"
+     "fragment"
     ],
     "upload_date": "20260621"
    },
@@ -15378,9 +15378,7 @@
     "uploader": "Shirrako",
     "url": "https://www.youtube.com/watch?v=_HYZGFWMkSs",
     "views": 91197,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260610"
    },
    {
@@ -15479,9 +15477,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=3jiPPjeKUhk",
     "views": 61818,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260608"
    },
    {
@@ -15510,9 +15506,7 @@
     "uploader": "szymi28pl",
     "url": "https://www.youtube.com/watch?v=zGNED754CVQ",
     "views": 261,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260622"
    },
    {
@@ -15614,6 +15608,15 @@
     "upload_date": "20260618"
    },
    {
+    "seconds": 10161,
+    "title": "CYBERPUNK EDGERUNNERS x WUTHERING WAVES Gameplay Walkthrough FULL GAME (4K 60FPS) No Commentary",
+    "uploader": "Shirrako",
+    "url": "https://www.youtube.com/watch?v=_HYZGFWMkSs",
+    "views": 91197,
+    "rejected": [],
+    "upload_date": "20260610"
+   },
+   {
     "seconds": 10204,
     "title": "At Dream\u2019s Edge Full Quest (Wuthering Waves) ",
     "uploader": "\ud835\udc13\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc27\ud835\udc16\ud835\udc28\ud835\udc25\ud835\udc1f",
@@ -15656,6 +15659,24 @@
     "views": 26,
     "rejected": [],
     "upload_date": "20260608"
+   },
+   {
+    "seconds": 10486,
+    "title": "Wuthering Waves 3.4 - Cyberpunk Edgerunners Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=3jiPPjeKUhk",
+    "views": 61818,
+    "rejected": [],
+    "upload_date": "20260608"
+   },
+   {
+    "seconds": 10559,
+    "title": "Wuthering Waves x Cyberpunk Edgerunners 3.4 Collab Story Quest - Female Rover (Full Playthrough)",
+    "uploader": "szymi28pl",
+    "url": "https://www.youtube.com/watch?v=zGNED754CVQ",
+    "views": 261,
+    "rejected": [],
+    "upload_date": "20260622"
    },
    {
     "seconds": 10687,
@@ -15713,13 +15734,13 @@
    }
   ],
   "stats": {
-   "n": 17,
+   "n": 20,
    "median": 171,
    "low": 132,
    "high": 204,
-   "q1": 161,
-   "q3": 183,
-   "trimmed_mean": 173,
+   "q1": 164,
+   "q3": 180,
+   "trimmed_mean": 172,
    "measured": 1,
    "parts": {},
    "drift": 0.0
