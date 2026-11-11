@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 25 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->573<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->152 h 33 min<!--/f-->** (<!--f:n_report_entries-->67<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->590<!--/f--> accepted uploads out of <!--f:n_candidates-->3060<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -29,7 +29,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 19 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
 | A Shore Under Watch | Part 2 | 7.7 | 1 | 3 h 10 min | [16-a-shore-under-watch.md](16-a-shore-under-watch.md) |
 | Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 26 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
-| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 24 h 50 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
+| The Sea Sings With the Voice of Fire | Part 2 | 8.5 - 9.1 | 7 | 27 h 58 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -72,7 +72,7 @@ by part plus chapter number plus title,
 and by the patch branding recent uploads carry.
 Because that harvest came back thin almost everywhere,
 every chapter was then searched again
-with eight further phrasings copied from the title formats
+with further phrasings copied from the title formats
 that the channels publishing whole chapters actually use.
 - **Fragments:** a chapter of this game divides into in-game **acts**,
 and most of its uploaders publish one video per act,
@@ -151,7 +151,7 @@ listed in the [repository README](../README.md):
 *Beyond the Stars*, are the weakest stretch of this report.
 Their chapters run for hours, nearly every channel that recorded them
 published one video per in-game act,
-and what is left to measure a whole chapter with is one or two uploads.
+and what is left to measure a whole chapter with is a handful of uploads.
 Every entry in them is rated *low*, and the sample size is printed
 next to each estimate; read them as orders of magnitude.
 - The second pass that fetches exact view counts, upload dates and
@@ -184,12 +184,13 @@ as a numbered chapter, and the wiki gives it a heading of its own
 on the Story page while the navigation box files it under
 *Beyond the Stars*. It is measured here as that arc's interlude.
 - The wiki names the arc still being published after its newest chapter:
-the Story page headed it *A Rose in a Curtsy* while Chapter XIII was the latest
-and *The Future We Embrace* once Chapter XIV shipped.
+the Story page headed it *A Rose in a Curtsy* while Chapter XIII was the latest,
+*The Future We Embrace* once Chapter XIV shipped
+and *The Sea Sings With the Voice of Fire* once the afterstory, Chapter XV, did.
 This report follows the Story page, so that arc's name may change again
 with the next chapter; its file keeps the name it was first published under.
 - *Banquet Dance of Shade* sits in the Story page's chapter list
 with no title of its own and is a side story rather than a stage;
 it is left out.
 
-Data collected <!--f:date-->2026-09-26<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.

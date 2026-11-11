@@ -28,8 +28,8 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 
 ## Pacing
 
-The largest arc in the report,
-if only just ahead of the arc that follows it:
+The second largest arc in the report,
+behind only the arc that follows it:
 <!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 26 min<!--/f-->,
 which is more than the whole of Part 1's first six arcs put together.
 <!--f:n_above_3h-->five<!--/f--> of its entries run past three hours,
@@ -205,7 +205,7 @@ The long road, and the sky at the end of it.
 | 4 h 08 min | Honkai Impact 3rd Part 2 Chapter 8 - Until The Long Road Reaches The Sky (Full) | Kazuma Akimoto (Master Aki) | ~23 | n/a | <https://www.youtube.com/watch?v=qnuvCcABtgU> |
 | 4 h 09 min | Honkai Impact 3rd Story part 2 chapter 8 : “Till the Long Road Reaches the Sky” | Arikachi Ch. ありかち_かとじ | ~59 | n/a | <https://www.youtube.com/watch?v=TVe4I7j1u6g> |
 | 4 h 10 min | Honkai Impact 3rd Part 2 - Chapter 8 Till the Long Road Reaches the Sky | Jirangu | ~219 | n/a | <https://www.youtube.com/watch?v=V-IvWwNJEpU> |
-| 4 h 10 min | Helia \| \| Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~6,132 | n/a | <https://www.youtube.com/watch?v=tAQ7_72k254> |
+| 4 h 10 min | Helia \| \| Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub) | DafDazDay | 6,326 | 2025-05-08 | <https://www.youtube.com/watch?v=tAQ7_72k254> |
 | 4 h 27 min | Honkai Impact 3rd \| Part 2 \| Main Story - Chapter 8 -Till the Long Road Reaches the Sky | DodocoNotes | 15 | 2025-05-20 | <https://www.youtube.com/watch?v=8Bf4ra0l3fw> |
 | 4 h 54 min | Honkai Impact 3rd Part 2 Chapter 8 - Till the Long Road Reaches the Sky | Vergen | ~39 | n/a | <https://www.youtube.com/watch?v=8KGUVFZI-WE> |
 | 4 h 59 min | Honkai Impact 3rd - Story - Chapter VIII: Till the Long Road Reaches the Sky | Kurib | ~42 | n/a | <https://www.youtube.com/watch?v=CdNbNb2B5NQ> |
