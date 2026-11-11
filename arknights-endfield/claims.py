@@ -33,8 +33,8 @@ CLAIMS = [
     largest_chapter(
         "ch2", "Chapter II is the larger half of the game"),
     total_ratio_between(
-        "ch2", ["ch1"], 1.5, 2.2,
-        "close to twice Chapter I over eight entries rather than five"),
+        "ch2", ["ch1"], 1.75, 2.3,
+        "about twice Chapter I over eight entries"),
     count_above(
         "ch2", 120, 3,
         "Three of those entries run past two hours "

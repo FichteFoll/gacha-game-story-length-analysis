@@ -5,3 +5,6 @@
 \bep(isode)?\.? ?\d+\b
 \b\d ?/ ?\d\b
 <quest part>
+!\bmain story quest:? [^|(]*\bpart \d+\b
+!\bmain story: +[^|]*\| part \d+ \|
+!^endfield - [^|]+ - chapter [ivx]+ - process [ivx]+ - 

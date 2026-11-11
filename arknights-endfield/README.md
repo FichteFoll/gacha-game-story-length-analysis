@@ -5,7 +5,7 @@ from the prologue on the surface of Talos-II
 to Si's Painting,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->27 h 03 min<!--/f-->** (<!--f:n_report_entries-->13<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->190<!--/f--> accepted uploads out of <!--f:n_candidates-->706<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->27 h 07 min<!--/f-->** (<!--f:n_report_entries-->13<!--/f--> entries counting the prologue, measured against <!--f:n_videos-->201<!--/f--> accepted uploads out of <!--f:n_candidates-->774<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->process<!--/f--> medians,
 so treat it as an order of magnitude
 rather than a number anyone actually clocked end to end.
@@ -16,7 +16,7 @@ rather than a number anyone actually clocked end to end.
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Chapter I | Valley IV: The Hub, Valley Pass, Aburrey Quarry, Originium Science Park, Origin Lodespring and Power Plateau | 1.0 | 5 | 8 h 28 min | [01-chapter-i.md](01-chapter-i.md) |
-| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, the North Wuling Exclusion Zone and Si's Painting | 1.0 - 1.6 | 8 | 18 h 35 min | [02-chapter-ii.md](02-chapter-ii.md) |
+| Chapter II | Wuling: Jingyu Valley, Qingbo Stockade, Wuling City, the North Wuling Exclusion Zone and Si's Painting | 1.0 - 1.6 | 8 | 18 h 39 min | [02-chapter-ii.md](02-chapter-ii.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->processes<!--/f-->
@@ -24,9 +24,9 @@ rather than a number anyone actually clocked end to end.
 <!--gen:extremes-->
 | | Process | Estimate |
 | --- | --- | --- |
-| longest | Chapter II, Process VII: Ruins in the Miasma | 4 h 34 min |
+| longest | Chapter II, Process VII: Ruins in the Miasma | 4 h 35 min |
 | longest | Chapter II, Process VIII: Sanctuary from the Rift | 3 h 14 min |
-| longest | Chapter II, Process III: The Long Feud | 3 h 02 min |
+| longest | Chapter II, Process III: The Long Feud | 3 h 04 min |
 | longest | Chapter I, Process I: The Broken Lands | 2 h 38 min |
 | longest | Chapter I, Process III: Path of Ascension | 2 h 37 min |
 | shortest | Chapter I, Prologue: Prologue | 28 min |
@@ -44,9 +44,7 @@ Specific to <!--f:game-->Arknights: Endfield<!--/f-->:
 - **Structure:** the chapters, the processes and the missions in each of them
 come from the
 [Mission/Main page](https://endfield.wiki.gg/wiki/Mission/Main)
-and the individual mission pages of the Endfield Talos Wiki,
-save for the newest process, which that page does not list yet
-(see the limits below).
+and the individual mission pages of the Endfield Talos Wiki.
 This is the one report here that does not read a Fandom wiki:
 `endfield.fandom.com` exists, but its questline pages are empty placeholders.
 - **Searches:** for every process, YouTube was searched four ways:
@@ -106,7 +104,7 @@ the level the game labels on screen
 ("Chapter II Process III: The Long Feud")
 and the level its uploaders title their videos after.
 A process is not a fixed size:
-they run from three missions to ten,
+the one with the most missions has several times as many as the one with the fewest,
 and the estimates run accordingly.
 - The two missions before Chapter I Process I
 are a prologue in the game's own words
@@ -132,19 +130,15 @@ Its uploads disagree accordingly,
 and its confidence rating says so.
 - Chapter II is still being released.
 *Sanctuary from the Rift* (1.6) is the newest process at the time of writing,
-and it shipped only days before collection,
-so its pool is the youngest in the report,
-made of first-week uploads,
+so its pool is the youngest in the report
 and its figures are the most likely to move on a re-harvest.
 It has no stability figure,
 because it was added to the report
 after the medians it would be compared against were taken.
-- The wiki's mission table does not list *Sanctuary from the Rift* yet.
-Its version page names the process only by its last mission,
-"Chapter II Process VIII: Paint with Fresh Ink",
-so the process title is the one the game shows and its uploads carry,
-all but one of its missions are named on the wiki's event and pass pages,
-and *Witness the Game Unfold* by uploads alone,
-in the order the uploaders' chapter markers give.
+- The wiki's mission table lists *Freedom of Expansion*,
+an open-ended "keep exploring" mission,
+at the end of whichever process is newest,
+and moves it along when the next one ships.
+It is not counted as a mission of any process here.
 
-Data collected <!--f:date-->2026-10-17<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.
