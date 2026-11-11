@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->125 h 58 min<!--/f-->** (<!--f:n_report_entries-->26<!--/f--> entries counting missions, measured against <!--f:n_videos-->338<!--/f--> accepted uploads out of <!--f:n_candidates-->731<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->130 h 30 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> entries counting missions, measured against <!--f:n_videos-->359<!--/f--> accepted uploads out of <!--f:n_candidates-->838<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -15,9 +15,9 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | Herta Space Station | Herta Space Station | 1.0 | 1 | 2 h 19 min | [00-herta-space-station.md](00-herta-space-station.md) |
 | Jarilo-VI | Jarilo-VI: Belobog and the Underworld | 1.0 | 2 | 6 h 32 min | [01-jarilo-vi.md](01-jarilo-vi.md) |
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 39 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
-| Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 23 h 19 min | [03-penacony.md](03-penacony.md) |
+| Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 23 h 21 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 32 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.6 | 7 | 34 h 37 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.7 | 8 | 39 h 07 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->
@@ -58,6 +58,17 @@ located this mission inside them.
 which in this game means both the numbered kind ("Part 3")
 and the kind titled after a single quest part of the mission,
 unless their runtime says they cover the mission after all.
+Two channels number their own sessions rather than the mission's parts
+(Agent Potango's running "Part 122", TheXGamer's "(Part 1).")
+and are screened out for good, whatever their runtime.
+- **Trailblaze Continuance:** uploads titled as one are screened out.
+It ships alongside a Trailblaze Mission in the same version,
+so an upload naming only the patch number cannot tell the two apart,
+and the Continuance runs about as long.
+- **A runtime floor** (`data/min_minutes.txt`) sits under the shortest mission.
+A new mission's first day brings dozens of single-scene clips
+that name it and say nothing else about themselves,
+and with no floor they outnumber the complete runs and become the median.
 
 The figures it screens and grades on:
 
@@ -96,19 +107,23 @@ so *In the Withering Wintry Night* in particular
 rests on a small pool of genuinely complete runs.
 - Planarcadia is the newest content sampled.
 Walkthrough channels covered it thoroughly,
-so the pools are not thin,
+so the pools of its earlier missions are not thin,
 but they have had the least time to settle,
 and the accepted uploads of its opening mission
-still disagree by a factor of two.
+still disagree widely.
 - *To Roll the Stars in Astropolis* (Version 4.5)
 and *Dance With the Beast Before Moonrise* (Version 4.6)
 leave Planarcadia for Astropolis,
 but the wiki files both as Planarcadia chapters
 and lists them under Planarcadia/Astropolis,
 so this report counts them with Planarcadia.
-*Dance With the Beast Before Moonrise* was only weeks old at collection,
-so its pool is the youngest in the report
-and its figures the most likely to move on a re-harvest.
+- *Now, Lay Laughter to All Stars* (Version 4.7)
+shipped on the day this report was collected.
+Every upload behind it went up within hours of release,
+by the channels fastest to post a complete run,
+so its pool is the youngest in the report,
+it rates *low* on sample size alone,
+and its figures are the most likely to move on a re-harvest.
 - *Memories are the Prelude to Dreams* is a Finality Mission:
 supplemental Penacony story released long after the world was finished.
 The Trial of Equilibrium missions are level-cap trials
@@ -124,4 +139,4 @@ They say how far a figure has moved since,
 not how much it depends on the queries,
 so an act unsettled before that date is no longer flagged by drift alone.
 
-Data collected <!--f:date-->2026-10-17<!--/f-->.
+Data collected <!--f:date-->2026-11-11<!--/f-->.

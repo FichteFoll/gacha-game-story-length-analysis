@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Penacony
 
-**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 23 h 19 min**
+**Region:** Penacony, the Land of Dreams | **Game versions:** 2.0 - 2.7 | **Entries:** 5 | **Estimated chapter length: 23 h 21 min**
 <!--/gen-->
 
 A hedonistic dream resort throws a Charmony Festival,
@@ -17,11 +17,11 @@ on the Watchmaker's legacy.
 | Mission 1 | The Sound and the Fury | 4 h 40 min | 4 h 04 min - 5 h 25 min | 10 | medium |
 | Mission 2 | Cat Among Pigeons | 5 h 39 min | 5 h 02 min - 6 h 06 min | 10 | high |
 | Mission 3 | In Our Time | 7 h 56 min | 7 h 24 min - 8 h 55 min | 9 | high |
-| Mission 4 | Farewell, Penacony | 2 h 41 min | 2 h 16 min - 2 h 52 min | 13 | medium |
+| Mission 4 | Farewell, Penacony | 2 h 43 min | 2 h 21 min - 2 h 53 min | 12 | high |
 | Mission 5 | A New Venture on the Eighth Dawn | 2 h 23 min | 2 h 16 min - 2 h 35 min | 13 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->23 h 19 min<!--/f-->**
+**Total: <!--f:total-->23 h 21 min<!--/f-->**
 
 ## Pacing
 
@@ -31,7 +31,7 @@ where before it only Jarilo-VI and the Luofu
 had one at all,
 and *<!--f:longest_title-->In Our Time<!--/f-->* alone takes <!--f:longest_len-->7 h 56 min<!--/f-->.
 The last two missions are the wind-down,
-at <!--f:len_Mission_4-->2 h 41 min<!--/f--> and <!--f:len_Mission_5-->2 h 23 min<!--/f-->.
+at <!--f:len_Mission_4-->2 h 43 min<!--/f--> and <!--f:len_Mission_5-->2 h 23 min<!--/f-->.
 
 ## Missions
 
@@ -164,13 +164,13 @@ the Family's accounts settled,
 and everyone heading for their next stop.
 <!--gen:stats act="Mission 4"-->
 
-- **Estimated length:** 2 h 41 min
-- **Sampled range:** 2 h 16 min to 2 h 52 min for the middle half (full spread 1 h 20 min to 3 h 49 min) across 13 playthrough uploads (7 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 43 min
+- **Sampled range:** 2 h 21 min to 2 h 53 min for the middle half (full spread 2 h 13 min to 3 h 49 min) across 12 playthrough uploads (8 further candidates screened out)
+- **Confidence:** high
 - **Level gate:** -
 - **Released in:** 2.3
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 2 of 13 uploads
+- **Stability:** median +1% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 2 of 12 uploads
 - **Quest parts (7):** Unconquered; All About Eve; Rivers Run Without Return; Life is But a Drifting Dream; Soldier's Pay; A Thousand Bells at Dawn; Stranger in a Strange Land
 <!--/gen-->
 
@@ -180,7 +180,6 @@ and everyone heading for their next stop.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 20 min | Honkai Star Rail - Penacony Chapter 3 (2.3) \| Full Story Walkthrough (No Commentary) | Elrinell Gaming | ~67 | n/a | <https://www.youtube.com/watch?v=xHtZL_AxPHA> |
 | 2 h 13 min | Honkai Star Rail 2.3 Penacony - New Trailblaze Story Quest Full Walkthrough | MrLulli | ~37 | n/a | <https://www.youtube.com/watch?v=uAwfpC86BZY> |
 | 2 h 15 min | Farewell Penacony FULL Story Quest | Rishi | 8 | 2024-06-20 | <https://www.youtube.com/watch?v=OubYARSt4Sc> |
 | 2 h 17 min | Farewell Penacony Full 2.3 Quest Story Trailblaze Mission Honkai Star Rail | ZaFrostPet | ~2,404 | n/a | <https://www.youtube.com/watch?v=ZI0NdRkIZxc> |

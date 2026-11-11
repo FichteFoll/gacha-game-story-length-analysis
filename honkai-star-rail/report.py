@@ -24,7 +24,7 @@ REPORT = dict(
     gate_label="Level",
     # What this game numbers its acts with, for the renderer's own headings.
     unit="Mission",
-    date="2026-10-17",
+    date="2026-11-11",
     # The baseline was refreshed after the screening changes of that date, so
     # the stability figure measures movement since then, not query sensitivity.
     baseline="the medians of 2026-10-17",
@@ -64,7 +64,7 @@ CHAPTERS = [
     dict(
         id="planarcadia", slug="05-planarcadia", wiki_page="Planarcadia",
         region="Planarcadia",
-        versions="4.0 - 4.6",
+        versions="4.0 - 4.7",
         title="Planarcadia",
     ),
 ]

@@ -4,7 +4,13 @@ The vocabulary these are written in, and the check that runs them,
 live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from assertions import (count_above, is_extreme, largest_chapter, median_between,
-                        none_above, rank_at_most, total_ratio_between)
+                        none_above, rank_at_most, sample_at_most,
+                        total_ratio_between)
+
+# The runtime floor in data/min_minutes.txt, which README.md says sits under
+# the shortest mission. Kept here rather than read from the file, so that a
+# raised floor fails the claim instead of silently moving with it.
+RUNTIME_FLOOR = 30
 
 CLAIMS = [
     total_ratio_between("herta", ["jarilo"], 0.2, 0.6,
@@ -55,4 +61,15 @@ CLAIMS = [
                    "the two Astropolis missions are the only ones under four hours"),
     median_between("planarcadia", "Mission 7", 0, 240,
                    "the two Astropolis missions are the only ones under four hours"),
+    median_between("planarcadia", "Mission 8", 240, 10_000,
+                   "The finale, *Now, Lay Laughter to All Stars*, is back above it"),
+    sample_at_most("planarcadia", "Mission 8", 7,
+                   "it rates *low* on sample size alone"),
+
+    is_extreme("luofu", "Mission 3", "min",
+               "A runtime floor (`data/min_minutes.txt`) "
+               "sits under the shortest mission", scope="global"),
+    median_between("luofu", "Mission 3", RUNTIME_FLOOR, 10_000,
+                   "A runtime floor (`data/min_minutes.txt`) "
+                   "sits under the shortest mission"),
 ]

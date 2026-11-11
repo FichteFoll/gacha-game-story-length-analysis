@@ -7,3 +7,5 @@
 \b\d ?/ ?\d\b
 !\bfull story part ?\d+\b
 !\bwith pearl in honkai\b
+!^honkai star rail part \d{3}\b
+!\(part \d+\)\.$
