@@ -4,5 +4,6 @@
  "ch1|Interlude": ["wuthering|wuwa"],
  "ch3|Segue - IV": ["^(?!.*epilogue)"],
  "ch3|Segue - V": ["epilogue"],
+ "ch3|Segue - VII": ["^(?!.*\\bact ?[ivx\\d]+\\b)"],
  "ch4|Act III": ["^(?!.*(?:segue|nethermancer))"]
 }

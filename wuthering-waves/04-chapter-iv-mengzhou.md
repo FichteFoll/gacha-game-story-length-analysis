@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 36 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 35 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
@@ -16,32 +16,30 @@ sends Rover after its long-absent Sentinel.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | The Wind Before the Storm | 2 h 43 min | 2 h 28 min - 2 h 54 min | 25 | high |
-| Act II | Xuanling Sings, Storm Quelled | 2 h 41 min | 2 h 33 min - 3 h 00 min | 27 | high |
-| Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 18 | high |
-| Act III | Song of the Heart Sword | 4 h 39 min | 4 h 34 min - 4 h 54 min | 24 | high |
-| Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 19 | high |
-| Act IV | Simulacrum of the Heart | 4 h 56 min | 4 h 41 min - 5 h 14 min | 27 | high |
+| Act I | The Wind Before the Storm | 2 h 42 min | 2 h 26 min - 2 h 58 min | 30 | high |
+| Act II | Xuanling Sings, Storm Quelled | 2 h 42 min | 2 h 37 min - 3 h 00 min | 31 | high |
+| Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 20 | high |
+| Act III | Song of the Heart Sword | 4 h 41 min | 4 h 33 min - 5 h 06 min | 34 | high |
+| Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 23 | high |
+| Act IV | Simulacrum of the Heart | 4 h 53 min | 4 h 41 min - 5 h 09 min | 34 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 36 min<!--/f-->**
+**Total: <!--f:total-->15 h 35 min<!--/f-->**
 
 ## Pacing
 
 Four long acts with two short pieces set between them.
 Act IV is the longest single entry in the game at
-<!--f:len_Act_IV-->4 h 56 min<!--/f-->,
+<!--f:len_Act_IV-->4 h 53 min<!--/f-->,
 followed by Act III at
-<!--f:len_Act_III-->4 h 39 min<!--/f-->,
+<!--f:len_Act_III-->4 h 41 min<!--/f-->,
 where the two segues add
 <!--f:len_Segue_I-->19 min<!--/f--> and
 <!--f:len_Segue_II-->18 min<!--/f--> between them.
 The acts themselves are the best-covered in the report,
 because a version that has just shipped is what everyone uploads:
-even Act IV, only weeks old at collection,
-has enough uploads to be rated on its spread,
-though its pool is the youngest in the report
-and its figures the most likely to move on a re-harvest.
+even Act IV, the youngest pool in the report,
+has enough uploads to be rated on its spread.
 The second segue, thin while it was new,
 has since gathered enough uploads to be rated on its spread too.
 
@@ -56,13 +54,13 @@ and a reply that turns into a journey back to a Huanglong
 that has gone quiet in the wrong way.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 2 h 43 min
-- **Sampled range:** 2 h 28 min to 2 h 54 min for the middle half (full spread 1 h 40 min to 3 h 19 min) across 25 playthrough uploads (22 further candidates screened out)
+- **Estimated length:** 2 h 42 min
+- **Sampled range:** 2 h 26 min to 2 h 58 min for the middle half (full spread 1 h 40 min to 3 h 48 min) across 30 playthrough uploads (29 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
 - **Stability:** median -1% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 25 uploads
+- **Measured from the uploader's chapter markers:** 3 of 30 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -72,11 +70,14 @@ that has gone quiet in the wrong way.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 40 min | 3.5 Main Quest The Wind Before the Storm, Chapter 4 Act 1, Suisui Timeline - Wuthering Waves 4K | Grateful Gaming 4K | 27 | 2026-07-12 | <https://www.youtube.com/watch?v=jcstx7Lm-vU> |
+| 1 h 51 min | Wuthering Waves Version 3.5 Chapter 4 Act 1[The Wind Before The Storm] | MessedUpABBy | 4 | 2026-07-21 | <https://www.youtube.com/watch?v=dQ92w4bHpj0> |
 | 2 h 02 min | Wuthering Waves 3.5 Main Quest Full Walkthrough \| Act 1, Act 2 & Segue Quest | XPPathway | 13 | 2026-07-13 | <https://www.youtube.com/watch?v=BfRE3WPdGPc> |
 | 2 h 20 min | Wuwa 3.5 Chapter IV Act 1 - Part 1 - The wind before the storm | Randy Alter Reviews | 25 | 2026-07-17 | <https://www.youtube.com/watch?v=IamsLCQVTBQ> |
 | 2 h 21 min | The Wind Before the Storm (3.5 MQ Suisui finally gets gear!?) | Mister MidnightMike | 17 | 2026-08-15 | <https://www.youtube.com/watch?v=I8xzDXrIhcc> |
 | 2 h 22 min | Wuthering Waves - Story Quest Chapter IV Act I: The Wind Before the Storm walkthrough | heriawsity | 47 | 2026-07-11 | <https://www.youtube.com/watch?v=tB77szANjJY> |
 | 2 h 24 min | Wuthering Waves Chapter IV Act I: The Wind Before the Storm \| Full Gameplay | Sternking | 76 | 2026-07-10 | <https://www.youtube.com/watch?v=XuqT66vpP3Q> |
+| 2 h 26 min | The Wind Before the Storm \| Main Quest - Part 1 \| Wuthering Waves 3.5 | YamiRyuGaming | 276 | 2026-07-17 | <https://www.youtube.com/watch?v=Dm-8_GeWr8c> |
+| 2 h 31 min | Wuthering Waves Walkthrough Part 18 - First Resonance & The Wind Before the Storm (PS5 4K) | MureXX GameZ 🎮 | 10 | 2026-10-14 | <https://www.youtube.com/watch?v=FsxqEmSHpso> |
 | 2 h 33 min | Wuthering Waves 3.5 Main Story Quest Full Walkthrough | Kuroakumoplaz | 45 | 2026-07-18 | <https://www.youtube.com/watch?v=YGoczTGgbnY> |
 | 2 h 35 min | Wuthering Waves Walkthrough Part 741 - Chapter 4 Act 1: The Wind Before the Storm (No Commentary) | MG PlayX | 36 | 2026-07-29 | <https://www.youtube.com/watch?v=DALZlK8EipI> |
 | 2 h 38 min | THE WIND BEFORE THE STORM - Version 3.5 Chapter IV Act I Full Main Story Quest \| Wuthering Waves | vinheim | 17 | 2026-07-14 | <https://www.youtube.com/watch?v=bGA26VbtxE0> |
@@ -90,12 +91,14 @@ that has gone quiet in the wrong way.
 | 2 h 49 min | Mengzhou Main Quest Chapter 4 : Act 1 \| The Wind Before the Storm \| Wuthering Waves 3.5 #wuwa | Senthu Gamer | 98 | 2026-07-12 | <https://www.youtube.com/watch?v=in1MklpTOF4> |
 | 2 h 51 min | The Wind Before the Storm [Mengzhou Chapter 4 - Act 1] 3.5 Wuthering Waves | Rubieco | 168 | 2026-07-10 | <https://www.youtube.com/watch?v=gAKlxhH9LmU> |
 | 2 h 51 min | WuWa 4K \| Chapter 4 Act 1 "The Wind Before the Storm" \| Main Story \| JP Dub \| Wuthering Waves 3.5 | London22Gaming | 97 | 2026-07-10 | <https://www.youtube.com/watch?v=TnwHHcqzjDg> |
+| 2 h 58 min | Wuthering Waves [Main Story] [Ver 3.5] - The Wind Before the Storm Walkthrough [JP Dub] | Fresh and Crispy Games | 20 | 2026-08-31 | <https://www.youtube.com/watch?v=HOIU3ZbpFvg> |
 | 2 h 58 min | Mengzhou ACT I FULL PLAYTHROUGH: The Wind Before The Storm \| Wuthering Waves | ArcanumRealms | 30 | 2026-07-10 | <https://www.youtube.com/watch?v=A8PgNA6km00> |
 | 2 h 59 min | Wuthering Waves 3.5 Story - Chapter 4 Act 1: The Wind Before the Storm (Female Rover) | QuestWatcher | 422 | 2026-07-11 | <https://www.youtube.com/watch?v=0w9McqXqQ3I> |
 | 3 h 02 min | Wuthering Waves - The Wind Before the Storm - Complete Story Quest | CorporalOdin2 | 15 | 2026-07-25 | <https://www.youtube.com/watch?v=ES4UI06sqY4> |
 | 3 h 09 min | The Beginning of Something Much Bigger \| Wuthering Waves 3.5 Main Quest | Jadealy | 70,744 | 2026-07-11 | <https://www.youtube.com/watch?v=HPae19qpA0M> |
 | 3 h 16 min | Wuthering Waves 3.5 Main Story Quest Act 1 \| Full Gameplay [Male Rover] | Mnemenoir | 9 | 2026-07-14 | <https://www.youtube.com/watch?v=auSd2jMZhQc> |
 | 3 h 19 min | Wuwa 3.5 [Main Quest] Chapter IV Act I: The Wind Before the Storm walkthrough | Arzas_enfield | 25 | 2026-07-10 | <https://www.youtube.com/watch?v=eg8xkyuSOzI> |
+| 3 h 48 min | 🔥 The Wind Before Storm Story Quest ⚔️ \| Wuthering Waves — DAY 5 🌸 \| Ryuu Plays | Ryuu Plays | 285 | 2026-10-30 | <https://www.youtube.com/watch?v=wGheGamHAaQ> |
 
 </details>
 <!--/gen-->
@@ -108,13 +111,13 @@ Tracking Yangyang's frequency through Xuanfang to the Skyworks,
 with Liangyu asking why the Autopuppets turned on their operators.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 2 h 41 min
-- **Sampled range:** 2 h 33 min to 3 h 00 min for the middle half (full spread 2 h 11 min to 3 h 47 min) across 27 playthrough uploads (20 further candidates screened out)
+- **Estimated length:** 2 h 42 min
+- **Sampled range:** 2 h 37 min to 3 h 00 min for the middle half (full spread 2 h 11 min to 3 h 52 min) across 31 playthrough uploads (26 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median -1% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 27 uploads
+- **Stability:** median 0% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 5 of 31 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -125,14 +128,15 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 11 min | Wuthering Waves 3.5 \| Chapter 4: Rebirth From the Depths \| Act 2: Xuanling Sings, Storm Quelled | StreaGaming | 22 | 2026-07-24 | <https://www.youtube.com/watch?v=catXzsKpKY4> |
 | 2 h 11 min | Wuthering Waves 3.5 Main Quest Full Walkthrough \| Act 1, Act 2 & Segue Quest | XPPathway | 13 | 2026-07-13 | <https://www.youtube.com/watch?v=BfRE3WPdGPc> |
+| 2 h 19 min | Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves | Fayato | 19,424 | 2025-10-09 | <https://www.youtube.com/watch?v=FH3Rw2NRzWk> |
 | 2 h 24 min | Reunion \| Xuanling Sings, Storm Quelled | Rei G | 38 | 2026-07-12 | <https://www.youtube.com/watch?v=pKD7aWrhhPk> |
 | 2 h 27 min | Wuthering Waves 3.5 Main Story Quest Full Walkthrough | Kuroakumoplaz | 45 | 2026-07-18 | <https://www.youtube.com/watch?v=YGoczTGgbnY> |
 | 2 h 28 min | Wuthering Waves - Story Quest Chapter IV Act II: Xuanling Sings, Storm Quelled walkthrough | heriawsity | 37 | 2026-07-12 | <https://www.youtube.com/watch?v=zz3coqebrRI> |
 | 2 h 28 min | Wuthering Waves 3.5 Story - Chapter 4 Act 2: Xuanling Sings, Storm Quelled (Female Rover) | QuestWatcher | 422 | 2026-07-11 | <https://www.youtube.com/watch?v=i3tvKi3fA3M> |
-| 2 h 33 min | Menghzou Act 2 Full Story Quest Playthrough - Wuthering Waves 3.5 | Fayato | 2,096 | 2026-07-10 | <https://www.youtube.com/watch?v=eUATy6TldZU> |
 | 2 h 37 min | Wuthering Waves 3.5 \| Mengzhou Chapter IV-ACT II (Full Quest) \| Xuanling Sings, Storm Quelled | SsjBankai00 | 7 | 2026-07-30 | <https://www.youtube.com/watch?v=EOriEx0rB-c> |
 | 2 h 38 min | [Wuthering Waves 3.5] Chapter IV Act II "Xuanling Sings, Storm Quelled" Full Quest | Andromeda Impact  | 13 | 2026-07-11 | <https://www.youtube.com/watch?v=Z3mD8BSGlCs> |
 | 2 h 38 min | FULL Chapter 4 Act 2 Mengzhou \| Wuthering Waves 3.5 "Xuanling Sings, Storm Quelled" | T.H Bunn | 43 | 2026-07-10 | <https://www.youtube.com/watch?v=ekT1sAqpo0M> |
+| 2 h 39 min | Wuthering Waves – Xuanling Sings, Storm Quelled \| Full Story Quest Gameplay | Kanjouta | 10 | 2026-07-18 | <https://www.youtube.com/watch?v=PNvhetDq0Ek> |
 | 2 h 39 min | Wuthering Waves Walkthrough Part 749 - Chapter 4 Act 2: Xuanling Sings, Storm Quelled (No Comment) | MG PlayX | 23 | 2026-08-09 | <https://www.youtube.com/watch?v=4suSKjtgGeI> |
 | 2 h 39 min | Mengzhou Main Quest Chapter 4 : Act 2 \| Xuanling Sings, Storm Quelled \| Wuthering Waves 3.5 #wuwa | Senthu Gamer | 63 | 2026-07-14 | <https://www.youtube.com/watch?v=jxRuXWT4oNU> |
 | 2 h 40 min | Wuthering Waves 3.5 Full Story \| Chapter IV Acts I-II & Segue \| 4K 60FPS No Commentary | RavennKlauw | 24 | 2026-07-10 | <https://www.youtube.com/watch?v=W7SzDZPCrwg> |
@@ -142,14 +146,17 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | 2 h 50 min | Wuthering Waves 3.5 Chapter IV Act 2 – "Xuanling Sings, Storm Quelled" Main Story (JP Dub) | Mikiyuki | 43 | 2026-07-12 | <https://www.youtube.com/watch?v=rB8grBWGb44> |
 | 2 h 51 min | Chapter 4 Mengzhou: Act II Xuanling Sings, Storm Quelled JP Dub FRover \| Wuthering Waves | Falynn | 23 | 2026-07-16 | <https://www.youtube.com/watch?v=siDKPr-f0VU> |
 | 2 h 54 min | Wuthering Waves Chapter IV Act II: Xuanling Sings, Storm Quelled +  Segue \| Full Quest Gameplay | Sternking | 86 | 2026-07-10 | <https://www.youtube.com/watch?v=vGHDwBqhmQ4> |
+| 2 h 55 min | Wuthering Waves 3.5 Main Story - Mengzhou Act 1 & 2 \| Extended Playthrough (No Commentary) | Goober Plays | 15 | 2026-09-24 | <https://www.youtube.com/watch?v=-cm7bckTvPY> |
 | 2 h 58 min | Xuanling Sings, Storm Quelled — Mengzhou Chapter 4, Act 2 — Wuthering Waves | RPG Plays TV | 7 | 2026-07-15 | <https://www.youtube.com/watch?v=sonp4agH2jI> |
+| 3 h 00 min | Wuthering Waves [Main Story] [Ver 3.5] - Xuanling Sings, Storm Quelled Walkthrough [JP Dub] | Fresh and Crispy Games | 27 | 2026-09-03 | <https://www.youtube.com/watch?v=yUU81mQMNnM> |
 | 3 h 00 min | Wuthering Waves 3.5 Main Story Quest \| Mengzhou: Chapter 4 - Act 2 \| 2K | Aira | 56 | 2026-08-17 | <https://www.youtube.com/watch?v=R5BD2S1vAzA> |
 | 3 h 02 min | V3.5 Chapter 4 Act 2-Xuanling Sings, Storm Quelled full quest \| wuthering waves | St Sunnut | 80 | 2026-07-11 | <https://www.youtube.com/watch?v=ubng8SvEI98> |
 | 3 h 08 min | Wuthering Waves 3.5 (PC) Walkthrough Main Quest Xuanling Sings Storm Quelled & Segue Story Quest | CyberFRZ | 8 | 2026-07-12 | <https://www.youtube.com/watch?v=okvTN8OpwhQ> |
+| 3 h 14 min | Wuthering Waves Chapter IV - Act 2 - Xuanling Sings, Storm Quelled Quest | Sushizie Gamer | 38 | 2026-10-16 | <https://www.youtube.com/watch?v=blA_YOBrWCs> |
 | 3 h 14 min | Wuthering Waves Chapter 4 Act 2: Xuanling Sings, Storm Quelled | TheWayCafe Productions | 746 | 2026-07-11 | <https://www.youtube.com/watch?v=FKTuD9PzX-c> |
 | 3 h 26 min | Wuthering Waves - Xuanling Sings, Storm Quelled - Complete Story Quest | CorporalOdin2 | 17 | 2026-07-26 | <https://www.youtube.com/watch?v=bpYjggd7qjE> |
 | 3 h 46 min | Wuthering Waves 3.5 Main Story Quest Act 2 \| Full Gameplay [Male Rover] | Mnemenoir | 16 | 2026-07-14 | <https://www.youtube.com/watch?v=Z8QPpifmh0E> |
-| 3 h 47 min | 【Wuthering Waves】\| Playing Xuanling Sings, Storm Quelled quest ! \|【VOD】 | Kiyochan_VT | 21 | 2026-07-24 | <https://www.youtube.com/watch?v=i9iOjbD4Hsg> |
+| 3 h 52 min | 3.5 ACT 2 FULL BINGE! \| Wuthering Waves 3.5 PART 2 Story Full Playthrough | Gacha Smack | 31,266 | 2026-07-11 | <https://www.youtube.com/watch?v=Hek9baNrV5w> |
 
 </details>
 <!--/gen-->
@@ -163,12 +170,12 @@ sends Rover back to where all of this began.
 <!--gen:stats act="Segue - I"-->
 
 - **Estimated length:** 19 min
-- **Sampled range:** 19 min to 21 min for the middle half (full spread 16 min to 25 min) across 18 playthrough uploads (13 further candidates screened out)
+- **Sampled range:** 19 min to 21 min for the middle half (full spread 16 min to 30 min) across 20 playthrough uploads (14 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 2 of 18 uploads
+- **Measured from the uploader's chapter markers:** 2 of 20 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - I"-->
@@ -193,8 +200,10 @@ sends Rover back to where all of this began.
 | 21 min | Chapter 4 Mengzhou: Act II Segue 1 The Chant of Unseen Ties JP Dub FRover \| Wuthering Waves | Falynn | 12 | 2026-07-18 | <https://www.youtube.com/watch?v=SfuX3qDrLqk> |
 | 21 min | Wuthering Waves 3.5 Story - Chapter 4 Segue: The Chant of Unseen Ties (Female Rover) | QuestWatcher | 219 | 2026-07-11 | <https://www.youtube.com/watch?v=pGVF2ApvqDA> |
 | 22 min | Wuthering Waves Story Playthrough \|\| Chapter 4 Segue: The Chant of Unseen Ties | HonkySora | 13 | 2026-08-15 | <https://www.youtube.com/watch?v=FzC1uuaYxhY> |
+| 22 min | Wuthering Waves [Main Story] [Ver 3.5] - The Chant of Unseen Ties Walkthrough [JP Dub] | Fresh and Crispy Games | 17 | 2026-09-05 | <https://www.youtube.com/watch?v=5S6p0XRbkjU> |
 | 22 min | Yangyang: Xuanling - Segue Story Quest: The Chant of Unseen Ties (Full) \| Wuthering Waves (V3.5) | PlayZero Gaming  | 34 | 2026-07-12 | <https://www.youtube.com/watch?v=rteK9o19X5w> |
 | 25 min | Mengzhou Main Quest Chapter 4 : Segue \| The Chant of Unseen Ties \| Wuthering Waves 3.5 #wuwa | Senthu Gamer | 43 | 2026-07-14 | <https://www.youtube.com/watch?v=KppBMdQc1QU> |
+| 30 min | Wuthering Waves [EN] Mengzhou Chapter IV – Segue: The Chant of Unseen Ties | LeRandomRayquaza2011 | 43 | 2026-08-09 | <https://www.youtube.com/watch?v=rJI-SkGlymI> |
 
 </details>
 <!--/gen-->
@@ -209,13 +218,13 @@ and what Mengzhou's lineages have been holding back with it.
 <!--gen:stats act="Act III"-->
 One of the three longest acts in the game.
 
-- **Estimated length:** 4 h 39 min
-- **Sampled range:** 4 h 34 min to 4 h 54 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 24 playthrough uploads (62 further candidates screened out)
+- **Estimated length:** 4 h 41 min
+- **Sampled range:** 4 h 33 min to 5 h 06 min for the middle half (full spread 2 h 47 min to 6 h 01 min) across 34 playthrough uploads (69 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 24 uploads
+- **Stability:** median +1% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 2 of 34 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act III"-->
@@ -225,8 +234,11 @@ One of the three longest acts in the game.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 47 min | 【WUTHERING WAVES】Song of the Heart Sword \| Chapter 4 Act 3 | Mirai Shishiou VODS | 0 | 2026-08-20 | <https://www.youtube.com/watch?v=5cak1d3gsTk> |
+| 3 h 43 min | Song of the Heart Sword Main Story Full Quest \| Wuthering Waves 3.6 | XPPathway | 26 | 2026-10-09 | <https://www.youtube.com/watch?v=BOp9xfD0ZOY> |
 | 4 h 02 min | Wuthering Waves - Story Quest Chapter IV Act III: Song of the Heart Sword walkthrough | heriawsity | 21 | 2026-08-23 | <https://www.youtube.com/watch?v=SMO9-sjm_50> |
+| 4 h 14 min | Wuthering Waves Chapter IV Act III \| Song of the Heart Sword Walkthrough Part 3 (No Commentary) | KrishnaPlaz | 11 | 2026-10-11 | <https://www.youtube.com/watch?v=htilACD2Em4> |
 | 4 h 15 min | Wuthering Wave 3.6 Act 3 Full Story Quest No Commentary Small segment and reveal Of Past Male Rover | Shadow Monarch | 8 | 2026-08-26 | <https://www.youtube.com/watch?v=qoogthR78Ro> |
+| 4 h 23 min | Wuthering Waves – Song of the Heart Sword \| Full Story Quest Gameplay | Kanjouta | 13 | 2026-09-17 | <https://www.youtube.com/watch?v=c0APfREgjbo> |
 | 4 h 28 min | WuWa Main Quest Mengzhou Chapter 4 Act 3 - Song of the Heart Sword Full Game \| Wuthering Waves 3.6 | Akabirama | 5,132 | 2026-08-21 | <https://www.youtube.com/watch?v=vE4qpBJ7gFE> |
 | 4 h 31 min | Chapter IV Act III "Song of the Heart Sword" \| Wuthering waves 3.6 | Nitrous Visioners | 57 | 2026-08-20 | <https://www.youtube.com/watch?v=9RDwN_q9szg> |
 | 4 h 34 min | Version 3.6 Main Story Quest Wuthering Waves (Full Playthrough) | Streetwise Rhapsody | 15,580 | 2026-08-20 | <https://www.youtube.com/watch?v=juMDwtdN74g> |
@@ -245,7 +257,14 @@ One of the three longest acts in the game.
 | 4 h 55 min | Song of the Heart Sword [Mengzhou Chapter 4 - Act 3] 3.6 Wuthering Waves | Rubieco | 323 | 2026-08-21 | <https://www.youtube.com/watch?v=iCxnklOlIkM> |
 | 4 h 55 min | Song of the Heart Sword - Mengzhou Main Quest Full Story Wuthering Waves 3.6 \| Qingxiao x Hsin | AZureMaxx | 1,043 | 2026-09-06 | <https://www.youtube.com/watch?v=vRaArFoJhtg> |
 | 5 h 00 min | Wuthering Waves 3.6 — Song of the Heart Sword (Full Main Story Quest) Act- III | BSS Gaming | 154 | 2026-08-21 | <https://www.youtube.com/watch?v=mEJnVUpkaIg> |
+| 5 h 02 min | Wuthering Waves 3.6 Main Story - Mengzhou Act 3 \| Extended Playthrough (No Commentary) | Goober Plays | 24 | 2026-09-25 | <https://www.youtube.com/watch?v=snCRo5mN8dM> |
+| 5 h 06 min | Wuthering Waves [Main Story] [Ver 3.6] - Song of the Heart Sword Walkthrough [JP Dub] | Fresh and Crispy Games | 5 | 2026-10-07 | <https://www.youtube.com/watch?v=-WlobPfSQYU> |
+| 5 h 06 min | Wuthering Waves - Song of the Heart Sword - Complete Story Quest | CorporalOdin2 | 56 | 2026-09-04 | <https://www.youtube.com/watch?v=qROnM65hJW0> |
+| 5 h 08 min | Main Quests Chapter 4: Act 3 Song of the Heart Sword \| Wuthering Waves 3.6 | mwRover | 48 | 2026-10-05 | <https://www.youtube.com/watch?v=jWv30OuDKKU> |
+| 5 h 13 min | Wuthering Waves Chapter 4 Act 3: Song of the Heart Sword | TheWayCafe Productions | 1,178 | 2026-08-21 | <https://www.youtube.com/watch?v=zXkxPBZEXpM> |
 | 5 h 13 min | 3.6 STORY FULL PLAYTHROUGH! Mengzhou Chapter IV Act III Song of the heart Sword | ArcanumRealms | 178 | 2026-08-20 | <https://www.youtube.com/watch?v=0njwdD5PYOE> |
+| 5 h 14 min | Wuthering Wave 3.6 - Song of the Heart Sword | Gaming_Dino | 3 | 2026-10-12 | <https://www.youtube.com/watch?v=dPoYjc0cw_o> |
+| 5 h 18 min | Wuthering Waves - Ver 3.6 MSQ - Song of the Heart Sword - Qingxiao Quest | Aerostat120 | 101 | 2026-08-22 | <https://www.youtube.com/watch?v=_BVVnkWuO_I> |
 | 5 h 30 min | WuWa 4K \| Chapter 4 Act 3 "Song of the Heart Sword" \| Main Story \| JP \| Wuthering Waves 3.6 | London22Gaming | 14 | 2026-08-20 | <https://www.youtube.com/watch?v=uxYrVh10ffU> |
 | 6 h 01 min | 3.6 Main Quest - Song of the Heart Sword | kura_bot | 3 | 2026-08-20 | <https://www.youtube.com/watch?v=PEgGYw3gDkM> |
 
@@ -261,12 +280,12 @@ and a quiet accounting of who is left to sing it.
 <!--gen:stats act="Segue - II"-->
 
 - **Estimated length:** 18 min
-- **Sampled range:** 17 min to 19 min for the middle half (full spread 16 min to 22 min) across 19 playthrough uploads (30 further candidates screened out)
+- **Sampled range:** 17 min to 19 min for the middle half (full spread 16 min to 22 min) across 23 playthrough uploads (36 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.6
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 2 of 19 uploads
+- **Measured from the uploader's chapter markers:** 2 of 23 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - II"-->
@@ -277,10 +296,12 @@ and a quiet accounting of who is left to sing it.
 | --- | --- | --- | --- | --- | --- |
 | 16 min | Wuthering Waves - Story Quest Chapter IV Segue: The Nethermancer’s Requiem walkthrough | heriawsity | 7 | 2026-08-24 | <https://www.youtube.com/watch?v=V3cIgCsIe7I> |
 | 16 min | Wuthering Waves - 3.6 - The Nethermancer's Requiem (No Commentary) | Stinky Tofu | 19 | 2026-09-08 | <https://www.youtube.com/watch?v=njJ7xhkH6is> |
+| 17 min | Wuthering Waves – The Nethermancer's Requiem \| Full Story Quest Gameplay | Kanjouta | 6 | 2026-10-10 | <https://www.youtube.com/watch?v=tQrIqoaWTj8> |
 | 17 min | WuWa Main Quest Mengzhou Chapter 4 Segue The Nethermancer's Requiem Full Game \| Wuthering Waves 3.6 | Akabirama | 163 | 2026-08-21 | <https://www.youtube.com/watch?v=HB15Heyjxg8> |
 | 17 min | The Nethermancer’s Requiem — Mengzhou Chapter 4, Segue — Wuthering Waves 3.6 | RPG Plays TV | 2 | 2026-08-24 | <https://www.youtube.com/watch?v=yrV2ZaoHLLQ> |
 | 17 min | The Nethermancers Requiem Trophy #wuwa  3.5 🎮 #gameplay #gaming #games #games  #shorts #gameshorts | Pulse Wave Gaming | 8 | 2026-08-23 | <https://www.youtube.com/watch?v=QuRU6w8pWTc> |
 | 17 min | Wuthering Waves - Mengzhou Chapter 4 - Segue - The Nethermancer's Requiem - Main Quest | Pik | 332 | 2026-09-03 | <https://www.youtube.com/watch?v=42yVdT4hWZs> |
+| 18 min | Wuthering Waves Walkthrough Part 777 - Chapter 4 Segue: The Nethermancer's Requiem (No Commentary) | MG PlayX | 39 | 2026-10-02 | <https://www.youtube.com/watch?v=8UP8f1UyWdM> |
 | 18 min | [Wuthering Waves Main Quest] The Nethermancer's Requiem: Head To Yanshu's Home And Ask After Jingran | Authrone | 104 | 2026-08-25 | <https://www.youtube.com/watch?v=2CWRbjvIgyo> |
 | 18 min | The Nethermancer's Requiem \| Mengzhou Segue \| Wuthering Waves ver 3.6 | LoneWanderer | 92 | 2026-08-25 | <https://www.youtube.com/watch?v=-SkqIPy2zH8> |
 | 18 min | Wuthering Waves 3.6 Chapter IV Main Story Segue – "The Nethermancer's Requiem" (JP Dub) | Mikiyuki | 56 | 2026-08-22 | <https://www.youtube.com/watch?v=U1OTVhYpiOo> |
@@ -288,11 +309,13 @@ and a quiet accounting of who is left to sing it.
 | 18 min | The Nethermancer's Requiem Full Quest Wuthering Waves 3.6 | DreamerQuests | 564 | 2026-08-21 | <https://www.youtube.com/watch?v=N86qJ_aqO7U> |
 | 18 min | Wuthering Waves Chapter 4 Segue: The Nethermancer's Requiem Walkthrough \| 100% Complete | Virtual Gaming | 29 | 2026-09-07 | <https://www.youtube.com/watch?v=SuaARrD_Ve4> |
 | 18 min | The Nethermancer's Requiem [Mengzhou Chapter 4 - Segue 2] 3.6 Wuthering Waves | Rubieco | 545 | 2026-08-21 | <https://www.youtube.com/watch?v=dlTr23w03tU> |
+| 19 min | FULL Mengzhou: Chapter 4 Segue \| Wuthering Waves 3.6 "The Nethermancer’s Requiem" | T.H Bunn | 804 | 2026-08-20 | <https://www.youtube.com/watch?v=U7zyHXzVNGk> |
 | 19 min | Main Quest 3.6: The Nethermancer's Requiem (Part 2) \| Wujthering Waves | BBear | 16 | 2026-08-24 | <https://www.youtube.com/watch?v=40XIFgfbZrk> |
 | 19 min | WuWa 3.6 Mengzhou Story Quest: Act 3 & Segue \| Wuthering Waves (JP Voice) | ViGAMES | 427 | 2026-08-21 | <https://www.youtube.com/watch?v=OPTv3B92Tro> |
 | 20 min | 「Wuthering Waves」Main Quest \| PART 102 \| The Nethermancer's Requiem \| PS5 PR0 [4K/60FPS HDR] | Sakura Mizrahi | 57 | 2026-08-26 | <https://www.youtube.com/watch?v=RN2QZI98pgs> |
 | 20 min | WUTHERING WAVES 3.6 - BLADE OF PAST RESOUNDS LINGERING DREAM HYMNS - Gameplay No Commentary\| Part 44 | potato gaming id | 21 | 2026-09-07 | <https://www.youtube.com/watch?v=xS2ENWmqGk4> |
 | 21 min | Wuthering Waves - The Nethermancer's Requiem - Complete Story Quest | CorporalOdin2 | 11 | 2026-09-06 | <https://www.youtube.com/watch?v=AJbtLCboziI> |
+| 22 min | Main Quests Chapter 4 Segue The Nethermancer's Requiem \| Wuthering Waves 3.6 | mwRover | 12 | 2026-10-05 | <https://www.youtube.com/watch?v=fbnIsqAFYEo> |
 | 22 min | Wuthering Waves 3.6 – Segue Quest: The Nethermancer’s Requiem | Merfyn | 65 | 2026-08-28 | <https://www.youtube.com/watch?v=-oe08jh5xAk> |
 
 </details>
@@ -309,12 +332,12 @@ leads back into the Manifold Sanctum, where Hsin was last felt.
 <!--gen:stats act="Act IV"-->
 The single longest act in the game.
 
-- **Estimated length:** 4 h 56 min
-- **Sampled range:** 4 h 41 min to 5 h 14 min for the middle half (full spread 3 h 43 min to 5 h 51 min) across 27 playthrough uploads (22 further candidates screened out)
+- **Estimated length:** 4 h 53 min
+- **Sampled range:** 4 h 41 min to 5 h 09 min for the middle half (full spread 3 h 43 min to 5 h 51 min) across 34 playthrough uploads (29 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.7
-- **Measured from the uploader's chapter markers:** 1 of 27 uploads
+- **Measured from the uploader's chapter markers:** 2 of 34 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act IV"-->
@@ -327,17 +350,23 @@ The single longest act in the game.
 | 4 h 20 min | Wuthering Waves - Story Quest Chapter IV Act IV: Simulacrum of the Heart walkthrough | heriawsity | 40 | 2026-10-04 | <https://www.youtube.com/watch?v=pqQZRuIZzxk> |
 | 4 h 28 min | Wuthering Waves 3.7: Xuanfang Finale \| Simulacrum of the Heart Full Walkthrough [4K] | Tarnished Blade  | 261 | 2026-10-01 | <https://www.youtube.com/watch?v=JgcT2cgdLv8> |
 | 4 h 34 min | Chapter IV Act IV: Simulacrum of the Heart - Wuthering Waves 3.7 \| Full Main Quest | Sternking | 227 | 2026-10-01 | <https://www.youtube.com/watch?v=4PhXIHyw3vk> |
+| 4 h 36 min | Wuthering Waves – Simulacrum of the Heart \| Full Story Quest Gameplay | Kanjouta | 26 | 2026-10-20 | <https://www.youtube.com/watch?v=x2cpjww86BM> |
+| 4 h 37 min | Wuthering Waves 3.7 Simulacrum of the Heart \| No Commentary | Arlecchini | 24 | 2026-10-21 | <https://www.youtube.com/watch?v=QmwmwYE5AZY> |
 | 4 h 38 min | Rebirth From the Depths Mengzhou Chapter IV - Act IV "Simulacrum of the Heart" | Miki Kei Vod | 595 | 2026-10-03 | <https://www.youtube.com/watch?v=a63ERHgcI7k> |
 | 4 h 41 min | Wuthering Waves 3.7 FULL QUEST \| Hsin & Suoming’s Story – Simulacrum of the Heart \| #wuwa | Rahar-Gaming | 22 | 2026-10-05 | <https://www.youtube.com/watch?v=hX66wGCtaiQ> |
 | 4 h 41 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | KulnoZ | 118 | 2026-09-30 | <https://www.youtube.com/watch?v=WuC_3AWGqnE> |
 | 4 h 42 min | 3.7 Main Quest Complete Story - Full Playthrough (Wuthering Waves) | Abyss Breakdown | 6,068 | 2026-09-30 | <https://www.youtube.com/watch?v=qMD60z0vrl8> |
 | 4 h 46 min | [ WUTHERING WAVES ] [ MENGZHOU ] Chapter IV Act IV Simulacrum of the Heart  [ FULL STORY ] | Uranium Tea Gaming | 318 | 2026-10-01 | <https://www.youtube.com/watch?v=pCwT6aN0ECI> |
 | 4 h 49 min | Hasin Main Story Full Quest (Full Playthrough) - Wuthering Waves 3.7 | DreamerQuests | 40 | 2026-10-01 | <https://www.youtube.com/watch?v=tplMJBmsGOw> |
+| 4 h 50 min | Wuthering Waves Walkthrough Part 794 - Chapter 4 Act 4: Simulacrum of the Heart (No Commentary) | MG PlayX | 37 | 2026-10-26 | <https://www.youtube.com/watch?v=Kaady2R1J0o> |
 | 4 h 50 min | Wuthering Waves 3.7 - Simulacrum of the Heart \| Main Story Quest Full Gameplay | Jonozoic | 215 | 2026-10-02 | <https://www.youtube.com/watch?v=LjWBIHoKoPA> |
 | 4 h 51 min | Wuthering Waves Chapter 4 Act 4: Simulacrum of the Heart Walkthrough \| 100% Complete | Virtual Gaming | 20 | 2026-10-01 | <https://www.youtube.com/watch?v=0YjX2IaKwsE> |
 | 4 h 52 min | Wuthering Waves 3.7 Walkthrough - Chapter IV Act IV: Simulacrum of the Heart (No Commentary) | Kiruno | 104 | 2026-10-01 | <https://www.youtube.com/watch?v=3X83GIHVBf4> |
+| 4 h 52 min | [Wuthering Waves v3.7 Main Quest] Mengzhou Chapter IV Act IV - Simulacrum of the Heart (CN Dub) | wakocoke | 623 | 2026-10-01 | <https://www.youtube.com/watch?v=T1FYjkG0Gqw> |
+| 4 h 55 min | Simulacrum of the Heart \| Mengzhou Act IV \| Wuthering Waves ver 3.7 | LoneWanderer | 9 | 2026-10-03 | <https://www.youtube.com/watch?v=29EIBTxa2mk> |
 | 4 h 56 min | Wuthering Waves 3.7 Story - Chapter 4 Act 4 & Hsin Tales Quest Full Playthrough (XUANFANG FINALE) | ItsDaveTV Plays and ItsDaveTV | 98 | 2026-10-04 | <https://www.youtube.com/watch?v=KBCwgW9u1Oo> |
 | 4 h 56 min | Wuthering Waves 3.7 Main Story Quest \| Chapter 4: Act 4 - Full Walkthrough (Female Rover) | QuestWatcher | 623 | 2026-10-02 | <https://www.youtube.com/watch?v=05ZyYBaej8A> |
+| 4 h 58 min | Wuthering Waves Version 3.7 Main Story Quest (Full Walkthrough) | NaruVT | 1,542 | 2026-10-01 | <https://www.youtube.com/watch?v=qcdyBBrAvsk> |
 | 5 h 02 min | Wuthering Waves 3.7 Main Story Quests (Full Playthrough) | one  | 16 | 2026-10-15 | <https://www.youtube.com/watch?v=0kTv9o_f6jQ> |
 | 5 h 02 min | Wuthering Waves 3.7 — Simulacrum of the Heart (Full Main Story Quest) | BSS Gaming | 785 | 2026-09-30 | <https://www.youtube.com/watch?v=hizKt5Q3eyQ> |
 | 5 h 03 min | Wuthering Waves 3.7 Xuanfang Finale - New Main Story Quest Full Walkthrough | Rubhen925 | 50,917 | 2026-09-30 | <https://www.youtube.com/watch?v=hBHxE8xdkAs> |
@@ -346,6 +375,7 @@ The single longest act in the game.
 | 5 h 14 min | Simulacrum of the heart Full Quest | ParadoX | 63 | 2026-10-11 | <https://www.youtube.com/watch?v=kMVMvIe03JI> |
 | 5 h 22 min | WUWA 3.7 IS HERE! \| Main Quest "Simulacrum of the Heart" Full Playthrough | ShiverDoom | 1,631 | 2026-10-01 | <https://www.youtube.com/watch?v=3a8-Xxbomns> |
 | 5 h 27 min | WuWa 4K \| Chapter 4 Act 4 "Simulacrum of the Heart" \| Main Story \| JP \| Wuthering Waves 3.7 | London22Gaming | 73 | 2026-09-30 | <https://www.youtube.com/watch?v=xJQvX9IOuoo> |
+| 5 h 29 min | Wuthering Waves 3.7 \| Chapter IV Act IV: Simulacrum of the Heart \| Full Story \| JP Dub | Mikiyuki | 27 | 2026-10-02 | <https://www.youtube.com/watch?v=oyNp2kmtnbk> |
 | 5 h 42 min | Main Quests Chapter 4: Act 4 Simulacrum of the Heart \| Wuthering Waves 3.7 | mwRover | 46 | 2026-10-05 | <https://www.youtube.com/watch?v=AjdIk4tGdnA> |
 | 5 h 46 min | Wuthering Waves - Simulacrum of the Heart - Complete Story Quest | CorporalOdin2 | 4 | 2026-10-06 | <https://www.youtube.com/watch?v=1gy-0H-aJaA> |
 | 5 h 51 min | Wuwa 3.7 Finale \| Chapter 4 Act 4: "Simulacrum of the Heart" \| Mobile Gameplay \| No Commentary | The GlobalWarming | 19 | 2026-10-04 | <https://www.youtube.com/watch?v=gLbmCWkkq_Q> |

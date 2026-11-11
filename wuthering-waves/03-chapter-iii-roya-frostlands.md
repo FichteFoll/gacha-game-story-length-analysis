@@ -27,8 +27,8 @@ and ends up piloting the thing the whole world has been building.
 | Act V | Starlights from Yesterdays | 2 h 54 min | 2 h 39 min - 3 h 06 min | 22 | high |
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
 | Segue - VI | Beneath a Melting Night Sky | 2 h 00 min | 1 h 50 min - 2 h 08 min | 16 | high |
-| Side Story | At Dream's Edge | 2 h 51 min | 2 h 40 min - 3 h 06 min | 14 | high |
-| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 57 min - 2 h 07 min | 14 | high |
+| Side Story | At Dream's Edge | 2 h 51 min | 2 h 41 min - 3 h 04 min | 16 | high |
+| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 58 min - 2 h 09 min | 18 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->26 h 28 min<!--/f-->**
@@ -547,12 +547,12 @@ and the nightmares have guns.
 <!--gen:stats act="Side Story"-->
 
 - **Estimated length:** 2 h 51 min
-- **Sampled range:** 2 h 40 min to 3 h 06 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 14 playthrough uploads (16 further candidates screened out)
+- **Sampled range:** 2 h 41 min to 3 h 04 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 16 playthrough uploads (22 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 14 uploads
+- **Measured from the uploader's chapter markers:** 1 of 16 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Side Story"-->
@@ -566,11 +566,13 @@ and the nightmares have guns.
 | 2 h 39 min | Wuthering Waves - Story Quest Chapter III Side Story “At Dream’s Edge” walkthrough | heriawsity | 497 | 2026-06-10 | <https://www.youtube.com/watch?v=rJCvrbvShYo> |
 | 2 h 40 min | Cyberpunk Edgerunners X Wuthering Waves - At Dream's Edge ( Full Quest ) | TheWayCafe Productions | 578 | 2026-06-25 | <https://www.youtube.com/watch?v=t59AHAyg5kQ> |
 | 2 h 43 min | Wuthering Waves x Cyberpunk 2077 Collab Quest Full Walkthrough (Episodic Quest - At Dream's Edge) | PinnapleN3rd | 39 | 2026-06-18 | <https://www.youtube.com/watch?v=L7G2Rt-tigw> |
+| 2 h 48 min | Wuthering Waves – At Dream's Edge \| Full Story Quest Gameplay | Kanjouta | 5 | 2026-06-18 | <https://www.youtube.com/watch?v=okDotdQbnNc> |
 | 2 h 50 min | At Dream’s Edge Full Quest (Wuthering Waves)  | 𝐓𝐢𝐭𝐚𝐧𝐖𝐨𝐥𝐟 | 46 | 2026-07-12 | <https://www.youtube.com/watch?v=UwIf8IIlE4Y> |
 | 2 h 51 min | Wuthering Waves Walkthrough Part 721 - Chapter 3 Side Story: At Dream's Edge (No Commentary) | MG PlayX | 51 | 2026-07-03 | <https://www.youtube.com/watch?v=0rcPf8v0XXE> |
 | 2 h 52 min | Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge | Yoru Silent Playthroughs | 24 | 2026-06-08 | <https://www.youtube.com/watch?v=XFmvD5Mm3mE> |
 | 2 h 53 min | Lahai-Roi Chapter 3 : Side Story \| At Dream's Edge \| Wuwa 3.4 \| Wuwa x Cyberpunk Edgerunner's Collab | Senthu Gamer | 26 | 2026-06-08 | <https://www.youtube.com/watch?v=qtwpmIW1sgQ> |
 | 2 h 58 min | AT DREAM'S EDGE - Version 3.4 Cyberpunk Edgerunners Collab Full Story Quest \| Wuthering Waves 4k60 | vinheim | 10 | 2026-07-12 | <https://www.youtube.com/watch?v=oROzmlx3SjQ> |
+| 3 h 01 min | Wuthering Waves 3.4 - Cyberpunk Edgerunners Collab Story "At Dream's Edge" Full Playthrough! | ItsDaveTV Plays and ItsDaveTV | 78 | 2026-06-08 | <https://www.youtube.com/watch?v=unX3y2QSNjw> |
 | 3 h 05 min | At Dream's Edge \| Episodic Quest (Full Gameplay) | Exzelis Gaming 🇲🇾 | 1,683 | 2026-06-12 | <https://www.youtube.com/watch?v=_JR-3dTaoVw> |
 | 3 h 09 min | At Dream's Edge Playthrough \| Wuthering Waves X Cyberpunk: Edgerunners Collab Main Quest | Mikmik-kun | 52 | 2026-06-09 | <https://www.youtube.com/watch?v=6oKc3byuyE4> |
 | 3 h 19 min | Wuthering Waves Gameplay \| Side Story Quest: At Dream's Edge (Cyberpunk: Edgerunners Collaboration) | Mysterious Hero | 16 | 2026-06-12 | <https://www.youtube.com/watch?v=2iXPQ_61KtQ> |
@@ -589,11 +591,12 @@ look like it is fine.
 <!--gen:stats act="Segue - VII"-->
 
 - **Estimated length:** 2 h 04 min
-- **Sampled range:** 1 h 57 min to 2 h 07 min for the middle half (full spread 1 h 43 min to 2 h 11 min) across 14 playthrough uploads (16 further candidates screened out)
+- **Sampled range:** 1 h 58 min to 2 h 09 min for the middle half (full spread 1 h 43 min to 2 h 30 min) across 18 playthrough uploads (34 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
 - **Stability:** median 0% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 1 of 18 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VII"-->
@@ -607,6 +610,8 @@ look like it is fine.
 | 1 h 54 min | Wuthering Waves - Story Quest Chapter III Segue “We Choose the Sky” walkthrough | Zoran | 18 | 2026-08-10 | <https://www.youtube.com/watch?v=bJcnnZIk2mI> |
 | 1 h 58 min | Wuthering Waves - 4K - We Choose the Sky Story Quest | DRC Gamer | 44 | 2026-08-09 | <https://www.youtube.com/watch?v=IoQpbRY9nYQ> |
 | 1 h 58 min | We choose the sky ( Lucilla full quest walkthrough) No commentary. | Gacha Archive | 30 | 2026-07-12 | <https://www.youtube.com/watch?v=rjkSFnQfr0o> |
+| 2 h 01 min | Lucilla Segue Story Quest (Full Quest) We Choose The Sky \| Wuthering Waves 3.4 | Xeviaa | 19 | 2026-06-27 | <https://www.youtube.com/watch?v=duMkPTBQf5I> |
+| 2 h 02 min | Full Chapter 3: Lahai Roi Main Story Quest - Wuthering Waves | Fayato | 9,688 | 2026-06-26 | <https://www.youtube.com/watch?v=y3YBzP9Q-Iw> |
 | 2 h 03 min | We Choose the Sky \| Lucilla Full Story Quest \| Wuthering Waves 3.4 | Nitrous Visioners | 98 | 2026-06-14 | <https://www.youtube.com/watch?v=wxOt3oE-0TU> |
 | 2 h 04 min | Wuthering Waves Version 3.4 - Lucilla Segue Story Quest: We Choose the Sky | Kuroakumoplaz | 19 | 2026-06-21 | <https://www.youtube.com/watch?v=Ai15t82-NGo> |
 | 2 h 04 min | WE CHOOSE THE SKY - Version 3.4 Lucilla Segue Full Main Story Quest \| Wuthering Waves 4k60 | vinheim | 139 | 2026-07-12 | <https://www.youtube.com/watch?v=SxpJZ596jF8> |
@@ -616,6 +621,8 @@ look like it is fine.
 | 2 h 08 min | Wuthering Waves 3.4 Lucilla Story Quest Full Walkthrough (PC) \| We Choose The Sky | Kiruno | 24 | 2026-06-14 | <https://www.youtube.com/watch?v=Apl6uhsWIMo> |
 | 2 h 10 min | Wuthering Waves \| Chapter III Segue: We Choose the Sky | Esper | 4 | 2026-08-03 | <https://www.youtube.com/watch?v=HgJH61v1dN8> |
 | 2 h 11 min | Wuthering Waves 3.4 - Main Story Quest: "We Choose the Sky" | BSS Gaming | 38 | 2026-06-15 | <https://www.youtube.com/watch?v=Z94qZbsoml4> |
+| 2 h 15 min | Japanese Dub - Wuthering Waves 3.4 Story Quest - Lucilla "We Choose the Sky" | Slamy | 20 | 2026-06-15 | <https://www.youtube.com/watch?v=F1x7CEPs1dw> |
+| 2 h 30 min | Wuthering Waves Chapter III - Segue - We Choose the Sky Quest | Sushizie Gamer | 15 | 2026-10-16 | <https://www.youtube.com/watch?v=vla6SqdA2jI> |
 
 </details>
 <!--/gen-->
