@@ -5,7 +5,7 @@ group of entries and one entry, the noun it numbers them with, and the groups in
 the order they are published in. The prose lives in the markdown files next to
 this one, which the renderer fills in place rather than writes.
 
-NIKKE numbers its campaign chapters straight through from 00 to 48 and groups
+NIKKE numbers its campaign chapters straight through from 00 to 50 and groups
 them under nothing at all: the wiki lists them as one flat navbox, the game
 presents them as one continuous campaign map, and no page records an arc, a
 season or a part. So the volumes below are this report's own device, ten
@@ -14,10 +14,11 @@ numbers a volume covers rather than a place. The README says so in as many
 words, because a reader is otherwise entitled to think the game draws the line
 where this report does.
 
-A volume is titled after its first and its last chapter. Volume 5 is still
-open, taking Chapters 40 to 49 as they ship, so its title follows its newest
-chapter: when Chapters 47 and 48 joined it, "Choice to Rebirth" became "Choice
-to Reborn" and its file was renamed to match.
+A volume is titled after its first and its last chapter, and the last volume
+is still open, so its title follows its newest chapter. Chapter 49 closed
+Volume 5 as "Choice to Final Battle", its file renamed to match, and Chapter 50
+opened Volume 6, which until a second chapter joins it is titled after that one
+chapter alone.
 
 The wiki pages recorded here feed the renderer nothing. They record what the
 authored markdown links by hand, because a chapter's own wiki page reaches the
@@ -60,9 +61,14 @@ CHAPTERS = [
         title="Volume 4: Treasure to Gene",
     ),
     dict(
-        id="v5", slug="05-choice-to-reborn", wiki_page="Story",
-        region="40 - 48", versions="not recorded",
-        title="Volume 5: Choice to Reborn",
+        id="v5", slug="05-choice-to-final-battle", wiki_page="Story",
+        region="40 - 49", versions="not recorded",
+        title="Volume 5: Choice to Final Battle",
+    ),
+    dict(
+        id="v6", slug="06-ascension", wiki_page="Story",
+        region="50", versions="not recorded",
+        title="Volume 6: Ascension",
     ),
 ]
 

@@ -4,7 +4,7 @@ Duration estimates for every story chapter of the *Goddess of Victory: NIKKE* ca
 from the tutorial descent onto the surface to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole campaign story: <!--f:grand_total-->65 h 05 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->509<!--/f--> accepted uploads out of <!--f:n_candidates-->1102<!--/f--> candidates).
+**Total for the whole campaign story: <!--f:grand_total-->75 h 34 min<!--/f-->** (<!--f:n_report_entries-->51<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->529<!--/f--> accepted uploads out of <!--f:n_candidates-->1172<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -16,7 +16,8 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume 2: Comrade to Eden | 10 - 19 | not recorded | 10 | 8 h 34 min | [02-comrade-to-eden.md](02-comrade-to-eden.md) |
 | Volume 3: Flame Dragon to Rescue | 20 - 29 | not recorded | 10 | 15 h 22 min | [03-flame-dragon-to-rescue.md](03-flame-dragon-to-rescue.md) |
 | Volume 4: Treasure to Gene | 30 - 39 | not recorded | 10 | 15 h 43 min | [04-treasure-to-gene.md](04-treasure-to-gene.md) |
-| Volume 5: Choice to Reborn | 40 - 48 | not recorded | 9 | 20 h 20 min | [05-choice-to-reborn.md](05-choice-to-reborn.md) |
+| Volume 5: Choice to Final Battle | 40 - 49 | not recorded | 10 | 22 h 47 min | [05-choice-to-final-battle.md](05-choice-to-final-battle.md) |
+| Volume 6: Ascension | 50 | not recorded | 1 | 8 h 02 min | [06-ascension.md](06-ascension.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -24,11 +25,11 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
+| longest | Volume 6, Chapter 50: Ascension | 8 h 02 min |
 | longest | Volume 5, Chapter 44: Path | 3 h 07 min |
 | longest | Volume 5, Chapter 46: Rebirth | 3 h 03 min |
 | longest | Volume 5, Chapter 42: Only One | 2 h 52 min |
-| longest | Volume 5, Chapter 41: Birth | 2 h 20 min |
-| longest | Volume 3, Chapter 24: Banishment | 2 h 20 min |
+| longest | Volume 5, Chapter 49: Final Battle | 2 h 27 min |
 | shortest | Volume 1, Chapter 00: Fall | 8 min |
 | shortest | Volume 1, Chapter 03: Enlightenment | 12 min |
 | shortest | Volume 2, Chapter 10: Comrade | 20 min |
@@ -87,8 +88,11 @@ which is the shortest chapter here.
 - **Fragments:** the game's own stage numbering ("32-12") and the "(1/2)"
 half-uploads mark a split with no second reading,
 so those are screened out for good;
-a "Part 3" may still be readmitted on its runtime,
-since it is as likely to be the third instalment of a complete playthrough.
+a "Part 3" or a "Part I" may still be readmitted on its runtime,
+since it is as likely to be one instalment of a complete playthrough.
+A channel that numbers only the second of its videos
+is caught by its title instead, where it splits a chapter
+(Dimattic's *Ascension*, `data/partials.txt`).
 A title that writes two chapter numbers side by side
 ("CH 45/46", "Chapter 31~32", "Chapter 47 48") is the opposite case,
 a bundle of both however the rest of it reads,
@@ -134,11 +138,13 @@ by patch branding or search them any deeper than the settled ones.
 chapter published here, and any upload for a later chapter
 is screened out as naming no chapter this report knows,
 so the report covers what the wiki documents.
-The two newest chapters, *Outbreak* and *Reborn*,
-reached the wiki weeks after their first uploads,
-as stubs with no synopsis,
+Its newest chapters, *Outbreak*, *Reborn*, *Final Battle* and *Ascension*,
+are stubs on it with no synopsis.
+The first two reached it weeks after their first uploads,
 and the upload dates in their evidence tables
 are the only record of when they shipped that this report has.
+The last two shipped together, as the uploads that bundle them show,
+but none of their uploads could be dated (see below).
 - **What an upload of a NIKKE chapter contains varies more than in any other
 report here.** A chapter is a map of battles with story scenes between them,
 and the uploads divide into ones that fight every battle
@@ -157,9 +163,11 @@ so most view counts here are the search listing's rounded figures,
 marked with a `~`, and most upload dates read "n/a".
 The estimates themselves are unaffected:
 they come from the runtimes, which the harvest already had.
-The two newest chapters are the exception:
-their candidates were fetched in full
+*Outbreak* and *Reborn* are the exception:
+the candidates of their first harvest were fetched in full
 but for an age-restricted bundle that is screened out regardless.
+The candidates added since, *Final Battle*'s and *Ascension*'s among them,
+met the bot check from the first request and were not fetched at all.
 - The wiki records no quest parts, no stage list and no act division
 for a chapter, so there are no quest-part bullets in this report
 and the chapter markers of an upload had nothing to be matched against

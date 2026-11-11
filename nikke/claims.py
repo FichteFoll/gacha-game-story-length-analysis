@@ -57,12 +57,10 @@ CLAIMS = [
     sample_at_most("v4", "Chapter 32", 6,
                    "and Advance rests on a handful of them either way"),
 
-    # 05-choice-to-reborn.md
-    largest_chapter("v5",
-                    "the largest volume in the report "
-                    "despite being the smallest by count"),
-    count_above("v5", 120, 6,
-                "Of its nine chapters, six run past two hours"),
+    # 05-choice-to-final-battle.md
+    largest_chapter("v5", "it is the largest volume in the report"),
+    count_above("v5", 120, 7,
+                "Of its ten chapters, seven run past two hours"),
     rank_at_most("v5", "Chapter 47", 2,
                  "Outbreak and Reborn are the two shortest chapters "
                  "in the volume", scope="chapter", end="min"),
@@ -75,4 +73,18 @@ CLAIMS = [
                    "took far less time over each of the two"),
     median_between("v5", "Chapter 48", 1, 110,
                    "took far less time over each of the two"),
+    median_between("v5", "Chapter 49", 121, 600,
+                   "Final Battle, which closes the volume, "
+                   "climbs back past two hours"),
+
+    # 06-ascension.md
+    is_extreme("v6", "Chapter 50", "max",
+               "on its own longer than any two chapters before it "
+               "put together", scope="global"),
+    median_between("v6", "Chapter 50", 381, 2000,
+                   "more than twice as long as Path, the longest of the rest"),
+    rank_at_most("v5", "Chapter 44", 2,
+                 "more than twice as long as Path, the longest of the rest"),
+    median_between("v5", "Chapter 44", 1, 190,
+                   "more than twice as long as Path, the longest of the rest"),
 ]

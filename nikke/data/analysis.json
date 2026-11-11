@@ -12747,7 +12747,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 40",
   "act_title": "Choice",
   "wiki_page": "Choice",
@@ -13088,7 +13088,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 41",
   "act_title": "Birth",
   "wiki_page": "Birth",
@@ -13450,7 +13450,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 42",
   "act_title": "Only One",
   "wiki_page": "Only One (chapter)",
@@ -13795,7 +13795,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 43",
   "act_title": "Key",
   "wiki_page": "Key",
@@ -14164,7 +14164,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 44",
   "act_title": "Path",
   "wiki_page": "Path",
@@ -14486,7 +14486,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 45",
   "act_title": "The Price of Sin",
   "wiki_page": "The Price of Sin",
@@ -14906,7 +14906,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 46",
   "act_title": "Rebirth",
   "wiki_page": "Rebirth",
@@ -15273,7 +15273,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 47",
   "act_title": "Outbreak",
   "wiki_page": "Outbreak (chapter)",
@@ -15675,7 +15675,7 @@
  },
  {
   "chapter_id": "v5",
-  "chapter_title": "Volume 5: Choice to Reborn",
+  "chapter_title": "Volume 5: Choice to Final Battle",
   "act_label": "Chapter 48",
   "act_title": "Reborn",
   "wiki_page": "Reborn",
@@ -16066,6 +16066,898 @@
    "q1": 80,
    "q3": 91,
    "trimmed_mean": 87,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "v5",
+  "chapter_title": "Volume 5: Choice to Final Battle",
+  "act_label": "Chapter 49",
+  "act_title": "Final Battle",
+  "wiki_page": "Final Battle (chapter)",
+  "slug": "v5_Chapter_49",
+  "candidates": [
+   {
+    "seconds": 10198,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 49 [Final Battle] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=mwjtinkiauY",
+    "views": "4345",
+    "rejected": []
+   },
+   {
+    "seconds": 8819,
+    "title": "Chapter 49 - NIKKE \"Final Battle\" (Full Story Quest)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=g1HeMiuzHxQ",
+    "views": "29050",
+    "rejected": []
+   },
+   {
+    "seconds": 4146,
+    "title": "Campaign Chapter 49 Final Battle part 1 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=9ndwxT2re5U",
+    "views": "26",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 8243,
+    "title": "Goddess of Victory: Nikke - Chapter 49: Final Battle (JP Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=fmtuqv7AL3A",
+    "views": "420",
+    "rejected": []
+   },
+   {
+    "seconds": 8045,
+    "title": "Chapter 49: Final Battle - Final Boss & Ending | Goddess of Victory: NIKKE 4th Anniversary",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=QUlFQsa1Sms",
+    "views": "292",
+    "rejected": []
+   },
+   {
+    "seconds": 12903,
+    "title": "NIKKE - The GODDESSES OF VICTORY | Chapter 49 - Final Battle FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=EDICxcmELWA",
+    "views": "56",
+    "rejected": []
+   },
+   {
+    "seconds": 14806,
+    "title": "Nikke New Story chapters: 49 and 50 Live playthrough! Part 3!",
+    "uploader": "Ramesses The 800th",
+    "url": "https://www.youtube.com/watch?v=jXuhcGn7T_0",
+    "views": "12",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 41730,
+    "title": "Main Story CH 49/50 Playthrough | MEGA STREAM | NIKKE 4th Anniversary ",
+    "uploader": "EiZEN",
+    "url": "https://www.youtube.com/watch?v=5PnTR5k9z5Q",
+    "views": "69961",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 8226,
+    "title": "Chapter 49: Final Battle | Main Story | Goddess of Victory: Nikke",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=KP363AcVPsk",
+    "views": "65",
+    "rejected": []
+   },
+   {
+    "seconds": 11941,
+    "title": "Nikke New Story chapters: 49 and 50 Live playthrough! Part 1!",
+    "uploader": "Ramesses The 800th",
+    "url": "https://www.youtube.com/watch?v=hYwYhHXjloo",
+    "views": "18",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 15030,
+    "title": "NIKKE Chapter 49 Is HERE! The Final Battle Begins | LIVE",
+    "uploader": "Chaldea Gurus",
+    "url": "https://www.youtube.com/watch?v=aMiO_vGP2yA",
+    "views": "968",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 8116,
+    "title": "NIKKE Chapter 49 'FINAL BATTLE' FULL STORY | NIKKE",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=KUP_gEaFp1c",
+    "views": "4115",
+    "rejected": []
+   },
+   {
+    "seconds": 1083,
+    "title": "Rapi's Story in 18 Minutes [EN Dub] | NIKKE Chapter 49-50",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=rzq_SqKkTVM",
+    "views": "151",
+    "rejected": [
+     "multi-act",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 970,
+    "title": "Scarlet's Complete Story in 16 Minutes [EN Dub] | NIKKE Chapter 49-50",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=yO_96cLXwBU",
+    "views": "406",
+    "rejected": [
+     "multi-act",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 40571,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 49 & Chapter 50 (English) | LIVE Playthrough (No Commentary)",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=EYoeibhLmPs",
+    "views": "45508",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act"
+    ]
+   },
+   {
+    "seconds": 40865,
+    "title": "[Nikke] Chapters 49 & 50 (No Commentary) + Marian:Queen Gacha attempts",
+    "uploader": "Kizenki",
+    "url": "https://www.youtube.com/watch?v=5xbVyLvHbf8",
+    "views": "207",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 284,
+    "title": "NIKKE Special Animation: Third Surface Reclamation War",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=WHrqfOZGjUs",
+    "views": "2976",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 14067,
+    "title": "FIRST TIME PLAYING MAIN CHAPTER 49! | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Dimattic",
+    "url": "https://www.youtube.com/watch?v=mFNDf10NH50",
+    "views": "8391",
+    "rejected": []
+   },
+   {
+    "seconds": 222,
+    "title": "\u3010NIKKE\u3011 Campaign Chapter 49 Final Battle | Lost Relics",
+    "uploader": "Xiao. tian",
+    "url": "https://www.youtube.com/watch?v=R5Y-tddTfc4",
+    "views": "217",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9184,
+    "title": "Goddess of Victory: Nikke - Chapter 49: Final Battle (Eng Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=hWTwAN46WT8",
+    "views": "556",
+    "rejected": [
+     "same-uploader"
+    ]
+   },
+   {
+    "seconds": 8208,
+    "title": "Campaign Chapter 49, FINAL BATTLE, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=Pnw1XnENvW4",
+    "views": "725",
+    "rejected": []
+   },
+   {
+    "seconds": 338,
+    "title": "Marian Returns To The Fight -Campaign Chapter: 49 | NIKKE ",
+    "uploader": "GoldionGaming",
+    "url": "https://www.youtube.com/watch?v=g0odjxMvFjc",
+    "views": "434",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 2680,
+    "title": "GODDESS OF VICTORY: NIKKE | CAMPAIGN \u2013 Chapter 49: FINAL BATTLE \u2013 Stage 49-1 to 49-16",
+    "uploader": "Aru Summon",
+    "url": "https://www.youtube.com/watch?v=RsSAW0FXfoo",
+    "views": "5",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 2533,
+    "title": "GODDESS OF VICTORY: NIKKE | CAMPAIGN \u2013Chapter 49: FINAL BATTLE\u2013 Stage 49-31 to 49-36 BOSS: NOSTALGIA",
+    "uploader": "Aru Summon",
+    "url": "https://www.youtube.com/watch?v=gvgo4G_vG98",
+    "views": "3",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 12038,
+    "title": "Nikke: Campaign Chapter 49 | Twitch VOD",
+    "uploader": "HeksVT",
+    "url": "https://www.youtube.com/watch?v=gtCMxmtvNCs",
+    "views": "12",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 42901,
+    "title": "[DROPS] Goddess of Victory: NIKKE 4th Anniversary Main Story Campaign Chapter 49 (Part 1/2)",
+    "uploader": "AtlascityGG",
+    "url": "https://www.youtube.com/watch?v=gsLOoBPAL3M",
+    "views": "7",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 14182,
+    "title": "Kou Plays Nikke Main Campaign Chapter 49 (Full VOD)",
+    "uploader": "KoumakanCafe B-Side",
+    "url": "https://www.youtube.com/watch?v=3_uqeQsvfTc",
+    "views": "3",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 8622,
+    "title": "Story 49 Final Battle Goddess Of Victory : NIKKE ( DUB JP )",
+    "uploader": "Havidz Ch.",
+    "url": "https://www.youtube.com/watch?v=kDKL8xbrZ9k",
+    "views": "9092",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 289,
+    "title": "The Ark Ascends to Surface | Third Surface Reclamation War (Animated Cutscene) | NIKKE Chapter 49",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=N_bqzEPHfGE",
+    "views": "87436",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 11454,
+    "title": "Chapter 49: Final Battle | Nikke: Goddess of Victory Story",
+    "uploader": "BouFrostGaming",
+    "url": "https://www.youtube.com/watch?v=lDDuSN5eS6Y",
+    "views": "202",
+    "rejected": []
+   },
+   {
+    "seconds": 12689,
+    "title": "Goddess of Victory: NIKKE [D165] - Main Story Ch 49 Final Battle",
+    "uploader": "StrawberryC0c0mi1k",
+    "url": "https://www.youtube.com/watch?v=Mrulu9yZing",
+    "views": "185",
+    "rejected": []
+   },
+   {
+    "seconds": 108,
+    "title": "The Final Conflict With Everything on the Line PV (Full Ver.) | GODDESS OF VICTORY: NIKKE",
+    "uploader": "GODDESS OF VICTORY: NIKKE",
+    "url": "https://www.youtube.com/watch?v=fNDE69YNvuc",
+    "views": "380621",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 20997,
+    "title": "The Cost of Victory | CH 49/50 Aftermath - NIKKE 4th Anni",
+    "uploader": "EiZEN",
+    "url": "https://www.youtube.com/watch?v=Pve_10Lb4MU",
+    "views": "33206",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 8045,
+    "title": "Chapter 49: Final Battle - Final Boss & Ending | Goddess of Victory: NIKKE 4th Anniversary",
+    "uploader": "BlazzerSora and BlazzerSora Gacha",
+    "url": "https://www.youtube.com/watch?v=QUlFQsa1Sms",
+    "views": "292",
+    "rejected": []
+   },
+   {
+    "seconds": 8116,
+    "title": "NIKKE Chapter 49 'FINAL BATTLE' FULL STORY | NIKKE",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=KUP_gEaFp1c",
+    "views": "4115",
+    "rejected": []
+   },
+   {
+    "seconds": 8208,
+    "title": "Campaign Chapter 49, FINAL BATTLE, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=Pnw1XnENvW4",
+    "views": "725",
+    "rejected": []
+   },
+   {
+    "seconds": 8226,
+    "title": "Chapter 49: Final Battle | Main Story | Goddess of Victory: Nikke",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=KP363AcVPsk",
+    "views": "65",
+    "rejected": []
+   },
+   {
+    "seconds": 8243,
+    "title": "Goddess of Victory: Nikke - Chapter 49: Final Battle (JP Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=fmtuqv7AL3A",
+    "views": "420",
+    "rejected": []
+   },
+   {
+    "seconds": 8819,
+    "title": "Chapter 49 - NIKKE \"Final Battle\" (Full Story Quest)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=g1HeMiuzHxQ",
+    "views": "29050",
+    "rejected": []
+   },
+   {
+    "seconds": 10198,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 49 [Final Battle] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=mwjtinkiauY",
+    "views": "4345",
+    "rejected": []
+   },
+   {
+    "seconds": 11454,
+    "title": "Chapter 49: Final Battle | Nikke: Goddess of Victory Story",
+    "uploader": "BouFrostGaming",
+    "url": "https://www.youtube.com/watch?v=lDDuSN5eS6Y",
+    "views": "202",
+    "rejected": []
+   },
+   {
+    "seconds": 12689,
+    "title": "Goddess of Victory: NIKKE [D165] - Main Story Ch 49 Final Battle",
+    "uploader": "StrawberryC0c0mi1k",
+    "url": "https://www.youtube.com/watch?v=Mrulu9yZing",
+    "views": "185",
+    "rejected": []
+   },
+   {
+    "seconds": 12903,
+    "title": "NIKKE - The GODDESSES OF VICTORY | Chapter 49 - Final Battle FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=EDICxcmELWA",
+    "views": "56",
+    "rejected": []
+   },
+   {
+    "seconds": 14067,
+    "title": "FIRST TIME PLAYING MAIN CHAPTER 49! | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Dimattic",
+    "url": "https://www.youtube.com/watch?v=mFNDf10NH50",
+    "views": "8391",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 11,
+   "median": 147,
+   "low": 134,
+   "high": 234,
+   "q1": 137,
+   "q3": 211,
+   "trimmed_mean": 165,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "v6",
+  "chapter_title": "Volume 6: Ascension",
+  "act_label": "Chapter 50",
+  "act_title": "Ascension",
+  "wiki_page": "Ascension",
+  "slug": "v6_Chapter_50",
+  "candidates": [
+   {
+    "seconds": 34671,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 50 [Ascension] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=c9OAS4wFmdQ",
+    "views": "4920",
+    "rejected": []
+   },
+   {
+    "seconds": 26746,
+    "title": "NIKKE Chapter 50 Full Story [EN Dub] | Ascension",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=8XZlf7ktNp0",
+    "views": "587",
+    "rejected": []
+   },
+   {
+    "seconds": 28892,
+    "title": "Chapter 50 - NIKKE \"Ascension\" (Full Story Quest)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=r3rMtmwr4J4",
+    "views": "42241",
+    "rejected": []
+   },
+   {
+    "seconds": 35387,
+    "title": "NIKKE - Absolute CINEMA | Chapter 50 - Ascension FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=RrgBo3dhsYQ",
+    "views": "176",
+    "rejected": []
+   },
+   {
+    "seconds": 271,
+    "title": "\u3010NIKKE\u3011 Campaign Chapter 50 Ascension | Lost Relics",
+    "uploader": "Xiao. tian",
+    "url": "https://www.youtube.com/watch?v=PK6JsCtVwaw",
+    "views": "345",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 15783,
+    "title": "Time to Ascend! | NIKKE Chapter 50: ASCENSION Part 1",
+    "uploader": "KOGG",
+    "url": "https://www.youtube.com/watch?v=a-Kkcv6Xh64",
+    "views": "680",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 30053,
+    "title": "NIKKE - Chapter 50 - Ascension",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=SOIvIRfMHVg",
+    "views": "3",
+    "rejected": []
+   },
+   {
+    "seconds": 485,
+    "title": "Andersen & Lilith All Romantic Moments [EN Dub] | NIKKE Chapter 50",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=JfG7jfPRF_k",
+    "views": "632",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 790,
+    "title": "Matis Squad's Story in Chapter 49-50 [EN Dub] | NIKKE",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=GHTMVqrbhXY",
+    "views": "618",
+    "rejected": [
+     "multi-act",
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 39,
+    "title": "HoloEN Mage Arena - what do you mean DOOM!?",
+    "uploader": "Chalek0",
+    "url": "https://www.youtube.com/watch?v=gpTVU0JGzpI",
+    "views": "2305462",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1470,
+    "title": "The Lore of Nikke 01 - The Rapture Invasion",
+    "uploader": "OtakuDaiKun",
+    "url": "https://www.youtube.com/watch?v=VdmBhErHxE4",
+    "views": "19015",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 27868,
+    "title": "Goddess of Victory: Nikke - Chapter 50: Ascension (JP Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=psRFTbkHKsg",
+    "views": "813",
+    "rejected": []
+   },
+   {
+    "seconds": 40571,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 49 & Chapter 50 (English) | LIVE Playthrough (No Commentary)",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=EYoeibhLmPs",
+    "views": "45521",
+    "rejected": [
+     "not-a-playthrough",
+     "multi-act"
+    ]
+   },
+   {
+    "seconds": 33732,
+    "title": "Chapter 50 - Ascension | Goddess of Victory: Nikke",
+    "uploader": "Chain",
+    "url": "https://www.youtube.com/watch?v=UnRAmeyaokE",
+    "views": "9084",
+    "rejected": []
+   },
+   {
+    "seconds": 28411,
+    "title": "Chapter 50 - Ascension Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=SY7vT-2wbyc",
+    "views": "497",
+    "rejected": []
+   },
+   {
+    "seconds": 19727,
+    "title": "NIKKE Chapter 50 'Ascension' Part I Full Story | NIKKE",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=9rGWlUoqRPU",
+    "views": "4607",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 7827,
+    "title": "Nikke Chapter 50  'Ascension' Epilogue Full Story | NIKKE",
+    "uploader": "Tyan R",
+    "url": "https://www.youtube.com/watch?v=gpenkoU8SYg",
+    "views": "2923",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 23388,
+    "title": "FIRST TIME PLAYING MAIN CHAPTER 50! PART 2 | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Dimattic",
+    "url": "https://www.youtube.com/watch?v=ln6vuiKb1ME",
+    "views": "9398",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 166,
+    "title": "[NIKKE] Chapter 50-36 Normal | Goddess of Victory Statue Boss | 30.5% Deficit/659k CP Clear",
+    "uploader": "Chump77",
+    "url": "https://www.youtube.com/watch?v=s-5Afp2B3Zo",
+    "views": "995",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 17902,
+    "title": "FIRST TIME PLAYING MAIN CHAPTER 50! | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Dimattic",
+    "url": "https://www.youtube.com/watch?v=dTCXnolS7Tw",
+    "views": "7598",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 31867,
+    "title": "Goddess of Victory: Nikke - Chapter 50: Ascension (Eng Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=P4FkcenEiPQ",
+    "views": "1039",
+    "rejected": [
+     "same-uploader"
+    ]
+   },
+   {
+    "seconds": 412,
+    "title": "Crown Wasn't Made in the ARK (Unknown Creator) | NIKKE Chapter 50",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=_QanyrT4w-4",
+    "views": "22879",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 281,
+    "title": "Andersen and Liliweiss Get a Happy Romantic Ending (Cutscene) | NIKKE Chapter 50",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=At0MARzaB7E",
+    "views": "51116",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 29901,
+    "title": "Story 50 Ascension ( DUB JP )  Goddess Of Victory : NIKKE",
+    "uploader": "Havidz Ch.",
+    "url": "https://www.youtube.com/watch?v=SkL3a1E9jGM",
+    "views": "5440",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 10350,
+    "title": "It's time for some lore drops! | NIKKE Chapter 50: ASCENSION Epilogue",
+    "uploader": "KOGG",
+    "url": "https://www.youtube.com/watch?v=NgOMQXlqeaw",
+    "views": "751",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4291,
+    "title": "Campaign Chapter 50 Ascension Part 5 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=JFjJUU6KT94",
+    "views": "2",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 20318,
+    "title": "Campaign Chapter 50, ASCENSION, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=dqO_NbzXoMY",
+    "views": "798",
+    "rejected": []
+   },
+   {
+    "seconds": 37285,
+    "title": "\u3010Goddess of Victory: NIKKE\u3011CAMPAIGN CHAPTER 49 + 50 | THE 3RD SURFACE RECLAMATION WAR",
+    "uploader": "TheDomotaku",
+    "url": "https://www.youtube.com/watch?v=f6l930PQHSQ",
+    "views": "196",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4397,
+    "title": "ENTER HEAVEN Complete Play Through | Goddess of Victory: Nikke Limited-Time Event",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=adCPFkhbfhA",
+    "views": "159",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3288,
+    "title": "Campaign Chapter 50 Ascension Part 8 (Final) | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=5C5aM87oaec",
+    "views": "3",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5287,
+    "title": "Campaign Chapter 50 Ascension Part 2 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=mYaZVRsuIZk",
+    "views": "2",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 2835,
+    "title": "Campaign Chapter 50 Ascension Part 7 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=1_5jHUu5m0I",
+    "views": "2",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3806,
+    "title": "Campaign Chapter 50 Ascension Part 6 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=m-vXleuWjDs",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3542,
+    "title": "Campaign Chapter 50 Ascension Part 1 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=1KNdTWwMnpo",
+    "views": "1",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 3531,
+    "title": "Campaign Chapter 50 Ascension part 3 | Nikke",
+    "uploader": "Kibuzurito",
+    "url": "https://www.youtube.com/watch?v=kyc_GUjorWA",
+    "views": "4",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 4927,
+    "title": "Goddess of Victory: Nikke - Chapter 47: Outbreak (JP Dub Eng Sub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=swpv-2FFdlQ",
+    "views": "1656",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5248,
+    "title": "IT'S ABOUT TIME- Goddess of Victory: NIKKE 3.5 Anniversary Livestream VOD Reaction!",
+    "uploader": "iAmEquiinoX",
+    "url": "https://www.youtube.com/watch?v=9x--f_a_WYs",
+    "views": "1107",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 20318,
+    "title": "Campaign Chapter 50, ASCENSION, Nikke: Goddess of Victory",
+    "uploader": "RinkoAoi",
+    "url": "https://www.youtube.com/watch?v=dqO_NbzXoMY",
+    "views": "798",
+    "rejected": []
+   },
+   {
+    "seconds": 26746,
+    "title": "NIKKE Chapter 50 Full Story [EN Dub] | Ascension",
+    "uploader": "Affan",
+    "url": "https://www.youtube.com/watch?v=8XZlf7ktNp0",
+    "views": "587",
+    "rejected": []
+   },
+   {
+    "seconds": 27868,
+    "title": "Goddess of Victory: Nikke - Chapter 50: Ascension (JP Dub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=psRFTbkHKsg",
+    "views": "813",
+    "rejected": []
+   },
+   {
+    "seconds": 28411,
+    "title": "Chapter 50 - Ascension Full Story | Japanese VA | GODDESS OF VICTORY: NIKKE",
+    "uploader": "Villenthessis",
+    "url": "https://www.youtube.com/watch?v=SY7vT-2wbyc",
+    "views": "497",
+    "rejected": []
+   },
+   {
+    "seconds": 28892,
+    "title": "Chapter 50 - NIKKE \"Ascension\" (Full Story Quest)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=r3rMtmwr4J4",
+    "views": "42241",
+    "rejected": []
+   },
+   {
+    "seconds": 30053,
+    "title": "NIKKE - Chapter 50 - Ascension",
+    "uploader": "Aihara",
+    "url": "https://www.youtube.com/watch?v=SOIvIRfMHVg",
+    "views": "3",
+    "rejected": []
+   },
+   {
+    "seconds": 33732,
+    "title": "Chapter 50 - Ascension | Goddess of Victory: Nikke",
+    "uploader": "Chain",
+    "url": "https://www.youtube.com/watch?v=UnRAmeyaokE",
+    "views": "9084",
+    "rejected": []
+   },
+   {
+    "seconds": 34671,
+    "title": "GODDESS OF VICTORY: NIKKE - Chapter 50 [Ascension] (English) Playthrough [PC]",
+    "uploader": "justonegamr",
+    "url": "https://www.youtube.com/watch?v=c9OAS4wFmdQ",
+    "views": "4920",
+    "rejected": []
+   },
+   {
+    "seconds": 35387,
+    "title": "NIKKE - Absolute CINEMA | Chapter 50 - Ascension FULL",
+    "uploader": "Toncattsu",
+    "url": "https://www.youtube.com/watch?v=RrgBo3dhsYQ",
+    "views": "176",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 9,
+   "median": 482,
+   "low": 339,
+   "high": 590,
+   "q1": 455,
+   "q3": 570,
+   "trimmed_mean": 493,
    "measured": 0,
    "parts": {},
    "drift": null

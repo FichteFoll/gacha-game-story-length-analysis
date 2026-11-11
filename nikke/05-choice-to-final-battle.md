@@ -1,20 +1,18 @@
 <!--gen:heading-->
-# Volume 5: Choice to Reborn
+# Volume 5: Choice to Final Battle
 
-**Chapters:** 40 - 48 | **Game versions:** not recorded | **Entries:** 9 | **Estimated volume length: 20 h 20 min**
+**Chapters:** 40 - 49 | **Game versions:** not recorded | **Entries:** 10 | **Estimated volume length: 22 h 47 min**
 <!--/gen-->
 
-The current end of the campaign,
-and a volume still being written into:
-it takes the next chapter as it ships,
-and the one after that opens Volume 6.
+The volume that runs the campaign up to its final battle,
+complete since that chapter closed it;
+the chapter after it opens Volume 6.
 The Rapture Queen is born,
 the Dark Net conspiracy comes apart
 and Dorothy comes home;
-the two chapters after that have no synopsis on the wiki yet.
-It holds <!--f:n_entries-->nine<!--/f--> chapters so far,
-and it is the largest volume in the report
-despite being the smallest by count.
+the three chapters after that have no synopsis on the wiki yet.
+It holds <!--f:n_entries-->ten<!--/f--> chapters,
+and it is the largest volume in the report.
 
 ## At a glance
 
@@ -30,22 +28,25 @@ despite being the smallest by count.
 | Chapter 46 | Rebirth | 3 h 03 min | 2 h 53 min - 3 h 31 min | 13 | high |
 | Chapter 47 | Outbreak | 1 h 24 min | 1 h 22 min - 1 h 37 min | 15 | high |
 | Chapter 48 | Reborn | 1 h 23 min | 1 h 20 min - 1 h 31 min | 13 | high |
+| Chapter 49 | Final Battle | 2 h 27 min | 2 h 17 min - 3 h 31 min | 11 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->20 h 20 min<!--/f-->**
+**Total: <!--f:total-->22 h 47 min<!--/f-->**
 
 ## Pacing
 
-Fewer entries than any other volume and more hours than any of them,
+As many chapters as the volumes before it and more hours than any of them,
 which is this campaign's whole trajectory in one line.
-Of its <!--f:n_entries-->nine<!--/f--> chapters, <!--f:n_above_2h-->six<!--/f--> run past two hours.
-Where it currently ends, the trajectory breaks:
+Of its <!--f:n_entries-->ten<!--/f--> chapters, <!--f:n_above_2h-->seven<!--/f--> run past two hours.
+Near its end the trajectory breaks:
 Outbreak and Reborn are the two shortest chapters in the volume,
 at <!--f:len_Chapter_47-->1 h 24 min<!--/f--> and <!--f:len_Chapter_48-->1 h 23 min<!--/f-->,
 and the uploaders who recorded Rebirth as well,
 Light Yuusha and Tyan R among them,
 took far less time over each of the two,
 so the drop is in the chapters rather than in how they were played.
+Final Battle, which closes the volume,
+climbs back past two hours at <!--f:len_Chapter_49-->2 h 27 min<!--/f-->.
 The pools behave well for content this recent,
 because an uploader who takes on a chapter this long
 tends to record all of it.
@@ -132,7 +133,6 @@ to make a Rapture Queen of their own.
 The newborn Queen goes berserk,
 and the crystal attack on the Ark lands at the same time.
 <!--gen:stats act="Chapter 42"-->
-One of the three longest chapters in the game.
 
 - **Estimated length:** 2 h 52 min
 - **Sampled range:** 2 h 48 min to 3 h 25 min for the middle half (full spread 2 h 39 min to 4 h 47 min) across 9 playthrough uploads (16 further candidates screened out)
@@ -206,7 +206,7 @@ goes down through memories she had long forgotten.
 The end of Sixo's schemes,
 and the conspiracy underneath the Dark Net.
 <!--gen:stats act="Chapter 44"-->
-The single longest chapter in the game.
+One of the three longest chapters in the game.
 
 - **Estimated length:** 3 h 07 min
 - **Sampled range:** 2 h 59 min to 3 h 22 min for the middle half (full spread 2 h 58 min to 3 h 38 min) across 9 playthrough uploads (14 further candidates screened out)
@@ -315,7 +315,7 @@ One of the three longest chapters in the game.
 ### Chapter 47 - [Outbreak](https://nikke-goddess-of-victory-international.fandom.com/wiki/Outbreak_(chapter))
 <!--/gen-->
 
-The first of the two chapters the wiki has only as a stub,
+The first of the three chapters the wiki has only as a stub,
 with no synopsis yet,
 so there is nothing sourced to say about its story here.
 The upload dates below are the only record of when it shipped
@@ -357,8 +357,7 @@ that this report has.
 ### Chapter 48 - [Reborn](https://nikke-goddess-of-victory-international.fandom.com/wiki/Reborn)
 <!--/gen-->
 
-The newest chapter in the game at the collection date,
-shipped together with Outbreak,
+Shipped together with Outbreak,
 and like it a stub on the wiki with no synopsis.
 Its title is a few letters away from that of Chapter 46, Rebirth,
 but the title matching reads whole words,
@@ -391,6 +390,43 @@ so no upload of the one is counted for the other.
 | 1 h 35 min | NIKKE - Chapter 48 - Reborn | Aihara | 5 | 2026-08-29 | <https://www.youtube.com/watch?v=J9adTiTeTRE> |
 | 1 h 58 min | GODDESS OF VICTORY: NIKKE - Chapter 48 [Reborn] (English) Playthrough [PC] | justonegamr | 8,810 | 2026-08-13 | <https://www.youtube.com/watch?v=HOvjnSeDES4> |
 | 2 h 01 min | NIKKE - HOLY UPGRADES \| Chapter 48 - Reborn FULL | Toncattsu | 357 | 2026-08-14 | <https://www.youtube.com/watch?v=k2i15pLr9cg> |
+
+</details>
+<!--/gen-->
+
+<!--gen:act-heading act="Chapter 49"-->
+### Chapter 49 - [Final Battle](https://nikke-goddess-of-victory-international.fandom.com/wiki/Final_Battle_(chapter))
+<!--/gen-->
+
+The chapter that closes the volume,
+shipped together with Chapter 50, Ascension,
+in the update its uploaders title as the game's anniversary,
+and like the two before it a stub on the wiki with no synopsis.
+<!--gen:stats act="Chapter 49"-->
+
+- **Estimated length:** 2 h 27 min
+- **Sampled range:** 2 h 17 min to 3 h 31 min for the middle half (full spread 2 h 14 min to 3 h 54 min) across 11 playthrough uploads (22 further candidates screened out)
+- **Confidence:** low
+- **Released in:** unknown
+<!--/gen-->
+
+<!--gen:evidence act="Chapter 49"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 2 h 14 min | Chapter 49: Final Battle - Final Boss & Ending \| Goddess of Victory: NIKKE 4th Anniversary | BlazzerSora and BlazzerSora Gacha | ~292 | n/a | <https://www.youtube.com/watch?v=QUlFQsa1Sms> |
+| 2 h 15 min | NIKKE Chapter 49 'FINAL BATTLE' FULL STORY \| NIKKE | Tyan R | ~4,115 | n/a | <https://www.youtube.com/watch?v=KUP_gEaFp1c> |
+| 2 h 17 min | Campaign Chapter 49, FINAL BATTLE, Nikke: Goddess of Victory | RinkoAoi | ~725 | n/a | <https://www.youtube.com/watch?v=Pnw1XnENvW4> |
+| 2 h 17 min | Chapter 49: Final Battle \| Main Story \| Goddess of Victory: Nikke | CANNED JAR | ~65 | n/a | <https://www.youtube.com/watch?v=KP363AcVPsk> |
+| 2 h 17 min | Goddess of Victory: Nikke - Chapter 49: Final Battle (JP Dub) | FrenchOverlord | ~420 | n/a | <https://www.youtube.com/watch?v=fmtuqv7AL3A> |
+| 2 h 27 min | Chapter 49 - NIKKE "Final Battle" (Full Story Quest) | Streetwise Rhapsody | ~29,050 | n/a | <https://www.youtube.com/watch?v=g1HeMiuzHxQ> |
+| 2 h 50 min | GODDESS OF VICTORY: NIKKE - Chapter 49 [Final Battle] (English) Playthrough [PC] | justonegamr | ~4,345 | n/a | <https://www.youtube.com/watch?v=mwjtinkiauY> |
+| 3 h 11 min | Chapter 49: Final Battle \| Nikke: Goddess of Victory Story | BouFrostGaming | ~202 | n/a | <https://www.youtube.com/watch?v=lDDuSN5eS6Y> |
+| 3 h 31 min | Goddess of Victory: NIKKE [D165] - Main Story Ch 49 Final Battle | StrawberryC0c0mi1k | ~185 | n/a | <https://www.youtube.com/watch?v=Mrulu9yZing> |
+| 3 h 35 min | NIKKE - The GODDESSES OF VICTORY \| Chapter 49 - Final Battle FULL | Toncattsu | ~56 | n/a | <https://www.youtube.com/watch?v=EDICxcmELWA> |
+| 3 h 54 min | FIRST TIME PLAYING MAIN CHAPTER 49! \| GODDESS OF VICTORY: NIKKE | Dimattic | ~8,391 | n/a | <https://www.youtube.com/watch?v=mFNDf10NH50> |
 
 </details>
 <!--/gen-->
