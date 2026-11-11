@@ -44,6 +44,10 @@ CLAIMS = [
     rank_at_most("ch7", "Act II", 10, "The 7.0 pair is long", scope="global"),
     median_between("ch7", "Act III", 120, 210, "The 7.1 pair is markedly shorter"),
     median_between("ch7", "Act IV", 120, 210, "The 7.1 pair is markedly shorter"),
+    is_extreme("ch7", "Act V", "min", "Act V is the shortest act of the chapter"),
+    # "Lopsided": Act VI at least half as long again as the 7.1 acts, Act V shorter than both.
+    median_between("ch7", "Act V", 60, 120, "The 7.2 pair is lopsided"),
+    median_between("ch7", "Act VI", 180, 300, "The 7.2 pair is lopsided"),
     # Eight is analyze.py's IQR_SAMPLES, the floor for publishing a middle half.
     every_sample_at_least("ch7", 8, "yet both already rest on enough complete uploads"),
 ]

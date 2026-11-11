@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->118 h 22 min<!--/f-->** (<!--f:n_report_entries-->47<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->556<!--/f--> accepted uploads out of <!--f:n_candidates-->942<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->123 h 38 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->626<!--/f--> accepted uploads out of <!--f:n_candidates-->1119<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -14,12 +14,12 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | --- | --- | --- | --- | --- | --- |
 | Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 3 h 00 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
 | Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 42 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
-| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 12 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
-| Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 04 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
+| Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 15 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
+| Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 07 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
 | Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 12 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |
-| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 29 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
-| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 40 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
-| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 - 7.1 | 4 | 14 h 03 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
+| Chapter V: Incandescent Ode of Resurrection | Natlan | 5.0 - 5.7 | 7 | 17 h 35 min | [05-chapter-v-natlan.md](05-chapter-v-natlan.md) |
+| Song of the Welkin Moon (unofficially Chapter VI) | Nod-Krai, later Sumeru | 5.8 - Luna VII (6.x) | 11 | 35 h 41 min | [06-song-of-the-welkin-moon-nod-krai.md](06-song-of-the-welkin-moon-nod-krai.md) |
+| Chapter VII: Everwinter Without Mercy | Snezhnaya | 7.0 - 7.2 | 6 | 19 h 06 min | [07-chapter-vii-snezhnaya.md](07-chapter-vii-snezhnaya.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->acts<!--/f-->
@@ -29,9 +29,9 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | --- | --- | --- |
 | longest | Chapter IV, Act V: Masquerade of the Guilty | 4 h 46 min |
 | longest | Song of the Welkin Moon, Act I: A Dance of Snowy Tides and Hoarfrost Groves | 4 h 43 min |
+| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 28 min |
 | longest | Chapter III, Act V: Akasha Pulses, the Kalpa Flame Rises | 4 h 27 min |
-| longest | Chapter VII, Act II: Wraith's Nocturne | 4 h 25 min |
-| longest | Song of the Welkin Moon, Act X: Truth Amongst the Pages of Purana | 4 h 13 min |
+| longest | Song of the Welkin Moon, Act X: Truth Amongst the Pages of Purana | 4 h 16 min |
 | shortest | Chapter I, Act IV - Prelude: Bough Keeper: Dainsleif | 36 min |
 | shortest | Chapter II, Act II: Stillness, the Sublimation of Shadow | 50 min |
 | shortest | Prologue, Act I: The Outlander Who Caught the Wind | 52 min |
@@ -97,4 +97,4 @@ whatever confidence they rate today.
 are Archon Quests but not part of the main chapter progression,
 so they are outside this report's scope.
 
-Data collected <!--f:date-->2026-09-28<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.
