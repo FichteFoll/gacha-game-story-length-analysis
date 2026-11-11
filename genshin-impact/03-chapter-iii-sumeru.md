@@ -196,7 +196,6 @@ The assault on the Divine Throne:
 Shouki no Kami, one of Dottore's segments,
 and Nahida taking back the Akasha.
 <!--gen:stats act="Act V"-->
-One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 27 min
 - **Sampled range:** 4 h 01 min to 4 h 51 min for the middle half (full spread 2 h 12 min to 5 h 14 min) across 14 playthrough uploads (5 further candidates screened out)

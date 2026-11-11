@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Song of the Welkin Moon (unofficially Chapter VI)
 
-**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 40 min**
+**Region:** Nod-Krai, later Sumeru | **Game versions:** 5.8 - Luna VII (6.x) | **Entries:** 11 | **Estimated chapter length: 35 h 41 min**
 <!--/gen-->
 
 Ineffa leads the Traveler out of Natlan to Nod-Krai,
@@ -24,16 +24,16 @@ and finally deliver the Chapter III title drop.
 | Act VI | Melting Moonlight in the Morning Mist | 2 h 58 min | 2 h 50 min - 3 h 12 min | 10 | high |
 | Act VII | A Traveler on a Winter's Night | 2 h 56 min | 2 h 44 min - 3 h 07 min | 22 | high |
 | Act VIII | True Moon | 3 h 24 min | 3 h 17 min - 3 h 30 min | 9 | high |
-| Act IX | As All Falls to Emptiness | 2 h 37 min | 2 h 31 min - 2 h 48 min | 10 | high |
-| Act X | Truth Amongst the Pages of Purana | 4 h 13 min | 3 h 48 min - 4 h 23 min | 11 | high |
+| Act IX | As All Falls to Emptiness | 2 h 35 min | 2 h 21 min - 2 h 43 min | 22 | high |
+| Act X | Truth Amongst the Pages of Purana | 4 h 16 min | 3 h 26 min - 4 h 48 min | 17 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->35 h 40 min<!--/f-->**
+**Total: <!--f:total-->35 h 41 min<!--/f-->**
 
 ## Pacing
 
 By far the largest chapter: <!--f:n_entries-->eleven<!--/f--> entries,
-and a running time of <!--f:total-->35 h 40 min<!--/f-->,
+and a running time of <!--f:total-->35 h 41 min<!--/f-->,
 comparable to Sumeru and Fontaine combined.
 Act I alone runs <!--f:len_Act_I-->4 h 43 min<!--/f-->.
 Although the later acts are also the most recent content sampled,
@@ -424,13 +424,13 @@ Back to Sumeru through Collei's letter:
 identities in Sumeru City have been switched around.
 <!--gen:stats act="Act IX"-->
 
-- **Estimated length:** 2 h 37 min
-- **Sampled range:** 2 h 31 min to 2 h 48 min for the middle half (full spread 2 h 22 min to 3 h 06 min) across 10 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 2 h 35 min
+- **Sampled range:** 2 h 21 min to 2 h 43 min for the middle half (full spread 1 h 48 min to 3 h 13 min) across 22 playthrough uploads (25 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 10 uploads
+- **Stability:** median -1% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 22 uploads
 - **Quest parts (3):** Where Flowers Awaken; A Divergence Leading to Oneself; Ancient Shadows Re-Emerge
 <!--/gen-->
 
@@ -440,16 +440,28 @@ identities in Sumeru City have been switched around.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 1 h 48 min | Song of the Welkin Moon Act IX – As All Falls to Emptiness \| Full Story Quest \| Genshin Impact | GenshinBoy | ~12 | n/a | <https://www.youtube.com/watch?v=KJ1NuvWGEps> |
+| 2 h 04 min | Genshin Impact PC \| As All Falls to Emptiness Part 1 – Main Story Quest Gameplay | F2P | ~80 | n/a | <https://www.youtube.com/watch?v=cWDSKtkARVk> |
+| 2 h 05 min | As All Falls to Emptiness - Song of the Welkin Moon Act IX \| Genshin Impact Version Luna VII | D.H FIROZ | ~635 | n/a | <https://www.youtube.com/watch?v=nJQHhS3l4OE> |
+| 2 h 11 min | 【Genshin Impact】Song of the Welkin Moon - Act IX: As All Falls to Emptiness | Miksu2001 | ~2 | n/a | <https://www.youtube.com/watch?v=F03XquOvBA4> |
+| 2 h 17 min | Full Nod Krai Archon Quest - Genshin Impact | Fayato | 67,568 | 2026-05-23 | <https://www.youtube.com/watch?v=MFWtuWRiIlU> |
 | 2 h 22 min | Nod-Krai Act 9 Luna VII Archon Quest Full Story \| As All Falls To Emptiness \| Genshin Impact 6.6 | Noxxis Gaming | 1,730 | 2026-05-20 | <https://www.youtube.com/watch?v=Mwjb3TiqOw0> |
-| 2 h 27 min | Full Nod Krai Archon Quest Act 9 & 10 Playthrough - Genshin Impact 6.6 / Luna 7 | Fayato | 49,083 | 2026-05-20 | <https://www.youtube.com/watch?v=1Ue2BnNDET4> |
+| 2 h 24 min | Genshin Impact 6.6 Luna VII Archon Quest Act 9 Full | Kazuma Akimoto (Master Aki) | ~25 | n/a | <https://www.youtube.com/watch?v=Paojpxf81Ns> |
 | 2 h 32 min | LUNA 7 Archon Quest - ACT 9 \| Genshin Impact | Infinity Iris Gaming | 10 | 2026-06-07 | <https://www.youtube.com/watch?v=eC7Mp6lDP-Q> |
+| 2 h 32 min | Genshin Impact \| 6.6 Archon Quest ACT 9: As All Falls to Emptiness | More ZeeTM | ~72 | n/a | <https://www.youtube.com/watch?v=cuVoiSkYZXk> |
 | 2 h 34 min | As All Falls to Emptiness FULL QUEST Genshin Impact | WoW Quests | 24,880 | 2026-05-20 | <https://www.youtube.com/watch?v=CkP88uSXTww> |
 | 2 h 34 min | Genshin Impact \| Song of the Welkin Moon: Act IX \| Walkthrough \| No Commentary | PangYe | 28 | 2026-06-21 | <https://www.youtube.com/watch?v=6MT0aW1bVGs> |
+| 2 h 35 min | SWM- Act IX: As All Falls to Emptiness – Complete Quest Walkthrough \| Genshin Impact | V0id | ~424 | n/a | <https://www.youtube.com/watch?v=z_usPm9GHPA> |
+| 2 h 38 min | GENSHIN IMPACT VERSION 6.6 ACT 9 - New Archon Story Quest -  As All Falls To Emptiness | Our Animax | ~18 | n/a | <https://www.youtube.com/watch?v=joNOlZgz40g> |
+| 2 h 40 min | Genshin Impact 6.6 Archon Quest: Song of the Welkin Moon Act 9 - As All Falls To Emptiness (4K) | RTXMonkey | ~79 | n/a | <https://www.youtube.com/watch?v=fmLxk8stlTY> |
 | 2 h 40 min | Archon Quest \| Song of the Welkin Moon : Act IX \| As All Falls to Emptiness \| Genshin Impact Luna 7 | Senthu Gamer | 12 | 2026-05-23 | <https://www.youtube.com/watch?v=VVYSbnhFhz8> |
 | 2 h 42 min | Song of the Welkin Moon Act: XI - Complete Story \| Genshin Impact | Nyxienx | 123 | 2026-05-22 | <https://www.youtube.com/watch?v=TMMaJfRIaMo> |
+| 2 h 42 min | Song of the Welkin Moon: Act 9 - As All Falls to Emptiness \| Genshin Impact 6.6 | esthetekgames | ~50 | n/a | <https://www.youtube.com/watch?v=JRKTyVu5l5E> |
 | 2 h 48 min | Archon Quest "Chapter VI: Act IX -  As All Falls to Emptiness" | Mystrix Gaming | ~10 | n/a | <https://www.youtube.com/watch?v=xafT8526ryY> |
 | 2 h 51 min | As All Falls to Emptiness \| Archon Quest Song of the Welkin Moon Act IX [Genshin Impact] | neogery | 166 | 2026-05-24 | <https://www.youtube.com/watch?v=10Vte_fTeBM> |
+| 2 h 56 min | Genshin Impact 6.6 Version - Main Story Quest: As All Falls to Emptiness | BSS Gaming | ~135 | n/a | <https://www.youtube.com/watch?v=Eug_s0GYRCc> |
 | 3 h 06 min | Genshin Impact SotWM Luna 7 Act 9: As All Falls to Emptiness full playthrough | IdyotAko | 11 | 2026-05-31 | <https://www.youtube.com/watch?v=EywimS3FZd0> |
+| 3 h 13 min | Genshin Impact 4K \| Act IX “As All Falls to Emptiness” \| Main Story \| JP Dub \| 6.6 Luna VII | London22Gaming | ~212 | n/a | <https://www.youtube.com/watch?v=a76Wf3-n4WY> |
 
 </details>
 <!--/gen-->
@@ -462,14 +474,14 @@ Kaveh, Alhaitham, and Thoth open the Aaru,
 and Chapter III finally gets its title drop.
 <!--gen:stats act="Act X"-->
 
-- **Estimated length:** 4 h 13 min
-- **Sampled range:** 3 h 48 min to 4 h 23 min for the middle half (full spread 2 h 16 min to 7 h 00 min) across 11 playthrough uploads (34 further candidates screened out)
-- **Confidence:** high
+- **Estimated length:** 4 h 16 min
+- **Sampled range:** 3 h 26 min to 4 h 48 min for the middle half (full spread 2 h 16 min to 7 h 28 min) across 17 playthrough uploads (42 further candidates screened out)
+- **Confidence:** medium
 - **Adventure Rank gate:** 40
 - **Released in:** Luna VII (6.6)
-- **Stability:** median -4% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 11 uploads
-- **Quest parts (4):** Darkness Looming; A Tower Unto Wisdom and Folly; Truth Amongst the Pages of Purana (1 h 24 min); Your Past Is Like a Garden
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 5 of 17 uploads
+- **Quest parts (4):** Darkness Looming; A Tower Unto Wisdom and Folly (52 min); Truth Amongst the Pages of Purana (1 h 22 min); Your Past Is Like a Garden
 <!--/gen-->
 
 <!--gen:evidence act="Act X"-->
@@ -480,6 +492,8 @@ and Chapter III finally gets its title drop.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 16 min | Truth Amongst the Pages of Purana FULL QUEST Genshin Impact | WoW Quests | 25,316 | 2026-05-20 | <https://www.youtube.com/watch?v=jQyiEYeCC3I> |
 | 2 h 21 min | Genshin Impact - Truth Amongst the Pages of Purana Full Quest Walkthrough (4K 60FPS) | Vanguard Gameplay 4K | 32 | 2026-08-02 | <https://www.youtube.com/watch?v=fn2E3GbvFak> |
+| 2 h 38 min | Song of the Welkin Moon: Acts IX & X (Final Part) — Full Playthrough \| Genshin Impact 6.6 'Luna VII' | Mr. Trajet | 17,069 | 2026-05-22 | <https://www.youtube.com/watch?v=2j40P3FRtq4> |
+| 3 h 05 min | Truth Amongst the Pages of Purana - Song Of the Welkin Moon Act X । Genshin Impact version Luna VII | D.H FIROZ | ~25 | n/a | <https://www.youtube.com/watch?v=mhq1c-QoIgc> |
 | 3 h 48 min | Genshin Impact 6.6 Luna 7 Act 10 Archon Quest Full Walkthrough | XPPathway | 69 | 2026-05-21 | <https://www.youtube.com/watch?v=9yHHRq-pBBA> |
 | 3 h 55 min | Nod-Krai Archon Quest Act 10 – Luna VII \| Full Story Walkthrough | Ryuzk | 62 | 2026-05-21 | <https://www.youtube.com/watch?v=VnWCSed4IIE> |
 | 4 h 04 min | Nod-Krai Act 10 Luna VII Archon Quest Full Story \| Of Myriad Paths, Flux, Dissolution \| Genshin 6.6 | Noxxis Gaming | 9,010 | 2026-05-21 | <https://www.youtube.com/watch?v=8YcMkIFj1Xc> |
@@ -487,8 +501,12 @@ and Chapter III finally gets its title drop.
 | 4 h 16 min | Full Nod Krai Archon Quest Act 9 & 10 Playthrough - Genshin Impact 6.6 / Luna 7 | Fayato | 49,083 | 2026-05-20 | <https://www.youtube.com/watch?v=1Ue2BnNDET4> |
 | 4 h 18 min | Archon Quest \| Song of the Welkin Moon : Act X \| Truth Amongst the Pages of Purana \| Genshin Impact | Senthu Gamer | 8 | 2026-05-23 | <https://www.youtube.com/watch?v=3lC4S_CVjhM> |
 | 4 h 23 min | Song of the Welkin Moon Act: X - Complete Story \| Genshin Impact | Nyxienx | 329 | 2026-05-25 | <https://www.youtube.com/watch?v=S5tHS32UU3g> |
+| 4 h 24 min | Genshin Impact Song of the Welkin Moon (Act X) - Sumeru \| 6th Anniversary \| BACK TO 2020! | LamLN | ~29 | n/a | <https://www.youtube.com/watch?v=5dfCUy-Bfss> |
 | 4 h 34 min | Genshin Impact \| Song of the Welkin Moon: Act X \| Mission Walkthrough \| No Commentary | PangYe | 103 | 2026-06-28 | <https://www.youtube.com/watch?v=Yc5wOb3YPH4> |
+| 5 h 03 min | Genshin Impact 4K \| Act X “Truth Amongst the Pages of Purana” \| Main Story \| JP Dub \| 6.6 Luna VII | London22Gaming | ~167 | n/a | <https://www.youtube.com/watch?v=QpdqyUj39l4> |
+| 5 h 49 min | Genshin Impact 6.6 Luna VII \| Act X \| Truth Amongst the Pages of Purana \| No Commentary \| Immersive | Wandering Lore | ~13 | n/a | <https://www.youtube.com/watch?v=sZZxmR0Vuos> |
 | 7 h 00 min | Truth Amongst the Pages of Purana Full Quest \| Genshin Impact 6.6 (Luna VII) | jieun | 977 | 2026-05-24 | <https://www.youtube.com/watch?v=Uk51BZq7LPw> |
+| 7 h 28 min | Truth Amongst the Pages of Purana \| Genshin Impact Luna VII - Archon Quests | Game Impossible with Harry | ~276 | n/a | <https://www.youtube.com/watch?v=LQ1bmY-GHa4> |
 
 </details>
 <!--/gen-->

@@ -1,3 +1,5 @@
 full (mondstadt|liyue|inazuma|sumeru|fontaine|natlan|nod ?-? ?krai|snezhnaya)( archon)? quest
 \bending \+
 upon waking,? &
+\bhour of ruin,? (and|&)
+!\bact vi\b.*\bhour of ruin\b
