@@ -98,7 +98,7 @@ and they are counted as two entries.
 - Season 1 is the softest part of this report,
 and its figures should be read as a range rather than as an estimate.
 Dialogue is skippable in this game and a great deal of Season 1 is dialogue,
-so the same chapter takes one uploader an hour and another three;
+so the same chapter takes one uploader far longer than another;
 the pools are also the oldest and the thinnest,
 and *A Call From the Hollow's Heart* in particular
 rests on a handful of complete runs.
