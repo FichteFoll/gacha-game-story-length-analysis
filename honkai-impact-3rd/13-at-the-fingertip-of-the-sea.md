@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # At the Fingertip of the Sea
 
-**Part:** Part 1.5 | **Game versions:** 6.5 - 6.8 | **Entries:** 4 | **Estimated arc length: 9 h 46 min**
+**Part:** Part 1.5 | **Game versions:** 6.5 - 6.8 | **Entries:** 4 | **Estimated arc length: 9 h 49 min**
 <!--/gen-->
 
 Half a year after the moon, Nagazora is still putting itself back together,
@@ -14,17 +14,17 @@ to a tower standing alone under a fallen star.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter XXXVI | Hailing from Nagazora | 1 h 01 min | 44 min - 1 h 16 min | 4 | low |
+| Chapter XXXVI | Hailing from Nagazora | 1 h 04 min | 44 min - 1 h 16 min | 3 | low |
 | Chapter XXXVII | Of Salt, Snow, and Sand | 1 h 23 min | 1 h 00 min - 1 h 25 min | 3 | low |
 | Chapter XXXVIII | Lone Tower, Fallen Star | 5 h 26 min | 4 h 01 min - 6 h 52 min | 2 | low |
 | Chapter XXXIX | Daughters of the Sea | 1 h 56 min | 1 h 37 min - 2 h 58 min | 3 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->9 h 46 min<!--/f-->**
+**Total: <!--f:total-->9 h 49 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->four<!--/f--> entries and <!--f:total-->9 h 46 min<!--/f-->,
+<!--f:n_entries-->four<!--/f--> entries and <!--f:total-->9 h 49 min<!--/f-->,
 of which *Lone Tower, Fallen Star* alone
 accounts for <!--f:len_Chapter_XXXVIII-->5 h 26 min<!--/f-->.
 Part 1.5 is where the evidence gets thin, and this arc is the thinnest of it:
@@ -44,11 +44,11 @@ is as likely to be a gap in the evidence as one in the game.
 Suspicion, shadows and a dangerous path out of Nagazora.
 <!--gen:stats act="Chapter XXXVI"-->
 
-- **Estimated length:** 1 h 01 min
-- **Sampled range:** 44 min to 1 h 16 min across 4 playthrough uploads (44 further candidates screened out)
+- **Estimated length:** 1 h 04 min
+- **Sampled range:** 44 min to 1 h 16 min across 3 playthrough uploads (45 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 6.5
-- **Stability:** median -10% against an earlier, independent query set
+- **Stability:** median -6% against an earlier, independent query set
 - **Quest parts (3):** Suspecting Nagazora; Chasing Shadows; Dangerous Path
 <!--/gen-->
 
@@ -59,7 +59,6 @@ Suspicion, shadows and a dangerous path out of Nagazora.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 44 min | Honkai Impact 3rd Chapter 36 Hailing from Nagazora | Dante Hades 闇 | ~120 | n/a | <https://www.youtube.com/watch?v=EGzdXtzsdUw> |
-| 59 min | Finishing Main Story Chapter 36: Hailing from Nagazora Part 3 then I'm getting Railed by some Stars | CiphDra | 17 | 2023-05-06 | <https://www.youtube.com/watch?v=-Z1XFB7HVKU> |
 | 1 h 04 min | A Mysterious Group in Nagazora: Honkai Impact Chapter 36 Part 1 | Frozen Inferno | ~4 | n/a | <https://www.youtube.com/watch?v=VIuR-rnZqRo> |
 | 1 h 16 min | (JP Dub - EN Sub) Hailing from Nagazora (Part 1) \| Honkai Impact 3rd | AndhraZX | ~337 | n/a | <https://www.youtube.com/watch?v=kSqNpz_b4L8> |
 

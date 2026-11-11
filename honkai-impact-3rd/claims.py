@@ -122,9 +122,11 @@ CLAIMS = [
     sample_at_most("ttgb", "Chapter III", 7,
                    "the three numbered chapters are thin"),
 
-    largest_chapter("datrow", "The largest arc in the report"),
-    total_ratio_between("datrow", ["aric"], 1.0, 1.1,
-                        "if only just ahead of the arc that follows it"),
+    largest_chapter("aric", "The second largest arc in the report, "
+                    "behind only the arc that follows it"),
+    total_ratio_between("datrow", ["aric"], 0.0, 1.0,
+                        "The second largest arc in the report, "
+                        "behind only the arc that follows it"),
     total_ratio_between("datrow",
                         ["wdb", "teod", "utfs", "ftdo", "shooting_star", "ety"],
                         1.0, 3.0,
@@ -148,11 +150,9 @@ CLAIMS = [
                    "The arc's closing interlude, "
                    "and the longer of its two EX chapters"),
 
-    rank_at_most("aric", "Chapter XI", 2,
-                 "A mass for atheists, and the second largest entry in the arc",
+    rank_at_most("aric", "Chapter XI", 3,
+                 "A mass for atheists, and one of the arc's longer entries",
                  scope="chapter"),
-    is_extreme("aric", "Chapter XIV", "max",
-               "A mass for atheists, and the second largest entry in the arc"),
     median_between("aric", "Chapter X", 225, 275,
                    "Four of its entries sit within half an hour of each other"),
     median_between("aric", "Chapter XI", 225, 275,
@@ -161,17 +161,16 @@ CLAIMS = [
                    "Four of its entries sit within half an hour of each other"),
     median_between("aric", "Chapter XIII", 225, 275,
                    "Four of its entries sit within half an hour of each other"),
-    largest_chapter("datrow",
-                    "and all but level with *Dawn after the Remaining Old Wish* "
-                    "as the largest"),
-    total_ratio_between("datrow", ["aric"], 1.0, 1.1,
-                        "and all but level with *Dawn after the Remaining Old "
-                        "Wish* as the largest"),
+    largest_chapter("aric",
+                    "and the largest in it, "
+                    "ahead of *Dawn after the Remaining Old Wish*"),
     median_between("aric", "Chapter EX-4", 5, 179,
                    "and the only entry here under three hours"),
-    count_above("aric", 180, 5,
+    count_above("aric", 180, 6,
                 "and the only entry here under three hours"),
     is_extreme("aric", "Chapter XIV", "max",
                "Chapter XIV runs past all of them, "
                "and past every other entry in the game", scope="global"),
+    median_between("aric", "Chapter XV", 181, 224,
+                   "and the afterstory after it comes in shorter than the four"),
 ]

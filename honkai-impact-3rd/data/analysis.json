@@ -3398,7 +3398,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -3983,7 +3982,6 @@
     "views": "4775",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -3995,7 +3993,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -4440,7 +4437,7 @@
     "url": "https://www.youtube.com/watch?v=FejtiU2-IO4",
     "views": "1160",
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ]
    },
    {
@@ -5773,7 +5770,6 @@
     "url": "https://www.youtube.com/watch?v=9F5IKc593L4",
     "views": "10455",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -5816,7 +5812,6 @@
     "views": "4773",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -8472,14 +8467,15 @@
     ]
    },
    {
-    "seconds": 5766,
+    "seconds": 5765,
     "title": "Honkai Impact 3rd Story Chapter 13 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=ZKPUMVwayGk",
-    "views": "26919",
+    "views": 27161,
     "rejected": [
      "same-uploader"
-    ]
+    ],
+    "upload_date": "20200704"
    },
    {
     "seconds": 3027,
@@ -8958,10 +8954,11 @@
     "title": "Honkai Impact 3rd Story Chapter 14 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=Zc2h-cBOYV0",
-    "views": "26372",
+    "views": 26628,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20200811"
    },
    {
     "seconds": 1660,
@@ -9135,14 +9132,15 @@
     "rejected": []
    },
    {
-    "seconds": 1043,
+    "seconds": 1042,
     "title": "Honkai Impact 3 Story Chapter 15 The Prodigal Girl Returns Act 3 ENDING",
     "uploader": "VirtualP:G:E",
     "url": "https://www.youtube.com/watch?v=bQJ7g0zIkJc",
-    "views": "160",
+    "views": 172,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20200508"
    },
    {
     "seconds": 1422,
@@ -10401,10 +10399,11 @@
     "title": "[Honkai Impact 3rd] Story Chapter 17 \"Thunders Over Nagazora\" (with gameplay) part 1",
     "uploader": "Shinrin Games",
     "url": "https://www.youtube.com/watch?v=bovQyCWNfRE",
-    "views": "8887",
+    "views": 8905,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20210422"
    },
    {
     "seconds": 2790,
@@ -13458,9 +13457,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=adJvi3L2YYw",
     "views": "13",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 12847,
@@ -13853,6 +13850,14 @@
     "rejected": []
    },
    {
+    "seconds": 14332,
+    "title": "[Full Story] THE SOLO STAGE",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=adJvi3L2YYw",
+    "views": "13",
+    "rejected": []
+   },
+   {
     "seconds": 14927,
     "title": "Honkai Impact 3rd - Part 1 Chapter 23: The Solo Stage",
     "uploader": "The Honkaipedia",
@@ -13878,13 +13883,13 @@
    }
   ],
   "stats": {
-   "n": 8,
+   "n": 9,
    "median": 221,
    "low": 180,
    "high": 293,
-   "q1": 195,
-   "q3": 261,
-   "trimmed_mean": 229,
+   "q1": 200,
+   "q3": 257,
+   "trimmed_mean": 230,
    "measured": 0,
    "parts": {},
    "drift": 0.057
@@ -13966,10 +13971,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=WethVA1ldGI",
     "views": 39,
-    "rejected": [
-     "multi-act",
-     "part-of-an-act"
-    ],
+    "rejected": [],
     "upload_date": "20210708"
    },
    {
@@ -13979,8 +13981,7 @@
     "url": "https://www.youtube.com/watch?v=tJfQqRpJOVA",
     "views": "14",
     "rejected": [
-     "multi-act",
-     "part-of-an-act"
+     "same-uploader"
     ]
    },
    {
@@ -14458,19 +14459,28 @@
     "views": 60,
     "rejected": [],
     "upload_date": "20250412"
+   },
+   {
+    "seconds": 15996,
+    "title": "[Full Story] THE LEGION THEATER",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=WethVA1ldGI",
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20210708"
    }
   ],
   "stats": {
-   "n": 6,
-   "median": 228,
+   "n": 7,
+   "median": 232,
    "low": 180,
-   "high": 262,
+   "high": 267,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 220,
+   "trimmed_mean": 227,
    "measured": 0,
    "parts": {},
-   "drift": -0.062
+   "drift": -0.045
   }
  },
  {
@@ -14566,9 +14576,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=ToQnWKNt-iU",
     "views": "9",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 14852,
@@ -14743,7 +14751,9 @@
     "uploader": "CrimsonFox45",
     "url": "https://www.youtube.com/watch?v=FqSi3e8jdPE",
     "views": "14",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 5018,
@@ -14866,14 +14876,6 @@
   ],
   "kept": [
    {
-    "seconds": 5701,
-    "title": "Set Tomorrow Ablaze Story Chapter 25 - Honkai Impact 3rd | CrimsonFox45",
-    "uploader": "CrimsonFox45",
-    "url": "https://www.youtube.com/watch?v=FqSi3e8jdPE",
-    "views": "14",
-    "rejected": []
-   },
-   {
     "seconds": 6847,
     "title": "MAY ALL THE BEAUTY BE BLESSED o7 ;_______; | Chapter 25 - PART 2\u3010Honkai Impact 3rd\u3011",
     "uploader": "nekouji",
@@ -14915,6 +14917,14 @@
     "rejected": []
    },
    {
+    "seconds": 13647,
+    "title": "[Full Story] SET TOMORROW ABLAZE",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=ToQnWKNt-iU",
+    "views": "9",
+    "rejected": []
+   },
+   {
     "seconds": 14394,
     "title": "CHAPTER 25 SET TOMORROW ABLAZE! MAIN STORY In Honkai Impact 3rd! PART 14!",
     "uploader": "Beefy",
@@ -14933,15 +14943,15 @@
   ],
   "stats": {
    "n": 8,
-   "median": 203,
-   "low": 95,
+   "median": 206,
+   "low": 114,
    "high": 248,
-   "q1": 132,
-   "q3": 232,
-   "trimmed_mean": 187,
+   "q1": 189,
+   "q3": 237,
+   "trimmed_mean": 203,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.01
   }
  },
  {
@@ -15051,7 +15061,6 @@
     "views": "157",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -16751,7 +16760,6 @@
     "views": "4773",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -19228,8 +19236,7 @@
     "url": "https://www.youtube.com/watch?v=NJEPxS3E-U4",
     "views": "402",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -19691,7 +19698,6 @@
     "views": "33264",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -22279,7 +22285,6 @@
     "views": "139",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -22567,7 +22572,9 @@
     "uploader": "CiphDra",
     "url": "https://www.youtube.com/watch?v=-Z1XFB7HVKU",
     "views": 17,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20230506"
    },
    {
@@ -22691,15 +22698,6 @@
     "rejected": []
    },
    {
-    "seconds": 3521,
-    "title": "Finishing Main Story Chapter 36: Hailing from Nagazora Part 3 then I'm getting Railed by some Stars",
-    "uploader": "CiphDra",
-    "url": "https://www.youtube.com/watch?v=-Z1XFB7HVKU",
-    "views": 17,
-    "rejected": [],
-    "upload_date": "20230506"
-   },
-   {
     "seconds": 3818,
     "title": "A Mysterious Group in Nagazora: Honkai Impact Chapter 36 Part 1",
     "uploader": "Frozen Inferno",
@@ -22717,8 +22715,8 @@
    }
   ],
   "stats": {
-   "n": 4,
-   "median": 61,
+   "n": 3,
+   "median": 64,
    "low": 44,
    "high": 76,
    "q1": null,
@@ -22726,7 +22724,7 @@
    "trimmed_mean": 61,
    "measured": 0,
    "parts": {},
-   "drift": -0.103
+   "drift": -0.059
   }
  },
  {
@@ -23273,7 +23271,6 @@
     "url": "https://www.youtube.com/watch?v=3pXgPtpNWhY",
     "views": 16,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20230717"
@@ -23285,7 +23282,6 @@
     "url": "https://www.youtube.com/watch?v=qqksIhCbDwA",
     "views": "26",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23307,7 +23303,6 @@
     "url": "https://www.youtube.com/watch?v=95kvXK_whkg",
     "views": "15",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23329,7 +23324,6 @@
     "views": "17",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23502,7 +23496,6 @@
     "views": "18",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23513,7 +23506,6 @@
     "url": "https://www.youtube.com/watch?v=dHpJjjjLGSU",
     "views": "22",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23845,7 +23837,6 @@
     "views": "16",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23857,7 +23848,6 @@
     "views": "9",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23869,7 +23859,6 @@
     "views": "21",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23880,7 +23869,6 @@
     "url": "https://www.youtube.com/watch?v=9oieKs3yNRM",
     "views": "20",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23892,7 +23880,6 @@
     "views": "28",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23904,7 +23891,6 @@
     "views": "19",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -24031,7 +24017,6 @@
     "url": "https://www.youtube.com/watch?v=u3CIs6fj8VQ",
     "views": "13",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -24271,7 +24256,6 @@
     "url": "https://www.youtube.com/watch?v=L2WLoxLnlsA",
     "views": "548",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -24284,7 +24268,6 @@
     "views": "139",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25387,7 +25370,7 @@
     "url": "https://www.youtube.com/watch?v=9l7B3B1O8Y8",
     "views": "768",
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -25861,7 +25844,6 @@
     "url": "https://www.youtube.com/watch?v=QA1cdL8Ne48",
     "views": "282",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25873,7 +25855,6 @@
     "url": "https://www.youtube.com/watch?v=mdpArcUK_Dk",
     "views": "957",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25885,7 +25866,6 @@
     "url": "https://www.youtube.com/watch?v=L0C6PdSfNzg",
     "views": "405",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25909,7 +25889,6 @@
     "url": "https://www.youtube.com/watch?v=0JAVV7uzAhs",
     "views": 404,
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ],
@@ -25932,7 +25911,6 @@
     "url": "https://www.youtube.com/watch?v=L2WLoxLnlsA",
     "views": "548",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -26087,7 +26065,6 @@
     "views": "191",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26128,7 +26105,6 @@
     "url": "https://www.youtube.com/watch?v=equdo3F_7mI",
     "views": "1035",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -26338,15 +26314,16 @@
     ]
    },
    {
-    "seconds": 193769,
+    "seconds": 193768,
     "title": "GENSHIN IMPACT | Full Game Walkthrough | No Commentary",
     "uploader": "The Game Archivist",
     "url": "https://www.youtube.com/watch?v=P6p0xxKuwf4",
-    "views": "5035131",
+    "views": 5351481,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230801"
    },
    {
     "seconds": 201,
@@ -26488,7 +26465,6 @@
     "views": "158356",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -26742,7 +26718,6 @@
     "url": "https://www.youtube.com/watch?v=wVuujLku6q0",
     "views": "160",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -27235,7 +27210,6 @@
     "url": "https://www.youtube.com/watch?v=NKcwU-zoh8I",
     "views": "200",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -27258,7 +27232,6 @@
     "url": "https://www.youtube.com/watch?v=pR4ZXR1TQIc",
     "views": "144",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -27280,7 +27253,6 @@
     "url": "https://www.youtube.com/watch?v=peoV8PIz6IU",
     "views": "140",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -28226,7 +28198,6 @@
     "url": "https://www.youtube.com/watch?v=lt8Pznoqtnw",
     "views": "549",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28352,7 +28323,6 @@
     "url": "https://www.youtube.com/watch?v=AO-CvsH8og4",
     "views": "311",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28457,7 +28427,6 @@
     "url": "https://www.youtube.com/watch?v=qdwLKrOrpL8",
     "views": "405",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -29362,7 +29331,9 @@
     "uploader": "Alejandro Sciarretta",
     "url": "https://www.youtube.com/watch?v=jLJSwdXmzuI",
     "views": "1",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 9978,
@@ -29788,7 +29759,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -29823,20 +29793,12 @@
     "views": "154",
     "rejected": [
      "multi-act",
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    }
   ],
   "kept": [
-   {
-    "seconds": 6407,
-    "title": "starting honkai story the first and last war",
-    "uploader": "Alejandro Sciarretta",
-    "url": "https://www.youtube.com/watch?v=jLJSwdXmzuI",
-    "views": "1",
-    "rejected": []
-   },
    {
     "seconds": 7187,
     "title": "Honkai Impact 3rd Chapter 5 The First and Last War | Sparkle and Vita",
@@ -29936,16 +29898,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 197,
-   "low": 107,
+   "n": 12,
+   "median": 198,
+   "low": 120,
    "high": 266,
-   "q1": 164,
-   "q3": 216,
-   "trimmed_mean": 192,
+   "q1": 173,
+   "q3": 219,
+   "trimmed_mean": 199,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.0
   }
  },
  {
@@ -30707,9 +30669,7 @@
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=zMBIOvcr0Bs",
     "views": "473",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 5709,
@@ -30892,6 +30852,14 @@
     "rejected": []
    },
    {
+    "seconds": 6939,
+    "title": "Honkai Impact Part 2 - Chapter 7 Interlude: To None May God Pray | Full Story JP Dub EN Sub 4K 60FPS",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=zMBIOvcr0Bs",
+    "views": "473",
+    "rejected": []
+   },
+   {
     "seconds": 6959,
     "title": "Honkai Impact 3rd Part 2 Chapter 7 EX - To None May God Pray (Full)",
     "uploader": "Kazuma Akimoto (Master Aki)",
@@ -30941,13 +30909,13 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 10,
    "median": 116,
    "low": 74,
    "high": 122,
-   "q1": 113,
+   "q1": 114,
    "q3": 119,
-   "trimmed_mean": 112,
+   "trimmed_mean": 116,
    "measured": 0,
    "parts": {},
    "drift": 0.027
@@ -31000,8 +30968,9 @@
     "title": "Helia | | Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=tAQ7_72k254",
-    "views": "6132",
-    "rejected": []
+    "views": 6326,
+    "rejected": [],
+    "upload_date": "20250508"
    },
    {
     "seconds": 2947,
@@ -31341,8 +31310,9 @@
     "title": "Helia | | Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=tAQ7_72k254",
-    "views": "6132",
-    "rejected": []
+    "views": 6326,
+    "rejected": [],
+    "upload_date": "20250508"
    },
    {
     "seconds": 16046,
@@ -31598,10 +31568,11 @@
     "title": "Honkai Impact 3rd Chapter 8 Spanish Subtitles",
     "uploader": "Jhintachi",
     "url": "https://www.youtube.com/watch?v=VyTCfSAbBro",
-    "views": "3382",
+    "views": 3410,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20201201"
    },
    {
     "seconds": 5361,
@@ -31700,7 +31671,6 @@
     "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
     "views": "342",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -32452,9 +32422,7 @@
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
     "views": "342",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 807,
@@ -32496,7 +32464,6 @@
     "url": "https://www.youtube.com/watch?v=QNy8r6Y_690",
     "views": "917",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -32540,6 +32507,14 @@
     "rejected": []
    },
    {
+    "seconds": 10522,
+    "title": "Honkai Impact Part 2 - Chapter 9EX: Yet the Stars Still Sparkle | Full Story JP Dub EN Sub 4K 60FPS",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
+    "views": "342",
+    "rejected": []
+   },
+   {
     "seconds": 11055,
     "title": "Honkai Impact 3rd - Part 2 : Chapter 9 EX Yet The Stars Still Sparkle (Full Playthrough)",
     "uploader": "Honkai Gamers",
@@ -32574,16 +32549,16 @@
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 184,
+   "n": 8,
+   "median": 180,
    "low": 144,
    "high": 252,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 186,
+   "q1": 154,
+   "q3": 206,
+   "trimmed_mean": 185,
    "measured": 0,
    "parts": {},
-   "drift": -0.066
+   "drift": -0.086
   }
  },
  {
@@ -32608,9 +32583,7 @@
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=92CBRw9jFQY",
     "views": 1440,
-    "rejected": [
-     "multi-act"
-    ],
+    "rejected": [],
     "upload_date": "20251106"
    },
    {
@@ -32669,7 +32642,7 @@
     "url": "https://www.youtube.com/watch?v=ac1nMEv5hdA",
     "views": "245",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -32786,7 +32759,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -32838,7 +32810,7 @@
     "url": "https://www.youtube.com/watch?v=_aObauymcnE",
     "views": "134",
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ]
    },
    {
@@ -32957,7 +32929,7 @@
     "url": "https://www.youtube.com/watch?v=AxDTv-8I0Rk",
     "views": "3",
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -33010,6 +32982,15 @@
     "rejected": []
    },
    {
+    "seconds": 13668,
+    "title": "Reunited Under the Light of Faith Full Story | Honkai Impact 3rd 8.5",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=92CBRw9jFQY",
+    "views": 1440,
+    "rejected": [],
+    "upload_date": "20251106"
+   },
+   {
     "seconds": 13745,
     "title": "Main Story Part 2 Chapter X: Reunited Under the Light of Faith! | Honkai Impact 3rd [v8.5]",
     "uploader": "Nanoha61",
@@ -33060,16 +33041,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 240,
+   "n": 9,
+   "median": 231,
    "low": 216,
    "high": 356,
-   "q1": 226,
-   "q3": 286,
-   "trimmed_mean": 258,
+   "q1": 227,
+   "q3": 280,
+   "trimmed_mean": 255,
    "measured": 0,
    "parts": {},
-   "drift": -0.101
+   "drift": -0.135
   }
  },
  {
@@ -33097,7 +33078,7 @@
     "url": "https://www.youtube.com/watch?v=YIm0shHKnu4",
     "views": "9",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -33149,7 +33130,7 @@
     "url": "https://www.youtube.com/watch?v=-ErBTduPNFI",
     "views": 41,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260529"
    },
@@ -33160,7 +33141,7 @@
     "url": "https://www.youtube.com/watch?v=t7yEBIvRp8c",
     "views": "128",
     "rejected": [
-     "short-outlier"
+     "fragment"
     ]
    },
    {
@@ -33189,7 +33170,9 @@
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=WmRAOWmtY-s",
     "views": "7",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 14267,
@@ -33367,7 +33350,6 @@
     "url": "https://www.youtube.com/watch?v=YppIMz7QnHM",
     "views": "172",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -33454,7 +33436,9 @@
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=uXlbz_jXyFA",
     "views": "25",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 55,
@@ -33628,14 +33612,6 @@
     "rejected": []
    },
    {
-    "seconds": 16986,
-    "title": "Finishing Part 2 Chapter 11: A Mass for Atheists",
-    "uploader": "Solo Lightning",
-    "url": "https://www.youtube.com/watch?v=WmRAOWmtY-s",
-    "views": "7",
-    "rejected": []
-   },
-   {
     "seconds": 17156,
     "title": "(11) Honkai Impact 3rd | Part 2 | Main Story - Chapter  11 - A Mass for Atheists",
     "uploader": "DodocoNotes",
@@ -33653,14 +33629,6 @@
     "upload_date": "20260126"
    },
    {
-    "seconds": 20746,
-    "title": "Honkai Impact 3rd Part 2 Ch 11 A Mass for Atheists What Does This Mean?",
-    "uploader": "Glythic Mirror",
-    "url": "https://www.youtube.com/watch?v=uXlbz_jXyFA",
-    "views": "25",
-    "rejected": []
-   },
-   {
     "seconds": 25400,
     "title": "\u3010Honkai Impact 3rd V8.6\u3011 Part 2 Chapter 11 - A Mass for Atheists!",
     "uploader": "Yozakura Kawa Ch. \u591c\u685c\u5ddd",
@@ -33670,16 +33638,16 @@
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 264,
+   "n": 12,
+   "median": 252,
    "low": 208,
    "high": 423,
-   "q1": 222,
-   "q3": 288,
-   "trimmed_mean": 262,
+   "q1": 218,
+   "q3": 283,
+   "trimmed_mean": 251,
    "measured": 0,
    "parts": {},
-   "drift": 0.048
+   "drift": 0.0
   }
  },
  {
@@ -33821,9 +33789,7 @@
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=mgYTCSZHIfo",
     "views": "792",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 548,
@@ -33850,7 +33816,7 @@
     "url": "https://www.youtube.com/watch?v=pLjjyu3u_Fo",
     "views": "35",
     "rejected": [
-     "long-outlier"
+     "fragment"
     ]
    },
    {
@@ -33978,10 +33944,11 @@
     "title": "Honkai Impact 3rd Story Chapter 14 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=Zc2h-cBOYV0",
-    "views": "26372",
+    "views": 26628,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200811"
    },
    {
     "seconds": 2750,
@@ -34065,6 +34032,14 @@
     "rejected": []
    },
    {
+    "seconds": 8905,
+    "title": "The Night Which the Light Dreams Of Full Story | Honkai Impact 3rd 8.7",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=mgYTCSZHIfo",
+    "views": "792",
+    "rejected": []
+   },
+   {
     "seconds": 10236,
     "title": "The Night Which The Light Dreams Of- Full Playthrough! Honkai Impact 3rd event (Senadina)",
     "uploader": "Slodolo",
@@ -34082,13 +34057,13 @@
    }
   ],
   "stats": {
-   "n": 5,
+   "n": 6,
    "median": 147,
    "low": 88,
    "high": 180,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 142,
+   "trimmed_mean": 143,
    "measured": 0,
    "parts": {},
    "drift": 0.089
@@ -34107,18 +34082,20 @@
     "title": "HI3rd | Part 2 Chapter XII: With You, Whom I Never Knew | 2nd",
     "uploader": "AverageMediocrity",
     "url": "https://www.youtube.com/watch?v=C90-mafuILY",
-    "views": "3",
+    "views": 4,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260519"
    },
    {
     "seconds": 17147,
     "title": "(13)Honkai Impact 3rd | Part 2 | Main Story - Chapter  12 | With You, Whom I Never Knew",
     "uploader": "DodocoNotes",
     "url": "https://www.youtube.com/watch?v=8pjtZy669qo",
-    "views": "12",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 12718,
@@ -34129,22 +34106,26 @@
     "rejected": []
    },
    {
-    "seconds": 6563,
+    "seconds": 6562,
     "title": "Starting Part 2 Chapter 12: With You, Whom I Never Knew",
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=CgcUarMJdJo",
-    "views": "1",
+    "views": 1,
     "rejected": [
-     "short-outlier"
-    ]
+     "fragment"
+    ],
+    "upload_date": "20260623"
    },
    {
-    "seconds": 21451,
+    "seconds": 21450,
     "title": "Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew Where Could This Be Going?",
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=EEg3vVpnl1A",
-    "views": "23",
-    "rejected": []
+    "views": 30,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260813"
    },
    {
     "seconds": 12839,
@@ -34160,8 +34141,9 @@
     "title": "Honkai Impact - Part 2 Chapter XII (12) - With You, Whom I Never Knew (Complete)",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=PN7c8Tsb2rY",
-    "views": "80",
-    "rejected": []
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20260516"
    },
    {
     "seconds": 16258,
@@ -34169,7 +34151,9 @@
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=-gIl5FU45do",
     "views": 1,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260624"
    },
    {
@@ -34177,8 +34161,9 @@
     "title": "With You,Whom I never Knew (Part 2 Chapter 12) [Honkai Impact 3rd] with the Beefkins!  [ENG/MY/\u65e5\ufffd\ufffd",
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=hG_zaGZstkM",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260604"
    },
    {
     "seconds": 15536,
@@ -34193,18 +34178,20 @@
     "title": "Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew [Leylahs Fantasy?]",
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=gSo4nbW0AM8",
-    "views": "33",
+    "views": 39,
     "rejected": [
-     "same-uploader"
-    ]
+     "fragment"
+    ],
+    "upload_date": "20260814"
    },
    {
-    "seconds": 12287,
+    "seconds": 12286,
     "title": "HI3rd | Part 2 Chapter XII: With You, Whom I Never Knew | 1st",
     "uploader": "AverageMediocrity",
     "url": "https://www.youtube.com/watch?v=IacTYzaG37Q",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260519"
    },
    {
     "seconds": 15422,
@@ -34231,18 +34218,20 @@
     "title": "Main Story Part 2 Chapter 12: With You, Whom I Never Knew | Honkai Impact 3rd [v8.8]",
     "uploader": "Nanoha61",
     "url": "https://www.youtube.com/watch?v=N4a4z8LyOuo",
-    "views": "43",
-    "rejected": []
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260515"
    },
    {
     "seconds": 9695,
     "title": "With You, Whom I Never Knew | Honkai Impact 3rd Part 2 Chapter 12 Part 1",
     "uploader": "AaronDeadKey",
     "url": "https://www.youtube.com/watch?v=gnFzEpvFHVU",
-    "views": "118",
+    "views": 119,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260514"
    },
    {
     "seconds": 280,
@@ -34255,14 +34244,13 @@
     ]
    },
    {
-    "seconds": 15936,
+    "seconds": 15935,
     "title": "With You, Whom I Never Knew Full Story | Honkai Impact 3rd 8.8",
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=cN3kuFGQzmo",
-    "views": "1057",
-    "rejected": [
-     "multi-act"
-    ]
+    "views": 1121,
+    "rejected": [],
+    "upload_date": "20260515"
    },
    {
     "seconds": 2280,
@@ -34290,27 +34278,30 @@
     "title": "Chapter 54 With You, Whom I Never Knew (Part 1)- Honkai Impact 3rd",
     "uploader": "Fami Rodriguez",
     "url": "https://www.youtube.com/watch?v=_wiM-gVjpqQ",
-    "views": "3",
+    "views": 3,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260608"
    },
    {
-    "seconds": 15861,
+    "seconds": 15860,
     "title": "HONKAI IMPACT 3 MAIN STORY - WITH YOU WHOM I NEVER KNEW",
     "uploader": "UbanAja",
     "url": "https://www.youtube.com/watch?v=Ve9za0J4Bmo",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260517"
    },
    {
     "seconds": 11933,
     "title": "Honkai Impact 3rd - 8.8 Story - With You, Whom I Never Knew",
     "uploader": "Kurib",
     "url": "https://www.youtube.com/watch?v=Th1vAcBZ1B8",
-    "views": "26",
-    "rejected": []
+    "views": 26,
+    "rejected": [],
+    "upload_date": "20260602"
    },
    {
     "seconds": 24460,
@@ -34323,14 +34314,15 @@
     ]
    },
    {
-    "seconds": 10699,
+    "seconds": 10698,
     "title": "Honkai Impact 3rd season 2 chapter 12 With You, Whom I Never Knew pt 1/2",
     "uploader": "Chris Banas",
     "url": "https://www.youtube.com/watch?v=SUcDg6UgeDk",
-    "views": "12",
+    "views": 12,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260515"
    },
    {
     "seconds": 15412,
@@ -34342,41 +34334,45 @@
     "upload_date": "20260522"
    },
    {
-    "seconds": 15442,
+    "seconds": 15441,
     "title": "Honkai Impact 3rd Story Part 2, Chapter 12 : \"With You, Whom I Never Knew\"",
     "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
     "url": "https://www.youtube.com/watch?v=VCbcj_DkVtI",
-    "views": "23",
-    "rejected": []
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20260514"
    },
    {
     "seconds": 5524,
     "title": "Leylah | Chapter 12: With You, Whom I Never Knew 1/2 - Honkai Impact 3rd Part 2 [CN Dub]",
     "uploader": "Honokazuuu",
     "url": "https://www.youtube.com/watch?v=iwURwS5AoNQ",
-    "views": "95",
+    "views": 106,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260515"
    },
    {
-    "seconds": 15576,
+    "seconds": 15575,
     "title": "Honkai Impact 3rd Part 2 Story Quest Chapter 12 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=AKHxPah4Y9c",
-    "views": "3191",
-    "rejected": []
+    "views": 3744,
+    "rejected": [],
+    "upload_date": "20260514"
    },
    {
     "seconds": 1826,
     "title": "[Honkai Impact 3rd] Story Chapter 17 \"Thunders Over Nagazora\" (with gameplay) part 1",
     "uploader": "Shinrin Games",
     "url": "https://www.youtube.com/watch?v=bovQyCWNfRE",
-    "views": "8887",
+    "views": 8905,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210422"
    },
    {
     "seconds": 192,
@@ -34438,10 +34434,11 @@
     "title": "Honkai Impact 3rd Chapter 8 Spanish Subtitles",
     "uploader": "Jhintachi",
     "url": "https://www.youtube.com/watch?v=VyTCfSAbBro",
-    "views": "3382",
+    "views": 3410,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20201201"
    },
    {
     "seconds": 2493,
@@ -34563,36 +34560,39 @@
     ]
    },
    {
-    "seconds": 1007,
+    "seconds": 1006,
     "title": "Honkai Impact 3 | Imminent Storm Story Chapter XVI | Mei Meet Raven at Nagazora | New Update Ver 3.9",
     "uploader": "Icey Trashy",
     "url": "https://www.youtube.com/watch?v=EGZM8YSte_U",
-    "views": "174",
+    "views": 180,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200612"
    },
    {
-    "seconds": 20323,
+    "seconds": 20322,
     "title": "Honkai Impact 3 - A Post-Honkai Odyssey 2 - Story",
     "uploader": "Night.K",
     "url": "https://www.youtube.com/watch?v=v4IRzPct3RQ",
-    "views": "9591",
+    "views": 10170,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220822"
    },
    {
     "seconds": 1411,
     "title": "Honkai Impact 3rd - Reacting to Chapter 9-1 of the Main Story (Part 1) | BunPlusUltra",
     "uploader": "BunPlusUltra",
     "url": "https://www.youtube.com/watch?v=aVNMf3laack",
-    "views": "3769",
+    "views": 3772,
     "rejected": [
      "multi-act",
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20201214"
    },
    {
     "seconds": 1021,
@@ -34629,15 +34629,16 @@
     ]
    },
    {
-    "seconds": 2300,
+    "seconds": 2299,
     "title": "Genshin Impact Full Gameplay Part 1 [1080P60 144 FPS] | Legend of The Dark Knight Hero",
     "uploader": "UEX GAMING",
     "url": "https://www.youtube.com/watch?v=fFywzMX9Ty8",
-    "views": "48",
+    "views": 48,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210422"
    },
    {
     "seconds": 101,
@@ -34651,33 +34652,36 @@
     ]
    },
    {
-    "seconds": 193769,
+    "seconds": 193768,
     "title": "GENSHIN IMPACT | Full Game Walkthrough | No Commentary",
     "uploader": "The Game Archivist",
     "url": "https://www.youtube.com/watch?v=P6p0xxKuwf4",
-    "views": "5035131",
+    "views": 5351481,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230801"
    },
    {
-    "seconds": 1822,
+    "seconds": 1821,
     "title": "Honkai Impact 3 (SEA) - Lunar New Year Festival Event Gameplay",
     "uploader": "Ryanto F2P",
     "url": "https://www.youtube.com/watch?v=NOuW0aaSBOs",
-    "views": "157",
+    "views": 157,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20180209"
    },
    {
-    "seconds": 16059,
+    "seconds": 16058,
     "title": "Honkai Impact 3rd Part 2 - Chapter 12 With You, Whom I Never Knew",
     "uploader": "Vergen",
     "url": "https://www.youtube.com/watch?v=HhAwHva5Uck",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260528"
    },
    {
     "seconds": 520,
@@ -34695,22 +34699,24 @@
     "title": "The Hidden Truth: Honkai Impact 3rd Chapter 12 Part 1",
     "uploader": "Frozen Inferno",
     "url": "https://www.youtube.com/watch?v=gMzf2fWFFOQ",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260526"
    },
    {
-    "seconds": 1043,
+    "seconds": 1042,
     "title": "Honkai Impact 3 Story Chapter 15 The Prodigal Girl Returns Act 3 ENDING",
     "uploader": "VirtualP:G:E",
     "url": "https://www.youtube.com/watch?v=bQJ7g0zIkJc",
-    "views": "160",
+    "views": 172,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200508"
    },
    {
     "seconds": 1056,
@@ -34738,10 +34744,153 @@
     "title": "HONKAI IMPACT 3rd SEA - Clearing CHAPTER VII Normal in 18 minutes",
     "uploader": "Venganza Gaming",
     "url": "https://www.youtube.com/watch?v=u0F8kgK4Vgo",
-    "views": "226",
+    "views": 226,
     "rejected": [
      "act-mismatch"
+    ],
+    "upload_date": "20180705"
+   },
+   {
+    "seconds": 15012,
+    "title": "Helia | | Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub)",
+    "uploader": "DafDazDay",
+    "url": "https://www.youtube.com/watch?v=tAQ7_72k254",
+    "views": 6326,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250508"
+   },
+   {
+    "seconds": 5727,
+    "title": "Project Sea of Data: Thesis Crisis Full Story | Honkai Impact 3rd 8.8",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=0gV2dSUKurg",
+    "views": 160,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260510"
+   },
+   {
+    "seconds": 9226,
+    "title": "Honkai Impact 3rd Part 2 Chapter 1 Hundred Years of Solitary Shadows Act 1 Full CG JP Dub",
+    "uploader": "itsOgiru",
+    "url": "https://www.youtube.com/watch?v=Tvx_Cf_W_Pw",
+    "views": "9479",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
     ]
+   },
+   {
+    "seconds": 566,
+    "title": "Nahralab Boss Fight & Cutscene | Honkai Impact 8.8 Story",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=QpcM5wOYXWg",
+    "views": "2612",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 119,
+    "title": "Nahralab Boss-Fight | Honkai Impact 3rd",
+    "uploader": "Lenz",
+    "url": "https://www.youtube.com/watch?v=WIR80mTxvQs",
+    "views": "501",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 161,
+    "title": "New Seele First Look!\ud83e\udd70 Honkai Impact 8.8 Story, \"With You, Whom I Never Knew\"",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=xe3zDZXA1Wo",
+    "views": "1576",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 473,
+    "title": "Honkai Impact 3rd Part 2 Chapter 12 Cutscene Compilation V.8.8",
+    "uploader": "Lovelukaseven",
+    "url": "https://www.youtube.com/watch?v=J07uUqCWGV8",
+    "views": "79",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 110,
+    "title": "v8.8 Adrift in the Sea of Data Trailer - Honkai Impact 3rd",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=yndQJUDhL4I",
+    "views": "41838",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2126,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XII - With You, Whom I Never Knew Part 2",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=6d7GfsYDJxk",
+    "views": 9,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260519"
+   },
+   {
+    "seconds": 3589,
+    "title": "Honkai impact 3 | with you, whom i never knew | No commentary (Part 1 of 4)",
+    "uploader": "BukanSiapa2",
+    "url": "https://www.youtube.com/watch?v=kP23Bl-1o4g",
+    "views": 1,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260525"
+   },
+   {
+    "seconds": 6333,
+    "title": "Honkai Impact 3rd season 2 chapter 12 With You, Whom I Never Knew pt 2/2",
+    "uploader": "Chris Banas",
+    "url": "https://www.youtube.com/watch?v=9tMXN-bAE48",
+    "views": 19,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260516"
+   },
+   {
+    "seconds": 5550,
+    "title": "Honkai Impact 3rd: Part 2, Chapter 12: With You, Whom I Never Knew, Part 1",
+    "uploader": "S'astra Mahan (CS19)",
+    "url": "https://www.youtube.com/watch?v=lqgJVAQ0Snk",
+    "views": 0,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260531"
+   },
+   {
+    "seconds": 32432,
+    "title": "Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew Dreamseekers Crossroads!",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=eaCEYXBn404",
+    "views": 59,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260828"
    }
   ],
   "kept": [
@@ -34750,16 +34899,18 @@
     "title": "Honkai Impact 3rd - 8.8 Story - With You, Whom I Never Knew",
     "uploader": "Kurib",
     "url": "https://www.youtube.com/watch?v=Th1vAcBZ1B8",
-    "views": "26",
-    "rejected": []
+    "views": 26,
+    "rejected": [],
+    "upload_date": "20260602"
    },
    {
-    "seconds": 12287,
+    "seconds": 12286,
     "title": "HI3rd | Part 2 Chapter XII: With You, Whom I Never Knew | 1st",
     "uploader": "AverageMediocrity",
     "url": "https://www.youtube.com/watch?v=IacTYzaG37Q",
-    "views": "5",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260519"
    },
    {
     "seconds": 12718,
@@ -34783,8 +34934,9 @@
     "title": "With You,Whom I never Knew (Part 2 Chapter 12) [Honkai Impact 3rd] with the Beefkins!  [ENG/MY/\u65e5\ufffd\ufffd",
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=hG_zaGZstkM",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260604"
    },
    {
     "seconds": 13357,
@@ -34805,12 +34957,13 @@
     "upload_date": "20260522"
    },
    {
-    "seconds": 15442,
+    "seconds": 15441,
     "title": "Honkai Impact 3rd Story Part 2, Chapter 12 : \"With You, Whom I Never Knew\"",
     "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
     "url": "https://www.youtube.com/watch?v=VCbcj_DkVtI",
-    "views": "23",
-    "rejected": []
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20260514"
    },
    {
     "seconds": 15536,
@@ -34825,78 +34978,76 @@
     "title": "Main Story Part 2 Chapter 12: With You, Whom I Never Knew | Honkai Impact 3rd [v8.8]",
     "uploader": "Nanoha61",
     "url": "https://www.youtube.com/watch?v=N4a4z8LyOuo",
-    "views": "43",
-    "rejected": []
+    "views": 45,
+    "rejected": [],
+    "upload_date": "20260515"
    },
    {
-    "seconds": 15576,
+    "seconds": 15575,
     "title": "Honkai Impact 3rd Part 2 Story Quest Chapter 12 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=AKHxPah4Y9c",
-    "views": "3191",
-    "rejected": []
+    "views": 3744,
+    "rejected": [],
+    "upload_date": "20260514"
    },
    {
-    "seconds": 15861,
+    "seconds": 15860,
     "title": "HONKAI IMPACT 3 MAIN STORY - WITH YOU WHOM I NEVER KNEW",
     "uploader": "UbanAja",
     "url": "https://www.youtube.com/watch?v=Ve9za0J4Bmo",
-    "views": "6",
-    "rejected": []
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260517"
    },
    {
-    "seconds": 16059,
+    "seconds": 15935,
+    "title": "With You, Whom I Never Knew Full Story | Honkai Impact 3rd 8.8",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=cN3kuFGQzmo",
+    "views": 1121,
+    "rejected": [],
+    "upload_date": "20260515"
+   },
+   {
+    "seconds": 16058,
     "title": "Honkai Impact 3rd Part 2 - Chapter 12 With You, Whom I Never Knew",
     "uploader": "Vergen",
     "url": "https://www.youtube.com/watch?v=HhAwHva5Uck",
-    "views": "5",
-    "rejected": []
-   },
-   {
-    "seconds": 16258,
-    "title": "Finishing Part 2 Chapter 12: With You, Whom I Never Knew",
-    "uploader": "Solo Lightning",
-    "url": "https://www.youtube.com/watch?v=-gIl5FU45do",
-    "views": 1,
+    "views": 5,
     "rejected": [],
-    "upload_date": "20260624"
+    "upload_date": "20260528"
    },
    {
     "seconds": 17147,
     "title": "(13)Honkai Impact 3rd | Part 2 | Main Story - Chapter  12 | With You, Whom I Never Knew",
     "uploader": "DodocoNotes",
     "url": "https://www.youtube.com/watch?v=8pjtZy669qo",
-    "views": "12",
-    "rejected": []
-   },
-   {
-    "seconds": 21451,
-    "title": "Honkai Impact 3rd Part 2 Chapter 12 With You, Whom I Never Knew Where Could This Be Going?",
-    "uploader": "Glythic Mirror",
-    "url": "https://www.youtube.com/watch?v=EEg3vVpnl1A",
-    "views": "23",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260627"
    },
    {
     "seconds": 23714,
     "title": "Honkai Impact - Part 2 Chapter XII (12) - With You, Whom I Never Knew (Complete)",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=PN7c8Tsb2rY",
-    "views": "80",
-    "rejected": []
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20260516"
    }
   ],
   "stats": {
-   "n": 17,
-   "median": 259,
+   "n": 16,
+   "median": 258,
    "low": 199,
    "high": 395,
-   "q1": 217,
-   "q3": 269,
-   "trimmed_mean": 254,
+   "q1": 215,
+   "q3": 265,
+   "trimmed_mean": 246,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.004
   }
  },
  {
@@ -34912,16 +35063,18 @@
     "title": "Full Story Chapter 13 \"A Rose In A Curtsy\" | Honkai Impact 3 part 2 (Japanese Dub) ",
     "uploader": "RnQ",
     "url": "https://www.youtube.com/watch?v=h2c4YVzI7qI",
-    "views": "237",
-    "rejected": []
+    "views": 299,
+    "rejected": [],
+    "upload_date": "20260717"
    },
    {
-    "seconds": 11861,
+    "seconds": 11860,
     "title": "Honkai Impact 3rd Part 2 Chapter 13 Full Story, A Rose In a Curtsy",
     "uploader": "Matt Is Playing",
     "url": "https://www.youtube.com/watch?v=h6QCoU5e3ug",
-    "views": "1565",
-    "rejected": []
+    "views": 1873,
+    "rejected": [],
+    "upload_date": "20260622"
    },
    {
     "seconds": 17332,
@@ -34947,18 +35100,20 @@
     "title": "Completing Part 2 Chapter 13 'A Rose in a Curtsy' | Honkai Impact 3rd",
     "uploader": "JaydenHorn1406",
     "url": "https://www.youtube.com/watch?v=RWnpYW6gkZc",
-    "views": "93",
-    "rejected": []
+    "views": 128,
+    "rejected": [],
+    "upload_date": "20260727"
    },
    {
-    "seconds": 1522,
+    "seconds": 1521,
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIII - A Rose in a Curtsy Part 8 [END]",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=UWno_6paOSs",
-    "views": "6",
+    "views": 13,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260814"
    },
    {
     "seconds": 6034,
@@ -34976,10 +35131,11 @@
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIII - A Rose in a Curtsy Part 7",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=JO8E0mW9Cq0",
-    "views": "5",
+    "views": 10,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260813"
    },
    {
     "seconds": 2329,
@@ -35025,18 +35181,20 @@
     "title": "Honkai Impact 3rd Part 2: Chapter XIII: A Rose in a Curtsy",
     "uploader": "Satus Oblitan",
     "url": "https://www.youtube.com/watch?v=DGf1lDB63Ns",
-    "views": "2",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 6569,
     "title": "Starting Part 2 Chapter 13: A Rose in a Curtsy",
     "uploader": "Solo Lightning",
     "url": "https://www.youtube.com/watch?v=ZHseDi8Cjtk",
-    "views": "1",
+    "views": 1,
     "rejected": [
-     "short-outlier"
-    ]
+     "fragment"
+    ],
+    "upload_date": "20260814"
    },
    {
     "seconds": 13872,
@@ -35058,15 +35216,16 @@
     "upload_date": "20260811"
    },
    {
-    "seconds": 2846,
+    "seconds": 2845,
     "title": "Honkai Impact - Part 2 Chapter XII (13) - A Rose in a Curtsy (Part 3 END)",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=hx2ZB6XLDmw",
-    "views": "19",
+    "views": 26,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260718"
    },
    {
     "seconds": 14083,
@@ -35084,8 +35243,9 @@
     "title": "Honkai 3rd Impact (Part 2) Chapter 13:  A Rose in Curtsy",
     "uploader": "C Ra",
     "url": "https://www.youtube.com/watch?v=OZc3Kt3uYoY",
-    "views": "11",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260723"
    },
    {
     "seconds": 8678,
@@ -35098,28 +35258,31 @@
     ]
    },
    {
-    "seconds": 12295,
+    "seconds": 12294,
     "title": "[Spoiler] Chapter 13: A Rose in a Curtsy [CN]",
     "uploader": "Wyverein",
     "url": "https://www.youtube.com/watch?v=ojBHIDAgAC4",
-    "views": "934",
-    "rejected": []
+    "views": 956,
+    "rejected": [],
+    "upload_date": "20260611"
    },
    {
-    "seconds": 14646,
+    "seconds": 14645,
     "title": "[CN] Honkai Impact 3rd Part 2 Chapter 13 - A Rose In A Curtsy",
     "uploader": "LoreBugCarv",
     "url": "https://www.youtube.com/watch?v=EEM66NDQlEc",
-    "views": "1581",
-    "rejected": []
+    "views": 1677,
+    "rejected": [],
+    "upload_date": "20260611"
    },
    {
     "seconds": 15036,
     "title": "Honkai Impact 3rd Part 2 - Chapter 13 A Rose in a Curtsy",
     "uploader": "Vergen",
     "url": "https://www.youtube.com/watch?v=JIUrMtjeJis",
-    "views": "3",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 7446,
@@ -35149,26 +35312,29 @@
     "title": "Senadina or Vita Saved the day | Honkai Impact 3rd 8.9 |  Chapter 13 Part 2 Story Playthrough",
     "uploader": "AnarchyGirl X",
     "url": "https://www.youtube.com/watch?v=NrCtQp_tQdQ",
-    "views": "59",
-    "rejected": []
+    "views": 78,
+    "rejected": [],
+    "upload_date": "20260713"
    },
    {
-    "seconds": 14358,
+    "seconds": 14357,
     "title": "Seele | Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=ZmJpfs5MSAc",
-    "views": "2621",
-    "rejected": []
+    "views": 3639,
+    "rejected": [],
+    "upload_date": "20260709"
    },
    {
-    "seconds": 15576,
+    "seconds": 15575,
     "title": "Honkai Impact 3rd Part 2 Story Quest Chapter 12 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=AKHxPah4Y9c",
-    "views": "3191",
+    "views": 3744,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260514"
    },
    {
     "seconds": 269,
@@ -35186,11 +35352,12 @@
     "title": "[Alchemy Stars] A Symphony in the Gloaming & Episode 17:Fading Twilight Over Burgundy Seas",
     "uploader": "FlyMe2theMoon",
     "url": "https://www.youtube.com/watch?v=x-XRjHABeb8",
-    "views": "243",
+    "views": 243,
     "rejected": [
      "fragment",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20230831"
    },
    {
     "seconds": 202,
@@ -35219,38 +35386,211 @@
     "title": "\ubd95\uad34 3rd ver. 8.9 \uba54\uc778\uc2a4\ud1a0\ub9ac 2\ubd80 13\uc7a5: \ud55c \uc1a1\uc774 \uc7a5\ubbf8\uc758 \ucee4\ud2b8\uc2dc Part 1 (21:9, Story Walkthrough)",
     "uploader": "Diene Ramiel",
     "url": "https://www.youtube.com/watch?v=rzGrjIWrtxU",
-    "views": "7",
+    "views": 11,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260819"
    },
    {
     "seconds": 5448,
     "title": "All a Dream? Honkai Impact 3rd Chapter 13 Part 2",
     "uploader": "Frozen Inferno",
     "url": "https://www.youtube.com/watch?v=X_E7jrEXi0U",
-    "views": "1",
+    "views": 1,
     "rejected": [
      "part-of-an-act"
+    ],
+    "upload_date": "20260715"
+   },
+   {
+    "seconds": 19140,
+    "title": "HI3 Part 2 Chapter 13 A Rose in a Curtsy",
+    "uploader": "Simple Yuu",
+    "url": "https://www.youtube.com/watch?v=vtVgJD_temc",
+    "views": 64,
+    "rejected": [],
+    "upload_date": "20260905"
+   },
+   {
+    "seconds": 4066,
+    "title": "A Rose in a Curtsy (Part 2 Chapter 13) [Honkai Impact 3rd] with the Beefkins!  [ENG/MY/\u65e5\u672c\u8a9e]Imp",
+    "uploader": "Rainbow Beefkins",
+    "url": "https://www.youtube.com/watch?v=7B5GCxuJRnE",
+    "views": 13,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260730"
+   },
+   {
+    "seconds": 8834,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13: A Rose in a Curtsy.",
+    "uploader": "Number 39: Utopia",
+    "url": "https://www.youtube.com/watch?v=xyCJEFANSbI",
+    "views": "37",
+    "rejected": []
+   },
+   {
+    "seconds": 27694,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13 A Rose in a Curtsy What Could This Mean?",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=RKTb4_RGl4k",
+    "views": 122,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260902"
+   },
+   {
+    "seconds": 32445,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13 A Rose in a Curtsy What Is Endlessness?",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=uDlB7qvJe0o",
+    "views": 104,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 15441,
+    "title": "#1 A Rose in a Curtsy - Story Chapter XIII | Honkai Impact 3rd Part 2",
+    "uploader": "XianboImpact",
+    "url": "https://www.youtube.com/watch?v=-68s7aD5UmI",
+    "views": 17,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260710"
+   },
+   {
+    "seconds": 1843,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIII - A Rose in a Curtsy Part 5",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=I9UuXFAGr_k",
+    "views": 10,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260811"
+   },
+   {
+    "seconds": 78,
+    "title": "[Spoiler] Last Scene of Chapter 13 \u2013 V8.9 CN",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=4GzCVQ5fhZc",
+    "views": "9485",
+    "rejected": [
+     "not-a-playthrough"
     ]
+   },
+   {
+    "seconds": 126,
+    "title": "v8.9 \"Lives Flourish Where Feathers Fall\" Trailer \u2013 Honkai Impact 3rd",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=FH0RrfyAbP0",
+    "views": "43565",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1012,
+    "title": "[Spoiler] Final Battle of Main Story Part 2",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=1_Bb0llT9Do",
+    "views": 8754,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260806"
+   },
+   {
+    "seconds": 82,
+    "title": "Senadina Sacrifice Herself Cutscene | Honkai Impact 8.9 Story",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=u1ED3V41gQQ",
+    "views": "2122",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 16344,
+    "title": "Honkai Impact 3 | Story version 8.9",
+    "uploader": "ApKaka",
+    "url": "https://www.youtube.com/watch?v=NInVOf00AXU",
+    "views": 566,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260723"
+   },
+   {
+    "seconds": 7308,
+    "title": "Honkai Impact 3rd Walkthrough part 188 ~Ver 8.9~ (Japanese Voices)",
+    "uploader": "RedRawNes",
+    "url": "https://www.youtube.com/watch?v=dRjkGH1trnU",
+    "views": 139,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260625"
+   },
+   {
+    "seconds": 34,
+    "title": "Honkai Part 2 Main Story Will End In Version 9.0 + CN Players Reaction",
+    "uploader": "Marisa Honkai",
+    "url": "https://www.youtube.com/watch?v=Quf8P51E2oc",
+    "views": "15615",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 27601,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13 A Rose in a Curtsy Fixing The Data!",
+    "uploader": "Glythic Mirror",
+    "url": "https://www.youtube.com/watch?v=eE1-775uZL8",
+    "views": 195,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260903"
    }
   ],
   "kept": [
    {
-    "seconds": 11861,
-    "title": "Honkai Impact 3rd Part 2 Chapter 13 Full Story, A Rose In a Curtsy",
-    "uploader": "Matt Is Playing",
-    "url": "https://www.youtube.com/watch?v=h6QCoU5e3ug",
-    "views": "1565",
+    "seconds": 8834,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13: A Rose in a Curtsy.",
+    "uploader": "Number 39: Utopia",
+    "url": "https://www.youtube.com/watch?v=xyCJEFANSbI",
+    "views": "37",
     "rejected": []
    },
    {
-    "seconds": 12295,
+    "seconds": 11860,
+    "title": "Honkai Impact 3rd Part 2 Chapter 13 Full Story, A Rose In a Curtsy",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=h6QCoU5e3ug",
+    "views": 1873,
+    "rejected": [],
+    "upload_date": "20260622"
+   },
+   {
+    "seconds": 12294,
     "title": "[Spoiler] Chapter 13: A Rose in a Curtsy [CN]",
     "uploader": "Wyverein",
     "url": "https://www.youtube.com/watch?v=ojBHIDAgAC4",
-    "views": "934",
-    "rejected": []
+    "views": 956,
+    "rejected": [],
+    "upload_date": "20260611"
    },
    {
     "seconds": 12720,
@@ -35266,8 +35606,9 @@
     "title": "Full Story Chapter 13 \"A Rose In A Curtsy\" | Honkai Impact 3 part 2 (Japanese Dub) ",
     "uploader": "RnQ",
     "url": "https://www.youtube.com/watch?v=h2c4YVzI7qI",
-    "views": "237",
-    "rejected": []
+    "views": 299,
+    "rejected": [],
+    "upload_date": "20260717"
    },
    {
     "seconds": 13894,
@@ -35283,24 +35624,27 @@
     "title": "Completing Part 2 Chapter 13 'A Rose in a Curtsy' | Honkai Impact 3rd",
     "uploader": "JaydenHorn1406",
     "url": "https://www.youtube.com/watch?v=RWnpYW6gkZc",
-    "views": "93",
-    "rejected": []
+    "views": 128,
+    "rejected": [],
+    "upload_date": "20260727"
    },
    {
-    "seconds": 14358,
+    "seconds": 14357,
     "title": "Seele | Honkai Impact 3rd Part 2 Story Quest Chapter 13 Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=ZmJpfs5MSAc",
-    "views": "2621",
-    "rejected": []
+    "views": 3639,
+    "rejected": [],
+    "upload_date": "20260709"
    },
    {
     "seconds": 14416,
     "title": "Honkai Impact 3rd Part 2: Chapter XIII: A Rose in a Curtsy",
     "uploader": "Satus Oblitan",
     "url": "https://www.youtube.com/watch?v=DGf1lDB63Ns",
-    "views": "2",
-    "rejected": []
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 14603,
@@ -35312,28 +35656,31 @@
     "upload_date": "20260811"
    },
    {
-    "seconds": 14646,
+    "seconds": 14645,
     "title": "[CN] Honkai Impact 3rd Part 2 Chapter 13 - A Rose In A Curtsy",
     "uploader": "LoreBugCarv",
     "url": "https://www.youtube.com/watch?v=EEM66NDQlEc",
-    "views": "1581",
-    "rejected": []
+    "views": 1677,
+    "rejected": [],
+    "upload_date": "20260611"
    },
    {
     "seconds": 15036,
     "title": "Honkai Impact 3rd Part 2 - Chapter 13 A Rose in a Curtsy",
     "uploader": "Vergen",
     "url": "https://www.youtube.com/watch?v=JIUrMtjeJis",
-    "views": "3",
-    "rejected": []
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 16041,
     "title": "Honkai 3rd Impact (Part 2) Chapter 13:  A Rose in Curtsy",
     "uploader": "C Ra",
     "url": "https://www.youtube.com/watch?v=OZc3Kt3uYoY",
-    "views": "11",
-    "rejected": []
+    "views": 14,
+    "rejected": [],
+    "upload_date": "20260723"
    },
    {
     "seconds": 17332,
@@ -35345,22 +35692,32 @@
     "upload_date": "20260805"
    },
    {
+    "seconds": 19140,
+    "title": "HI3 Part 2 Chapter 13 A Rose in a Curtsy",
+    "uploader": "Simple Yuu",
+    "url": "https://www.youtube.com/watch?v=vtVgJD_temc",
+    "views": 64,
+    "rejected": [],
+    "upload_date": "20260905"
+   },
+   {
     "seconds": 24492,
     "title": "Senadina or Vita Saved the day | Honkai Impact 3rd 8.9 |  Chapter 13 Part 2 Story Playthrough",
     "uploader": "AnarchyGirl X",
     "url": "https://www.youtube.com/watch?v=NrCtQp_tQdQ",
-    "views": "59",
-    "rejected": []
+    "views": 78,
+    "rejected": [],
+    "upload_date": "20260713"
    }
   ],
   "stats": {
-   "n": 14,
+   "n": 16,
    "median": 240,
-   "low": 198,
+   "low": 147,
    "high": 408,
-   "q1": 223,
-   "q3": 255,
-   "trimmed_mean": 240,
+   "q1": 216,
+   "q3": 263,
+   "trimmed_mean": 243,
    "measured": 0,
    "parts": {},
    "drift": 0.0
@@ -35379,10 +35736,11 @@
     "title": "Story Chapter 14 : \"The Future We Embrace\" Part 1 |Honkai Impact 3 part 2 (Japanese Dub) ",
     "uploader": "RnQ",
     "url": "https://www.youtube.com/watch?v=YchUYW1RtzE",
-    "views": "30",
+    "views": 36,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260912"
    },
    {
     "seconds": 21639,
@@ -35408,28 +35766,31 @@
     "title": "Completing Part 2 Chapter 14 'The Future We Embrace' | Honkai Impact 3rd",
     "uploader": "JaydenHorn1406",
     "url": "https://www.youtube.com/watch?v=nvi02eqi_XQ",
-    "views": "117",
-    "rejected": []
+    "views": 353,
+    "rejected": [],
+    "upload_date": "20260915"
    },
    {
-    "seconds": 5942,
+    "seconds": 5941,
     "title": "Story Chapter 14 : \"The Future We Embrace\" Part 3 |Honkai Impact 3 part 2 (Japanese Dub) ",
     "uploader": "RnQ",
     "url": "https://www.youtube.com/watch?v=BTNymCjDEwM",
-    "views": "11",
+    "views": 16,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260912"
    },
    {
     "seconds": 7251,
     "title": "Story Chapter 14 : \"The Future We Embrace\" Part 2 |Honkai Impact 3 part 2 (Japanese Dub) ",
     "uploader": "RnQ",
     "url": "https://www.youtube.com/watch?v=DgGHb9jAQ8o",
-    "views": "21",
+    "views": 34,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260912"
    },
    {
     "seconds": 23563,
@@ -35445,20 +35806,22 @@
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 1",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=V1gGX0In04A",
-    "views": "10",
+    "views": 19,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260919"
    },
    {
-    "seconds": 14690,
+    "seconds": 14689,
     "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Finale  Part 2! Deal With Finality?",
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=JkpWuF1ak8o",
-    "views": "107",
+    "views": 124,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260918"
    },
    {
     "seconds": 21854,
@@ -35470,112 +35833,123 @@
     "upload_date": "20260904"
    },
    {
-    "seconds": 18799,
+    "seconds": 18798,
     "title": "Honkai Impact 3rd | Main Story Part 2 Finale: The Future We Embrace",
     "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
     "url": "https://www.youtube.com/watch?v=MqtMB_-XurY",
-    "views": "20",
-    "rejected": []
+    "views": 34,
+    "rejected": [],
+    "upload_date": "20260903"
    },
    {
     "seconds": 7633,
     "title": "The Future We Embrace | Honkai Impact 3rd Part 2 Finale Part 1",
     "uploader": "AaronDeadKey",
     "url": "https://www.youtube.com/watch?v=NrmjRTD4nUA",
-    "views": "86",
+    "views": 91,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260903"
    },
    {
-    "seconds": 20858,
+    "seconds": 20857,
     "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Finale (END)",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=2Re0TrSG0uQ",
-    "views": "57",
+    "views": 83,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260906"
    },
    {
     "seconds": 9191,
     "title": "HI3rd | Part 2 Chapters X  XIV: The Future We Embrace | P2",
     "uploader": "AverageMediocrity",
     "url": "https://www.youtube.com/watch?v=fJBKBevANuY",
-    "views": "1",
+    "views": 2,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260913"
    },
    {
-    "seconds": 5576,
+    "seconds": 5575,
     "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Langqiu, 100 Years Ago",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=C9LJwVa03U4",
-    "views": "42",
+    "views": 52,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260904"
    },
    {
     "seconds": 5797,
     "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Langqiu (\"Current Day\")",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=k7X7EyOXaqs",
-    "views": "51",
+    "views": 64,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260905"
    },
    {
     "seconds": 2208,
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 2",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=wMICT63WJ8w",
-    "views": "6",
+    "views": 16,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260920"
    },
    {
-    "seconds": 19363,
+    "seconds": 19362,
     "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Finale Part 1!",
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=NTJv7ynX3_8",
-    "views": "67",
+    "views": 72,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260916"
    },
    {
     "seconds": 2990,
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 4",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=vTTggisUlBw",
-    "views": "5",
+    "views": 13,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260922"
    },
    {
     "seconds": 5506,
     "title": "Honkai Impact - Part 2 Chapter XIV (14) - The Future We Embrace - Saving Difeng",
     "uploader": "Aira Delasse",
     "url": "https://www.youtube.com/watch?v=Z3deXL-jgug",
-    "views": "55",
+    "views": 65,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260903"
    },
    {
     "seconds": 8304,
     "title": "Honkai Impact 3rd season 2 Chapter 14 The Future We Embrace part final ",
     "uploader": "Chris Banas",
     "url": "https://www.youtube.com/watch?v=H60Qrp4-6mY",
-    "views": "26",
+    "views": 31,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260905"
    },
    {
     "seconds": 25589,
@@ -35603,21 +35977,23 @@
     "title": "[Spoiler] Final Battle of Main Story Part 2",
     "uploader": "Wyverein",
     "url": "https://www.youtube.com/watch?v=1_Bb0llT9Do",
-    "views": "8082",
+    "views": 8754,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260806"
    },
    {
-    "seconds": 21819,
+    "seconds": 21818,
     "title": "Dreamseeker | Honkai Impact 3rd Part 2 Story Quest Finale Walkthrough Gameplay (Japanese Dub)",
     "uploader": "DafDazDay",
     "url": "https://www.youtube.com/watch?v=G4tJZLlZseU",
-    "views": "3945",
+    "views": 6020,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260903"
    },
    {
     "seconds": 875,
@@ -35643,14 +36019,15 @@
     ]
    },
    {
-    "seconds": 5766,
+    "seconds": 5765,
     "title": "Honkai Impact 3rd Story Chapter 13 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=ZKPUMVwayGk",
-    "views": "27025",
+    "views": 27161,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200704"
    },
    {
     "seconds": 284,
@@ -35713,10 +36090,11 @@
     "title": "The Insanity of Honkai's Captainverse",
     "uploader": "Potato Almanac",
     "url": "https://www.youtube.com/watch?v=DfI-Kpb7hhQ",
-    "views": "23658",
+    "views": 24141,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240531"
    },
    {
     "seconds": 9989,
@@ -35730,20 +36108,22 @@
     "upload_date": "20260819"
    },
    {
-    "seconds": 21716,
+    "seconds": 21715,
     "title": "Honkai Impact 3rd Story Part 2 Finale Chapter : \"The Future We Embrace\"",
     "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
     "url": "https://www.youtube.com/watch?v=LG9vBXa2DA0",
-    "views": "18",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260908"
    },
    {
-    "seconds": 17279,
+    "seconds": 17278,
     "title": "[Honkai3rdEP228] \u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e02\u0e2d\u0e07\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23 | The Future We Embrace",
     "uploader": "Ascending P",
     "url": "https://www.youtube.com/watch?v=M-5E_zJrY8M",
-    "views": "142",
-    "rejected": []
+    "views": 142,
+    "rejected": [],
+    "upload_date": "20260903"
    },
    {
     "seconds": 1852,
@@ -35761,8 +36141,9 @@
     "title": "[CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace",
     "uploader": "LoreBugCarv",
     "url": "https://www.youtube.com/watch?v=C9vHbT8pkoY",
-    "views": "3444",
-    "rejected": []
+    "views": 3583,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
     "seconds": 21618,
@@ -35778,30 +36159,33 @@
     "title": "The Future We Embrace Part 2 (Part 2 Chapter 14) [Honkai Impact 3rd] with the Beefkins!",
     "uploader": "Rainbow Beefkins",
     "url": "https://www.youtube.com/watch?v=kUEpJrrl0FE",
-    "views": "55",
+    "views": 72,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260909"
    },
    {
-    "seconds": 2646,
+    "seconds": 2645,
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 7",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=_l-Wzn4Ity0",
-    "views": "1",
+    "views": 7,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260925"
    },
    {
     "seconds": 1798,
     "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 3",
     "uploader": "Aldi Rief",
     "url": "https://www.youtube.com/watch?v=xA5ZF5oki2A",
-    "views": "4",
+    "views": 13,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260921"
    },
    {
     "seconds": 2079,
@@ -35830,30 +36214,36 @@
     "title": "Honkai Impact 3rd - Reacting to Chapter 14 of the Main Story (Part 2) | BunPlusUltra",
     "uploader": "BunPlusUltra",
     "url": "https://www.youtube.com/watch?v=rR1fgm0MbYU",
-    "views": "463",
+    "views": 465,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20210901"
    },
    {
     "seconds": 5329,
     "title": "Honkai Impact 3rd Story Chapter 14 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=Zc2h-cBOYV0",
-    "views": "26482",
+    "views": 26628,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20200811"
    },
    {
-    "seconds": 8568,
+    "seconds": 8088,
     "title": "Honkai Impact 3 Gameplay 61 (Main Story Part 2 Chapter 14 Finale & Captain's Wishing Tree Secrets) ",
     "uploader": "BcsX",
     "url": "https://www.youtube.com/watch?v=aQPf9cyQVCY",
-    "views": "195",
+    "views": 213,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260903",
+    "runtime": 8567,
+    "measured": "chapter-markers",
+    "parts": {}
    },
    {
     "seconds": 4817,
@@ -35867,14 +36257,15 @@
     "upload_date": "20260909"
    },
    {
-    "seconds": 32047,
+    "seconds": 32046,
     "title": "Honkai Impact 3rd Part 2 Chapter 14 The Future We Embrace Chase The Shadow!",
     "uploader": "Glythic Mirror",
     "url": "https://www.youtube.com/watch?v=ec73_qDzpOw",
-    "views": "178",
+    "views": 195,
     "rejected": [
      "fragment"
-    ]
+    ],
+    "upload_date": "20260910"
    },
    {
     "seconds": 1267,
@@ -35899,35 +36290,38 @@
     ]
    },
    {
-    "seconds": 1840,
+    "seconds": 1839,
     "title": "Honkai Impact 3rd | Will of The Herrscher | Part 14",
     "uploader": "TheTwitGamer",
     "url": "https://www.youtube.com/watch?v=4lawHOBoIbQ",
-    "views": "5549",
+    "views": 5600,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20220419"
    },
    {
     "seconds": 2193,
     "title": "[Honkai Impact 3rd] Story Chapter 14 \"Dispel the Darkness\" (with gameplay) part 2",
     "uploader": "Shinrin Games",
     "url": "https://www.youtube.com/watch?v=JhyqvMSra84",
-    "views": "3045",
+    "views": 3053,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20200629"
    },
    {
     "seconds": 2297,
     "title": "Honkai Impact 3rd Story: Chapter 14 Part 2",
     "uploader": "Agent 7",
     "url": "https://www.youtube.com/watch?v=UDin7Nkz2Yc",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20240929"
    },
    {
     "seconds": 122,
@@ -35945,10 +36339,11 @@
     "title": "[Spoiler] Final Chapter of Part 2 [CN]",
     "uploader": "Wyverein",
     "url": "https://www.youtube.com/watch?v=QfqfuAlZd3Y",
-    "views": "2116",
+    "views": 2198,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260807"
    },
    {
     "seconds": 511,
@@ -36003,32 +36398,117 @@
      "not-a-playthrough",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 19695,
+    "title": "Hi3 Part 2 Chapter 14: The Future We Embrace first play through [20/10/2026]",
+    "uploader": "Makie Stream's VOD",
+    "url": "https://www.youtube.com/watch?v=jHvsxJ8Y9yY",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261109"
+   },
+   {
+    "seconds": 3210,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XIV - The Future We Embrace Part 8 [END]",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=T7uP9yXqfKY",
+    "views": 14,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260926"
+   },
+   {
+    "seconds": 8606,
+    "title": "\ubd95\uad34 3rd ver. 9.0 \uba54\uc778\uc2a4\ud1a0\ub9ac: \uc774\uc81c, \ubbf8\ub798\ub97c \ud488\uc5b4\ub77c Part 1 (16:9, Story Walkthrough)",
+    "uploader": "Diene Ramiel",
+    "url": "https://www.youtube.com/watch?v=btYHKH_W3qw",
+    "views": 25,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261021"
+   },
+   {
+    "seconds": 24372,
+    "title": "(14)Honkai Impact 3rd | Part 2 | Main Story - Chapter  14 | The Future We Embrace",
+    "uploader": "DodocoNotes",
+    "url": "https://www.youtube.com/watch?v=p0pVWZH2t8Y",
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 24908,
+    "title": "Honkai Impact 3 | Story version 9.0",
+    "uploader": "ApKaka",
+    "url": "https://www.youtube.com/watch?v=bdla1u8zhlA",
+    "views": 804,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 981,
+    "title": "Crystal Farming Guide (Updated for 2026) | Honkai Impact 3rd",
+    "uploader": "MJ",
+    "url": "https://www.youtube.com/watch?v=x9W_2tkjW3E",
+    "views": "8662",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 13357,
+    "title": "Honkai Impact 3rd | Main Story Part 2 Chapter XII: With You, Whom I never Knew",
+    "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
+    "url": "https://www.youtube.com/watch?v=QE-g8epHUW4",
+    "views": 42,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260514"
    }
   ],
   "kept": [
    {
-    "seconds": 17279,
+    "seconds": 17278,
     "title": "[Honkai3rdEP228] \u0e1a\u0e17\u0e2a\u0e23\u0e38\u0e1b\u0e02\u0e2d\u0e07\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23 | The Future We Embrace",
     "uploader": "Ascending P",
     "url": "https://www.youtube.com/watch?v=M-5E_zJrY8M",
-    "views": "142",
-    "rejected": []
+    "views": 142,
+    "rejected": [],
+    "upload_date": "20260903"
    },
    {
-    "seconds": 18799,
+    "seconds": 18798,
     "title": "Honkai Impact 3rd | Main Story Part 2 Finale: The Future We Embrace",
     "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
     "url": "https://www.youtube.com/watch?v=MqtMB_-XurY",
-    "views": "20",
-    "rejected": []
+    "views": 34,
+    "rejected": [],
+    "upload_date": "20260903"
    },
    {
     "seconds": 19134,
     "title": "Completing Part 2 Chapter 14 'The Future We Embrace' | Honkai Impact 3rd",
     "uploader": "JaydenHorn1406",
     "url": "https://www.youtube.com/watch?v=nvi02eqi_XQ",
-    "views": "117",
-    "rejected": []
+    "views": 353,
+    "rejected": [],
+    "upload_date": "20260915"
+   },
+   {
+    "seconds": 19695,
+    "title": "Hi3 Part 2 Chapter 14: The Future We Embrace first play through [20/10/2026]",
+    "uploader": "Makie Stream's VOD",
+    "url": "https://www.youtube.com/watch?v=jHvsxJ8Y9yY",
+    "views": 1,
+    "rejected": [],
+    "upload_date": "20261109"
    },
    {
     "seconds": 21618,
@@ -36040,12 +36520,13 @@
     "upload_date": "20260904"
    },
    {
-    "seconds": 21716,
+    "seconds": 21715,
     "title": "Honkai Impact 3rd Story Part 2 Finale Chapter : \"The Future We Embrace\"",
     "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
     "url": "https://www.youtube.com/watch?v=LG9vBXa2DA0",
-    "views": "18",
-    "rejected": []
+    "views": 22,
+    "rejected": [],
+    "upload_date": "20260908"
    },
    {
     "seconds": 21854,
@@ -36066,12 +36547,22 @@
     "upload_date": "20260904"
    },
    {
+    "seconds": 24372,
+    "title": "(14)Honkai Impact 3rd | Part 2 | Main Story - Chapter  14 | The Future We Embrace",
+    "uploader": "DodocoNotes",
+    "url": "https://www.youtube.com/watch?v=p0pVWZH2t8Y",
+    "views": 23,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
     "seconds": 24955,
     "title": "[CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace",
     "uploader": "LoreBugCarv",
     "url": "https://www.youtube.com/watch?v=C9vHbT8pkoY",
-    "views": "3444",
-    "rejected": []
+    "views": 3583,
+    "rejected": [],
+    "upload_date": "20260806"
    },
    {
     "seconds": 28049,
@@ -36084,13 +36575,777 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 11,
    "median": 362,
    "low": 288,
    "high": 467,
-   "q1": 316,
-   "q3": 404,
-   "trimmed_mean": 365,
+   "q1": 319,
+   "q3": 406,
+   "trimmed_mean": 362,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "aric",
+  "chapter_title": "Part 2: A Rose in a Curtsy",
+  "act_label": "Chapter XV",
+  "act_title": "The Sea Sings With the Voice of Fire",
+  "wiki_page": "Part 2 Chapter XV",
+  "slug": "aric_Chapter_XV",
+  "candidates": [
+   {
+    "seconds": 10959,
+    "title": "Full Story Chapter 15 :\"The Sea Sings With The Voice Of Fire\" | Honkai Impact 3 part 2(Japanese Dub)",
+    "uploader": "RnQ",
+    "url": "https://www.youtube.com/watch?v=Q2Im5eZ_57U",
+    "views": 152,
+    "rejected": [],
+    "upload_date": "20261104"
+   },
+   {
+    "seconds": 2028,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XV - The Sea Sings With the Voice of Fire Part 2",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=-mQ42EagPXQ",
+    "views": 10,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261110"
+   },
+   {
+    "seconds": 2383,
+    "title": "[Honkai Impact 3rd] Story Part 2 Chapter XV - The Sea Sings With the Voice of Fire Part 1",
+    "uploader": "Aldi Rief",
+    "url": "https://www.youtube.com/watch?v=JxzPCxD3Ngw",
+    "views": 6,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261109"
+   },
+   {
+    "seconds": 454,
+    "title": "V9.1 Beta - Chapter 15 [The Sea is Singing with a Voice of Fire]",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=T66RJyJszls",
+    "views": "2313",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3564,
+    "title": "Honkai Impact 3 Gameplay 69 (Main Story Part 2 Chapter 15: The Sea Sings With the Voice of Fire) ",
+    "uploader": "BcsX",
+    "url": "https://www.youtube.com/watch?v=VBw04vhyTC8",
+    "views": 107,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 6899,
+    "title": "Honkai Impact 3rd Part 2 Chapter 15 The Sea Sings With the Voice of Fire Pt. 1",
+    "uploader": "Chris Banas",
+    "url": "https://www.youtube.com/watch?v=xM_aeokq-Qg",
+    "views": 11,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 189,
+    "title": "Honkai Impact 3rd Part 2 Cutscene - The sea is singing with a voice of fire.",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=5rU31FslD28",
+    "views": "149249",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 11274,
+    "title": "Honkai Impact 3rd - Part 2 Epilogue - The Sea Sings With the Voice of Fire",
+    "uploader": "DanGooSlime",
+    "url": "https://www.youtube.com/watch?v=Nq6bT5iHEr0",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20261108"
+   },
+   {
+    "seconds": 9492,
+    "title": "The End of Part 2 | Honkai Impact Full Story Epilogue, \"The Sea is Singing with a Voice of Fire\"",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=k9vWdNATKuQ",
+    "views": 2711,
+    "rejected": [],
+    "upload_date": "20261010"
+   },
+   {
+    "seconds": 803,
+    "title": "Honkai Impact 3 v3.8 Beta Chapter 15 \"Lost Sand\" Extra Story Full Gameplay",
+    "uploader": "VirtualP:G:E",
+    "url": "https://www.youtube.com/watch?v=ndIH0KU5axU",
+    "views": "693",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1422,
+    "title": "Honkai Impact 3 Story Chapter 15 \"The Prodigal Girl Returns\" Act 1 \"Before Dawn\" Durandal",
+    "uploader": "VirtualP:G:E",
+    "url": "https://www.youtube.com/watch?v=y8qIM5Dt1cM",
+    "views": "515",
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1042,
+    "title": "Honkai Impact 3 Story Chapter 15 The Prodigal Girl Returns Act 3 ENDING",
+    "uploader": "VirtualP:G:E",
+    "url": "https://www.youtube.com/watch?v=bQJ7g0zIkJc",
+    "views": 172,
+    "rejected": [
+     "fragment",
+     "act-mismatch"
+    ],
+    "upload_date": "20200508"
+   },
+   {
+    "seconds": 15727,
+    "title": "Honkai Impact 3rd - 9.1 Story - The Sea Sings With the Voice of Fire",
+    "uploader": "Kurib",
+    "url": "https://www.youtube.com/watch?v=NdxbcMK_--4",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20261109"
+   },
+   {
+    "seconds": 5380,
+    "title": "Honkai Impact 3rd - Part 2 v9.1: Epilogue, The Sea Sings with the Voice of Fire (Playthrough Part 1)",
+    "uploader": "Honkai Gamers",
+    "url": "https://www.youtube.com/watch?v=L-z-c3Y9T_8",
+    "views": 90,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 9313,
+    "title": "Honkai Impact 3rd | Main Story Part 2 Afterstory: The Sea Sings With the Voice of Fire (9.1)",
+    "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
+    "url": "https://www.youtube.com/watch?v=nJFqJZ_blQ8",
+    "views": 121,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 2951,
+    "title": "Honkai Impact 3 V9.1 - Story - Afterstory: The Sea Sings With the Voice of Fire (1)",
+    "uploader": "Indra Adriyan",
+    "url": "https://www.youtube.com/watch?v=KL2IO8cFYbM",
+    "views": 11,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261104"
+   },
+   {
+    "seconds": 16675,
+    "title": "Honkai Impact - Part 2 Afterstory - The Sea Sings With the Voice of Fire",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=JICoy6brm-8",
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20261109"
+   },
+   {
+    "seconds": 13283,
+    "title": "[Main Story Part 2 Afterstory] The Sea Sings With the Voice of Fire | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=P8gt9chk-sk",
+    "views": 74,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 11540,
+    "title": "AFTERSTORY!!! The Sea Sings With the Voice of Fire | Honkai Impact 3rd [v9.0]",
+    "uploader": "Nanoha61",
+    "url": "https://www.youtube.com/watch?v=euJN9qqe_fc",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 11218,
+    "title": "Honkai Impact 3rd Story Part 2 Afterstory : \"The Sea Sings With the Voice of Fire\"",
+    "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
+    "url": "https://www.youtube.com/watch?v=_LiP96hXNZ4",
+    "views": 75,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 3765,
+    "title": "Cat reacts Honkai Impact 3rd 9.1 Story The Sea Sings With the Voice of Fire Chinese Voice Part 1",
+    "uploader": "\u5343\u7fbd\u9ce5\u5c45 Senbatorii",
+    "url": "https://www.youtube.com/watch?v=QXPwsbBPwQQ",
+    "views": 37,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 8818,
+    "title": "Honkai Impact 3rd Part 2 Chapter 15: The Sea Sings With the Voice of Fire.",
+    "uploader": "Number 39: Utopia",
+    "url": "https://www.youtube.com/watch?v=ILVXeXeyFm8",
+    "views": 117,
+    "rejected": [],
+    "upload_date": "20261105"
+   },
+   {
+    "seconds": 6701,
+    "title": "Honkai Impact 3rd season 2 Chapter 15 The Sea Sings With the Voice of Fire pt2",
+    "uploader": "Chris Banas",
+    "url": "https://www.youtube.com/watch?v=KM60o0ABVuA",
+    "views": 23,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20261104"
+   },
+   {
+    "seconds": 6626,
+    "title": "Honkai Part 2 Chapter 15: The Sea Sings the Voice of Fire! - Translated in English - Honkai Impac...",
+    "uploader": "Kebbini",
+    "url": "https://www.youtube.com/watch?v=cD6fLza3IJU",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 12705,
+    "title": "[CN] Honkai Impact 3rd Part 2 Epilogue - The Sea is Singing with a Voice of Fire",
+    "uploader": "LoreBugCarv",
+    "url": "https://www.youtube.com/watch?v=pM2aBXMnOoc",
+    "views": 1753,
+    "rejected": [],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 692,
+    "title": "The Legend Of Fu Hua Part 2 Fu Hua Is Really Jingwei? And Nuwa Loves Anime!? Honkai Impact 3rd",
+    "uploader": "Anime Rogue Extraordinaire",
+    "url": "https://www.youtube.com/watch?v=WdXeOo4JbtE",
+    "views": "364",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9280,
+    "title": "I Didn't Even Play This Game, and It Hit Me In The Feels | REACTING TO EVERY HONKAI IMPACT ANIMATION",
+    "uploader": "DonnyVick",
+    "url": "https://www.youtube.com/watch?v=_SBnFrAy37U",
+    "views": "74446",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 147,
+    "title": "EX-MA\u300eW47\u300fJizou, Hellmaru, Benares | HONKAI IMPACT 3\u3010SEA\u3011",
+    "uploader": "Kaoru Kihou",
+    "url": "https://www.youtube.com/watch?v=Zp2sHA_pJ4E",
+    "views": "87",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 339,
+    "title": "[Honkai Impact 3 SEA] - Agony 33f Final Boss 10k\u00b0",
+    "uploader": "Lingga Archieve",
+    "url": "https://www.youtube.com/watch?v=2AmMJRy9L6U",
+    "views": "180",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 376,
+    "title": "[Honkai Impact 3] Elysian Realm (Finality) - Herrscher of Time (HoTi) (S0) (9.1)",
+    "uploader": "Kanon7125",
+    "url": "https://www.youtube.com/watch?v=BhomFXTZS_4",
+    "views": "1218",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17,
+    "title": "Honkai Impact 9.1 - New S-rank Herrscher of Time Revealed! IMG FIRE WOD",
+    "uploader": "Marisa Honkai",
+    "url": "https://www.youtube.com/watch?v=kALTqm9sJrY",
+    "views": "35738",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1012,
+    "title": "[Spoiler] Final Battle of Main Story Part 2",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=1_Bb0llT9Do",
+    "views": 8754,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260806"
+   },
+   {
+    "seconds": 2465,
+    "title": "V9.1 Beta - Anything New",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=fiaSNErIrX0",
+    "views": "12543",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 981,
+    "title": "Crystal Farming Guide (Updated for 2026) | Honkai Impact 3rd",
+    "uploader": "MJ",
+    "url": "https://www.youtube.com/watch?v=x9W_2tkjW3E",
+    "views": "8662",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 424,
+    "title": "Dreamseeker is Finally Playable! Herrscher of Time Showcase [Honkai Impact v9.1 Beta v2]",
+    "uploader": "Amadeus Rolux",
+    "url": "https://www.youtube.com/watch?v=HYUbzEj13NU",
+    "views": "6838",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 21818,
+    "title": "Dreamseeker | Honkai Impact 3rd Part 2 Story Quest Finale Walkthrough Gameplay (Japanese Dub)",
+    "uploader": "DafDazDay",
+    "url": "https://www.youtube.com/watch?v=G4tJZLlZseU",
+    "views": 6020,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260903"
+   },
+   {
+    "seconds": 30,
+    "title": "First Look at New S-rank for V9.1 - Honkai Impact 3rd",
+    "uploader": "Marisa Honkai",
+    "url": "https://www.youtube.com/watch?v=WIPptNQYcvc",
+    "views": "23939",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 369,
+    "title": "Honkai Impact 3 v 9.1 - A LOT IS NEW IN V9.1",
+    "uploader": "ImHerpman",
+    "url": "https://www.youtube.com/watch?v=64HvQq60QcQ",
+    "views": "31170",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9041,
+    "title": "Honkai Impact 3 - Captain's Ranch Tale | Captainverse Epilogue | Full Story Englsih 4K 60FPS",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=xRc4zDzek8M",
+    "views": "489",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 24955,
+    "title": "[CN] Honkai Impact 3rd Part 2 Final Chapter - The Future We Embrace",
+    "uploader": "LoreBugCarv",
+    "url": "https://www.youtube.com/watch?v=C9vHbT8pkoY",
+    "views": 3583,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260806"
+   },
+   {
+    "seconds": 15406,
+    "title": "[Honkai3rdEP230] \u0e17\u0e34\u0e49\u0e07\u0e17\u0e49\u0e32\u0e22 | The Sea Sings With the Voice of Fire",
+    "uploader": "Ascending P",
+    "url": "https://www.youtube.com/watch?v=j004_HQ8u0o",
+    "views": "375",
+    "rejected": []
+   },
+   {
+    "seconds": 3269,
+    "title": "Honkai Impact 3 V9.1 - Story - Afterstory: The Sea Sings With the Voice of Fire (2)",
+    "uploader": "Indra Adriyan",
+    "url": "https://www.youtube.com/watch?v=KJBx-XV2kqo",
+    "views": "8",
+    "rejected": [
+     "short-outlier"
+    ]
+   },
+   {
+    "seconds": 146,
+    "title": "[Honkai Impact 3rd 9.1] Main Story Part 2 Ending Song",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=FdcVMc1wHmU",
+    "views": "295",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 283,
+    "title": "Entropy finally found Sena | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=ZNpZC5cfduc",
+    "views": "19",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 530,
+    "title": "Little Sena meets God Sena and finds out her identity | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=mUnHYQoMgfo",
+    "views": "13",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 684,
+    "title": "Entropy got bonked by Sera | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=dJegsicrClM",
+    "views": "9",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1630,
+    "title": "Honkai Impact 3rd v9.1 Hyperion Lounge",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=ZTgPOcIIG4Q",
+    "views": "35623",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1345,
+    "title": "Kiana invites Entropy to her place | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=k4j1dPiMk8k",
+    "views": "10",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 115,
+    "title": "v9.1 A New Page in Time Trailer \u2014 Honkai Impact 3rd",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=RHD3c1fA18Q",
+    "views": "50221",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 148,
+    "title": "Honkai Impact Part 2 Story Ending Cutscene (Song)",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=TJvrpAR5AUo",
+    "views": "5016",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1109,
+    "title": "A Beginner's Guide for Part 2 Lore | Honkai Impact 3rd",
+    "uploader": "Homu Labs",
+    "url": "https://www.youtube.com/watch?v=GD9zkdcYzaE",
+    "views": "33201",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4298,
+    "title": "Honkai 3rd Impact (Part 2) Epilogue: The Sea Sings With the Voice of Fire [Part 2]",
+    "uploader": "C Ra",
+    "url": "https://www.youtube.com/watch?v=Ff7lpyBhFBE",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 3504,
+    "title": "Honkai 3rd Impact (Part 2) Epilogue: The Sea Sings With the Voice of Fire [Part 3]",
+    "uploader": "C Ra",
+    "url": "https://www.youtube.com/watch?v=E1KOiW_iOr0",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5019,
+    "title": "Honkai Impact 3rd v9.1: Epilogue, The Sea Sings with the Voice of Fire (Playthrough Part 2 Final)",
+    "uploader": "Honkai Gamers",
+    "url": "https://www.youtube.com/watch?v=_xCXefKIwzE",
+    "views": "148",
+    "rejected": [
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 3780,
+    "title": "Honkai 3rd Impact (Part 2) Epilogue: The Sea Sings With the Voice of Fire [Part 1]",
+    "uploader": "C Ra",
+    "url": "https://www.youtube.com/watch?v=J27dPxiYSs0",
+    "views": "7",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 147,
+    "title": "[Spoiler] Last Scene of Main Story Part 2 Epilogue",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=b3N-rLhEmLg",
+    "views": "3950",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9600,
+    "title": "[Spoiler] Part 2 Epilogue [CN]",
+    "uploader": "Wyverein",
+    "url": "https://www.youtube.com/watch?v=6rzg2a0ZlJI",
+    "views": "2270",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 121,
+    "title": "Honkai Impact 3rd v9.1 \u26a1 Herrscher of Time Arrives! | New Update Trailer",
+    "uploader": "MD.ALFAYEN",
+    "url": "https://www.youtube.com/watch?v=ME0j1qHIXuU",
+    "views": "77",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 133,
+    "title": "Honkai Impact 3 8.1 : NEW CHAPTER -  Leyla Playable",
+    "uploader": "ImHerpman",
+    "url": "https://www.youtube.com/watch?v=63XsH9SVMV0",
+    "views": "14621",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 287,
+    "title": "Will of the Herrscher - Honkai Impact 3rd Animations [Song: Befall]",
+    "uploader": "Honkai Impact 3rd",
+    "url": "https://www.youtube.com/watch?v=Q-b6rdyIJsY",
+    "views": "63500643",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 6626,
+    "title": "Honkai Part 2 Chapter 15: The Sea Sings the Voice of Fire! - Translated in English - Honkai Impac...",
+    "uploader": "Kebbini",
+    "url": "https://www.youtube.com/watch?v=cD6fLza3IJU",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 8818,
+    "title": "Honkai Impact 3rd Part 2 Chapter 15: The Sea Sings With the Voice of Fire.",
+    "uploader": "Number 39: Utopia",
+    "url": "https://www.youtube.com/watch?v=ILVXeXeyFm8",
+    "views": 117,
+    "rejected": [],
+    "upload_date": "20261105"
+   },
+   {
+    "seconds": 9313,
+    "title": "Honkai Impact 3rd | Main Story Part 2 Afterstory: The Sea Sings With the Voice of Fire (9.1)",
+    "uploader": "Nguy\u1ec5n Ng\u1ecdc Ho\u00e0ng Long",
+    "url": "https://www.youtube.com/watch?v=nJFqJZ_blQ8",
+    "views": 121,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 9492,
+    "title": "The End of Part 2 | Honkai Impact Full Story Epilogue, \"The Sea is Singing with a Voice of Fire\"",
+    "uploader": "Matt Is Playing",
+    "url": "https://www.youtube.com/watch?v=k9vWdNATKuQ",
+    "views": 2711,
+    "rejected": [],
+    "upload_date": "20261010"
+   },
+   {
+    "seconds": 10959,
+    "title": "Full Story Chapter 15 :\"The Sea Sings With The Voice Of Fire\" | Honkai Impact 3 part 2(Japanese Dub)",
+    "uploader": "RnQ",
+    "url": "https://www.youtube.com/watch?v=Q2Im5eZ_57U",
+    "views": 152,
+    "rejected": [],
+    "upload_date": "20261104"
+   },
+   {
+    "seconds": 11218,
+    "title": "Honkai Impact 3rd Story Part 2 Afterstory : \"The Sea Sings With the Voice of Fire\"",
+    "uploader": "Arikachi Ch. \u3042\u308a\u304b\u3061_\u304b\u3068\u3058",
+    "url": "https://www.youtube.com/watch?v=_LiP96hXNZ4",
+    "views": 75,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 11274,
+    "title": "Honkai Impact 3rd - Part 2 Epilogue - The Sea Sings With the Voice of Fire",
+    "uploader": "DanGooSlime",
+    "url": "https://www.youtube.com/watch?v=Nq6bT5iHEr0",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20261108"
+   },
+   {
+    "seconds": 11540,
+    "title": "AFTERSTORY!!! The Sea Sings With the Voice of Fire | Honkai Impact 3rd [v9.0]",
+    "uploader": "Nanoha61",
+    "url": "https://www.youtube.com/watch?v=euJN9qqe_fc",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20261103"
+   },
+   {
+    "seconds": 12705,
+    "title": "[CN] Honkai Impact 3rd Part 2 Epilogue - The Sea is Singing with a Voice of Fire",
+    "uploader": "LoreBugCarv",
+    "url": "https://www.youtube.com/watch?v=pM2aBXMnOoc",
+    "views": 1753,
+    "rejected": [],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 13283,
+    "title": "[Main Story Part 2 Afterstory] The Sea Sings With the Voice of Fire | Honkai Impact 3rd 9.1",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=P8gt9chk-sk",
+    "views": 74,
+    "rejected": [],
+    "upload_date": "20261102"
+   },
+   {
+    "seconds": 15406,
+    "title": "[Honkai3rdEP230] \u0e17\u0e34\u0e49\u0e07\u0e17\u0e49\u0e32\u0e22 | The Sea Sings With the Voice of Fire",
+    "uploader": "Ascending P",
+    "url": "https://www.youtube.com/watch?v=j004_HQ8u0o",
+    "views": "375",
+    "rejected": []
+   },
+   {
+    "seconds": 15727,
+    "title": "Honkai Impact 3rd - 9.1 Story - The Sea Sings With the Voice of Fire",
+    "uploader": "Kurib",
+    "url": "https://www.youtube.com/watch?v=NdxbcMK_--4",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20261109"
+   },
+   {
+    "seconds": 16675,
+    "title": "Honkai Impact - Part 2 Afterstory - The Sea Sings With the Voice of Fire",
+    "uploader": "Aira Delasse",
+    "url": "https://www.youtube.com/watch?v=JICoy6brm-8",
+    "views": 40,
+    "rejected": [],
+    "upload_date": "20261109"
+   }
+  ],
+  "stats": {
+   "n": 13,
+   "median": 188,
+   "low": 110,
+   "high": 278,
+   "q1": 157,
+   "q3": 239,
+   "trimmed_mean": 197,
    "measured": 0,
    "parts": {},
    "drift": null

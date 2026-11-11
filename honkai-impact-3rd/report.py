@@ -26,7 +26,7 @@ REPORT = dict(
     unit="Chapter",
     container="Arc",
     region_label="Part",
-    date="2026-09-26",
+    date="2026-11-09",
 )
 
 CHAPTERS = [
@@ -127,9 +127,9 @@ CHAPTERS = [
     ),
     dict(
         id="aric", slug="18-a-rose-in-a-curtsy",
-        wiki_page="Story#The Future We Embrace",
-        region="Part 2", versions="8.5 - 9.0",
-        title="The Future We Embrace",
+        wiki_page="Story#The Sea Sings With the Voice of Fire",
+        region="Part 2", versions="8.5 - 9.1",
+        title="The Sea Sings With the Voice of Fire",
     ),
 ]
 

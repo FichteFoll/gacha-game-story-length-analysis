@@ -1,4 +1,6 @@
-(full|entire|complete|whole) (main )?(story|storyline|story ?line|game|campaign)
+(entire|complete|whole) (main )?(story|storyline|story ?line|game|campaign)
+full (main )?(storyline|story ?line|game|campaign)
+full main story(?! (part 2 )?chapter)
 all (main )?story chapters
 all chapters
 part (1|2|i|ii)(\.5)? (full|complete|entire) (story|movie|walkthrough)

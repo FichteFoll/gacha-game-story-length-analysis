@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Dawn after the Remaining Old Wish
 
-**Part:** Part 2 | **Game versions:** 7.8 - 8.4 | **Entries:** 7 | **Estimated arc length: 25 h 29 min**
+**Part:** Part 2 | **Game versions:** 7.8 - 8.4 | **Entries:** 7 | **Estimated arc length: 25 h 26 min**
 <!--/gen-->
 
 Dreamseeker goes back into the system pulled by the need to find Senadina,
@@ -15,24 +15,24 @@ until Vita starts a panic in Oxia and a familiar face surfaces in the middle of 
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter V | The First and Last War | 3 h 17 min | 2 h 44 min - 3 h 36 min | 13 | medium |
+| Chapter V | The First and Last War | 3 h 18 min | 2 h 53 min - 3 h 39 min | 12 | medium |
 | Chapter VI | Wails Stifled by the Silent Shadow | 3 h 39 min | 2 h 51 min - 4 h 33 min | 6 | low |
 | Chapter VII | Bouquets of Unfulfilled Wishes | 3 h 48 min | 3 h 41 min - 4 h 04 min | 8 | high |
-| Chapter EX-2 | To None May God Pray | 1 h 56 min | 1 h 53 min - 1 h 59 min | 9 | high |
+| Chapter EX-2 | To None May God Pray | 1 h 56 min | 1 h 54 min - 1 h 59 min | 10 | high |
 | Chapter VIII | Till the Long Road Reaches the Sky | 4 h 08 min | 3 h 59 min - 4 h 23 min | 12 | high |
 | Chapter IX | If Destiny Concludes Today | 5 h 37 min | 5 h 16 min - 6 h 03 min | 10 | high |
-| Chapter EX-3 | Yet the Stars Still Sparkle | 3 h 04 min | 2 h 24 min - 4 h 12 min | 7 | low |
+| Chapter EX-3 | Yet the Stars Still Sparkle | 3 h 00 min | 2 h 34 min - 3 h 26 min | 8 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->25 h 29 min<!--/f-->**
+**Total: <!--f:total-->25 h 26 min<!--/f-->**
 
 ## Pacing
 
-The largest arc in the report,
-if only just ahead of the arc that follows it:
-<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 29 min<!--/f-->,
+The second largest arc in the report,
+behind only the arc that follows it:
+<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->25 h 26 min<!--/f-->,
 which is more than the whole of Part 1's first six arcs put together.
-<!--f:n_above_3h-->six<!--/f--> of its entries run past three hours,
+<!--f:n_above_3h-->five<!--/f--> of its entries run past three hours,
 and *<!--f:longest_title-->If Destiny Concludes Today<!--/f-->* is its longest entry
 at <!--f:longest_len-->5 h 37 min<!--/f-->,
 and the second longest in the game, behind only *The Future We Embrace*.
@@ -52,8 +52,8 @@ A hundred years back into Langqiu,
 and the first chapter of the arc.
 <!--gen:stats act="Chapter V"-->
 
-- **Estimated length:** 3 h 17 min
-- **Sampled range:** 2 h 44 min to 3 h 36 min for the middle half (full spread 1 h 47 min to 4 h 26 min) across 13 playthrough uploads (39 further candidates screened out)
+- **Estimated length:** 3 h 18 min
+- **Sampled range:** 2 h 53 min to 3 h 39 min for the middle half (full spread 2 h 00 min to 4 h 26 min) across 12 playthrough uploads (40 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 7.8
 - **Stability:** median 0% against an earlier, independent query set
@@ -65,7 +65,6 @@ and the first chapter of the arc.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 47 min | starting honkai story the first and last war | Alejandro Sciarretta | ~1 | n/a | <https://www.youtube.com/watch?v=jLJSwdXmzuI> |
 | 2 h 00 min | Honkai Impact 3rd Chapter 5 The First and Last War \| Sparkle and Vita | Dante Hades 闇 | ~237 | n/a | <https://www.youtube.com/watch?v=n_qK9P4wTPY> |
 | 2 h 42 min | (CN Dub - EN Sub) The First and Last War \| Honkai Impact 3rd | AndhraZX | ~231 | n/a | <https://www.youtube.com/watch?v=MjXH3S5ZAtA> |
 | 2 h 46 min | Honkai Impact 3rd 7.8 Story The First and Last War | 千羽鳥居 Senbatorii | ~106 | n/a | <https://www.youtube.com/watch?v=KwxgCukxXyI> |
@@ -152,7 +151,7 @@ A short interlude between Chapter VII and Chapter VIII.
 <!--gen:stats act="Chapter EX-2"-->
 
 - **Estimated length:** 1 h 56 min
-- **Sampled range:** 1 h 53 min to 1 h 59 min for the middle half (full spread 1 h 14 min to 2 h 02 min) across 9 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 1 h 54 min to 1 h 59 min for the middle half (full spread 1 h 14 min to 2 h 02 min) across 10 playthrough uploads (11 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.1
 - **Stability:** median +3% against an earlier, independent query set
@@ -167,6 +166,7 @@ A short interlude between Chapter VII and Chapter VIII.
 | 1 h 14 min | Honkai impact 3 \| To None May God Pray (Part2 - End) \| No commentary | BukanSiapa2 | ~6 | n/a | <https://www.youtube.com/watch?v=V8ipfnu7xWo> |
 | 1 h 51 min | Honkai Impact 3rd - Part 2 : Chapter 7 Extra  To None May God Pray (Full Playthrough) | Honkai Gamers | ~114 | n/a | <https://www.youtube.com/watch?v=W5vbIL0Yink> |
 | 1 h 55 min | HI3rd Part 2: EX Chapter - To None May God Pray | iJokz | ~34 | n/a | <https://www.youtube.com/watch?v=AkPhdikp32w> |
+| 1 h 56 min | Honkai Impact Part 2 - Chapter 7 Interlude: To None May God Pray \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | ~473 | n/a | <https://www.youtube.com/watch?v=zMBIOvcr0Bs> |
 | 1 h 56 min | Honkai Impact 3rd Part 2 Chapter 7 EX - To None May God Pray (Full) | Kazuma Akimoto (Master Aki) | ~41 | n/a | <https://www.youtube.com/watch?v=7fiIAEa8Fpo> |
 | 1 h 56 min | To None May God Pray \|\| Honkai Impact 3rd Part 2 Chapter 7 EX | AaronDeadKey | ~111 | n/a | <https://www.youtube.com/watch?v=8w5vWs7cRdg> |
 | 1 h 58 min | Honkai Impact 3rd Part 2 - Interlude (EX Chapter) : To None May God Pray | Jirangu | ~122 | n/a | <https://www.youtube.com/watch?v=g-HPAHADzbs> |
@@ -205,7 +205,7 @@ The long road, and the sky at the end of it.
 | 4 h 08 min | Honkai Impact 3rd Part 2 Chapter 8 - Until The Long Road Reaches The Sky (Full) | Kazuma Akimoto (Master Aki) | ~23 | n/a | <https://www.youtube.com/watch?v=qnuvCcABtgU> |
 | 4 h 09 min | Honkai Impact 3rd Story part 2 chapter 8 : “Till the Long Road Reaches the Sky” | Arikachi Ch. ありかち_かとじ | ~59 | n/a | <https://www.youtube.com/watch?v=TVe4I7j1u6g> |
 | 4 h 10 min | Honkai Impact 3rd Part 2 - Chapter 8 Till the Long Road Reaches the Sky | Jirangu | ~219 | n/a | <https://www.youtube.com/watch?v=V-IvWwNJEpU> |
-| 4 h 10 min | Helia \| \| Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~6,132 | n/a | <https://www.youtube.com/watch?v=tAQ7_72k254> |
+| 4 h 10 min | Helia \| \| Honkai Impact 3rd Part 2 Story Quest Chapter 8 Walkthrough Gameplay (Japanese Dub) | DafDazDay | 6,326 | 2025-05-08 | <https://www.youtube.com/watch?v=tAQ7_72k254> |
 | 4 h 27 min | Honkai Impact 3rd \| Part 2 \| Main Story - Chapter 8 -Till the Long Road Reaches the Sky | DodocoNotes | 15 | 2025-05-20 | <https://www.youtube.com/watch?v=8Bf4ra0l3fw> |
 | 4 h 54 min | Honkai Impact 3rd Part 2 Chapter 8 - Till the Long Road Reaches the Sky | Vergen | ~39 | n/a | <https://www.youtube.com/watch?v=8KGUVFZI-WE> |
 | 4 h 59 min | Honkai Impact 3rd - Story - Chapter VIII: Till the Long Road Reaches the Sky | Kurib | ~42 | n/a | <https://www.youtube.com/watch?v=CdNbNb2B5NQ> |
@@ -254,14 +254,14 @@ One of the three longest chapters in the game.
 <!--/gen-->
 
 The arc's closing interlude, and the longer of its two EX chapters
-at <!--f:len_Chapter_EX_3-->3 h 04 min<!--/f-->.
+at <!--f:len_Chapter_EX_3-->3 h 00 min<!--/f-->.
 <!--gen:stats act="Chapter EX-3"-->
 
-- **Estimated length:** 3 h 04 min
-- **Sampled range:** 2 h 24 min to 4 h 12 min across 7 playthrough uploads (48 further candidates screened out)
-- **Confidence:** low
+- **Estimated length:** 3 h 00 min
+- **Sampled range:** 2 h 34 min to 3 h 26 min for the middle half (full spread 2 h 24 min to 4 h 12 min) across 8 playthrough uploads (47 further candidates screened out)
+- **Confidence:** medium
 - **Released in:** 8.4
-- **Stability:** median -7% against an earlier, independent query set
+- **Stability:** median -9% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter EX-3"-->
@@ -273,6 +273,7 @@ at <!--f:len_Chapter_EX_3-->3 h 04 min<!--/f-->.
 | 2 h 24 min | Yet the Stars Still Sparkle (Part 2 Chapter 9 EX) [Honkai Impact 3rd] with the Beefkins!  [ENG/MY/�� | Rainbow Beefkins | ~22 | n/a | <https://www.youtube.com/watch?v=qtRpktK9jMk> |
 | 2 h 31 min | Dreamseeker \| Chapter 9-EX: Yet the Stars Still Sparkle - Honkai Impact 3rd Part 2 [CN Dub] | Honokazuuu | ~231 | n/a | <https://www.youtube.com/watch?v=77utpVmo5KU> |
 | 2 h 42 min | Honkai impact 3 \| Yet the Stars Still Sparkle \| No commentary | BukanSiapa2 | ~24 | n/a | <https://www.youtube.com/watch?v=PmWXqw6S3pk> |
+| 2 h 55 min | Honkai Impact Part 2 - Chapter 9EX: Yet the Stars Still Sparkle \| Full Story JP Dub EN Sub 4K 60FPS | Gudaoko | ~342 | n/a | <https://www.youtube.com/watch?v=mTGhQ7mY6qk> |
 | 3 h 04 min | Honkai Impact 3rd - Part 2 : Chapter 9 EX Yet The Stars Still Sparkle (Full Playthrough) | Honkai Gamers | ~414 | n/a | <https://www.youtube.com/watch?v=Xy_j-m8oJ_g> |
 | 3 h 24 min | Honkai Impact 3rd Part 2 Chapter 9 EX - Yet the Stars Still Sparkle | Vergen | ~23 | n/a | <https://www.youtube.com/watch?v=Z9m9vXe7Lik> |
 | 3 h 27 min | Yet the Stars still Sparkle \|\| HI3 | Ransu | ~7 | n/a | <https://www.youtube.com/watch?v=WzbsArNXoUw> |
