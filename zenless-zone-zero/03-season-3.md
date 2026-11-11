@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 3
 
-**Region:** Roscaelifer | **Game versions:** 3.0 - 3.2 | **Entries:** 3 | **Estimated chapter length: 12 h 17 min**
+**Region:** Roscaelifer | **Game versions:** 3.0 - 3.3 | **Entries:** 4 | **Estimated chapter length: 15 h 49 min**
 <!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
@@ -17,19 +17,23 @@ that nobody is quite awake to hear.
 | Chapter 1 | A Sleepwalker's Confession | 4 h 32 min | 4 h 16 min - 4 h 59 min | 17 | high |
 | Chapter 2 | The Long Goodbye | 4 h 28 min | 4 h 12 min - 4 h 40 min | 25 | high |
 | Chapter 3 | Their Secret Histories | 3 h 17 min | 3 h 09 min - 3 h 34 min | 18 | high |
+| Chapter 4 | Journey to the Sky | 3 h 32 min | 3 h 26 min - 3 h 40 min | 14 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->12 h 17 min<!--/f-->**
+**Total: <!--f:total-->15 h 49 min<!--/f-->**
 
 ## Pacing
 
-Still being released: <!--f:n_entries-->three<!--/f--> chapters so far,
-<!--f:total-->12 h 17 min<!--/f--> between them.
+Still being released: <!--f:n_entries-->four<!--/f--> chapters so far,
+<!--f:total-->15 h 49 min<!--/f--> between them.
 The first two, at <!--f:len_Chapter_1-->4 h 32 min<!--/f--> and <!--f:len_Chapter_2-->4 h 28 min<!--/f-->,
 were written at the Season 2 scale rather than the Season 1 one.
-*Their Secret Histories* is the shortest of the three at <!--f:len_Chapter_3-->3 h 17 min<!--/f-->,
-told in <!--f:parts_Chapter_3-->six<!--/f--> quest parts.
-All three are recent enough
+The two since are shorter.
+*Their Secret Histories* is the shortest of the four at <!--f:len_Chapter_3-->3 h 17 min<!--/f-->,
+told in <!--f:parts_Chapter_3-->six<!--/f--> quest parts,
+and *Journey to the Sky* follows at <!--f:len_Chapter_4-->3 h 32 min<!--/f-->,
+in <!--f:parts_Chapter_4-->six<!--/f--> as well.
+All four are recent enough
 that their evidence pools have had the least time to settle.
 
 ## Chapters
@@ -178,6 +182,49 @@ and the truth buried beneath the ground.
 | 3 h 49 min | ZZZ 3.2 Full Story Quest: S3 Chapter 3 Walkthrough [JP Voice] | ViGAMES | 659 | 2026-09-10 | <https://www.youtube.com/watch?v=3jp6O4G7EHQ> |
 | 3 h 57 min | The REVEALS in this chapter?! ✧ Their Secret Histories ✦ Zenless Zone Zero 3.2 | Eve_ningMusic | 8,723 | 2026-09-18 | <https://www.youtube.com/watch?v=KREeV_v2v_4> |
 | 4 h 06 min | Their Secret Histories, 3.2 Main Story Questline - Zenless Zone Zero 4K | Grateful Gaming 4K | 14 | 2026-09-11 | <https://www.youtube.com/watch?v=Uf-BFP-lUaE> |
+
+</details>
+<!--/gen-->
+
+<!--gen:act-heading act="Chapter 4"-->
+### Chapter 4 - [Journey to the Sky](https://zenless-zone-zero.fandom.com/wiki/Journey_to_the_Sky)
+<!--/gen-->
+
+Within a sleepwalker's dream,
+another dreamer awakens.
+Phoenix falls from Booastrum without a scratch,
+the one-way ticket back to the skies leads through an airport assault
+and Quietude Isle,
+and the chapter closes on a dialogue between sleepwalkers.
+<!--gen:stats act="Chapter 4"-->
+
+- **Estimated length:** 3 h 32 min
+- **Sampled range:** 3 h 26 min to 3 h 40 min for the middle half (full spread 3 h 20 min to 4 h 03 min) across 14 playthrough uploads (21 further candidates screened out)
+- **Confidence:** high
+- **Released in:** 3.3
+- **Quest parts (6):** Journey to the Sky Overture; Airport Assault; Spiral Causality; Ahriman That Could Not Pass On; Who Is Trapped in the Secret Room; Sleepwalkers' Dialogue
+<!--/gen-->
+
+<!--gen:evidence act="Chapter 4"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 3 h 20 min | Zenless Zone Zero 3.3 - Full Main Story Quest Walkthrough (Belle POV) Journey To The Sky | Ryo | 289 | 2026-10-21 | <https://www.youtube.com/watch?v=tBC8GpwYFEY> |
+| 3 h 21 min | Journey to the Sky - Season 3: Chapter 4 (Full Story) \| Zenless Zone Zero 3.3 | Sir Patty | 36 | 2026-10-22 | <https://www.youtube.com/watch?v=gXNBWSxGaB4> |
+| 3 h 26 min | ZZZ Main Quest Season 3 Chapter 4 - Journey to the Sky Full Walkthrough \| Zenless Zone Zero 3.3 | Akabirama | 107 | 2026-10-21 | <https://www.youtube.com/watch?v=ycrrlgwesxU> |
+| 3 h 26 min | Journey to the Sky \| Season 3 Chapter 4 \| Zenless Zone Zero 3.3 | LoneWanderer | 8 | 2026-10-24 | <https://www.youtube.com/watch?v=6Cq-gBCopU8> |
+| 3 h 27 min | Zenless Zone Zero 3.3 Main Story "Journey to the Sky" Full Gameplay | MaakuPlays | 146 | 2026-10-21 | <https://www.youtube.com/watch?v=PMKD-FXuI7U> |
+| 3 h 27 min | Zenless Zone Zero: Season 3 Chapter 4 - Journey to the Sky (v3.3 Full Story) | Major | 14 | 2026-10-21 | <https://www.youtube.com/watch?v=oSVryEF59ts> |
+| 3 h 31 min | Zenless Zone Zero 3.3 Main Story Quest Chapter 4: Journey to the Sky (Full Playthrough) | one  | 19 | 2026-10-27 | <https://www.youtube.com/watch?v=qrdrTGGnGMo> |
+| 3 h 34 min | Zenless Zone Zero 3.3 Main Story \| Full Walkthrough (Journey to the Sky) | Arie seventline | 244 | 2026-10-21 | <https://www.youtube.com/watch?v=VGXdKjS3qTs> |
+| 3 h 34 min | Zenless Zone Zero 3.3 Season 3 Chapter 4 - Main Story Full Walkthrough [4K 60FPS RTX ON] | Headstart Gaming | 291 | 2026-10-21 | <https://www.youtube.com/watch?v=wCc5fvBdZic> |
+| 3 h 35 min | Zenless Zone Zero 3.3 — Journey to the Sky (Full Main Story Quest) | BSS Gaming | 332 | 2026-10-21 | <https://www.youtube.com/watch?v=5UytM2gEEno> |
+| 3 h 39 min | Zenless Zone Zero 3.3 Main Story - Roscaelifer Chapter 4 (Full Playthrough) | Abyss Breakdown | 10,093 | 2026-10-21 | <https://www.youtube.com/watch?v=_jUhTHtDqdM> |
+| 3 h 42 min | Zenless Zone Zero Season 3  Main Story - Journey To the Sky Walktrough Full Game | Just_MieWalktrough | 27 | 2026-10-24 | <https://www.youtube.com/watch?v=L5cdtV7p_tE> |
+| 3 h 46 min | Zenless Zone Zero 3.3 Main Story - "Journey to the Sky" \| Full Playthrough (No Commentary) | Goober Plays | 19 | 2026-10-22 | <https://www.youtube.com/watch?v=MxXtEJNIsko> |
+| 4 h 03 min | Zenless Zone Zero Season 3 Chapter 4 Main Story Quest - Journey to the Sky | Av was here on youtube | 1 | 2026-10-22 | <https://www.youtube.com/watch?v=dluTxuNqbmY> |
 
 </details>
 <!--/gen-->

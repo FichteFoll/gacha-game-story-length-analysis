@@ -50,7 +50,7 @@ CHAPTERS = [
     dict(
         id="s3", slug="03-season-3", wiki_page="Season 3",
         region="Roscaelifer",
-        versions="3.0 - 3.2",
+        versions="3.0 - 3.3",
         title="Season 3",
     ),
 ]
