@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter IV: Rebirth From the Depths
 
-**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 39 min**
+**Region:** Mengzhou | **Game versions:** 3.5 - 3.7 | **Entries:** 6 | **Estimated chapter length: 15 h 35 min**
 <!--/gen-->
 
 A letter from Yangyang brings Rover back to Huanglong,
@@ -16,15 +16,15 @@ sends Rover after its long-absent Sentinel.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | The Wind Before the Storm | 2 h 44 min | 2 h 27 min - 2 h 58 min | 32 | high |
-| Act II | Xuanling Sings, Storm Quelled | 2 h 44 min | 2 h 37 min - 3 h 02 min | 32 | high |
+| Act I | The Wind Before the Storm | 2 h 42 min | 2 h 26 min - 2 h 58 min | 30 | high |
+| Act II | Xuanling Sings, Storm Quelled | 2 h 42 min | 2 h 37 min - 3 h 00 min | 31 | high |
 | Segue - I | The Chant of Unseen Ties | 19 min | 19 min - 21 min | 20 | high |
 | Act III | Song of the Heart Sword | 4 h 41 min | 4 h 33 min - 5 h 06 min | 34 | high |
 | Segue - II | The Nethermancer's Requiem | 18 min | 17 min - 19 min | 23 | high |
 | Act IV | Simulacrum of the Heart | 4 h 53 min | 4 h 41 min - 5 h 09 min | 34 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 39 min<!--/f-->**
+**Total: <!--f:total-->15 h 35 min<!--/f-->**
 
 ## Pacing
 
@@ -56,13 +56,13 @@ and a reply that turns into a journey back to a Huanglong
 that has gone quiet in the wrong way.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 2 h 44 min
-- **Sampled range:** 2 h 27 min to 2 h 58 min for the middle half (full spread 1 h 40 min to 4 h 54 min) across 32 playthrough uploads (27 further candidates screened out)
+- **Estimated length:** 2 h 42 min
+- **Sampled range:** 2 h 26 min to 2 h 58 min for the middle half (full spread 1 h 40 min to 3 h 48 min) across 30 playthrough uploads (29 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 3 of 32 uploads
+- **Stability:** median -1% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 3 of 30 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act I"-->
@@ -87,7 +87,6 @@ that has gone quiet in the wrong way.
 | 2 h 40 min | Wuthering Waves 3.5 (PC) Walkthrough Main Quest The Wind Before The Storm | CyberFRZ | 37 | 2026-07-12 | <https://www.youtube.com/watch?v=WPB9o13z5vg> |
 | 2 h 41 min | Wuthering Waves \| Mengzhou Chapter IV Act I: The Wind Before the Storm | Esper | 17 | 2026-08-03 | <https://www.youtube.com/watch?v=tkt1Iu1PulY> |
 | 2 h 43 min | The Wind Before the Storm Quest – Wuthering Waves | NeoBuns | 2,758 | 2026-07-11 | <https://www.youtube.com/watch?v=Oxo3AuZrNrs> |
-| 2 h 44 min | Wuthering Waves 3.5: Farewell to Lahai-Roi & Act 1 "The Wind Before the Storm" [Full Story] | Aetherix | 44 | 2026-09-06 | <https://www.youtube.com/watch?v=2pbnPn3cfjQ> |
 | 2 h 46 min | Menghzou Act 1 Full Story Quest Playthrough - Wuthering Waves 3.5 | Fayato | 1,998 | 2026-07-10 | <https://www.youtube.com/watch?v=YJpFeMkm4Zc> |
 | 2 h 46 min | Wuthering Waves Chapter 4 Act 1: The Wind Before the Storm | TheWayCafe Productions | 537 | 2026-07-11 | <https://www.youtube.com/watch?v=jiI8bTjtgyE> |
 | 2 h 47 min | FULL Chapter 4 Act 1 Mengzhou \| Wuthering Waves 3.5 "The Wind Before the Storm" | T.H Bunn | 47 | 2026-07-10 | <https://www.youtube.com/watch?v=9M9OKJnd7WM> |
@@ -102,7 +101,6 @@ that has gone quiet in the wrong way.
 | 3 h 16 min | Wuthering Waves 3.5 Main Story Quest Act 1 \| Full Gameplay [Male Rover] | Mnemenoir | 9 | 2026-07-14 | <https://www.youtube.com/watch?v=auSd2jMZhQc> |
 | 3 h 19 min | Wuwa 3.5 [Main Quest] Chapter IV Act I: The Wind Before the Storm walkthrough | Arzas_enfield | 25 | 2026-07-10 | <https://www.youtube.com/watch?v=eg8xkyuSOzI> |
 | 3 h 48 min | 🔥 The Wind Before Storm Story Quest ⚔️ \| Wuthering Waves — DAY 5 🌸 \| Ryuu Plays | Ryuu Plays | 285 | 2026-10-30 | <https://www.youtube.com/watch?v=wGheGamHAaQ> |
-| 4 h 54 min | Quest " The Wind Before the Storm " - WutheringWaves | Kalawyza | 36 | 2026-07-16 | <https://www.youtube.com/watch?v=o21x5F-oP80> |
 
 </details>
 <!--/gen-->
@@ -115,13 +113,13 @@ Tracking Yangyang's frequency through Xuanfang to the Skyworks,
 with Liangyu asking why the Autopuppets turned on their operators.
 <!--gen:stats act="Act II"-->
 
-- **Estimated length:** 2 h 44 min
-- **Sampled range:** 2 h 37 min to 3 h 02 min for the middle half (full spread 2 h 11 min to 3 h 52 min) across 32 playthrough uploads (25 further candidates screened out)
+- **Estimated length:** 2 h 42 min
+- **Sampled range:** 2 h 37 min to 3 h 00 min for the middle half (full spread 2 h 11 min to 3 h 52 min) across 31 playthrough uploads (26 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.5
-- **Stability:** median +1% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 5 of 32 uploads
+- **Stability:** median 0% against the medians of 2026-10-17
+- **Measured from the uploader's chapter markers:** 5 of 31 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -160,7 +158,6 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | 3 h 14 min | Wuthering Waves Chapter 4 Act 2: Xuanling Sings, Storm Quelled | TheWayCafe Productions | 746 | 2026-07-11 | <https://www.youtube.com/watch?v=FKTuD9PzX-c> |
 | 3 h 26 min | Wuthering Waves - Xuanling Sings, Storm Quelled - Complete Story Quest | CorporalOdin2 | 17 | 2026-07-26 | <https://www.youtube.com/watch?v=bpYjggd7qjE> |
 | 3 h 46 min | Wuthering Waves 3.5 Main Story Quest Act 2 \| Full Gameplay [Male Rover] | Mnemenoir | 16 | 2026-07-14 | <https://www.youtube.com/watch?v=Z8QPpifmh0E> |
-| 3 h 47 min | 【Wuthering Waves】\| Playing Xuanling Sings, Storm Quelled quest ! \|【VOD】 | Kiyochan_VT | 21 | 2026-07-24 | <https://www.youtube.com/watch?v=i9iOjbD4Hsg> |
 | 3 h 52 min | 3.5 ACT 2 FULL BINGE! \| Wuthering Waves 3.5 PART 2 Story Full Playthrough | Gacha Smack | 31,266 | 2026-07-11 | <https://www.youtube.com/watch?v=Hek9baNrV5w> |
 
 </details>

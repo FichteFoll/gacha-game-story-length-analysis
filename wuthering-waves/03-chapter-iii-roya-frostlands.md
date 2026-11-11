@@ -28,7 +28,7 @@ and ends up piloting the thing the whole world has been building.
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
 | Segue - VI | Beneath a Melting Night Sky | 2 h 00 min | 1 h 50 min - 2 h 08 min | 16 | high |
 | Side Story | At Dream's Edge | 2 h 51 min | 2 h 41 min - 3 h 04 min | 16 | high |
-| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 58 min - 2 h 10 min | 19 | high |
+| Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 58 min - 2 h 09 min | 18 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->26 h 28 min<!--/f-->**
@@ -591,12 +591,12 @@ look like it is fine.
 <!--gen:stats act="Segue - VII"-->
 
 - **Estimated length:** 2 h 04 min
-- **Sampled range:** 1 h 58 min to 2 h 10 min for the middle half (full spread 1 h 43 min to 3 h 43 min) across 19 playthrough uploads (33 further candidates screened out)
+- **Sampled range:** 1 h 58 min to 2 h 09 min for the middle half (full spread 1 h 43 min to 2 h 30 min) across 18 playthrough uploads (34 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 19 uploads
+- **Measured from the uploader's chapter markers:** 1 of 18 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Segue - VII"-->
@@ -623,7 +623,6 @@ look like it is fine.
 | 2 h 11 min | Wuthering Waves 3.4 - Main Story Quest: "We Choose the Sky" | BSS Gaming | 38 | 2026-06-15 | <https://www.youtube.com/watch?v=Z94qZbsoml4> |
 | 2 h 15 min | Japanese Dub - Wuthering Waves 3.4 Story Quest - Lucilla "We Choose the Sky" | Slamy | 20 | 2026-06-15 | <https://www.youtube.com/watch?v=F1x7CEPs1dw> |
 | 2 h 30 min | Wuthering Waves Chapter III - Segue - We Choose the Sky Quest | Sushizie Gamer | 15 | 2026-10-16 | <https://www.youtube.com/watch?v=vla6SqdA2jI> |
-| 3 h 43 min | Wuthering Waves 3.4, Chapter 3 Act IV: We Choose The Sky \| LUCILLA'S SEGUE QUEST AHHHH | Mino Mieko Ch. - AMA\\[error] - | 835 | 2026-06-16 | <https://www.youtube.com/watch?v=9-GJXnBqOlQ> |
 
 </details>
 <!--/gen-->

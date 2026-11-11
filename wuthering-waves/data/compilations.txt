@@ -7,3 +7,4 @@ prologue ?(?:&|and|\+) ?act
 act [ivx\d]+ ?(?:&|and|\+) ?prologue
 silent as a falling leaf
 !(?:&|and|\+) ?[\w' ]*\btales? quest
+!farewell to lahai-?roi ?(?:&|and|\+)

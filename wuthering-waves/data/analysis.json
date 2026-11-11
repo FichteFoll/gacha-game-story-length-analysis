@@ -3455,6 +3455,7 @@
     "url": "https://www.youtube.com/watch?v=WV01SOmZtl4",
     "views": 0,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20260824"
@@ -16044,7 +16045,9 @@
     "uploader": "Mino Mieko Ch. - AMA\\\\[error] -",
     "url": "https://www.youtube.com/watch?v=9-GJXnBqOlQ",
     "views": 835,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260616"
    },
    {
@@ -16428,25 +16431,16 @@
     "views": 15,
     "rejected": [],
     "upload_date": "20261016"
-   },
-   {
-    "seconds": 13357,
-    "title": "Wuthering Waves 3.4, Chapter 3 Act IV: We Choose The Sky | LUCILLA'S SEGUE QUEST AHHHH",
-    "uploader": "Mino Mieko Ch. - AMA\\\\[error] -",
-    "url": "https://www.youtube.com/watch?v=9-GJXnBqOlQ",
-    "views": 835,
-    "rejected": [],
-    "upload_date": "20260616"
    }
   ],
   "stats": {
-   "n": 19,
+   "n": 18,
    "median": 124,
    "low": 103,
-   "high": 223,
+   "high": 150,
    "q1": 118,
-   "q3": 130,
-   "trimmed_mean": 125,
+   "q3": 129,
+   "trimmed_mean": 123,
    "measured": 1,
    "parts": {},
    "drift": 0.0
@@ -16950,7 +16944,9 @@
     "uploader": "Aetherix",
     "url": "https://www.youtube.com/watch?v=2pbnPn3cfjQ",
     "views": 44,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20260906"
    },
    {
@@ -16970,7 +16966,9 @@
     "uploader": "Kalawyza",
     "url": "https://www.youtube.com/watch?v=o21x5F-oP80",
     "views": 36,
-    "rejected": [],
+    "rejected": [
+     "long-outlier"
+    ],
     "upload_date": "20260716"
    },
    {
@@ -17204,15 +17202,6 @@
     "upload_date": "20260711"
    },
    {
-    "seconds": 9859,
-    "title": "Wuthering Waves 3.5: Farewell to Lahai-Roi & Act 1 \"The Wind Before the Storm\" [Full Story]",
-    "uploader": "Aetherix",
-    "url": "https://www.youtube.com/watch?v=2pbnPn3cfjQ",
-    "views": 44,
-    "rejected": [],
-    "upload_date": "20260906"
-   },
-   {
     "seconds": 9932,
     "title": "Menghzou Act 1 Full Story Quest Playthrough - Wuthering Waves 3.5",
     "uploader": "Fayato",
@@ -17340,28 +17329,19 @@
     "views": 285,
     "rejected": [],
     "upload_date": "20261030"
-   },
-   {
-    "seconds": 17655,
-    "title": "Quest \" The Wind Before the Storm \" - WutheringWaves",
-    "uploader": "Kalawyza",
-    "url": "https://www.youtube.com/watch?v=o21x5F-oP80",
-    "views": 36,
-    "rejected": [],
-    "upload_date": "20260716"
    }
   ],
   "stats": {
-   "n": 32,
-   "median": 164,
+   "n": 30,
+   "median": 162,
    "low": 100,
-   "high": 294,
-   "q1": 147,
+   "high": 228,
+   "q1": 146,
    "q3": 178,
-   "trimmed_mean": 163,
+   "trimmed_mean": 162,
    "measured": 3,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.012
   }
  },
  {
@@ -17589,7 +17569,9 @@
     "uploader": "Kiyochan_VT",
     "url": "https://www.youtube.com/watch?v=i9iOjbD4Hsg",
     "views": 21,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260724"
    },
    {
@@ -18243,15 +18225,6 @@
     "upload_date": "20260714"
    },
    {
-    "seconds": 13615,
-    "title": "\u3010Wuthering Waves\u3011| Playing Xuanling Sings, Storm Quelled quest ! |\u3010VOD\u3011",
-    "uploader": "Kiyochan_VT",
-    "url": "https://www.youtube.com/watch?v=i9iOjbD4Hsg",
-    "views": 21,
-    "rejected": [],
-    "upload_date": "20260724"
-   },
-   {
     "seconds": 13950,
     "title": "3.5 ACT 2 FULL BINGE! | Wuthering Waves 3.5 PART 2 Story Full Playthrough",
     "uploader": "Gacha Smack",
@@ -18262,16 +18235,16 @@
    }
   ],
   "stats": {
-   "n": 32,
-   "median": 164,
+   "n": 31,
+   "median": 162,
    "low": 131,
    "high": 232,
    "q1": 157,
-   "q3": 182,
-   "trimmed_mean": 168,
+   "q3": 180,
+   "trimmed_mean": 167,
    "measured": 5,
    "parts": {},
-   "drift": 0.012
+   "drift": 0.0
   }
  },
  {
