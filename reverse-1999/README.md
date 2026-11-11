@@ -52,8 +52,8 @@ which is what the three files below are.
 Between the numbered chapters sit a prologue
 and two inter chapters, filed under the main story by the game
 and counted as entries here.
-- **The stage list stands in for quest parts.** A chapter is a run of
-15 to 30 named story stages, and the wiki tabulates them in order,
+- **The stage list stands in for quest parts.** A chapter is a long run of
+named story stages, and the wiki tabulates them in order,
 so those are what an uploader's chapter markers are matched against
 and what an upload titled after a single stage is recognised by.
 One stage of Chapter 6 carries the chapter's own name,
@@ -124,7 +124,7 @@ so none of them is called the longest or the shortest of anything.
 Beyond the limits every report in this repository shares,
 listed in the [repository README](../README.md):
 
-- **The wiki records a release version for about half the entries and no
+- **The wiki records a release version for only some of the entries and no
 release date for any of them.** A version page announces "the new main story
 chapter" from 1.4 onwards, and that is where the Versions column comes from;
 nothing on the wiki says which version shipped the launch chapters
@@ -140,14 +140,14 @@ than their view counts would suggest,
 and are rated *low* on sample size alone.
 - **The spread within a chapter is wide because the dialogue is skippable.**
 This is a text-heavy game whose story stages can be read or clicked past,
-and two uploaders playing the same chapter can differ by a factor of two.
+and two uploaders playing the same chapter can be hours apart.
 That, rather than any measurement error, is what the ranges below show.
 - **Uploads titled as a "movie" are screened out** as cutscene edits,
 which is what the phrasing means in every other report here.
 For this game some of them are complete playthroughs,
 so a little good evidence is lost to the shared rule.
 - The second pass that fetches exact view counts, upload dates and
-chapter markers reached about two thirds of the candidates
+chapter markers reached only some of the candidates
 before YouTube's bot check cut it off.
 The rest keep the search listing's rounded view counts,
 marked with a `~`, and read "n/a" for their upload date.
