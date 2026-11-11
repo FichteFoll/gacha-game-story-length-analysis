@@ -36401,7 +36401,9 @@
     "uploader": "Makie Stream's VOD",
     "url": "https://www.youtube.com/watch?v=jHvsxJ8Y9yY",
     "views": 1,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20261109"
    },
    {
@@ -36498,15 +36500,6 @@
     "upload_date": "20260915"
    },
    {
-    "seconds": 19695,
-    "title": "Hi3 Part 2 Chapter 14: The Future We Embrace first play through [20/10/2026]",
-    "uploader": "Makie Stream's VOD",
-    "url": "https://www.youtube.com/watch?v=jHvsxJ8Y9yY",
-    "views": 1,
-    "rejected": [],
-    "upload_date": "20261109"
-   },
-   {
     "seconds": 21618,
     "title": "PART 2 GRAND FINALE!!! The Future We Embrace | Honkai Impact 3rd [v9.0]",
     "uploader": "Nanoha61",
@@ -36571,13 +36564,13 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 362,
+   "n": 10,
+   "median": 363,
    "low": 288,
    "high": 467,
-   "q1": 319,
-   "q3": 406,
-   "trimmed_mean": 362,
+   "q1": 318,
+   "q3": 409,
+   "trimmed_mean": 367,
    "measured": 0,
    "parts": {},
    "drift": null

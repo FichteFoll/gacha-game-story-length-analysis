@@ -63,13 +63,15 @@ import sys
 # gacha pulls because the summoning pads the runtime the same way. "Pulling the"
 # is left alone, as the start of a quest's name ("Pulling the Trigger"), and so
 # are "Gameplay & Cutscenes", which is a whole playthrough rather than a reel.
+# A first playthrough stamped with the day it was played is a stream's VOD.
 REJECT = re.compile(
     r"(?<!gameplay & )(?<!gameplay and )(?<!gameplay \+ )cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
     r"\bspeed ?run|\bpulls\b|\bpulling\b(?! the\b)|"
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
     r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"
-    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534",
+    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534|"
+    r"first play ?through \[\d{1,2}/\d{1,2}/\d{4}\]",
     re.I,
 )
 # What an upload calls the whole of a chapter. Kept short on purpose, and
