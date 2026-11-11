@@ -17724,9 +17724,7 @@
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=eUATy6TldZU",
     "views": 2096,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20260710"
    },
    {
@@ -17902,16 +17900,16 @@
     "upload_date": "20261017"
    },
    {
-    "seconds": 8331,
+    "seconds": 105805,
     "title": "Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves",
     "uploader": "Fayato",
     "url": "https://www.youtube.com/watch?v=FH3Rw2NRzWk",
     "views": 19424,
-    "rejected": [],
-    "upload_date": "20251009",
-    "runtime": 105805,
-    "measured": "chapter-markers",
-    "parts": {}
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20251009"
    },
    {
     "seconds": 10502,
@@ -17969,18 +17967,6 @@
     "parts": {}
    },
    {
-    "seconds": 8331,
-    "title": "Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves",
-    "uploader": "Fayato",
-    "url": "https://www.youtube.com/watch?v=FH3Rw2NRzWk",
-    "views": 19424,
-    "rejected": [],
-    "upload_date": "20251009",
-    "runtime": 105805,
-    "measured": "chapter-markers",
-    "parts": {}
-   },
-   {
     "seconds": 8614,
     "title": "Reunion | Xuanling Sings, Storm Quelled",
     "uploader": "Rei G",
@@ -18018,6 +18004,15 @@
     "views": 422,
     "rejected": [],
     "upload_date": "20260711"
+   },
+   {
+    "seconds": 9165,
+    "title": "Menghzou Act 2 Full Story Quest Playthrough - Wuthering Waves 3.5",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=eUATy6TldZU",
+    "views": 2096,
+    "rejected": [],
+    "upload_date": "20260710"
    },
    {
     "seconds": 9447,
@@ -18250,7 +18245,7 @@
    "q1": 157,
    "q3": 180,
    "trimmed_mean": 167,
-   "measured": 5,
+   "measured": 4,
    "parts": {},
    "drift": 0.0
   }

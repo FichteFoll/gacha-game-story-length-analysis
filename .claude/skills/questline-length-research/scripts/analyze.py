@@ -569,7 +569,7 @@ def part_named(marker_title, parts):
     return next((p for p in parts if matches_act_title(marker_title, p)), None)
 
 
-def act_markers(act, chapters, parts, single=False):
+def act_markers(act, chapters, parts, single=False, by_number=True):
     """The markers of one upload that belong to this act, as (marker, part).
 
     Walkthrough uploads very often name their chapter markers after the quest
@@ -587,11 +587,13 @@ def act_markers(act, chapters, parts, single=False):
     the next act as it is the finale. A marker that says it is the uploader's
     rather than the act's (OUTRO) never counts. In an upload of several acts the markers after one act
     may open the next, so there only the named markers count.
+    A marker naming only the act's number counts where `by_number` allows it,
+    which names_other_chapter() decides from the upload's title.
     """
     named = [part_named(m.get("title") or "", parts) for m in chapters]
     hits = [i for i, m in enumerate(chapters)
             if named[i] or matches_act_title(m.get("title") or "", act["act_title"])
-            or names_act_number(m.get("title") or "", act)]
+            or (by_number and names_act_number(m.get("title") or "", act))]
     if not single or not hits:
         return [(chapters[i], named[i]) for i in hits]
     closes = bool(parts) and named[hits[-1]] == parts[-1]
@@ -614,7 +616,7 @@ def marker_seconds(marker):
     return max(0, (marker.get("end_time") or 0) - (marker.get("start_time") or 0))
 
 
-def act_span(act, chapters, parts, duration, bundled):
+def act_span(act, chapters, parts, duration, bundled, by_number=True):
     """Measured length of this act inside an upload, or None if not locatable.
 
     A span that covers only a fraction of a single-act upload means the markers
@@ -623,7 +625,7 @@ def act_span(act, chapters, parts, duration, bundled):
     A single-act span that passes is widened to the unnamed markers that belong
     to the act as well (act_markers()).
     """
-    matched = act_markers(act, chapters, parts)
+    matched = act_markers(act, chapters, parts, by_number=by_number)
     span = sum(marker_seconds(m) for m, _ in matched)
     if not matched or span < SPAN_MINIMUM:
         return None
@@ -635,7 +637,8 @@ def act_span(act, chapters, parts, duration, bundled):
     # would pass sparse marker sets that miss the act's opening and close, and
     # measure less of it than the runtime they fall back to now.
     return sum(marker_seconds(m)
-               for m, _ in act_markers(act, chapters, parts, single=True))
+               for m, _ in act_markers(act, chapters, parts, single=True,
+                                       by_number=by_number))
 
 
 def load_acts(workdir):
@@ -690,16 +693,34 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
         if exact:
             row.update(seconds=exact["seconds"] or row["seconds"],
                        views=exact["views"], upload_date=exact["upload_date"])
-            measure_from_markers(row, act, exact["chapters"], parts)
+            measure_from_markers(row, act, exact["chapters"], parts,
+                                 not names_other_chapter(title, act, chapter_keys))
         rows.append(row)
     return rows
+
+
+def names_other_chapter(title, act, chapter_keys):
+    """The title is about another chapter, and nothing in it about this act.
+
+    Such an upload's markers may still name this act's quest parts, as a full
+    Chapter 1 upload opens on the prologue, but a marker matching by this act's
+    number alone ("Act II: Veils Off in Sun or Shadow") is that chapter's act
+    of the same number. A title naming both chapters is a bundle across them,
+    whose numbered markers are left to count as before.
+    """
+    if matches_act_title(title, act["act_title"]):
+        return False
+    low = title.lower()
+    keys_of = lambda chapter: any(k.lower() in low for k in chapter_keys.get(chapter, []))
+    return not keys_of(act["chapter_id"]) and any(
+        keys_of(chapter) for chapter in chapter_keys if chapter != act["chapter_id"])
 
 
 # The rejections an upload's chapter markers can overrule, by locating the act.
 BUNDLE_REJECTIONS = ("multi-act", "act-mismatch")
 
 
-def measure_from_markers(row, act, chapters, parts):
+def measure_from_markers(row, act, chapters, parts, by_number=True):
     """Replace an upload's runtime with the part of it that is this act.
 
     An upload rejected only for covering several acts, or for a title that does
@@ -711,14 +732,15 @@ def measure_from_markers(row, act, chapters, parts):
     runtime with a fraction of it and stop readmit_partials() from seeing it.
     """
     bundled = any(r in BUNDLE_REJECTIONS for r in row["rejected"])
-    span = act_span(act, chapters, parts, row["seconds"], bundled)
+    span = act_span(act, chapters, parts, row["seconds"], bundled, by_number)
     if span is None:
         return
     row["runtime"] = row["seconds"]
     row["seconds"] = span
     row["measured"] = "chapter-markers"
     row["parts"] = {}
-    for marker, part in act_markers(act, chapters, parts, single=not bundled):
+    for marker, part in act_markers(act, chapters, parts, single=not bundled,
+                                    by_number=by_number):
         if part:
             row["parts"][part] = row["parts"].get(part, 0) + marker_seconds(marker)
     row["rejected"] = [r for r in row["rejected"] if r not in BUNDLE_REJECTIONS]
