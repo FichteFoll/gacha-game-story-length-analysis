@@ -4,7 +4,7 @@ Duration estimates for every story chapter of the *Goddess of Victory: NIKKE* ca
 from the tutorial descent onto the surface to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole campaign story: <!--f:grand_total-->65 h 06 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->500<!--/f--> accepted uploads out of <!--f:n_candidates-->1079<!--/f--> candidates).
+**Total for the whole campaign story: <!--f:grand_total-->65 h 05 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->509<!--/f--> accepted uploads out of <!--f:n_candidates-->1102<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -16,7 +16,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Volume 2: Comrade to Eden | 10 - 19 | not recorded | 10 | 8 h 34 min | [02-comrade-to-eden.md](02-comrade-to-eden.md) |
 | Volume 3: Flame Dragon to Rescue | 20 - 29 | not recorded | 10 | 15 h 22 min | [03-flame-dragon-to-rescue.md](03-flame-dragon-to-rescue.md) |
 | Volume 4: Treasure to Gene | 30 - 39 | not recorded | 10 | 15 h 43 min | [04-treasure-to-gene.md](04-treasure-to-gene.md) |
-| Volume 5: Choice to Reborn | 40 - 48 | not recorded | 9 | 20 h 21 min | [05-choice-to-reborn.md](05-choice-to-reborn.md) |
+| Volume 5: Choice to Reborn | 40 - 48 | not recorded | 9 | 20 h 20 min | [05-choice-to-reborn.md](05-choice-to-reborn.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -25,7 +25,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | | Chapter | Estimate |
 | --- | --- | --- |
 | longest | Volume 5, Chapter 44: Path | 3 h 07 min |
-| longest | Volume 5, Chapter 46: Rebirth | 3 h 02 min |
+| longest | Volume 5, Chapter 46: Rebirth | 3 h 03 min |
 | longest | Volume 5, Chapter 42: Only One | 2 h 52 min |
 | longest | Volume 5, Chapter 41: Birth | 2 h 20 min |
 | longest | Volume 3, Chapter 24: Banishment | 2 h 20 min |
@@ -168,4 +168,4 @@ except the chapter's own number and title.
 behind an account level, and the wiki records no requirement per chapter,
 so this report publishes no gate.
 
-Data collected <!--f:date-->2026-10-17<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.

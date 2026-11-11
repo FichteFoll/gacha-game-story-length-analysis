@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 5: Choice to Reborn
 
-**Chapters:** 40 - 48 | **Game versions:** not recorded | **Entries:** 9 | **Estimated volume length: 20 h 21 min**
+**Chapters:** 40 - 48 | **Game versions:** not recorded | **Entries:** 9 | **Estimated volume length: 20 h 20 min**
 <!--/gen-->
 
 The current end of the campaign,
@@ -26,13 +26,13 @@ despite being the smallest by count.
 | Chapter 42 | Only One | 2 h 52 min | 2 h 48 min - 3 h 25 min | 9 | high |
 | Chapter 43 | Key | 1 h 49 min | 1 h 39 min - 2 h 08 min | 13 | medium |
 | Chapter 44 | Path | 3 h 07 min | 2 h 59 min - 3 h 22 min | 9 | high |
-| Chapter 45 | The Price of Sin | 2 h 16 min | 2 h 08 min - 2 h 26 min | 9 | high |
-| Chapter 46 | Rebirth | 3 h 02 min | 2 h 53 min - 3 h 21 min | 10 | high |
-| Chapter 47 | Outbreak | 1 h 25 min | 1 h 22 min - 1 h 39 min | 14 | high |
-| Chapter 48 | Reborn | 1 h 23 min | 1 h 20 min - 1 h 40 min | 12 | high |
+| Chapter 45 | The Price of Sin | 2 h 15 min | 2 h 09 min - 2 h 24 min | 13 | high |
+| Chapter 46 | Rebirth | 3 h 03 min | 2 h 53 min - 3 h 31 min | 13 | high |
+| Chapter 47 | Outbreak | 1 h 24 min | 1 h 22 min - 1 h 37 min | 15 | high |
+| Chapter 48 | Reborn | 1 h 23 min | 1 h 20 min - 1 h 31 min | 13 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->20 h 21 min<!--/f-->**
+**Total: <!--f:total-->20 h 20 min<!--/f-->**
 
 ## Pacing
 
@@ -41,7 +41,7 @@ which is this campaign's whole trajectory in one line.
 Of its <!--f:n_entries-->nine<!--/f--> chapters, <!--f:n_above_2h-->six<!--/f--> run past two hours.
 Where it currently ends, the trajectory breaks:
 Outbreak and Reborn are the two shortest chapters in the volume,
-at <!--f:len_Chapter_47-->1 h 25 min<!--/f--> and <!--f:len_Chapter_48-->1 h 23 min<!--/f-->,
+at <!--f:len_Chapter_47-->1 h 24 min<!--/f--> and <!--f:len_Chapter_48-->1 h 23 min<!--/f-->,
 and the uploaders who recorded Rebirth as well,
 Light Yuusha and Tyan R among them,
 took far less time over each of the two,
@@ -242,11 +242,11 @@ Enikk's trap for Sixo,
 and the Nikke she is prepared to spend on setting it.
 <!--gen:stats act="Chapter 45"-->
 
-- **Estimated length:** 2 h 16 min
-- **Sampled range:** 2 h 08 min to 2 h 26 min for the middle half (full spread 1 h 36 min to 2 h 48 min) across 9 playthrough uploads (11 further candidates screened out)
+- **Estimated length:** 2 h 15 min
+- **Sampled range:** 2 h 09 min to 2 h 24 min for the middle half (full spread 1 h 36 min to 2 h 48 min) across 13 playthrough uploads (17 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -1% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 45"-->
@@ -258,8 +258,12 @@ and the Nikke she is prepared to spend on setting it.
 | 1 h 36 min | Goddess of Victory: Nikke Chapter 45 FULL PLAYTHROUGH \| The Price of Sin | Deepoh | 24 | 2026-04-24 | <https://www.youtube.com/watch?v=9Y4_2kRU8WQ> |
 | 2 h 07 min | Goddess of Victory: Nikke Main Chapter 45 "The Price of Sin" Full Story | MyshaTerra | ~10 | n/a | <https://www.youtube.com/watch?v=Rf6hwKRxhGM> |
 | 2 h 09 min | [CAMPAIGN] Chapter 45 Full Story \| EN Dubbed \| GODDESS OF VICTORY: NIKKE | Light Yuusha | ~266 | n/a | <https://www.youtube.com/watch?v=cihXs9as_js> |
+| 2 h 09 min | Nikke Story Chapter 45 Full EN | Casu | ~11,338 | n/a | <https://www.youtube.com/watch?v=6OY0m4LhT20> |
+| 2 h 10 min | Goddess of Victory: Nikke - Chapter 45 [The Price of Sin] | Maya Bluedale | ~23 | n/a | <https://www.youtube.com/watch?v=w-IX1J0wDk4> |
+| 2 h 10 min | GODDESS OF VICTORY: NIKKE \| Chapter 45: The Price of Sin [ENG Dub] | Master | ~7 | n/a | <https://www.youtube.com/watch?v=UBxgatQE_4w> |
 | 2 h 15 min | NIKKE Chapter 45 'The Price of Sin' \| NIKKE | Tyan R | 4,551 | 2026-04-23 | <https://www.youtube.com/watch?v=5J13Vf2eaDE> |
 | 2 h 16 min | Goddess of Victory: Nikke - Chapter 45: The Price of Sin (JP Dub Eng Sub) | FrenchOverlord | ~469 | n/a | <https://www.youtube.com/watch?v=qnA9K1gcvq0> |
+| 2 h 18 min | Chapter 45: The Price of Sin \| Main Story \| Goddess of Victory: Nikke | CANNED JAR | ~241 | n/a | <https://www.youtube.com/watch?v=7d41fGxma6E> |
 | 2 h 24 min | Goddess of Victory NIKKE - Campaign Chapter 45 (The Price of Sin) | Hetherlum Productions | ~13 | n/a | <https://www.youtube.com/watch?v=e5x_YGUYEFo> |
 | 2 h 25 min | Nikke Chapter 45 Full Story | SwiftAgito | 17 | 2026-06-02 | <https://www.youtube.com/watch?v=FRx7jUV7xBo> |
 | 2 h 28 min | NIKKE - Chapter 45 - The Price of Sin | Aihara | ~5 | n/a | <https://www.youtube.com/watch?v=OIUzre2Zaws> |
@@ -277,8 +281,8 @@ and Dorothy's return to the Ark after her exile from Eden.
 <!--gen:stats act="Chapter 46"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 3 h 02 min
-- **Sampled range:** 2 h 53 min to 3 h 21 min for the middle half (full spread 2 h 16 min to 3 h 48 min) across 10 playthrough uploads (9 further candidates screened out)
+- **Estimated length:** 3 h 03 min
+- **Sampled range:** 2 h 53 min to 3 h 31 min for the middle half (full spread 2 h 16 min to 3 h 48 min) across 13 playthrough uploads (12 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
 - **Stability:** median 0% against an earlier, independent query set
@@ -293,11 +297,14 @@ One of the three longest chapters in the game.
 | 2 h 16 min | Goddess of Victory: Nikke Chapter 46 FULL PLAYTHROUGH \| Rebirth | Deepoh | ~32 | n/a | <https://www.youtube.com/watch?v=grsRFOndpzA> |
 | 2 h 53 min | [CAMPAIGN] Chapter 46 Full Story \| EN Dubbed \| GODDESS OF VICTORY: NIKKE | Light Yuusha | ~339 | n/a | <https://www.youtube.com/watch?v=vQEhvqxQJJI> |
 | 2 h 53 min | NIKKE Chapter 46 'Rebirth' \| NIKKE | Tyan R | ~5,977 | n/a | <https://www.youtube.com/watch?v=UfoI17JEZ3E> |
+| 2 h 54 min | Nikke Story Chapter 46 Full EN | Casu | ~14,616 | n/a | <https://www.youtube.com/watch?v=rhHjnORGfkI> |
 | 2 h 56 min | Chapter 46: Rebirth \| Main Story \| Goddess of Victory: Nikke | CANNED JAR | ~179 | n/a | <https://www.youtube.com/watch?v=sehh2yhBmuU> |
 | 3 h 01 min | Chapter 46 - NIKKE "Rebirth" (Full Story Quest) | Streetwise Rhapsody | 18,512 | 2026-04-23 | <https://www.youtube.com/watch?v=6EWC2l4gIxY> |
 | 3 h 03 min | Goddess of Victory: Nikke - Chapter 46: Rebirth (Eng Dub) | FrenchOverlord | 5,163 | 2026-04-24 | <https://www.youtube.com/watch?v=2yFShIGOf1Y> |
 | 3 h 13 min | NIKKE - Chapter 46 - Rebirth | Aihara | ~6 | n/a | <https://www.youtube.com/watch?v=njRsF9W8xVI> |
 | 3 h 13 min | Goddess of Victory NIKKE - Campaign Chapter 46 (Rebirth) | Hetherlum Productions | ~23 | n/a | <https://www.youtube.com/watch?v=Rn6Q5prYf4k> |
+| 3 h 23 min | Nikke: Goddess of Victory Story Chapter 46: Rebirth | BouFrostGaming | ~178 | n/a | <https://www.youtube.com/watch?v=jMQygbFjlsQ> |
+| 3 h 38 min | Chapter 46 - Rebirth \| Goddess of Victory: Nikke | Chain | ~3,352 | n/a | <https://www.youtube.com/watch?v=u9VIfilNE6Q> |
 | 3 h 44 min | GODDESS OF VICTORY: NIKKE - Chapter 46 [Rebirth] (English Dub) Playthrough [PC] | justonegamr | 7,276 | 2026-04-23 | <https://www.youtube.com/watch?v=ES578d28z5U> |
 | 3 h 48 min | NIKKE - They FINALLY Reunite! \| Chapter 46 - Rebirth FULL | Toncattsu | 36 | 2026-05-05 | <https://www.youtube.com/watch?v=2AmUR6WuxsA> |
 
@@ -315,8 +322,8 @@ The upload dates below are the only record of when it shipped
 that this report has.
 <!--gen:stats act="Chapter 47"-->
 
-- **Estimated length:** 1 h 25 min
-- **Sampled range:** 1 h 22 min to 1 h 39 min for the middle half (full spread 1 h 18 min to 2 h 18 min) across 14 playthrough uploads (7 further candidates screened out)
+- **Estimated length:** 1 h 24 min
+- **Sampled range:** 1 h 22 min to 1 h 37 min for the middle half (full spread 1 h 18 min to 2 h 18 min) across 15 playthrough uploads (10 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
 <!--/gen-->
@@ -331,6 +338,7 @@ that this report has.
 | 1 h 20 min | NIKKE Chapter 47 Full Story [EN Dub] \| OUTBREAK | Affan | 165 | 2026-08-13 | <https://www.youtube.com/watch?v=dGi3CViChbU> |
 | 1 h 21 min | [CAMPAIGN] Chapter 47 Full Story \| EN Dubbed \| GODDESS OF VICTORY: NIKKE | Light Yuusha | 129 | 2026-08-19 | <https://www.youtube.com/watch?v=PHxy37D6MyA> |
 | 1 h 22 min | Nikke Story Chapter 47 Full EN | Casu | 9,808 | 2026-08-13 | <https://www.youtube.com/watch?v=1YBmycmViRc> |
+| 1 h 22 min | Goddess of Victory: Nikke - Chapter 47: Outbreak (JP Dub Eng Sub) | FrenchOverlord | ~1,657 | n/a | <https://www.youtube.com/watch?v=swpv-2FFdlQ> |
 | 1 h 22 min | Chapter 47 - Outbreak Full Story \| Japanese VA \| GODDESS OF VICTORY: NIKKE | Villenthessis | 471 | 2026-08-13 | <https://www.youtube.com/watch?v=kaVTUmmj464> |
 | 1 h 24 min | Chapter 47 - NIKKE "Outbreak" Full Main Story Quest | Streetwise Rhapsody | 8,500 | 2026-08-13 | <https://www.youtube.com/watch?v=-DU1apFAlcI> |
 | 1 h 24 min | Chapter 47: Outbreak - FULL STORY \| Goddess of Victory: NIKKE | BlazzerSora and BlazzerSora Gacha | 148 | 2026-08-16 | <https://www.youtube.com/watch?v=-2iJBkrYmz0> |
@@ -359,7 +367,7 @@ so no upload of the one is counted for the other.
 <!--gen:stats act="Chapter 48"-->
 
 - **Estimated length:** 1 h 23 min
-- **Sampled range:** 1 h 20 min to 1 h 40 min for the middle half (full spread 1 h 18 min to 2 h 01 min) across 12 playthrough uploads (11 further candidates screened out)
+- **Sampled range:** 1 h 20 min to 1 h 31 min for the middle half (full spread 1 h 18 min to 2 h 01 min) across 13 playthrough uploads (13 further candidates screened out)
 - **Confidence:** high
 - **Released in:** unknown
 <!--/gen-->
@@ -372,14 +380,15 @@ so no upload of the one is counted for the other.
 | --- | --- | --- | --- | --- | --- |
 | 1 h 18 min | Nikke Chapter 48 Full Story 'Rebirth Brings New Power' \| Nikke | Tyan R | 4,452 | 2026-08-13 | <https://www.youtube.com/watch?v=_c8ReqjgrcE> |
 | 1 h 19 min | NIKKE Chapter 48 Full Story [EN Dub] \| REBORN | Affan | 189 | 2026-08-13 | <https://www.youtube.com/watch?v=i68RpxDj4ek> |
+| 1 h 20 min | Goddess of Victory: Nikke - Chapter 48: Reborn (JP Dub Eng Sub) | FrenchOverlord | ~1,697 | n/a | <https://www.youtube.com/watch?v=T4uw12yhXwo> |
 | 1 h 20 min | Nikke goddess of victory chapter 48 reborn full story English  | 팔레트 nikke and other games  ツ 🎰💰 | 14 | 2026-08-15 | <https://www.youtube.com/watch?v=LHtesxUuYOg> |
 | 1 h 20 min | [CAMPAIGN] Chapter 48 Full Story \| EN Dubbed \| GODDESS OF VICTORY: NIKKE | Light Yuusha | 62 | 2026-08-20 | <https://www.youtube.com/watch?v=TPNJf5-5KUc> |
 | 1 h 21 min | Nikke Story Chapter 48 Full EN | Casu | 8,749 | 2026-08-13 | <https://www.youtube.com/watch?v=eDOu_nbTThg> |
 | 1 h 23 min | Chapter 48: Reborn - FULL STORY \| Goddess of Victory: NIKKE | BlazzerSora and BlazzerSora Gacha | 160 | 2026-08-17 | <https://www.youtube.com/watch?v=SyZKL1h7pLc> |
 | 1 h 23 min | Chapter 48 - Reborn Full Story \| Japanese VA \| GODDESS OF VICTORY: NIKKE | Villenthessis | 470 | 2026-08-13 | <https://www.youtube.com/watch?v=zJrdALV2shg> |
+| 1 h 27 min | Chapter 48 - NIKKE "Reborn" Full Main Story Quest | Streetwise Rhapsody | ~10,878 | n/a | <https://www.youtube.com/watch?v=Y2gz7wMgEAA> |
 | 1 h 28 min | RED SHOES IS BACK?! \| REBORN Chapter 48 NIKKE Playthrough | WhispyStars | 1,478 | 2026-09-09 | <https://www.youtube.com/watch?v=GcWlewwT2Jo> |
 | 1 h 35 min | NIKKE - Chapter 48 - Reborn | Aihara | 5 | 2026-08-29 | <https://www.youtube.com/watch?v=J9adTiTeTRE> |
-| 1 h 42 min | Goddess of Victory: Nikke - Chapter 48: Reborn (Eng Dub) | FrenchOverlord | 1,338 | 2026-08-13 | <https://www.youtube.com/watch?v=rT7wKeVZv4Q> |
 | 1 h 58 min | GODDESS OF VICTORY: NIKKE - Chapter 48 [Reborn] (English) Playthrough [PC] | justonegamr | 8,810 | 2026-08-13 | <https://www.youtube.com/watch?v=HOvjnSeDES4> |
 | 2 h 01 min | NIKKE - HOLY UPGRADES \| Chapter 48 - Reborn FULL | Toncattsu | 357 | 2026-08-14 | <https://www.youtube.com/watch?v=k2i15pLr9cg> |
 

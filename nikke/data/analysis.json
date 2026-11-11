@@ -14684,6 +14684,102 @@
      "not-a-playthrough",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 10652,
+    "title": "\u3010Nikke\u3011Movie Day - Chapter 45 Watchalong",
+    "uploader": "Whims",
+    "url": "https://www.youtube.com/watch?v=fNfPkvbMnro",
+    "views": "16",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 534,
+    "title": "Chapter 0: Fall - Story Campaign (Full Campaign Story) - Goddess of Victory: Nikke",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=ZRFHOkv2QF8",
+    "views": "514",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3970,
+    "title": "Over the Horizon | All Story Cutscenes (No Commentary) | Goddess of Victory: Nikke",
+    "uploader": "CiphDra",
+    "url": "https://www.youtube.com/watch?v=Sx4-lUdxorQ",
+    "views": "695",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 7782,
+    "title": "Goddess of Victory: Nikke - Chapter 45 [The Price of Sin]",
+    "uploader": "Maya Bluedale",
+    "url": "https://www.youtube.com/watch?v=w-IX1J0wDk4",
+    "views": "23",
+    "rejected": []
+   },
+   {
+    "seconds": 8259,
+    "title": "Chapter 45: The Price of Sin | Main Story | Goddess of Victory: Nikke",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=7d41fGxma6E",
+    "views": "241",
+    "rejected": []
+   },
+   {
+    "seconds": 7792,
+    "title": "GODDESS OF VICTORY: NIKKE | Chapter 45: The Price of Sin [ENG Dub]",
+    "uploader": "Master",
+    "url": "https://www.youtube.com/watch?v=UBxgatQE_4w",
+    "views": "7",
+    "rejected": []
+   },
+   {
+    "seconds": 7764,
+    "title": "Nikke Story Chapter 45 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=6OY0m4LhT20",
+    "views": "11338",
+    "rejected": []
+   },
+   {
+    "seconds": 14576,
+    "title": "Team FIREPOWER!! Chapter 45 with the new Overspec Counters!! [VOD]",
+    "uploader": "ArtemisLunaVT",
+    "url": "https://www.youtube.com/watch?v=4rLYZw-ya9s",
+    "views": "11598",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 67,
+    "title": "Nikke: Chapter 45 Hard Mode Boss Fight",
+    "uploader": "Kamiki Yuzuru \u795e\u6728\u7d50\u5f26",
+    "url": "https://www.youtube.com/watch?v=eOzUU5f-55Q",
+    "views": "254",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16585,
+    "title": "THE NEW COUNTERS! | Ch. 45 - Goddess Of Victory Nikke | VOD #nikke",
+    "uploader": "LunaMayVT",
+    "url": "https://www.youtube.com/watch?v=AJ7dJ-DYhrU",
+    "views": "10615",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
    }
   ],
   "kept": [
@@ -14713,6 +14809,30 @@
     "rejected": []
    },
    {
+    "seconds": 7764,
+    "title": "Nikke Story Chapter 45 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=6OY0m4LhT20",
+    "views": "11338",
+    "rejected": []
+   },
+   {
+    "seconds": 7782,
+    "title": "Goddess of Victory: Nikke - Chapter 45 [The Price of Sin]",
+    "uploader": "Maya Bluedale",
+    "url": "https://www.youtube.com/watch?v=w-IX1J0wDk4",
+    "views": "23",
+    "rejected": []
+   },
+   {
+    "seconds": 7792,
+    "title": "GODDESS OF VICTORY: NIKKE | Chapter 45: The Price of Sin [ENG Dub]",
+    "uploader": "Master",
+    "url": "https://www.youtube.com/watch?v=UBxgatQE_4w",
+    "views": "7",
+    "rejected": []
+   },
+   {
     "seconds": 8109,
     "title": "NIKKE Chapter 45 'The Price of Sin' | NIKKE",
     "uploader": "Tyan R",
@@ -14727,6 +14847,14 @@
     "uploader": "FrenchOverlord",
     "url": "https://www.youtube.com/watch?v=qnA9K1gcvq0",
     "views": "469",
+    "rejected": []
+   },
+   {
+    "seconds": 8259,
+    "title": "Chapter 45: The Price of Sin | Main Story | Goddess of Victory: Nikke",
+    "uploader": "CANNED JAR",
+    "url": "https://www.youtube.com/watch?v=7d41fGxma6E",
+    "views": "241",
     "rejected": []
    },
    {
@@ -14764,16 +14892,16 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 136,
+   "n": 13,
+   "median": 135,
    "low": 96,
    "high": 168,
-   "q1": 128,
-   "q3": 146,
-   "trimmed_mean": 136,
+   "q1": 129,
+   "q3": 144,
+   "trimmed_mean": 135,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.007
   }
  },
  {
@@ -14962,6 +15090,62 @@
     "rejected": [
      "short-outlier"
     ]
+   },
+   {
+    "seconds": 13806,
+    "title": "\u3010Nikke\u3011Movie Day - Chapter 46 Watchalong",
+    "uploader": "Whims",
+    "url": "https://www.youtube.com/watch?v=RrN9_-c9Nt4",
+    "views": "53",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 821,
+    "title": "Dorothy Reunites with Andersen (Cutscene) Nikke Chapter 46 Epilogue",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=UhdrJ9DaJ1Q",
+    "views": "134586",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 10420,
+    "title": "Nikke Story Chapter 46 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=rhHjnORGfkI",
+    "views": "14616",
+    "rejected": []
+   },
+   {
+    "seconds": 12176,
+    "title": "Nikke: Goddess of Victory Story Chapter 46: Rebirth",
+    "uploader": "BouFrostGaming",
+    "url": "https://www.youtube.com/watch?v=jMQygbFjlsQ",
+    "views": "178",
+    "rejected": []
+   },
+   {
+    "seconds": 13103,
+    "title": "Chapter 46 - Rebirth | Goddess of Victory: Nikke",
+    "uploader": "Chain",
+    "url": "https://www.youtube.com/watch?v=u9VIfilNE6Q",
+    "views": "3352",
+    "rejected": []
+   },
+   {
+    "seconds": 261,
+    "title": "Nikke 46-40 hard Egovista 1962k cp",
+    "uploader": "\u300cZA WARUDO\u300d",
+    "url": "https://www.youtube.com/watch?v=CJC9KDIlPKA",
+    "views": "5849",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment",
+     "act-mismatch"
+    ]
    }
   ],
   "kept": [
@@ -14987,6 +15171,14 @@
     "uploader": "Tyan R",
     "url": "https://www.youtube.com/watch?v=UfoI17JEZ3E",
     "views": "5977",
+    "rejected": []
+   },
+   {
+    "seconds": 10420,
+    "title": "Nikke Story Chapter 46 Full EN",
+    "uploader": "Casu",
+    "url": "https://www.youtube.com/watch?v=rhHjnORGfkI",
+    "views": "14616",
     "rejected": []
    },
    {
@@ -15032,6 +15224,22 @@
     "rejected": []
    },
    {
+    "seconds": 12176,
+    "title": "Nikke: Goddess of Victory Story Chapter 46: Rebirth",
+    "uploader": "BouFrostGaming",
+    "url": "https://www.youtube.com/watch?v=jMQygbFjlsQ",
+    "views": "178",
+    "rejected": []
+   },
+   {
+    "seconds": 13103,
+    "title": "Chapter 46 - Rebirth | Goddess of Victory: Nikke",
+    "uploader": "Chain",
+    "url": "https://www.youtube.com/watch?v=u9VIfilNE6Q",
+    "views": "3352",
+    "rejected": []
+   },
+   {
     "seconds": 13441,
     "title": "GODDESS OF VICTORY: NIKKE - Chapter 46 [Rebirth] (English Dub) Playthrough [PC]",
     "uploader": "justonegamr",
@@ -15051,16 +15259,16 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 182,
+   "n": 13,
+   "median": 183,
    "low": 136,
    "high": 228,
    "q1": 173,
-   "q3": 201,
-   "trimmed_mean": 187,
+   "q3": 211,
+   "trimmed_mean": 190,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.005
   }
  },
  {
@@ -15275,6 +15483,45 @@
      "multi-act"
     ],
     "upload_date": "20260813"
+   },
+   {
+    "seconds": 4927,
+    "title": "Goddess of Victory: Nikke - Chapter 47: Outbreak (JP Dub Eng Sub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=swpv-2FFdlQ",
+    "views": "1657",
+    "rejected": []
+   },
+   {
+    "seconds": 19427,
+    "title": "\u3010NIKKE CHAPTER 47\u3011 WAKE UP WAKE UP NEW MAIN STORY DROPPED",
+    "uploader": "Obake PAM Ch.",
+    "url": "https://www.youtube.com/watch?v=jvkmLsI8WtQ",
+    "views": "9620",
+    "rejected": [
+     "long-outlier"
+    ]
+   },
+   {
+    "seconds": 231,
+    "title": "Chapter 47-36 HARD BOSS ANNIHILIO Clear -859K CP F2P! | GODDESS OF VICTORY NIKKE",
+    "uploader": "Revs",
+    "url": "https://www.youtube.com/watch?v=8heyww2FuNU",
+    "views": "1273",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   },
+   {
+    "seconds": 10453,
+    "title": "THE AURA FARMING! CHAPTER 47 REACTION PLAYTHROUGH | Goddess of Victory: NIKKE VOD",
+    "uploader": "Yessenia ",
+    "url": "https://www.youtube.com/watch?v=YyK-O1SU81I",
+    "views": "13955",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
@@ -15313,6 +15560,14 @@
     "views": 9808,
     "rejected": [],
     "upload_date": "20260813"
+   },
+   {
+    "seconds": 4927,
+    "title": "Goddess of Victory: Nikke - Chapter 47: Outbreak (JP Dub Eng Sub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=swpv-2FFdlQ",
+    "views": "1657",
+    "rejected": []
    },
    {
     "seconds": 4929,
@@ -15406,13 +15661,13 @@
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 85,
+   "n": 15,
+   "median": 84,
    "low": 78,
    "high": 138,
    "q1": 82,
-   "q3": 99,
-   "trimmed_mean": 92,
+   "q3": 97,
+   "trimmed_mean": 91,
    "measured": 0,
    "parts": {},
    "drift": null
@@ -15601,7 +15856,9 @@
     "uploader": "FrenchOverlord",
     "url": "https://www.youtube.com/watch?v=rT7wKeVZv4Q",
     "views": 1338,
-    "rejected": [],
+    "rejected": [
+     "same-uploader"
+    ],
     "upload_date": "20260813"
    },
    {
@@ -15655,6 +15912,33 @@
      "fragment",
      "act-mismatch"
     ]
+   },
+   {
+    "seconds": 17050,
+    "title": "Persona x Nikke including Chapters 47 - 48",
+    "uploader": "FlamingAngel Gacha",
+    "url": "https://www.youtube.com/watch?v=S4vMYpF1KOA",
+    "views": "395",
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5245,
+    "title": "Chapter 48 - NIKKE \"Reborn\" Full Main Story Quest",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=Y2gz7wMgEAA",
+    "views": "10878",
+    "rejected": []
+   },
+   {
+    "seconds": 4803,
+    "title": "Goddess of Victory: Nikke - Chapter 48: Reborn (JP Dub Eng Sub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=T4uw12yhXwo",
+    "views": "1697",
+    "rejected": []
    }
   ],
   "kept": [
@@ -15675,6 +15959,14 @@
     "views": 189,
     "rejected": [],
     "upload_date": "20260813"
+   },
+   {
+    "seconds": 4803,
+    "title": "Goddess of Victory: Nikke - Chapter 48: Reborn (JP Dub Eng Sub)",
+    "uploader": "FrenchOverlord",
+    "url": "https://www.youtube.com/watch?v=T4uw12yhXwo",
+    "views": "1697",
+    "rejected": []
    },
    {
     "seconds": 4804,
@@ -15722,6 +16014,14 @@
     "upload_date": "20260813"
    },
    {
+    "seconds": 5245,
+    "title": "Chapter 48 - NIKKE \"Reborn\" Full Main Story Quest",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=Y2gz7wMgEAA",
+    "views": "10878",
+    "rejected": []
+   },
+   {
     "seconds": 5286,
     "title": "RED SHOES IS BACK?! | REBORN Chapter 48 NIKKE Playthrough",
     "uploader": "WhispyStars",
@@ -15738,15 +16038,6 @@
     "views": 5,
     "rejected": [],
     "upload_date": "20260829"
-   },
-   {
-    "seconds": 6103,
-    "title": "Goddess of Victory: Nikke - Chapter 48: Reborn (Eng Dub)",
-    "uploader": "FrenchOverlord",
-    "url": "https://www.youtube.com/watch?v=rT7wKeVZv4Q",
-    "views": 1338,
-    "rejected": [],
-    "upload_date": "20260813"
    },
    {
     "seconds": 7052,
@@ -15768,13 +16059,13 @@
    }
   ],
   "stats": {
-   "n": 12,
+   "n": 13,
    "median": 83,
    "low": 78,
    "high": 121,
    "q1": 80,
-   "q3": 100,
-   "trimmed_mean": 89,
+   "q3": 91,
+   "trimmed_mean": 87,
    "measured": 0,
    "parts": {},
    "drift": null
