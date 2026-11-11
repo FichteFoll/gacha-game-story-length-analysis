@@ -482,7 +482,11 @@ def version_pin_test(workdir, acts, chapter_keys):
     the one name of the game. And it must not point anywhere else: not at a
     second patch number, not at another act's title and not at another
     chapter's identifiers, which keeps a compilation of two patches or a recap
-    naming an older act out. Everything else screening checks still applies.
+    naming an older act out. Another act counts as named only where its
+    act_keys.json marks allow the title too: Zenless Zone Zero's "The Zero
+    Zone" is in the words of every title that spells out the game's name, and
+    would otherwise stop every patch number from pinning anything.
+    Everything else screening checks still applies.
     """
     names = [spelled(" ".join(extra_patterns(workdir, "game.txt")))] \
         + [spelled(a) for a in extra_patterns(workdir, "game_aliases.txt")]
@@ -496,6 +500,7 @@ def version_pin_test(workdir, acts, chapter_keys):
         if number and re.fullmatch(r"\d+\.\d+", number):
             shipped.setdefault(number, []).append(act)
     patches = {number: patch_re(number) for number in shipped}
+    keyed = act_key_test(workdir)
     pinned_by = {id(group[0]): number for number, group in shipped.items()
                  if len(group) == 1}
 
@@ -507,7 +512,8 @@ def version_pin_test(workdir, acts, chapter_keys):
         if any(other != number and regex.search(title)
                for other, regex in patches.items()):
             return False
-        if any(other is not act and matches_act_title(title, other["act_title"])
+        if any(other is not act and keyed(other, title)
+               and matches_act_title(title, other["act_title"])
                for other in acts):
             return False
         low = title.lower()

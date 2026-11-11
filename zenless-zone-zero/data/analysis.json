@@ -2799,9 +2799,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=nYrLWkBUCBA",
     "views": "80889",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 5528,
@@ -2859,8 +2857,7 @@
     "url": "https://www.youtube.com/watch?v=-0VGlBBy1cg",
     "views": 21106,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20240925"
    },
@@ -3093,6 +3090,14 @@
     "rejected": []
    },
    {
+    "seconds": 10519,
+    "title": "Zenless Zone Zero 1.2 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=nYrLWkBUCBA",
+    "views": "80889",
+    "rejected": []
+   },
+   {
     "seconds": 10754,
     "title": "Version 1.2 Story Quest - Chapter 4 Tour De Inferno | Zenless Zone Zero",
     "uploader": "Streetwise Rhapsody",
@@ -3154,16 +3159,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 179,
+   "n": 14,
+   "median": 177,
    "low": 104,
    "high": 284,
-   "q1": 158,
-   "q3": 202,
-   "trimmed_mean": 177,
+   "q1": 159,
+   "q3": 200,
+   "trimmed_mean": 176,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.011
   }
  },
  {
@@ -3191,7 +3196,9 @@
     "uploader": "Authrone",
     "url": "https://www.youtube.com/watch?v=klQPgCDdKuY",
     "views": "12",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 10634,
@@ -3199,9 +3206,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=3a85KQH_jgs",
     "views": 76818,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20241218"
    },
    {
@@ -3382,14 +3387,6 @@
   ],
   "kept": [
    {
-    "seconds": 4378,
-    "title": "[Zenless Zone Zero Phaethon's Story] Season 1 - Chapter 5 - A Storm Of Falling Stars: Pursue Bringer",
-    "uploader": "Authrone",
-    "url": "https://www.youtube.com/watch?v=klQPgCDdKuY",
-    "views": "12",
-    "rejected": []
-   },
-   {
     "seconds": 6733,
     "title": "Zenless Zone Zero - Chapter 5: A Storm Of Falling Stars | Full Story Walkthrough (No Commentary)",
     "uploader": "Elrinell Gaming",
@@ -3477,6 +3474,15 @@
     "upload_date": "20241220"
    },
    {
+    "seconds": 10634,
+    "title": "Zenless Zone Zero 1.4 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=3a85KQH_jgs",
+    "views": 76818,
+    "rejected": [],
+    "upload_date": "20241218"
+   },
+   {
     "seconds": 12331,
     "title": "Zenless Zone Zero 1.4 - \u2018A Storm of Falling Stars\u2019 - Chapter 5 Main Story Quest",
     "uploader": "Chiko",
@@ -3487,15 +3493,15 @@
   ],
   "stats": {
    "n": 12,
-   "median": 145,
-   "low": 73,
+   "median": 153,
+   "low": 112,
    "high": 206,
-   "q1": 129,
-   "q3": 163,
-   "trimmed_mean": 146,
+   "q1": 138,
+   "q3": 170,
+   "trimmed_mean": 152,
    "measured": 0,
    "parts": {},
-   "drift": 0.028
+   "drift": 0.085
   }
  },
  {
@@ -3580,9 +3586,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=1r1tZd3I-og",
     "views": 48536,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250312"
    },
    {
@@ -3636,9 +3640,7 @@
     "uploader": "Dxomi",
     "url": "https://www.youtube.com/watch?v=8s0WtcZ_aN8",
     "views": 6,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250312"
    },
    {
@@ -3648,8 +3650,7 @@
     "url": "https://www.youtube.com/watch?v=01IoOFrfb-s",
     "views": 75,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250406"
    },
@@ -3660,8 +3661,7 @@
     "url": "https://www.youtube.com/watch?v=U8c4BFxQ4w0",
     "views": "85",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -3688,9 +3688,7 @@
     "uploader": "Enigmon",
     "url": "https://www.youtube.com/watch?v=j6wOyPzf4FM",
     "views": 44,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250318"
    },
    {
@@ -3762,6 +3760,15 @@
     "rejected": []
    },
    {
+    "seconds": 12395,
+    "title": "Zenless Zone Zero - 1.6 Main Story Quest",
+    "uploader": "Dxomi",
+    "url": "https://www.youtube.com/watch?v=8s0WtcZ_aN8",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20250312"
+   },
+   {
     "seconds": 12662,
     "title": "Zenless Zone Zero  - Bury Your Tears With the Past (A) | Version 1.6 Story Quest (Full Quest)",
     "uploader": "Dosa Kun",
@@ -3777,6 +3784,15 @@
     "url": "https://www.youtube.com/watch?v=wQHzltyLpf8",
     "views": "47",
     "rejected": []
+   },
+   {
+    "seconds": 13493,
+    "title": "Zenless Zone Zero 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=1r1tZd3I-og",
+    "views": 48536,
+    "rejected": [],
+    "upload_date": "20250312"
    },
    {
     "seconds": 13757,
@@ -3802,6 +3818,15 @@
     "url": "https://www.youtube.com/watch?v=wGc-4pWvMlo",
     "views": "9",
     "rejected": []
+   },
+   {
+    "seconds": 15216,
+    "title": "4 Hours of Great Zenless Story | Season 1 Epilogue (A) | Zenless Zone Zero 1.6 Story",
+    "uploader": "Enigmon",
+    "url": "https://www.youtube.com/watch?v=j6wOyPzf4FM",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20250318"
    },
    {
     "seconds": 15479,
@@ -3830,16 +3855,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 227,
+   "n": 15,
+   "median": 225,
    "low": 134,
    "high": 264,
-   "q1": 194,
-   "q3": 253,
-   "trimmed_mean": 221,
+   "q1": 204,
+   "q3": 254,
+   "trimmed_mean": 223,
    "measured": 0,
    "parts": {},
-   "drift": -0.009
+   "drift": -0.017
   }
  },
  {
@@ -3980,9 +4005,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=-yRnZ7PBug4",
     "views": 35248,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250423"
    },
    {
@@ -4001,8 +4024,7 @@
     "url": "https://www.youtube.com/watch?v=B9yaGUzun0Q",
     "views": "4418",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -4011,9 +4033,7 @@
     "uploader": "Enigmon",
     "url": "https://www.youtube.com/watch?v=eVgRToGoKzs",
     "views": "39",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 14390,
@@ -4021,10 +4041,7 @@
     "uploader": "Another Gacha Addict's Channel",
     "url": "https://www.youtube.com/watch?v=vpdi6PbUuJA",
     "views": 68,
-    "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250529"
    },
    {
@@ -4125,6 +4142,15 @@
     "rejected": []
    },
    {
+    "seconds": 13132,
+    "title": "Zenless Zone Zero 1.7 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=-yRnZ7PBug4",
+    "views": 35248,
+    "rejected": [],
+    "upload_date": "20250423"
+   },
+   {
     "seconds": 13457,
     "title": "Bury Your Tears With The Past! Zenless Zone Zero: Version 1.7 Story (Season 1 Epilogue B) (PS5)",
     "uploader": "Salazar596 ",
@@ -4147,6 +4173,23 @@
     "uploader": "Fiery",
     "url": "https://www.youtube.com/watch?v=SJu2-8aI_C0",
     "views": "52",
+    "rejected": []
+   },
+   {
+    "seconds": 14390,
+    "title": "\u3010ZZZ 1.7\u3011Main Story Season 1: Epilogue - Zenless Zone Zero (No Commentary) - Part 16 - EN VA",
+    "uploader": "Another Gacha Addict's Channel",
+    "url": "https://www.youtube.com/watch?v=vpdi6PbUuJA",
+    "views": 68,
+    "rejected": [],
+    "upload_date": "20250529"
+   },
+   {
+    "seconds": 14499,
+    "title": "The final quest of Season 1! | Season 1 Epilogue (B) | Zenless Zone Zero 1.7 Story",
+    "uploader": "Enigmon",
+    "url": "https://www.youtube.com/watch?v=eVgRToGoKzs",
+    "views": "39",
     "rejected": []
    },
    {
@@ -4177,16 +4220,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 220,
+   "n": 15,
+   "median": 224,
    "low": 197,
    "high": 318,
-   "q1": 207,
-   "q3": 257,
-   "trimmed_mean": 227,
+   "q1": 208,
+   "q3": 242,
+   "trimmed_mean": 229,
    "measured": 0,
    "parts": {},
-   "drift": 0.038
+   "drift": 0.057
   }
  },
  {
@@ -4239,9 +4282,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=UtxfiOT3gLY",
     "views": 69603,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250606"
    },
    {
@@ -4508,6 +4549,15 @@
     "upload_date": "20250623"
    },
    {
+    "seconds": 19063,
+    "title": "Zenless Zone Zero 2.0 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=UtxfiOT3gLY",
+    "views": 69603,
+    "rejected": [],
+    "upload_date": "20250606"
+   },
+   {
     "seconds": 19463,
     "title": "Zenless Zone Zero - Season 2 Chapter 1: Where Clouds Embrace the Dawn | Full Story JP Dub EN Sub",
     "uploader": "Gudaoko",
@@ -4534,16 +4584,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 271,
+   "n": 14,
+   "median": 272,
    "low": 213,
    "high": 379,
-   "q1": 245,
-   "q3": 320,
-   "trimmed_mean": 282,
+   "q1": 247,
+   "q3": 319,
+   "trimmed_mean": 285,
    "measured": 1,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.004
   }
  },
  {
@@ -4642,9 +4692,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=o1kZXKgjLQE",
     "views": "47075",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 15009,
@@ -4709,8 +4757,7 @@
     "url": "https://www.youtube.com/watch?v=LnlWaa3sJqY",
     "views": 6515,
     "rejected": [
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ],
     "upload_date": "20250716"
    },
@@ -4821,6 +4868,14 @@
     "rejected": []
    },
    {
+    "seconds": 15096,
+    "title": "Zenless Zone Zero 2.1 | New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=o1kZXKgjLQE",
+    "views": "47075",
+    "rejected": []
+   },
+   {
     "seconds": 15406,
     "title": "[Zenless Zone Zero 2.1] New Main Story Quest Season 2 Chapter 2 Full Walkthrough",
     "uploader": "Lotus Ch.",
@@ -4856,16 +4911,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 240,
+   "n": 13,
+   "median": 246,
    "low": 199,
    "high": 294,
-   "q1": 214,
+   "q1": 219,
    "q3": 258,
-   "trimmed_mean": 239,
+   "trimmed_mean": 240,
    "measured": 0,
    "parts": {},
-   "drift": -0.024
+   "drift": 0.0
   }
  },
  {
@@ -4882,9 +4937,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=-0sOgyxAuyc",
     "views": 72216,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20250904"
    },
    {
@@ -5151,6 +5204,15 @@
     "rejected": []
    },
    {
+    "seconds": 13386,
+    "title": "Zenless Zone Zero 2.2 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=-0sOgyxAuyc",
+    "views": 72216,
+    "rejected": [],
+    "upload_date": "20250904"
+   },
+   {
     "seconds": 13392,
     "title": "Zenless Zone Zero || Version 2.2 - COMPLETE STORY || Do Not Go Gentle Into That Good Night",
     "uploader": "Uncle Fifty",
@@ -5204,12 +5266,12 @@
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 14,
    "median": 223,
    "low": 200,
    "high": 321,
-   "q1": 209,
-   "q3": 254,
+   "q1": 211,
+   "q3": 248,
    "trimmed_mean": 228,
    "measured": 0,
    "parts": {},
@@ -5307,9 +5369,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=jcsxOUE_N-w",
     "views": "42132",
-    "rejected": [
-     "act-mismatch"
-    ]
+    "rejected": []
    },
    {
     "seconds": 210,
@@ -5318,8 +5378,7 @@
     "url": "https://www.youtube.com/watch?v=qOxY4Pz5TR0",
     "views": "60",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5536,6 +5595,14 @@
     "upload_date": "20251015"
    },
    {
+    "seconds": 13070,
+    "title": "Zenless Zone Zero 2.3 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=jcsxOUE_N-w",
+    "views": "42132",
+    "rejected": []
+   },
+   {
     "seconds": 13234,
     "title": "Zenless Zone Zero - Story - Season 2 - Chapter 4 - Memories of Dreams Bygone",
     "uploader": "JehliuGamer",
@@ -5577,16 +5644,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 211,
+   "n": 16,
+   "median": 212,
    "low": 137,
    "high": 354,
-   "q1": 195,
-   "q3": 233,
+   "q1": 196,
+   "q3": 230,
    "trimmed_mean": 211,
    "measured": 0,
    "parts": {},
-   "drift": 0.024
+   "drift": 0.029
   }
  },
  {
@@ -5712,9 +5779,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=1LS4Atj9Atk",
     "views": 74509,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20251126"
    },
    {
@@ -5855,6 +5920,15 @@
     "upload_date": "20251126"
    },
    {
+    "seconds": 15275,
+    "title": "Zenless Zone Zero 2.4 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=1LS4Atj9Atk",
+    "views": 74509,
+    "rejected": [],
+    "upload_date": "20251126"
+   },
+   {
     "seconds": 16395,
     "title": "Version 2.4 Main Story Quest - Zenless Zone Zero (Full Quest) | On The Precipice of the Abyss",
     "uploader": "Streetwise Rhapsody",
@@ -5898,13 +5972,13 @@
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 14,
    "median": 252,
    "low": 226,
    "high": 330,
-   "q1": 243,
-   "q3": 290,
-   "trimmed_mean": 262,
+   "q1": 244,
+   "q3": 283,
+   "trimmed_mean": 261,
    "measured": 0,
    "parts": {},
    "drift": 0.004
@@ -6018,8 +6092,7 @@
     "url": "https://www.youtube.com/watch?v=LJ36hPg4Wko",
     "views": "33",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -6057,8 +6130,7 @@
     "url": "https://www.youtube.com/watch?v=4Xnr0RuNQ0E",
     "views": "5711",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -6094,8 +6166,7 @@
     "url": "https://www.youtube.com/watch?v=szdN470paHU",
     "views": "923",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -6105,7 +6176,7 @@
     "url": "https://www.youtube.com/watch?v=eW_z_ur2cT8",
     "views": "13117",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    }
   ],
@@ -6270,9 +6341,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=YB_j7N_PDbA",
     "views": 52314,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260206"
    },
    {
@@ -6387,7 +6456,7 @@
     "url": "https://www.youtube.com/watch?v=SqSUCLGMUJ8",
     "views": 18,
     "rejected": [
-     "act-mismatch"
+     "long-outlier"
     ],
     "upload_date": "20260316"
    },
@@ -6406,9 +6475,7 @@
     "uploader": "Leo",
     "url": "https://www.youtube.com/watch?v=DywHffi6O70",
     "views": 34,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260207"
    },
    {
@@ -6435,8 +6502,7 @@
     "url": "https://www.youtube.com/watch?v=RRSnwFtMBCQ",
     "views": "87",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -6504,6 +6570,15 @@
     "upload_date": "20260212"
    },
    {
+    "seconds": 17770,
+    "title": "Season 2 Interlude Quest [ENG Dub] | Zenless Zone Zero 2.6, PlayStaion 5",
+    "uploader": "Leo",
+    "url": "https://www.youtube.com/watch?v=DywHffi6O70",
+    "views": 34,
+    "rejected": [],
+    "upload_date": "20260207"
+   },
+   {
     "seconds": 17798,
     "title": "New Main Story Quest Season 2 Interlude \u2013 Encore For An Old Dream | Zenless Zone Zero 2.6",
     "uploader": "Lotus Ch.",
@@ -6519,6 +6594,15 @@
     "url": "https://www.youtube.com/watch?v=l1It6s0su-s",
     "views": "39965",
     "rejected": []
+   },
+   {
+    "seconds": 18207,
+    "title": "Zenless Zone Zero 2.6 - Story Quest Full Walkthrough (ZZZ 2.6)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=YB_j7N_PDbA",
+    "views": 52314,
+    "rejected": [],
+    "upload_date": "20260206"
    },
    {
     "seconds": 18248,
@@ -6565,13 +6649,13 @@
    }
   ],
   "stats": {
-   "n": 11,
+   "n": 13,
    "median": 303,
    "low": 273,
    "high": 374,
-   "q1": 287,
-   "q3": 355,
-   "trimmed_mean": 313,
+   "q1": 290,
+   "q3": 350,
+   "trimmed_mean": 311,
    "measured": 0,
    "parts": {},
    "drift": -0.003
@@ -6740,9 +6824,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=_MMyNNwbCXw",
     "views": 58199,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260324"
    },
    {
@@ -6787,9 +6869,7 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=7maf7nTBXik",
     "views": 29829,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260324"
    },
    {
@@ -6899,8 +6979,7 @@
     "url": "https://www.youtube.com/watch?v=ocypiz-XECc",
     "views": 31,
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ],
     "upload_date": "20260324"
    },
@@ -6971,6 +7050,24 @@
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=0gOnVLwYCuM",
     "views": 1122,
+    "rejected": [],
+    "upload_date": "20260324"
+   },
+   {
+    "seconds": 10906,
+    "title": "Zenless Zone Zero 2.7 - Main Story Quest Epilogue Full Walkthrough (ZZZ 2.7)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=_MMyNNwbCXw",
+    "views": 58199,
+    "rejected": [],
+    "upload_date": "20260324"
+   },
+   {
+    "seconds": 11023,
+    "title": "Version 2.7 Main Story Quest - Zenless Zone Zero (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=7maf7nTBXik",
+    "views": 29829,
     "rejected": [],
     "upload_date": "20260324"
    },
@@ -7059,16 +7156,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 198,
+   "n": 17,
+   "median": 194,
    "low": 167,
    "high": 242,
-   "q1": 174,
-   "q3": 207,
-   "trimmed_mean": 196,
+   "q1": 177,
+   "q3": 205,
+   "trimmed_mean": 194,
    "measured": 0,
    "parts": {},
-   "drift": 0.021
+   "drift": 0.0
   }
  },
  {
@@ -7103,9 +7200,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=3k_zoWUEAv4",
     "views": 49692,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260506"
    },
    {
@@ -7162,7 +7257,7 @@
     "url": "https://www.youtube.com/watch?v=k3nv2OWR5mY",
     "views": "20186",
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ]
    },
    {
@@ -7172,7 +7267,7 @@
     "url": "https://www.youtube.com/watch?v=kxv-TSJto7g",
     "views": "97",
     "rejected": [
-     "act-mismatch"
+     "long-outlier"
     ]
    },
    {
@@ -7192,9 +7287,7 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=vloxpa4xS-A",
     "views": 33462,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260506"
    },
    {
@@ -7313,9 +7406,7 @@
     "uploader": "MaakuPlays",
     "url": "https://www.youtube.com/watch?v=0ugiASouju0",
     "views": 108,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260506"
    },
    {
@@ -7381,8 +7472,7 @@
     "url": "https://www.youtube.com/watch?v=54IG_qgnE08",
     "views": "52",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7425,6 +7515,15 @@
     "upload_date": "20260515"
    },
    {
+    "seconds": 8666,
+    "title": "Zenless Zone Zero 2.8 Main Story Full Gameplay",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=0ugiASouju0",
+    "views": 108,
+    "rejected": [],
+    "upload_date": "20260506"
+   },
+   {
     "seconds": 8729,
     "title": "New: Eridan Sunset (B) | Season 2 Epilogue | Zenless Zone Zero ver 2.8",
     "uploader": "LoneWanderer",
@@ -7447,6 +7546,24 @@
     "url": "https://www.youtube.com/watch?v=vtK-H4wmGbI",
     "views": "32",
     "rejected": []
+   },
+   {
+    "seconds": 9077,
+    "title": "Version 2.8 Main Story Quest - Zenless Zone Zero | Season 2 Epilogue (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=vloxpa4xS-A",
+    "views": 33462,
+    "rejected": [],
+    "upload_date": "20260506"
+   },
+   {
+    "seconds": 9147,
+    "title": "Zenless Zone Zero 2.8 - Main Story Quest Epilogue Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=3k_zoWUEAv4",
+    "views": 49692,
+    "rejected": [],
+    "upload_date": "20260506"
    },
    {
     "seconds": 9211,
@@ -7545,16 +7662,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 162,
+   "n": 18,
+   "median": 158,
    "low": 144,
    "high": 205,
    "q1": 146,
    "q3": 170,
-   "trimmed_mean": 161,
+   "trimmed_mean": 159,
    "measured": 0,
    "parts": {},
-   "drift": -0.006
+   "drift": -0.031
   }
  },
  {
@@ -7651,9 +7768,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=WCmJPEIcQXU",
     "views": 50143,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260617"
    },
    {
@@ -7821,8 +7936,7 @@
     "url": "https://www.youtube.com/watch?v=VNBf4qP8DmM",
     "views": "25219",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7840,9 +7954,7 @@
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=GIHRH-fWYPY",
     "views": 27076,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260617"
    },
    {
@@ -7893,8 +8005,7 @@
     "url": "https://www.youtube.com/watch?v=Mzg3RyrYUfw",
     "views": "92",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -8046,9 +8157,7 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=a-aVqhgQ3BI",
     "views": 72980,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260617"
    },
    {
@@ -8163,6 +8272,15 @@
     "upload_date": "20260617"
    },
    {
+    "seconds": 15944,
+    "title": "Zenless Zone Zero 3.0 Full Main Story Quest (Wise POV)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=GIHRH-fWYPY",
+    "views": 27076,
+    "rejected": [],
+    "upload_date": "20260617"
+   },
+   {
     "seconds": 16143,
     "title": "Zenless Zone Zero 3.0 Main Story Playthrough | A Sleepwalker's Confession",
     "uploader": "CodeSwarmx",
@@ -8179,6 +8297,24 @@
     "views": 897,
     "rejected": [],
     "upload_date": "20260728"
+   },
+   {
+    "seconds": 16344,
+    "title": "Zenless Zone Zero Version 3.0 Main Story Quest (Full Playthrough) Roscaelifer Season 3",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=a-aVqhgQ3BI",
+    "views": 72980,
+    "rejected": [],
+    "upload_date": "20260617"
+   },
+   {
+    "seconds": 16436,
+    "title": "Zenless Zone Zero 3.0 Roscaelifer - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=WCmJPEIcQXU",
+    "views": 50143,
+    "rejected": [],
+    "upload_date": "20260617"
    },
    {
     "seconds": 16587,
@@ -8272,16 +8408,16 @@
    }
   ],
   "stats": {
-   "n": 18,
-   "median": 277,
+   "n": 21,
+   "median": 274,
    "low": 237,
    "high": 350,
-   "q1": 261,
-   "q3": 307,
-   "trimmed_mean": 281,
+   "q1": 263,
+   "q3": 299,
+   "trimmed_mean": 279,
    "measured": 0,
    "parts": {},
-   "drift": 0.018
+   "drift": 0.007
   }
  },
  {
@@ -8408,8 +8544,7 @@
     "views": "3",
     "rejected": [
      "not-a-playthrough",
-     "part-of-an-act",
-     "act-mismatch"
+     "part-of-an-act"
     ]
    },
    {
@@ -8673,8 +8808,7 @@
     "url": "https://www.youtube.com/watch?v=G7R9-YbZLk8",
     "views": "9321",
     "rejected": [
-     "not-a-playthrough",
-     "act-mismatch"
+     "not-a-playthrough"
     ]
    },
    {
@@ -8754,9 +8888,7 @@
     "uploader": "CGInferno",
     "url": "https://www.youtube.com/watch?v=D93mOM8M4kk",
     "views": 21503,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260729"
    },
    {
@@ -8932,6 +9064,15 @@
     "upload_date": "20260730"
    },
    {
+    "seconds": 15448,
+    "title": "Zenless Zone Zero 3.1 Full Main Story Quest (Wise POV)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=D93mOM8M4kk",
+    "views": 21503,
+    "rejected": [],
+    "upload_date": "20260729"
+   },
+   {
     "seconds": 15566,
     "title": "Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye",
     "uploader": "Streetwise Rhapsody",
@@ -9096,16 +9237,16 @@
    }
   ],
   "stats": {
-   "n": 28,
-   "median": 269,
+   "n": 29,
+   "median": 268,
    "low": 230,
    "high": 295,
    "q1": 253,
-   "q3": 281,
-   "trimmed_mean": 267,
+   "q3": 280,
+   "trimmed_mean": 266,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": -0.004
   }
  },
  {
@@ -9212,9 +9353,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=Vk991JFLznk",
     "views": 23143,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20260909"
    },
    {
@@ -9284,7 +9423,7 @@
     "url": "https://www.youtube.com/watch?v=Kv9kUT_AVsY",
     "views": 1705,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260911"
    },
@@ -9445,7 +9584,7 @@
     "url": "https://www.youtube.com/watch?v=wkH4A6C_0xY",
     "views": 8509,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260909"
    },
@@ -9456,7 +9595,7 @@
     "url": "https://www.youtube.com/watch?v=g1taFRZmdf8",
     "views": 18248,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260909"
    },
@@ -9467,7 +9606,7 @@
     "url": "https://www.youtube.com/watch?v=j6NonY1ANgs",
     "views": 98067,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20260909"
    },
@@ -9722,6 +9861,15 @@
     "upload_date": "20260909"
    },
    {
+    "seconds": 11469,
+    "title": "Zenless Zone Zero 3.2 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Vk991JFLznk",
+    "views": 23143,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
     "seconds": 11510,
     "title": "Zenless Zone Zero Version 3.2 Main Story Quest (Full Playthrough) Their Secret Histories",
     "uploader": "Streetwise Rhapsody",
@@ -9868,13 +10016,13 @@
    }
   ],
   "stats": {
-   "n": 22,
-   "median": 196,
+   "n": 23,
+   "median": 195,
    "low": 127,
    "high": 246,
-   "q1": 189,
-   "q3": 212,
-   "trimmed_mean": 199,
+   "q1": 190,
+   "q3": 211,
+   "trimmed_mean": 198,
    "measured": 1,
    "parts": {},
    "drift": null
@@ -9941,9 +10089,7 @@
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=SYvJMfjIRp4",
     "views": 29782,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20261021"
    },
    {
@@ -10108,7 +10254,7 @@
     "url": "https://www.youtube.com/watch?v=3X10J_JxDDw",
     "views": 16749,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20261021"
    },
@@ -10118,9 +10264,7 @@
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=CLbAWd6Cf34",
     "views": 50310,
-    "rejected": [
-     "act-mismatch"
-    ],
+    "rejected": [],
     "upload_date": "20261021"
    },
    {
@@ -10140,7 +10284,7 @@
     "url": "https://www.youtube.com/watch?v=TbmEST1L7yM",
     "views": 13447,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20261021"
    },
@@ -10237,7 +10381,7 @@
     "url": "https://www.youtube.com/watch?v=GBBWc65xhlg",
     "views": 55561,
     "rejected": [
-     "act-mismatch"
+     "short-outlier"
     ],
     "upload_date": "20261021"
    }
@@ -10260,6 +10404,24 @@
     "views": 36,
     "rejected": [],
     "upload_date": "20261022"
+   },
+   {
+    "seconds": 12303,
+    "title": "Zenless Zone Zero 3.3 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=SYvJMfjIRp4",
+    "views": 29782,
+    "rejected": [],
+    "upload_date": "20261021"
+   },
+   {
+    "seconds": 12313,
+    "title": "Zenless Zone Zero Version 3.3 - Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=CLbAWd6Cf34",
+    "views": 50310,
+    "rejected": [],
+    "upload_date": "20261021"
    },
    {
     "seconds": 12359,
@@ -10371,13 +10533,13 @@
    }
   ],
   "stats": {
-   "n": 14,
-   "median": 212,
+   "n": 16,
+   "median": 209,
    "low": 200,
    "high": 243,
-   "q1": 206,
-   "q3": 220,
-   "trimmed_mean": 212,
+   "q1": 205,
+   "q3": 218,
+   "trimmed_mean": 211,
    "measured": 0,
    "parts": {},
    "drift": null

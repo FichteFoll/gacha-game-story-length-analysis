@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 1
 
-**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 24 h 01 min**
+**Region:** New Eridu: Sixth Street, Lumina Square and the Outer Ring | **Game versions:** 1.0 - 1.7 | **Entries:** 10 | **Estimated chapter length: 24 h 09 min**
 <!--/gen-->
 
 A brother and sister run a video store on Sixth Street by day
@@ -22,23 +22,23 @@ are all pulling at the same thread.
 | Chapter 2 | A Call From the Hollow's Heart | 1 h 59 min | 1 h 25 min - 2 h 56 min | 5 | low |
 | Chapter 2 Interlude | Mission Unthinkable | 1 h 52 min | 1 h 10 min - 2 h 38 min | 15 | low |
 | Chapter 3 | The Midnight Pursuit | 1 h 40 min | 1 h 28 min - 2 h 28 min | 12 | low |
-| Chapter 4 | Tour de Inferno | 2 h 59 min | 2 h 38 min - 3 h 22 min | 13 | medium |
-| Chapter 5 | A Storm of Falling Stars | 2 h 25 min | 2 h 09 min - 2 h 43 min | 12 | medium |
-| Epilogue (A) | Bury Your Tears With the Past (A) | 3 h 47 min | 3 h 14 min - 4 h 13 min | 12 | medium |
-| Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 40 min | 3 h 27 min - 4 h 17 min | 12 | high |
+| Chapter 4 | Tour de Inferno | 2 h 57 min | 2 h 39 min - 3 h 20 min | 14 | medium |
+| Chapter 5 | A Storm of Falling Stars | 2 h 33 min | 2 h 18 min - 2 h 50 min | 12 | high |
+| Epilogue (A) | Bury Your Tears With the Past (A) | 3 h 45 min | 3 h 24 min - 4 h 14 min | 15 | high |
+| Epilogue (B) | Bury Your Tears With the Past (B) | 3 h 44 min | 3 h 28 min - 4 h 02 min | 15 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->24 h 01 min<!--/f-->**
+**Total: <!--f:total-->24 h 09 min<!--/f-->**
 
 ## Pacing
 
 The season the game teaches you with,
 and by a distance the cheapest to get through:
-<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->24 h 01 min<!--/f--> in total.
+<!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->24 h 09 min<!--/f--> in total.
 The two epilogue halves stand apart from the rest,
-at <!--f:len_Epilogue_A-->3 h 47 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 40 min<!--/f-->;
+at <!--f:len_Epilogue_A-->3 h 45 min<!--/f--> and <!--f:len_Epilogue_B-->3 h 44 min<!--/f-->;
 everything before them sits between <!--f:shortest_len-->1 h 28 min<!--/f-->
-and <!--f:len_Chapter_4-->2 h 59 min<!--/f-->.
+and <!--f:len_Chapter_4-->2 h 57 min<!--/f-->.
 These are also the least settled figures in the report:
 Season 1 is mostly dialogue, dialogue is skippable,
 and the uploads disagree accordingly.
@@ -289,11 +289,11 @@ the legends are louder than the facts,
 and the flames turn out to be someone's business plan.
 <!--gen:stats act="Chapter 4"-->
 
-- **Estimated length:** 2 h 59 min
-- **Sampled range:** 2 h 38 min to 3 h 22 min for the middle half (full spread 1 h 44 min to 4 h 44 min) across 13 playthrough uploads (12 further candidates screened out)
+- **Estimated length:** 2 h 57 min
+- **Sampled range:** 2 h 39 min to 3 h 20 min for the middle half (full spread 1 h 44 min to 4 h 44 min) across 14 playthrough uploads (11 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 1.2
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median -1% against an earlier, independent query set
 - **Quest parts (11):** A Different Path; Outer Ring Journey; Beneath the Legend; Data Collection; Source Procurement; Leak Scandal; Tracking Operation; Ridu Holidays; Tour de Inferno; The Hero Returns; Gates of the Past
 <!--/gen-->
 
@@ -309,6 +309,7 @@ and the flames turn out to be someone's business plan.
 | 2 h 40 min | Zenless Zone Zero - S1 Chapter 4: Tour de Inferno \| Full Walkthrough \| No Commentary | Retroplay A-Z | ~49 | n/a | <https://www.youtube.com/watch?v=p6yioTq8oKs> |
 | 2 h 46 min | Zenless Zone Zero 1.2 - Tour de Inferno Full Story Quest | CGInferno | 5,493 | 2024-09-25 | <https://www.youtube.com/watch?v=EJCPM-XvvmU> |
 | 2 h 49 min | Tour De Inferno \| Ch 4 \| 1.2 Full Story Quest Zenless Zone Zero | Dosa Kun | ~66 | n/a | <https://www.youtube.com/watch?v=nSaOBlFpq8Q> |
+| 2 h 55 min | Zenless Zone Zero 1.2 - New Main Story Quest Full Walkthrough | Rubhen925 | ~80,889 | n/a | <https://www.youtube.com/watch?v=nYrLWkBUCBA> |
 | 2 h 59 min | Version 1.2 Story Quest - Chapter 4 Tour De Inferno \| Zenless Zone Zero | Streetwise Rhapsody | 40,488 | 2024-09-25 | <https://www.youtube.com/watch?v=ffL_cSEN3uI> |
 | 3 h 04 min | Zenless Zone Zero Patch 1.2 Tour de Inferno Main Story Quest full Gameplay Walkthrough No commentary | AdamSmashed | 159 | 2024-09-28 | <https://www.youtube.com/watch?v=90qn1Xhkr2Q> |
 | 3 h 13 min | Chapter 4: Tour de Inferno (4K)  -  Full Story  -  Zenless Zone Zero | RÆIN | ~9 | n/a | <https://www.youtube.com/watch?v=xqQ6xrdRPMA> |
@@ -330,11 +331,11 @@ a temporary partner, a falling star,
 and the Bringer's scheme underneath both.
 <!--gen:stats act="Chapter 5"-->
 
-- **Estimated length:** 2 h 25 min
-- **Sampled range:** 2 h 09 min to 2 h 43 min for the middle half (full spread 1 h 13 min to 3 h 26 min) across 12 playthrough uploads (9 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 2 h 33 min
+- **Sampled range:** 2 h 18 min to 2 h 50 min for the middle half (full spread 1 h 52 min to 3 h 26 min) across 12 playthrough uploads (9 further candidates screened out)
+- **Confidence:** high
 - **Released in:** 1.4
-- **Stability:** median +3% against an earlier, independent query set
+- **Stability:** median +8% against an earlier, independent query set
 - **Quest parts (9):** Temporary Partner; The Day of Falling Into the Hollow; Quick Inspection; Dead End; Bringer's Scheme; Boundless Illusions; Emergency Pursuit; Thousand Miles, Unparalleled; Buried Past
 <!--/gen-->
 
@@ -344,7 +345,6 @@ and the Bringer's scheme underneath both.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 13 min | [Zenless Zone Zero Phaethon's Story] Season 1 - Chapter 5 - A Storm Of Falling Stars: Pursue Bringer | Authrone | ~12 | n/a | <https://www.youtube.com/watch?v=klQPgCDdKuY> |
 | 1 h 52 min | Zenless Zone Zero - Chapter 5: A Storm Of Falling Stars \| Full Story Walkthrough (No Commentary) | Elrinell Gaming | 209 | 2025-05-31 | <https://www.youtube.com/watch?v=GULE0OSU5ZU> |
 | 2 h 06 min | Chapter 5: A storm of Falling Stars (Full Story Mission) - Zenless Zone Zero 1.4 | Sir Patty | 60 | 2024-12-22 | <https://www.youtube.com/watch?v=J6KiNKDMZFQ> |
 | 2 h 18 min | ZZZ Main Quest Season 1 Chapter 5: A Storm of Falling Stars Full Walkthrough \| Zenless Zone Zero | Akabirama | 504 | 2025-08-07 | <https://www.youtube.com/watch?v=MduSGAizFTQ> |
@@ -355,6 +355,7 @@ and the Bringer's scheme underneath both.
 | 2 h 43 min | Version 1.4 Story Quest (Full Quest) Chapter 5 - A Storm of Falling Stars \| Zenless Zone Zero | Streetwise Rhapsody | ~66,414 | n/a | <https://www.youtube.com/watch?v=xLG9w3I9vQE> |
 | 2 h 44 min | Chapter 5: A Storm of Falling Stars (4K)  -  Full Story  -  Zenless Zone Zero | RÆIN | ~10 | n/a | <https://www.youtube.com/watch?v=lZ027v2Jevw> |
 | 2 h 52 min | Zenless Zone Zero 1.4 \| Chapter 5 - A Storm of Falling Stars (Full Story Quest) | GutsnCapture Gaming | 7 | 2024-12-20 | <https://www.youtube.com/watch?v=U22rFZ-xDF8> |
+| 2 h 57 min | Zenless Zone Zero 1.4 - New Main Story Quest Full Walkthrough | Rubhen925 | 76,818 | 2024-12-18 | <https://www.youtube.com/watch?v=3a85KQH_jgs> |
 | 3 h 26 min | Zenless Zone Zero 1.4 - ‘A Storm of Falling Stars’ - Chapter 5 Main Story Quest | Chiko | ~5 | n/a | <https://www.youtube.com/watch?v=u-RNZD9Fv3I> |
 
 </details>
@@ -370,11 +371,11 @@ a gentleman's visit, a raffle,
 and a phantom thief working the moonlight.
 <!--gen:stats act="Epilogue (A)"-->
 
-- **Estimated length:** 3 h 47 min
-- **Sampled range:** 3 h 14 min to 4 h 13 min for the middle half (full spread 2 h 14 min to 4 h 24 min) across 12 playthrough uploads (11 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 3 h 45 min
+- **Sampled range:** 3 h 24 min to 4 h 14 min for the middle half (full spread 2 h 14 min to 4 h 24 min) across 15 playthrough uploads (8 further candidates screened out)
+- **Confidence:** high
 - **Released in:** 1.6
-- **Stability:** median -1% against an earlier, independent query set
+- **Stability:** median -2% against an earlier, independent query set
 - **Quest parts (11):** A Gentleman's Visit; With great power comes great...; The Mysterious Young Lady's Gaze; Phantom Thief in the Moonlight; Destined to Meet Again; Revenge Against New Eridu; Unlucky Gift; Dark Side; Behind the Scenes; Before Taking the Stage; Destiny at Your Fingertips
 <!--/gen-->
 
@@ -388,11 +389,14 @@ and a phantom thief working the moonlight.
 | 2 h 40 min | Bury Your Tears With the Past (A) - Version 1.6 Full Main Story Quest \| Zenless Zone Zero (ZZZ) 4k60 | vinheim | ~72 | n/a | <https://www.youtube.com/watch?v=yr_ci4w89rE> |
 | 3 h 10 min | Bury Your Tears with the Past (A) - Season 1 - Epilogue (Full Mission Story) - Zenless Zone Zero 1.6 | Sir Patty | ~107 | n/a | <https://www.youtube.com/watch?v=lA3f6_yoEqM> |
 | 3 h 24 min | Zenless Zone Zero \| Season 1 Epilogue "Bury Your Tears With the Past" (A) | Jaychance | ~59 | n/a | <https://www.youtube.com/watch?v=7wvmnQS8cmc> |
+| 3 h 27 min | Zenless Zone Zero - 1.6 Main Story Quest | Dxomi | 6 | 2025-03-12 | <https://www.youtube.com/watch?v=8s0WtcZ_aN8> |
 | 3 h 31 min | Zenless Zone Zero  - Bury Your Tears With the Past (A) \| Version 1.6 Story Quest (Full Quest) | Dosa Kun | 105 | 2025-03-17 | <https://www.youtube.com/watch?v=DEMMrvatNso> |
 | 3 h 45 min | Bury your tears with the past (a) \| Full Story Quest \| zenless zone zero \| Version 1.6 | Jesters Gacha Gaming | ~47 | n/a | <https://www.youtube.com/watch?v=wQHzltyLpf8> |
+| 3 h 45 min | Zenless Zone Zero 1.6 - New Main Story Quest Full Walkthrough | Rubhen925 | 48,536 | 2025-03-12 | <https://www.youtube.com/watch?v=1r1tZd3I-og> |
 | 3 h 49 min | Bury Your Tears With The Past (A) - Main Story | Fiery | 43 | 2025-04-25 | <https://www.youtube.com/watch?v=JI0gKDXIa2w> |
 | 3 h 51 min | Version 1.6 Story Quest (Full Quest) Bury Your Tears With the Past (A) \| Zenless Zone Zero | Streetwise Rhapsody | ~61,594 | n/a | <https://www.youtube.com/watch?v=a_6wq7OvYDQ> |
 | 4 h 00 min | Zenless Zone Zero 1.6 - Epilogue - ‘Bury Your Tears With the Past’ - Part 1 | Chiko | ~9 | n/a | <https://www.youtube.com/watch?v=wGc-4pWvMlo> |
+| 4 h 14 min | 4 Hours of Great Zenless Story \| Season 1 Epilogue (A) \| Zenless Zone Zero 1.6 Story | Enigmon | 44 | 2025-03-18 | <https://www.youtube.com/watch?v=j6wOyPzf4FM> |
 | 4 h 18 min | One DRAMATIC Epilogue \| Bury Your Tears With the Past (A) \| Zenless Zone Zero | Catapilamila | ~46 | n/a | <https://www.youtube.com/watch?v=7wzh9tPQRxQ> |
 | 4 h 19 min | Zenless Zone Zero - Season 1 Epilogue: Bury Your Tears With the Past (A) \| Full Story JP Dub EN Sub | Gudaoko | ~1,546 | n/a | <https://www.youtube.com/watch?v=c56NfylfRUA> |
 | 4 h 24 min | ZZZ -  Bury Your Tears With the Past (A) - complete story (walkthrough / no commentary) | CorporalOdin2 | 356 | 2025-03-13 | <https://www.youtube.com/watch?v=WT1jXJjc0eg> |
@@ -410,11 +414,11 @@ The second half closes Season 1
 on the Mockingbird and the sacrifice core.
 <!--gen:stats act="Epilogue (B)"-->
 
-- **Estimated length:** 3 h 40 min
-- **Sampled range:** 3 h 27 min to 4 h 17 min for the middle half (full spread 3 h 17 min to 5 h 18 min) across 12 playthrough uploads (11 further candidates screened out)
+- **Estimated length:** 3 h 44 min
+- **Sampled range:** 3 h 28 min to 4 h 02 min for the middle half (full spread 3 h 17 min to 5 h 18 min) across 15 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 1.7
-- **Stability:** median +4% against an earlier, independent query set
+- **Stability:** median +6% against an earlier, independent query set
 - **Quest parts (11):** Is This the End or the Beginning?; Sacrifices & Exaltists; Fate Rises and Falls, But You Are the Beacon; Who Will Get the Sacrifice Core; Fate is Never Biased; The Mockingbird's Still Alive; Long-Lost Harmony; Those With Steadfast Ambition; Applause for the Mockingbird; The Ending She Foresaw; The Song for Tomorrow
 <!--/gen-->
 
@@ -430,9 +434,12 @@ on the Mockingbird and the sacrifice core.
 | 3 h 28 min | Zenless Zone Zero - Bury Your Tears With the Past (B) \| Version 1.7 Story Quest (Full Quest) | Dosa Kun | ~269 | n/a | <https://www.youtube.com/watch?v=lIgtF0FXr40> |
 | 3 h 29 min | Zenless Zone Zero 1.7 Main Story Epilogue: Bury Your Tears With the Past (B) Full walkthrough. | AdamSmashed | 59 | 2025-04-25 | <https://www.youtube.com/watch?v=QB6anl0Rw8c> |
 | 3 h 35 min | Zenless Zone Zero 1.7 - Bury Your Tears With the Past (B) (No Commentary) | DForce Gaming | ~51 | n/a | <https://www.youtube.com/watch?v=g_lXYWR_tog> |
+| 3 h 39 min | Zenless Zone Zero 1.7 - New Main Story Quest Full Walkthrough | Rubhen925 | 35,248 | 2025-04-23 | <https://www.youtube.com/watch?v=-yRnZ7PBug4> |
 | 3 h 44 min | Bury Your Tears With The Past! Zenless Zone Zero: Version 1.7 Story (Season 1 Epilogue B) (PS5) | Salazar596  | ~21 | n/a | <https://www.youtube.com/watch?v=Q3gEG0EMs8M> |
 | 3 h 58 min | Bury Your Tears With the Past (B) - Zenless Zone Zero (ZZZ) - Version 1.7 Story Quest (Full Quest) | RSA The Gamer Boy | 31 | 2025-04-29 | <https://www.youtube.com/watch?v=AcLPAQA0sVI> |
 | 3 h 59 min | Bury Your Tears With The Past (B) - Main Story | Fiery | ~52 | n/a | <https://www.youtube.com/watch?v=SJu2-8aI_C0> |
+| 4 h 00 min | 【ZZZ 1.7】Main Story Season 1: Epilogue - Zenless Zone Zero (No Commentary) - Part 16 - EN VA | Another Gacha Addict's Channel | 68 | 2025-05-29 | <https://www.youtube.com/watch?v=vpdi6PbUuJA> |
+| 4 h 02 min | The final quest of Season 1! \| Season 1 Epilogue (B) \| Zenless Zone Zero 1.7 Story | Enigmon | ~39 | n/a | <https://www.youtube.com/watch?v=eVgRToGoKzs> |
 | 4 h 22 min | Zenless Zone Zero - Season 1 Epilogue: Bury Your Tears With the Past (B) \| Full Story JP Dub EN Sub | Gudaoko | 1,147 | 2025-04-24 | <https://www.youtube.com/watch?v=axPzWNtOKRM> |
 | 4 h 27 min | ZZZ -  Bury Your Tears With the Past (B) - complete story (walkthrough / no commentary) | CorporalOdin2 | 128 | 2025-04-23 | <https://www.youtube.com/watch?v=dS13Flgdoy8> |
 | 5 h 18 min | ZZZ 1.7 \| JP DUB \| S01 Epilogue - Bury Your Tears With The Past (B) \| FULL STORY \| Zenless Zone Zero | Xheldon G.Archive | ~311 | n/a | <https://www.youtube.com/watch?v=YiI7RXbG42w> |
