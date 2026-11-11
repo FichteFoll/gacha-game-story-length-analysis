@@ -300,6 +300,11 @@ Discard, by title:
   is twenty minutes or more, put a runtime floor in
   `<workdir>/min_minutes.txt` (one number) and they are counted out as not
   being playthroughs, which spares the second pass fetching them too.
+  A floor moves more than the rows below it:
+  the outlier trim measures against the median of what is left,
+  so adding one to an existing report can trim a row twice the floor's length
+  (Honkai: Star Rail lost a 69- and an 80-minute upload to a 30-minute floor).
+  Diff every act afterwards, not only the one the floor was added for.
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
   Gacha pulls ("Pulls & Story", "pulling for <character>") pad it the same way
   and are in the shared list too.
@@ -316,6 +321,10 @@ Discard, by title:
   The same goes for "Full Story" and "Complete Story Quest",
   which Wuthering Waves uploaders say of a single quest;
   there only "entire story" and "full questline" name a compilation.
+  A report's own `compilations.txt` pattern on "full story" overrules this,
+  and the act pin only rescues the titles that carry an act number:
+  check which single-act titles such a pattern rejects before keeping it
+  (Honkai Impact 3rd's threw away seven complete chapters).
   A title whose numbers pin more than one act is a compilation outright:
   the run after the unit may be joined by "&", "and", "+", ",", "to",
   a hyphen, a slash, a tilde, an en dash or a fullwidth tilde
@@ -375,6 +384,10 @@ Discard, by title:
   so screen them as usual: the streams are in the shared list,
   and a side-quest bundle goes in `compilations.txt`,
   as a `!` line where the title also pins the act.
+  A version that also shipped a side questline about as long as its act
+  (Honkai: Star Rail's Trailblaze Continuance) pins the act only for titles
+  that do not name that questline:
+  put the questline's name in `not_playthrough.txt`.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.
@@ -421,6 +434,10 @@ Discard, by title:
   Nothing catches that automatically;
   add a `!` pattern for that uploader's titles to `partials.txt`,
   as Reverse: 1999 does.
+  The same goes for a channel that streams an act in sessions
+  and numbers them its own way ("— 3", "P1-7"):
+  make that pattern a `!` line, because one session can run
+  as long as another uploader's whole act and would be readmitted on runtime.
 - **one video, two uploaders**: a channel that mirrors its uploads to a second
   channel, or re-uploads someone else's, offers one playthrough under two names,
   and the per-uploader rule above counts both.
