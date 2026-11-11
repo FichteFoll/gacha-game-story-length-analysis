@@ -6128,7 +6128,7 @@
     "url": "https://www.youtube.com/watch?v=0aI_kXpMrns",
     "views": 827607,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260620"
@@ -6879,7 +6879,9 @@
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=r0lT9uVSAIc",
     "views": 11,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250824"
    },
    {
@@ -6975,15 +6977,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 13797,
-    "title": "Reverse 1999 | Continuing Main Story Chapter 8 Tristes Tropiques",
-    "uploader": "Fiphie E",
-    "url": "https://www.youtube.com/watch?v=r0lT9uVSAIc",
-    "views": 11,
-    "rejected": [],
-    "upload_date": "20250824"
-   },
    {
     "seconds": 14363,
     "title": "[Reverse:1999] Those Tropiques be real Tristes - 2.2 Chapter 8 Main Story",
@@ -7188,13 +7181,13 @@
    }
   ],
   "stats": {
-   "n": 11,
-   "median": 303,
-   "low": 230,
+   "n": 10,
+   "median": 310,
+   "low": 239,
    "high": 403,
-   "q1": 256,
-   "q3": 336,
-   "trimmed_mean": 302,
+   "q1": 259,
+   "q3": 351,
+   "trimmed_mean": 310,
    "measured": 4,
    "parts": {
     "Unshakable Justice": 12,
@@ -7222,7 +7215,7 @@
     "The Final Curtain": 11,
     "Monologues": 5
    },
-   "drift": -0.071
+   "drift": -0.049
   }
  },
  {
@@ -7681,7 +7674,9 @@
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=aWK6_3WyNLs",
     "views": 16,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250910"
    },
    {
@@ -7691,7 +7686,7 @@
     "url": "https://www.youtube.com/watch?v=Z2s6cf0Z8fI",
     "views": 159,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20250611"
    },
@@ -7702,7 +7697,7 @@
     "url": "https://www.youtube.com/watch?v=-EQ4eVCICcw",
     "views": 279,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20250530"
    },
@@ -7790,15 +7785,6 @@
     "views": 464,
     "rejected": [],
     "upload_date": "20251129"
-   },
-   {
-    "seconds": 11728,
-    "title": "\u3010 Reverse 1999 \u3011 Chapter 9 Here I Come [ Folie et D\u00e9raison ]",
-    "uploader": "Fiphie E",
-    "url": "https://www.youtube.com/watch?v=aWK6_3WyNLs",
-    "views": 16,
-    "rejected": [],
-    "upload_date": "20250910"
    },
    {
     "seconds": 18008,
@@ -7957,13 +7943,13 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 331,
+   "n": 8,
+   "median": 332,
    "low": 176,
    "high": 394,
-   "q1": 248,
-   "q3": 375,
-   "trimmed_mean": 312,
+   "q1": 307,
+   "q3": 382,
+   "trimmed_mean": 327,
    "measured": 4,
    "parts": {
     "Prologue": 20,
@@ -7987,7 +7973,7 @@
     "Aspects of Madness": 10,
     "In the Place of My Ashes": 13
    },
-   "drift": -0.012
+   "drift": -0.009
   }
  },
  {
@@ -8533,7 +8519,9 @@
     "uploader": "Fiphie E",
     "url": "https://www.youtube.com/watch?v=h315KC_SoNw",
     "views": 33,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250928"
    },
    {
@@ -8552,7 +8540,9 @@
     "uploader": "Kuruko Imai Ch.",
     "url": "https://www.youtube.com/watch?v=xSn5mGDHIWo",
     "views": 490,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250927"
    },
    {
@@ -8562,7 +8552,7 @@
     "url": "https://www.youtube.com/watch?v=cJomczodPQM",
     "views": 348,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20250920"
    },
@@ -8573,7 +8563,7 @@
     "url": "https://www.youtube.com/watch?v=pbVN27omelA",
     "views": 26,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20250920"
    },
@@ -8642,7 +8632,9 @@
     "uploader": "Saerin",
     "url": "https://www.youtube.com/watch?v=aXjpvgwlvwI",
     "views": 3444,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20251005"
    },
    {
@@ -8658,33 +8650,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 13299,
-    "title": "Finally Playing CH 10 PARADISE REGAINED | Reverse: 1999 2.8 PLAYTHROUGH P1-7",
-    "uploader": "Saerin",
-    "url": "https://www.youtube.com/watch?v=aXjpvgwlvwI",
-    "views": 3444,
-    "rejected": [],
-    "upload_date": "20251005"
-   },
-   {
-    "seconds": 16799,
-    "title": "\u3010Reverse 1999 \u3011I Wonder What Moldir And Ulrich Is Up To  [ Chapter 10 Paradise Regained ]",
-    "uploader": "Fiphie E",
-    "url": "https://www.youtube.com/watch?v=h315KC_SoNw",
-    "views": 33,
-    "rejected": [],
-    "upload_date": "20250928"
-   },
-   {
-    "seconds": 20119,
-    "title": "\u3010Reverse: 1999\u3011WHERE'S DORES\u3010Paradise Regained \u2014 3\u3011",
-    "uploader": "Kuruko Imai Ch.",
-    "url": "https://www.youtube.com/watch?v=xSn5mGDHIWo",
-    "views": 490,
-    "rejected": [],
-    "upload_date": "20250927"
-   },
    {
     "seconds": 23300,
     "title": "Paradise Regained | Chapter 10 | Reverse: 1999 - Full Story",
@@ -8878,13 +8843,13 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 419,
-   "low": 222,
+   "n": 9,
+   "median": 436,
+   "low": 388,
    "high": 630,
-   "q1": 349,
-   "q3": 470,
-   "trimmed_mean": 410,
+   "q1": 410,
+   "q3": 483,
+   "trimmed_mean": 458,
    "measured": 4,
    "parts": {
     "The Rime of the Ancient Mariner": 18,
@@ -8912,7 +8877,7 @@
     "The Other Bank of the River": 14,
     "Apocalypsis cum figuris": 8
    },
-   "drift": -0.041
+   "drift": -0.002
   }
  },
  {
@@ -9920,7 +9885,7 @@
     "url": "https://www.youtube.com/watch?v=iVmzkAVPqD8",
     "views": 138,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260311"
    },
@@ -10321,7 +10286,9 @@
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=R2sFsqvGgew",
     "views": 257,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260305"
    },
    {
@@ -10363,7 +10330,7 @@
     "url": "https://www.youtube.com/watch?v=bKKtYzjhQPs",
     "views": 93,
     "rejected": [
-     "short-outlier"
+     "fragment"
     ],
     "upload_date": "20260324"
    },
@@ -10380,15 +10347,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 20300,
-    "title": "Marsha aka Sentinel's girlfriend is back! Chapter 12 \"The Campaign's Tale\" | Reverse 1999 3.3",
-    "uploader": "HappyOwlTV",
-    "url": "https://www.youtube.com/watch?v=R2sFsqvGgew",
-    "views": 257,
-    "rejected": [],
-    "upload_date": "20260305"
-   },
    {
     "seconds": 22667,
     "title": "The Campaign's Tale - Full Story | Reverse: 1999",
@@ -10539,13 +10497,13 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 452,
-   "low": 338,
+   "n": 7,
+   "median": 461,
+   "low": 378,
    "high": 590,
-   "q1": 380,
-   "q3": 504,
-   "trimmed_mean": 448,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 464,
    "measured": 3,
    "parts": {
     "Quiet is the River Bank": 20,
@@ -10573,7 +10531,7 @@
     "The Day of Departure": 18,
     "Crime and Punishment": 15
    },
-   "drift": 0.02
+   "drift": 0.041
   }
  },
  {

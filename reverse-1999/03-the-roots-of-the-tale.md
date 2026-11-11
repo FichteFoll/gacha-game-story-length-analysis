@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 3: The Roots of the Tale
 
-**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 21 h 07 min**
+**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 21 h 16 min**
 <!--/gen-->
 
 The arc the game is in the middle of,
@@ -14,22 +14,23 @@ and the heaviest of the three arcs per chapter:
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Chapter 11 | A Long Long Way | 6 h 18 min | 5 h 13 min - 7 h 16 min | 10 | medium |
-| Chapter 12 | The Campaign's Tale | 7 h 32 min | 6 h 20 min - 8 h 24 min | 8 | medium |
+| Chapter 12 | The Campaign's Tale | 7 h 41 min | 6 h 18 min - 9 h 50 min | 7 | low |
 | Chapter 13 | On Another's Sorrow | 7 h 17 min | 6 h 16 min - 8 h 02 min | 8 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->21 h 07 min<!--/f-->**
+**Total: <!--f:total-->21 h 16 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->21 h 07 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->21 h 16 min<!--/f-->,
 which between them outweigh the arc before this one
 on the same number of entries.
 Chapters 12 and 13 are the longer two of the three
 and, after Chapter 7, the longest entries in the game.
 These are the youngest pools in the report,
 which shows in their size:
-each rests on little more than the uploads a middle half needs,
+none rests on more than a couple of uploads past what a middle half needs,
+and Chapter 12 falls short of it,
 because these chapters have had the least time to accumulate them.
 
 ## Chapters
@@ -82,12 +83,12 @@ and the longest stage list in the arc.
 <!--gen:stats act="Chapter 12"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 7 h 32 min
-- **Sampled range:** 6 h 20 min to 8 h 24 min for the middle half (full spread 5 h 38 min to 9 h 50 min) across 8 playthrough uploads (40 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 7 h 41 min
+- **Sampled range:** 6 h 18 min to 9 h 50 min across 7 playthrough uploads (41 further candidates screened out)
+- **Confidence:** low
 - **Released in:** 3.3
-- **Stability:** median +2% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 8 uploads
+- **Stability:** median +4% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 7 uploads
 - **Quest parts (25):** Quiet is the River Bank (20 min); The Eternal Autumn (22 min); Intersection (28 min); Beneath the Silence (20 min); Strange Gazes (23 min); A Son's Confession (22 min); Both Sides of the River (19 min); The Negotiators and the Judge (19 min); White Night (18 min); Legacy of the Era (23 min); The Defender's Oath (17 min); Life and Fate (13 min); Farewell Letter (16 min); The Night Before War (16 min); Dust Between Fingers (18 min); Mercy (23 min); The Cavalry; The Pale Horse (11 min); Casualty Report (11 min); The Last Defense (9 min); The Admiral and His Men (12 min); Elegy for the Don (25 min); The Long Road Ahead (15 min); The Day of Departure (18 min); Crime and Punishment (15 min)
 <!--/gen-->
 
@@ -97,7 +98,6 @@ One of the three longest chapters in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 5 h 38 min | Marsha aka Sentinel's girlfriend is back! Chapter 12 "The Campaign's Tale" \| Reverse 1999 3.3 | HappyOwlTV | 257 | 2026-03-05 | <https://www.youtube.com/watch?v=R2sFsqvGgew> |
 | 6 h 18 min | The Campaign's Tale - Full Story \| Reverse: 1999 | Villenthessis | ~555 | n/a | <https://www.youtube.com/watch?v=yU90XqRWoPo> |
 | 6 h 27 min | The Campaign's Tale \| Chapter 12 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 44 | 2026-06-12 | <https://www.youtube.com/watch?v=JY-eNhZ6vOs> |
 | 7 h 23 min | Reverse: 1999 v3.3 The Campaign's Tale' [Chapter 12. Story. Full] | Homo Ludens | 98 | 2026-03-14 | <https://www.youtube.com/watch?v=vUy2BwKDalM> |
