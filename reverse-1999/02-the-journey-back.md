@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 2: The Journey Back
 
-**Chapters:** 8 - 10 | **Game versions:** 2.2 - 2.8 | **Entries:** 3 | **Estimated arc length: 17 h 58 min**
+**Chapters:** 8 - 10 | **Game versions:** 2.2 - 2.8 | **Entries:** 3 | **Estimated arc length: 17 h 42 min**
 <!--/gen-->
 
 An arc of <!--f:n_entries-->three<!--/f--> chapters
@@ -18,14 +18,14 @@ is the longest of the three.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 8 | Tristes Tropiques | 5 h 10 min | 4 h 19 min - 5 h 51 min | 10 | medium |
 | Chapter 9 | Folie et Déraison | 5 h 32 min | 5 h 07 min - 6 h 22 min | 8 | high |
-| Chapter 10 | Paradise Regained | 7 h 16 min | 6 h 50 min - 8 h 03 min | 9 | high |
+| Chapter 10 | Paradise Regained | 7 h 00 min | 6 h 40 min - 7 h 53 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 58 min<!--/f-->**
+**Total: <!--f:total-->17 h 42 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->17 h 58 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->17 h 42 min<!--/f-->,
 and nothing in the arc under four hours.
 Chapters 8 and 9 sit inside a single band,
 and their ranges overlap so heavily
@@ -119,13 +119,13 @@ and close on In the Place of My Ashes.
 from The Rime of the Ancient Mariner to Apocalypsis cum figuris.
 <!--gen:stats act="Chapter 10"-->
 
-- **Estimated length:** 7 h 16 min
-- **Sampled range:** 6 h 50 min to 8 h 03 min for the middle half (full spread 6 h 28 min to 10 h 30 min) across 9 playthrough uploads (44 further candidates screened out)
+- **Estimated length:** 7 h 00 min
+- **Sampled range:** 6 h 40 min to 7 h 53 min for the middle half (full spread 5 h 55 min to 10 h 30 min) across 11 playthrough uploads (50 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.8
-- **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 9 uploads
-- **Quest parts (24):** The Rime of the Ancient Mariner (18 min); An Icy Road (11 min); My Travel Companions (15 min); Et tu, Brute? (12 min); Have a safe journey. (19 min); Under Glaring Light (13 min); The Worst Journey in the World (13 min); The Fool and the High Priestess (17 min); The Call of the Wild (9 min); Des pas sur la neige (21 min); Just Another Laplace Experiment (32 min); The Nine-Layered City (23 min); My Dear Siblings (11 min); In the Mouth of Madness (15 min); The Broken Land of Bliss (24 min); The Owl of Minerva (17 min); To a Skylark (19 min); Same Road, Different Destinations (19 min); The Weaving of Our Pasts (14 min); The Way I Came (23 min); By Their Untainted Blood (12 min); And Then Came the Savior (41 min); The Other Bank of the River (14 min); Apocalypsis cum figuris (8 min)
+- **Stability:** median -4% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 6 of 11 uploads
+- **Quest parts (24):** The Rime of the Ancient Mariner (18 min); An Icy Road (11 min); My Travel Companions (15 min); Et tu, Brute? (19 min); Have a safe journey. (19 min); Under Glaring Light (13 min); The Worst Journey in the World (13 min); The Fool and the High Priestess (17 min); The Call of the Wild (9 min); Des pas sur la neige (21 min); Just Another Laplace Experiment (32 min); The Nine-Layered City (23 min); My Dear Siblings (11 min); In the Mouth of Madness (15 min); The Broken Land of Bliss (24 min); The Owl of Minerva (17 min); To a Skylark (19 min); Same Road, Different Destinations (19 min); The Weaving of Our Pasts (14 min); The Way I Came (23 min); By Their Untainted Blood (12 min); And Then Came the Savior (41 min); The Other Bank of the River (14 min); Apocalypsis cum figuris (8 min)
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 10"-->
@@ -134,13 +134,15 @@ from The Rime of the Ancient Mariner to Apocalypsis cum figuris.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
+| 5 h 55 min | 【Reverse 1999】Chapter 10: Paradise Regained - Story Collection | Bjorkit | 20 | 2025-11-21 | <https://www.youtube.com/watch?v=tm9-rTehZqY> |
 | 6 h 28 min | Paradise Regained \| Chapter 10 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 81 | 2025-09-30 | <https://www.youtube.com/watch?v=69xvMuwStGs> |
 | 6 h 40 min | Chapter 10: Paradise Regained - Full Story \| Reverse: 1999 | Villenthessis | 4,149 | 2025-09-22 | <https://www.youtube.com/watch?v=PlQY5mkSC7w> |
+| 6 h 50 min | Reveese: 1999 - Story [Paradise Regained \| Full Chapter] | chooviiDiary | 2 | 2025-09-23 | <https://www.youtube.com/watch?v=Gyy113DPY-o> |
 | 6 h 59 min | [Reverse: 1999] Chapter 10–Paradise Regained  | HaWuTsKi Archive | 94 | 2025-10-25 | <https://www.youtube.com/watch?v=8Ni931PCeCA> |
 | 7 h 00 min | [4K] Reverse:1999 Chapter 10 - Paradise Regained (No commentary) | Tetsu's Archive | 13 | 2025-09-26 | <https://www.youtube.com/watch?v=WoteAJQTxNE> |
 | 7 h 16 min | Paradise Regained \| Reverse: 1999 \| Chapter 10 Full Story [4K] [No Commentary] | 八咫烏_Merui | 22,566 | 2025-09-25 | <https://www.youtube.com/watch?v=5kLjK85EyXM> |
 | 7 h 41 min | ☔ 🏔⛏ Reverse: 1999 2.8 - Chapter 10: "Paradise Regained" Full Story and Playthrough 🏔⛏ ☔ | Alex 393 | 17 | 2025-10-20 | <https://www.youtube.com/watch?v=aXby0JNlNYc> |
-| 7 h 53 min | 【Reverse: 1999】Chapter 10 "Paradise Regained" Full Story [JP Dub] | Super Executive | ~717 | n/a | <https://www.youtube.com/watch?v=y_s24q-Q8eI> |
+| 7 h 53 min | 【Reverse: 1999】Chapter 10 "Paradise Regained" Full Story [JP Dub] | Super Executive | 765 | 2025-09-21 | <https://www.youtube.com/watch?v=y_s24q-Q8eI> |
 | 8 h 13 min | Reverse: 1999 Ver. 2.8 'Paradise Regained' [Chapter 10. Story Mode. Full] | Homo Ludens | 1,135 | 2025-09-20 | <https://www.youtube.com/watch?v=9lUMnt4XSIE> |
 | 10 h 30 min | THE TRUTH \| Reverse: 1999 Chapter 10 | rarebear | 947 | 2026-01-19 | <https://www.youtube.com/watch?v=34ruk_clN1s> |
 

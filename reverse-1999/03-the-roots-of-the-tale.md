@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 3: The Roots of the Tale
 
-**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 21 h 16 min**
+**Chapters:** 11 - 13 | **Game versions:** 3.0 onwards | **Entries:** 3 | **Estimated arc length: 21 h 30 min**
 <!--/gen-->
 
 The arc the game is in the middle of,
@@ -15,14 +15,14 @@ and the heaviest of the three arcs per chapter:
 | --- | --- | --- | --- | --- | --- |
 | Chapter 11 | A Long Long Way | 6 h 18 min | 5 h 13 min - 7 h 16 min | 10 | medium |
 | Chapter 12 | The Campaign's Tale | 7 h 41 min | 6 h 18 min - 9 h 50 min | 7 | low |
-| Chapter 13 | On Another's Sorrow | 7 h 17 min | 6 h 16 min - 8 h 02 min | 8 | medium |
+| Chapter 13 | On Another's Sorrow | 7 h 31 min | 6 h 23 min - 8 h 11 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->21 h 16 min<!--/f-->**
+**Total: <!--f:total-->21 h 30 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->21 h 16 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->21 h 30 min<!--/f-->,
 which between them outweigh the arc before this one
 on the same number of entries.
 Chapters 12 and 13 are the longer two of the three
@@ -45,7 +45,7 @@ with an Armistice and a Pardon along the way.
 <!--gen:stats act="Chapter 11"-->
 
 - **Estimated length:** 6 h 18 min
-- **Sampled range:** 5 h 13 min to 7 h 16 min for the middle half (full spread 5 h 05 min to 9 h 24 min) across 10 playthrough uploads (34 further candidates screened out)
+- **Sampled range:** 5 h 13 min to 7 h 16 min for the middle half (full spread 5 h 05 min to 9 h 24 min) across 10 playthrough uploads (37 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 3.0
 - **Stability:** median +4% against an earlier, independent query set
@@ -84,7 +84,7 @@ and the longest stage list in the arc.
 One of the three longest chapters in the game.
 
 - **Estimated length:** 7 h 41 min
-- **Sampled range:** 6 h 18 min to 9 h 50 min across 7 playthrough uploads (41 further candidates screened out)
+- **Sampled range:** 6 h 18 min to 9 h 50 min across 7 playthrough uploads (47 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 3.3
 - **Stability:** median +4% against an earlier, independent query set
@@ -98,7 +98,7 @@ One of the three longest chapters in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 6 h 18 min | The Campaign's Tale - Full Story \| Reverse: 1999 | Villenthessis | ~555 | n/a | <https://www.youtube.com/watch?v=yU90XqRWoPo> |
+| 6 h 18 min | The Campaign's Tale - Full Story \| Reverse: 1999 | Villenthessis | 784 | 2026-03-14 | <https://www.youtube.com/watch?v=yU90XqRWoPo> |
 | 6 h 27 min | The Campaign's Tale \| Chapter 12 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 44 | 2026-06-12 | <https://www.youtube.com/watch?v=JY-eNhZ6vOs> |
 | 7 h 23 min | Reverse: 1999 v3.3 The Campaign's Tale' [Chapter 12. Story. Full] | Homo Ludens | 98 | 2026-03-14 | <https://www.youtube.com/watch?v=vUy2BwKDalM> |
 | 7 h 41 min | The Campaign's Tale \| Reverse: 1999 \| Chapter 12 Full Story [4K] [No Commentary] | 八咫烏_Merui | 14,835 | 2026-03-14 | <https://www.youtube.com/watch?v=dasUwKTOJFU> |
@@ -118,12 +118,12 @@ from Homecoming Day to The Legendary Hermitage.
 <!--gen:stats act="Chapter 13"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 7 h 17 min
-- **Sampled range:** 6 h 16 min to 8 h 02 min for the middle half (full spread 4 h 01 min to 8 h 34 min) across 8 playthrough uploads (45 further candidates screened out)
+- **Estimated length:** 7 h 31 min
+- **Sampled range:** 6 h 23 min to 8 h 11 min for the middle half (full spread 4 h 01 min to 8 h 34 min) across 9 playthrough uploads (46 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 3.7
-- **Stability:** median -6% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 8 uploads
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 1 of 9 uploads
 - **Quest parts (24):** Homecoming Day; Escape Plan; The Cube Researchers; Stone Doves; Burned Feathers; The Alumni; Bumpy Roads; Rules Are Rules; Emergency Measures; A Hard Choice; The Shapeshifter; Thorny Thicket; Vacuum of Arcanum; Behind the Door; Overexposed; The Hope in Her Heart; Song of the Black Sheep; Amulets; A Peek into Fate; The White Tower; Wishing for Peace; 04/01 10:0; Her Reward; The Legendary Hermitage
 <!--/gen-->
 
@@ -133,13 +133,14 @@ One of the three longest chapters in the game.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 4 h 01 min | 【REVERSE 1999】On Another's Sorrow \| The Roots of the Tale - Chapter 13 | Mirai Shishiou VODS | ~48 | n/a | <https://www.youtube.com/watch?v=xP3dJgbePQw> |
+| 4 h 01 min | 【REVERSE 1999】On Another's Sorrow \| The Roots of the Tale - Chapter 13 | Mirai Shishiou VODS | 77 | 2026-08-16 | <https://www.youtube.com/watch?v=xP3dJgbePQw> |
 | 6 h 09 min | 재업) [리버스: 1999] 3.7 메인 스토리 '타인의 슬픔' 풀버전(영음) \|\| Reverse:1999 'On Another’s Sorrow' Full STORY | RAOPLAY | 379 | 2026-08-17 | <https://www.youtube.com/watch?v=NGbZmymDBv4> |
-| 6 h 38 min | On Another's Sorrow - FULL STORY - Final Boss & Ending \| Reverse: 1999 3.7 3rd Anniversary | BlazzerSora and BlazzerSora Gacha | ~165 | n/a | <https://www.youtube.com/watch?v=s2vE446oR6I> |
+| 6 h 38 min | On Another's Sorrow - FULL STORY - Final Boss & Ending \| Reverse: 1999 3.7 3rd Anniversary | BlazzerSora and BlazzerSora Gacha | 471 | 2026-08-21 | <https://www.youtube.com/watch?v=s2vE446oR6I> |
 | 7 h 04 min | REVERSE 1999 3.7 CHAPTER 13 ON ANOTHER'S SORROW FULL STORY | Equilibrium | 874 | 2026-08-17 | <https://www.youtube.com/watch?v=rIYXpecbNU8> |
 | 7 h 31 min | Reverse 1999 - Chapter 13: On Another's Sorrow | Funlazer741 VODS | 156 | 2026-08-14 | <https://www.youtube.com/watch?v=DiKK-IYPpVc> |
-| 7 h 36 min | We're not getting a happy ending, are we..? Chapter 13 "On Another's Sorrow" \| Reverse 1999 3.7 | HappyOwlTV | ~483 | n/a | <https://www.youtube.com/watch?v=rWgwWyGPZdQ> |
+| 7 h 36 min | We're not getting a happy ending, are we..? Chapter 13 "On Another's Sorrow" \| Reverse 1999 3.7 | HappyOwlTV | 520 | 2026-09-02 | <https://www.youtube.com/watch?v=rWgwWyGPZdQ> |
 | 8 h 11 min | On Another's Sorrow \| Reverse: 1999 \| Chapter 13 Full Story [4K] [No Commentary] | 八咫烏_Merui | 2,189 | 2026-08-25 | <https://www.youtube.com/watch?v=Ld7hpunk1fg> |
+| 8 h 11 min | Reverse: 1999; Chapter 13 - On Another's Sorrow [NO COMMENTARY] | Vilwyn | 4 | 2026-10-11 | <https://www.youtube.com/watch?v=zxtE_SBT5Pg> |
 | 8 h 34 min | On Another's Sorrow – Reverse: 1999 v3.7 – Chapter 13 \| Full Story | Homo Ludens | 715 | 2026-09-09 | <https://www.youtube.com/watch?v=pDPpTKNyFbA> |
 
 </details>

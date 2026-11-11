@@ -8389,14 +8389,15 @@
     ]
    },
    {
-    "seconds": 19396,
+    "seconds": 19395,
     "title": "A Flowing Feast | Reverse: 1999 3.2 | Full Story [4K] [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=s93bFYKMSsM",
-    "views": "14019",
+    "views": 15997,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260128"
    },
    {
     "seconds": 33,
@@ -8587,12 +8588,40 @@
     "upload_date": "20250920"
    },
    {
-    "seconds": 28409,
+    "seconds": 28408,
     "title": "\u3010Reverse: 1999\u3011Chapter 10 \"Paradise Regained\" Full Story [JP Dub]",
     "uploader": "Super Executive",
     "url": "https://www.youtube.com/watch?v=y_s24q-Q8eI",
-    "views": "717",
-    "rejected": []
+    "views": 765,
+    "rejected": [],
+    "upload_date": "20250921",
+    "runtime": 28408,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 1087,
+     "An Icy Road": 701,
+     "My Travel Companions": 952,
+     "Et tu, Brute?": 1894,
+     "Under Glaring Light": 835,
+     "The Worst Journey in the World": 879,
+     "The Fool and the High Priestess": 1182,
+     "The Call of the Wild": 607,
+     "Des pas sur la neige": 1390,
+     "Just Another Laplace Experiment": 2068,
+     "The Nine-Layered City": 1464,
+     "My Dear Siblings": 731,
+     "In the Mouth of Madness": 925,
+     "The Broken Land of Bliss": 1579,
+     "The Owl of Minerva": 1109,
+     "To a Skylark": 1305,
+     "Same Road, Different Destinations": 1185,
+     "The Weaving of Our Pasts": 924,
+     "The Way I Came": 1475,
+     "By Their Untainted Blood": 730,
+     "And Then Came the Savior": 2884,
+     "The Other Bank of the River": 894,
+     "Apocalypsis cum figuris": 575
+    }
    },
    {
     "seconds": 16981,
@@ -8647,9 +8676,156 @@
      "not-a-playthrough",
      "part-of-an-act"
     ]
+   },
+   {
+    "seconds": 247,
+    "title": "\"The Road Still Calls\" | Reverse: 1999 Chapter 10 OST | Battle Music 1 & Trailer Music",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=6so3-bE1qB0",
+    "views": "44108",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 293,
+    "title": "Version 1.4 Trailer - \"The Prisoner In The Cave\" | Reverse: 1999",
+    "uploader": "Reverse: 1999",
+    "url": "https://www.youtube.com/watch?v=R4LDzighnro",
+    "views": "143094",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 998,
+    "title": "Reverse: 1999 - Chapter 10 Part 24",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=HZL46kIBzX8",
+    "views": 260,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250921"
+   },
+   {
+    "seconds": 531,
+    "title": "Reverse: 1999 - Chapter 10 Part 25",
+    "uploader": "Reverse: 1999 Timekeeper",
+    "url": "https://www.youtube.com/watch?v=Pf2kIEaxjDw",
+    "views": "336",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 21271,
+    "title": "\u3010Reverse 1999\u3011Chapter 10: Paradise Regained - Story Collection",
+    "uploader": "Bjorkit",
+    "url": "https://www.youtube.com/watch?v=tm9-rTehZqY",
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20251121",
+    "runtime": 21871,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 840,
+     "An Icy Road": 632,
+     "My Travel Companions": 776,
+     "Et tu, Brute?": 1534,
+     "Under Glaring Light": 690,
+     "The Worst Journey in the World": 771,
+     "The Fool and the High Priestess": 798,
+     "The Call of the Wild": 536,
+     "Des pas sur la neige": 916,
+     "Just Another Laplace Experiment": 1345,
+     "The Nine-Layered City": 1251,
+     "My Dear Siblings": 645,
+     "In the Mouth of Madness": 803,
+     "The Broken Land of Bliss": 1423,
+     "The Owl of Minerva": 877,
+     "To a Skylark": 1028,
+     "Same Road, Different Destinations": 945,
+     "The Weaving of Our Pasts": 847,
+     "The Way I Came": 1254,
+     "By Their Untainted Blood": 500,
+     "And Then Came the Savior": 1699,
+     "The Other Bank of the River": 684,
+     "Apocalypsis cum figuris": 477
+    }
+   },
+   {
+    "seconds": 24586,
+    "title": "Reveese: 1999 - Story [Paradise Regained | Full Chapter]",
+    "uploader": "chooviiDiary",
+    "url": "https://www.youtube.com/watch?v=Gyy113DPY-o",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20250923"
+   },
+   {
+    "seconds": 12318,
+    "title": "Chapter 10 Paradise Regained Pt 1 | Reverse: 1999 Main Story Playthrough (11/24/2025)",
+    "uploader": "daniextralife",
+    "url": "https://www.youtube.com/watch?v=JLXcHQt14-s",
+    "views": 76,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20251127"
+   },
+   {
+    "seconds": 8413,
+    "title": "\u3010Reverse 1999\u3011 Main Story Ch 10 (Part 3) | Open the Gate",
+    "uploader": "Cutie Bunni",
+    "url": "https://www.youtube.com/watch?v=EHRukY0Mr34",
+    "views": 466,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260316"
    }
   ],
   "kept": [
+   {
+    "seconds": 21271,
+    "title": "\u3010Reverse 1999\u3011Chapter 10: Paradise Regained - Story Collection",
+    "uploader": "Bjorkit",
+    "url": "https://www.youtube.com/watch?v=tm9-rTehZqY",
+    "views": 20,
+    "rejected": [],
+    "upload_date": "20251121",
+    "runtime": 21871,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 840,
+     "An Icy Road": 632,
+     "My Travel Companions": 776,
+     "Et tu, Brute?": 1534,
+     "Under Glaring Light": 690,
+     "The Worst Journey in the World": 771,
+     "The Fool and the High Priestess": 798,
+     "The Call of the Wild": 536,
+     "Des pas sur la neige": 916,
+     "Just Another Laplace Experiment": 1345,
+     "The Nine-Layered City": 1251,
+     "My Dear Siblings": 645,
+     "In the Mouth of Madness": 803,
+     "The Broken Land of Bliss": 1423,
+     "The Owl of Minerva": 877,
+     "To a Skylark": 1028,
+     "Same Road, Different Destinations": 945,
+     "The Weaving of Our Pasts": 847,
+     "The Way I Came": 1254,
+     "By Their Untainted Blood": 500,
+     "And Then Came the Savior": 1699,
+     "The Other Bank of the River": 684,
+     "Apocalypsis cum figuris": 477
+    }
+   },
    {
     "seconds": 23300,
     "title": "Paradise Regained | Chapter 10 | Reverse: 1999 - Full Story",
@@ -8694,6 +8870,15 @@
     "views": 4149,
     "rejected": [],
     "upload_date": "20250922"
+   },
+   {
+    "seconds": 24586,
+    "title": "Reveese: 1999 - Story [Paradise Regained | Full Chapter]",
+    "uploader": "chooviiDiary",
+    "url": "https://www.youtube.com/watch?v=Gyy113DPY-o",
+    "views": 2,
+    "rejected": [],
+    "upload_date": "20250923"
    },
    {
     "seconds": 25145,
@@ -8816,12 +9001,40 @@
     }
    },
    {
-    "seconds": 28409,
+    "seconds": 28408,
     "title": "\u3010Reverse: 1999\u3011Chapter 10 \"Paradise Regained\" Full Story [JP Dub]",
     "uploader": "Super Executive",
     "url": "https://www.youtube.com/watch?v=y_s24q-Q8eI",
-    "views": "717",
-    "rejected": []
+    "views": 765,
+    "rejected": [],
+    "upload_date": "20250921",
+    "runtime": 28408,
+    "measured": "chapter-markers",
+    "parts": {
+     "The Rime of the Ancient Mariner": 1087,
+     "An Icy Road": 701,
+     "My Travel Companions": 952,
+     "Et tu, Brute?": 1894,
+     "Under Glaring Light": 835,
+     "The Worst Journey in the World": 879,
+     "The Fool and the High Priestess": 1182,
+     "The Call of the Wild": 607,
+     "Des pas sur la neige": 1390,
+     "Just Another Laplace Experiment": 2068,
+     "The Nine-Layered City": 1464,
+     "My Dear Siblings": 731,
+     "In the Mouth of Madness": 925,
+     "The Broken Land of Bliss": 1579,
+     "The Owl of Minerva": 1109,
+     "To a Skylark": 1305,
+     "Same Road, Different Destinations": 1185,
+     "The Weaving of Our Pasts": 924,
+     "The Way I Came": 1475,
+     "By Their Untainted Blood": 730,
+     "And Then Came the Savior": 2884,
+     "The Other Bank of the River": 894,
+     "Apocalypsis cum figuris": 575
+    }
    },
    {
     "seconds": 29559,
@@ -8843,19 +9056,19 @@
    }
   ],
   "stats": {
-   "n": 9,
-   "median": 436,
-   "low": 388,
+   "n": 11,
+   "median": 420,
+   "low": 355,
    "high": 630,
-   "q1": 410,
-   "q3": 483,
-   "trimmed_mean": 458,
-   "measured": 4,
+   "q1": 400,
+   "q3": 473,
+   "trimmed_mean": 433,
+   "measured": 6,
    "parts": {
     "The Rime of the Ancient Mariner": 18,
     "An Icy Road": 11,
     "My Travel Companions": 15,
-    "Et tu, Brute?": 12,
+    "Et tu, Brute?": 19,
     "Have a safe journey.": 19,
     "Under Glaring Light": 13,
     "The Worst Journey in the World": 13,
@@ -8877,7 +9090,7 @@
     "The Other Bank of the River": 14,
     "Apocalypsis cum figuris": 8
    },
-   "drift": -0.002
+   "drift": -0.039
   }
  },
  {
@@ -9138,14 +9351,15 @@
     }
    },
    {
-    "seconds": 1119,
+    "seconds": 1118,
     "title": "Reverse: 1999 - Chapter 11 Part 9",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=u4ljfyFqjoA",
-    "views": "584",
+    "views": 685,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251101"
    },
    {
     "seconds": 883,
@@ -9219,10 +9433,11 @@
     "title": "Dawn Rises over the Kill Zone | Reverse: 1999 - Sentinel's Character Story",
     "uploader": "Reverse: 1999 - Recap",
     "url": "https://www.youtube.com/watch?v=tAnk0NYH97s",
-    "views": "6",
+    "views": 11,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260607"
    },
    {
     "seconds": 33,
@@ -9262,10 +9477,11 @@
     "title": "Reverse: 1999 - Chapter 11 Part 1",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=yP9b2gcRiEc",
-    "views": "927",
+    "views": 1463,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20251101"
    },
    {
     "seconds": 5319,
@@ -9471,9 +9687,41 @@
     "title": "A Long Long Way pt 2\u3010Reverse:1999\u3011",
     "uploader": "Moki",
     "url": "https://www.youtube.com/watch?v=w0EIhsEGyeE",
-    "views": "1021",
+    "views": 1097,
     "rejected": [
      "fragment"
+    ],
+    "upload_date": "20260124"
+   },
+   {
+    "seconds": 14821,
+    "title": "Off to War | Reverse: 1999 Ch11 \"A Long Long Way\" PLAYTHROUGH P1",
+    "uploader": "Saerin",
+    "url": "https://www.youtube.com/watch?v=8mAB7d_umRI",
+    "views": 5822,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20251102"
+   },
+   {
+    "seconds": 120,
+    "title": "Version 3.0 EP - \"A Long Long Way\" | Reverse: 1999",
+    "uploader": "Reverse: 1999",
+    "url": "https://www.youtube.com/watch?v=wTd5ek036Jk",
+    "views": "33676",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 14255,
+    "title": "\ud83d\udd34LIVE! TIMEKEEPERS REJOICE!!!!!! STARTING CHAPTER 11 MAIN STORY!!! PULLS!! REACTION | Reverse: 1999",
+    "uploader": "agekk",
+    "url": "https://www.youtube.com/watch?v=B4kAKtDSix8",
+    "views": "4615",
+    "rejected": [
+     "not-a-playthrough"
     ]
    }
   ],
@@ -9831,10 +10079,11 @@
     "title": "Reverse: 1999 - Chapter 12 Part 24",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=vGaA50jLYas",
-    "views": "197",
+    "views": 233,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260308"
    },
    {
     "seconds": 1110,
@@ -9911,12 +10160,13 @@
     ]
    },
    {
-    "seconds": 22667,
+    "seconds": 22666,
     "title": "The Campaign's Tale - Full Story | Reverse: 1999",
     "uploader": "Villenthessis",
     "url": "https://www.youtube.com/watch?v=yU90XqRWoPo",
-    "views": "555",
-    "rejected": []
+    "views": 784,
+    "rejected": [],
+    "upload_date": "20260314"
    },
    {
     "seconds": 22491,
@@ -10034,14 +10284,15 @@
     ]
    },
    {
-    "seconds": 19396,
+    "seconds": 19395,
     "title": "A Flowing Feast | Reverse: 1999 3.2 | Full Story [4K] [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=s93bFYKMSsM",
-    "views": "14019",
+    "views": 15997,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260128"
    },
    {
     "seconds": 22817,
@@ -10055,14 +10306,15 @@
     "upload_date": "20251106"
    },
    {
-    "seconds": 20126,
+    "seconds": 20125,
     "title": "The Midnight Whistle | Reverse: 1999 3.1 | Full Story [4K] [No Commentary]",
     "uploader": "\u516b\u54ab\u70cf_Merui",
     "url": "https://www.youtube.com/watch?v=wP51ei8D1Ts",
-    "views": "12317",
+    "views": 15589,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20251218"
    },
    {
     "seconds": 31,
@@ -10314,14 +10566,15 @@
     "upload_date": "20260405"
    },
    {
-    "seconds": 11015,
+    "seconds": 11014,
     "title": "The War NEVER Ends | The Campaign's Tale (Part 1)\u3010Reverse: 1999\u3011",
     "uploader": "\ud835\udc2c\ud835\udc22\ud835\udc25\ud835\udc28. \ud83c\udf03\ud83d\udc08",
     "url": "https://www.youtube.com/watch?v=v2gfjrceMoU",
-    "views": "907",
+    "views": 949,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260321"
    },
    {
     "seconds": 10497,
@@ -10344,16 +10597,80 @@
      "fragment"
     ],
     "upload_date": "20260315"
+   },
+   {
+    "seconds": 9975,
+    "title": "The Campaign's Tale | Reverse: 1999 Chapter 12 Part 3 | Blind Playthrough",
+    "uploader": "Asuka7Isa",
+    "url": "https://www.youtube.com/watch?v=Z6BkHgk5L7w",
+    "views": 3,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261108"
+   },
+   {
+    "seconds": 28221,
+    "title": "Chapter 12 - The Campaign's Tale (Full Story) [Reverse 1999 Movie]",
+    "uploader": "happyduke99",
+    "url": "https://www.youtube.com/watch?v=yf3xiMaCKXk",
+    "views": "124",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 139,
+    "title": "\"Talk by the Riverside\" | Reverse: 1999 Chapter 12 OST | SAD PLOT MUSIC",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=zrH-uuHYhFk",
+    "views": "11412",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 242,
+    "title": "\"Hurtling Heroes\" | Reverse: 1999 Chapter 12 OST | BATTLE MUSIC",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=OC6Sq6rpWIk",
+    "views": "17040",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 30172,
+    "title": "On Another's Sorrow | Reverse: 1999 | Chapter 13 Full Story [4K] [No Commentary]",
+    "uploader": "\u516b\u54ab\u70cf_Merui",
+    "url": "https://www.youtube.com/watch?v=Ld7hpunk1fg",
+    "views": 2189,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260825"
+   },
+   {
+    "seconds": 55,
+    "title": "Wb vs wb splatter",
+    "uploader": "\ud835\udd8f\ud835\udd86\ud835\udd92\ud835\udd8e\ud835\udd8a \ud835\udd99\ud835\udd8c\ud835\udd92 \ud835\udff8",
+    "url": "https://www.youtube.com/watch?v=ZA5Uljo9ykM",
+    "views": "23977752",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
    }
   ],
   "kept": [
    {
-    "seconds": 22667,
+    "seconds": 22666,
     "title": "The Campaign's Tale - Full Story | Reverse: 1999",
     "uploader": "Villenthessis",
     "url": "https://www.youtube.com/watch?v=yU90XqRWoPo",
-    "views": "555",
-    "rejected": []
+    "views": 784,
+    "rejected": [],
+    "upload_date": "20260314"
    },
    {
     "seconds": 23202,
@@ -10553,14 +10870,15 @@
     ]
    },
    {
-    "seconds": 1134,
+    "seconds": 1133,
     "title": "Reverse: 1999 - Chapter 13 Part 23",
     "uploader": "Reverse: 1999 Timekeeper",
     "url": "https://www.youtube.com/watch?v=s-xnmMzbdws",
-    "views": "116",
+    "views": 272,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260815"
    },
    {
     "seconds": 14871,
@@ -10836,12 +11154,13 @@
     "upload_date": "20260817"
    },
    {
-    "seconds": 23880,
+    "seconds": 23879,
     "title": "On Another's Sorrow - FULL STORY - Final Boss & Ending | Reverse: 1999 3.7 3rd Anniversary",
     "uploader": "BlazzerSora and BlazzerSora Gacha",
     "url": "https://www.youtube.com/watch?v=s2vE446oR6I",
-    "views": "165",
-    "rejected": []
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 733,
@@ -10999,22 +11318,24 @@
     "upload_date": "20260825"
    },
    {
-    "seconds": 14473,
+    "seconds": 14472,
     "title": "\u3010REVERSE 1999\u3011On Another's Sorrow | The Roots of the Tale - Chapter 13",
     "uploader": "Mirai Shishiou VODS",
     "url": "https://www.youtube.com/watch?v=xP3dJgbePQw",
-    "views": "48",
-    "rejected": []
+    "views": 77,
+    "rejected": [],
+    "upload_date": "20260816"
    },
    {
-    "seconds": 6098,
+    "seconds": 6097,
     "title": "*NEW* The Baby in Yellow is SCARIER THAN EVER!! | The Baby in Yellow [Dark Whispers]",
     "uploader": "Forever Nenaa",
     "url": "https://www.youtube.com/watch?v=vQeHqrcPYMI",
-    "views": "3103785",
+    "views": 3185814,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20240829"
    },
    {
     "seconds": 9948,
@@ -11070,12 +11391,13 @@
     "upload_date": "20260909"
    },
    {
-    "seconds": 27352,
+    "seconds": 27351,
     "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
-    "views": "483",
-    "rejected": []
+    "views": 520,
+    "rejected": [],
+    "upload_date": "20260902"
    },
    {
     "seconds": 1255,
@@ -11129,16 +11451,37 @@
      "part-of-an-act"
     ],
     "upload_date": "20260815"
+   },
+   {
+    "seconds": 29442,
+    "title": "Reverse: 1999; Chapter 13 - On Another's Sorrow [NO COMMENTARY]",
+    "uploader": "Vilwyn",
+    "url": "https://www.youtube.com/watch?v=zxtE_SBT5Pg",
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20261011"
+   },
+   {
+    "seconds": 15023,
+    "title": "On Another's Sorrow | Reverse 1999 Main Storyline Chapter 13 | Part 2 | No Commentary",
+    "uploader": "NEON DEMON",
+    "url": "https://www.youtube.com/watch?v=8MAn2ELKuHA",
+    "views": 31,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260825"
    }
   ],
   "kept": [
    {
-    "seconds": 14473,
+    "seconds": 14472,
     "title": "\u3010REVERSE 1999\u3011On Another's Sorrow | The Roots of the Tale - Chapter 13",
     "uploader": "Mirai Shishiou VODS",
     "url": "https://www.youtube.com/watch?v=xP3dJgbePQw",
-    "views": "48",
-    "rejected": []
+    "views": 77,
+    "rejected": [],
+    "upload_date": "20260816"
    },
    {
     "seconds": 22125,
@@ -11150,12 +11493,13 @@
     "upload_date": "20260817"
    },
    {
-    "seconds": 23880,
+    "seconds": 23879,
     "title": "On Another's Sorrow - FULL STORY - Final Boss & Ending | Reverse: 1999 3.7 3rd Anniversary",
     "uploader": "BlazzerSora and BlazzerSora Gacha",
     "url": "https://www.youtube.com/watch?v=s2vE446oR6I",
-    "views": "165",
-    "rejected": []
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260821"
    },
    {
     "seconds": 25440,
@@ -11176,12 +11520,13 @@
     "upload_date": "20260814"
    },
    {
-    "seconds": 27352,
+    "seconds": 27351,
     "title": "We're not getting a happy ending, are we..? Chapter 13 \"On Another's Sorrow\" | Reverse 1999 3.7",
     "uploader": "HappyOwlTV",
     "url": "https://www.youtube.com/watch?v=rWgwWyGPZdQ",
-    "views": "483",
-    "rejected": []
+    "views": 520,
+    "rejected": [],
+    "upload_date": "20260902"
    },
    {
     "seconds": 29431,
@@ -11220,6 +11565,15 @@
     }
    },
    {
+    "seconds": 29442,
+    "title": "Reverse: 1999; Chapter 13 - On Another's Sorrow [NO COMMENTARY]",
+    "uploader": "Vilwyn",
+    "url": "https://www.youtube.com/watch?v=zxtE_SBT5Pg",
+    "views": 4,
+    "rejected": [],
+    "upload_date": "20261011"
+   },
+   {
     "seconds": 30816,
     "title": "On Another's Sorrow \u2013 Reverse: 1999 v3.7 \u2013 Chapter 13 | Full Story",
     "uploader": "Homo Ludens",
@@ -11230,16 +11584,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 437,
+   "n": 9,
+   "median": 451,
    "low": 241,
    "high": 514,
-   "q1": 376,
-   "q3": 482,
-   "trimmed_mean": 418,
+   "q1": 383,
+   "q3": 491,
+   "trimmed_mean": 426,
    "measured": 1,
    "parts": {},
-   "drift": -0.056
+   "drift": -0.026
   }
  }
 ]
