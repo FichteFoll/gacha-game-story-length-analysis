@@ -45,7 +45,7 @@
     "url": "https://www.youtube.com/watch?v=TGr1sP5pg4Q",
     "views": 25,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260123"
    },
@@ -296,11 +296,12 @@
     "title": "Arknights: Endfield 1.0 - Full Game Playthrough (Female MC)",
     "uploader": "Segiri",
     "url": "https://www.youtube.com/watch?v=wbbaHyumpoY",
-    "views": "4166",
+    "views": 6468,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260127"
    },
    {
     "seconds": 1971,
@@ -877,14 +878,15 @@
     "upload_date": "20260215"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 1408,
@@ -952,7 +954,7 @@
     "url": "https://www.youtube.com/watch?v=TGr1sP5pg4Q",
     "views": 25,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260123"
@@ -964,7 +966,7 @@
     "url": "https://www.youtube.com/watch?v=XrIMyS7SJr8",
     "views": 25,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260127"
@@ -988,7 +990,7 @@
     "url": "https://www.youtube.com/watch?v=_ot_UQZYTfA",
     "views": 33,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260125"
@@ -1760,14 +1762,15 @@
     ]
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 5400,
@@ -2246,14 +2249,15 @@
     "upload_date": "20260215"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 1608,
@@ -2303,10 +2307,11 @@
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
-    "views": "39514",
+    "views": 45752,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260417"
    },
    {
     "seconds": 1638,
@@ -2969,14 +2974,15 @@
     ]
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "28422",
+    "views": 40175,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260716"
    },
    {
     "seconds": 1408,
@@ -3513,6 +3519,7 @@
     "url": "https://www.youtube.com/watch?v=yqWSgs-2dg4",
     "views": "6",
     "rejected": [
+     "fragment",
      "act-mismatch"
     ]
    },
@@ -3600,14 +3607,15 @@
     "upload_date": "20260213"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 1826,
@@ -4291,7 +4299,7 @@
     "url": "https://www.youtube.com/watch?v=V3OspcVroAY",
     "views": 27,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260128"
@@ -4373,14 +4381,15 @@
     "upload_date": "20260124"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 1638,
@@ -4763,23 +4772,25 @@
   "slug": "ch2_Process_III",
   "candidates": [
    {
-    "seconds": 9829,
+    "seconds": 9828,
     "title": "The Long Feud - Chapter II - Process III (Full Main Story) | Arknights: Endfield 1.1",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=uI5xzcXjQVM",
-    "views": "9",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
     "seconds": 378,
     "title": "Ripples Spread Throughout the Flow Walkthrough | Arknights Endfield",
     "uploader": "CyberRogue Relax",
     "url": "https://www.youtube.com/watch?v=tv_l-u6U_78",
-    "views": "19",
+    "views": 24,
     "rejected": [
      "part-of-an-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260321"
    },
    {
     "seconds": 11997,
@@ -4870,14 +4881,15 @@
     "upload_date": "20260723"
    },
    {
-    "seconds": 1042,
+    "seconds": 1041,
     "title": "Arknights: Endfield Walkthrough Part 127 - Chapter 2: Process 3 - Twas One River That Gave Us Drink",
     "uploader": "MG PlayX",
     "url": "https://www.youtube.com/watch?v=uC2trRyxlhA",
-    "views": "31",
+    "views": 37,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260727"
    },
    {
     "seconds": 981,
@@ -4939,7 +4951,7 @@
     "url": "https://www.youtube.com/watch?v=F1DaW7JG8p4",
     "views": 66,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260322"
    },
@@ -4954,12 +4966,13 @@
     ]
    },
    {
-    "seconds": 10322,
+    "seconds": 10321,
     "title": "Arknights Endfield Version 1.1 Main Story Quest \"The Long Feud\"",
     "uploader": "Kuroakumoplaz",
     "url": "https://www.youtube.com/watch?v=rcyuv3vAXl4",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260316"
    },
    {
     "seconds": 9355,
@@ -4967,7 +4980,9 @@
     "uploader": "Buckii",
     "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
     "views": 25,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260323"
    },
    {
@@ -5105,14 +5120,15 @@
     "upload_date": "20260126"
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "28427",
+    "views": 40175,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260716"
    },
    {
     "seconds": 1346,
@@ -5145,44 +5161,61 @@
     ]
    },
    {
-    "seconds": 3796,
+    "seconds": 3795,
     "title": "The Long Feud FULL QUEST Arknights Endfield",
     "uploader": "WoW Quests",
     "url": "https://www.youtube.com/watch?v=m9dAR0nhXfc",
-    "views": "432",
+    "views": 510,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260312",
+    "runtime": 3795,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 437,
+     "Deep in the Mire": 219,
+     "The Flow Splits Course": 966,
+     "Surging From a Withered Spring": 615,
+     "A River Restless in Still Winds": 239,
+     "Another Wave Comes Crashing In": 339,
+     "Ripples Spread Throughout the Flow": 157,
+     "Purity Reveals the Stubborn Stone": 686,
+     "'Twas One River That Gave Us Drink": 137
+    }
    },
    {
     "seconds": 4717,
     "title": "Arknights: Endfield PC | The Long Feud Chapter 2 - Process VI Main Quest Gameplay",
     "uploader": "F2P",
     "url": "https://www.youtube.com/watch?v=aVS4ZwgSNS8",
-    "views": "32",
+    "views": 33,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260611"
    },
    {
-    "seconds": 3336,
+    "seconds": 3335,
     "title": "Arknights: Endfield PC | The Long Feud Chapter 2 - Process V Main Quest Gameplay",
     "uploader": "F2P",
     "url": "https://www.youtube.com/watch?v=a3kse4K7VDg",
-    "views": "20",
+    "views": 20,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260610"
    },
    {
-    "seconds": 1961,
+    "seconds": 1960,
     "title": "Arknights: Endfield PC | The Long Feud Chapter 3 - Process III Part 1 Gameplay",
     "uploader": "F2P",
     "url": "https://www.youtube.com/watch?v=54JybVijzJA",
-    "views": "14",
+    "views": 24,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260517"
    },
    {
     "seconds": 5388,
@@ -5196,49 +5229,195 @@
     "upload_date": "20260517"
    },
    {
-    "seconds": 5537,
+    "seconds": 5536,
     "title": "Arknights: Endfield PC | The Long Feud Chapter 3 - Process III (Part 2) Main Quest Gameplay",
     "uploader": "F2P",
     "url": "https://www.youtube.com/watch?v=pslVFzNK59Q",
-    "views": "17",
+    "views": 22,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260517"
    },
    {
     "seconds": 10891,
     "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 3: The Long Feud",
     "uploader": "Gelo Gaming",
     "url": "https://www.youtube.com/watch?v=9y8POvjfqOw",
-    "views": "7",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260725",
+    "runtime": 10891,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 886,
+     "Deep in the Mire": 968,
+     "The Flow Splits Course": 2450,
+     "Surging From a Withered Spring": 1479,
+     "A River Restless in Still Winds": 719,
+     "Another Wave Comes Crashing In": 1180,
+     "Ripples Spread Throughout the Flow": 402,
+     "Purity Reveals the Stubborn Stone": 1882,
+     "'Twas One River That Gave Us Drink": 925
+    }
+   },
+   {
+    "seconds": 9669,
+    "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process III - THE LONG FEUD  [ FULL STORY / NO COMMENTARY ]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=7U3rAK6oGsA",
+    "views": 36,
+    "rejected": [],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 14760,
+    "title": "Arknights Endfield | Chapter 2, Process 3 | The Long Feud (No Commentary)",
+    "uploader": "Mayovanimates",
+    "url": "https://www.youtube.com/watch?v=0y1vw1m5gxo",
+    "views": 158,
+    "rejected": [],
+    "upload_date": "20260426"
+   },
+   {
+    "seconds": 15726,
+    "title": "Arknights Endfield Chapter 2: The Long Feud ( Process 3 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=-LUE7DwxFpc",
+    "views": 465,
+    "rejected": [],
+    "upload_date": "20260320",
+    "runtime": 15726,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 815,
+     "Deep in the Mire": 1657,
+     "The Flow Splits Course": 5528,
+     "Surging From a Withered Spring": 1715,
+     "A River Restless in Still Winds": 761,
+     "Another Wave Comes Crashing In": 1318,
+     "Ripples Spread Throughout the Flow": 502,
+     "Purity Reveals the Stubborn Stone": 2323,
+     "'Twas One River That Gave Us Drink": 1107
+    }
+   },
+   {
+    "seconds": 10512,
+    "title": "Arknights Endfield - Day 67 (Chapter II: Process III - The Long Feud) No comment No cuts",
+    "uploader": "23Gameplays",
+    "url": "https://www.youtube.com/watch?v=juyUXWGfG9g",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260330"
+   },
+   {
+    "seconds": 11402,
+    "title": "FULL Chapter 2 - Process 3 \"The Long Feud\" | Arknights Endfield",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=lKhLh1ynthI",
+    "views": 390,
+    "rejected": [],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 11217,
+    "title": "Arknights Endfield 1.1 Main Story Quest | Chapter 2: Process 3 - Full Walkthrough (Female MC)",
+    "uploader": "QuestWatcher",
+    "url": "https://www.youtube.com/watch?v=6cVx8XUMN8s",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 10366,
+    "title": "Endfield Main Story Chapter 2: Process 3 Full Walkthrough | Arknights: Endfield 1.1",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=H1Gn2C2fEqs",
+    "views": 217,
+    "rejected": [],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 11748,
+    "title": "Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=NpPfm3--l6o",
+    "views": 5938,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 67278,
+    "title": "ARKNIGHTS: ENDFIELD - Full Game (No Commentary Gameplay)",
+    "uploader": "zLastSaint",
+    "url": "https://www.youtube.com/watch?v=GzONLWlJ1I8",
+    "views": 3744,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260128"
+   },
+   {
+    "seconds": 68379,
+    "title": "ARKNIGHTS: ENDFIELD Gameplay Walkthrough FULL GAME [4K 60FPS PS5 PRO] - No Commentary",
+    "uploader": "MKHeroAndZero",
+    "url": "https://www.youtube.com/watch?v=7DqZzvkrIXI",
+    "views": 1644,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260312"
    }
   ],
   "kept": [
    {
-    "seconds": 9355,
-    "title": "Arknights Endfield 1.1 - Main Story Quest The Long Feud Part 2 (complete)",
-    "uploader": "Buckii",
-    "url": "https://www.youtube.com/watch?v=OHq1AQiiFNo",
-    "views": 25,
+    "seconds": 9669,
+    "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process III - THE LONG FEUD  [ FULL STORY / NO COMMENTARY ]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=7U3rAK6oGsA",
+    "views": 36,
     "rejected": [],
-    "upload_date": "20260323"
+    "upload_date": "20260313"
    },
    {
-    "seconds": 9829,
+    "seconds": 9828,
     "title": "The Long Feud - Chapter II - Process III (Full Main Story) | Arknights: Endfield 1.1",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=uI5xzcXjQVM",
-    "views": "9",
-    "rejected": []
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20260319"
    },
    {
-    "seconds": 10322,
+    "seconds": 10321,
     "title": "Arknights Endfield Version 1.1 Main Story Quest \"The Long Feud\"",
     "uploader": "Kuroakumoplaz",
     "url": "https://www.youtube.com/watch?v=rcyuv3vAXl4",
-    "views": "28",
-    "rejected": []
+    "views": 28,
+    "rejected": [],
+    "upload_date": "20260316"
+   },
+   {
+    "seconds": 10366,
+    "title": "Endfield Main Story Chapter 2: Process 3 Full Walkthrough | Arknights: Endfield 1.1",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=H1Gn2C2fEqs",
+    "views": 217,
+    "rejected": [],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 10512,
+    "title": "Arknights Endfield - Day 67 (Chapter II: Process III - The Long Feud) No comment No cuts",
+    "uploader": "23Gameplays",
+    "url": "https://www.youtube.com/watch?v=juyUXWGfG9g",
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260330"
    },
    {
     "seconds": 10568,
@@ -5298,8 +5477,22 @@
     "title": "[Arknights: Endfield - Main Mission] Chapter 2 Process 3: The Long Feud",
     "uploader": "Gelo Gaming",
     "url": "https://www.youtube.com/watch?v=9y8POvjfqOw",
-    "views": "7",
-    "rejected": []
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260725",
+    "runtime": 10891,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 886,
+     "Deep in the Mire": 968,
+     "The Flow Splits Course": 2450,
+     "Surging From a Withered Spring": 1479,
+     "A River Restless in Still Winds": 719,
+     "Another Wave Comes Crashing In": 1180,
+     "Ripples Spread Throughout the Flow": 402,
+     "Purity Reveals the Stubborn Stone": 1882,
+     "'Twas One River That Gave Us Drink": 925
+    }
    },
    {
     "seconds": 11011,
@@ -5322,6 +5515,24 @@
      "Purity Reveals the Stubborn Stone": 1889,
      "'Twas One River That Gave Us Drink": 1026
     }
+   },
+   {
+    "seconds": 11217,
+    "title": "Arknights Endfield 1.1 Main Story Quest | Chapter 2: Process 3 - Full Walkthrough (Female MC)",
+    "uploader": "QuestWatcher",
+    "url": "https://www.youtube.com/watch?v=6cVx8XUMN8s",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 11402,
+    "title": "FULL Chapter 2 - Process 3 \"The Long Feud\" | Arknights Endfield",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=lKhLh1ynthI",
+    "views": 390,
+    "rejected": [],
+    "upload_date": "20260313"
    },
    {
     "seconds": 11997,
@@ -5367,29 +5578,60 @@
     "views": 14283,
     "rejected": [],
     "upload_date": "20260319"
+   },
+   {
+    "seconds": 14760,
+    "title": "Arknights Endfield | Chapter 2, Process 3 | The Long Feud (No Commentary)",
+    "uploader": "Mayovanimates",
+    "url": "https://www.youtube.com/watch?v=0y1vw1m5gxo",
+    "views": 158,
+    "rejected": [],
+    "upload_date": "20260426"
+   },
+   {
+    "seconds": 15726,
+    "title": "Arknights Endfield Chapter 2: The Long Feud ( Process 3 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=-LUE7DwxFpc",
+    "views": 465,
+    "rejected": [],
+    "upload_date": "20260320",
+    "runtime": 15726,
+    "measured": "chapter-markers",
+    "parts": {
+     "Unexpected Attack": 815,
+     "Deep in the Mire": 1657,
+     "The Flow Splits Course": 5528,
+     "Surging From a Withered Spring": 1715,
+     "A River Restless in Still Winds": 761,
+     "Another Wave Comes Crashing In": 1318,
+     "Ripples Spread Throughout the Flow": 502,
+     "Purity Reveals the Stubborn Stone": 2323,
+     "'Twas One River That Gave Us Drink": 1107
+    }
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 182,
-   "low": 156,
-   "high": 209,
-   "q1": 174,
-   "q3": 202,
-   "trimmed_mean": 186,
-   "measured": 3,
+   "n": 19,
+   "median": 184,
+   "low": 161,
+   "high": 262,
+   "q1": 175,
+   "q3": 203,
+   "trimmed_mean": 190,
+   "measured": 5,
    "parts": {
-    "Unexpected Attack": 11,
+    "Unexpected Attack": 12,
     "Deep in the Mire": 18,
     "The Flow Splits Course": 41,
-    "Surging From a Withered Spring": 24,
-    "A River Restless in Still Winds": 11,
+    "Surging From a Withered Spring": 25,
+    "A River Restless in Still Winds": 12,
     "Another Wave Comes Crashing In": 18,
-    "Ripples Spread Throughout the Flow": 6,
+    "Ripples Spread Throughout the Flow": 7,
     "Purity Reveals the Stubborn Stone": 31,
     "'Twas One River That Gave Us Drink": 18
    },
-   "drift": 0.034
+   "drift": 0.045
   }
  },
  {
@@ -5478,14 +5720,15 @@
     "upload_date": "20260417"
    },
    {
-    "seconds": 2167,
+    "seconds": 2166,
     "title": "Arknights Endfield | Ch 2 Process 4 Final |  Tales of Old Final Gameplay(21)",
     "uploader": "Pallob Gaming",
     "url": "https://www.youtube.com/watch?v=ttFwTPB5xMw",
-    "views": "4",
+    "views": 4,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260705"
    },
    {
     "seconds": 1054,
@@ -5504,10 +5747,11 @@
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
-    "views": "39507",
+    "views": 45752,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260417"
    },
    {
     "seconds": 5567,
@@ -5532,10 +5776,11 @@
     "title": "[Arknights: Endfield 1.4] Chapter 2: Process 7 - Ruins in the Miasma | Full Story Playthrough",
     "uploader": "EllooTV",
     "url": "https://www.youtube.com/watch?v=sEzj1YleZl0",
-    "views": "15",
+    "views": 16,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260718"
    },
    {
     "seconds": 11603,
@@ -5544,7 +5789,7 @@
     "url": "https://www.youtube.com/watch?v=2H6MW5bC3iM",
     "views": 67,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260425"
    },
@@ -5572,14 +5817,15 @@
     "upload_date": "20260419"
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "28422",
+    "views": 40175,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260716"
    },
    {
     "seconds": 11905,
@@ -5588,7 +5834,7 @@
     "url": "https://www.youtube.com/watch?v=HYFoVA7p6ag",
     "views": 84,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260426"
    },
@@ -5608,7 +5854,7 @@
     "url": "https://www.youtube.com/watch?v=QAnPKS0VP6Y",
     "views": 11,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260421"
@@ -5637,14 +5883,15 @@
     "upload_date": "20260319"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "10656",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
     "seconds": 40197,
@@ -5733,7 +5980,7 @@
     "url": "https://www.youtube.com/watch?v=RmfXuX-q5lo",
     "views": 4647,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260417"
@@ -5743,16 +5990,18 @@
     "title": "Endfield Main Story Chapter 2: Process 4 Tales of Old Full Walkthrough | Arknights: Endfield 1.2",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=jkrnqY7yJuw",
-    "views": "538",
-    "rejected": []
+    "views": 657,
+    "rejected": [],
+    "upload_date": "20260417"
    },
    {
-    "seconds": 8788,
+    "seconds": 8787,
     "title": "Arknights: Endfield 1.2 Main Story Chapter 2: Process 4 Tales of Old \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e01 \u0e15\u0e33\u0e19\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32\u0e41\u0e01\u0e48",
     "uploader": "Eynther",
     "url": "https://www.youtube.com/watch?v=m8C_LOfDYEY",
-    "views": "33",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20260514"
    },
    {
     "seconds": 9723,
@@ -5761,7 +6010,7 @@
     "url": "https://www.youtube.com/watch?v=NKgahvn0_BI",
     "views": 8,
     "rejected": [
-     "part-of-an-act",
+     "fragment",
      "act-mismatch"
     ],
     "upload_date": "20260422"
@@ -5809,14 +6058,15 @@
     "upload_date": "20260515"
    },
    {
-    "seconds": 1594,
+    "seconds": 1593,
     "title": "The Old Man and the Tide (1) - Full | Exploration Mission | Wuling | Arknights: Endfield",
     "uploader": "PlayZero Gaming ",
     "url": "https://www.youtube.com/watch?v=F6Tlwr8f4r8",
-    "views": "111",
+    "views": 129,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260422"
    },
    {
     "seconds": 14418,
@@ -5829,14 +6079,211 @@
     ]
    },
    {
-    "seconds": 411,
+    "seconds": 410,
     "title": "Dusty Old Story FULL QUEST VOICED Arknights Endfield",
     "uploader": "WafuPlaysGames",
     "url": "https://www.youtube.com/watch?v=PyG03C925vQ",
-    "views": "6",
+    "views": 6,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260618"
+   },
+   {
+    "seconds": 11748,
+    "title": "Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=NpPfm3--l6o",
+    "views": 5938,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 1611,
+    "title": "Main Quest - A Lethal Invitation Walkthrough | Arknights Endfield",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=Cyqud1NgSmM",
+    "views": 301,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 10213,
+    "title": "Arknights: Enfield Version 1.2 - Full Main Story Quest Act- IV, V",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=JXr_R2ZgWxM",
+    "views": 129,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 11043,
+    "title": "Arknights Endfield Version 1.6 Main Story Quest Full Gameplay",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=--iuCJUvi3k",
+    "views": 95,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 7307,
+    "title": "Arknights Endfield Chapter 2: Tales of Old ( Process 4 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=vXM8cY3hCwU",
+    "views": 541,
+    "rejected": [],
+    "upload_date": "20260502",
+    "runtime": 7307,
+    "measured": "chapter-markers",
+    "parts": {
+     "Like Fire and Ice": 2190,
+     "A Lethal Invitation": 1483,
+     "Phantom Wisps": 1910,
+     "Awaiting Thine Coming": 773,
+     "Free Will": 951
+    }
+   },
+   {
+    "seconds": 1203,
+    "title": "Arknights: Endfield Walkthrough Part 160 - Chapter 2: Process 4 - A Lethal Invitation (No Comment)",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=3VV5MpEovgw",
+    "views": 57,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261001"
+   },
+   {
+    "seconds": 1063,
+    "title": "Arknights: Endfield Walkthrough Part 163 - Chapter 2: Process 4 - Free Will (No Comment)",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=4PXIJZguPg4",
+    "views": 58,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261005"
+   },
+   {
+    "seconds": 14760,
+    "title": "Arknights Endfield | Chapter 2, Process 3 | The Long Feud (No Commentary)",
+    "uploader": "Mayovanimates",
+    "url": "https://www.youtube.com/watch?v=0y1vw1m5gxo",
+    "views": 158,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260426"
+   },
+   {
+    "seconds": 1431,
+    "title": "Arknights: Endfield Walkthrough Part 159 - Chapter 2: Process 4 - Like Fire and Ice (No Commentary)",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=MGUBXMzDEIg",
+    "views": 47,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 10366,
+    "title": "Endfield Main Story Chapter 2: Process 3 Full Walkthrough | Arknights: Endfield 1.1",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=H1Gn2C2fEqs",
+    "views": 217,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 5396,
+    "title": "Endfield Main Quest Chapter 2: Process 6 Ponderous Load Full Walkthrough | Arknights: Endfield 1.2",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=y5e0gaf17gs",
+    "views": 1082,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
+   },
+   {
+    "seconds": 1454,
+    "title": "Arknights Endfield: Main Mission Chapter 2 Process 2 Ready the Easterlies - Playthrough 4K",
+    "uploader": "Prunalaul",
+    "url": "https://www.youtube.com/watch?v=Y23Z-lJngnQ",
+    "views": 479,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260324"
+   },
+   {
+    "seconds": 10066,
+    "title": "Arknights Endfield 1.2 | Main Story Quest Full Walkthrough [JP Dub] No Commentary",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=Aq5yQ3D5124",
+    "views": 537,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 8114,
+    "title": "Arknights Endfield 1.2 full Story Quest Part 1",
+    "uploader": "Nine's Own Wish ",
+    "url": "https://www.youtube.com/watch?v=SN2-zs1onwg",
+    "views": 94,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 4996,
+    "title": "Arknights Endfield | V1.2 Main Story:  Tales Of Old | Part 1 | Full Playthrough #arknightsendfield",
+    "uploader": "KallaTheYapper ",
+    "url": "https://www.youtube.com/watch?v=A6mBQpeTj2Q",
+    "views": 101,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260525"
+   },
+   {
+    "seconds": 1200,
+    "title": "Arknights Endfield | V1.2 Main Story:  Tales Of Old | Part 2 | Full Playthrough #arknightsendfield",
+    "uploader": "KallaTheYapper ",
+    "url": "https://www.youtube.com/watch?v=w9p0pseeUd0",
+    "views": 39,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260526"
+   },
+   {
+    "seconds": 14269,
+    "title": "Arknights Endfield 1.2 Full Main Quest",
+    "uploader": "Vinster",
+    "url": "https://www.youtube.com/watch?v=3ZEkvUXpmV4",
+    "views": 43,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
    }
   ],
   "kept": [
@@ -5866,8 +6313,9 @@
     "title": "Endfield Main Story Chapter 2: Process 4 Tales of Old Full Walkthrough | Arknights: Endfield 1.2",
     "uploader": "Akabirama",
     "url": "https://www.youtube.com/watch?v=jkrnqY7yJuw",
-    "views": "538",
-    "rejected": []
+    "views": 657,
+    "rejected": [],
+    "upload_date": "20260417"
    },
    {
     "seconds": 5192,
@@ -5966,6 +6414,24 @@
     "parts": {}
    },
    {
+    "seconds": 7307,
+    "title": "Arknights Endfield Chapter 2: Tales of Old ( Process 4 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=vXM8cY3hCwU",
+    "views": 541,
+    "rejected": [],
+    "upload_date": "20260502",
+    "runtime": 7307,
+    "measured": "chapter-markers",
+    "parts": {
+     "Like Fire and Ice": 2190,
+     "A Lethal Invitation": 1483,
+     "Phantom Wisps": 1910,
+     "Awaiting Thine Coming": 773,
+     "Free Will": 951
+    }
+   },
+   {
     "seconds": 7826,
     "title": "Arknights Endfield | Chapter 2, Process 4 | Tales Of Old (No Commentary)",
     "uploader": "Mayovanimates",
@@ -5975,24 +6441,31 @@
     "upload_date": "20260504"
    },
    {
-    "seconds": 8788,
+    "seconds": 8787,
     "title": "Arknights: Endfield 1.2 Main Story Chapter 2: Process 4 Tales of Old \u0e40\u0e19\u0e37\u0e49\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e2b\u0e25\u0e31\u0e01 \u0e15\u0e33\u0e19\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32\u0e41\u0e01\u0e48",
     "uploader": "Eynther",
     "url": "https://www.youtube.com/watch?v=m8C_LOfDYEY",
-    "views": "33",
-    "rejected": []
+    "views": 33,
+    "rejected": [],
+    "upload_date": "20260514"
    }
   ],
   "stats": {
-   "n": 13,
+   "n": 14,
    "median": 100,
    "low": 79,
    "high": 146,
-   "q1": 85,
-   "q3": 110,
-   "trimmed_mean": 99,
-   "measured": 5,
-   "parts": {},
+   "q1": 86,
+   "q3": 117,
+   "trimmed_mean": 101,
+   "measured": 6,
+   "parts": {
+    "Like Fire and Ice": 24,
+    "A Lethal Invitation": 23,
+    "Phantom Wisps": 27,
+    "Awaiting Thine Coming": 12,
+    "Free Will": 16
+   },
    "drift": 0.0
   }
  },
@@ -6137,8 +6610,9 @@
     "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process V - WROTHFUL TIDE  [ FULL STORY / NO COMMENTARY ]",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=jSN-UIG7fy4",
-    "views": "37",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260419"
    },
    {
     "seconds": 4780,
@@ -6260,14 +6734,15 @@
     "upload_date": "20260417"
    },
    {
-    "seconds": 11288,
+    "seconds": 11287,
     "title": "Arknights Endfield 1.2 Main Story Chapter 2 Process 5 Wrothful Tide \u0e01\u0e23\u0e30\u0e41\u0e2a\u0e42\u0e01\u0e23\u0e18\u0e40\u0e01\u0e23\u0e35\u0e49\u0e22\u0e27 \u0e40\u0e21\u0e37\u0e48\u0e2d\u0e04\u0e25\u0e37\u0e48\u0e19\u0e41\u0e25\u0e30\u0e25\u0e21",
     "uploader": "Eynther",
     "url": "https://www.youtube.com/watch?v=vYSmWU0pvY4",
-    "views": "46",
+    "views": 46,
     "rejected": [
      "long-outlier"
-    ]
+    ],
+    "upload_date": "20260604"
    },
    {
     "seconds": 5974,
@@ -6296,10 +6771,11 @@
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
-    "views": "39508",
+    "views": 45752,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260417"
    },
    {
     "seconds": 5140,
@@ -6317,10 +6793,11 @@
     "title": "Visitor from the Band II (Full Side-Story) | Arknights: Endfield 1.2",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=vfWb_5FtzGo",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260530"
    },
    {
     "seconds": 5316,
@@ -6354,10 +6831,11 @@
     "title": "[Arknights: Endfield | Main Mission] Chapter 2 Process 5 Part 2: Tremors of the Crashing Tide",
     "uploader": "Gelo Gaming",
     "url": "https://www.youtube.com/watch?v=tIaPULNymIc",
-    "views": "2",
+    "views": 28,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260822"
    },
    {
     "seconds": 3976,
@@ -6369,14 +6847,168 @@
     "upload_date": "20260708"
    },
    {
-    "seconds": 374,
+    "seconds": 373,
     "title": "[Arknights: Endfield | Main Mission] Chapter 2 Process 5 Part 1: Thus Rise the Wave and Wind",
     "uploader": "Gelo Gaming",
     "url": "https://www.youtube.com/watch?v=SgVSoUL1MAg",
-    "views": "2",
+    "views": 11,
     "rejected": [
      "part-of-an-act"
+    ],
+    "upload_date": "20260820"
+   },
+   {
+    "seconds": 17242,
+    "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
+    "views": 40175,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260716"
+   },
+   {
+    "seconds": 11748,
+    "title": "Arknights Endfield 1.6 - New Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=NpPfm3--l6o",
+    "views": 5938,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 61665,
+    "title": "Arknights Endfield - Full Game Gameplay Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=ORNaegEfhL4",
+    "views": 218367,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260126"
+   },
+   {
+    "seconds": 40197,
+    "title": "Arknights Endfield \u2013 Full Chapter 1 Story CBT2",
+    "uploader": "NaruVT",
+    "url": "https://www.youtube.com/watch?v=PpCISl3JrQc",
+    "views": 6548,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20251203"
+   },
+   {
+    "seconds": 2633,
+    "title": "Chapter 2 Process 5 Wrothful Tide | Full storyline & cutscenes | Arknights: Endfield",
+    "uploader": "Gaming Archive",
+    "url": "https://www.youtube.com/watch?v=D31_Ccpoz7c",
+    "views": "189",
+    "rejected": [
+     "not-a-playthrough"
     ]
+   },
+   {
+    "seconds": 1968,
+    "title": "Arknights: Endfield Walkthrough Part 166 - Chapter 2: Process 5 - Tremors of the Crashing Tide",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=0RLG7DHR9jI",
+    "views": 51,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261009"
+   },
+   {
+    "seconds": 10366,
+    "title": "Endfield Main Story Chapter 2: Process 3 Full Walkthrough | Arknights: Endfield 1.1",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=H1Gn2C2fEqs",
+    "views": 217,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260313"
+   },
+   {
+    "seconds": 279,
+    "title": "Arknights: Endfield Walkthrough Part 165 - Chapter 2: Process 5 - Thus Rise the Wave and Wind",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=3WzsNFXdNSM",
+    "views": 34,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261008"
+   },
+   {
+    "seconds": 10066,
+    "title": "Arknights Endfield 1.2 | Main Story Quest Full Walkthrough [JP Dub] No Commentary",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=Aq5yQ3D5124",
+    "views": 537,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 3820,
+    "title": "Chapter 2 - Process 5 \"Wrothful Tide\" | Arknights Endfield v1.2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=a5rTyG9_U8E",
+    "views": 59,
+    "rejected": [],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 704,
+    "title": "Neferit Full Boss Fight Chapter 2: Process 5 Wrothful Tide | Arknights: Endfield 1.2",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=YEUaom_KVM8",
+    "views": 233,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 7973,
+    "title": "Arknights: Endfield Main Story \u2013 Chapter 2 Process 1 Walkthrough | Wuling (JP Dub)",
+    "uploader": "Mikiyuki",
+    "url": "https://www.youtube.com/watch?v=UdeYiHQCNHI",
+    "views": 278,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260130"
+   },
+   {
+    "seconds": 15200,
+    "title": "Arknights: Endfield 1.2 - Full New Story Quest Playthrough | Zhuang Fangyi Story (Female MC)",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=uxskXzgmQfM",
+    "views": 5020,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260417"
+   },
+   {
+    "seconds": 15846,
+    "title": "Arknights: Endfield Version 1.2 \u2013 Main Quest Gameplay (Japanese Dub) [4K]",
+    "uploader": "KweeGaming",
+    "url": "https://www.youtube.com/watch?v=v9VhWiJhxuM",
+    "views": 148,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260418"
    }
   ],
   "kept": [
@@ -6453,8 +7085,18 @@
     "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process V - WROTHFUL TIDE  [ FULL STORY / NO COMMENTARY ]",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=jSN-UIG7fy4",
-    "views": "37",
-    "rejected": []
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20260419"
+   },
+   {
+    "seconds": 3820,
+    "title": "Chapter 2 - Process 5 \"Wrothful Tide\" | Arknights Endfield v1.2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=a5rTyG9_U8E",
+    "views": 59,
+    "rejected": [],
+    "upload_date": "20260419"
    },
    {
     "seconds": 3866,
@@ -6546,7 +7188,7 @@
    }
   ],
   "stats": {
-   "n": 15,
+   "n": 16,
    "median": 64,
    "low": 53,
    "high": 80,
@@ -6571,12 +7213,13 @@
   "slug": "ch2_Process_VI",
   "candidates": [
    {
-    "seconds": 5514,
+    "seconds": 5513,
     "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process VI - PONDEROUS LOAD [ FULL STORY / NO COMMENTARY ]",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=x0iWUP45Jcc",
-    "views": "28",
-    "rejected": []
+    "views": 31,
+    "rejected": [],
+    "upload_date": "20260421"
    },
    {
     "seconds": 5466,
@@ -6619,12 +7262,13 @@
     "upload_date": "20260423"
    },
    {
-    "seconds": 5710,
+    "seconds": 5709,
     "title": "Arknights: Endfield | Ep33 | Chapter 2: Process 6 - Ponderous Load",
     "uploader": "ZeroNemeziz",
     "url": "https://www.youtube.com/watch?v=zTAKjlh0RMc",
-    "views": "40",
-    "rejected": []
+    "views": 52,
+    "rejected": [],
+    "upload_date": "20260418"
    },
    {
     "seconds": 5878,
@@ -6792,7 +7436,7 @@
     "url": "https://www.youtube.com/watch?v=35Cse4hUhAg",
     "views": 5,
     "rejected": [
-     "same-uploader"
+     "fragment"
     ],
     "upload_date": "20260426"
    },
@@ -6801,8 +7445,9 @@
     "title": "Arknights Endfield Chapter 2: Ponderous Load ( Process 6 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=zdZH3SjQhLY",
-    "views": "224",
-    "rejected": []
+    "views": 423,
+    "rejected": [],
+    "upload_date": "20260512"
    },
    {
     "seconds": 6118,
@@ -6862,10 +7507,11 @@
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
-    "views": "39507",
+    "views": 45752,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260417"
    },
    {
     "seconds": 2462,
@@ -6894,10 +7540,11 @@
     "title": "Visitor from the Band II (Full Side-Story) | Arknights: Endfield 1.2",
     "uploader": "Sir Patty",
     "url": "https://www.youtube.com/watch?v=vfWb_5FtzGo",
-    "views": "7",
+    "views": 7,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260530"
    },
    {
     "seconds": 5581,
@@ -6916,7 +7563,9 @@
     "uploader": "Redyu2",
     "url": "https://www.youtube.com/watch?v=nX4CNPLYnnY",
     "views": 4,
-    "rejected": [],
+    "rejected": [
+     "multi-act"
+    ],
     "upload_date": "20260525"
    },
    {
@@ -6924,8 +7573,11 @@
     "title": "Endfield - Ponderous Load - Chapter II - Process VI - just cleaning my shit in wuling",
     "uploader": "JAIBA",
     "url": "https://www.youtube.com/watch?v=p7PW50qB7CA",
-    "views": "1",
-    "rejected": []
+    "views": 1,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20260430"
    },
    {
     "seconds": 3407,
@@ -6934,20 +7586,89 @@
     "url": "https://www.youtube.com/watch?v=UF5RRueHqqk",
     "views": 1,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260504"
+   },
+   {
+    "seconds": 963,
+    "title": "Arknights: Endfield Walkthrough Part 182 - Chapter 2: Process 6 - Forged at the Very Beginning",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=jR6EWVQPpgc",
+    "views": 31,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261101"
+   },
+   {
+    "seconds": 1186,
+    "title": "Arknights: Endfield Walkthrough Part 181 - Chapter 2: Process 6 - Patience Makes Greatness",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=em1YJxLuwcM",
+    "views": 39,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261030"
+   },
+   {
+    "seconds": 14122,
+    "title": "Arknights: Endfield - Full Chapter 2  \u2013 Process 1-2 Playthrough (Female MC)",
+    "uploader": "Segiri",
+    "url": "https://www.youtube.com/watch?v=DgOBKx9Dx5s",
+    "views": 3161,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260124"
+   },
+   {
+    "seconds": 4463,
+    "title": "Arknights Endfield PS5 update 1.2 Part 29 Chapter 2 Process 5 Gameplay Walkthrough All Cutscenes",
+    "uploader": "Refia Quest",
+    "url": "https://www.youtube.com/watch?v=GOzBl3kbH8A",
+    "views": "115",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5673,
+    "title": "Arknights Endfield PS5 Update 1.2 Part 28 Chapter 2 Process 4 Gameplay Walkthrough All Cutscenes",
+    "uploader": "Refia Quest",
+    "url": "https://www.youtube.com/watch?v=d6J4iecgwsY",
+    "views": "116",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 5880,
+    "title": "Arknights: Endfield 1.2 Walkthrough PART 18 - Chapter 2 Process 6 - Ponderous Load (PS5 1440p)",
+    "uploader": "Gaming Reviving",
+    "url": "https://www.youtube.com/watch?v=0gQ1Xn1yGs8",
+    "views": 260,
+    "rejected": [],
+    "upload_date": "20260421"
+   },
+   {
+    "seconds": 4131,
+    "title": "[JP Dub/Eng Sub] Arknight: Endfield 1.2 | Main Quest Vol 2 Chapter 6:  Ponderous Load (Cutscene)  4K",
+    "uploader": "FOR GAMEZZ",
+    "url": "https://www.youtube.com/watch?v=a6CtU5y0YFo",
+    "views": "20",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
-   {
-    "seconds": 3472,
-    "title": "Endfield - Ponderous Load - Chapter II - Process VI - just cleaning my shit in wuling",
-    "uploader": "JAIBA",
-    "url": "https://www.youtube.com/watch?v=p7PW50qB7CA",
-    "views": "1",
-    "rejected": []
-   },
    {
     "seconds": 5140,
     "title": "Ponderous Load - Chapter II: Process VI (Full Main Story) | Arknights: Endfield 1.2",
@@ -6996,12 +7717,13 @@
     "parts": {}
    },
    {
-    "seconds": 5514,
+    "seconds": 5513,
     "title": "[ ARKNIGHTS: ENDFIELD ] Chapter II: Process VI - PONDEROUS LOAD [ FULL STORY / NO COMMENTARY ]",
     "uploader": "Uranium Tea Gaming",
     "url": "https://www.youtube.com/watch?v=x0iWUP45Jcc",
-    "views": "28",
-    "rejected": []
+    "views": 31,
+    "rejected": [],
+    "upload_date": "20260421"
    },
    {
     "seconds": 5650,
@@ -7020,12 +7742,13 @@
     }
    },
    {
-    "seconds": 5710,
+    "seconds": 5709,
     "title": "Arknights: Endfield | Ep33 | Chapter 2: Process 6 - Ponderous Load",
     "uploader": "ZeroNemeziz",
     "url": "https://www.youtube.com/watch?v=zTAKjlh0RMc",
-    "views": "40",
-    "rejected": []
+    "views": 52,
+    "rejected": [],
+    "upload_date": "20260418"
    },
    {
     "seconds": 5874,
@@ -7055,12 +7778,22 @@
     "upload_date": "20260705"
    },
    {
+    "seconds": 5880,
+    "title": "Arknights: Endfield 1.2 Walkthrough PART 18 - Chapter 2 Process 6 - Ponderous Load (PS5 1440p)",
+    "uploader": "Gaming Reviving",
+    "url": "https://www.youtube.com/watch?v=0gQ1Xn1yGs8",
+    "views": 260,
+    "rejected": [],
+    "upload_date": "20260421"
+   },
+   {
     "seconds": 5897,
     "title": "Arknights Endfield Chapter 2: Ponderous Load ( Process 6 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=zdZH3SjQhLY",
-    "views": "224",
-    "rejected": []
+    "views": 423,
+    "rejected": [],
+    "upload_date": "20260512"
    },
    {
     "seconds": 5946,
@@ -7094,28 +7827,19 @@
     "views": 90,
     "rejected": [],
     "upload_date": "20260423"
-   },
-   {
-    "seconds": 7523,
-    "title": "Arknights Endfield ver. 1.2 - Chapter II Process VI Ponderous Load & Wrothful Tide",
-    "uploader": "Redyu2",
-    "url": "https://www.youtube.com/watch?v=nX4CNPLYnnY",
-    "views": 4,
-    "rejected": [],
-    "upload_date": "20260525"
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 97,
-   "low": 58,
-   "high": 125,
-   "q1": 90,
-   "q3": 99,
-   "trimmed_mean": 95,
+   "n": 15,
+   "median": 98,
+   "low": 86,
+   "high": 102,
+   "q1": 91,
+   "q3": 98,
+   "trimmed_mean": 96,
    "measured": 5,
    "parts": {},
-   "drift": 0.021
+   "drift": 0.032
   }
  },
  {
@@ -7167,28 +7891,43 @@
     "upload_date": "20260721"
    },
    {
-    "seconds": 16792,
+    "seconds": 16791,
     "title": "Arknights Endfield - Day 199 (Chapter II: Process VII - Ruins in the Miasma) No comment No cuts",
     "uploader": "23Gameplays",
     "url": "https://www.youtube.com/watch?v=z9JQfSOzX1w",
-    "views": "4",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 15874,
     "title": "[Arknights: Endfield 1.4] Chapter 2: Process 7 - Ruins in the Miasma | Full Story Playthrough",
     "uploader": "EllooTV",
     "url": "https://www.youtube.com/watch?v=sEzj1YleZl0",
-    "views": "15",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 15874,
+    "measured": "chapter-markers",
+    "parts": {
+     "Bravely Breach the Hostile Winds": 4009,
+     "Thus Begins the Homeward March": 2167,
+     "A Past Shared by the Swordmancers": 2058,
+     "Same Old Faces in a Place Transformed": 1808,
+     "Warily Returns the Wandering Vigile": 2325,
+     "Finally Breaks the Hanging Clouds": 1061,
+     "\"Homecoming\"": 1293,
+     "Stubbornly Lingers the Setting Sun": 1153
+    }
    },
    {
     "seconds": 17064,
     "title": "Main Story Chapter 2 Process 7: \"Ruins in the Miasma\" FULL Playthrough | Arknights Endfield",
     "uploader": "Shukashuu Gaming",
     "url": "https://www.youtube.com/watch?v=sV7s0MSxMx8",
-    "views": "472",
-    "rejected": []
+    "views": 1741,
+    "rejected": [],
+    "upload_date": "20260717"
    },
    {
     "seconds": 929,
@@ -7256,10 +7995,11 @@
     "title": "Ruins in the Miasma - Finale | Arknights Endfield",
     "uploader": "How To Games",
     "url": "https://www.youtube.com/watch?v=lEI1n6iO8bo",
-    "views": "17",
+    "views": 31,
     "rejected": [
      "short-outlier"
-    ]
+    ],
+    "upload_date": "20260731"
    },
    {
     "seconds": 24272,
@@ -7368,12 +8108,13 @@
     ]
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "28422",
-    "rejected": []
+    "views": 40175,
+    "rejected": [],
+    "upload_date": "20260716"
    },
    {
     "seconds": 126,
@@ -7412,8 +8153,9 @@
     "title": "Arknights: Endfield Walkthrough part 38 ~Ver 1.4~ Ruins in the Miasma Story Quest (Japanese Voices)",
     "uploader": "RedRawNes",
     "url": "https://www.youtube.com/watch?v=ij9R1pnhrmA",
-    "views": "51",
-    "rejected": []
+    "views": 72,
+    "rejected": [],
+    "upload_date": "20260808"
    },
    {
     "seconds": 600,
@@ -7502,20 +8244,75 @@
     "title": "Arknights: Endfield | Ruins in the Miasma: Part 1 | Chapter 2: Process 7 | Ver. 1.4",
     "uploader": "Tzero Ocne",
     "url": "https://www.youtube.com/watch?v=_vKFCCkfuyQ",
-    "views": "25",
+    "views": 84,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260808"
    },
    {
-    "seconds": 1059,
+    "seconds": 1058,
     "title": "Ruins in the Miasma -  Stubbornly Lingers the Setting Sun | Arknights Endfield",
     "uploader": "CyberRogue Relax",
     "url": "https://www.youtube.com/watch?v=UuWfboZGljk",
-    "views": "37",
+    "views": 44,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20260721"
+   },
+   {
+    "seconds": 18691,
+    "title": "Arknights Endfield Chapter 2: Ruins in the Miasma ( Process 7 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=7DLET-s-5vw",
+    "views": 725,
+    "rejected": [],
+    "upload_date": "20260922"
+   },
+   {
+    "seconds": 2073,
+    "title": "Arknights: Endfield Walkthrough Part 186 - Chapter 2: Process 7 - Thus Begins the Homeward March",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=-PkrrtDQVd0",
+    "views": 33,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261105"
+   },
+   {
+    "seconds": 1810,
+    "title": "Arknights: Endfield Walkthrough Part 188 - Chapter 2: Process 7 - Same Old Faces in a Place Transfor",
+    "uploader": "MG PlayX",
+    "url": "https://www.youtube.com/watch?v=gqqcNVwRmow",
+    "views": 25,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261108"
+   },
+   {
+    "seconds": 383,
+    "title": "Arcane Endmin & Fangyi VS Alleikhreos Cutsence | Arknights Endfield V1.4",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=1ixvB_3ORjQ",
+    "views": 172,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 232,
+    "title": "Nefarith Survive & Kill Ardhasir - Chapter 2: Process 7 | Arknights: Endfield 1.4",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=2hBQFHkmkiY",
+    "views": 257,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260722"
    }
   ],
   "kept": [
@@ -7569,8 +8366,21 @@
     "title": "[Arknights: Endfield 1.4] Chapter 2: Process 7 - Ruins in the Miasma | Full Story Playthrough",
     "uploader": "EllooTV",
     "url": "https://www.youtube.com/watch?v=sEzj1YleZl0",
-    "views": "15",
-    "rejected": []
+    "views": 16,
+    "rejected": [],
+    "upload_date": "20260718",
+    "runtime": 15874,
+    "measured": "chapter-markers",
+    "parts": {
+     "Bravely Breach the Hostile Winds": 4009,
+     "Thus Begins the Homeward March": 2167,
+     "A Past Shared by the Swordmancers": 2058,
+     "Same Old Faces in a Place Transformed": 1808,
+     "Warily Returns the Wandering Vigile": 2325,
+     "Finally Breaks the Hanging Clouds": 1061,
+     "\"Homecoming\"": 1293,
+     "Stubbornly Lingers the Setting Sun": 1153
+    }
    },
    {
     "seconds": 16468,
@@ -7602,28 +8412,40 @@
     "upload_date": "20260716"
    },
    {
-    "seconds": 16792,
+    "seconds": 16791,
     "title": "Arknights Endfield - Day 199 (Chapter II: Process VII - Ruins in the Miasma) No comment No cuts",
     "uploader": "23Gameplays",
     "url": "https://www.youtube.com/watch?v=z9JQfSOzX1w",
-    "views": "4",
-    "rejected": []
+    "views": 5,
+    "rejected": [],
+    "upload_date": "20260809"
    },
    {
     "seconds": 17064,
     "title": "Main Story Chapter 2 Process 7: \"Ruins in the Miasma\" FULL Playthrough | Arknights Endfield",
     "uploader": "Shukashuu Gaming",
     "url": "https://www.youtube.com/watch?v=sV7s0MSxMx8",
-    "views": "472",
-    "rejected": []
+    "views": 1741,
+    "rejected": [],
+    "upload_date": "20260717"
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "28422",
-    "rejected": []
+    "views": 40175,
+    "rejected": [],
+    "upload_date": "20260716"
+   },
+   {
+    "seconds": 18691,
+    "title": "Arknights Endfield Chapter 2: Ruins in the Miasma ( Process 7 )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=7DLET-s-5vw",
+    "views": 725,
+    "rejected": [],
+    "upload_date": "20260922"
    },
    {
     "seconds": 24272,
@@ -7639,21 +8461,22 @@
     "title": "Arknights: Endfield Walkthrough part 38 ~Ver 1.4~ Ruins in the Miasma Story Quest (Japanese Voices)",
     "uploader": "RedRawNes",
     "url": "https://www.youtube.com/watch?v=ij9R1pnhrmA",
-    "views": "51",
-    "rejected": []
+    "views": 72,
+    "rejected": [],
+    "upload_date": "20260808"
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 274,
+   "n": 14,
+   "median": 275,
    "low": 137,
    "high": 439,
-   "q1": 250,
-   "q3": 286,
-   "trimmed_mean": 278,
-   "measured": 1,
+   "q1": 253,
+   "q3": 293,
+   "trimmed_mean": 281,
+   "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.004
   }
  },
  {
@@ -7706,8 +8529,9 @@
     "title": "ARKNIGHTS ENDFIELD VERSSION 1.6 FULL Main Story Quest : Sanctuary from the Rift",
     "uploader": "Izom F2P Gaming",
     "url": "https://www.youtube.com/watch?v=y--HnoOzRjQ",
-    "views": "4",
-    "rejected": []
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261015"
    },
    {
     "seconds": 11953,
@@ -7719,12 +8543,13 @@
     "upload_date": "20261016"
    },
    {
-    "seconds": 11180,
+    "seconds": 11179,
     "title": "Arknights Endfield 1.6 Full Main Quest (Female MC)",
     "uploader": "Vinster",
     "url": "https://www.youtube.com/watch?v=ybdGBNwFN0E",
-    "views": "8",
-    "rejected": []
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20261015"
    },
    {
     "seconds": 13470,
@@ -7751,16 +8576,18 @@
     "title": "Arknights Endfield Chapter 2: Sanctuary From the Rift ( Process 8 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=rZGnhVr3ADs",
-    "views": "183",
-    "rejected": []
+    "views": 541,
+    "rejected": [],
+    "upload_date": "20261016"
    },
    {
-    "seconds": 11402,
+    "seconds": 11191,
     "title": "Chapitre II \u2013 Processus VIII : Sanctuaire loin de la faille | Arknights Endfield 1.6",
     "uploader": "LaHypeGG",
     "url": "https://www.youtube.com/watch?v=rhGxbLI7Z5g",
-    "views": "5",
-    "rejected": []
+    "views": 27,
+    "rejected": [],
+    "upload_date": "20261016"
    },
    {
     "seconds": 11250,
@@ -7783,14 +8610,15 @@
     "upload_date": "20261017"
    },
    {
-    "seconds": 17243,
+    "seconds": 17242,
     "title": "Arknights Endfield 1.4 - New Main Story Quest Full Walkthrough",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=uk1nT2kivZo",
-    "views": "37531",
+    "views": 40175,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260716"
    },
    {
     "seconds": 45493,
@@ -7809,30 +8637,33 @@
     "title": "Arknights Endfield 1.2 - Main Story Quest Full Walkthrough (Male MC Endmin)",
     "uploader": "Rubhen925",
     "url": "https://www.youtube.com/watch?v=soNxkxtcsUg",
-    "views": "43904",
+    "views": 45752,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260417"
    },
    {
-    "seconds": 42318,
+    "seconds": 42317,
     "title": "Arknights Endfield 1.0 Full Story",
     "uploader": "NaruVT",
     "url": "https://www.youtube.com/watch?v=zg9hvQn6d_w",
-    "views": "11473",
+    "views": 11790,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260126"
    },
    {
-    "seconds": 17531,
+    "seconds": 17530,
     "title": "Arknights Endfield Version 1.4 - Main Story Quest (Full Playthrough)",
     "uploader": "Streetwise Rhapsody",
     "url": "https://www.youtube.com/watch?v=s3B4DJThIDU",
-    "views": "26638",
+    "views": 27504,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260716"
    },
    {
     "seconds": 12514,
@@ -8267,14 +9098,15 @@
     "upload_date": "20261017"
    },
    {
-    "seconds": 6406,
+    "seconds": 6405,
     "title": "Arknights Endfield 1.0 Main Story Quest | Chapter 2: Process 2 - Full Walkthrough (Female MC)",
     "uploader": "QuestWatcher",
     "url": "https://www.youtube.com/watch?v=z3k0VjCdBEQ",
-    "views": "34",
+    "views": 50,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260923"
    },
    {
     "seconds": 2458,
@@ -8790,11 +9622,12 @@
     "title": "Arknights: Endfield 1.0 - Full Game Playthrough (Female MC)",
     "uploader": "Segiri",
     "url": "https://www.youtube.com/watch?v=wbbaHyumpoY",
-    "views": "5610",
+    "views": 6468,
     "rejected": [
      "multi-act",
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260127"
    },
    {
     "seconds": 67278,
@@ -8983,14 +9816,15 @@
     "upload_date": "20101016"
    },
    {
-    "seconds": 182,
+    "seconds": 181,
     "title": "Joji - Sanctuary (Lyrics)",
     "uploader": "Cakes & Eclairs",
     "url": "https://www.youtube.com/watch?v=trLTBzM52gQ",
-    "views": "1813966",
+    "views": 1976536,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20241012"
    },
    {
     "seconds": 192,
@@ -9070,14 +9904,15 @@
     "upload_date": "20260827"
    },
    {
-    "seconds": 4061,
+    "seconds": 4060,
     "title": "1 Hour in the Presence of YHWH | Hebrew Worship for Prayer and Reflection",
     "uploader": "Musical Sanctuary",
     "url": "https://www.youtube.com/watch?v=oGPGfwhYm9M",
-    "views": "898620",
+    "views": 945107,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20260424"
    },
    {
     "seconds": 292,
@@ -9106,20 +9941,22 @@
     "title": "SANCTUARY - Frozen (OFFICIAL VIDEO)",
     "uploader": "Century Media Records and Sanctuary",
     "url": "https://www.youtube.com/watch?v=r_IrbeZfJII",
-    "views": "845693",
+    "views": 848636,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20141002"
    },
    {
-    "seconds": 312,
+    "seconds": 311,
     "title": "Sanctuary - Future Tense",
     "uploader": "SanctuaryVEVO",
     "url": "https://www.youtube.com/watch?v=v5NCBaPE3k0",
-    "views": "1992323",
+    "views": 2010519,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20091025"
    },
    {
     "seconds": 4116,
@@ -9192,10 +10029,11 @@
     "title": "Sanctuary | Alpha & Omega | Total Praise - Israel & New Breed",
     "uploader": "Israel Houghton",
     "url": "https://www.youtube.com/watch?v=zXC8bH4huLg",
-    "views": "1024685",
+    "views": 1037640,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20210226"
    },
    {
     "seconds": 180,
@@ -9258,10 +10096,11 @@
     "title": "3D Video tour of the Accomac",
     "uploader": "Chesapeake Conservancy",
     "url": "https://www.youtube.com/watch?v=uL4_9CakBL4",
-    "views": "10393",
+    "views": 10394,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20160816"
    },
    {
     "seconds": 23633,
@@ -9275,14 +10114,15 @@
     "upload_date": "20261016"
    },
    {
-    "seconds": 7173,
+    "seconds": 7172,
     "title": "Sanctuary From the Rift Arknights: Endfield [Part 43]",
     "uploader": "starryxgalaxy ",
     "url": "https://www.youtube.com/watch?v=xLMK3Mv3X9Q",
-    "views": "0",
+    "views": 0,
     "rejected": [
      "part-of-an-act"
-    ]
+    ],
+    "upload_date": "20261015"
    },
    {
     "seconds": 19251,
@@ -9642,10 +10482,11 @@
     "title": "First Zhuang Fangyi, Now Si... Poor Perlica Has Too Much Competition! | Arknights: Endfield",
     "uploader": "BSS Gaming",
     "url": "https://www.youtube.com/watch?v=s8nBIwExiGA",
-    "views": "2789",
+    "views": 3664,
     "rejected": [
      "act-mismatch"
-    ]
+    ],
+    "upload_date": "20261015"
    },
    {
     "seconds": 172,
@@ -9744,6 +10585,172 @@
     "views": 9,
     "rejected": [],
     "upload_date": "20261015"
+   },
+   {
+    "seconds": 11199,
+    "title": "Arknights Endfield - Chapter II - Process VIII, Sanctuary from the Rift",
+    "uploader": "PangYe",
+    "url": "https://www.youtube.com/watch?v=6QEcobiBZTI",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20261020"
+   },
+   {
+    "seconds": 11067,
+    "title": "[Arknights: Endfield 1.6] Chapter 2: Process 8 - Sanctuary from the Rift | Full Story Playthrough",
+    "uploader": "EllooTV",
+    "url": "https://www.youtube.com/watch?v=i5CD9jvm3cY",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20261024",
+    "runtime": 11067,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2444,
+     "Learn of Rise and Fall": 1691,
+     "Witness the Game Unfold": 2160,
+     "See Through the Self": 2491,
+     "Paint with Fresh Ink": 2281
+    }
+   },
+   {
+    "seconds": 604,
+    "title": "ARKNIGHTS: ENDFIELD PS5 Pro | Chapter 2: Process 8 | Sanctuary from the Rift Cinematic Cutscenes",
+    "uploader": "JunChoco",
+    "url": "https://www.youtube.com/watch?v=SCSah5mFbSM",
+    "views": "60",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4963,
+    "title": "See Through the Self Walkthrough | Arknights Endfield",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=128zqBEcPBY",
+    "views": 197,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20261021"
+   },
+   {
+    "seconds": 11647,
+    "title": "Si's Main Story Quest (Full Playthrough) - Arknights Endfield 1.6",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=3plsdzu4Tts",
+    "views": 89,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
+    "seconds": 936,
+    "title": "Lady Si Full Boss Fight - Cutscenes | Arknights: Endfield 1.6",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=PyiDlwl-OA4",
+    "views": "117",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 630,
+    "title": "Endministrator Meets Their Past Self | Emotional Cutscene \u2013 Arknights: Endfield 1.6",
+    "uploader": "CyberRogue Relax",
+    "url": "https://www.youtube.com/watch?v=qk6vDZ_IDGA",
+    "views": "145",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 2526,
+    "title": "Arknights: Endfield: Story: [ Chapter II: Process VIII ] Part 1",
+    "uploader": "Sokdavid Gaming",
+    "url": "https://www.youtube.com/watch?v=HQ4WWHhVgP4",
+    "views": 2,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261018"
+   },
+   {
+    "seconds": 3882,
+    "title": "Arknights: Endfield: Story: [ Chapter II: Process VIII ] Part 2",
+    "uploader": "Sokdavid Gaming",
+    "url": "https://www.youtube.com/watch?v=MSUDhrhB5Lc",
+    "views": 2,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261018"
+   },
+   {
+    "seconds": 3201,
+    "title": "Arknights: Endfield Gameplay | Sanctuary From the Rift - Main Story Quest | Part 53 | PS5 4K60FPS ",
+    "uploader": "WerewolfDemons",
+    "url": "https://www.youtube.com/watch?v=qqGvew0nlJY",
+    "views": 18,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261027"
+   },
+   {
+    "seconds": 3184,
+    "title": "Arknights: Endfield Gameplay | Sanctuary From the Rift - Main Story Quest | Part 52 | PS5 4K60FPS ",
+    "uploader": "WerewolfDemons",
+    "url": "https://www.youtube.com/watch?v=SoyuK9q-A4E",
+    "views": 12,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261026"
+   },
+   {
+    "seconds": 3328,
+    "title": "Arknights: Endfield Gameplay | Sanctuary From the Rift - Main Story Quest | Part 54 | PS5 4K60FPS ",
+    "uploader": "WerewolfDemons",
+    "url": "https://www.youtube.com/watch?v=5K_aiphjMIk",
+    "views": 7,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261028"
+   },
+   {
+    "seconds": 1552,
+    "title": "Arknights: Endfield Gameplay | Sanctuary From the Rift - Main Story Quest | Part 55 | PS5 4K60FPS",
+    "uploader": "WerewolfDemons",
+    "url": "https://www.youtube.com/watch?v=-BYaOCabAr4",
+    "views": 16,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20261029"
+   },
+   {
+    "seconds": 61665,
+    "title": "Arknights Endfield - Full Game Gameplay Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=ORNaegEfhL4",
+    "views": 218367,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260126"
+   },
+   {
+    "seconds": 17855,
+    "title": "120+ SI PULLS!  + 1.6 MAIN STORY! | Arknights: Endfield 1.6 [Sanctuary of Ink]",
+    "uploader": "Nezeru Gaming",
+    "url": "https://www.youtube.com/watch?v=JWUtIxdhKSM",
+    "views": "1197",
+    "rejected": [
+     "not-a-playthrough"
+    ]
    }
   ],
   "kept": [
@@ -9766,12 +10773,40 @@
     "upload_date": "20261017"
    },
    {
-    "seconds": 11180,
+    "seconds": 11067,
+    "title": "[Arknights: Endfield 1.6] Chapter 2: Process 8 - Sanctuary from the Rift | Full Story Playthrough",
+    "uploader": "EllooTV",
+    "url": "https://www.youtube.com/watch?v=i5CD9jvm3cY",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20261024",
+    "runtime": 11067,
+    "measured": "chapter-markers",
+    "parts": {
+     "Enter the Painted World": 2444,
+     "Learn of Rise and Fall": 1691,
+     "Witness the Game Unfold": 2160,
+     "See Through the Self": 2491,
+     "Paint with Fresh Ink": 2281
+    }
+   },
+   {
+    "seconds": 11179,
     "title": "Arknights Endfield 1.6 Full Main Quest (Female MC)",
     "uploader": "Vinster",
     "url": "https://www.youtube.com/watch?v=ybdGBNwFN0E",
-    "views": "8",
-    "rejected": []
+    "views": 63,
+    "rejected": [],
+    "upload_date": "20261015"
+   },
+   {
+    "seconds": 11191,
+    "title": "Chapitre II \u2013 Processus VIII : Sanctuaire loin de la faille | Arknights Endfield 1.6",
+    "uploader": "LaHypeGG",
+    "url": "https://www.youtube.com/watch?v=rhGxbLI7Z5g",
+    "views": 27,
+    "rejected": [],
+    "upload_date": "20261016"
    },
    {
     "seconds": 11199,
@@ -9790,6 +10825,15 @@
      "See Through the Self": 2453,
      "Paint with Fresh Ink": 2398
     }
+   },
+   {
+    "seconds": 11199,
+    "title": "Arknights Endfield - Chapter II - Process VIII, Sanctuary from the Rift",
+    "uploader": "PangYe",
+    "url": "https://www.youtube.com/watch?v=6QEcobiBZTI",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20261020"
    },
    {
     "seconds": 11213,
@@ -9836,14 +10880,6 @@
     "upload_date": "20261016"
    },
    {
-    "seconds": 11402,
-    "title": "Chapitre II \u2013 Processus VIII : Sanctuaire loin de la faille | Arknights Endfield 1.6",
-    "uploader": "LaHypeGG",
-    "url": "https://www.youtube.com/watch?v=rhGxbLI7Z5g",
-    "views": "5",
-    "rejected": []
-   },
-   {
     "seconds": 11419,
     "title": "\u3010Arknights: Endfield\u3011\uff0d Sanctuary of Ink |\u300eVersion 1.6\u300f| Main Story Quest",
     "uploader": "AZXMIZU",
@@ -9888,6 +10924,15 @@
     }
    },
    {
+    "seconds": 11647,
+    "title": "Si's Main Story Quest (Full Playthrough) - Arknights Endfield 1.6",
+    "uploader": "DreamerQuests",
+    "url": "https://www.youtube.com/watch?v=3plsdzu4Tts",
+    "views": 89,
+    "rejected": [],
+    "upload_date": "20261017"
+   },
+   {
     "seconds": 11652,
     "title": "Chapter 2 - Process 8 \"Sanctuary from the Rift\" | Arknights Endfield v1.6",
     "uploader": "T.H Bunn",
@@ -9928,8 +10973,9 @@
     "title": "ARKNIGHTS ENDFIELD VERSSION 1.6 FULL Main Story Quest : Sanctuary from the Rift",
     "uploader": "Izom F2P Gaming",
     "url": "https://www.youtube.com/watch?v=y--HnoOzRjQ",
-    "views": "4",
-    "rejected": []
+    "views": 24,
+    "rejected": [],
+    "upload_date": "20261015"
    },
    {
     "seconds": 12292,
@@ -9945,8 +10991,9 @@
     "title": "Arknights Endfield Chapter 2: Sanctuary From the Rift ( Process 8 )",
     "uploader": "TheWayCafe Productions",
     "url": "https://www.youtube.com/watch?v=rZGnhVr3ADs",
-    "views": "183",
-    "rejected": []
+    "views": 541,
+    "rejected": [],
+    "upload_date": "20261016"
    },
    {
     "seconds": 12453,
@@ -10013,15 +11060,20 @@
    }
   ],
   "stats": {
-   "n": 28,
+   "n": 31,
    "median": 194,
    "low": 170,
    "high": 321,
-   "q1": 188,
+   "q1": 187,
    "q3": 207,
-   "trimmed_mean": 198,
-   "measured": 2,
-   "parts": {},
+   "trimmed_mean": 196,
+   "measured": 3,
+   "parts": {
+    "Enter the Painted World": 41,
+    "Learn of Rise and Fall": 28,
+    "Witness the Game Unfold": 36,
+    "See Through the Self": 42
+   },
    "drift": null
   }
  }
