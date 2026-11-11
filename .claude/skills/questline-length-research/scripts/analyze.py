@@ -85,6 +85,13 @@ OUTRO = re.compile(
 ACT_END = re.compile(
     r"\b(?:boss|battle|fight|finale?|ending|end|conclusion|epilogue|cutscene|"
     r"credits|post[- ]?(?:quest|story|stage|battle|archon quest))\b", re.I)
+# Instalment counters every game's uploaders use, read as a split of the act
+# in any report, partials.txt or not. "Starting", "Continuing" and "Finishing"
+# are a channel numbering its own videos in words, and no runtime readmits them,
+# because each such session can run as long as someone else's whole act.
+# "Starting the game" and "Starting Station" are a new player's first video and
+# a Girls' Frontline 2 location, not counters.
+SHARED_FRAGMENTS = [r"\b(?:starting|continuing|finishing)\b(?! (?:the game|station)\b)"]
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
 # ... and the prefix marking a partials.txt pattern no runtime readmits, or a
@@ -262,8 +269,8 @@ def partial_test(workdir):
     the lines of partials.txt; the line "<quest part>" additionally reads a title
     naming one of the act's own quest parts as a split, which is opt-in because a
     game whose uploaders title a complete act after its closing quest part would
-    otherwise lose every upload it has. Returns None where the report says
-    nothing, which is every game that has no partials.txt.
+    otherwise lose every upload it has. SHARED_FRAGMENTS apply to every report
+    on top of its own lines.
 
     A pattern prefixed with "!" is a marker that admits of no second reading, and
     readmit_partials() never brings its uploads back: where an act is a chapter
@@ -273,16 +280,15 @@ def partial_test(workdir):
     """
     patterns = extra_patterns(workdir, "partials.txt")
     by_quest_part = QUEST_PART in patterns
-    certain = [p[len(FRAGMENT):] for p in patterns if p.startswith(FRAGMENT)]
+    certain = SHARED_FRAGMENTS + [p[len(FRAGMENT):] for p in patterns
+                                  if p.startswith(FRAGMENT)]
     literal = [p for p in patterns
                if p != QUEST_PART and not p.startswith(FRAGMENT)]
-    fragment = re.compile("|".join(certain), re.I) if certain else None
+    fragment = re.compile("|".join(certain), re.I)
     regex = re.compile("|".join(literal), re.I) if literal else None
-    if not (fragment or regex or by_quest_part):
-        return None
 
     def scope(title, parts):
-        if fragment and fragment.search(title):
+        if fragment.search(title):
             return "fragment"
         if (regex and regex.search(title)) \
                 or (by_quest_part and part_named(title, parts) is not None):
@@ -657,7 +663,7 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
             reasons.append("not-a-playthrough")
         if len(pinned) > 1 or compilation(title, pinned == {number}):
             reasons.append("multi-act")
-        if partial and (scope := partial(title, parts)):
+        if scope := partial(title, parts):
             reasons.append(scope)
         if not act_keys(act, title) \
                 or (pinned and number is not None and number not in pinned) \

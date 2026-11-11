@@ -6224,7 +6224,7 @@
     "url": "https://www.youtube.com/watch?v=pem-hJ4EQDw",
     "views": "9",
     "rejected": [
-     "long-outlier"
+     "fragment"
     ]
    },
    {
@@ -6822,7 +6822,9 @@
     "uploader": "Shabel Tonya",
     "url": "https://www.youtube.com/watch?v=MPY-tI2u9_Q",
     "views": "1688",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 558,
@@ -6983,14 +6985,6 @@
     "rejected": []
    },
    {
-    "seconds": 6929,
-    "title": "Finishing Main Story Chapter 22 today\ud83e\udde1\u3010GODDESS OF VICTORY:NIKKE\u3011",
-    "uploader": "Shabel Tonya",
-    "url": "https://www.youtube.com/watch?v=MPY-tI2u9_Q",
-    "views": "1688",
-    "rejected": []
-   },
-   {
     "seconds": 7351,
     "title": "NIKKE - Chapter 22 - Invasion",
     "uploader": "Aihara",
@@ -7008,13 +7002,13 @@
    }
   ],
   "stats": {
-   "n": 12,
+   "n": 11,
    "median": 82,
    "low": 70,
    "high": 144,
-   "q1": 79,
-   "q3": 112,
-   "trimmed_mean": 91,
+   "q1": 78,
+   "q3": 103,
+   "trimmed_mean": 88,
    "measured": 0,
    "parts": {},
    "drift": 0.0
@@ -7799,7 +7793,9 @@
     "uploader": "WindrunnerEX",
     "url": "https://www.youtube.com/watch?v=yTLKV5xehUQ",
     "views": "6",
-    "rejected": []
+    "rejected": [
+     "fragment"
+    ]
    },
    {
     "seconds": 7200,
@@ -7922,14 +7918,6 @@
     "upload_date": "20231113"
    },
    {
-    "seconds": 4046,
-    "title": "Nikke Continuing Main Story Chapter 25",
-    "uploader": "WindrunnerEX",
-    "url": "https://www.youtube.com/watch?v=yTLKV5xehUQ",
-    "views": "6",
-    "rejected": []
-   },
-   {
     "seconds": 4436,
     "title": "Goddess of Victory: NIKKE - Chapter 25 (EN Dub)",
     "uploader": "Skill Issue",
@@ -8016,16 +8004,16 @@
    }
   ],
   "stats": {
-   "n": 12,
-   "median": 79,
+   "n": 11,
+   "median": 81,
    "low": 57,
    "high": 120,
    "q1": 74,
-   "q3": 93,
-   "trimmed_mean": 81,
+   "q3": 95,
+   "trimmed_mean": 83,
    "measured": 0,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.025
   }
  },
  {

@@ -4,7 +4,7 @@ Duration estimates for every chapter of the main story,
 from the prologue on Sixth Street to the newest season in Roscaelifer,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->77 h 50 min<!--/f-->** (<!--f:n_report_entries-->23<!--/f--> entries counting chapters, interludes and epilogues, measured against <!--f:n_videos-->312<!--/f--> accepted uploads out of <!--f:n_candidates-->706<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->77 h 44 min<!--/f-->** (<!--f:n_report_entries-->23<!--/f--> entries counting chapters, interludes and epilogues, measured against <!--f:n_videos-->311<!--/f--> accepted uploads out of <!--f:n_candidates-->706<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -12,7 +12,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:chapters-->
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
-| Season 1 | New Eridu: Sixth Street, Lumina Square and the Outer Ring | 1.0 - 1.7 | 10 | 24 h 07 min | [01-season-1.md](01-season-1.md) |
+| Season 1 | New Eridu: Sixth Street, Lumina Square and the Outer Ring | 1.0 - 1.7 | 10 | 24 h 01 min | [01-season-1.md](01-season-1.md) |
 | Season 2 | Waifei Peninsula: Yunkui Summit and Suibian Temple | 2.0 - 2.8 | 9 | 37 h 49 min | [02-season-2.md](02-season-2.md) |
 | Season 3 | Roscaelifer | 3.0 - 3.3 | 4 | 15 h 54 min | [03-season-3.md](03-season-3.md) |
 <!--/gen-->
@@ -29,7 +29,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | longest | Season 3, Chapter 2: The Long Goodbye | 4 h 29 min |
 | shortest | Season 1, Chapter 1 Intermission: The Zero Zone | 1 h 28 min |
 | shortest | Season 1, Chapter 3: The Midnight Pursuit | 1 h 40 min |
-| shortest | Season 1, Chapter 0: Business x Strangeness x Justness | 1 h 57 min |
+| shortest | Season 1, Chapter 2 Interlude: Mission Unthinkable | 1 h 52 min |
 <!--/gen-->
 
 ## Method

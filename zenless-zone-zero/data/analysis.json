@@ -2011,7 +2011,9 @@
     "uploader": "ThisisHori",
     "url": "https://www.youtube.com/watch?v=Zl5KOqLaCBU",
     "views": "552",
-    "rejected": []
+    "rejected": [
+     "long-outlier"
+    ]
    },
    {
     "seconds": 5594,
@@ -2028,7 +2030,7 @@
     "url": "https://www.youtube.com/watch?v=Hl73MzzlsG4",
     "views": "28",
     "rejected": [
-     "long-outlier"
+     "fragment"
     ]
    },
    {
@@ -2232,29 +2234,21 @@
      "Moment to Counterattack": 205,
      "We'll Meet Again": 1162
     }
-   },
-   {
-    "seconds": 13184,
-    "title": "[Main Quest Chapter 2 Interlude] Mission Unthinkable (Zenless Zone Zero)",
-    "uploader": "ThisisHori",
-    "url": "https://www.youtube.com/watch?v=Zl5KOqLaCBU",
-    "views": "552",
-    "rejected": []
    }
   ],
   "stats": {
-   "n": 16,
-   "median": 118,
+   "n": 15,
+   "median": 112,
    "low": 66,
-   "high": 220,
-   "q1": 75,
-   "q3": 160,
-   "trimmed_mean": 118,
+   "high": 171,
+   "q1": 70,
+   "q3": 158,
+   "trimmed_mean": 114,
    "measured": 4,
    "parts": {
     "Invisible Assistant": 31
    },
-   "drift": -0.071
+   "drift": -0.118
   }
  },
  {

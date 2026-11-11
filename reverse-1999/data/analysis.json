@@ -4562,7 +4562,9 @@
     "uploader": "ShinyBotTV VOD channel",
     "url": "https://www.youtube.com/watch?v=j1fcGKIAHq0",
     "views": 63,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20250110"
    },
    {
@@ -4576,15 +4578,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 13930,
-    "title": "finishing E lucevan le stelle main chapter story!!!! [REVERSE: 1999]",
-    "uploader": "ShinyBotTV VOD channel",
-    "url": "https://www.youtube.com/watch?v=j1fcGKIAHq0",
-    "views": 63,
-    "rejected": [],
-    "upload_date": "20250110"
-   },
    {
     "seconds": 17238,
     "title": "Reverse: 1999 - Full Story Chapter 6 \"E LUCEVAN LE STELLE\" | EN DUB",
@@ -4721,13 +4714,13 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 373,
-   "low": 232,
+   "n": 7,
+   "median": 390,
+   "low": 287,
    "high": 492,
-   "q1": 303,
-   "q3": 447,
-   "trimmed_mean": 375,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 395,
    "measured": 3,
    "parts": {
     "Razor in Green": 16,
@@ -4748,7 +4741,7 @@
     "Finished Page": 12,
     "Hansel and Gretel": 10
    },
-   "drift": 0.045
+   "drift": 0.092
   }
  },
  {
@@ -6890,7 +6883,9 @@
     "uploader": "Haku -Niephylia Fleur- Ch.",
     "url": "https://www.youtube.com/watch?v=6SLZugO3_GQ",
     "views": 5,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20251004"
    },
    {
@@ -6994,15 +6989,6 @@
     "views": 60,
     "rejected": [],
     "upload_date": "20251115"
-   },
-   {
-    "seconds": 15618,
-    "title": "[REVERSE:1999] finishing Tristes Tropiques until MY BUTT FLATTENS",
-    "uploader": "Haku -Niephylia Fleur- Ch.",
-    "url": "https://www.youtube.com/watch?v=6SLZugO3_GQ",
-    "views": 5,
-    "rejected": [],
-    "upload_date": "20251004"
    },
    {
     "seconds": 17443,
@@ -7181,13 +7167,13 @@
    }
   ],
   "stats": {
-   "n": 10,
-   "median": 310,
+   "n": 9,
+   "median": 317,
    "low": 239,
    "high": 403,
-   "q1": 259,
-   "q3": 351,
-   "trimmed_mean": 310,
+   "q1": 274,
+   "q3": 366,
+   "trimmed_mean": 318,
    "measured": 4,
    "parts": {
     "Unshakable Justice": 12,
@@ -7215,7 +7201,7 @@
     "The Final Curtain": 11,
     "Monologues": 5
    },
-   "drift": -0.049
+   "drift": -0.028
   }
  },
  {
@@ -9721,7 +9707,8 @@
     "url": "https://www.youtube.com/watch?v=B4kAKtDSix8",
     "views": "4615",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "fragment"
     ]
    }
   ],

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 1: The Living and the Rest
 
-**Chapters:** Prologue - 7 | **Game versions:** up to 1.9 | **Entries:** 10 | **Estimated arc length: 32 h 35 min**
+**Chapters:** Prologue - 7 | **Game versions:** up to 1.9 | **Entries:** 10 | **Estimated arc length: 32 h 52 min**
 <!--/gen-->
 
 The arc the game shipped with, and the largest in this report:
@@ -24,16 +24,16 @@ Chapter 7 is the longest entry in the game.
 | Chapter 4 | El Oro de los Tigres | 3 h 59 min | 3 h 21 min - 4 h 34 min | 10 | medium |
 | Chapter 5 | The Prisoner in the Cave | 3 h 46 min | 2 h 50 min - 4 h 31 min | 12 | low |
 | Inter Chapter - I | The Star | 1 h 22 min | 1 h 22 min - 1 h 30 min | 8 | high |
-| Chapter 6 | E lucevan le stelle | 6 h 13 min | 5 h 03 min - 7 h 27 min | 8 | medium |
+| Chapter 6 | E lucevan le stelle | 6 h 30 min | 4 h 47 min - 8 h 12 min | 7 | low |
 | Chapter 7 | Vereinsamt | 8 h 24 min | 7 h 38 min - 10 h 35 min | 4 | low |
 | Inter Chapter - II | To the New World | 41 min | 34 min - 48 min | 11 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->32 h 35 min<!--/f-->**
+**Total: <!--f:total-->32 h 52 min<!--/f-->**
 
 ## Pacing
 
-The arc runs to <!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->32 h 35 min<!--/f-->,
+The arc runs to <!--f:n_entries-->ten<!--/f--> entries and <!--f:total-->32 h 52 min<!--/f-->,
 the largest arc in the report
 and the only one whose entries run from under an hour to over seven.
 The shape is a ramp with two steps in it:
@@ -344,12 +344,12 @@ the chapter's plot leans on as well as its title.
 and the first entry in the game to pass five hours.
 <!--gen:stats act="Chapter 6"-->
 
-- **Estimated length:** 6 h 13 min
-- **Sampled range:** 5 h 03 min to 7 h 27 min for the middle half (full spread 3 h 52 min to 8 h 12 min) across 8 playthrough uploads (37 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 6 h 30 min
+- **Sampled range:** 4 h 47 min to 8 h 12 min across 7 playthrough uploads (38 further candidates screened out)
+- **Confidence:** low
 - **Released in:** 1.7
-- **Stability:** median +4% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 3 of 8 uploads
+- **Stability:** median +9% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 3 of 7 uploads
 - **Quest parts (22):** Razor in Green (16 min); Drums of March (14 min); Fork and Torte (20 min); Secession Building; A Bad Seance; Yes, Prime Minister (35 min); Mirror and Lantern (22 min); Between the Doors; The Mind's Endoscope (17 min); One-Act Play (22 min); Art Exhibit (13 min); The Island (15 min); Fitcher's Bird (9 min); With Hope Rekindled (17 min); Quest in the Woods (15 min); Art Above All (8 min); Only Applause (10 min); The Clashing Tides; War and Peace (16 min); Double Cross; Finished Page (12 min); Hansel and Gretel (10 min)
 <!--/gen-->
 
@@ -359,7 +359,6 @@ and the first entry in the game to pass five hours.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 3 h 52 min | finishing E lucevan le stelle main chapter story!!!! [REVERSE: 1999] | ShinyBotTV VOD channel | 63 | 2025-01-10 | <https://www.youtube.com/watch?v=j1fcGKIAHq0> |
 | 4 h 47 min | Reverse: 1999 - Full Story Chapter 6 "E LUCEVAN LE STELLE" \| EN DUB | Devibul | 15,231 | 2024-03-10 | <https://www.youtube.com/watch?v=kbZtAGU8vZM> |
 | 5 h 49 min | E lucevan le stelle \| Chapter 6 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 503 | 2024-08-19 | <https://www.youtube.com/watch?v=Mn_P1gkQQp8> |
 | 5 h 56 min | Chapter 6: E Lucevan Le Stelle - Full Story \| Reverse: 1999 | Villenthessis | ~4,885 | n/a | <https://www.youtube.com/watch?v=sOLkACqmvj0> |

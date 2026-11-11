@@ -6,5 +6,4 @@
 \bep(?:isode)?\.? ?\d+\b
 <quest part>
 !\bevent\)\.? ?part ?\d+\b
-!\b(?:starting|continuing|finishing)\b(?! station\b)
 !\| [^|]+ - part \d+: \S

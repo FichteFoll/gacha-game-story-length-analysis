@@ -349,7 +349,10 @@ Discard, by title:
   Where an act runs for hours, uploaders split it,
   and a split's runtime measures the split.
   This one is off unless `<workdir>/partials.txt` says otherwise,
-  because what a split is called differs per game;
+  because what a split is called differs per game,
+  save for the counters every game's uploaders use,
+  which `SHARED_FRAGMENTS` in `analyze.py` reads in every report
+  ("Starting", "Continuing", "Finishing");
   the line `<quest part>` in that file additionally reads
   a title naming one of the act's quest parts as a split.
   An upload whose runtime matches what the unambiguous uploads measured
@@ -418,7 +421,8 @@ Discard, by title:
   numbering would: mj-r2's "Deep Oblivion - Part 2: Hidden Intentions"
   counts that channel's instalments, and Girls' Frontline 2's act keys read
   it as the campaign's second part, so one video counted for two chapters.
-  "Starting", "Continuing" and "Finishing" are the same counter in words.
+  "Starting", "Continuing" and "Finishing" are the same counter in words,
+  common enough to be in the shared list rather than in any report's file.
 - **the same uploader twice**: an uploader who posts a single-act upload
   *and* a compilation that contains it
   offers one playthrough under two URLs,

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Volume 3: Flame Dragon to Rescue
 
-**Chapters:** 20 - 29 | **Game versions:** not recorded | **Entries:** 10 | **Estimated volume length: 15 h 22 min**
+**Chapters:** 20 - 29 | **Game versions:** not recorded | **Entries:** 10 | **Estimated volume length: 15 h 24 min**
 <!--/gen-->
 
 The Vapaus hunt turns into a war.
@@ -17,17 +17,17 @@ and the first land humanity has reclaimed since the exodus.
 | --- | --- | --- | --- | --- | --- |
 | Chapter 20 | Flame Dragon | 1 h 01 min | 53 min - 1 h 13 min | 10 | medium |
 | Chapter 21 | Giant Whale | 1 h 24 min | 1 h 20 min - 1 h 48 min | 11 | medium |
-| Chapter 22 | Invasion | 1 h 22 min | 1 h 19 min - 1 h 52 min | 12 | medium |
+| Chapter 22 | Invasion | 1 h 22 min | 1 h 18 min - 1 h 43 min | 11 | medium |
 | Chapter 23 | Prison | 1 h 40 min | 1 h 33 min - 1 h 51 min | 9 | high |
 | Chapter 24 | Banishment | 2 h 20 min | 1 h 59 min - 3 h 09 min | 10 | low |
-| Chapter 25 | Tracking | 1 h 19 min | 1 h 14 min - 1 h 33 min | 12 | medium |
+| Chapter 25 | Tracking | 1 h 21 min | 1 h 14 min - 1 h 35 min | 11 | medium |
 | Chapter 26 | Return | 1 h 26 min | 1 h 25 min - 1 h 30 min | 9 | high |
 | Chapter 27 | Exploration | 1 h 44 min | 1 h 31 min - 1 h 51 min | 10 | high |
 | Chapter 28 | The Unknown | 1 h 35 min | 1 h 29 min - 2 h 14 min | 10 | low |
 | Chapter 29 | Rescue | 1 h 31 min | 1 h 26 min - 1 h 43 min | 9 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 22 min<!--/f-->**
+**Total: <!--f:total-->15 h 24 min<!--/f-->**
 
 ## Pacing
 
@@ -122,7 +122,7 @@ Counters comes home to find the Raptures already inside the Ark.
 <!--gen:stats act="Chapter 22"-->
 
 - **Estimated length:** 1 h 22 min
-- **Sampled range:** 1 h 19 min to 1 h 52 min for the middle half (full spread 1 h 10 min to 2 h 24 min) across 12 playthrough uploads (11 further candidates screened out)
+- **Sampled range:** 1 h 18 min to 1 h 43 min for the middle half (full spread 1 h 10 min to 2 h 24 min) across 11 playthrough uploads (12 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
 - **Stability:** median 0% against an earlier, independent query set
@@ -143,7 +143,6 @@ Counters comes home to find the Raptures already inside the Ark.
 | 1 h 22 min | Story Chapter 22 Dorothy is like a Boss!!!,  Eng Sub JP Voice (GODDESS OF VICTORY: NIKKE) | THOA | 4,010 | 2023-08-07 | <https://www.youtube.com/watch?v=BdEQq55rYl8> |
 | 1 h 31 min | Goddess of Victory: Nikke - Chapter 22 - Invasion (ENG DUB) | FrenchOverlord | 10,926 | 2023-08-06 | <https://www.youtube.com/watch?v=8L_WnKwEww4> |
 | 1 h 43 min | Goddess of Victory: Nikke (2022) - Main Story Chapter 22 | FeyHunt 2 | ~1 | n/a | <https://www.youtube.com/watch?v=PAC185GaukU> |
-| 1 h 55 min | Finishing Main Story Chapter 22 today🧡【GODDESS OF VICTORY:NIKKE】 | Shabel Tonya | ~1,688 | n/a | <https://www.youtube.com/watch?v=MPY-tI2u9_Q> |
 | 2 h 03 min | NIKKE - Chapter 22 - Invasion | Aihara | ~13 | n/a | <https://www.youtube.com/watch?v=N_-z-4xWZn4> |
 | 2 h 24 min | Goddess of Victory NIKKE - Campaign Chapter 22 (Invasion) | Hetherlum Productions | ~72 | n/a | <https://www.youtube.com/watch?v=V1_Y8tOEbn8> |
 
@@ -227,11 +226,11 @@ Back to the surface to look for a lost comrade,
 among old faces and new ones with unclear motives.
 <!--gen:stats act="Chapter 25"-->
 
-- **Estimated length:** 1 h 19 min
-- **Sampled range:** 1 h 14 min to 1 h 33 min for the middle half (full spread 57 min to 2 h 00 min) across 12 playthrough uploads (12 further candidates screened out)
+- **Estimated length:** 1 h 21 min
+- **Sampled range:** 1 h 14 min to 1 h 35 min for the middle half (full spread 57 min to 2 h 00 min) across 11 playthrough uploads (13 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** unknown
-- **Stability:** median 0% against an earlier, independent query set
+- **Stability:** median +2% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter 25"-->
@@ -241,7 +240,6 @@ among old faces and new ones with unclear motives.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 57 min | Campaign Chapter 25 TRACKING, Nikke: Goddess of Victory | RinkoAoi | 4,568 | 2023-11-13 | <https://www.youtube.com/watch?v=B2EhmVRUCbY> |
-| 1 h 07 min | Nikke Continuing Main Story Chapter 25 | WindrunnerEX | ~6 | n/a | <https://www.youtube.com/watch?v=yTLKV5xehUQ> |
 | 1 h 14 min | Goddess of Victory: NIKKE - Chapter 25 (EN Dub) | Skill Issue | ~35,983 | n/a | <https://www.youtube.com/watch?v=NGcn0zvdbzQ> |
 | 1 h 14 min | Nikke Story Chapter 25 Full | Casu | 1,616 | 2023-11-02 | <https://www.youtube.com/watch?v=yQMaF-G1C-s> |
 | 1 h 15 min | Goddess of Victory: Nikke Chapter 25: Tracking | Royal-Knight | 31 | 2024-09-26 | <https://www.youtube.com/watch?v=VwiuIkF-HA0> |

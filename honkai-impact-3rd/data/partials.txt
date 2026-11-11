@@ -19,6 +19,5 @@
 !\bfinale *(?:parts? ?\d+\b|\(end\))
 !\bthe future we embrace (?:chase|light or shadow)\b
 !\bparts? ?\d+ ?\(part ?\d+ chapter\b
-!\b(?:starting|continuing|finishing)\b(?! the game\b)
 !^honkai impact 3rd part 2 ch(?:apter)? ?\d+ ?(?:ex)? .*[?!\]]\s*$
 !\(playthrough part ?\d+
