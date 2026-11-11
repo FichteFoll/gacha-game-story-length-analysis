@@ -4,7 +4,7 @@ Duration estimates for every story chapter of the *Goddess of Victory: NIKKE* ca
 from the tutorial descent onto the surface to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole campaign story: <!--f:grand_total-->75 h 34 min<!--/f-->** (<!--f:n_report_entries-->51<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->529<!--/f--> accepted uploads out of <!--f:n_candidates-->1172<!--/f--> candidates).
+**Total for the whole campaign story: <!--f:grand_total-->75 h 36 min<!--/f-->** (<!--f:n_report_entries-->51<!--/f--> chapters counting the prologue, measured against <!--f:n_videos-->527<!--/f--> accepted uploads out of <!--f:n_candidates-->1172<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Volumes
@@ -14,7 +14,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | --- | --- | --- | --- | --- | --- |
 | Volume 1: Fall to Secret | 00 - 09 | not recorded | 10 | 5 h 06 min | [01-fall-to-secret.md](01-fall-to-secret.md) |
 | Volume 2: Comrade to Eden | 10 - 19 | not recorded | 10 | 8 h 34 min | [02-comrade-to-eden.md](02-comrade-to-eden.md) |
-| Volume 3: Flame Dragon to Rescue | 20 - 29 | not recorded | 10 | 15 h 22 min | [03-flame-dragon-to-rescue.md](03-flame-dragon-to-rescue.md) |
+| Volume 3: Flame Dragon to Rescue | 20 - 29 | not recorded | 10 | 15 h 24 min | [03-flame-dragon-to-rescue.md](03-flame-dragon-to-rescue.md) |
 | Volume 4: Treasure to Gene | 30 - 39 | not recorded | 10 | 15 h 43 min | [04-treasure-to-gene.md](04-treasure-to-gene.md) |
 | Volume 5: Choice to Final Battle | 40 - 49 | not recorded | 10 | 22 h 47 min | [05-choice-to-final-battle.md](05-choice-to-final-battle.md) |
 | Volume 6: Ascension | 50 | not recorded | 1 | 8 h 02 min | [06-ascension.md](06-ascension.md) |

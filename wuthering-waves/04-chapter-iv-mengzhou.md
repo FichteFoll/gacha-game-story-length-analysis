@@ -117,7 +117,7 @@ with Liangyu asking why the Autopuppets turned on their operators.
 - **Union Level gate:** -
 - **Released in:** 3.5
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 5 of 31 uploads
+- **Measured from the uploader's chapter markers:** 4 of 31 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Act II"-->
@@ -128,11 +128,11 @@ with Liangyu asking why the Autopuppets turned on their operators.
 | --- | --- | --- | --- | --- | --- |
 | 2 h 11 min | Wuthering Waves 3.5 \| Chapter 4: Rebirth From the Depths \| Act 2: Xuanling Sings, Storm Quelled | StreaGaming | 22 | 2026-07-24 | <https://www.youtube.com/watch?v=catXzsKpKY4> |
 | 2 h 11 min | Wuthering Waves 3.5 Main Quest Full Walkthrough \| Act 1, Act 2 & Segue Quest | XPPathway | 13 | 2026-07-13 | <https://www.youtube.com/watch?v=BfRE3WPdGPc> |
-| 2 h 19 min | Full Chapter 2: Rinascita Main Story Quest - Wuthering Waves | Fayato | 19,424 | 2025-10-09 | <https://www.youtube.com/watch?v=FH3Rw2NRzWk> |
 | 2 h 24 min | Reunion \| Xuanling Sings, Storm Quelled | Rei G | 38 | 2026-07-12 | <https://www.youtube.com/watch?v=pKD7aWrhhPk> |
 | 2 h 27 min | Wuthering Waves 3.5 Main Story Quest Full Walkthrough | Kuroakumoplaz | 45 | 2026-07-18 | <https://www.youtube.com/watch?v=YGoczTGgbnY> |
 | 2 h 28 min | Wuthering Waves - Story Quest Chapter IV Act II: Xuanling Sings, Storm Quelled walkthrough | heriawsity | 37 | 2026-07-12 | <https://www.youtube.com/watch?v=zz3coqebrRI> |
 | 2 h 28 min | Wuthering Waves 3.5 Story - Chapter 4 Act 2: Xuanling Sings, Storm Quelled (Female Rover) | QuestWatcher | 422 | 2026-07-11 | <https://www.youtube.com/watch?v=i3tvKi3fA3M> |
+| 2 h 33 min | Menghzou Act 2 Full Story Quest Playthrough - Wuthering Waves 3.5 | Fayato | 2,096 | 2026-07-10 | <https://www.youtube.com/watch?v=eUATy6TldZU> |
 | 2 h 37 min | Wuthering Waves 3.5 \| Mengzhou Chapter IV-ACT II (Full Quest) \| Xuanling Sings, Storm Quelled | SsjBankai00 | 7 | 2026-07-30 | <https://www.youtube.com/watch?v=EOriEx0rB-c> |
 | 2 h 38 min | [Wuthering Waves 3.5] Chapter IV Act II "Xuanling Sings, Storm Quelled" Full Quest | Andromeda Impact  | 13 | 2026-07-11 | <https://www.youtube.com/watch?v=Z3mD8BSGlCs> |
 | 2 h 38 min | FULL Chapter 4 Act 2 Mengzhou \| Wuthering Waves 3.5 "Xuanling Sings, Storm Quelled" | T.H Bunn | 43 | 2026-07-10 | <https://www.youtube.com/watch?v=ekT1sAqpo0M> |

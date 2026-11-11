@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->152 h 33 min<!--/f-->** (<!--f:n_report_entries-->67<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->590<!--/f--> accepted uploads out of <!--f:n_candidates-->3060<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->152 h 48 min<!--/f-->** (<!--f:n_report_entries-->67<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->588<!--/f--> accepted uploads out of <!--f:n_candidates-->3060<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -26,10 +26,10 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | The Day of Transcending Finality | Part 1 | 6.0 - 6.4 | 5 | 10 h 31 min | [12-the-day-of-transcending-finality.md](12-the-day-of-transcending-finality.md) |
 | At the Fingertip of the Sea | Part 1.5 | 6.5 - 6.8 | 4 | 9 h 49 min | [13-at-the-fingertip-of-the-sea.md](13-at-the-fingertip-of-the-sea.md) |
 | Beyond the Stars | Part 1.5 | 6.9 - 7.2 | 4 | 10 h 13 min | [14-beyond-the-stars.md](14-beyond-the-stars.md) |
-| Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 19 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
+| Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 33 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
 | A Shore Under Watch | Part 2 | 7.7 | 1 | 3 h 10 min | [16-a-shore-under-watch.md](16-a-shore-under-watch.md) |
 | Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 26 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
-| The Sea Sings With the Voice of Fire | Part 2 | 8.5 - 9.1 | 7 | 27 h 58 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
+| The Sea Sings With the Voice of Fire | Part 2 | 8.5 - 9.1 | 7 | 27 h 59 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -37,7 +37,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 <!--gen:extremes-->
 | | Chapter | Estimate |
 | --- | --- | --- |
-| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 02 min |
+| longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 03 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
 | longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 18 min |

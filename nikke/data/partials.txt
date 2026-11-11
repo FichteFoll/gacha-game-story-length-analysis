@@ -10,5 +10,4 @@
 \bparts? ?(?:[3-9]|\d\d+)(?!\.\d)\b
 \bparts? (?:three|four|five|six|seven|eight)\b
 \bpt\.? ?\d+\b
-\bparts? (?:i{1,3}|iv|vi{0,3}|ix)\b
 !^first time playing main chapter 50!

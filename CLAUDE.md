@@ -143,7 +143,8 @@ and `gen_docs.py` (the filler for the marked regions).
 
 Report-specific: the authored `README.md` and chapter files,
 `data/` (`wiki.json`, `game.txt`, `game_aliases.txt`, `acts.tsv`,
-`chapter_keys.json`, `act_keys.json`, `not_playthrough.txt`,
+`chapter_keys.json`, `act_keys.json`, `act_aliases.json`,
+`not_playthrough.txt`,
 `compilations.txt`, `partials.txt`, `min_minutes.txt`,
 `query_templates.txt`),
 `report.py` (the game's configuration and structure)
@@ -156,6 +157,7 @@ the wiki and its version infobox (`data/wiki.json`),
 the word acts are numbered with (read off the labels in `acts.tsv`),
 what an upload titled as less than one act looks like (`data/partials.txt`),
 what tells two same-named acts apart (`data/act_keys.json`),
+what else an act is uploaded as, such as its branding (`data/act_aliases.json`),
 the level gate's name, and the three nouns the renderer writes with:
 the unit an entry is (`unit`), the group of entries one file covers
 (`container`) and what the group's second column holds (`region_label`),

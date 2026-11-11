@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Arc 2: The Journey Back
 
-**Chapters:** 8 - 10 | **Game versions:** 2.2 - 2.8 | **Entries:** 3 | **Estimated arc length: 17 h 42 min**
+**Chapters:** 8 - 10 | **Game versions:** 2.2 - 2.8 | **Entries:** 3 | **Estimated arc length: 17 h 49 min**
 <!--/gen-->
 
 An arc of <!--f:n_entries-->three<!--/f--> chapters
@@ -16,16 +16,16 @@ is the longest of the three.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 8 | Tristes Tropiques | 5 h 10 min | 4 h 19 min - 5 h 51 min | 10 | medium |
+| Chapter 8 | Tristes Tropiques | 5 h 17 min | 4 h 34 min - 6 h 06 min | 9 | medium |
 | Chapter 9 | Folie et Déraison | 5 h 32 min | 5 h 07 min - 6 h 22 min | 8 | high |
 | Chapter 10 | Paradise Regained | 7 h 00 min | 6 h 40 min - 7 h 53 min | 11 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->17 h 42 min<!--/f-->**
+**Total: <!--f:total-->17 h 49 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->17 h 42 min<!--/f-->,
+<!--f:n_entries-->three<!--/f--> chapters, <!--f:total-->17 h 49 min<!--/f-->,
 and nothing in the arc under four hours.
 Chapters 8 and 9 sit inside a single band,
 and their ranges overlap so heavily
@@ -46,12 +46,12 @@ from Unshakable Justice to Monologues,
 by way of The Minotaur and a Riptide.
 <!--gen:stats act="Chapter 8"-->
 
-- **Estimated length:** 5 h 10 min
-- **Sampled range:** 4 h 19 min to 5 h 51 min for the middle half (full spread 3 h 59 min to 6 h 43 min) across 10 playthrough uploads (39 further candidates screened out)
+- **Estimated length:** 5 h 17 min
+- **Sampled range:** 4 h 34 min to 6 h 06 min for the middle half (full spread 3 h 59 min to 6 h 43 min) across 9 playthrough uploads (40 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 2.2
-- **Stability:** median -5% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 4 of 10 uploads
+- **Stability:** median -3% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 4 of 9 uploads
 - **Quest parts (24):** Unshakable Justice (12 min); A New Photo of an Old Friend (11 min); The Minotaur (12 min); Riptide (13 min); Waterway to Hell (14 min); Tender Pretender (14 min); False Accusations (22 min); On the Margins of Life and Death (12 min); Aged Like Fine Wine (19 min); Boarding the White Ship (10 min); Sao Paulo Bossa Nova (14 min); "Silent Night, Holy Night" (10 min); Boto Cor-de-Rosa (15 min); The Sleepless Man (15 min); The Northern Falcon (17 min); "Family Reunion" (14 min); The Black Lamb (14 min); Eye of the Hurricane (10 min); The Gamble (19 min); Farewell, Pera (16 min); Ground Zero (12 min); The Roaring Forties (11 min); The Final Curtain (11 min); Monologues (5 min)
 <!--/gen-->
 
@@ -63,7 +63,6 @@ by way of The Minotaur and a Riptide.
 | --- | --- | --- | --- | --- | --- |
 | 3 h 59 min | [Reverse:1999] Those Tropiques be real Tristes - 2.2 Chapter 8 Main Story | Apeironite | 393 | 2025-01-11 | <https://www.youtube.com/watch?v=TOloCUrvVnc> |
 | 4 h 16 min | Chapter 8 Tristes Tropiques Pt 1 \| Reverse: 1999 Main Story Playthrough (11/13/2025) | daniextralife | 60 | 2025-11-15 | <https://www.youtube.com/watch?v=4JLxMAcojhU> |
-| 4 h 20 min | [REVERSE:1999] finishing Tristes Tropiques until MY BUTT FLATTENS | Haku -Niephylia Fleur- Ch. | 5 | 2025-10-04 | <https://www.youtube.com/watch?v=6SLZugO3_GQ> |
 | 4 h 51 min | Tristes Tropiques \| Chapter 8 \| Reverse: 1999 - Full Story | Reverse: 1999 - Recap | 241 | 2025-06-19 | <https://www.youtube.com/watch?v=KksIqNmqFQI> |
 | 5 h 03 min | Chapter 8: Tristes Tropiques - Full Story \| Reverse: 1999 | Villenthessis | 5,855 | 2025-01-10 | <https://www.youtube.com/watch?v=Q3qPwToZuzk> |
 | 5 h 17 min | 【Reverse: 1999】Chapter 8 "Tristes Tropiques" Full Story [JP Dub] | Super Executive | 1,465 | 2025-01-12 | <https://www.youtube.com/watch?v=-g2F-l6eK3g> |

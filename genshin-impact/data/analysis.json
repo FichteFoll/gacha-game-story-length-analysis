@@ -824,7 +824,9 @@
     "uploader": "Marlon Rex Ladao",
     "url": "https://www.youtube.com/watch?v=pU35GyF_Jrw",
     "views": 55,
-    "rejected": [],
+    "rejected": [
+     "part-of-an-act"
+    ],
     "upload_date": "20210414"
    },
    {
@@ -896,15 +898,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 1978,
-    "title": "Genshin Impact | Chapter I: Act I | Of the Land Amidst Monoliths | Part I",
-    "uploader": "Marlon Rex Ladao",
-    "url": "https://www.youtube.com/watch?v=pU35GyF_Jrw",
-    "views": 55,
-    "rejected": [],
-    "upload_date": "20210414"
-   },
    {
     "seconds": 3540,
     "title": "Full Liyue Archon Quest - Genshin Impact",
@@ -980,16 +973,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 66,
-   "low": 33,
+   "n": 7,
+   "median": 68,
+   "low": 59,
    "high": 96,
-   "q1": 60,
-   "q3": 83,
-   "trimmed_mean": 69,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 74,
    "measured": 2,
    "parts": {},
-   "drift": -0.029
+   "drift": 0.0
   }
  },
  {
@@ -5939,7 +5932,7 @@
     "url": "https://www.youtube.com/watch?v=_XxlFxzQ6Tg",
     "views": 238,
     "rejected": [
-     "short-outlier"
+     "part-of-an-act"
     ],
     "upload_date": "20231006"
    },
@@ -5959,7 +5952,7 @@
     "url": "https://www.youtube.com/watch?v=iF2FuQik5NM",
     "views": 129,
     "rejected": [
-     "short-outlier"
+     "part-of-an-act"
     ],
     "upload_date": "20231003"
    },
@@ -14782,7 +14775,9 @@
     "uploader": "Valeria Hawthorn",
     "url": "https://www.youtube.com/watch?v=LQt_2NwPjMY",
     "views": 3867,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260814"
    },
    {
@@ -15145,15 +15140,6 @@
     "rejected": []
    },
    {
-    "seconds": 19302,
-    "title": "THE PLOT IS THICKENING! Finishing 7.0 Archon Quest - Act 2 Playthrough | Genshin Impact",
-    "uploader": "Valeria Hawthorn",
-    "url": "https://www.youtube.com/watch?v=LQt_2NwPjMY",
-    "views": 3867,
-    "rejected": [],
-    "upload_date": "20260814"
-   },
-   {
     "seconds": 19852,
     "title": "THIS ARCHON QUEST BLEW MY MIND - Genshin 7.0 Act 2",
     "uploader": "BranOnline",
@@ -15181,13 +15167,13 @@
    }
   ],
   "stats": {
-   "n": 36,
+   "n": 35,
    "median": 268,
    "low": 187,
    "high": 403,
    "q1": 261,
-   "q3": 280,
-   "trimmed_mean": 271,
+   "q3": 278,
+   "trimmed_mean": 269,
    "measured": 2,
    "parts": {},
    "drift": 0.011

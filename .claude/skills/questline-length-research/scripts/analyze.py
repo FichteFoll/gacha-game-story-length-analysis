@@ -10,6 +10,9 @@ Reads  <workdir>/acts.tsv            act list (see harvest.sh)
        <workdir>/act_keys.json       optional {chapter_id|act_label: [regex]},
                                      what a title must carry to be about this act
                                      rather than the one it shares its name with
+       <workdir>/act_aliases.json    optional {chapter_id|act_label: [regex]},
+                                     other names a title may give the act by,
+                                     such as the branding it shipped under
        <workdir>/versions.json       optional, act title -> release version
        <workdir>/version_index.json  optional, version -> {number, date};
                                      both extend the chapter keys with the
@@ -61,14 +64,17 @@ import sys
 # excluded because their idle chatter inflates runtime well past the act length,
 # speedruns because they skip the dialogue a first playthrough sits through, and
 # gacha pulls because the summoning pads the runtime the same way. "Pulling the"
-# is left alone, as the start of a quest's name ("Pulling the Trigger").
+# is left alone, as the start of a quest's name ("Pulling the Trigger"), and so
+# are "Gameplay & Cutscenes", which is a whole playthrough rather than a reel.
+# A first playthrough stamped with the day it was played is a stream's VOD.
 REJECT = re.compile(
-    r"cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
+    r"(?<!gameplay & )(?<!gameplay and )(?<!gameplay \+ )cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
     r"\bspeed ?run|\bpulls\b|\bpulling\b(?! the\b)|"
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
     r"theory|\blore\b|tier list|\bamv\b|edit\b|montage|"
-    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534",
+    r"\blive\b|livestream|\bstream(?:ing|ed)?\b|let'?s play|lets play|\U0001F534|"
+    r"first play ?through \[\d{1,2}/\d{1,2}/\d{4}\]",
     re.I,
 )
 # What an upload calls the whole of a chapter. Kept short on purpose, and
@@ -85,6 +91,17 @@ OUTRO = re.compile(
 ACT_END = re.compile(
     r"\b(?:boss|battle|fight|finale?|ending|end|conclusion|epilogue|cutscene|"
     r"credits|post[- ]?(?:quest|story|stage|battle|archon quest))\b", re.I)
+# Instalment counters every game's uploaders use, read as a split of the act
+# in any report, partials.txt or not. "Starting", "Continuing" and "Finishing"
+# are a channel numbering its own videos in words, and no runtime readmits them,
+# because each such session can run as long as someone else's whole act.
+# "Starting the game" and "Starting Station" are a new player's first video and
+# a Girls' Frontline 2 location, not counters.
+SHARED_FRAGMENTS = [r"\b(?:starting|continuing|finishing)\b(?! (?:the game|station)\b)"]
+# ... and the counters a runtime may still readmit, because a game can number
+# its own story by part as well: "Part II" is half of an upload as often as it is
+# the second part of the narrative.
+SHARED_PARTIALS = [r"\bparts? (?:i{1,3}|iv|vi{0,3}|ix|x)\b"]
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
 # ... and the prefix marking a partials.txt pattern no runtime readmits, or a
@@ -262,8 +279,8 @@ def partial_test(workdir):
     the lines of partials.txt; the line "<quest part>" additionally reads a title
     naming one of the act's own quest parts as a split, which is opt-in because a
     game whose uploaders title a complete act after its closing quest part would
-    otherwise lose every upload it has. Returns None where the report says
-    nothing, which is every game that has no partials.txt.
+    otherwise lose every upload it has. SHARED_FRAGMENTS and SHARED_PARTIALS
+    apply to every report on top of its own lines.
 
     A pattern prefixed with "!" is a marker that admits of no second reading, and
     readmit_partials() never brings its uploads back: where an act is a chapter
@@ -273,18 +290,17 @@ def partial_test(workdir):
     """
     patterns = extra_patterns(workdir, "partials.txt")
     by_quest_part = QUEST_PART in patterns
-    certain = [p[len(FRAGMENT):] for p in patterns if p.startswith(FRAGMENT)]
-    literal = [p for p in patterns
-               if p != QUEST_PART and not p.startswith(FRAGMENT)]
-    fragment = re.compile("|".join(certain), re.I) if certain else None
-    regex = re.compile("|".join(literal), re.I) if literal else None
-    if not (fragment or regex or by_quest_part):
-        return None
+    certain = SHARED_FRAGMENTS + [p[len(FRAGMENT):] for p in patterns
+                                  if p.startswith(FRAGMENT)]
+    literal = SHARED_PARTIALS + [p for p in patterns
+                                 if p != QUEST_PART and not p.startswith(FRAGMENT)]
+    fragment = re.compile("|".join(certain), re.I)
+    regex = re.compile("|".join(literal), re.I)
 
     def scope(title, parts):
-        if fragment and fragment.search(title):
+        if fragment.search(title):
             return "fragment"
-        if (regex and regex.search(title)) \
+        if regex.search(title) \
                 or (by_quest_part and part_named(title, parts) is not None):
             return "part-of-an-act"
         return None
@@ -418,6 +434,26 @@ def act_key_test(workdir):
     return is_this_act
 
 
+def act_alias_test(workdir):
+    """`(act, title) -> the title names this act by another name`.
+
+    Some acts are uploaded under their branding rather than their title: a
+    collaboration quest is "Cyberpunk Edgerunners Collab Story Quest" more
+    often than "At Dream's Edge", and where its version shipped a second entry
+    the patch number cannot stand in for the name either. act_aliases.json
+    gives such an act the other names it goes by, as regexes; a title carrying
+    one counts as naming the act, and every other screening rule still applies.
+    """
+    aliases = {k: re.compile("|".join(v), re.I)
+               for k, v in load_json(workdir, "act_aliases.json").items()}
+
+    def is_named(act, title):
+        alias = aliases.get(f"{act['chapter_id']}|{act['act_label']}")
+        return bool(alias and alias.search(title))
+
+    return is_named
+
+
 def version_keys(workdir, acts):
     """Per chapter, the version names and patch numbers its acts shipped in.
 
@@ -469,7 +505,11 @@ def version_pin_test(workdir, acts, chapter_keys):
     the one name of the game. And it must not point anywhere else: not at a
     second patch number, not at another act's title and not at another
     chapter's identifiers, which keeps a compilation of two patches or a recap
-    naming an older act out. Everything else screening checks still applies.
+    naming an older act out. Another act counts as named only where its
+    act_keys.json marks allow the title too: Zenless Zone Zero's "The Zero
+    Zone" is in the words of every title that spells out the game's name, and
+    would otherwise stop every patch number from pinning anything.
+    Everything else screening checks still applies.
     """
     names = [spelled(" ".join(extra_patterns(workdir, "game.txt")))] \
         + [spelled(a) for a in extra_patterns(workdir, "game_aliases.txt")]
@@ -483,6 +523,7 @@ def version_pin_test(workdir, acts, chapter_keys):
         if number and re.fullmatch(r"\d+\.\d+", number):
             shipped.setdefault(number, []).append(act)
     patches = {number: patch_re(number) for number in shipped}
+    keyed = act_key_test(workdir)
     pinned_by = {id(group[0]): number for number, group in shipped.items()
                  if len(group) == 1}
 
@@ -494,7 +535,8 @@ def version_pin_test(workdir, acts, chapter_keys):
         if any(other != number and regex.search(title)
                for other, regex in patches.items()):
             return False
-        if any(other is not act and matches_act_title(title, other["act_title"])
+        if any(other is not act and keyed(other, title)
+               and matches_act_title(title, other["act_title"])
                for other in acts):
             return False
         low = title.lower()
@@ -550,7 +592,7 @@ def part_named(marker_title, parts):
     return next((p for p in parts if matches_act_title(marker_title, p)), None)
 
 
-def act_markers(act, chapters, parts, single=False):
+def act_markers(act, chapters, parts, single=False, by_number=True):
     """The markers of one upload that belong to this act, as (marker, part).
 
     Walkthrough uploads very often name their chapter markers after the quest
@@ -568,11 +610,13 @@ def act_markers(act, chapters, parts, single=False):
     the next act as it is the finale. A marker that says it is the uploader's
     rather than the act's (OUTRO) never counts. In an upload of several acts the markers after one act
     may open the next, so there only the named markers count.
+    A marker naming only the act's number counts where `by_number` allows it,
+    which names_other_chapter() decides from the upload's title.
     """
     named = [part_named(m.get("title") or "", parts) for m in chapters]
     hits = [i for i, m in enumerate(chapters)
             if named[i] or matches_act_title(m.get("title") or "", act["act_title"])
-            or names_act_number(m.get("title") or "", act)]
+            or (by_number and names_act_number(m.get("title") or "", act))]
     if not single or not hits:
         return [(chapters[i], named[i]) for i in hits]
     closes = bool(parts) and named[hits[-1]] == parts[-1]
@@ -595,7 +639,7 @@ def marker_seconds(marker):
     return max(0, (marker.get("end_time") or 0) - (marker.get("start_time") or 0))
 
 
-def act_span(act, chapters, parts, duration, bundled):
+def act_span(act, chapters, parts, duration, bundled, by_number=True):
     """Measured length of this act inside an upload, or None if not locatable.
 
     A span that covers only a fraction of a single-act upload means the markers
@@ -604,7 +648,7 @@ def act_span(act, chapters, parts, duration, bundled):
     A single-act span that passes is widened to the unnamed markers that belong
     to the act as well (act_markers()).
     """
-    matched = act_markers(act, chapters, parts)
+    matched = act_markers(act, chapters, parts, by_number=by_number)
     span = sum(marker_seconds(m) for m, _ in matched)
     if not matched or span < SPAN_MINIMUM:
         return None
@@ -616,7 +660,8 @@ def act_span(act, chapters, parts, duration, bundled):
     # would pass sparse marker sets that miss the act's opening and close, and
     # measure less of it than the runtime they fall back to now.
     return sum(marker_seconds(m)
-               for m, _ in act_markers(act, chapters, parts, single=True))
+               for m, _ in act_markers(act, chapters, parts, single=True,
+                                       by_number=by_number))
 
 
 def load_acts(workdir):
@@ -639,8 +684,8 @@ def load_acts(workdir):
     return acts
 
 
-def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
-                   compilation, pin, partial, enriched, parts, floor=0):
+def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, alias,
+                   reject, compilation, pin, partial, enriched, parts, floor=0):
     rows = []
     path = workdir / "evidence" / f"{act['slug']}.tsv"
     if not path.exists():
@@ -657,11 +702,12 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
             reasons.append("not-a-playthrough")
         if len(pinned) > 1 or compilation(title, pinned == {number}):
             reasons.append("multi-act")
-        if partial and (scope := partial(title, parts)):
+        if scope := partial(title, parts):
             reasons.append(scope)
         if not act_keys(act, title) \
                 or (pinned and number is not None and number not in pinned) \
                 or not (matches_act_title(title, act["act_title"])
+                        or alias(act, title)
                         or matches_act_number(title, act, chapter_keys)
                         or version_pin(act, title)):
             reasons.append("act-mismatch")
@@ -671,16 +717,34 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, reject,
         if exact:
             row.update(seconds=exact["seconds"] or row["seconds"],
                        views=exact["views"], upload_date=exact["upload_date"])
-            measure_from_markers(row, act, exact["chapters"], parts)
+            measure_from_markers(row, act, exact["chapters"], parts,
+                                 not names_other_chapter(title, act, chapter_keys))
         rows.append(row)
     return rows
+
+
+def names_other_chapter(title, act, chapter_keys):
+    """The title is about another chapter, and nothing in it about this act.
+
+    Such an upload's markers may still name this act's quest parts, as a full
+    Chapter 1 upload opens on the prologue, but a marker matching by this act's
+    number alone ("Act II: Veils Off in Sun or Shadow") is that chapter's act
+    of the same number. A title naming both chapters is a bundle across them,
+    whose numbered markers are left to count as before.
+    """
+    if matches_act_title(title, act["act_title"]):
+        return False
+    low = title.lower()
+    keys_of = lambda chapter: any(k.lower() in low for k in chapter_keys.get(chapter, []))
+    return not keys_of(act["chapter_id"]) and any(
+        keys_of(chapter) for chapter in chapter_keys if chapter != act["chapter_id"])
 
 
 # The rejections an upload's chapter markers can overrule, by locating the act.
 BUNDLE_REJECTIONS = ("multi-act", "act-mismatch")
 
 
-def measure_from_markers(row, act, chapters, parts):
+def measure_from_markers(row, act, chapters, parts, by_number=True):
     """Replace an upload's runtime with the part of it that is this act.
 
     An upload rejected only for covering several acts, or for a title that does
@@ -692,14 +756,15 @@ def measure_from_markers(row, act, chapters, parts):
     runtime with a fraction of it and stop readmit_partials() from seeing it.
     """
     bundled = any(r in BUNDLE_REJECTIONS for r in row["rejected"])
-    span = act_span(act, chapters, parts, row["seconds"], bundled)
+    span = act_span(act, chapters, parts, row["seconds"], bundled, by_number)
     if span is None:
         return
     row["runtime"] = row["seconds"]
     row["seconds"] = span
     row["measured"] = "chapter-markers"
     row["parts"] = {}
-    for marker, part in act_markers(act, chapters, parts, single=not bundled):
+    for marker, part in act_markers(act, chapters, parts, single=not bundled,
+                                    by_number=by_number):
         if part:
             row["parts"][part] = row["parts"].get(part, 0) + marker_seconds(marker)
     row["rejected"] = [r for r in row["rejected"] if r not in BUNDLE_REJECTIONS]
@@ -963,6 +1028,7 @@ def main(argv):
     for chapter, brands in version_keys(workdir, acts).items():
         chapter_keys[chapter] = chapter_keys.get(chapter, []) + brands
     act_keys = act_key_test(workdir)
+    alias = act_alias_test(workdir)
     reject = reject_re(workdir)
     compilation = compilation_test(workdir, acts)
     pin = pin_re(acts)
@@ -975,8 +1041,8 @@ def main(argv):
     for act in acts:
         parts = quest_parts.get(f"{act['chapter_id']}|{act['act_label']}", [])
         rows = candidates_for(act, workdir, chapter_keys, act_keys, version_pin,
-                              reject, compilation, pin, partial, enriched, parts,
-                              floor)
+                              alias, reject, compilation, pin, partial, enriched,
+                              parts, floor)
         collapse_reuploads(rows)
         mark_splits(rows)
         readmit_partials(rows)

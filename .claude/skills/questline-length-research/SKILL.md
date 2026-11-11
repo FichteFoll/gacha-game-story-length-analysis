@@ -44,6 +44,7 @@ One directory per game, named after the game, holding only what is game-specific
 <report>/data/acts.tsv            the questline structure (step 1)
 <report>/data/chapter_keys.json   words that identify each chapter in a title
 <report>/data/act_keys.json       marks that tell two same-named acts apart
+<report>/data/act_aliases.json    other names an act is uploaded under, if any
 <report>/data/query_templates.txt the YouTube searches to run per act
 <report>/data/not_playthrough.txt phrasings for footage that is not the questline
 <report>/data/compilations.txt    extra multi-act phrasings this game's uploads use
@@ -300,6 +301,11 @@ Discard, by title:
   is twenty minutes or more, put a runtime floor in
   `<workdir>/min_minutes.txt` (one number) and they are counted out as not
   being playthroughs, which spares the second pass fetching them too.
+  A floor moves more than the rows below it:
+  the outlier trim measures against the median of what is left,
+  so adding one to an existing report can trim a row twice the floor's length
+  (Honkai: Star Rail lost a 69- and an 80-minute upload to a 30-minute floor).
+  Diff every act afterwards, not only the one the floor was added for.
 - **streams and let's-plays**: idle chatter inflates runtime far past the act.
   Gacha pulls ("Pulls & Story", "pulling for <character>") pad it the same way
   and are in the shared list too.
@@ -316,6 +322,10 @@ Discard, by title:
   The same goes for "Full Story" and "Complete Story Quest",
   which Wuthering Waves uploaders say of a single quest;
   there only "entire story" and "full questline" name a compilation.
+  A report's own `compilations.txt` pattern on "full story" overrules this,
+  and the act pin only rescues the titles that carry an act number:
+  check which single-act titles such a pattern rejects before keeping it
+  (Honkai Impact 3rd's threw away seven complete chapters).
   A title whose numbers pin more than one act is a compilation outright:
   the run after the unit may be joined by "&", "and", "+", ",", "to",
   a hyphen, a slash, a tilde, an en dash or a fullwidth tilde
@@ -340,7 +350,10 @@ Discard, by title:
   Where an act runs for hours, uploaders split it,
   and a split's runtime measures the split.
   This one is off unless `<workdir>/partials.txt` says otherwise,
-  because what a split is called differs per game;
+  because what a split is called differs per game,
+  save for the counters every game's uploaders use,
+  which `SHARED_FRAGMENTS` and `SHARED_PARTIALS` in `analyze.py`
+  read in every report ("Starting", "Continuing", "Finishing", "Part II");
   the line `<quest part>` in that file additionally reads
   a title naming one of the act's quest parts as a split.
   An upload whose runtime matches what the unambiguous uploads measured
@@ -375,6 +388,10 @@ Discard, by title:
   so screen them as usual: the streams are in the shared list,
   and a side-quest bundle goes in `compilations.txt`,
   as a `!` line where the title also pins the act.
+  A version that also shipped a side questline about as long as its act
+  (Honkai: Star Rail's Trailblaze Continuance) pins the act only for titles
+  that do not name that questline:
+  put the questline's name in `not_playthrough.txt`.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.
@@ -382,6 +399,11 @@ Discard, by title:
   the act's title words are all in it: an uploader who repeats one act's name
   across a whole chapter ("Chapter 1 Process 4 - The Broken Lands")
   is evidence for the number, not for the name.
+  An act uploaded under its branding rather than its title
+  ("Cyberpunk Edgerunners Collab Story Quest" for At Dream's Edge),
+  in a version that shipped a second entry so that the patch cannot pin it,
+  gets those names as regexes in `<workdir>/act_aliases.json`,
+  keyed `"<chapter_id>|<act_label>"`; a title carrying one names the act.
 - **the wrong one of two same-named acts**: where the title match cannot tell
   two acts apart, give the pair their distinguishing marks in
   `<workdir>/act_keys.json`, keyed `"<chapter_id>|<act_label>"`:
@@ -405,7 +427,8 @@ Discard, by title:
   numbering would: mj-r2's "Deep Oblivion - Part 2: Hidden Intentions"
   counts that channel's instalments, and Girls' Frontline 2's act keys read
   it as the campaign's second part, so one video counted for two chapters.
-  "Starting", "Continuing" and "Finishing" are the same counter in words.
+  "Starting", "Continuing" and "Finishing" are the same counter in words,
+  common enough to be in the shared list rather than in any report's file.
 - **the same uploader twice**: an uploader who posts a single-act upload
   *and* a compilation that contains it
   offers one playthrough under two URLs,
@@ -421,6 +444,10 @@ Discard, by title:
   Nothing catches that automatically;
   add a `!` pattern for that uploader's titles to `partials.txt`,
   as Reverse: 1999 does.
+  The same goes for a channel that streams an act in sessions
+  and numbers them its own way ("— 3", "P1-7"):
+  make that pattern a `!` line, because one session can run
+  as long as another uploader's whole act and would be readmitted on runtime.
 - **one video, two uploaders**: a channel that mirrors its uploads to a second
   channel, or re-uploads someone else's, offers one playthrough under two names,
   and the per-uploader rule above counts both.

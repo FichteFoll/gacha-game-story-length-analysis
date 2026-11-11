@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Season 3
 
-**Region:** Roscaelifer | **Game versions:** 3.0 - 3.3 | **Entries:** 4 | **Estimated chapter length: 15 h 54 min**
+**Region:** Roscaelifer | **Game versions:** 3.0 - 3.3 | **Entries:** 4 | **Estimated chapter length: 15 h 46 min**
 <!--/gen-->
 
 Roscaelifer, where the Proxy meets a version of themselves
@@ -14,24 +14,24 @@ that nobody is quite awake to hear.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 1 | A Sleepwalker's Confession | 4 h 37 min | 4 h 21 min - 5 h 07 min | 18 | high |
-| Chapter 2 | The Long Goodbye | 4 h 29 min | 4 h 13 min - 4 h 41 min | 28 | high |
-| Chapter 3 | Their Secret Histories | 3 h 16 min | 3 h 09 min - 3 h 32 min | 22 | high |
-| Chapter 4 | Journey to the Sky | 3 h 32 min | 3 h 26 min - 3 h 40 min | 14 | high |
+| Chapter 1 | A Sleepwalker's Confession | 4 h 34 min | 4 h 23 min - 4 h 59 min | 21 | high |
+| Chapter 2 | The Long Goodbye | 4 h 28 min | 4 h 13 min - 4 h 40 min | 29 | high |
+| Chapter 3 | Their Secret Histories | 3 h 15 min | 3 h 10 min - 3 h 31 min | 23 | high |
+| Chapter 4 | Journey to the Sky | 3 h 29 min | 3 h 25 min - 3 h 38 min | 16 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->15 h 54 min<!--/f-->**
+**Total: <!--f:total-->15 h 46 min<!--/f-->**
 
 ## Pacing
 
 Still being released: <!--f:n_entries-->four<!--/f--> chapters so far,
-<!--f:total-->15 h 54 min<!--/f--> between them.
-The first two, at <!--f:len_Chapter_1-->4 h 37 min<!--/f--> and <!--f:len_Chapter_2-->4 h 29 min<!--/f-->,
+<!--f:total-->15 h 46 min<!--/f--> between them.
+The first two, at <!--f:len_Chapter_1-->4 h 34 min<!--/f--> and <!--f:len_Chapter_2-->4 h 28 min<!--/f-->,
 were written at the Season 2 scale rather than the Season 1 one.
 The two since are shorter.
-*Their Secret Histories* is the shortest of the four at <!--f:len_Chapter_3-->3 h 16 min<!--/f-->,
+*Their Secret Histories* is the shortest of the four at <!--f:len_Chapter_3-->3 h 15 min<!--/f-->,
 told in <!--f:parts_Chapter_3-->six<!--/f--> quest parts,
-and *Journey to the Sky* follows at <!--f:len_Chapter_4-->3 h 32 min<!--/f-->,
+and *Journey to the Sky* follows at <!--f:len_Chapter_4-->3 h 29 min<!--/f-->,
 in <!--f:parts_Chapter_4-->six<!--/f--> as well.
 All four are recent enough
 that their evidence pools have had the least time to settle.
@@ -49,11 +49,11 @@ where the trouble starts before the luggage is unpacked.
 <!--gen:stats act="Chapter 1"-->
 One of the three longest chapters in the game.
 
-- **Estimated length:** 4 h 37 min
-- **Sampled range:** 4 h 21 min to 5 h 07 min for the middle half (full spread 3 h 57 min to 5 h 50 min) across 18 playthrough uploads (35 further candidates screened out)
+- **Estimated length:** 4 h 34 min
+- **Sampled range:** 4 h 23 min to 4 h 59 min for the middle half (full spread 3 h 57 min to 5 h 50 min) across 21 playthrough uploads (32 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.0
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median +1% against an earlier, independent query set
 - **Quest parts (16):** Journey's Beginning; New Landing Spot; First Encounter With Trouble; Seeing is Believing; One Into Three; About Past Treatment; A Different Kind of Rebirth; Special Power; Mission at Hand; Restoring the Energy Hub; Solutions Start With Investigations; Infiltration and Allies; Closing in on the Truth; Life or Death Escape; Angel Within Reach; Fading Light
 <!--/gen-->
 
@@ -69,8 +69,11 @@ One of the three longest chapters in the game.
 | 4 h 21 min | ZZZ Season 3 Chapter 1 - A Sleepwalker's Confession (3.0 Full Story) | Major | 298 | 2026-06-17 | <https://www.youtube.com/watch?v=JtHYLMNd2RM> |
 | 4 h 21 min | ZZZ Main Quest Season 3 Chapter 1 - A Sleepwalker's Confession Full Gameplay \| Zenless Zone Zero 3.0 | Akabirama | 202 | 2026-06-17 | <https://www.youtube.com/watch?v=q2MW1meeecw> |
 | 4 h 25 min | Zenless Zone Zero 3.0 Story - "A Sleepwalker's Confession" Full Playthrough | ItsDaveTV Plays and ItsDaveTV | 63 | 2026-06-17 | <https://www.youtube.com/watch?v=O_dLmx-LXDU> |
+| 4 h 26 min | Zenless Zone Zero 3.0 Full Main Story Quest (Wise POV) | CGInferno | 27,076 | 2026-06-17 | <https://www.youtube.com/watch?v=GIHRH-fWYPY> |
 | 4 h 29 min | Zenless Zone Zero 3.0 Main Story Playthrough \| A Sleepwalker's Confession | CodeSwarmx | 55 | 2026-06-22 | <https://www.youtube.com/watch?v=NTr9QvWzmik> |
 | 4 h 32 min | Zenless Zone Zero 3.0 Season 3 Chapter 1 - Main Story Full Walkthrough [4K 60FPS RTX ON] | Headstart Gaming | 897 | 2026-07-28 | <https://www.youtube.com/watch?v=sKS0OxRBu6U> |
+| 4 h 32 min | Zenless Zone Zero Version 3.0 Main Story Quest (Full Playthrough) Roscaelifer Season 3 | Streetwise Rhapsody | 72,980 | 2026-06-17 | <https://www.youtube.com/watch?v=a-aVqhgQ3BI> |
+| 4 h 34 min | Zenless Zone Zero 3.0 Roscaelifer - New Main Story Quest Full Walkthrough | Rubhen925 | 50,143 | 2026-06-17 | <https://www.youtube.com/watch?v=WCmJPEIcQXU> |
 | 4 h 36 min | FULL Season 3 - Chapter 1: "A Sleepwalker's Confession" \| Zenless Zone Zero v3.0 | T.H Bunn | 166 | 2026-06-17 | <https://www.youtube.com/watch?v=iEdBguH6Z_8> |
 | 4 h 37 min | Zenless Zone Zero 3.0 NEW Main Story Quest \| A Sleepwalker's Confession Full Walkthrough | BSS Gaming | 147 | 2026-06-17 | <https://www.youtube.com/watch?v=qav6Y6JhJFU> |
 | 4 h 43 min | A Sleepwalker's Confession (ZZZ 3.0 Full Story Walkthrough, No Commentary) | The Historian Proxy | 46 | 2026-07-31 | <https://www.youtube.com/watch?v=_TFm0vusBhM> |
@@ -96,12 +99,12 @@ the En-Nah Gang of the Retroflux Zone,
 and a game that was checkmated before it began.
 <!--gen:stats act="Chapter 2"-->
 
-- **Estimated length:** 4 h 29 min
-- **Sampled range:** 4 h 13 min to 4 h 41 min for the middle half (full spread 3 h 50 min to 4 h 55 min) across 28 playthrough uploads (24 further candidates screened out)
+- **Estimated length:** 4 h 28 min
+- **Sampled range:** 4 h 13 min to 4 h 40 min for the middle half (full spread 3 h 50 min to 4 h 55 min) across 29 playthrough uploads (23 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.1
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 28 uploads
+- **Measured from the uploader's chapter markers:** 2 of 29 uploads
 - **Quest parts (10):** Visitor from Beyond the Curtain; Phantom of Memory; En-Nah Gang of the Retroflux Zone; Learning to Work With a Dance Partner; The Real Culprit; A Checkmated Game; Beneath Wings Heavy and Soaked; Memories of the Forgotten; Into the Abyss With You; After the Curtain Falls...
 <!--/gen-->
 
@@ -122,6 +125,7 @@ and a game that was checkmated before it began.
 | 4 h 15 min | Zenless Zone Zero 3.1 - Full Main Story Quest Walkthrough (Belle POV) The Long Goodbye | Ryo | 619 | 2026-07-29 | <https://www.youtube.com/watch?v=xwlQin4VEHE> |
 | 4 h 15 min | The Long Goodbye \| Season 3 Chapter 2 \| Zenless Zone Zero ver 3.1 | LoneWanderer | 7 | 2026-07-30 | <https://www.youtube.com/watch?v=adV7FAZTevk> |
 | 4 h 16 min | Zenless Zone Zero 3.1 \| The Long Goodbye - Main Story Quest (No Commentary) | Evil Magic | 261 | 2026-07-30 | <https://www.youtube.com/watch?v=_M-UPZMXiZg> |
+| 4 h 17 min | Zenless Zone Zero 3.1 Full Main Story Quest (Wise POV) | CGInferno | 21,503 | 2026-07-29 | <https://www.youtube.com/watch?v=D93mOM8M4kk> |
 | 4 h 19 min | Zenless Zone Zero Version 3.1 Main Story Quest (Full Playthrough) The Long Goodbye | Streetwise Rhapsody | 67,510 | 2026-07-29 | <https://www.youtube.com/watch?v=mKJG8eqFRbg> |
 | 4 h 26 min | Zenless Zone Zero 3.1 - Main Story Quest: The Long Goodbye | BSS Gaming | 99 | 2026-07-29 | <https://www.youtube.com/watch?v=BGrVV4ydv7k> |
 | 4 h 28 min | Zenless Zone Zero 3.1 Season 3 Chapter 2 - Main Story Full Walkthrough [4K 60FPS RTX ON] | Headstart Gaming | 61 | 2026-08-07 | <https://www.youtube.com/watch?v=_Umx87iUwO4> |
@@ -154,11 +158,11 @@ a shrouded reef, a messenger in the mist,
 and the truth buried beneath the ground.
 <!--gen:stats act="Chapter 3"-->
 
-- **Estimated length:** 3 h 16 min
-- **Sampled range:** 3 h 09 min to 3 h 32 min for the middle half (full spread 2 h 07 min to 4 h 06 min) across 22 playthrough uploads (30 further candidates screened out)
+- **Estimated length:** 3 h 15 min
+- **Sampled range:** 3 h 10 min to 3 h 31 min for the middle half (full spread 2 h 07 min to 4 h 06 min) across 23 playthrough uploads (29 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.2
-- **Measured from the uploader's chapter markers:** 1 of 22 uploads
+- **Measured from the uploader's chapter markers:** 1 of 23 uploads
 - **Quest parts (6):** Ready to Roll; The Homeland of Porcelloy; Shrouded Reef Mystery; Messenger in the Mist; The Truth Buried Beneath the Ground; The Storm Has Yet to Settle
 <!--/gen-->
 
@@ -175,6 +179,7 @@ and the truth buried beneath the ground.
 | 3 h 09 min | Zenles Zone Zero Ver 3.2 Main Story Quest Chapter 3 ''Their Secret Histories'' (Full Playthrough) | one  | 6 | 2026-09-11 | <https://www.youtube.com/watch?v=AH0dTI2yGWw> |
 | 3 h 10 min | Zenless Zone Zero 3.2 - Full Main Story Quest Walkthrough (Belle POV) Their Secret Histories | Ryo | 799 | 2026-09-09 | <https://www.youtube.com/watch?v=tIDIJy74PsY> |
 | 3 h 10 min | Zenless Zone Zero 3.2 Story: Their Secret Histories [Full Cinematic Playthrough No Commentary] | Azphel Kami | 7 | 2026-09-09 | <https://www.youtube.com/watch?v=W7uS4ZclAfo> |
+| 3 h 11 min | Zenless Zone Zero 3.2 - New Main Story Quest Full Walkthrough | Rubhen925 | 23,143 | 2026-09-09 | <https://www.youtube.com/watch?v=Vk991JFLznk> |
 | 3 h 12 min | Zenless Zone Zero Version 3.2 Main Story Quest (Full Playthrough) Their Secret Histories | Streetwise Rhapsody | 57,090 | 2026-09-09 | <https://www.youtube.com/watch?v=NPIiRDVfUZw> |
 | 3 h 13 min | Zenless Zone Zero 3.2 Main Story Quest  Full Walkthrough: Their Secret Histories | Evil Magic | 876 | 2026-09-09 | <https://www.youtube.com/watch?v=d_hfhOiulnA> |
 | 3 h 15 min | Version 3.2 "Their Secret Histories" Main Story - Full Playthrough (Zenless Zone Zero 3.2) | Abyss Breakdown | 6,027 | 2026-09-09 | <https://www.youtube.com/watch?v=Vc7igLLf5W0> |
@@ -206,8 +211,8 @@ and Quietude Isle,
 and the chapter closes on a dialogue between sleepwalkers.
 <!--gen:stats act="Chapter 4"-->
 
-- **Estimated length:** 3 h 32 min
-- **Sampled range:** 3 h 26 min to 3 h 40 min for the middle half (full spread 3 h 20 min to 4 h 03 min) across 14 playthrough uploads (21 further candidates screened out)
+- **Estimated length:** 3 h 29 min
+- **Sampled range:** 3 h 25 min to 3 h 38 min for the middle half (full spread 3 h 20 min to 4 h 03 min) across 16 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 3.3
 - **Quest parts (6):** Journey to the Sky Overture; Airport Assault; Spiral Causality; Ahriman That Could Not Pass On; Who Is Trapped in the Secret Room; Sleepwalkers' Dialogue
@@ -221,6 +226,8 @@ and the chapter closes on a dialogue between sleepwalkers.
 | --- | --- | --- | --- | --- | --- |
 | 3 h 20 min | Zenless Zone Zero 3.3 - Full Main Story Quest Walkthrough (Belle POV) Journey To The Sky | Ryo | 289 | 2026-10-21 | <https://www.youtube.com/watch?v=tBC8GpwYFEY> |
 | 3 h 21 min | Journey to the Sky - Season 3: Chapter 4 (Full Story) \| Zenless Zone Zero 3.3 | Sir Patty | 36 | 2026-10-22 | <https://www.youtube.com/watch?v=gXNBWSxGaB4> |
+| 3 h 25 min | Zenless Zone Zero 3.3 - New Main Story Quest Full Walkthrough | Rubhen925 | 29,782 | 2026-10-21 | <https://www.youtube.com/watch?v=SYvJMfjIRp4> |
+| 3 h 25 min | Zenless Zone Zero Version 3.3 - Main Story Quest (Full Playthrough) | Streetwise Rhapsody | 50,310 | 2026-10-21 | <https://www.youtube.com/watch?v=CLbAWd6Cf34> |
 | 3 h 26 min | ZZZ Main Quest Season 3 Chapter 4 - Journey to the Sky Full Walkthrough \| Zenless Zone Zero 3.3 | Akabirama | 107 | 2026-10-21 | <https://www.youtube.com/watch?v=ycrrlgwesxU> |
 | 3 h 26 min | Journey to the Sky \| Season 3 Chapter 4 \| Zenless Zone Zero 3.3 | LoneWanderer | 8 | 2026-10-24 | <https://www.youtube.com/watch?v=6Cq-gBCopU8> |
 | 3 h 27 min | Zenless Zone Zero 3.3 Main Story "Journey to the Sky" Full Gameplay | MaakuPlays | 146 | 2026-10-21 | <https://www.youtube.com/watch?v=PMKD-FXuI7U> |

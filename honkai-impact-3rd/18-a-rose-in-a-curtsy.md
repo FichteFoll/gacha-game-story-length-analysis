@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Sea Sings With the Voice of Fire
 
-**Part:** Part 2 | **Game versions:** 8.5 - 9.1 | **Entries:** 7 | **Estimated arc length: 27 h 58 min**
+**Part:** Part 2 | **Game versions:** 8.5 - 9.1 | **Entries:** 7 | **Estimated arc length: 27 h 59 min**
 <!--/gen-->
 
 The most recent stretch of the story, and the one that closes Part 2.
@@ -20,22 +20,22 @@ followed by an afterstory once the finale is over.
 | Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 6 | low |
 | Chapter XII | With You, Whom I Never Knew | 4 h 18 min | 3 h 35 min - 4 h 25 min | 16 | high |
 | Chapter XIII | A Rose in a Curtsy | 4 h 00 min | 3 h 36 min - 4 h 23 min | 16 | high |
-| Chapter XIV | The Future We Embrace | 6 h 02 min | 5 h 19 min - 6 h 46 min | 11 | medium |
+| Chapter XIV | The Future We Embrace | 6 h 03 min | 5 h 18 min - 6 h 49 min | 10 | medium |
 | Chapter XV | The Sea Sings With the Voice of Fire | 3 h 08 min | 2 h 37 min - 3 h 59 min | 13 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->27 h 58 min<!--/f-->**
+**Total: <!--f:total-->27 h 59 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->27 h 58 min<!--/f-->,
+<!--f:n_entries-->seven<!--/f--> entries and <!--f:total-->27 h 59 min<!--/f-->,
 the newest arc in the report and the last one it covers,
 and the largest in it, ahead of *Dawn after the Remaining Old Wish*.
 Four of its entries sit within half an hour of each other
 and the EX chapter sits well below them at
 <!--f:len_Chapter_EX_4-->2 h 27 min<!--/f-->.
 Chapter XIV runs past all of them, and past every other entry in the game,
-at <!--f:len_Chapter_XIV-->6 h 02 min<!--/f-->,
+at <!--f:len_Chapter_XIV-->6 h 03 min<!--/f-->,
 and the afterstory after it comes in shorter than the four,
 at <!--f:len_Chapter_XV-->3 h 08 min<!--/f-->.
 Coverage is good: these chapters shipped recently enough
@@ -238,8 +238,8 @@ are screened out for not naming the act.
 <!--gen:stats act="Chapter XIV"-->
 The single longest chapter in the game.
 
-- **Estimated length:** 6 h 02 min
-- **Sampled range:** 5 h 19 min to 6 h 46 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 11 playthrough uploads (58 further candidates screened out)
+- **Estimated length:** 6 h 03 min
+- **Sampled range:** 5 h 18 min to 6 h 49 min for the middle half (full spread 4 h 48 min to 7 h 47 min) across 10 playthrough uploads (59 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 9.0
 <!--/gen-->
@@ -253,7 +253,6 @@ The single longest chapter in the game.
 | 4 h 48 min | [Honkai3rdEP228] บทสรุปของดาวอังคาร \| The Future We Embrace | Ascending P | 142 | 2026-09-03 | <https://www.youtube.com/watch?v=M-5E_zJrY8M> |
 | 5 h 13 min | Honkai Impact 3rd \| Main Story Part 2 Finale: The Future We Embrace | Nguyễn Ngọc Hoàng Long | 34 | 2026-09-03 | <https://www.youtube.com/watch?v=MqtMB_-XurY> |
 | 5 h 19 min | Completing Part 2 Chapter 14 'The Future We Embrace' \| Honkai Impact 3rd | JaydenHorn1406 | 353 | 2026-09-15 | <https://www.youtube.com/watch?v=nvi02eqi_XQ> |
-| 5 h 28 min | Hi3 Part 2 Chapter 14: The Future We Embrace first play through [20/10/2026] | Makie Stream's VOD | 1 | 2026-11-09 | <https://www.youtube.com/watch?v=jHvsxJ8Y9yY> |
 | 6 h 00 min | PART 2 GRAND FINALE!!! The Future We Embrace \| Honkai Impact 3rd [v9.0] | Nanoha61 | 6 | 2026-09-04 | <https://www.youtube.com/watch?v=hZZdM4KZSBw> |
 | 6 h 02 min | Honkai Impact 3rd Story Part 2 Finale Chapter : "The Future We Embrace" | Arikachi Ch. ありかち_かとじ | 22 | 2026-09-08 | <https://www.youtube.com/watch?v=LG9vBXa2DA0> |
 | 6 h 04 min | Honkai Impact 3rd Part 2 – Chapter 14 The Future We Embrace | Jirangu | 603 | 2026-09-04 | <https://www.youtube.com/watch?v=KV2Yd6K5KRo> |

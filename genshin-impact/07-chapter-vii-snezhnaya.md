@@ -20,7 +20,7 @@ and the Traveler sets out across the nations to break its seals.
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | Act I | Everwinter Without Mercy | 4 h 02 min | 3 h 53 min - 4 h 20 min | 29 | high |
-| Act II | Wraith's Nocturne | 4 h 28 min | 4 h 21 min - 4 h 40 min | 36 | high |
+| Act II | Wraith's Nocturne | 4 h 28 min | 4 h 21 min - 4 h 38 min | 35 | high |
 | Act III | White Night, Like a Dream Upon Waking | 2 h 43 min | 2 h 34 min - 2 h 54 min | 31 | high |
 | Act IV | A Rekviem for the Underworld | 2 h 50 min | 2 h 41 min - 2 h 56 min | 25 | high |
 | Act V | Hour of Ruin | 1 h 34 min | 1 h 29 min - 1 h 38 min | 12 | high |
@@ -122,12 +122,12 @@ and the ballet that stops mid-performance.
 One of the three longest acts in the game.
 
 - **Estimated length:** 4 h 28 min
-- **Sampled range:** 4 h 21 min to 4 h 40 min for the middle half (full spread 3 h 07 min to 6 h 43 min) across 36 playthrough uploads (18 further candidates screened out)
+- **Sampled range:** 4 h 21 min to 4 h 38 min for the middle half (full spread 3 h 07 min to 6 h 43 min) across 35 playthrough uploads (19 further candidates screened out)
 - **Confidence:** high
 - **Adventure Rank gate:** 18
 - **Released in:** 7.0
 - **Stability:** median +1% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 36 uploads
+- **Measured from the uploader's chapter markers:** 2 of 35 uploads
 - **Quest parts (5):** The White Curtain Falls; Lelek's Confession; Winter's Mysterious Silence; Wraith's Nocturne; Mistilteinn
 <!--/gen-->
 
@@ -169,7 +169,6 @@ One of the three longest acts in the game.
 | 4 h 53 min | Genshin Impact 7.0 Archon Quest: Snezhnaya Act II (JP Voice) | ViGAMES | ~4,293 | n/a | <https://www.youtube.com/watch?v=n2UNFl7jtPQ> |
 | 4 h 57 min | Archon Quest: Wraith's Nocturne ~ Chapter VII: Act II Full Gameplay (no commentary) • Version 7.0 | Aether087 | ~30 | n/a | <https://www.youtube.com/watch?v=u6vuQFtF2pU> |
 | 5 h 14 min | Genshin Impact Ep221 \| Snezhnaya Archon Quest Act 2: Wraith's Nocturne | Dan Sheets | ~36 | n/a | <https://www.youtube.com/watch?v=js8_GnM6CkY> |
-| 5 h 22 min | THE PLOT IS THICKENING! Finishing 7.0 Archon Quest - Act 2 Playthrough \| Genshin Impact | Valeria Hawthorn | 3,867 | 2026-08-14 | <https://www.youtube.com/watch?v=LQt_2NwPjMY> |
 | 5 h 31 min | THIS ARCHON QUEST BLEW MY MIND - Genshin 7.0 Act 2 | BranOnline | 258,111 | 2026-08-13 | <https://www.youtube.com/watch?v=A4DwIgAxKB4> |
 | 5 h 32 min | Wraith's Nocturne Chapter VII Act II Full Story, Snezhnaya Archon Quest, Genshin Impact English Dub | Kuroyukihime | ~688 | n/a | <https://www.youtube.com/watch?v=gD31qg4rzaA> |
 | 6 h 43 min | Wraith's Nocturne Snezhnaya Archon Quest Act II Playthrough \| Genshin Impact 7.0 | ennieee | 33,152 | 2026-08-14 | <https://www.youtube.com/watch?v=G0X0tDTP4aQ> |

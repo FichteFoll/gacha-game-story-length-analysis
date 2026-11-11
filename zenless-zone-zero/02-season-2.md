@@ -15,15 +15,15 @@ that the peninsula has been outrunning for generations.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter 1 | Where Clouds Embrace the Dawn | 4 h 31 min | 4 h 05 min - 5 h 20 min | 13 | medium |
-| Chapter 2 | The Impending Crash of Waves | 4 h 00 min | 3 h 34 min - 4 h 18 min | 12 | high |
-| Chapter 3 | Do Not Go Gentle Into That Good Night | 3 h 43 min | 3 h 29 min - 4 h 14 min | 13 | high |
-| Chapter 4 | Memories of Dreams Bygone | 3 h 31 min | 3 h 15 min - 3 h 53 min | 15 | high |
-| Chapter 5 | On the Precipice of the Abyss | 4 h 12 min | 4 h 03 min - 4 h 50 min | 13 | high |
+| Chapter 1 | Where Clouds Embrace the Dawn | 4 h 32 min | 4 h 07 min - 5 h 19 min | 14 | medium |
+| Chapter 2 | The Impending Crash of Waves | 4 h 06 min | 3 h 39 min - 4 h 18 min | 13 | high |
+| Chapter 3 | Do Not Go Gentle Into That Good Night | 3 h 43 min | 3 h 31 min - 4 h 08 min | 14 | high |
+| Chapter 4 | Memories of Dreams Bygone | 3 h 32 min | 3 h 16 min - 3 h 50 min | 16 | high |
+| Chapter 5 | On the Precipice of the Abyss | 4 h 12 min | 4 h 04 min - 4 h 43 min | 14 | high |
 | Chapter 6 | To Be Fuel for the Night | 6 h 49 min | 6 h 20 min - 8 h 01 min | 12 | medium |
-| Interlude | Encore for an Old Dream | 5 h 03 min | 4 h 47 min - 5 h 55 min | 11 | high |
-| Epilogue (A) | New: Eridan Sunset (A) | 3 h 18 min | 2 h 54 min - 3 h 27 min | 15 | high |
-| Epilogue (B) | New: Eridan Sunset (B) | 2 h 42 min | 2 h 26 min - 2 h 50 min | 15 | high |
+| Interlude | Encore for an Old Dream | 5 h 03 min | 4 h 50 min - 5 h 50 min | 13 | high |
+| Epilogue (A) | New: Eridan Sunset (A) | 3 h 14 min | 2 h 57 min - 3 h 25 min | 17 | high |
+| Epilogue (B) | New: Eridan Sunset (B) | 2 h 38 min | 2 h 26 min - 2 h 50 min | 18 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->37 h 49 min<!--/f-->**
@@ -36,7 +36,7 @@ and *<!--f:longest_title-->To Be Fuel for the Night<!--/f-->*, the season's clim
 alone takes <!--f:longest_len-->6 h 49 min<!--/f-->:
 the longest single entry in the game.
 Around it the season is remarkably even,
-every other entry landing between <!--f:len_Epilogue_B-->2 h 42 min<!--/f-->
+every other entry landing between <!--f:len_Epilogue_B-->2 h 38 min<!--/f-->
 and <!--f:len_Interlude-->5 h 03 min<!--/f-->.
 
 ## Chapters
@@ -51,12 +51,12 @@ and a restoration project at Suibian Temple
 that nobody but its disciple believes in.
 <!--gen:stats act="Chapter 1"-->
 
-- **Estimated length:** 4 h 31 min
-- **Sampled range:** 4 h 05 min to 5 h 20 min for the middle half (full spread 3 h 33 min to 6 h 19 min) across 13 playthrough uploads (8 further candidates screened out)
+- **Estimated length:** 4 h 32 min
+- **Sampled range:** 4 h 07 min to 5 h 19 min for the middle half (full spread 3 h 33 min to 6 h 19 min) across 14 playthrough uploads (7 further candidates screened out)
 - **Confidence:** medium
 - **Released in:** 2.0
 - **Stability:** median 0% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 1 of 13 uploads
+- **Measured from the uploader's chapter markers:** 1 of 14 uploads
 - **Quest parts (11):** Yunkui Visitor; Attack from the Shadows; Dispel the Darkness; Welcome to Suibian Temple!; Land of Rising Turmoil; Eaves and Brackets, Renewed in Light; Lurking Menace in the Shadows; Calamity Casts a Shadow, Yet Shows No Sign; Lurking Waves; Yunkui Disciples Re-Emerge; The Storm Has Settled, but Ripples Remain
 <!--/gen-->
 
@@ -76,6 +76,7 @@ that nobody but its disciple believes in.
 | 4 h 33 min | Zenless Zone Zero - Season 2 Chapter 1 - "Where the Clouds Embrace the Dawn"  | Chiko | ~17 | n/a | <https://www.youtube.com/watch?v=iGGVXPjOgbk> |
 | 4 h 57 min | Discovering SUIBIAN TEMPLE! - Season 2 Chapter 1 \| ZZZ 2.0 #f2p | HappyOwlTV | 28 | 2025-06-18 | <https://www.youtube.com/watch?v=BTg-nNOTs2Y> |
 | 5 h 17 min | Where Clouds Embrace the Dawn Quest - Zenless Zone Zero (ZZZ) - Version 2.0 | RSA The Gamer Boy | 52 | 2025-06-23 | <https://www.youtube.com/watch?v=UJYgET1UuQY> |
+| 5 h 18 min | Zenless Zone Zero 2.0 - New Main Story Quest Full Walkthrough | Rubhen925 | 69,603 | 2025-06-06 | <https://www.youtube.com/watch?v=UtxfiOT3gLY> |
 | 5 h 24 min | Zenless Zone Zero - Season 2 Chapter 1: Where Clouds Embrace the Dawn \| Full Story JP Dub EN Sub | Gudaoko | 3,053 | 2025-06-08 | <https://www.youtube.com/watch?v=OJilkM9xyFY> |
 | 6 h 10 min | where clouds embrace the dawn season 2 chapter 1 story quest patch 2.0 | thathomelessdood | ~138 | n/a | <https://www.youtube.com/watch?v=q8wPTv-17pg> |
 | 6 h 19 min | ZZZ - Where Clouds Embrace the Dawn - Season 2 chapter 1 complete story (walkthrough/ no commentary) | CorporalOdin2 | ~66 | n/a | <https://www.youtube.com/watch?v=mZ_RkMqHnXQ> |
@@ -93,11 +94,11 @@ A safety inspection, a pursuit across Sailume Bay,
 and the source of the Obscuras.
 <!--gen:stats act="Chapter 2"-->
 
-- **Estimated length:** 4 h 00 min
-- **Sampled range:** 3 h 34 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 12 playthrough uploads (9 further candidates screened out)
+- **Estimated length:** 4 h 06 min
+- **Sampled range:** 3 h 39 min to 4 h 18 min for the middle half (full spread 3 h 19 min to 4 h 54 min) across 13 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.1
-- **Stability:** median -2% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (7):** Safety Inspection; Prank Perpetrator; Sailume Bay Pursuit; Source of the Obscuras; Secret Past; A Bond Returned; Echoes of Melody Linger
 <!--/gen-->
 
@@ -115,6 +116,7 @@ and the source of the Obscuras.
 | 3 h 54 min | Zenless Zone Zero - S2 Chapter 2: The Impending Crash of Waves \| Full Walkthrough \| No Commentary | Retroplay A-Z | ~33 | n/a | <https://www.youtube.com/watch?v=k9a4tW5MVGA> |
 | 4 h 06 min | Version 2.1 Main Story Quest (Full Quest) The Impending Crash of Waves \| Zenless Zone Zero | Streetwise Rhapsody | 49,547 | 2025-07-16 | <https://www.youtube.com/watch?v=xICDbkBScZE> |
 | 4 h 08 min | Zenless Zone Zero version 2.1 Main Quest \| Season 2 Chapter 2: The Impending Crash of Waves [FULL] | Zukebei Ch.  | ~48 | n/a | <https://www.youtube.com/watch?v=d9xr7JRhUN8> |
+| 4 h 12 min | Zenless Zone Zero 2.1 \| New Main Story Quest Full Walkthrough | Rubhen925 | ~47,075 | n/a | <https://www.youtube.com/watch?v=o1kZXKgjLQE> |
 | 4 h 17 min | [Zenless Zone Zero 2.1] New Main Story Quest Season 2 Chapter 2 Full Walkthrough | Lotus Ch. | 56 | 2025-07-18 | <https://www.youtube.com/watch?v=uNn9Qd0Vvf4> |
 | 4 h 19 min | Zenless Zone Zero \| Version 2.1 Season 2 Chapter 2 \| The Impending Crash of Waves \| Full Gameplay | JS Gaming Realm | ~17 | n/a | <https://www.youtube.com/watch?v=ak__PtxGVe0> |
 | 4 h 39 min | The Impending Crash Of Waves \| Zenless Zone Zero Version 2.1 Main Story Quest  ( Full Gameplay ) | DIABLO PLAY'S  | ~33 | n/a | <https://www.youtube.com/watch?v=l71M6r1jiII> |
@@ -134,7 +136,7 @@ and a story that refuses to end where it should.
 <!--gen:stats act="Chapter 3"-->
 
 - **Estimated length:** 3 h 43 min
-- **Sampled range:** 3 h 29 min to 4 h 14 min for the middle half (full spread 3 h 20 min to 5 h 21 min) across 13 playthrough uploads (8 further candidates screened out)
+- **Sampled range:** 3 h 31 min to 4 h 08 min for the middle half (full spread 3 h 20 min to 5 h 21 min) across 14 playthrough uploads (7 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.2
 - **Stability:** median 0% against an earlier, independent query set
@@ -154,6 +156,7 @@ and a story that refuses to end where it should.
 | 3 h 35 min | ZZZ Main Quest Season 2 Chapter 3 Do Not Go Gentle Into That Good Night \| Zenless Zone Zero 2.2 | Akabirama | ~98 | n/a | <https://www.youtube.com/watch?v=_ZgevZFSHdQ> |
 | 3 h 41 min | Version 2.2 Main Story Quest (Full Quest) Do Not Go Gentle Into That Good Night \| Zenless Zone Zero | Streetwise Rhapsody | 31,408 | 2025-09-04 | <https://www.youtube.com/watch?v=7ZvPWJvIB3w> |
 | 3 h 43 min | Zenless Zone Zero 2.2 Do Not Go Gentle Into That Good Night Full Walkthrough no commentary | AdamSmashed | ~257 | n/a | <https://www.youtube.com/watch?v=yPjb2nq_4OQ> |
+| 3 h 43 min | Zenless Zone Zero 2.2 - New Main Story Quest Full Walkthrough | Rubhen925 | 72,216 | 2025-09-04 | <https://www.youtube.com/watch?v=-0sOgyxAuyc> |
 | 3 h 43 min | Zenless Zone Zero \|\| Version 2.2 - COMPLETE STORY \|\| Do Not Go Gentle Into That Good Night | Uncle Fifty | ~19 | n/a | <https://www.youtube.com/watch?v=gYZO-qVRLcI> |
 | 3 h 52 min | Zenless Zone Zero Version 2.2 - Main Story Quest (Full Quest)  Do Not Go Gentle Into That Good Night | Dosa Kun | 35 | 2025-09-09 | <https://www.youtube.com/watch?v=YVhcK793Ozo> |
 | 4 h 02 min | Zenless Zone Zero Version 2.2 Main Quest: Season 2 Chapter 3: Do Not Go Gentle Into That Good Night | Nani Clips | 5 | 2025-09-07 | <https://www.youtube.com/watch?v=Xr8GSp3IDO0> |
@@ -174,11 +177,11 @@ a slumbering mystery underneath it,
 and a rescue that costs more than it saves.
 <!--gen:stats act="Chapter 4"-->
 
-- **Estimated length:** 3 h 31 min
-- **Sampled range:** 3 h 15 min to 3 h 53 min for the middle half (full spread 2 h 17 min to 5 h 54 min) across 15 playthrough uploads (9 further candidates screened out)
+- **Estimated length:** 3 h 32 min
+- **Sampled range:** 3 h 16 min to 3 h 50 min for the middle half (full spread 2 h 17 min to 5 h 54 min) across 16 playthrough uploads (8 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.3
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median +3% against an earlier, independent query set
 - **Quest parts (8):** New Training; "The Town"; Slumbering Mystery; Embrace Darkness; Rescue Operation; Grant a New Dream; The Final Song; Unexpected Fate
 <!--/gen-->
 
@@ -198,6 +201,7 @@ and a rescue that costs more than it saves.
 | 3 h 31 min | Memories of Dreams Bygone \| Season 2 Chapter 4 \| Zenless Zone Zero ver 2.3 | LoneWanderer | 10 | 2025-10-15 | <https://www.youtube.com/watch?v=5bEx7hyQQFg> |
 | 3 h 32 min | Zenless Zone Zero 2.3 - Main Story Quest,  Memories of Dreams Bygone | RaideFrost | 26 | 2025-10-15 | <https://www.youtube.com/watch?v=V-SyxLl0E00> |
 | 3 h 33 min | Version 2.3 Main Story Quest - Zenless Zone Zero (Full Quest) Memories of Dreams Bygone | Streetwise Rhapsody | 49,369 | 2025-10-15 | <https://www.youtube.com/watch?v=M6x7zNgslH4> |
+| 3 h 38 min | Zenless Zone Zero 2.3 - New Main Story Quest Full Walkthrough | Rubhen925 | ~42,132 | n/a | <https://www.youtube.com/watch?v=jcsxOUE_N-w> |
 | 3 h 41 min | Zenless Zone Zero - Story - Season 2 - Chapter 4 - Memories of Dreams Bygone | JehliuGamer | ~6,946 | n/a | <https://www.youtube.com/watch?v=s370g2iRExY> |
 | 3 h 53 min | Zenless Zone Zero - Season 2 Chapter 4 - "Memories of Dreams Bygone"  | Chiko | ~9 | n/a | <https://www.youtube.com/watch?v=kK0YBdZLJbE> |
 | 4 h 03 min | Zenless Zone Zero Season 2 Chapter 4: Memories of Dreams Bygone | TheWayCafe Productions | ~340 | n/a | <https://www.youtube.com/watch?v=pxdSpfgia2c> |
@@ -217,7 +221,7 @@ and the question of who has been watching all along.
 <!--gen:stats act="Chapter 5"-->
 
 - **Estimated length:** 4 h 12 min
-- **Sampled range:** 4 h 03 min to 4 h 50 min for the middle half (full spread 3 h 46 min to 5 h 30 min) across 13 playthrough uploads (7 further candidates screened out)
+- **Sampled range:** 4 h 04 min to 4 h 43 min for the middle half (full spread 3 h 46 min to 5 h 30 min) across 14 playthrough uploads (6 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.4
 - **Stability:** median 0% against an earlier, independent query set
@@ -238,6 +242,7 @@ and the question of who has been watching all along.
 | 4 h 09 min | Zenless Zone Zero 2.4 On the Precipice of the Abyss Full Walkthrough no commentary | AdamSmashed | ~29 | n/a | <https://www.youtube.com/watch?v=me7Y3jlwEo0> |
 | 4 h 12 min | Zenless Zone Zero - Story - Season 2 - Chapter 5 - On the Precipice of the Abyss | JehliuGamer | 2,534 | 2025-12-29 | <https://www.youtube.com/watch?v=GNxRs2ApNMY> |
 | 4 h 12 min | On the Precipice of the Abyss \| Zenless Zone Zero V2.4 Full Main Story Quest | Zhixuan | 13 | 2025-11-26 | <https://www.youtube.com/watch?v=C9bhOrSl7-4> |
+| 4 h 15 min | Zenless Zone Zero 2.4 - New Main Story Quest Full Walkthrough | Rubhen925 | 74,509 | 2025-11-26 | <https://www.youtube.com/watch?v=1LS4Atj9Atk> |
 | 4 h 33 min | Version 2.4 Main Story Quest - Zenless Zone Zero (Full Quest) \| On The Precipice of the Abyss | Streetwise Rhapsody | 25,902 | 2025-11-26 | <https://www.youtube.com/watch?v=PvcJ6Vk1u-o> |
 | 4 h 37 min | Zenless Zone Zero 2.4 Main Story Season 2 Chapter 5 “On the Precipice of the Abyss” \| JP Dub | Mikiyuki | 33 | 2025-11-26 | <https://www.youtube.com/watch?v=VSH4e7-IDNI> |
 | 5 h 02 min | Zenless Zone Zero - On the Precipice of the Abyss - 2.4 Main Quest \|\| 4K Full Story \|\| | RÆIN | ~5 | n/a | <https://www.youtube.com/watch?v=bbayzPJkv8s> |
@@ -299,7 +304,7 @@ a case about the Construct series.
 One of the three longest chapters in the game.
 
 - **Estimated length:** 5 h 03 min
-- **Sampled range:** 4 h 47 min to 5 h 55 min for the middle half (full spread 4 h 33 min to 6 h 14 min) across 11 playthrough uploads (12 further candidates screened out)
+- **Sampled range:** 4 h 50 min to 5 h 50 min for the middle half (full spread 4 h 33 min to 6 h 14 min) across 13 playthrough uploads (10 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.6
 - **Stability:** median 0% against an earlier, independent query set
@@ -316,8 +321,10 @@ One of the three longest chapters in the game.
 | 4 h 34 min | Encore For An Old Dream \| Zenless Zone Zero 2.6 Season 2 Interlude (Full Story Quest) | GutsnCapture Gaming | ~119 | n/a | <https://www.youtube.com/watch?v=zvakQeQOuno> |
 | 4 h 47 min | ZZZ Main Quest Season 2 - Interlude: Encore for an Old Dream Full Game \| Zenless Zone Zero 2.6 | Akabirama | ~87 | n/a | <https://www.youtube.com/watch?v=VpdimjX02F4> |
 | 4 h 53 min | Encore for an Old Dream \| Season 2 Interlude \| Zenless Zone Zero ver 2.6 | LoneWanderer | 21 | 2026-02-12 | <https://www.youtube.com/watch?v=ZTWOYoL_Be0> |
+| 4 h 56 min | Season 2 Interlude Quest [ENG Dub] \| Zenless Zone Zero 2.6, PlayStaion 5 | Leo | 34 | 2026-02-07 | <https://www.youtube.com/watch?v=DywHffi6O70> |
 | 4 h 57 min | New Main Story Quest Season 2 Interlude – Encore For An Old Dream \| Zenless Zone Zero 2.6 | Lotus Ch. | 118 | 2026-02-06 | <https://www.youtube.com/watch?v=gzDH4uEkkRk> |
 | 5 h 03 min | Version 2.6 Main Story Quest - Zenless Zone Zero (Full Quest) Encore for an Old Dream | Streetwise Rhapsody | ~39,965 | n/a | <https://www.youtube.com/watch?v=l1It6s0su-s> |
+| 5 h 03 min | Zenless Zone Zero 2.6 - Story Quest Full Walkthrough (ZZZ 2.6) | Rubhen925 | 52,314 | 2026-02-06 | <https://www.youtube.com/watch?v=YB_j7N_PDbA> |
 | 5 h 04 min | Zenless Zone Zero 2.6 Encore for an Old Dream Main Story Full Walkthrough no commentary | AdamSmashed | 66 | 2026-02-10 | <https://www.youtube.com/watch?v=E6S3aXUVNpo> |
 | 5 h 44 min | Zenless Zone Zero 2.6 - Full Story Quest "Encore for an Old Dream" \| No Commentary Walkthrough | JJcool4541(Unchosen) | ~44 | n/a | <https://www.youtube.com/watch?v=mJk1C2XoWaQ> |
 | 5 h 55 min | Zenless Zone Zero Version 2.6 Encore For An Old Dream Main Story Quest ( Full Gameplay ) | DIABLO PLAY'S  | 35 | 2026-02-10 | <https://www.youtube.com/watch?v=4zrI6OvK2OU> |
@@ -337,11 +344,11 @@ a ragtag crew signs up,
 and the first stage goes about as well as expected.
 <!--gen:stats act="Epilogue (A)"-->
 
-- **Estimated length:** 3 h 18 min
-- **Sampled range:** 2 h 54 min to 3 h 27 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 15 playthrough uploads (20 further candidates screened out)
+- **Estimated length:** 3 h 14 min
+- **Sampled range:** 2 h 57 min to 3 h 25 min for the middle half (full spread 2 h 47 min to 4 h 02 min) across 17 playthrough uploads (18 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.7
-- **Stability:** median +2% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 - **Quest parts (8):** A New Variable; Hollow Champion Competition; Ragtag Crew; Chaotic First Stage; Interrupted Showdown; Drown in the Nightmare; Chaotic Revelry; Before the Sun Sets
 <!--/gen-->
 
@@ -356,6 +363,8 @@ and the first stage goes about as well as expected.
 | 2 h 54 min | New: Eridan Sunset (A) - Season 2: Epilogue (Full Main Story) \| Zenless Zone Zero 2.7 | Sir Patty | 78 | 2026-03-25 | <https://www.youtube.com/watch?v=k4lxSYQCTKY> |
 | 2 h 54 min | ZZZ Main Quest Season 2 - Epilogue: New: Eridan Sunset (A) Full Game \| Zenless Zone Zero 2.7 | Akabirama | ~127 | n/a | <https://www.youtube.com/watch?v=zsl_l6vxQ1U> |
 | 3 h 00 min | [ ZENLESS ZONE ZERO ] Season 2 - EPILOGUE: NEW ERIDAN SUNSET (A) // FULL STORY NO COMMENTARY | Uranium Tea Gaming | 1,122 | 2026-03-24 | <https://www.youtube.com/watch?v=0gOnVLwYCuM> |
+| 3 h 02 min | Zenless Zone Zero 2.7 - Main Story Quest Epilogue Full Walkthrough (ZZZ 2.7) | Rubhen925 | 58,199 | 2026-03-24 | <https://www.youtube.com/watch?v=_MMyNNwbCXw> |
+| 3 h 04 min | Version 2.7 Main Story Quest - Zenless Zone Zero (Full Playthrough) | Streetwise Rhapsody | 29,829 | 2026-03-24 | <https://www.youtube.com/watch?v=7maf7nTBXik> |
 | 3 h 10 min | CHAMPIONSHIP GONE WRONG!!!!! 2.7 Story 'New: Eridan Sunset (A)' \| Zenless Zone Zero | JaydenHorn1406 | 52 | 2026-04-03 | <https://www.youtube.com/watch?v=FA7mOBwV9vo> |
 | 3 h 14 min | Zenless Zone Zero - Story - Season 2 - Epilogue - New: Eridan Sunset (A) | JehliuGamer | ~311 | n/a | <https://www.youtube.com/watch?v=rAAJ0ppsnfc> |
 | 3 h 18 min | Zenless Zone Zero Version 2.7 - Main Story Quest Epilogue - New: Eridan Sunset (A) ( Full Gameplay ) | DIABLO PLAY'S  | ~29 | n/a | <https://www.youtube.com/watch?v=xtIw2xVwOac> |
@@ -379,11 +388,11 @@ Who here is awaiting the night?
 Looking for Ramiel, and the last word on the competition.
 <!--gen:stats act="Epilogue (B)"-->
 
-- **Estimated length:** 2 h 42 min
-- **Sampled range:** 2 h 26 min to 2 h 50 min for the middle half (full spread 2 h 24 min to 3 h 25 min) across 15 playthrough uploads (19 further candidates screened out)
+- **Estimated length:** 2 h 38 min
+- **Sampled range:** 2 h 26 min to 2 h 50 min for the middle half (full spread 2 h 24 min to 3 h 25 min) across 18 playthrough uploads (16 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 2.8
-- **Stability:** median -1% against an earlier, independent query set
+- **Stability:** median -3% against an earlier, independent query set
 - **Quest parts (14):** Faint Clues and Traces; No Missing Person Notice Needed; Fragmented Clues; Rush into the Wildfire; Outer Ring Connections; Nitro-Fuel Detective; Knight's Debut; Strange Wolf Pack; Left Behind Keepsake; Similar Yet Different Nights; Behind Every Answer, a New Riddle; A Game of Hide and Seek; At Dusk; Guidance from Above
 <!--/gen-->
 
@@ -394,9 +403,12 @@ Looking for Ramiel, and the last word on the competition.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 2 h 24 min | เควสตอนจบ Season 2 \| Epilogue: Eridan Sunset B \| ZZZ 2.8 Main story playthrough | Orkus Re Orca | 19 | 2026-05-15 | <https://www.youtube.com/watch?v=-NWG5OE0A7Y> |
+| 2 h 24 min | Zenless Zone Zero 2.8 Main Story Full Gameplay | MaakuPlays | 108 | 2026-05-06 | <https://www.youtube.com/watch?v=0ugiASouju0> |
 | 2 h 25 min | New: Eridan Sunset (B) \| Season 2 Epilogue \| Zenless Zone Zero ver 2.8 | LoneWanderer | ~37 | n/a | <https://www.youtube.com/watch?v=pKtzosO9icA> |
 | 2 h 26 min | New Eridan Sunset (B) - Season 2: Epilogue \| Zenless Zone Zero 2.8 | Sir Patty | ~37 | n/a | <https://www.youtube.com/watch?v=u_0gk4fdX44> |
 | 2 h 26 min | Zenless Zone Zero 2.8 Full Main Story Epilogue - New: Eridan Sunset Walkthrough | Kuroakumoplaz | ~32 | n/a | <https://www.youtube.com/watch?v=vtK-H4wmGbI> |
+| 2 h 31 min | Version 2.8 Main Story Quest - Zenless Zone Zero \| Season 2 Epilogue (Full Playthrough) | Streetwise Rhapsody | 33,462 | 2026-05-06 | <https://www.youtube.com/watch?v=vloxpa4xS-A> |
+| 2 h 32 min | Zenless Zone Zero 2.8 - Main Story Quest Epilogue Full Walkthrough | Rubhen925 | 49,692 | 2026-05-06 | <https://www.youtube.com/watch?v=3k_zoWUEAv4> |
 | 2 h 34 min | FULL Season 2 - Epilogue: New: Eridan Sunset (B) \| Zenless Zone Zero v2.8 | T.H Bunn | 59 | 2026-05-06 | <https://www.youtube.com/watch?v=6IoNWfi_kus> |
 | 2 h 36 min | New Main Story Quest Season 2 - New: Eridan Sunset (B) \| Zenless Zone Zero 2.8 | Lotus Ch. | ~588 | n/a | <https://www.youtube.com/watch?v=pQCDL3ndUTw> |
 | 2 h 40 min | Main Story Quest Season 2 Epilogue : New Eridan Sunset [B] \|Zenless Zone Zero Version 2.8 | DIABLO PLAY'S  | ~114 | n/a | <https://www.youtube.com/watch?v=noBH2gUgVFI> |
