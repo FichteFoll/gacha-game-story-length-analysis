@@ -4939,6 +4939,7 @@
     "views": "57",
     "rejected": [
      "not-a-playthrough",
+     "part-of-an-act",
      "act-mismatch"
     ]
    }
@@ -5113,7 +5114,8 @@
     "url": "https://www.youtube.com/watch?v=D5kxMydc6tU",
     "views": "57",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "part-of-an-act"
     ]
    },
    {
@@ -7115,6 +7117,7 @@
     "views": "87",
     "rejected": [
      "not-a-playthrough",
+     "part-of-an-act",
      "act-mismatch"
     ]
    },
@@ -16770,7 +16773,7 @@
     "url": "https://www.youtube.com/watch?v=S8WYkMS7cNg",
     "views": "2",
     "rejected": [
-     "short-outlier"
+     "part-of-an-act"
     ]
    },
    {
@@ -17120,9 +17123,7 @@
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=lUG_-fHSFPU",
     "views": "9617",
-    "rejected": [
-     "same-uploader"
-    ]
+    "rejected": []
    },
    {
     "seconds": 3955,
@@ -17130,7 +17131,9 @@
     "uploader": "KING1993GAMING",
     "url": "https://www.youtube.com/watch?v=gCBFL9iULjQ",
     "views": "7431",
-    "rejected": []
+    "rejected": [
+     "part-of-an-act"
+    ]
    },
    {
     "seconds": 4515,
@@ -17226,11 +17229,11 @@
     "rejected": []
    },
    {
-    "seconds": 3955,
-    "title": "Honkai Impact 3rd Story Chapter 28 Part 4 4k 60 FPS English Subtitles Gameplay Walkthrough",
+    "seconds": 4472,
+    "title": "Honkai Impact 3rd Story Chapter 28 Part 3 4k 60 FPS English Subtitles Gameplay Walkthrough",
     "uploader": "KING1993GAMING",
-    "url": "https://www.youtube.com/watch?v=gCBFL9iULjQ",
-    "views": "7431",
+    "url": "https://www.youtube.com/watch?v=lUG_-fHSFPU",
+    "views": "9617",
     "rejected": []
    },
    {
@@ -17274,7 +17277,7 @@
    "high": 93,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 72,
+   "trimmed_mean": 73,
    "measured": 0,
    "parts": {},
    "drift": -0.724
@@ -27593,7 +27596,9 @@
     "uploader": "Satus Oblitan",
     "url": "https://www.youtube.com/watch?v=CiZ4zGDkkJo",
     "views": 0,
-    "rejected": [],
+    "rejected": [
+     "part-of-an-act"
+    ],
     "upload_date": "20240720"
    },
    {
@@ -28094,15 +28099,6 @@
     "upload_date": "20240627"
    },
    {
-    "seconds": 7216,
-    "title": "Honkai Impact 3rd Part 2: Chapter III: A Crime Foretold Part I: Prelude to corruption...",
-    "uploader": "Satus Oblitan",
-    "url": "https://www.youtube.com/watch?v=CiZ4zGDkkJo",
-    "views": 0,
-    "rejected": [],
-    "upload_date": "20240720"
-   },
-   {
     "seconds": 8861,
     "title": "(CN Dub - EN Sub) A Crime Foretold (Part 1) | Honkai Impact 3rd",
     "uploader": "AndhraZX",
@@ -28120,16 +28116,16 @@
    }
   ],
   "stats": {
-   "n": 4,
-   "median": 134,
+   "n": 3,
+   "median": 148,
    "low": 107,
    "high": 218,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 148,
+   "trimmed_mean": 158,
    "measured": 0,
    "parts": {},
-   "drift": 0.252
+   "drift": 0.383
   }
  },
  {

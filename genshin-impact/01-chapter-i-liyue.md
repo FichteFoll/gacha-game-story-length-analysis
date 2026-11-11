@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Chapter I: Farewell, Archaic Lord
 
-**Region:** Liyue | **Game versions:** 1.0 - 1.4 | **Entries:** 5 | **Estimated chapter length: 6 h 42 min**
+**Region:** Liyue | **Game versions:** 1.0 - 1.4 | **Entries:** 5 | **Estimated chapter length: 6 h 44 min**
 <!--/gen-->
 
 Rex Lapis is apparently assassinated at the Rite of Descension,
@@ -14,14 +14,14 @@ to the Fatui of his own free will.
 <!--gen:glance-->
 | Act | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Act I | Of the Land Amidst Monoliths | 1 h 06 min | 1 h 00 min - 1 h 23 min | 8 | medium |
+| Act I | Of the Land Amidst Monoliths | 1 h 08 min | 59 min - 1 h 36 min | 7 | low |
 | Act II | Farewell, Archaic Lord | 1 h 49 min | 1 h 39 min - 1 h 52 min | 8 | high |
 | Act III | A New Star Approaches | 1 h 59 min | 1 h 48 min - 2 h 06 min | 9 | high |
 | Act IV - Prelude | Bough Keeper: Dainsleif | 36 min | 28 min - 45 min | 10 | low |
 | Act IV | We Will Be Reunited | 1 h 12 min | 58 min - 1 h 23 min | 10 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->6 h 42 min<!--/f-->**
+**Total: <!--f:total-->6 h 44 min<!--/f-->**
 
 ## Pacing
 
@@ -43,13 +43,13 @@ Rex Lapis falls,
 and the Traveler flees the Millelith as the prime suspect.
 <!--gen:stats act="Act I"-->
 
-- **Estimated length:** 1 h 06 min
-- **Sampled range:** 1 h 00 min to 1 h 23 min for the middle half (full spread 33 min to 1 h 36 min) across 8 playthrough uploads (3 further candidates screened out)
-- **Confidence:** medium
+- **Estimated length:** 1 h 08 min
+- **Sampled range:** 59 min to 1 h 36 min across 7 playthrough uploads (4 further candidates screened out)
+- **Confidence:** low
 - **Adventure Rank gate:** 23
 - **Released in:** 1.0
-- **Stability:** median -3% against an earlier, independent query set
-- **Measured from the uploader's chapter markers:** 2 of 8 uploads
+- **Stability:** median 0% against an earlier, independent query set
+- **Measured from the uploader's chapter markers:** 2 of 7 uploads
 - **Quest parts (3):** Rite of Descension; An Impromptu Change of Plan; Dust to Dust
 <!--/gen-->
 
@@ -59,7 +59,6 @@ and the Traveler flees the Millelith as the prime suspect.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 33 min | Genshin Impact \| Chapter I: Act I \| Of the Land Amidst Monoliths \| Part I | Marlon Rex Ladao | 55 | 2021-04-14 | <https://www.youtube.com/watch?v=pU35GyF_Jrw> |
 | 59 min | Full Liyue Archon Quest - Genshin Impact | Fayato | 154,623 | 2024-06-09 | <https://www.youtube.com/watch?v=13mE3pqg_kQ> |
 | 1 h 02 min | Archon Quest Chapter 1 Act 1 Of The Land Amidst Monoliths Genshin Impact Gameplay Walkthrough | Diary James | 382 | 2021-09-16 | <https://www.youtube.com/watch?v=lzA-l1po33U> |
 | 1 h 04 min | Genshin Impact Archon Quest: Of the Land Amidst Monoliths | Koenigin Yu  | 7,442 | 2020-11-10 | <https://www.youtube.com/watch?v=ekxF98KR5aM> |

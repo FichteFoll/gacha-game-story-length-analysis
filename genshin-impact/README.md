@@ -4,7 +4,7 @@ Duration estimates for every main act of the Archon Quest storyline,
 from the Mondstadt Prologue to Chapter VII,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->123 h 38 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->625<!--/f--> accepted uploads out of <!--f:n_candidates-->1119<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->123 h 40 min<!--/f-->** (<!--f:n_report_entries-->49<!--/f--> entries counting acts, preludes and interludes, measured against <!--f:n_videos-->624<!--/f--> accepted uploads out of <!--f:n_candidates-->1119<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -13,7 +13,7 @@ That figure is the sum of the per-<!--f:unit-->act<!--/f--> medians, so treat it
 | Chapter | Region | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Prologue: The Outlander Who Caught the Wind | Mondstadt | 1.0 | 3 | 3 h 00 min | [00-prologue-mondstadt.md](00-prologue-mondstadt.md) |
-| Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 42 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
+| Chapter I: Farewell, Archaic Lord | Liyue | 1.0 - 1.4 | 5 | 6 h 44 min | [01-chapter-i-liyue.md](01-chapter-i-liyue.md) |
 | Chapter II: Omnipresence Over Mortals | Inazuma | 1.6 - 2.6 | 5 | 8 h 15 min | [02-chapter-ii-inazuma.md](02-chapter-ii-inazuma.md) |
 | Chapter III: Truth Amongst the Pages of Purana | Sumeru | 3.0 - 3.5 | 6 | 16 h 07 min | [03-chapter-iii-sumeru.md](03-chapter-iii-sumeru.md) |
 | Chapter IV: Masquerade of the Guilty | Fontaine | 4.0 - 4.7 | 6 | 17 h 12 min | [04-chapter-iv-fontaine.md](04-chapter-iv-fontaine.md) |

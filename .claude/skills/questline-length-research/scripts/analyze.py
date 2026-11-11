@@ -92,6 +92,10 @@ ACT_END = re.compile(
 # "Starting the game" and "Starting Station" are a new player's first video and
 # a Girls' Frontline 2 location, not counters.
 SHARED_FRAGMENTS = [r"\b(?:starting|continuing|finishing)\b(?! (?:the game|station)\b)"]
+# ... and the counters a runtime may still readmit, because a game can number
+# its own story by part as well: "Part II" is half of an upload as often as it is
+# the second part of the narrative.
+SHARED_PARTIALS = [r"\bparts? (?:i{1,3}|iv|vi{0,3}|ix|x)\b"]
 # The partials.txt line that stands for "names one of this act's quest parts".
 QUEST_PART = "<quest part>"
 # ... and the prefix marking a partials.txt pattern no runtime readmits, or a
@@ -269,8 +273,8 @@ def partial_test(workdir):
     the lines of partials.txt; the line "<quest part>" additionally reads a title
     naming one of the act's own quest parts as a split, which is opt-in because a
     game whose uploaders title a complete act after its closing quest part would
-    otherwise lose every upload it has. SHARED_FRAGMENTS apply to every report
-    on top of its own lines.
+    otherwise lose every upload it has. SHARED_FRAGMENTS and SHARED_PARTIALS
+    apply to every report on top of its own lines.
 
     A pattern prefixed with "!" is a marker that admits of no second reading, and
     readmit_partials() never brings its uploads back: where an act is a chapter
@@ -282,15 +286,15 @@ def partial_test(workdir):
     by_quest_part = QUEST_PART in patterns
     certain = SHARED_FRAGMENTS + [p[len(FRAGMENT):] for p in patterns
                                   if p.startswith(FRAGMENT)]
-    literal = [p for p in patterns
-               if p != QUEST_PART and not p.startswith(FRAGMENT)]
+    literal = SHARED_PARTIALS + [p for p in patterns
+                                 if p != QUEST_PART and not p.startswith(FRAGMENT)]
     fragment = re.compile("|".join(certain), re.I)
-    regex = re.compile("|".join(literal), re.I) if literal else None
+    regex = re.compile("|".join(literal), re.I)
 
     def scope(title, parts):
         if fragment.search(title):
             return "fragment"
-        if (regex and regex.search(title)) \
+        if regex.search(title) \
                 or (by_quest_part and part_named(title, parts) is not None):
             return "part-of-an-act"
         return None

@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Tides of Time Gone By
 
-**Part:** Part 2 | **Game versions:** 7.3 - 7.6 | **Entries:** 4 | **Estimated arc length: 11 h 19 min**
+**Part:** Part 2 | **Game versions:** 7.3 - 7.6 | **Entries:** 4 | **Estimated arc length: 11 h 33 min**
 <!--/gen-->
 
 Part 2 opens on Mars.
@@ -17,16 +17,16 @@ with the Astral Ring and whatever else they have.
 | --- | --- | --- | --- | --- | --- |
 | Chapter I | Hundred Years of Solitary Shadow | 3 h 08 min | 2 h 09 min - 4 h 07 min | 2 | low |
 | Chapter II | The Seven Shus in the Maze | 4 h 39 min | 2 h 16 min - 6 h 10 min | 5 | low |
-| Chapter III | A Crime Foretold | 2 h 14 min | 1 h 47 min - 3 h 38 min | 4 | low |
+| Chapter III | A Crime Foretold | 2 h 28 min | 1 h 47 min - 3 h 38 min | 3 | low |
 | Chapter EX | Bitterness for a Sleepwalker | 1 h 18 min | 58 min - 2 h 08 min | 9 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->11 h 19 min<!--/f-->**
+**Total: <!--f:total-->11 h 33 min<!--/f-->**
 
 ## Pacing
 
 Part 2's chapters are open-world arcs rather than stage sequences,
-and it shows: <!--f:total-->11 h 19 min<!--/f--> across
+and it shows: <!--f:total-->11 h 33 min<!--/f--> across
 <!--f:n_entries-->four<!--/f--> entries,
 with *<!--f:longest_title-->The Seven Shus in the Maze<!--/f-->* the largest of them
 at <!--f:longest_len-->4 h 39 min<!--/f-->.
@@ -99,14 +99,14 @@ One of the three longest chapters in the game.
 ### Chapter III - [A Crime Foretold](https://honkaiimpact3.fandom.com/wiki/Part_2_Chapter_III)
 <!--/gen-->
 
-A crime foretold, at <!--f:len_Chapter_III-->2 h 14 min<!--/f-->.
+A crime foretold, at <!--f:len_Chapter_III-->2 h 28 min<!--/f-->.
 <!--gen:stats act="Chapter III"-->
 
-- **Estimated length:** 2 h 14 min
-- **Sampled range:** 1 h 47 min to 3 h 38 min across 4 playthrough uploads (44 further candidates screened out)
+- **Estimated length:** 2 h 28 min
+- **Sampled range:** 1 h 47 min to 3 h 38 min across 3 playthrough uploads (45 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 7.5
-- **Stability:** median +25% against an earlier, independent query set
+- **Stability:** median +38% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter III"-->
@@ -116,7 +116,6 @@ A crime foretold, at <!--f:len_Chapter_III-->2 h 14 min<!--/f-->.
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
 | 1 h 47 min | Honkai Impact 3rd Part 2 - Chapter 3 A Crime Foretold (Phase 3) | Jirangu | 227 | 2024-06-27 | <https://www.youtube.com/watch?v=0oAEK16RokA> |
-| 2 h 00 min | Honkai Impact 3rd Part 2: Chapter III: A Crime Foretold Part I: Prelude to corruption... | Satus Oblitan | 0 | 2024-07-20 | <https://www.youtube.com/watch?v=CiZ4zGDkkJo> |
 | 2 h 28 min | (CN Dub - EN Sub) A Crime Foretold (Part 1) \| Honkai Impact 3rd | AndhraZX | ~189 | n/a | <https://www.youtube.com/watch?v=jBvq62huG5g> |
 | 3 h 38 min | Honkai Impact 3rd Part 2 Chapter 3: A Crime Foretold | Kurib | ~7 | n/a | <https://www.youtube.com/watch?v=th3sq1wiYS8> |
 

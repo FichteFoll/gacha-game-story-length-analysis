@@ -351,8 +351,8 @@ Discard, by title:
   This one is off unless `<workdir>/partials.txt` says otherwise,
   because what a split is called differs per game,
   save for the counters every game's uploaders use,
-  which `SHARED_FRAGMENTS` in `analyze.py` reads in every report
-  ("Starting", "Continuing", "Finishing");
+  which `SHARED_FRAGMENTS` and `SHARED_PARTIALS` in `analyze.py`
+  read in every report ("Starting", "Continuing", "Finishing", "Part II");
   the line `<quest part>` in that file additionally reads
   a title naming one of the act's quest parts as a split.
   An upload whose runtime matches what the unambiguous uploads measured
