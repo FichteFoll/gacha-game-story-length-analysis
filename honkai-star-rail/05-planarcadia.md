@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 31 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 30 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -24,19 +24,19 @@ and the bait turns up in an IPC research institute.
 | Mission 2 | Unraveled for Daybreak | 6 h 33 min | 6 h 18 min - 6 h 51 min | 14 | high |
 | Mission 3 | So Laughed the Masses | 4 h 45 min | 4 h 20 min - 5 h 03 min | 18 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 10 min | 3 h 56 min - 4 h 27 min | 30 | high |
-| Mission 5 | In Ravages Does the Whistle Sound | 4 h 21 min | 4 h 09 min - 4 h 41 min | 32 | high |
-| Mission 6 | To Roll the Stars in Astropolis | 3 h 17 min | 3 h 07 min - 3 h 27 min | 26 | high |
+| Mission 5 | In Ravages Does the Whistle Sound | 4 h 21 min | 4 h 08 min - 4 h 41 min | 31 | high |
+| Mission 6 | To Roll the Stars in Astropolis | 3 h 16 min | 3 h 04 min - 3 h 24 min | 24 | high |
 | Mission 7 | Dance With the Beast Before Moonrise | 3 h 30 min | 3 h 12 min - 3 h 36 min | 23 | high |
 <!--/gen-->
 
-**Total: <!--f:total-->34 h 31 min<!--/f-->**
+**Total: <!--f:total-->34 h 30 min<!--/f-->**
 
 ## Pacing
 
 The opening mission is the longest, at <!--f:longest_len-->7 h 55 min<!--/f-->,
 followed by *Unraveled for Daybreak* at <!--f:len_Mission_2-->6 h 33 min<!--/f-->.
 *To Roll the Stars in Astropolis*, the mission that leaves the painting for Astropolis,
-is the shortest, at <!--f:shortest_len-->3 h 17 min<!--/f-->,
+is the shortest, at <!--f:shortest_len-->3 h 16 min<!--/f-->,
 and *Dance With the Beast Before Moonrise*, the second mission set on Astropolis,
 follows at <!--f:len_Mission_7-->3 h 30 min<!--/f-->:
 the two Astropolis missions are the only ones under four hours.
@@ -246,12 +246,12 @@ the realm of death.
 <!--gen:stats act="Mission 5"-->
 
 - **Estimated length:** 4 h 21 min
-- **Sampled range:** 4 h 09 min to 4 h 41 min for the middle half (full spread 2 h 57 min to 5 h 56 min) across 32 playthrough uploads (34 further candidates screened out)
+- **Sampled range:** 4 h 08 min to 4 h 41 min for the middle half (full spread 2 h 57 min to 5 h 56 min) across 31 playthrough uploads (35 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
 - **Stability:** median -1% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 2 of 32 uploads
+- **Measured from the uploader's chapter markers:** 2 of 31 uploads
 - **Quest parts (5):** How I Met Your Father; To Be or Not to Be; The Comedy of Errors; Every Arcadian Corner All At Once; Limelight
 <!--/gen-->
 
@@ -279,7 +279,6 @@ the realm of death.
 | 4 h 21 min | Planarcadia Trailblaze Mission - In Ravages Does the Whistle Sound \| Honkai Star Rail Version 4.4 | TriMori | 742 | 2026-07-17 | <https://www.youtube.com/watch?v=_truCptYeEc> |
 | 4 h 22 min | Trailblaze Mission Main Story Quest (Full Story) \| Honkai Star Rail 4.4 | Lotus Ch. | 45 | 2026-07-15 | <https://www.youtube.com/watch?v=IFZFpxyXP4A> |
 | 4 h 23 min | Honkai Star Rail Japanese Dub 4.4  - Full New Planarcadia Trailblaze Story Quest | Segiri | 2,460 | 2026-07-15 | <https://www.youtube.com/watch?v=sGSK6atEqMs> |
-| 4 h 24 min | In Ravages Does the Whistle Sound (Part 1). | TheXGamer | 30 | 2026-07-15 | <https://www.youtube.com/watch?v=SDGEjwqMlHw> |
 | 4 h 26 min | Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Full Walkthrough (HSR 4.4) | Rubhen925 | 48,978 | 2026-07-15 | <https://www.youtube.com/watch?v=fyR69N7AbcQ> |
 | 4 h 29 min | HSR Planarcadia Chapter 5 In Ravages Does the Whistle Sound | LordBlackFrost90 | 5 | 2026-07-19 | <https://www.youtube.com/watch?v=-h-xQSxhjB8> |
 | 4 h 34 min | In Ravages Does the Whistle Sound Full Story (JP Dub) \| Honkai: Star Rail 4.4 | KNCPG | 32 | 2026-07-17 | <https://www.youtube.com/watch?v=4Fd5jwk7W4Y> |
@@ -309,8 +308,8 @@ The pitch that wins it is a new Phantasmoon Games,
 and Nihilux turns out to be Aha.
 <!--gen:stats act="Mission 6"-->
 
-- **Estimated length:** 3 h 17 min
-- **Sampled range:** 3 h 07 min to 3 h 27 min for the middle half (full spread 2 h 39 min to 4 h 04 min) across 26 playthrough uploads (23 further candidates screened out)
+- **Estimated length:** 3 h 16 min
+- **Sampled range:** 3 h 04 min to 3 h 24 min for the middle half (full spread 2 h 39 min to 4 h 05 min) across 24 playthrough uploads (25 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.5
@@ -338,18 +337,16 @@ and Nihilux turns out to be Aha.
 | 3 h 15 min | Honkai Star Rail 4.5 Planarcadia & Astropolis - Full NEW Trailblaze Quest Playthrough | Fayato | 11,855 | 2026-08-26 | <https://www.youtube.com/watch?v=XJ312xMAY78> |
 | 3 h 16 min | Honkai Star Rail 4.5 Trailblaze Mission "To Roll the Stars in Astropolis" Playthrough | SilverWolfNSFW | 6 | 2026-08-27 | <https://www.youtube.com/watch?v=4s8W2gdIrX4> |
 | 3 h 18 min | Honkai: Star Rail - 4.5 Trailblaze Mission: To Roll the Stars in Astropolis | Major | 3 | 2026-10-21 | <https://www.youtube.com/watch?v=iGr7xnlOcmU> |
-| 3 h 21 min | Robin & Aventurine Story Quest  \| Honkai Star Rail 4.5 Trailblaze Continuance | Arie seventline | 735 | 2026-08-26 | <https://www.youtube.com/watch?v=WU4tQBNiwng> |
 | 3 h 22 min | Honkai Star Rail 4.5 - To Roll The Stars In Astropolis - New Trailblaze Mission \| Full Gameplay | Jonozoic | 16 | 2026-08-26 | <https://www.youtube.com/watch?v=DZewJfUEwe4> |
 | 3 h 23 min | Honkai: Star Rail 4.5 — To Roll the Stars in Astropolis (Full Main Story Quest) | BSS Gaming | 453 | 2026-08-26 | <https://www.youtube.com/watch?v=gIL187On7Ow> |
 | 3 h 23 min | Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough | Rubhen925 | 46,172 | 2026-08-26 | <https://www.youtube.com/watch?v=4lsrtrQcOe0> |
+| 3 h 23 min | Main Story Full Walkthrough \| Honkai Star Rail 4.5 \| To Roll the Stars in Astropolis | Arie seventline | 187 | 2026-08-26 | <https://www.youtube.com/watch?v=zZeqMqmtA94> |
 | 3 h 24 min | Honkai: Star Rail ver. 4.5 [To Roll the Stars in Astropolis] - Trailblaze Mission Full Playthrough | syll_ | 6 | 2026-09-15 | <https://www.youtube.com/watch?v=_ygy_6ObCHY> |
-| 3 h 26 min | Honkai Star Rail Part 122 - To Roll the Stars in Astropolis (4.5) | Agent Potango | 8 | 2026-08-28 | <https://www.youtube.com/watch?v=B2I-JILqM6Y> |
 | 3 h 32 min | To Roll the Stars in Astropolis Trailblaze Mission \| Honkai Star Rail 4.5 | Starlight Phantom  | 29 | 2026-08-26 | <https://www.youtube.com/watch?v=fUKgcDrJfJU> |
 | 3 h 34 min | Honkai: Star Rail 4.5 – To Roll the Stars in Astropolis \| Full Trailblaze Mission (With Timestamps) | Riku-sama | 75 | 2026-09-16 | <https://www.youtube.com/watch?v=Lfe4RdqJQ68> |
 | 3 h 40 min | Honkai Star Rail 4.5 Planarcadia Trailblaze Story Quest \| HSR JP Voice | ViGAMES | 523 | 2026-08-26 | <https://www.youtube.com/watch?v=XZhc0iPa8jI> |
-| 3 h 41 min | Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough | Kazuma Akimoto (Master Aki) | 434 | 2026-08-28 | <https://www.youtube.com/watch?v=69uEcUytVZU> |
 | 3 h 44 min | We need to ESCAPE! ✧ To Roll the Stars in Astropolis ✦ Honkai: Star Rail 4.5 | Eve_ningMusic | 18,113 | 2026-08-28 | <https://www.youtube.com/watch?v=381phTfiXnc> |
-| 4 h 04 min | Honkai: Star Rail: To Roll the Stars in Astropolis (Part 1). | TheXGamer | 35 | 2026-08-26 | <https://www.youtube.com/watch?v=LyBReQU_WqQ> |
+| 4 h 05 min | Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Quest Full walkthrough | Kazuma Akimoto (Master Aki) | 37 | 2026-08-26 | <https://www.youtube.com/watch?v=RjZjAFPyOTc> |
 
 </details>
 <!--/gen-->

@@ -4,7 +4,7 @@ Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main questline: <!--f:grand_total-->125 h 52 min<!--/f-->** (<!--f:n_report_entries-->26<!--/f--> entries counting missions, measured against <!--f:n_videos-->360<!--/f--> accepted uploads out of <!--f:n_candidates-->786<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->125 h 51 min<!--/f-->** (<!--f:n_report_entries-->26<!--/f--> entries counting missions, measured against <!--f:n_videos-->357<!--/f--> accepted uploads out of <!--f:n_candidates-->786<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -17,7 +17,7 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 39 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 23 h 19 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 32 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.6 | 7 | 34 h 31 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.6 | 7 | 34 h 30 min | [05-planarcadia.md](05-planarcadia.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->
@@ -58,6 +58,13 @@ located this mission inside them.
 which in this game means both the numbered kind ("Part 3")
 and the kind titled after a single quest part of the mission,
 unless their runtime says they cover the mission after all.
+Two channels number their own sessions rather than the mission's parts
+(Agent Potango's running "Part 122", TheXGamer's "(Part 1).")
+and are screened out for good, whatever their runtime.
+- **Trailblaze Continuance:** uploads titled as one are screened out.
+It ships alongside a Trailblaze Mission in the same version,
+so an upload naming only the patch number cannot tell the two apart,
+and the Continuance runs about as long.
 
 The figures it screens and grades on:
 

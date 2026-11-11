@@ -8949,7 +8949,7 @@
     "url": "https://www.youtube.com/watch?v=Q5rb0qdpm_c",
     "views": 20,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260601"
    },
@@ -9501,7 +9501,9 @@
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=SDGEjwqMlHw",
     "views": 30,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260715"
    },
    {
@@ -10266,15 +10268,6 @@
     "upload_date": "20260715"
    },
    {
-    "seconds": 15848,
-    "title": "In Ravages Does the Whistle Sound (Part 1).",
-    "uploader": "TheXGamer",
-    "url": "https://www.youtube.com/watch?v=SDGEjwqMlHw",
-    "views": 30,
-    "rejected": [],
-    "upload_date": "20260715"
-   },
-   {
     "seconds": 15933,
     "title": "Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Full Walkthrough (HSR 4.4)",
     "uploader": "Rubhen925",
@@ -10402,11 +10395,11 @@
    }
   ],
   "stats": {
-   "n": 32,
+   "n": 31,
    "median": 261,
    "low": 177,
    "high": 356,
-   "q1": 249,
+   "q1": 248,
    "q3": 281,
    "trimmed_mean": 265,
    "measured": 2,
@@ -10439,9 +10432,7 @@
     "uploader": "Arie seventline",
     "url": "https://www.youtube.com/watch?v=zZeqMqmtA94",
     "views": 187,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -10579,7 +10570,7 @@
     "url": "https://www.youtube.com/watch?v=ICgSZkX20ZY",
     "views": 5,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260830"
    },
@@ -10598,7 +10589,9 @@
     "uploader": "Agent Potango",
     "url": "https://www.youtube.com/watch?v=B2I-JILqM6Y",
     "views": 8,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260828"
    },
    {
@@ -10608,7 +10601,7 @@
     "url": "https://www.youtube.com/watch?v=U8_aT7JhCsQ",
     "views": 11,
     "rejected": [
-     "part-of-an-act"
+     "fragment"
     ],
     "upload_date": "20260831"
    },
@@ -10645,7 +10638,9 @@
     "uploader": "TheXGamer",
     "url": "https://www.youtube.com/watch?v=LyBReQU_WqQ",
     "views": 35,
-    "rejected": [],
+    "rejected": [
+     "fragment"
+    ],
     "upload_date": "20260826"
    },
    {
@@ -10683,9 +10678,7 @@
     "uploader": "Kazuma Akimoto (Master Aki)",
     "url": "https://www.youtube.com/watch?v=RjZjAFPyOTc",
     "views": 37,
-    "rejected": [
-     "same-uploader"
-    ],
+    "rejected": [],
     "upload_date": "20260826"
    },
    {
@@ -10695,7 +10688,7 @@
     "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
     "views": 41708,
     "rejected": [
-     "same-uploader"
+     "not-a-playthrough"
     ],
     "upload_date": "20260826"
    },
@@ -10705,7 +10698,9 @@
     "uploader": "Arie seventline",
     "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
     "views": 735,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260826"
    },
    {
@@ -10714,7 +10709,9 @@
     "uploader": "Kazuma Akimoto (Master Aki)",
     "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
     "views": 434,
-    "rejected": [],
+    "rejected": [
+     "not-a-playthrough"
+    ],
     "upload_date": "20260828"
    },
    {
@@ -10866,7 +10863,7 @@
     "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
     "views": 9913,
     "rejected": [
-     "same-uploader"
+     "not-a-playthrough"
     ],
     "upload_date": "20260826"
    },
@@ -11032,15 +11029,6 @@
     "upload_date": "20261021"
    },
    {
-    "seconds": 12056,
-    "title": "Robin & Aventurine Story Quest  | Honkai Star Rail 4.5 Trailblaze Continuance",
-    "uploader": "Arie seventline",
-    "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
-    "views": 735,
-    "rejected": [],
-    "upload_date": "20260826"
-   },
-   {
     "seconds": 12110,
     "title": "Honkai Star Rail 4.5 - To Roll The Stars In Astropolis - New Trailblaze Mission | Full Gameplay",
     "uploader": "Jonozoic",
@@ -11068,6 +11056,15 @@
     "upload_date": "20260826"
    },
    {
+    "seconds": 12206,
+    "title": "Main Story Full Walkthrough | Honkai Star Rail 4.5 | To Roll the Stars in Astropolis",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=zZeqMqmtA94",
+    "views": 187,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
     "seconds": 12246,
     "title": "Honkai: Star Rail ver. 4.5 [To Roll the Stars in Astropolis] - Trailblaze Mission Full Playthrough",
     "uploader": "syll_",
@@ -11075,15 +11072,6 @@
     "views": 6,
     "rejected": [],
     "upload_date": "20260915"
-   },
-   {
-    "seconds": 12336,
-    "title": "Honkai Star Rail Part 122 - To Roll the Stars in Astropolis (4.5)",
-    "uploader": "Agent Potango",
-    "url": "https://www.youtube.com/watch?v=B2I-JILqM6Y",
-    "views": 8,
-    "rejected": [],
-    "upload_date": "20260828"
    },
    {
     "seconds": 12721,
@@ -11113,15 +11101,6 @@
     "upload_date": "20260826"
    },
    {
-    "seconds": 13278,
-    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough",
-    "uploader": "Kazuma Akimoto (Master Aki)",
-    "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
-    "views": 434,
-    "rejected": [],
-    "upload_date": "20260828"
-   },
-   {
     "seconds": 13421,
     "title": "We need to ESCAPE! \u2727 To Roll the Stars in Astropolis \u2726 Honkai: Star Rail 4.5",
     "uploader": "Eve_ningMusic",
@@ -11131,26 +11110,26 @@
     "upload_date": "20260828"
    },
    {
-    "seconds": 14646,
-    "title": "Honkai: Star Rail: To Roll the Stars in Astropolis (Part 1).",
-    "uploader": "TheXGamer",
-    "url": "https://www.youtube.com/watch?v=LyBReQU_WqQ",
-    "views": 35,
+    "seconds": 14691,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Quest Full walkthrough",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=RjZjAFPyOTc",
+    "views": 37,
     "rejected": [],
     "upload_date": "20260826"
    }
   ],
   "stats": {
-   "n": 26,
-   "median": 197,
+   "n": 24,
+   "median": 196,
    "low": 159,
-   "high": 244,
-   "q1": 187,
-   "q3": 207,
-   "trimmed_mean": 198,
+   "high": 245,
+   "q1": 184,
+   "q3": 204,
+   "trimmed_mean": 196,
    "measured": 0,
    "parts": {},
-   "drift": -0.02
+   "drift": -0.025
   }
  },
  {
