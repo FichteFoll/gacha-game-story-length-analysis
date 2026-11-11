@@ -5,7 +5,7 @@ live in the skill's `assertions.py`; only the claims themselves are per report.
 """
 from analyze import IQR_SAMPLES
 from assertions import (is_extreme, largest_chapter, median_between,
-                        rank_at_most, sample_at_least, sample_at_most,
+                        rank_at_most, sample_at_most,
                         total_ratio_between)
 
 CLAIMS = [
@@ -79,14 +79,10 @@ CLAIMS = [
                  "Chapters 12 and 13 are the longer two of the three", scope="global"),
     rank_at_most("a3", "Chapter 13", 3,
                  "Chapters 12 and 13 are the longer two of the three", scope="global"),
-    # "Little more than" a middle half needs: at the floor, or two past it.
-    *(guard
-      for act in ("Chapter 11", "Chapter 12", "Chapter 13")
-      for guard in (
-          sample_at_least("a3", act, IQR_SAMPLES,
-                          "each rests on little more than the uploads "
-                          "a middle half needs"),
-          sample_at_most("a3", act, IQR_SAMPLES + 2,
-                         "each rests on little more than the uploads "
-                         "a middle half needs"))),
+    *(sample_at_most("a3", act, IQR_SAMPLES + 2,
+                     "none rests on more than a couple of uploads "
+                     "past what a middle half needs")
+      for act in ("Chapter 11", "Chapter 12", "Chapter 13")),
+    sample_at_most("a3", "Chapter 12", IQR_SAMPLES - 1,
+                   "and Chapter 12 falls short of it"),
 ]

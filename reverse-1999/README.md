@@ -4,7 +4,7 @@ Duration estimates for every chapter of the *Reverse: 1999* main story,
 from the prologue aboard the APPLe to the current chapter,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole main story: <!--f:grand_total-->71 h 15 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->157<!--/f--> accepted uploads out of <!--f:n_candidates-->668<!--/f--> candidates).
+**Total for the whole main story: <!--f:grand_total-->71 h 47 min<!--/f-->** (<!--f:n_report_entries-->16<!--/f--> chapters counting the prologue and the two inter chapters, measured against <!--f:n_videos-->154<!--/f--> accepted uploads out of <!--f:n_candidates-->687<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians,
 so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
@@ -14,8 +14,8 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 | Arc | Chapters | Versions | Entries | Estimated length | Detail |
 | --- | --- | --- | --- | --- | --- |
 | Arc 1: The Living and the Rest | Prologue - 7 | up to 1.9 | 10 | 32 h 35 min | [01-the-living-and-the-rest.md](01-the-living-and-the-rest.md) |
-| Arc 2: The Journey Back | 8 - 10 | 2.2 - 2.8 | 3 | 17 h 33 min | [02-the-journey-back.md](02-the-journey-back.md) |
-| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 21 h 07 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
+| Arc 2: The Journey Back | 8 - 10 | 2.2 - 2.8 | 3 | 17 h 42 min | [02-the-journey-back.md](02-the-journey-back.md) |
+| Arc 3: The Roots of the Tale | 11 - 13 | 3.0 onwards | 3 | 21 h 30 min | [03-the-roots-of-the-tale.md](03-the-roots-of-the-tale.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -24,9 +24,9 @@ so treat it as an order of magnitude rather than a number anyone actually clocke
 | | Chapter | Estimate |
 | --- | --- | --- |
 | longest | Arc 1, Chapter 7: Vereinsamt | 8 h 24 min |
-| longest | Arc 3, Chapter 12: The Campaign's Tale | 7 h 32 min |
-| longest | Arc 3, Chapter 13: On Another's Sorrow | 7 h 17 min |
-| longest | Arc 2, Chapter 10: Paradise Regained | 6 h 59 min |
+| longest | Arc 3, Chapter 12: The Campaign's Tale | 7 h 41 min |
+| longest | Arc 3, Chapter 13: On Another's Sorrow | 7 h 31 min |
+| longest | Arc 2, Chapter 10: Paradise Regained | 7 h 00 min |
 | longest | Arc 3, Chapter 11: A Long Long Way | 6 h 18 min |
 | shortest | Arc 1, Prologue: This is Tomorrow | 37 min |
 | shortest | Arc 1, Inter Chapter - II: To the New World | 41 min |
@@ -52,8 +52,8 @@ which is what the three files below are.
 Between the numbered chapters sit a prologue
 and two inter chapters, filed under the main story by the game
 and counted as entries here.
-- **The stage list stands in for quest parts.** A chapter is a run of
-15 to 30 named story stages, and the wiki tabulates them in order,
+- **The stage list stands in for quest parts.** A chapter is a long run of
+named story stages, and the wiki tabulates them in order,
 so those are what an uploader's chapter markers are matched against
 and what an upload titled after a single stage is recognised by.
 One stage of Chapter 6 carries the chapter's own name,
@@ -74,9 +74,10 @@ The game's own stage codes ("7TH-12", "1-16"), a "Stage 13-18" range
 and a "(1/3)" mark a split with no second reading;
 a "Part 2" or a "pt. 36" may still be readmitted on its runtime,
 since it is as likely to be the third instalment of a complete playthrough.
-One channel streams a chapter in halves
+Several channels stream a chapter in instalments
 each as long as another uploader's whole chapter,
-so its numbered parts are screened out by name instead.
+and number them their own way ("— 3", "P1-7") or not at all,
+so their titles are screened out by name instead.
 - **The inter chapters need naming twice.** *The Star* and
 *To the New World* are ordinary enough phrases that matching an upload on
 the words alone would sweep in half the game;
@@ -123,7 +124,7 @@ so none of them is called the longest or the shortest of anything.
 Beyond the limits every report in this repository shares,
 listed in the [repository README](../README.md):
 
-- **The wiki records a release version for about half the entries and no
+- **The wiki records a release version for only some of the entries and no
 release date for any of them.** A version page announces "the new main story
 chapter" from 1.4 onwards, and that is where the Versions column comes from;
 nothing on the wiki says which version shipped the launch chapters
@@ -139,14 +140,14 @@ than their view counts would suggest,
 and are rated *low* on sample size alone.
 - **The spread within a chapter is wide because the dialogue is skippable.**
 This is a text-heavy game whose story stages can be read or clicked past,
-and two uploaders playing the same chapter can differ by a factor of two.
+and two uploaders playing the same chapter can be hours apart.
 That, rather than any measurement error, is what the ranges below show.
 - **Uploads titled as a "movie" are screened out** as cutscene edits,
 which is what the phrasing means in every other report here.
 For this game some of them are complete playthroughs,
 so a little good evidence is lost to the shared rule.
 - The second pass that fetches exact view counts, upload dates and
-chapter markers reached about two thirds of the candidates
+chapter markers reached only some of the candidates
 before YouTube's bot check cut it off.
 The rest keep the search listing's rounded view counts,
 marked with a `~`, and read "n/a" for their upload date.
@@ -162,4 +163,4 @@ and the report files chapters by arc only because the wiki does.
 - The wiki records no level requirement for entering a story chapter,
 so this report publishes no gate.
 
-Data collected <!--f:date-->2026-09-26<!--/f-->.
+Data collected <!--f:date-->2026-11-09<!--/f-->.
