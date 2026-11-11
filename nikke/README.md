@@ -152,7 +152,7 @@ The prologue is a tutorial and the recent chapters are full expeditions.
 Do not read the totals as if the units were comparable across the run.
 - The second pass that fetches exact view counts, upload dates and
 chapter markers did not finish.
-YouTube's bot check cut it off after a third of the candidates,
+YouTube's bot check cut it off before it reached most of the candidates,
 so most view counts here are the search listing's rounded figures,
 marked with a `~`, and most upload dates read "n/a".
 The estimates themselves are unaffected:
