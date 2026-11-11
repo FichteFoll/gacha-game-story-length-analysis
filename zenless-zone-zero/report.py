@@ -31,7 +31,7 @@ REPORT = dict(
     gate_label=None,
     # What this game numbers its acts with, for the renderer's own headings.
     unit="Chapter",
-    date="2026-09-26",
+    date="2026-11-09",
 )
 
 CHAPTERS = [
@@ -50,7 +50,7 @@ CHAPTERS = [
     dict(
         id="s3", slug="03-season-3", wiki_page="Season 3",
         region="Roscaelifer",
-        versions="3.0 - 3.2",
+        versions="3.0 - 3.3",
         title="Season 3",
     ),
 ]

@@ -46,5 +46,9 @@ CLAIMS = [
                    "were written at the Season 2 scale "
                    "rather than the Season 1 one"),
     is_extreme("s3", "Chapter 3", "min",
-               "*Their Secret Histories* is the shortest of the three"),
+               "*Their Secret Histories* is the shortest of the four"),
+    # With the claim above, this also guards "The two since are shorter".
+    rank_at_most("s3", "Chapter 4", 2,
+                 "*Journey to the Sky* follows at {len_Chapter_4}",
+                 scope="chapter", end="min"),
 ]
