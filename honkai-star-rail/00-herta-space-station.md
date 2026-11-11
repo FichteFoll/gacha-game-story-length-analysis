@@ -13,7 +13,7 @@ and the Astral Express crew picks up a new passenger on the way out.
 <!--gen:glance-->
 | Mission | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Mission 1 | Today Is Yesterday's Tomorrow | 2 h 19 min | 1 h 32 min - 2 h 39 min | 9 | low |
+| Mission 1 | Today Is Yesterday's Tomorrow | 2 h 19 min | 1 h 43 min - 2 h 44 min | 8 | low |
 <!--/gen-->
 
 **Total: <!--f:total-->2 h 19 min<!--/f-->**
@@ -38,7 +38,7 @@ and the Trailblazer's first departure aboard the Astral Express.
 One of the three shortest entries in the questline.
 
 - **Estimated length:** 2 h 19 min
-- **Sampled range:** 1 h 32 min to 2 h 39 min for the middle half (full spread 1 h 09 min to 2 h 56 min) across 9 playthrough uploads (16 further candidates screened out)
+- **Sampled range:** 1 h 43 min to 2 h 44 min for the middle half (full spread 1 h 24 min to 2 h 56 min) across 8 playthrough uploads (17 further candidates screened out)
 - **Confidence:** low
 - **Level gate:** -
 - **Released in:** 1.0
@@ -52,7 +52,6 @@ One of the three shortest entries in the questline.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 h 09 min | 4K \| HSR: Trailblaze Mission - Today is Yesterday's Tomorrow \| Walkthrough | ReMia | ~77 | n/a | <https://www.youtube.com/watch?v=qKxhH8mMjuI> |
 | 1 h 24 min | Honkai Star Rail: Trailblaze Mission Today Is Yesterday's Tomorrow - Walkthrough No Commentary [4K] | Prunalaul | ~12 | n/a | <https://www.youtube.com/watch?v=GAItayNuwjY> |
 | 1 h 41 min | Trailblaze Mission v1.0 Prologue "Today is Yesterday's Tomorrow" CN Dubbed | Whatever | ~4 | n/a | <https://www.youtube.com/watch?v=x0W813vDie8> |
 | 1 h 48 min | Today is Yesterday's Tomorrow (Trailblaze Mission) Prologue Chapter Gameplay \| Honkai Star Rail | Streetwise Rhapsody | ~8,928 | n/a | <https://www.youtube.com/watch?v=urtKXqEVqaY> |

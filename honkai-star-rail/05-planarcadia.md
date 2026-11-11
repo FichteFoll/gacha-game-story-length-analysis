@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.6 | **Entries:** 7 | **Estimated chapter length: 34 h 30 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.7 | **Entries:** 8 | **Estimated chapter length: 39 h 07 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -14,6 +14,8 @@ the Express carries the painting's refugees to Astropolis,
 where the IPC votes on whether Planarcadia is worth saving.
 To save it, Nihilux restarts the Phantasmoon Games as a hunt for the Voracity,
 and the bait turns up in an IPC research institute.
+The hunt itself is an Aeonic game,
+and its prize is the return of Aha.
 
 ## At a glance
 
@@ -27,9 +29,10 @@ and the bait turns up in an IPC research institute.
 | Mission 5 | In Ravages Does the Whistle Sound | 4 h 21 min | 4 h 08 min - 4 h 41 min | 31 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 16 min | 3 h 04 min - 3 h 24 min | 24 | high |
 | Mission 7 | Dance With the Beast Before Moonrise | 3 h 30 min | 3 h 12 min - 3 h 36 min | 23 | high |
+| Mission 8 | Now, Lay Laughter to All Stars | 4 h 37 min | 4 h 26 min - 4 h 40 min | 4 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->34 h 30 min<!--/f-->**
+**Total: <!--f:total-->39 h 07 min<!--/f-->**
 
 ## Pacing
 
@@ -40,6 +43,8 @@ is the shortest, at <!--f:shortest_len-->3 h 16 min<!--/f-->,
 and *Dance With the Beast Before Moonrise*, the second mission set on Astropolis,
 follows at <!--f:len_Mission_7-->3 h 30 min<!--/f-->:
 the two Astropolis missions are the only ones under four hours.
+The finale, *Now, Lay Laughter to All Stars*, is back above it,
+at <!--f:len_Mission_8-->4 h 37 min<!--/f-->.
 This is also the newest content in the sample,
 so its evidence pools are the youngest
 and its figures the least settled.
@@ -407,11 +412,55 @@ for the grandest Phantasmoon Games the painting has seen.
 </details>
 <!--/gen-->
 
+<!--gen:act-heading act="Mission 8"-->
+### Mission 8 - [Now, Lay Laughter to All Stars](https://honkai-star-rail.fandom.com/wiki/Now,_Lay_Laughter_to_All_Stars)
+<!--/gen-->
+
+Aha, the Aeon of Elation, is back,
+and Nihilux makes the Trailblazer Aha's proxy for the hunt.
+Aboard the Starfroster the Supplicants pick the miracles they will play,
+and what the Voracity once devoured surfaces along the course.
+Asat Pramad declares Aha long dead,
+the Supplicants answer with God's Four Magic Tricks,
+and the Wishpower of the cosmos subdues the Voracity
+and brings the Aeon of Elation back to life.
+The finale moves to Astropolis,
+where the Trailblazer calls on the cosmos for allies in Akivili's name
+and the news breaks that a Lord Ravager has died at the Trailblazer's hand.
+The mission shipped on the day this report was collected,
+so every upload behind it went up within hours of release,
+and its figures are a first look rather than a settled estimate.
+<!--gen:stats act="Mission 8"-->
+
+- **Estimated length:** 4 h 37 min
+- **Sampled range:** 4 h 26 min to 4 h 40 min across 4 playthrough uploads (48 further candidates screened out)
+- **Confidence:** low
+- **Level gate:** -
+- **Released in:** 4.7
+- **Quest parts (5):** Moon and Mage, King and Circus; The Age of the World Picture; Pulcinella's Bizarre Adventure; Smile, My Tears!; The Fools' Outro
+<!--/gen-->
+
+<!--gen:evidence act="Mission 8"-->
+<details>
+<summary>Evidence</summary>
+
+| Length | Video title | Uploader | Views | Uploaded | URL |
+| --- | --- | --- | --- | --- | --- |
+| 4 h 26 min | Honkai Star Rail 4.7 Trailblaze Mission - Planarcadia (Full Playthrough) | Abyss Breakdown | 2,454 | 2026-11-11 | <https://www.youtube.com/watch?v=2yY5N6kQwA8> |
+| 4 h 34 min | Honkai Star Rail - Version 4.7 Trailblaze Mission Main Story Quest (Full Playthrough) | Streetwise Rhapsody | 11,765 | 2026-11-11 | <https://www.youtube.com/watch?v=sbj4r4WC47g> |
+| 4 h 39 min | Honkai Star Rail 4.7 - Full Trailblaze Story Quest Playthrough (Planarcadia Finale) | CGInferno | 3,433 | 2026-11-11 | <https://www.youtube.com/watch?v=U3aUWoMPjmo> |
+| 4 h 40 min | Honkai Star Rail 4.7 Planarcadia Finale - New Trailblaze Main Story Quest Full Playthrough | Rubhen925 | 11,627 | 2026-11-11 | <https://www.youtube.com/watch?v=PtntN5oBGEo> |
+
+</details>
+<!--/gen-->
+
 ## Sources
 
 - Questline structure, mission titles, quest parts and Level gates: [Planarcadia](https://honkai-star-rail.fandom.com/wiki/Planarcadia) and [Trailblaze Mission](https://honkai-star-rail.fandom.com/wiki/Trailblaze_Mission) on the Honkai: Star Rail Wiki (Fandom).
 - Where *To Roll the Stars in Astropolis* is filed and set: [To Roll the Stars in Astropolis](https://honkai-star-rail.fandom.com/wiki/To_Roll_the_Stars_in_Astropolis), which places it on Planarcadia and [Astropolis](https://honkai-star-rail.fandom.com/wiki/Astropolis), and the Trailblaze Mission page, which lists it under Planarcadia/Astropolis.
 - Where *Dance With the Beast Before Moonrise* is filed and set: [Dance With the Beast Before Moonrise](https://honkai-star-rail.fandom.com/wiki/Dance_With_the_Beast_Before_Moonrise), which files it as a Planarcadia chapter taking place on Astropolis, and the Trailblaze Mission page, which lists it under Planarcadia/Astropolis.
 - Story of *Dance With the Beast Before Moonrise*: the mission summaries on the pages of its quest parts, starting with [The Theatre and Its Double](https://honkai-star-rail.fandom.com/wiki/The_Theatre_and_Its_Double).
+- Where *Now, Lay Laughter to All Stars* is filed: [Now, Lay Laughter to All Stars](https://honkai-star-rail.fandom.com/wiki/Now,_Lay_Laughter_to_All_Stars), which files it as a Planarcadia chapter, and the Trailblaze Mission page, which lists it after *Dance With the Beast Before Moonrise*. Its release date: [Version/4.7](https://honkai-star-rail.fandom.com/wiki/Version/4.7).
+- Story of *Now, Lay Laughter to All Stars*: the mission summaries on the pages of its quest parts, starting with [Moon and Mage, King and Circus](https://honkai-star-rail.fandom.com/wiki/Moon_and_Mage,_King_and_Circus).
 - Durations: the YouTube uploads listed under each mission above.
 See [README.md](README.md) for the method and its limits.

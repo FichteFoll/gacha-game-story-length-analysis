@@ -64,7 +64,7 @@ CHAPTERS = [
     dict(
         id="planarcadia", slug="05-planarcadia", wiki_page="Planarcadia",
         region="Planarcadia",
-        versions="4.0 - 4.6",
+        versions="4.0 - 4.7",
         title="Planarcadia",
     ),
 ]

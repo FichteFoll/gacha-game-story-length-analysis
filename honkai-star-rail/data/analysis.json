@@ -67,6 +67,7 @@
     "url": "https://www.youtube.com/watch?v=fxaX-HeKxaA",
     "views": "3325",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -84,7 +85,9 @@
     "uploader": "ReMia",
     "url": "https://www.youtube.com/watch?v=qKxhH8mMjuI",
     "views": "77",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 8313,
@@ -101,7 +104,7 @@
     "url": "https://www.youtube.com/watch?v=Y8lzT5jf48A",
     "views": "36",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -111,6 +114,7 @@
     "url": "https://www.youtube.com/watch?v=TwH77VD-HNM",
     "views": 2298,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20260812"
@@ -122,6 +126,7 @@
     "url": "https://www.youtube.com/watch?v=djIS1lSIzMg",
     "views": "175",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -132,6 +137,7 @@
     "url": "https://www.youtube.com/watch?v=fw4ZYqaJsHk",
     "views": "5",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -251,14 +257,6 @@
   ],
   "kept": [
    {
-    "seconds": 4154,
-    "title": "4K | HSR: Trailblaze Mission - Today is Yesterday's Tomorrow | Walkthrough",
-    "uploader": "ReMia",
-    "url": "https://www.youtube.com/watch?v=qKxhH8mMjuI",
-    "views": "77",
-    "rejected": []
-   },
-   {
     "seconds": 5052,
     "title": "Honkai Star Rail: Trailblaze Mission Today Is Yesterday's Tomorrow - Walkthrough No Commentary [4K]",
     "uploader": "Prunalaul",
@@ -325,13 +323,13 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 8,
    "median": 139,
-   "low": 69,
+   "low": 84,
    "high": 176,
-   "q1": 92,
-   "q3": 159,
-   "trimmed_mean": 126,
+   "q1": 103,
+   "q3": 164,
+   "trimmed_mean": 133,
    "measured": 0,
    "parts": {},
    "drift": 0.0
@@ -437,6 +435,7 @@
     "url": "https://www.youtube.com/watch?v=CC-HgPJsd0I",
     "views": 6,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act",
      "act-mismatch"
     ],
@@ -449,6 +448,7 @@
     "url": "https://www.youtube.com/watch?v=1g-q1kSID9Q",
     "views": 4,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act",
      "act-mismatch"
     ],
@@ -461,6 +461,7 @@
     "url": "https://www.youtube.com/watch?v=-xxOECDOc5Y",
     "views": 4,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act",
      "act-mismatch"
     ],
@@ -473,6 +474,7 @@
     "url": "https://www.youtube.com/watch?v=7ds74G2rjxI",
     "views": 24,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20230513"
@@ -484,6 +486,7 @@
     "url": "https://www.youtube.com/watch?v=7XCGjUrXWW4",
     "views": 9,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20230510"
@@ -524,6 +527,7 @@
     "url": "https://www.youtube.com/watch?v=gUlhKNIRAHw",
     "views": "1118",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -698,6 +702,7 @@
     "url": "https://www.youtube.com/watch?v=x1Q9AAfysy8",
     "views": "2",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act",
      "act-mismatch"
     ]
@@ -769,6 +774,7 @@
     "url": "https://www.youtube.com/watch?v=hilVkpio6Ys",
     "views": "177",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    }
@@ -876,6 +882,7 @@
     "url": "https://www.youtube.com/watch?v=Ge1MELrlSuU",
     "views": 53,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20230506"
@@ -896,6 +903,7 @@
     "url": "https://www.youtube.com/watch?v=dVFr2qxVRBw",
     "views": "478",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -1215,6 +1223,7 @@
     "url": "https://www.youtube.com/watch?v=RkyZ3eGoTi4",
     "views": "6",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -1225,6 +1234,7 @@
     "url": "https://www.youtube.com/watch?v=Hu3TyhRPC64",
     "views": 2,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260716"
@@ -1281,7 +1291,7 @@
     "url": "https://www.youtube.com/watch?v=CPwBqWMqF6w",
     "views": 14,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20240603"
    },
@@ -1319,6 +1329,7 @@
     "url": "https://www.youtube.com/watch?v=_NqbF23K97Q",
     "views": "37",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -2396,6 +2407,7 @@
     "url": "https://www.youtube.com/watch?v=1Iiga2N425U",
     "views": 61,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20240404"
@@ -2805,6 +2817,7 @@
     "url": "https://www.youtube.com/watch?v=fGBAtscdeKo",
     "views": "31",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -2824,7 +2837,7 @@
     "url": "https://www.youtube.com/watch?v=fFet_pRX40U",
     "views": 9,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20240611"
    },
@@ -3254,7 +3267,7 @@
     "url": "https://www.youtube.com/watch?v=Y5hP_n-y8DA",
     "views": "6627",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -3385,7 +3398,9 @@
     "uploader": "Elrinell Gaming",
     "url": "https://www.youtube.com/watch?v=xHtZL_AxPHA",
     "views": "67",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 1739,
@@ -3394,7 +3409,7 @@
     "url": "https://www.youtube.com/watch?v=hiKZJJdbmrU",
     "views": "87",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -3563,14 +3578,6 @@
   ],
   "kept": [
    {
-    "seconds": 4814,
-    "title": "Honkai Star Rail - Penacony Chapter 3 (2.3) | Full Story Walkthrough (No Commentary)",
-    "uploader": "Elrinell Gaming",
-    "url": "https://www.youtube.com/watch?v=xHtZL_AxPHA",
-    "views": "67",
-    "rejected": []
-   },
-   {
     "seconds": 7952,
     "title": "Honkai Star Rail 2.3 Penacony - New Trailblaze Story Quest Full Walkthrough",
     "uploader": "MrLulli",
@@ -3681,16 +3688,16 @@
    }
   ],
   "stats": {
-   "n": 13,
-   "median": 161,
-   "low": 80,
+   "n": 12,
+   "median": 163,
+   "low": 133,
    "high": 229,
-   "q1": 136,
-   "q3": 172,
-   "trimmed_mean": 159,
+   "q1": 141,
+   "q3": 173,
+   "trimmed_mean": 161,
    "measured": 2,
    "parts": {},
-   "drift": 0.0
+   "drift": 0.012
   }
  },
  {
@@ -3708,6 +3715,7 @@
     "url": "https://www.youtube.com/watch?v=Tkcj2XmGKWQ",
     "views": 4,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20250217"
@@ -4455,6 +4463,7 @@
     "url": "https://www.youtube.com/watch?v=YKiR0ilq8Ho",
     "views": "0",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -4551,7 +4560,7 @@
     "url": "https://www.youtube.com/watch?v=G2vm0AyNnGw",
     "views": 3,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20250228"
    },
@@ -4582,7 +4591,7 @@
     "url": "https://www.youtube.com/watch?v=d1h36XDavqs",
     "views": "45",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -4612,7 +4621,7 @@
     "url": "https://www.youtube.com/watch?v=qH5zWvJNgCc",
     "views": "4",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -4976,7 +4985,7 @@
     "url": "https://www.youtube.com/watch?v=LcIPVroEy5k",
     "views": 52,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20250413"
    },
@@ -5017,7 +5026,7 @@
     "url": "https://www.youtube.com/watch?v=3jB-dOPjjx8",
     "views": 78,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20250413"
    },
@@ -5088,6 +5097,7 @@
     "url": "https://www.youtube.com/watch?v=WVGw3Jggeog",
     "views": "1",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -5118,6 +5128,7 @@
     "url": "https://www.youtube.com/watch?v=WLEa0xDP6NY",
     "views": "11",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -5362,6 +5373,7 @@
     "url": "https://www.youtube.com/watch?v=UaERmm1DQpM",
     "views": "258749",
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ]
    },
@@ -5729,6 +5741,7 @@
     "url": "https://www.youtube.com/watch?v=HTfvTjYU5rI",
     "views": 8701095,
     "rejected": [
+     "not-a-playthrough",
      "act-mismatch"
     ],
     "upload_date": "20220320"
@@ -5759,7 +5772,7 @@
     "url": "https://www.youtube.com/watch?v=tegV9t52xEQ",
     "views": "39",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5779,7 +5792,7 @@
     "url": "https://www.youtube.com/watch?v=wRfXeBpa_EY",
     "views": "59",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -5855,7 +5868,7 @@
     "url": "https://www.youtube.com/watch?v=xvNOPX9lKDw",
     "views": "13",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -7432,6 +7445,7 @@
     "url": "https://www.youtube.com/watch?v=s8LRosEeMLk",
     "views": "7",
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ]
    },
@@ -7525,6 +7539,7 @@
     "url": "https://www.youtube.com/watch?v=DqycEo9UDwQ",
     "views": 7,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260715"
@@ -8153,7 +8168,7 @@
     "url": "https://www.youtube.com/watch?v=y6og1EDvgb8",
     "views": 24,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260426"
    },
@@ -8164,7 +8179,7 @@
     "url": "https://www.youtube.com/watch?v=pMuzyF_1vKE",
     "views": "15",
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ]
    },
    {
@@ -8212,7 +8227,7 @@
     "url": "https://www.youtube.com/watch?v=AOkIs00k-Q0",
     "views": 474,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260426"
    },
@@ -8685,7 +8700,7 @@
     "url": "https://www.youtube.com/watch?v=RNtunDA20h0",
     "views": 41365,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260601"
    },
@@ -8793,7 +8808,7 @@
     "url": "https://www.youtube.com/watch?v=GIvn-JzHfJQ",
     "views": 22,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260603"
    },
@@ -8971,6 +8986,7 @@
     "url": "https://www.youtube.com/watch?v=KHoIvosCiCg",
     "views": 5,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260812"
@@ -9677,7 +9693,7 @@
     "url": "https://www.youtube.com/watch?v=-U-DrN2oQe4",
     "views": 273,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260717"
    },
@@ -9697,7 +9713,7 @@
     "url": "https://www.youtube.com/watch?v=5FqHsxpJWIs",
     "views": 239,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260717"
    },
@@ -9727,7 +9743,7 @@
     "url": "https://www.youtube.com/watch?v=P17vvij1LNU",
     "views": 7,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260717"
    },
@@ -9747,7 +9763,7 @@
     "url": "https://www.youtube.com/watch?v=GVs930kf6TE",
     "views": 2,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260717"
    },
@@ -9796,7 +9812,7 @@
     "url": "https://www.youtube.com/watch?v=1wmJScndfBY",
     "views": 20,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260715"
    },
@@ -9880,6 +9896,7 @@
     "url": "https://www.youtube.com/watch?v=ZoLnQg83AmM",
     "views": 104,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260718"
@@ -9918,6 +9935,7 @@
     "url": "https://www.youtube.com/watch?v=HMpp95W1GL4",
     "views": 0,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20261013"
@@ -10031,6 +10049,7 @@
     "url": "https://www.youtube.com/watch?v=ZH9eBq8SmvM",
     "views": 9,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260804"
@@ -10051,6 +10070,7 @@
     "url": "https://www.youtube.com/watch?v=WV6HAms5rws",
     "views": 13,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260804"
@@ -10090,6 +10110,7 @@
     "url": "https://www.youtube.com/watch?v=prm5fdGUz-Q",
     "views": 4,
     "rejected": [
+     "not-a-playthrough",
      "part-of-an-act"
     ],
     "upload_date": "20260804"
@@ -11246,7 +11267,7 @@
     "url": "https://www.youtube.com/watch?v=LvZc7pm4Udk",
     "views": 4300,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11257,7 +11278,7 @@
     "url": "https://www.youtube.com/watch?v=KDJWGT3clV4",
     "views": 24642,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11355,7 +11376,7 @@
     "url": "https://www.youtube.com/watch?v=-tTFshFpNY8",
     "views": 30,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11366,7 +11387,7 @@
     "url": "https://www.youtube.com/watch?v=J4CUHGnVyKY",
     "views": 70,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11377,7 +11398,7 @@
     "url": "https://www.youtube.com/watch?v=-GKVjnlrkl0",
     "views": 12,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11397,7 +11418,7 @@
     "url": "https://www.youtube.com/watch?v=_SEcm6o7RFc",
     "views": 2019,
     "rejected": [
-     "short-outlier"
+     "not-a-playthrough"
     ],
     "upload_date": "20260928"
    },
@@ -11877,6 +11898,591 @@
    "measured": 0,
    "parts": {},
    "drift": 0.019
+  }
+ },
+ {
+  "chapter_id": "planarcadia",
+  "chapter_title": "Planarcadia",
+  "act_label": "Mission 8",
+  "act_title": "Now, Lay Laughter to All Stars",
+  "wiki_page": "Now, Lay Laughter to All Stars",
+  "slug": "planarcadia_Mission_8",
+  "candidates": [
+   {
+    "seconds": 17806,
+    "title": "\ud83d\udd34 Honkai Star Rail 4.7 Planarcadia Finale - New Trailblaze Main Story Quest Full Playthrough Live",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Nnm2X1jNRm4",
+    "views": "33008",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1075,
+    "title": "Asat Pramad wins Phantasmoon Games, becomes Aeon of Elation & takes Da Baby - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=PG0ShWCXegY",
+    "views": "5517",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 58,
+    "title": "Aha is the first NPC that Trailblazer Caelus meets in Planarcadia - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=1GyqeYeWHKE",
+    "views": "22698",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 14082,
+    "title": "Now, Lay Laughter to All Stars with Aha in Honkai: Star Rail (Part 1).",
+    "uploader": "TheXGamer",
+    "url": "https://www.youtube.com/watch?v=A9LqXrYxH6A",
+    "views": 5,
+    "rejected": [
+     "fragment"
+    ],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 123,
+    "title": "Honkai: Star Rail Version 4.7 \u201cNow, Lay Laughter to All Stars\u201d Trailer | INSANE Reaction Mashup",
+    "uploader": "Anime Universe Y",
+    "url": "https://www.youtube.com/watch?v=-e1cPGI5jrY",
+    "views": "10801",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 262,
+    "title": "Trailblazer Caelus makes Aha his Emanator - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=AHD7jkyeWeo",
+    "views": "5522",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 177,
+    "title": "Trailblazer Caelus resurrects Aha - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=pTp9NUwE1fc",
+    "views": "16784",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 21,
+    "title": "Aha changes the Title Screen - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=yDUjLLPZ3_0",
+    "views": "2098",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 657,
+    "title": "Honkai Star Rail 4.7 - Hand of Finality Cliffhanger Ending (HSR 4.7)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=HevHGtF5f5k",
+    "views": "4563",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 515,
+    "title": "Aha meets Xipe - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=n2mFe4VKS5w",
+    "views": "5087",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 467,
+    "title": "Nihilux reveals the truth about Aha, Voracity & Aha's Mask - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=xFS3ewjrIrs",
+    "views": "1852",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 2354,
+    "title": "Aha vs Voracity Aha Final Boss Fight - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=gnf7_JNyZRo",
+    "views": 9108,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 172,
+    "title": "Nihilux Aha Vs Divine Skull of Indulgence Cutscene | Now Lay Laughter to All Stars | Star Rail",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=bqFlXKLFjRM",
+    "views": "8707",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 388,
+    "title": "Nihilux Aha Vs The Hand of Finality Cutscene | Now Lay Laughter to All Stars | Honkai Star Rail 4.7",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=fnrR8GB-ULU",
+    "views": "26477",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 303,
+    "title": "Version 4.7 Trailer: \"Now, Lay Laughter to All Stars\" | Honkai: Star Rail",
+    "uploader": "Honkai: Star Rail",
+    "url": "https://www.youtube.com/watch?v=Q7JuwvcqoMI",
+    "views": "938427",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16443,
+    "title": "Honkai Star Rail - Version 4.7 Trailblaze Mission Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=sbj4r4WC47g",
+    "views": 11765,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 1962,
+    "title": "Aha VS Planarcadia Final Boss & Cutscene (Embryo of Philosophy Madness) | Honkai Star Rail 4.7",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=-ZFwOv4doGY",
+    "views": "17887",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 329,
+    "title": "Aha & Xipe - Two Aeons Meet (Cutscene) | Honkai Star Rail 4.7",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=8ET7FQluuQ8",
+    "views": "23796",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3151,
+    "title": "Honkai: Star Rail Version 4.7 \"Now, Lay Laughter to All Stars\" Special Program",
+    "uploader": "Honkai: Star Rail",
+    "url": "https://www.youtube.com/watch?v=psifFhA2QAA",
+    "views": 691370,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20261030"
+   },
+   {
+    "seconds": 300,
+    "title": "Version 4.7 Trailer OST - Now, Lay Laughter to All Stars | Honkai: Star Rail",
+    "uploader": "Pom-Pom\u2019s Workstation",
+    "url": "https://www.youtube.com/watch?v=ALLIxTObJgw",
+    "views": "22538",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 493,
+    "title": "Nihilux \"Aeon Aha\" becomes the FIRST Emanator of Akivili (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=2GF6OuPkFsw",
+    "views": "60742",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3747,
+    "title": "Honkai: Star Rail Version 4.7 \"Now, Lay Laughter to All Stars\" Special Program REACTION",
+    "uploader": "Pixieebub",
+    "url": "https://www.youtube.com/watch?v=psGH9cYrXvQ",
+    "views": "18159",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 15958,
+    "title": "Honkai Star Rail 4.7 Trailblaze Mission - Planarcadia (Full Playthrough)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=2yY5N6kQwA8",
+    "views": 2454,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 528,
+    "title": "Version 4.7 Trailer Now, Lay Laughter to All Stars Explained Honkai Star Rail Story Lore Explained",
+    "uploader": "The Nameless Kaslana",
+    "url": "https://www.youtube.com/watch?v=_XfD2J0wv4c",
+    "views": "1397",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16786,
+    "title": "Honkai Star Rail 4.7 Planarcadia Finale - New Trailblaze Main Story Quest Full Playthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=PtntN5oBGEo",
+    "views": 11627,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 12625,
+    "title": "Honkai Star Rail 4.6 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=LwBVHHywpbs",
+    "views": 27968,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 11449,
+    "title": "HSR 4.6 Main Story - Full Playthrough (Honkai Star Rail)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=TV-XFcfKUn8",
+    "views": 11026,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 385,
+    "title": "Aha & Trailblazer Caelus vs Voracity Aha - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=2OtiPx4zuI0",
+    "views": "1712",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 897,
+    "title": "Honkai Star Rail 4.7 All Cutscenes in Now Lay Laughter to All Stars Ending Cutscene",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=m-TKO3QchG0",
+    "views": "12807",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1498,
+    "title": "HSR 4.7 All Cutscene & Full Final Boss Fight ~ Now Lay Laughter to All Stars Honkai Star Rail 4.7",
+    "uploader": "ON Game",
+    "url": "https://www.youtube.com/watch?v=NF8xe5T5MUs",
+    "views": "844",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 28236,
+    "title": "Honkai Star Rail Live Version 4.7! Now Lay Laughter to All Stars New Trailblazing Misson!",
+    "uploader": "Royal S Gaming",
+    "url": "https://www.youtube.com/watch?v=wKsZCRdDLqQ",
+    "views": "113",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 143,
+    "title": "Honkai Star Rail 4.7 Official Trailer | Now Lay Laughter to All Stars Special Program (Aeon Aha)",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=Puaj9YkR8pE",
+    "views": "1831",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 17131,
+    "title": "\ud83d\udd34 LIVE - HSR 4.7 Full Trailblaze Story Quest Playthrough",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=IRl97WB9aRY",
+    "views": "14345",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12706,
+    "title": "Honkai Star Rail - Version 4.6 Trailblaze Mission Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=BtGE3x6TUzw",
+    "views": 64541,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260928"
+   },
+   {
+    "seconds": 62,
+    "title": "Silver Wolf's perfect revenge against Pearl - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=mQIqVWGWsAU",
+    "views": "2356",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 679,
+    "title": "Aha reveals that Asat Pramad WON and that ALL ROADS LEAD TO HIM (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=w8cQjo30YIw",
+    "views": "35272",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 384,
+    "title": "Aha blesses Trailblazer Caelus with Luck - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=M0IoSZwJClk",
+    "views": "1805",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 370,
+    "title": "Aha vs Finality Trailblazer - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=nNHpqlS32I4",
+    "views": "5010",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 426,
+    "title": "Aha reveals the actual \"Aha\" is inside the Voracity and her body is DYING (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=Rg6S71zYgiA",
+    "views": "23080",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 738,
+    "title": "Trailblazer finally asks Aha about her Real Identity... (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=HKkg2KIx5vw",
+    "views": "51544",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 65,
+    "title": "What happens if you try to \ud835\udc93\ud835\udc8a\ud835\udc9b\ud835\udc9b Aha and make her stay?",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=fshjRwVYT6o",
+    "views": "35571",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 503,
+    "title": "Terminus \"Aeon of Finality\" TRIES TO KILL Aha - Full Fight Scene (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=fcp0kqDKqvg",
+    "views": "52951",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1202,
+    "title": "Aha and Akivili fools the ENTIRE COSMOS to save Planarcadia - Full Cutscene (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=205qDX_heyk",
+    "views": "28983",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3811,
+    "title": "LET THERE BE LAUGHTER | Honkai: Star Rail - 4.7 Livestream \"Now, Lay Laughter to All Stars\" Reaction",
+    "uploader": "Nohr Trappola",
+    "url": "https://www.youtube.com/watch?v=E0E5W1c2dIA",
+    "views": "4254",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 484,
+    "title": "Asat Pramad exposes Aha's LIES and UNLEASHES \"The Original Aha\" - Boss Fight (Honkai Star Rail 4.7)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=G1KgDLZ6mZU",
+    "views": "35792",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 162,
+    "title": "Aha breaks the 4th wall - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=u7yNf0DZiHE",
+    "views": "776",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 769,
+    "title": "Aha is Aha and not Aha as well - HSR 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=b05_vxF0asQ",
+    "views": "707",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 166,
+    "title": "Asat Pramad Returns - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=TMzjFak0-us",
+    "views": "617",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1535,
+    "title": "Haley Stevens Flips Against El-Sayed & the Media Goes Poll-Crazy | The Daily Show",
+    "uploader": "The Daily Show",
+    "url": "https://www.youtube.com/watch?v=x1sNcmF0y10",
+    "views": "9157689",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 399,
+    "title": "Pearl questions Aha's true motives - Honkai Star Rail 4.7",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=CiPgIWpkwi0",
+    "views": "1113",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 16739,
+    "title": "Honkai Star Rail 4.7 - Full Trailblaze Story Quest Playthrough (Planarcadia Finale)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=U3aUWoMPjmo",
+    "views": 3433,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 3509,
+    "title": "Yabuli Final Boss Fight & Cliff Hanger Ending - Honkai Star Rail 4.6",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=sUbMzeh65W0",
+    "views": 18151,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260928"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 15958,
+    "title": "Honkai Star Rail 4.7 Trailblaze Mission - Planarcadia (Full Playthrough)",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=2yY5N6kQwA8",
+    "views": 2454,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 16443,
+    "title": "Honkai Star Rail - Version 4.7 Trailblaze Mission Main Story Quest (Full Playthrough)",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=sbj4r4WC47g",
+    "views": 11765,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 16739,
+    "title": "Honkai Star Rail 4.7 - Full Trailblaze Story Quest Playthrough (Planarcadia Finale)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=U3aUWoMPjmo",
+    "views": 3433,
+    "rejected": [],
+    "upload_date": "20261111"
+   },
+   {
+    "seconds": 16786,
+    "title": "Honkai Star Rail 4.7 Planarcadia Finale - New Trailblaze Main Story Quest Full Playthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=PtntN5oBGEo",
+    "views": 11627,
+    "rejected": [],
+    "upload_date": "20261111"
+   }
+  ],
+  "stats": {
+   "n": 4,
+   "median": 277,
+   "low": 266,
+   "high": 280,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 275,
+   "measured": 0,
+   "parts": {},
+   "drift": null
   }
  }
 ]
