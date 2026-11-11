@@ -38,10 +38,8 @@ where the two segues add
 <!--f:len_Segue_II-->18 min<!--/f--> between them.
 The acts themselves are the best-covered in the report,
 because a version that has just shipped is what everyone uploads:
-even Act IV, only weeks old at collection,
-has enough uploads to be rated on its spread,
-though its pool is the youngest in the report
-and its figures the most likely to move on a re-harvest.
+even Act IV, the youngest pool in the report,
+has enough uploads to be rated on its spread.
 The second segue, thin while it was new,
 has since gathered enough uploads to be rated on its spread too.
 

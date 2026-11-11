@@ -75,8 +75,8 @@ CLAIMS = [
                  "The first of the chapter's two set pieces, second only to "
                  "Act IV in length"),
     sample_at_least("ch4", "Act IV", IQR_SAMPLES,
-                    "even Act IV, only weeks old at collection, has enough "
-                    "uploads to be rated on its spread"),
+                    "even Act IV, the youngest pool in the report, has "
+                    "enough uploads to be rated on its spread"),
     median_between("ch4", "Segue - I", 5, 45,
                    "the two segues together add under {len_Segue_I} plus "
                    "{len_Segue_II}"),

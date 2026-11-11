@@ -45,16 +45,16 @@ Specific to <!--f:game-->Wuthering Waves<!--/f-->:
 and the Union Level gates come from the
 [Main Quest page](https://wutheringwaves.fandom.com/wiki/Main_Quest)
 and the individual chapter and act pages of the Wuthering Waves Wiki.
-- **Searches:** for every entry, YouTube was searched five ways:
+- **Searches:** for every entry, YouTube was searched
 by chapter plus act label plus act title, by act title alone,
 by act title with the game name,
-and twice by the patch branding recent uploads use instead of act titles
+and by the patch branding recent uploads use instead of act titles
 ("Wuthering Waves 3.5 Chapter IV Act 1 ...").
 - **Compilations:** multi-act uploads such as
 "Act 1 & 2", "Act 3 & Segue" or "Full Rinascita Main Story Quest",
 which count only where their chapter markers
 located this entry inside them.
-- **Fragments:** two channels publish one upload per quest objective
+- **Fragments:** some channels publish one upload per quest objective
 ("*Utterance of Marvels: II*: Activate Resonance Beacon"),
 which run a couple of minutes each
 and would otherwise sink the median of the shortest entries.
@@ -103,9 +103,8 @@ so its acts are well covered,
 and its segues, thin while they were new,
 have since gathered enough uploads to be rated on their spread.
 *Simulacrum of the Heart*, its Act IV,
-was only weeks old at collection,
-so its pool is the youngest in the report
-and its figures the most likely to move on a re-harvest.
+has the youngest pool in the report,
+and was searched again at the depth recent acts get before this collection.
 It has no stability figure,
 because it was added to the report
 after the medians it would be compared against were taken.

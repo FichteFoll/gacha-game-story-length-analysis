@@ -214,9 +214,9 @@ and the Carnevale rehearsal the Troupe is about to lose control of.
 The fishing chapter: Ishmael, Captain Ahab,
 the Riccioli Islands and the whale that will not stay a story.
 An event chapter the wiki files inside Chapter II.
-One upload pairs it with *Silent as a Falling Leaf*,
+Where an upload pairs it with *Silent as a Falling Leaf*,
 an exploration quest of the Averardo Vault and no part of the Interlude,
-so only its Interlude chapter markers are counted.
+only its Interlude chapter markers are counted.
 <!--gen:stats act="Interlude"-->
 
 - **Estimated length:** 1 h 51 min
