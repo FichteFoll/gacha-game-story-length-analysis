@@ -4,7 +4,7 @@ Duration estimates for every chapter of the Story menu,
 from the opening run aboard the Selene to the current Part 2 arc,
 each one backed by the YouTube playthroughs it was measured from.
 
-**Total for the whole story: <!--f:grand_total-->149 h 30 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->566<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
+**Total for the whole story: <!--f:grand_total-->149 h 25 min<!--/f-->** (<!--f:n_report_entries-->66<!--/f--> chapters counting the EX chapters and the bridge interlude, measured against <!--f:n_videos-->573<!--/f--> accepted uploads out of <!--f:n_candidates-->2965<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Arcs
@@ -20,7 +20,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Elegy to Yesterday | Part 1 | 3.8 - 4.0 | 3 | 4 h 17 min | [06-elegy-to-yesterday.md](06-elegy-to-yesterday.md) |
 | Here Lies Bellflower | Part 1 | 4.1 - 4.2 | 2 | 2 h 47 min | [07-here-lies-bellflower.md](07-here-lies-bellflower.md) |
 | Taixuan Dream | Part 1 | 4.3 - 4.5 | 3 | 6 h 08 min | [08-taixuan-dream.md](08-taixuan-dream.md) |
-| Remaining Flames | Part 1 | 4.7 - 4.9 | 3 | 10 h 52 min | [09-remaining-flames.md](09-remaining-flames.md) |
+| Remaining Flames | Part 1 | 4.7 - 4.9 | 3 | 10 h 59 min | [09-remaining-flames.md](09-remaining-flames.md) |
 | Thus Spoke Apocalypse | Part 1 | 5.1 - 5.4 | 4 | 6 h 33 min | [10-thus-spoke-apocalypse.md](10-thus-spoke-apocalypse.md) |
 | To the Flawless | Part 1 | 5.7 - 5.9 | 3 | 6 h 04 min | [11-to-the-flawless.md](11-to-the-flawless.md) |
 | The Day of Transcending Finality | Part 1 | 6.0 - 6.4 | 5 | 10 h 31 min | [12-the-day-of-transcending-finality.md](12-the-day-of-transcending-finality.md) |
@@ -28,8 +28,8 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | Beyond the Stars | Part 1.5 | 6.9 - 7.2 | 4 | 10 h 13 min | [14-beyond-the-stars.md](14-beyond-the-stars.md) |
 | Tides of Time Gone By | Part 2 | 7.3 - 7.6 | 4 | 11 h 19 min | [15-tides-of-time-gone-by.md](15-tides-of-time-gone-by.md) |
 | A Shore Under Watch | Part 2 | 7.7 | 1 | 3 h 10 min | [16-a-shore-under-watch.md](16-a-shore-under-watch.md) |
-| Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 30 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
-| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 24 h 58 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
+| Dawn after the Remaining Old Wish | Part 2 | 7.8 - 8.4 | 7 | 25 h 26 min | [17-dawn-after-the-remaining-old-wish.md](17-dawn-after-the-remaining-old-wish.md) |
+| The Future We Embrace | Part 2 | 8.5 - 9.0 | 6 | 24 h 50 min | [18-a-rose-in-a-curtsy.md](18-a-rose-in-a-curtsy.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->chapters<!--/f-->
@@ -40,7 +40,7 @@ That figure is the sum of the per-<!--f:unit-->chapter<!--/f--> medians, so trea
 | longest | Part 2, Chapter XIV: The Future We Embrace | 6 h 02 min |
 | longest | Part 2, Chapter IX: If Destiny Concludes Today | 5 h 37 min |
 | longest | Part 2, Chapter II: The Seven Shus in the Maze | 4 h 39 min |
-| longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 17 min |
+| longest | Part 2, Chapter XII: With You, Whom I Never Knew | 4 h 18 min |
 | longest | Part 2, Chapter XI: A Mass for Atheists | 4 h 12 min |
 | shortest | Part 1, Chapter VII: Lift the Sword of Rebellion | 21 min |
 | shortest | Part 1, Chapter XIV: Dispel the Darkness | 27 min |
@@ -101,6 +101,12 @@ putting the instalment before the storyline's part
 ("Part 2 (Part 2 Chapter 14)"),
 and those are screened out by that wording;
 its unnumbered first instalments are not told apart from a complete upload.
+- **"Full Story":** this game's uploaders say it of a single chapter
+("With You, Whom I Never Knew Full Story", "[Full Story] THE SOLO STAGE"),
+so it is not read as a compilation;
+only an entire, complete or whole story,
+a full storyline, game or campaign,
+and a "full main story" that names no chapter are.
 - **Clips:** the pool carries a great many highlight clips
 that name the chapter, say nothing about their scope and run a few minutes.
 No wording catches them, so this report sets a runtime floor

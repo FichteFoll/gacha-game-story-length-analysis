@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # The Future We Embrace
 
-**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 24 h 58 min**
+**Part:** Part 2 | **Game versions:** 8.5 - 9.0 | **Entries:** 6 | **Estimated arc length: 24 h 50 min**
 <!--/gen-->
 
 The most recent stretch of the story, and still being added to.
@@ -14,19 +14,19 @@ and Dreamseeker and Vita head back to Difeng to stop the Great Wipe.
 <!--gen:glance-->
 | Chapter | Title | Estimate | Middle half | Uploads | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| Chapter X | Reunited Under the Light of Faith | 4 h 00 min | 3 h 46 min - 4 h 46 min | 8 | low |
+| Chapter X | Reunited Under the Light of Faith | 3 h 51 min | 3 h 47 min - 4 h 40 min | 9 | low |
 | Chapter XI | A Mass for Atheists | 4 h 12 min | 3 h 38 min - 4 h 43 min | 12 | medium |
-| Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 5 | low |
-| Chapter XII | With You, Whom I Never Knew | 4 h 17 min | 3 h 34 min - 4 h 24 min | 15 | high |
+| Chapter EX-4 | The Night Which the Light Dreams Of | 2 h 27 min | 1 h 28 min - 3 h 00 min | 6 | low |
+| Chapter XII | With You, Whom I Never Knew | 4 h 18 min | 3 h 35 min - 4 h 25 min | 16 | high |
 | Chapter XIII | A Rose in a Curtsy | 4 h 00 min | 3 h 43 min - 4 h 15 min | 14 | high |
 | Chapter XIV | The Future We Embrace | 6 h 02 min | 5 h 16 min - 6 h 44 min | 9 | medium |
 <!--/gen-->
 
-**Total: <!--f:total-->24 h 58 min<!--/f-->**
+**Total: <!--f:total-->24 h 50 min<!--/f-->**
 
 ## Pacing
 
-<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->24 h 58 min<!--/f-->,
+<!--f:n_entries-->six<!--/f--> entries and <!--f:total-->24 h 50 min<!--/f-->,
 the newest arc in the report and the last one it covers,
 and all but level with *Dawn after the Remaining Old Wish* as the largest.
 Four of its entries sit within half an hour of each other
@@ -47,11 +47,11 @@ and most of the entries here carry a middle half.
 Reunited under the light of faith, and the arc's opener.
 <!--gen:stats act="Chapter X"-->
 
-- **Estimated length:** 4 h 00 min
-- **Sampled range:** 3 h 46 min to 4 h 46 min for the middle half (full spread 3 h 36 min to 5 h 56 min) across 8 playthrough uploads (32 further candidates screened out)
+- **Estimated length:** 3 h 51 min
+- **Sampled range:** 3 h 47 min to 4 h 40 min for the middle half (full spread 3 h 36 min to 5 h 56 min) across 9 playthrough uploads (31 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 8.5
-- **Stability:** median -10% against an earlier, independent query set
+- **Stability:** median -14% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter X"-->
@@ -62,6 +62,7 @@ Reunited under the light of faith, and the arc's opener.
 | --- | --- | --- | --- | --- | --- |
 | 3 h 36 min | Honkai Impact 3rd - Part 2 Chapter X - Reunited Under the Light of Faith | DanGooSlime | ~12 | n/a | <https://www.youtube.com/watch?v=HQYKkQOS5E4> |
 | 3 h 45 min | Honkai Impact 3rd Part 2 – Chapter 10 Reunited Under the Light of Faith | Jirangu | ~196 | n/a | <https://www.youtube.com/watch?v=QaF_Er_1e-Q> |
+| 3 h 48 min | Reunited Under the Light of Faith Full Story \| Honkai Impact 3rd 8.5 | KNCPG | 1,440 | 2025-11-06 | <https://www.youtube.com/watch?v=92CBRw9jFQY> |
 | 3 h 49 min | Main Story Part 2 Chapter X: Reunited Under the Light of Faith! \| Honkai Impact 3rd [v8.5] | Nanoha61 | 38 | 2025-11-12 | <https://www.youtube.com/watch?v=738IgM0j02U> |
 | 3 h 51 min | Honkai Impact 3rd Part 2 Chapter 10 - Reunited Under the Light of Faith | Vergen | ~52 | n/a | <https://www.youtube.com/watch?v=s1wQqZa4xQM> |
 | 4 h 10 min | Honkai Impact 3rd - Part 2 Chapter 10 Story - Reunited Under the Light of Faith | Kurib | ~6 | n/a | <https://www.youtube.com/watch?v=nokfglSof1M> |
@@ -117,7 +118,7 @@ and the only entry here under three hours.
 <!--gen:stats act="Chapter EX-4"-->
 
 - **Estimated length:** 2 h 27 min
-- **Sampled range:** 1 h 28 min to 3 h 00 min across 5 playthrough uploads (29 further candidates screened out)
+- **Sampled range:** 1 h 28 min to 3 h 00 min across 6 playthrough uploads (28 further candidates screened out)
 - **Confidence:** low
 - **Released in:** 8.7
 - **Stability:** median +9% against an earlier, independent query set
@@ -132,6 +133,7 @@ and the only entry here under three hours.
 | 1 h 28 min | Honkai impact 3 \| The Night Which the Light Dreams Of \| No commentary (Complete) | BukanSiapa2 | ~7 | n/a | <https://www.youtube.com/watch?v=ciDHY0Eqj7w> |
 | 2 h 03 min | Senadina \| Chapter 11-EX: The Night Which the Light Dreams Of - Honkai Impact 3rd Part 2 [CN Dub] | Honokazuuu | ~104 | n/a | <https://www.youtube.com/watch?v=d8-xYl_p88g> |
 | 2 h 27 min | Main Story Part 2 Chapter XI: The Night Which the Light Dreams of \| Honkai Impact 3rd [v8.7] | Nanoha61 | ~28 | n/a | <https://www.youtube.com/watch?v=K2Ak3ZvfkEw> |
+| 2 h 28 min | The Night Which the Light Dreams Of Full Story \| Honkai Impact 3rd 8.7 | KNCPG | ~792 | n/a | <https://www.youtube.com/watch?v=mgYTCSZHIfo> |
 | 2 h 51 min | The Night Which The Light Dreams Of- Full Playthrough! Honkai Impact 3rd event (Senadina) | Slodolo | ~18 | n/a | <https://www.youtube.com/watch?v=Oy04DUF0fO8> |
 | 3 h 00 min | Honkai Impact 3rd - 8.7 Story - The Night Which the Light Dreams Of | Kurib | ~33 | n/a | <https://www.youtube.com/watch?v=nNl4r-btPMM> |
 
@@ -145,11 +147,11 @@ and the only entry here under three hours.
 With you, whom I never knew.
 <!--gen:stats act="Chapter XII"-->
 
-- **Estimated length:** 4 h 17 min
-- **Sampled range:** 3 h 34 min to 4 h 24 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 15 playthrough uploads (49 further candidates screened out)
+- **Estimated length:** 4 h 18 min
+- **Sampled range:** 3 h 35 min to 4 h 25 min for the middle half (full spread 3 h 19 min to 6 h 35 min) across 16 playthrough uploads (48 further candidates screened out)
 - **Confidence:** high
 - **Released in:** 8.8
-- **Stability:** median -1% against an earlier, independent query set
+- **Stability:** median 0% against an earlier, independent query set
 <!--/gen-->
 
 <!--gen:evidence act="Chapter XII"-->
@@ -170,6 +172,7 @@ With you, whom I never knew.
 | 4 h 19 min | Main Story Part 2 Chapter 12: With You, Whom I Never Knew \| Honkai Impact 3rd [v8.8] | Nanoha61 | ~43 | n/a | <https://www.youtube.com/watch?v=N4a4z8LyOuo> |
 | 4 h 20 min | Honkai Impact 3rd Part 2 Story Quest Chapter 12 Walkthrough Gameplay (Japanese Dub) | DafDazDay | ~3,191 | n/a | <https://www.youtube.com/watch?v=AKHxPah4Y9c> |
 | 4 h 24 min | HONKAI IMPACT 3 MAIN STORY - WITH YOU WHOM I NEVER KNEW | UbanAja | ~6 | n/a | <https://www.youtube.com/watch?v=Ve9za0J4Bmo> |
+| 4 h 26 min | With You, Whom I Never Knew Full Story \| Honkai Impact 3rd 8.8 | KNCPG | ~1,057 | n/a | <https://www.youtube.com/watch?v=cN3kuFGQzmo> |
 | 4 h 28 min | Honkai Impact 3rd Part 2 - Chapter 12 With You, Whom I Never Knew | Vergen | ~5 | n/a | <https://www.youtube.com/watch?v=HhAwHva5Uck> |
 | 4 h 46 min | (13)Honkai Impact 3rd \| Part 2 \| Main Story - Chapter  12 \| With You, Whom I Never Knew | DodocoNotes | ~12 | n/a | <https://www.youtube.com/watch?v=8pjtZy669qo> |
 | 6 h 35 min | Honkai Impact - Part 2 Chapter XII (12) - With You, Whom I Never Knew (Complete) | Aira Delasse | ~80 | n/a | <https://www.youtube.com/watch?v=PN7c8Tsb2rY> |

@@ -3398,7 +3398,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -3983,7 +3982,6 @@
     "views": "4775",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -3995,7 +3993,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -5773,7 +5770,6 @@
     "url": "https://www.youtube.com/watch?v=9F5IKc593L4",
     "views": "10455",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -5816,7 +5812,6 @@
     "views": "4773",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -13458,9 +13453,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=adJvi3L2YYw",
     "views": "13",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 12847,
@@ -13853,6 +13846,14 @@
     "rejected": []
    },
    {
+    "seconds": 14332,
+    "title": "[Full Story] THE SOLO STAGE",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=adJvi3L2YYw",
+    "views": "13",
+    "rejected": []
+   },
+   {
     "seconds": 14927,
     "title": "Honkai Impact 3rd - Part 1 Chapter 23: The Solo Stage",
     "uploader": "The Honkaipedia",
@@ -13878,13 +13879,13 @@
    }
   ],
   "stats": {
-   "n": 8,
+   "n": 9,
    "median": 221,
    "low": 180,
    "high": 293,
-   "q1": 195,
-   "q3": 261,
-   "trimmed_mean": 229,
+   "q1": 200,
+   "q3": 257,
+   "trimmed_mean": 230,
    "measured": 0,
    "parts": {},
    "drift": 0.057
@@ -13966,10 +13967,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=WethVA1ldGI",
     "views": 39,
-    "rejected": [
-     "multi-act",
-     "part-of-an-act"
-    ],
+    "rejected": [],
     "upload_date": "20210708"
    },
    {
@@ -13979,8 +13977,7 @@
     "url": "https://www.youtube.com/watch?v=tJfQqRpJOVA",
     "views": "14",
     "rejected": [
-     "multi-act",
-     "part-of-an-act"
+     "same-uploader"
     ]
    },
    {
@@ -14458,19 +14455,28 @@
     "views": 60,
     "rejected": [],
     "upload_date": "20250412"
+   },
+   {
+    "seconds": 15996,
+    "title": "[Full Story] THE LEGION THEATER",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=WethVA1ldGI",
+    "views": 39,
+    "rejected": [],
+    "upload_date": "20210708"
    }
   ],
   "stats": {
-   "n": 6,
-   "median": 228,
+   "n": 7,
+   "median": 232,
    "low": 180,
-   "high": 262,
+   "high": 267,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 220,
+   "trimmed_mean": 227,
    "measured": 0,
    "parts": {},
-   "drift": -0.062
+   "drift": -0.045
   }
  },
  {
@@ -14566,9 +14572,7 @@
     "uploader": "FujikoFFujio2",
     "url": "https://www.youtube.com/watch?v=ToQnWKNt-iU",
     "views": "9",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 14852,
@@ -14743,7 +14747,9 @@
     "uploader": "CrimsonFox45",
     "url": "https://www.youtube.com/watch?v=FqSi3e8jdPE",
     "views": "14",
-    "rejected": []
+    "rejected": [
+     "short-outlier"
+    ]
    },
    {
     "seconds": 5018,
@@ -14866,14 +14872,6 @@
   ],
   "kept": [
    {
-    "seconds": 5701,
-    "title": "Set Tomorrow Ablaze Story Chapter 25 - Honkai Impact 3rd | CrimsonFox45",
-    "uploader": "CrimsonFox45",
-    "url": "https://www.youtube.com/watch?v=FqSi3e8jdPE",
-    "views": "14",
-    "rejected": []
-   },
-   {
     "seconds": 6847,
     "title": "MAY ALL THE BEAUTY BE BLESSED o7 ;_______; | Chapter 25 - PART 2\u3010Honkai Impact 3rd\u3011",
     "uploader": "nekouji",
@@ -14915,6 +14913,14 @@
     "rejected": []
    },
    {
+    "seconds": 13647,
+    "title": "[Full Story] SET TOMORROW ABLAZE",
+    "uploader": "FujikoFFujio2",
+    "url": "https://www.youtube.com/watch?v=ToQnWKNt-iU",
+    "views": "9",
+    "rejected": []
+   },
+   {
     "seconds": 14394,
     "title": "CHAPTER 25 SET TOMORROW ABLAZE! MAIN STORY In Honkai Impact 3rd! PART 14!",
     "uploader": "Beefy",
@@ -14933,15 +14939,15 @@
   ],
   "stats": {
    "n": 8,
-   "median": 203,
-   "low": 95,
+   "median": 206,
+   "low": 114,
    "high": 248,
-   "q1": 132,
-   "q3": 232,
-   "trimmed_mean": 187,
+   "q1": 189,
+   "q3": 237,
+   "trimmed_mean": 203,
    "measured": 0,
    "parts": {},
-   "drift": -0.005
+   "drift": 0.01
   }
  },
  {
@@ -15051,7 +15057,6 @@
     "views": "157",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -16751,7 +16756,6 @@
     "views": "4773",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -19228,8 +19232,7 @@
     "url": "https://www.youtube.com/watch?v=NJEPxS3E-U4",
     "views": "402",
     "rejected": [
-     "not-a-playthrough",
-     "multi-act"
+     "not-a-playthrough"
     ]
    },
    {
@@ -19691,7 +19694,6 @@
     "views": "33264",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -22279,7 +22281,6 @@
     "views": "139",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -23266,7 +23267,6 @@
     "url": "https://www.youtube.com/watch?v=3pXgPtpNWhY",
     "views": 16,
     "rejected": [
-     "multi-act",
      "fragment"
     ],
     "upload_date": "20230717"
@@ -23278,7 +23278,6 @@
     "url": "https://www.youtube.com/watch?v=qqksIhCbDwA",
     "views": "26",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23300,7 +23299,6 @@
     "url": "https://www.youtube.com/watch?v=95kvXK_whkg",
     "views": "15",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23322,7 +23320,6 @@
     "views": "17",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23495,7 +23492,6 @@
     "views": "18",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23506,7 +23502,6 @@
     "url": "https://www.youtube.com/watch?v=dHpJjjjLGSU",
     "views": "22",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23838,7 +23833,6 @@
     "views": "16",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23850,7 +23844,6 @@
     "views": "9",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23862,7 +23855,6 @@
     "views": "21",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23873,7 +23865,6 @@
     "url": "https://www.youtube.com/watch?v=9oieKs3yNRM",
     "views": "20",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -23885,7 +23876,6 @@
     "views": "28",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -23897,7 +23887,6 @@
     "views": "19",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -24024,7 +24013,6 @@
     "url": "https://www.youtube.com/watch?v=u3CIs6fj8VQ",
     "views": "13",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -24264,7 +24252,6 @@
     "url": "https://www.youtube.com/watch?v=L2WLoxLnlsA",
     "views": "548",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -24277,7 +24264,6 @@
     "views": "139",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25854,7 +25840,6 @@
     "url": "https://www.youtube.com/watch?v=QA1cdL8Ne48",
     "views": "282",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25866,7 +25851,6 @@
     "url": "https://www.youtube.com/watch?v=mdpArcUK_Dk",
     "views": "957",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25878,7 +25862,6 @@
     "url": "https://www.youtube.com/watch?v=L0C6PdSfNzg",
     "views": "405",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -25902,7 +25885,6 @@
     "url": "https://www.youtube.com/watch?v=0JAVV7uzAhs",
     "views": 404,
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ],
@@ -25925,7 +25907,6 @@
     "url": "https://www.youtube.com/watch?v=L2WLoxLnlsA",
     "views": "548",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -26080,7 +26061,6 @@
     "views": "191",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "fragment"
     ]
    },
@@ -26121,7 +26101,6 @@
     "url": "https://www.youtube.com/watch?v=equdo3F_7mI",
     "views": "1035",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -26481,7 +26460,6 @@
     "views": "158356",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -26735,7 +26713,6 @@
     "url": "https://www.youtube.com/watch?v=wVuujLku6q0",
     "views": "160",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -27228,7 +27205,6 @@
     "url": "https://www.youtube.com/watch?v=NKcwU-zoh8I",
     "views": "200",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -27251,7 +27227,6 @@
     "url": "https://www.youtube.com/watch?v=pR4ZXR1TQIc",
     "views": "144",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -27273,7 +27248,6 @@
     "url": "https://www.youtube.com/watch?v=peoV8PIz6IU",
     "views": "140",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -28219,7 +28193,6 @@
     "url": "https://www.youtube.com/watch?v=lt8Pznoqtnw",
     "views": "549",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28345,7 +28318,6 @@
     "url": "https://www.youtube.com/watch?v=AO-CvsH8og4",
     "views": "311",
     "rejected": [
-     "multi-act",
      "fragment"
     ]
    },
@@ -28450,7 +28422,6 @@
     "url": "https://www.youtube.com/watch?v=qdwLKrOrpL8",
     "views": "405",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -29783,7 +29754,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -30694,9 +30664,7 @@
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=zMBIOvcr0Bs",
     "views": "473",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 5709,
@@ -30879,6 +30847,14 @@
     "rejected": []
    },
    {
+    "seconds": 6939,
+    "title": "Honkai Impact Part 2 - Chapter 7 Interlude: To None May God Pray | Full Story JP Dub EN Sub 4K 60FPS",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=zMBIOvcr0Bs",
+    "views": "473",
+    "rejected": []
+   },
+   {
     "seconds": 6959,
     "title": "Honkai Impact 3rd Part 2 Chapter 7 EX - To None May God Pray (Full)",
     "uploader": "Kazuma Akimoto (Master Aki)",
@@ -30928,13 +30904,13 @@
    }
   ],
   "stats": {
-   "n": 9,
+   "n": 10,
    "median": 116,
    "low": 74,
    "high": 122,
-   "q1": 113,
+   "q1": 114,
    "q3": 119,
-   "trimmed_mean": 112,
+   "trimmed_mean": 116,
    "measured": 0,
    "parts": {},
    "drift": 0.027
@@ -31687,7 +31663,6 @@
     "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
     "views": "342",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -32439,9 +32414,7 @@
     "uploader": "Gudaoko",
     "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
     "views": "342",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 807,
@@ -32483,7 +32456,6 @@
     "url": "https://www.youtube.com/watch?v=QNy8r6Y_690",
     "views": "917",
     "rejected": [
-     "multi-act",
      "fragment",
      "act-mismatch"
     ]
@@ -32527,6 +32499,14 @@
     "rejected": []
    },
    {
+    "seconds": 10522,
+    "title": "Honkai Impact Part 2 - Chapter 9EX: Yet the Stars Still Sparkle | Full Story JP Dub EN Sub 4K 60FPS",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=mTGhQ7mY6qk",
+    "views": "342",
+    "rejected": []
+   },
+   {
     "seconds": 11055,
     "title": "Honkai Impact 3rd - Part 2 : Chapter 9 EX Yet The Stars Still Sparkle (Full Playthrough)",
     "uploader": "Honkai Gamers",
@@ -32561,16 +32541,16 @@
    }
   ],
   "stats": {
-   "n": 7,
-   "median": 184,
+   "n": 8,
+   "median": 180,
    "low": 144,
    "high": 252,
-   "q1": null,
-   "q3": null,
-   "trimmed_mean": 186,
+   "q1": 154,
+   "q3": 206,
+   "trimmed_mean": 185,
    "measured": 0,
    "parts": {},
-   "drift": -0.066
+   "drift": -0.086
   }
  },
  {
@@ -32595,9 +32575,7 @@
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=92CBRw9jFQY",
     "views": 1440,
-    "rejected": [
-     "multi-act"
-    ],
+    "rejected": [],
     "upload_date": "20251106"
    },
    {
@@ -32773,7 +32751,6 @@
     "views": "33272",
     "rejected": [
      "not-a-playthrough",
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -32997,6 +32974,15 @@
     "rejected": []
    },
    {
+    "seconds": 13668,
+    "title": "Reunited Under the Light of Faith Full Story | Honkai Impact 3rd 8.5",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=92CBRw9jFQY",
+    "views": 1440,
+    "rejected": [],
+    "upload_date": "20251106"
+   },
+   {
     "seconds": 13745,
     "title": "Main Story Part 2 Chapter X: Reunited Under the Light of Faith! | Honkai Impact 3rd [v8.5]",
     "uploader": "Nanoha61",
@@ -33047,16 +33033,16 @@
    }
   ],
   "stats": {
-   "n": 8,
-   "median": 240,
+   "n": 9,
+   "median": 231,
    "low": 216,
    "high": 356,
-   "q1": 226,
-   "q3": 286,
-   "trimmed_mean": 258,
+   "q1": 227,
+   "q3": 280,
+   "trimmed_mean": 255,
    "measured": 0,
    "parts": {},
-   "drift": -0.101
+   "drift": -0.135
   }
  },
  {
@@ -33356,7 +33342,6 @@
     "url": "https://www.youtube.com/watch?v=YppIMz7QnHM",
     "views": "172",
     "rejected": [
-     "multi-act",
      "act-mismatch"
     ]
    },
@@ -33796,9 +33781,7 @@
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=mgYTCSZHIfo",
     "views": "792",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 548,
@@ -34040,6 +34023,14 @@
     "rejected": []
    },
    {
+    "seconds": 8905,
+    "title": "The Night Which the Light Dreams Of Full Story | Honkai Impact 3rd 8.7",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=mgYTCSZHIfo",
+    "views": "792",
+    "rejected": []
+   },
+   {
     "seconds": 10236,
     "title": "The Night Which The Light Dreams Of- Full Playthrough! Honkai Impact 3rd event (Senadina)",
     "uploader": "Slodolo",
@@ -34057,13 +34048,13 @@
    }
   ],
   "stats": {
-   "n": 5,
+   "n": 6,
    "median": 147,
    "low": 88,
    "high": 180,
    "q1": null,
    "q3": null,
-   "trimmed_mean": 142,
+   "trimmed_mean": 143,
    "measured": 0,
    "parts": {},
    "drift": 0.089
@@ -34239,9 +34230,7 @@
     "uploader": "KNCPG",
     "url": "https://www.youtube.com/watch?v=cN3kuFGQzmo",
     "views": "1057",
-    "rejected": [
-     "multi-act"
-    ]
+    "rejected": []
    },
    {
     "seconds": 2280,
@@ -34824,6 +34813,14 @@
     "rejected": []
    },
    {
+    "seconds": 15936,
+    "title": "With You, Whom I Never Knew Full Story | Honkai Impact 3rd 8.8",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=cN3kuFGQzmo",
+    "views": "1057",
+    "rejected": []
+   },
+   {
     "seconds": 16059,
     "title": "Honkai Impact 3rd Part 2 - Chapter 12 With You, Whom I Never Knew",
     "uploader": "Vergen",
@@ -34849,16 +34846,16 @@
    }
   ],
   "stats": {
-   "n": 15,
-   "median": 257,
+   "n": 16,
+   "median": 258,
    "low": 199,
    "high": 395,
-   "q1": 214,
-   "q3": 264,
-   "trimmed_mean": 245,
+   "q1": 215,
+   "q3": 265,
+   "trimmed_mean": 246,
    "measured": 0,
    "parts": {},
-   "drift": -0.008
+   "drift": -0.004
   }
  },
  {
