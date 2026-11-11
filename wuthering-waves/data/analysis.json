@@ -15521,9 +15521,7 @@
     "uploader": "Sternking",
     "url": "https://www.youtube.com/watch?v=qiJBJq28BhU",
     "views": "302",
-    "rejected": [
-     "not-a-playthrough"
-    ]
+    "rejected": []
    },
    {
     "seconds": 186,
@@ -15634,6 +15632,14 @@
     "upload_date": "20260703"
    },
    {
+    "seconds": 10267,
+    "title": "Wuthering Waves X Cyberpunk Edgerunners | At Dream's Edge Full Gameplay & Cutscenes",
+    "uploader": "Sternking",
+    "url": "https://www.youtube.com/watch?v=qiJBJq28BhU",
+    "views": "302",
+    "rejected": []
+   },
+   {
     "seconds": 10290,
     "title": "Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge",
     "uploader": "Yoru Silent Playthroughs",
@@ -15707,12 +15713,12 @@
    }
   ],
   "stats": {
-   "n": 16,
+   "n": 17,
    "median": 171,
    "low": 132,
    "high": 204,
    "q1": 161,
-   "q3": 184,
+   "q3": 183,
    "trimmed_mean": 173,
    "measured": 1,
    "parts": {},

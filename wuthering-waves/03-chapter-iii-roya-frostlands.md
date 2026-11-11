@@ -27,7 +27,7 @@ and ends up piloting the thing the whole world has been building.
 | Act V | Starlights from Yesterdays | 2 h 54 min | 2 h 39 min - 3 h 06 min | 22 | high |
 | Segue - V | Wishes in the Bell: Epilogue | 14 min | 13 min - 14 min | 16 | high |
 | Segue - VI | Beneath a Melting Night Sky | 2 h 00 min | 1 h 50 min - 2 h 08 min | 16 | high |
-| Side Story | At Dream's Edge | 2 h 51 min | 2 h 41 min - 3 h 04 min | 16 | high |
+| Side Story | At Dream's Edge | 2 h 51 min | 2 h 41 min - 3 h 03 min | 17 | high |
 | Segue - VII | We Choose the Sky | 2 h 04 min | 1 h 58 min - 2 h 09 min | 18 | high |
 <!--/gen-->
 
@@ -547,12 +547,12 @@ and the nightmares have guns.
 <!--gen:stats act="Side Story"-->
 
 - **Estimated length:** 2 h 51 min
-- **Sampled range:** 2 h 41 min to 3 h 04 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 16 playthrough uploads (22 further candidates screened out)
+- **Sampled range:** 2 h 41 min to 3 h 03 min for the middle half (full spread 2 h 12 min to 3 h 24 min) across 17 playthrough uploads (21 further candidates screened out)
 - **Confidence:** high
 - **Union Level gate:** -
 - **Released in:** 3.4
 - **Stability:** median 0% against the medians of 2026-10-17
-- **Measured from the uploader's chapter markers:** 1 of 16 uploads
+- **Measured from the uploader's chapter markers:** 1 of 17 uploads
 <!--/gen-->
 
 <!--gen:evidence act="Side Story"-->
@@ -569,6 +569,7 @@ and the nightmares have guns.
 | 2 h 48 min | Wuthering Waves – At Dream's Edge \| Full Story Quest Gameplay | Kanjouta | 5 | 2026-06-18 | <https://www.youtube.com/watch?v=okDotdQbnNc> |
 | 2 h 50 min | At Dream’s Edge Full Quest (Wuthering Waves)  | 𝐓𝐢𝐭𝐚𝐧𝐖𝐨𝐥𝐟 | 46 | 2026-07-12 | <https://www.youtube.com/watch?v=UwIf8IIlE4Y> |
 | 2 h 51 min | Wuthering Waves Walkthrough Part 721 - Chapter 3 Side Story: At Dream's Edge (No Commentary) | MG PlayX | 51 | 2026-07-03 | <https://www.youtube.com/watch?v=0rcPf8v0XXE> |
+| 2 h 51 min | Wuthering Waves X Cyberpunk Edgerunners \| At Dream's Edge Full Gameplay & Cutscenes | Sternking | ~302 | n/a | <https://www.youtube.com/watch?v=qiJBJq28BhU> |
 | 2 h 52 min | Wuthering Waves X CyberPunk EdgeRunners Collab Story Quest: At Dream's Edge | Yoru Silent Playthroughs | 24 | 2026-06-08 | <https://www.youtube.com/watch?v=XFmvD5Mm3mE> |
 | 2 h 53 min | Lahai-Roi Chapter 3 : Side Story \| At Dream's Edge \| Wuwa 3.4 \| Wuwa x Cyberpunk Edgerunner's Collab | Senthu Gamer | 26 | 2026-06-08 | <https://www.youtube.com/watch?v=qtwpmIW1sgQ> |
 | 2 h 58 min | AT DREAM'S EDGE - Version 3.4 Cyberpunk Edgerunners Collab Full Story Quest \| Wuthering Waves 4k60 | vinheim | 10 | 2026-07-12 | <https://www.youtube.com/watch?v=oROzmlx3SjQ> |

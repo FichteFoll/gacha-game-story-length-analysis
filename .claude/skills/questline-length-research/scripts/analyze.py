@@ -61,9 +61,10 @@ import sys
 # excluded because their idle chatter inflates runtime well past the act length,
 # speedruns because they skip the dialogue a first playthrough sits through, and
 # gacha pulls because the summoning pads the runtime the same way. "Pulling the"
-# is left alone, as the start of a quest's name ("Pulling the Trigger").
+# is left alone, as the start of a quest's name ("Pulling the Trigger"), and so
+# are "Gameplay & Cutscenes", which is a whole playthrough rather than a reel.
 REJECT = re.compile(
-    r"cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
+    r"(?<!gameplay & )(?<!gameplay and )(?<!gameplay \+ )cutscene|all cinematic|cinematics|movie|film|dialogue|voice ?lines|"
     r"\bspeed ?run|\bpulls\b|\bpulling\b(?! the\b)|"
     r"explained|reaction|review|\bguide\b|tips|how to|unlock|puzzle|"
     r"locations?\b|recap|summar|trailer|teaser|\bost\b|soundtrack|music|"
