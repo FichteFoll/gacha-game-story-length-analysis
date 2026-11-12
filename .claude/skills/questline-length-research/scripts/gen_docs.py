@@ -386,16 +386,25 @@ def heading(report, chap, acts):
     ]
 
 
-def glance_table(report, acts):
-    lines = [f"| {report.config.get('unit', 'Act')} | Title | Estimate "
-             f"| Middle half | Uploads | Confidence |",
-             "| --- | --- | --- | --- | --- | --- |"]
+def glance_table(report, acts, released=None):
+    """The at-a-glance table, with a release column where `released` is given.
+
+    `released` maps an act to its release version. It is passed only for a
+    chapter whose entries shipped across many versions (`version_column=True`
+    in CHAPTERS); everywhere else the heading's version range says enough.
+    """
+    columns = [report.config.get("unit", "Act"), "Title"] \
+        + (["Released"] if released else []) \
+        + ["Estimate", "Middle half", "Uploads", "Confidence"]
+    lines = ["| " + " | ".join(columns) + " |",
+             "| " + " | ".join("---" for _ in columns) + " |"]
     for a in acts:
         s = a["stats"]
-        lines.append(
-            f"| {a['act_label']} | {a['act_title']} | {hm(s['median'])} "
-            f"| {hm(bounds(s)[0])} - {hm(bounds(s)[1])} | {s['n']} "
-            f"| {confidence(s)} |")
+        cells = [a["act_label"], a["act_title"]] \
+            + ([released(a)] if released else []) \
+            + [hm(s["median"]), f"{hm(bounds(s)[0])} - {hm(bounds(s)[1])}",
+               str(s["n"]), confidence(s)]
+        lines.append("| " + " | ".join(cells) + " |")
     return lines
 
 
@@ -490,7 +499,10 @@ def chapter_regions(report, chap, acts, quest_parts, versions, version_index,
 
     return {
         "heading": lambda attrs: heading(report, chap, acts),
-        "glance": lambda attrs: glance_table(report, acts),
+        "glance": lambda attrs: glance_table(
+            report, acts,
+            (lambda a: released_in(a, versions, version_index))
+            if chap.get("version_column") else None),
         "act-heading": lambda attrs: act_heading(report, act_of(attrs)),
         "stats": stats_region,
         "evidence": lambda attrs: evidence_block(act_of(attrs)),

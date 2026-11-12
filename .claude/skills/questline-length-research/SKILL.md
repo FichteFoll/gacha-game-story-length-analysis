@@ -98,6 +98,8 @@ and the report-wide total, extremes and superlatives, as well as the
 game-wide claims in `assertions.py`, leave it out.
 Give it a slug that cannot collide with a main-story chapter number
 (`x1-trailblaze-continuance`).
+A chapter whose entries shipped years apart can add `version_column=True`,
+which gives its at-a-glance table a column with each entry's release version.
 The report's title, its intro, its method wording and its caveats
 are written in `<report>/README.md`,
 and a chapter's blurb, pacing paragraph and act notes
