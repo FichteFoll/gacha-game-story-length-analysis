@@ -90,6 +90,14 @@ and what their second column holds (`region_label`, "Region" by default,
 and the chapter list with each chapter's id, slug, region, versions and title,
 plus the chapter's own wiki page, which the markdown likewise links by hand
 (an act's page reaches the filler through `analysis.json` instead).
+A questline told alongside the main one, which the report measures
+but which should not count towards it (Honkai: Star Rail's Trailblaze
+Continuances), is one more chapter with `side=True`:
+its file is filled like any other, it keeps its row in the chapter table,
+and the report-wide total, extremes and superlatives, as well as the
+game-wide claims in `assertions.py`, leave it out.
+Give it a slug that cannot collide with a main-story chapter number
+(`x1-trailblaze-continuance`).
 The report's title, its intro, its method wording and its caveats
 are written in `<report>/README.md`,
 and a chapter's blurb, pacing paragraph and act notes
@@ -288,7 +296,9 @@ scripts/analyze.py <workdir> [--compare <baseline>]
 ```
 
 Screening is the part that determines whether the numbers mean anything.
-Discard, by title:
+Discard, by title
+(the act's own name taken out first, so that an act called
+"How to Lose Your Way to the Top" is not read as a guide):
 
 - **not a playthrough**: cutscene reels, cinematic edits, lore explainers,
   guides, reactions, soundtrack rips.
@@ -389,9 +399,12 @@ Discard, by title:
   and a side-quest bundle goes in `compilations.txt`,
   as a `!` line where the title also pins the act.
   A version that also shipped a side questline about as long as its act
-  (Honkai: Star Rail's Trailblaze Continuance) pins the act only for titles
-  that do not name that questline:
-  put the questline's name in `not_playthrough.txt`.
+  pins the act only for titles that do not name that questline:
+  put the questline's name in `not_playthrough.txt`,
+  or, where the side questline is measured too,
+  as Honkai: Star Rail's Trailblaze Continuance is,
+  give each of the two an `act_aliases.json` entry pairing the patch number
+  with its own wording, since the version now shipped two entries.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.

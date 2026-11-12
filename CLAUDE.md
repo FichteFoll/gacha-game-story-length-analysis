@@ -270,6 +270,11 @@ and no `is_extreme` or `rank_at_most` claim holds for it.
 One or two uploads can be a split nothing contradicts,
 and would otherwise hold "the shortest chapter in the game" on that alone.
 That floor is `RANK_SAMPLES` in `facts.py`, where the rankings are computed.
+A chapter marked `side=True` in `report.CHAPTERS`
+(Honkai: Star Rail's Trailblaze Continuances, in `x1-trailblaze-continuance.md`)
+is measured and filled like any other,
+but the report-wide total, the extremes table, the superlative sentences
+and the game-wide claims all leave it out.
 The published method section quotes all five from the constants themselves,
 so a changed threshold rewrites its own description.
 

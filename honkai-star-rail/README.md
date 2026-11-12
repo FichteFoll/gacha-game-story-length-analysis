@@ -2,9 +2,11 @@
 
 Duration estimates for every Trailblaze Mission of the main storyline,
 from the Herta Space Station to Planarcadia,
-each one backed by the YouTube playthroughs it was measured from.
+each one backed by the YouTube playthroughs it was measured from,
+plus the Trailblaze Continuances told alongside it,
+which are measured the same way but kept apart from the main questline's figures.
 
-**Total for the whole main questline: <!--f:grand_total-->130 h 30 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> entries counting missions, measured against <!--f:n_videos-->359<!--/f--> accepted uploads out of <!--f:n_candidates-->838<!--/f--> candidates).
+**Total for the whole main questline: <!--f:grand_total-->130 h 31 min<!--/f-->** (<!--f:n_report_entries-->27<!--/f--> entries counting missions, measured against <!--f:n_videos-->359<!--/f--> accepted uploads out of <!--f:n_candidates-->838<!--/f--> candidates).
 That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so treat it as an order of magnitude rather than a number anyone actually clocked end to end.
 
 ## Chapters
@@ -17,7 +19,8 @@ That figure is the sum of the per-<!--f:unit-->mission<!--/f--> medians, so trea
 | The Xianzhou Luofu | The Xianzhou Luofu | 1.0 - 1.3 | 3 | 6 h 39 min | [02-xianzhou-luofu.md](02-xianzhou-luofu.md) |
 | Penacony | Penacony, the Land of Dreams | 2.0 - 2.7 | 5 | 23 h 21 min | [03-penacony.md](03-penacony.md) |
 | Amphoreus | Amphoreus, the Eternal Land | 3.0 - 3.7 | 8 | 52 h 32 min | [04-amphoreus.md](04-amphoreus.md) |
-| Planarcadia | Planarcadia | 4.0 - 4.7 | 8 | 39 h 07 min | [05-planarcadia.md](05-planarcadia.md) |
+| Planarcadia | Planarcadia | 4.0 - 4.7 | 8 | 39 h 08 min | [05-planarcadia.md](05-planarcadia.md) |
+| Trailblaze Continuance | Worlds already visited | 1.4 - 4.5 | 9 | 34 h 38 min | [x1-trailblaze-continuance.md](x1-trailblaze-continuance.md) |
 <!--/gen-->
 
 ## Longest and shortest <!--f:units-->missions<!--/f-->
@@ -50,6 +53,9 @@ and the individual chapter and mission pages of the Honkai: Star Rail Wiki.
 by world plus mission title, by mission title alone,
 and twice by the patch branding recent uploads use instead of mission titles
 ("Honkai: Star Rail 4.4 Planarcadia Trailblaze Mission Walkthrough").
+The continuances were searched the same way,
+and then once more by the patch number and "Trailblaze Continuance",
+the wording most of their uploads go by.
 - **Compilations:** multi-mission uploads such as
 "Full Amphoreus Trailblaze Quest" or "100% all missions",
 which count only where their chapter markers
@@ -61,10 +67,17 @@ unless their runtime says they cover the mission after all.
 Two channels number their own sessions rather than the mission's parts
 (Agent Potango's running "Part 122", TheXGamer's "(Part 1).")
 and are screened out for good, whatever their runtime.
-- **Trailblaze Continuance:** uploads titled as one are screened out.
-It ships alongside a Trailblaze Mission in the same version,
-so an upload naming only the patch number cannot tell the two apart,
-and the Continuance runs about as long.
+- **Trailblaze Continuance:** Versions 3.4, 4.4 and 4.5 each shipped
+a Trailblaze Mission and a Trailblaze Continuance,
+and the two run about as long,
+so an upload naming only the patch number cannot tell them apart.
+For those three versions, `data/act_aliases.json` counts such an upload
+for the mission where it says "Trailblaze Mission", "Trailblaze Quest" or "Main Story",
+and for the continuance where it says "Continuance"
+(or, for the two Fate crossovers, "Fate collab").
+The two halves of *Finest Duel Under the Pristine Blue*
+carry the same title, and `data/act_keys.json` tells them apart
+by the patch number, a "(I)" or "(II)", or a part number.
 - **A runtime floor** (`data/min_minutes.txt`) sits under the shortest mission.
 A new mission's first day brings dozens of single-scene clips
 that name it and say nothing else about themselves,
@@ -127,11 +140,25 @@ and its figures are the most likely to move on a re-harvest.
 - *Memories are the Prelude to Dreams* is a Finality Mission:
 supplemental Penacony story released long after the world was finished.
 The Trial of Equilibrium missions are level-cap trials
-rather than story,
-and the wiki types the Trailblaze Continuance chapters
-apart from the Trailblaze Missions.
-None of them is part of the main progression,
-so they are all outside this report's scope.
+rather than story.
+Neither is part of the main progression,
+so both are outside this report's scope.
+- The Trailblaze Continuances are filed as a chapter of their own,
+[x1-trailblaze-continuance.md](x1-trailblaze-continuance.md),
+because the wiki types them apart from the Trailblaze Missions
+and they are optional to the main progression.
+Their total is in the chapter table above,
+but not in the total for the main questline,
+and they take no part in the rankings or the extremes table.
+- Uploaders number the continuances their own way,
+usually within a world ("Act V: Continuance II" for Astropolis's second),
+where this report numbers them across the game, as the wiki does.
+A title giving such a number is therefore read as naming another continuance,
+which costs *How to Lose Your Way to the Top* an upload or so.
+- The continuance pools were enriched only partly:
+YouTube's bot check stopped the second pass
+before it reached the candidates the last top-up searches found,
+so those count with their search-listing runtime and no chapter markers.
 - The stability figures here are measured against the medians of 2026-10-17,
 taken after that day's screening changes,
 rather than against the first, independent set of queries.

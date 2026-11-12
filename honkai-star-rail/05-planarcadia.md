@@ -1,7 +1,7 @@
 <!--gen:heading-->
 # Planarcadia
 
-**Region:** Planarcadia | **Game versions:** 4.0 - 4.7 | **Entries:** 8 | **Estimated chapter length: 39 h 07 min**
+**Region:** Planarcadia | **Game versions:** 4.0 - 4.7 | **Entries:** 8 | **Estimated chapter length: 39 h 08 min**
 <!--/gen-->
 
 A paradise inside a painted scroll,
@@ -26,13 +26,13 @@ and its prize is the return of Aha.
 | Mission 2 | Unraveled for Daybreak | 6 h 33 min | 6 h 18 min - 6 h 51 min | 14 | high |
 | Mission 3 | So Laughed the Masses | 4 h 45 min | 4 h 20 min - 5 h 03 min | 18 | high |
 | Mission 4 | The Lethe Below the Living | 4 h 10 min | 3 h 56 min - 4 h 27 min | 30 | high |
-| Mission 5 | In Ravages Does the Whistle Sound | 4 h 21 min | 4 h 08 min - 4 h 41 min | 31 | high |
+| Mission 5 | In Ravages Does the Whistle Sound | 4 h 22 min | 4 h 09 min - 4 h 42 min | 31 | high |
 | Mission 6 | To Roll the Stars in Astropolis | 3 h 16 min | 3 h 04 min - 3 h 24 min | 24 | high |
 | Mission 7 | Dance With the Beast Before Moonrise | 3 h 30 min | 3 h 12 min - 3 h 36 min | 23 | high |
 | Mission 8 | Now, Lay Laughter to All Stars | 4 h 37 min | 4 h 26 min - 4 h 40 min | 4 | low |
 <!--/gen-->
 
-**Total: <!--f:total-->39 h 07 min<!--/f-->**
+**Total: <!--f:total-->39 h 08 min<!--/f-->**
 
 ## Pacing
 
@@ -250,8 +250,8 @@ and only the Trailblaze finds a way through
 the realm of death.
 <!--gen:stats act="Mission 5"-->
 
-- **Estimated length:** 4 h 21 min
-- **Sampled range:** 4 h 08 min to 4 h 41 min for the middle half (full spread 2 h 57 min to 5 h 56 min) across 31 playthrough uploads (35 further candidates screened out)
+- **Estimated length:** 4 h 22 min
+- **Sampled range:** 4 h 09 min to 4 h 42 min for the middle half (full spread 3 h 45 min to 7 h 45 min) across 31 playthrough uploads (35 further candidates screened out)
 - **Confidence:** high
 - **Level gate:** -
 - **Released in:** 4.4
@@ -266,7 +266,6 @@ the realm of death.
 
 | Length | Video title | Uploader | Views | Uploaded | URL |
 | --- | --- | --- | --- | --- | --- |
-| 2 h 57 min | HSR 4.4 Full Quest | Lunarstarr | 4 | 2026-07-20 | <https://www.youtube.com/watch?v=xxd2V8x1xhc> |
 | 3 h 45 min | Trailblaze Mission in HSR: In Ravages Does the Whistle Sound | Tofuspin | 13 | 2026-07-19 | <https://www.youtube.com/watch?v=hyf0Rri2iPU> |
 | 3 h 53 min | Version 4.4 Trailblaze Mission Full Story HD \| In Ravages Does The Whistle Sound \| Honkai Star Rail | Noxxis Gaming | 786 | 2026-07-15 | <https://www.youtube.com/watch?v=L_wYkmuTcZ0> |
 | 4 h 02 min | [JP Dub/VN Sub] Story Quest: In Ravages Does the Whistle Sound \| Honkai: Star Rail | Banoi345VN | 5 | 2026-07-21 | <https://www.youtube.com/watch?v=6TymtxfXbqM> |
@@ -297,6 +296,7 @@ the realm of death.
 | 5 h 15 min | Honkai Star Rail \| Ver. 4.4 \| Trailblaze Mission: Chapter 25 \| In Ravages Does the Whistle Sound | DodocoNotes | 4 | 2026-09-09 | <https://www.youtube.com/watch?v=TKR6qeBu1Ug> |
 | 5 h 54 min | Everything is Okay, Right? \| HSR 4.4 Story [In Ravages Does the Whistle Sound] Full Quest | FervidTwo Gaming | 96 | 2026-07-20 | <https://www.youtube.com/watch?v=RRXln8UcHBU> |
 | 5 h 56 min | In Ravages, Does the Whistle Sound? (Trailblazer Quest) - Honkai: Star Rail | Gear | 3 | 2026-08-08 | <https://www.youtube.com/watch?v=7KbTxYEBpTI> |
+| 7 h 45 min | In Ravages Does the Whistle Sound [Ver. 4.4 Main Trailblaze Mission] [Honkai: Star Rail] (ENG/JPN) | 🌸ReinaRose (Aireena)🎮 | 89 | 2026-08-04 | <https://www.youtube.com/watch?v=8ROY6hDf5ts> |
 
 </details>
 <!--/gen-->

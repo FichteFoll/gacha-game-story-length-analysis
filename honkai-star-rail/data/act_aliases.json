@@ -1,0 +1,21 @@
+{
+ "amphoreus|Mission 5": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])3\\.4(?!\\.?\\d))(?!.*\\bcontinuance\\b).*\\b(?:trailblaze (?:main )?(?:story )?(?:mission|quest)|main story)\\b"
+ ],
+ "planarcadia|Mission 5": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])4\\.4(?!\\.?\\d))(?!.*\\bcontinuance\\b).*\\b(?:trailblaze (?:main )?(?:story )?(?:mission|quest)|main story)\\b"
+ ],
+ "planarcadia|Mission 6": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])4\\.5(?!\\.?\\d))(?!.*\\bcontinuance\\b).*\\b(?:trailblaze (?:main )?(?:story )?(?:mission|quest)|main story)\\b"
+ ],
+ "continuance|Continuance 7": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])3\\.4(?!\\.?\\d)).*\\b(?:continuance|fate\\b.{0,20}\\bcollab)\\b"
+ ],
+ "continuance|Continuance 8": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])4\\.4(?!\\.?\\d)).*\\b(?:continuance|fate\\b.{0,20}\\bcollab)\\b",
+  "\\bfate\\b.{0,20}\\bcollab\\b.{0,10}\\b(?:2|part 2|ii)\\b"
+ ],
+ "continuance|Continuance 9": [
+  "^(?=.*\\b(?:honkai|hsr)\\b)(?=.*(?<![\\d.])4\\.5(?!\\.?\\d)).*\\bcontinuance\\b"
+ ]
+}

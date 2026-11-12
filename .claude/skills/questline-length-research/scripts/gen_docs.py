@@ -34,6 +34,11 @@ is the one exception to the promise above: a stub has to be on disk to be filled
 so a --scaffold run that then fails leaves the stubs behind, unfilled. Re-running
 it once the error is fixed completes them.
 
+A chapter that report.py's CHAPTERS marks `side=True` holds a questline told
+alongside the main one. Its file is filled like any other and it keeps its row
+in the chapter table, but the report-wide total, counts, extremes table and
+superlative sentences are computed without it.
+
 Every claim in the report's claims.py is checked against analysis.json before
 anything is written; --no-verify fills anyway, for inspecting what a failing
 claim produces.
@@ -656,7 +661,12 @@ def main(argv):
     versions = report.json("versions.json")
     version_index = report.json("version_index.json")
 
-    broken = failures(analysis, report.claims)
+    # A side chapter (a questline told alongside the main one) is filled like
+    # any other, but takes no part in the report-wide total and rankings.
+    side = {chap["id"] for chap in report.chapters if chap.get("side")}
+    main_story = [a for a in analysis if a["chapter_id"] not in side]
+
+    broken = failures(analysis, report.claims, side)
     if broken:
         print("the prose no longer matches the data:\n", file=sys.stderr)
         for line in broken:
@@ -666,11 +676,11 @@ def main(argv):
                   f"(--no-verify to fill anyway)", file=sys.stderr)
             return 1
 
-    superlative = superlatives(analysis, unit(report))
+    superlative = superlatives(main_story, unit(report))
     by_chapter = {}
     for act in analysis:
         by_chapter.setdefault(act["chapter_id"], []).append(act)
-    facts = report_facts(analysis, report.config.get("unit", "Act"), report.game,
+    facts = report_facts(main_story, report.config.get("unit", "Act"), report.game,
                          report.config["date"])
 
     missing_files, missing_acts, refused = coverage_gaps(report, by_chapter)
@@ -706,7 +716,7 @@ def main(argv):
             filled[path] = fill(path, regions,
                                 facts | chapter_facts(acts, quest_parts))
         path = report.path / "README.md"
-        filled[path] = fill(path, readme_regions(report, by_chapter, analysis),
+        filled[path] = fill(path, readme_regions(report, by_chapter, main_story),
                             facts)
     except MarkerError as e:
         print(e, file=sys.stderr)
