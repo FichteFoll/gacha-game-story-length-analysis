@@ -288,7 +288,9 @@ scripts/analyze.py <workdir> [--compare <baseline>]
 ```
 
 Screening is the part that determines whether the numbers mean anything.
-Discard, by title:
+Discard, by title
+(the act's own name taken out first, so that an act called
+"How to Lose Your Way to the Top" is not read as a guide):
 
 - **not a playthrough**: cutscene reels, cinematic edits, lore explainers,
   guides, reactions, soundtrack rips.

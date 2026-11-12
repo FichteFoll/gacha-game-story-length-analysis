@@ -243,6 +243,25 @@ def reject_re(workdir):
         else REJECT
 
 
+def without_act_title(title, act_title):
+    """The title with the act's own name taken out, for the reject list to read.
+
+    An act may be named in the reject list's own words: every upload of Honkai:
+    Star Rail's "How to Lose Your Way to the Top: The Zero-Dollar Strategy"
+    reads as a guide. Both the full name and its part before a colon are taken
+    out, case and punctuation aside, since uploaders often drop the subtitle.
+    The name leaves a placeholder rather than a gap, so that the words on either
+    side of it do not close up into a phrase the list reads ("Grand Blue Event"
+    is not "- Event -").
+    """
+    for name in (act_title, act_title.split(":")[0]):
+        words = re.findall(r"\w+", name)
+        if words:
+            title = re.sub(r"\W+".join(map(re.escape, words)), "_", title,
+                           flags=re.I)
+    return title
+
+
 def extra_patterns(workdir, name):
     """The per-report regexes in <workdir>/<name>, one per line."""
     path = workdir / name
@@ -698,7 +717,8 @@ def candidates_for(act, workdir, chapter_keys, act_keys, version_pin, alias,
         title = f[1]
         pinned = pinned_acts(pin, title)
         reasons = []
-        if reject.search(title) or int(f[0]) < floor:
+        if reject.search(without_act_title(title, act["act_title"])) \
+                or int(f[0]) < floor:
             reasons.append("not-a-playthrough")
         if len(pinned) > 1 or compilation(title, pinned == {number}):
             reasons.append("multi-act")
