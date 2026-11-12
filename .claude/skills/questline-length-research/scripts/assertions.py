@@ -20,6 +20,9 @@ Vocabulary:
     total_ratio_between(chapter, others, lo, hi)
                                           chapter total over the others' combined
     largest_chapter(chapter)              no chapter totals more
+
+A chapter that report.py marks `side=True` is judged within its own chapter
+only: the game-wide rankings and largest_chapter() leave it out.
 """
 from collections import namedtuple
 
@@ -37,16 +40,33 @@ def _act(index, chapter, act_label):
     raise KeyError(f"{chapter} has no {act_label}")
 
 
+class Index(dict):
+    """The acts by chapter id, knowing which chapters are side chapters: those
+    are judged within their own chapter, never in a game-wide ranking."""
+
+    def __init__(self, analysis, side=()):
+        super().__init__()
+        self.side = set(side)
+        for act in analysis:
+            self.setdefault(act["chapter_id"], []).append(act)
+
+    def main_story(self):
+        return {c: acts for c, acts in self.items() if c not in self.side}
+
+
 def _ranked(index, chapter, act, scope):
-    """The pool a ranking claim is judged in, or None when the act has too few
-    uploads to take part in any ranking."""
+    """The pool a ranking claim is judged in, or None when the act takes no
+    part in it: too few uploads, or a side chapter in a game-wide ranking."""
     pool = index[chapter] if scope == "chapter" \
-        else [a for acts in index.values() for a in acts]
+        else [a for acts in index.main_story().values() for a in acts]
     pool = rankable(pool)
     return pool if any(o is act for o in pool) else None
 
 
 def _unranked(act):
+    if act["stats"]["n"] >= RANK_SAMPLES:
+        return f"{act['act_label']} is in a side chapter, " \
+            "which takes no part in a game-wide ranking"
     return f"{act['act_label']} rests on {act['stats']['n']} uploads, " \
         f"fewer than the {RANK_SAMPLES} a ranking needs"
 
@@ -148,16 +168,18 @@ def total_ratio_between(chapter, others, lo, hi, quote):
 
 def largest_chapter(chapter, quote):
     def check(index):
-        biggest = max(index, key=lambda c: chapter_total(index[c]))
+        main = index.main_story()
+        biggest = max(main, key=lambda c: chapter_total(main[c]))
         return biggest == chapter, f"{biggest} is the largest chapter"
     return Claim(quote, f"{chapter}: largest chapter", check)
 
 
-def failures(analysis, claims):
-    """Every claim that no longer holds, as human-readable lines."""
-    index = {}
-    for act in analysis:
-        index.setdefault(act["chapter_id"], []).append(act)
+def failures(analysis, claims, side=()):
+    """Every claim that no longer holds, as human-readable lines.
+
+    `side` names the side chapters, which a game-wide claim leaves out.
+    """
+    index = Index(analysis, side)
     out = []
     for claim in claims:
         ok, detail = claim.check(index)
