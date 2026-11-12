@@ -125,6 +125,13 @@ Both shapes work; the report prints "name (number)" only when the two differ.
   Finality Missions and the Trial of Equilibrium
   are in the sequence but not in the main progression;
   the report so far leaves both out.
+  The Trailblaze Continuances are measured, as a `side=True` chapter
+  (`x1-trailblaze-continuance`), from the `Trailblaze Continuance` page,
+  which lists all of them with their quest parts. Their pages carry a
+  "(Trailblaze Continuance)" suffix where the title is shared with an event,
+  and the wiki itself numbers them first to ninth in release order.
+  Versions 3.4, 4.4 and 4.5 shipped one of each, so neither is pinned by the
+  patch number alone; `act_aliases.json` restores that per wording.
   Its uploaders split a mission across several uploads more than any other
   game looked at, which is what `partials.txt` exists for.
 - **Zenless Zone Zero.** Phaethon's Story is cut into seasons,

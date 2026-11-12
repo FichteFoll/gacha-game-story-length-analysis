@@ -5858,7 +5858,8 @@
     "url": "https://www.youtube.com/watch?v=V2pdMSGSEK0",
     "views": "20",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "act-mismatch"
     ]
    },
    {
@@ -5868,7 +5869,8 @@
     "url": "https://www.youtube.com/watch?v=xvNOPX9lKDw",
     "views": "13",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "act-mismatch"
     ]
    },
    {
@@ -9646,7 +9648,9 @@
     "uploader": "Lunarstarr",
     "url": "https://www.youtube.com/watch?v=xxd2V8x1xhc",
     "views": 4,
-    "rejected": [],
+    "rejected": [
+     "act-mismatch"
+    ],
     "upload_date": "20260720"
    },
    {
@@ -9886,7 +9890,8 @@
     "url": "https://www.youtube.com/watch?v=HVLWmTM0gE8",
     "views": "107",
     "rejected": [
-     "not-a-playthrough"
+     "not-a-playthrough",
+     "act-mismatch"
     ]
    },
    {
@@ -10037,9 +10042,7 @@
     "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
     "url": "https://www.youtube.com/watch?v=8ROY6hDf5ts",
     "views": 89,
-    "rejected": [
-     "part-of-an-act"
-    ],
+    "rejected": [],
     "upload_date": "20260804"
    },
    {
@@ -10117,15 +10120,6 @@
    }
   ],
   "kept": [
-   {
-    "seconds": 10615,
-    "title": "HSR 4.4 Full Quest",
-    "uploader": "Lunarstarr",
-    "url": "https://www.youtube.com/watch?v=xxd2V8x1xhc",
-    "views": 4,
-    "rejected": [],
-    "upload_date": "20260720"
-   },
    {
     "seconds": 13506,
     "title": "Trailblaze Mission in HSR: In Ravages Does the Whistle Sound",
@@ -10413,19 +10407,28 @@
     "views": 3,
     "rejected": [],
     "upload_date": "20260808"
+   },
+   {
+    "seconds": 27881,
+    "title": "In Ravages Does the Whistle Sound [Ver. 4.4 Main Trailblaze Mission] [Honkai: Star Rail] (ENG/JPN)",
+    "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
+    "url": "https://www.youtube.com/watch?v=8ROY6hDf5ts",
+    "views": 89,
+    "rejected": [],
+    "upload_date": "20260804"
    }
   ],
   "stats": {
    "n": 31,
-   "median": 261,
-   "low": 177,
-   "high": 356,
-   "q1": 248,
-   "q3": 281,
-   "trimmed_mean": 265,
+   "median": 262,
+   "low": 225,
+   "high": 465,
+   "q1": 249,
+   "q3": 282,
+   "trimmed_mean": 268,
    "measured": 2,
    "parts": {},
-   "drift": -0.011
+   "drift": -0.008
   }
  },
  {
@@ -10709,7 +10712,7 @@
     "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
     "views": 41708,
     "rejected": [
-     "not-a-playthrough"
+     "act-mismatch"
     ],
     "upload_date": "20260826"
    },
@@ -10720,7 +10723,7 @@
     "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
     "views": 735,
     "rejected": [
-     "not-a-playthrough"
+     "act-mismatch"
     ],
     "upload_date": "20260826"
    },
@@ -10731,7 +10734,7 @@
     "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
     "views": 434,
     "rejected": [
-     "not-a-playthrough"
+     "act-mismatch"
     ],
     "upload_date": "20260828"
    },
@@ -10884,7 +10887,7 @@
     "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
     "views": 9913,
     "rejected": [
-     "not-a-playthrough"
+     "act-mismatch"
     ],
     "upload_date": "20260826"
    },
@@ -12481,6 +12484,4315 @@
    "q3": null,
    "trimmed_mean": 275,
    "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 1",
+  "act_title": "Jolted Awake From a Winter Dream",
+  "wiki_page": "Jolted Awake From a Winter Dream",
+  "slug": "continuance_Continuance_1",
+  "candidates": [
+   {
+    "seconds": 9306,
+    "title": "Honkai Star Rail 1.4 Trailblaze Mission Walkthrough Part 11 - Jolted Awake From a Winter Dream",
+    "uploader": "Frokenok",
+    "url": "https://www.youtube.com/watch?v=fXQMduIiySQ",
+    "views": 126,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 111,
+    "title": "ALL JAPANESE CUTSCENES FROM Jolted Awake from a Winter Dream - Honkai Star Rail 1.4 Cutscene",
+    "uploader": "DimBra",
+    "url": "https://www.youtube.com/watch?v=kCvpxPcSt1Q",
+    "views": "113",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 2205,
+    "title": "Honkai Star Rail V1.4 Ep 2 - Jolted Awake From A Winter Dream Full Trailblaze Story Cutscene Ep2",
+    "uploader": "Gaming Archive",
+    "url": "https://www.youtube.com/watch?v=2BesObYXMNo",
+    "views": "38",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 11014,
+    "title": "Trailblaze Continuance Mission: Jolted Awake From a Winter Dream | Version 1.4 | Honkai Star Rail",
+    "uploader": "Sam Vegito",
+    "url": "https://www.youtube.com/watch?v=kJIu-4bpFTs",
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 7371,
+    "title": "Trailblaze Continuance: Jolted Awake From a Winter Dream (Chinese Audio) | Honkai: Star Rail",
+    "uploader": "Shinjiki-",
+    "url": "https://www.youtube.com/watch?v=q8JvyBTG4E0",
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20231022"
+   },
+   {
+    "seconds": 176,
+    "title": "Version 1.4 Trailer - \"Jolted Awake From a Winter Dream\" | Honkai: Star Rail",
+    "uploader": "Honkai: Star Rail",
+    "url": "https://www.youtube.com/watch?v=6pgebw3sXSU",
+    "views": "2676630",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 7215,
+    "title": "Honkai Star Rail 1.4 - Trailblaze Continuance Quest",
+    "uploader": "KCGamer",
+    "url": "https://www.youtube.com/watch?v=Spp-NCzZQoQ",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20231021"
+   },
+   {
+    "seconds": 1557,
+    "title": "Honkai: Star Rail 1.4 - Trailblaze Continuance: Jolted Awake From a Winter Dream part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=xi-aIN6Wg9g",
+    "views": "154",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 7386,
+    "title": "Full 1.4 Trailblaze Continuance Quest - Honkai Star Rail 1.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=gcy8206kBuw",
+    "views": 20300,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 3132,
+    "title": "Honkai Star Rail ver. 1.3: Trailblazer Story Quest FULL WALKTHROUGH",
+    "uploader": "Kakuchopurei",
+    "url": "https://www.youtube.com/watch?v=n78PXPPMf6Y",
+    "views": 289,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20230830"
+   },
+   {
+    "seconds": 6725,
+    "title": "[VOD] 1.4 Trailblaze Continuance Mission Walkthrough | Honkai: Star Rail",
+    "uploader": "Efface",
+    "url": "https://www.youtube.com/watch?v=mVG1Gxb1zUE",
+    "views": 34,
+    "rejected": [],
+    "upload_date": "20231015"
+   },
+   {
+    "seconds": 7131,
+    "title": "Jolted Awake From a Winter Dream - Topaz Continuance Quest - Honkai Star Rail 1.4 ( All Cutscenes )",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=JwOh3BYlGxc",
+    "views": "156",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 7927,
+    "title": "Jolted Awake From A Winter Dream - Future Market Full Story | Honkai Star Rail",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=A1h5U6QjaAA",
+    "views": 2794,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 34157,
+    "title": "Honkai: Star Rail - Jolted Awake From a Winter Dream - Live Walkthrough No Commentary",
+    "uploader": "O'Neill Studios",
+    "url": "https://www.youtube.com/watch?v=tRU7QKb3OcQ",
+    "views": "40",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9095,
+    "title": "\"Jolted Awake From a Winter Dream\" Version 1.4 | Honkai Star Rail | Complete Story Jap Dub",
+    "uploader": "AnnyGais",
+    "url": "https://www.youtube.com/watch?v=JDPpwQfYWtk",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20231118"
+   },
+   {
+    "seconds": 7005,
+    "title": "Trailblaze Continuance: Jolted Awake From a Winter Dream (Honkai: Star Rails) All Gameplay/Cutscenes",
+    "uploader": "Yuu",
+    "url": "https://www.youtube.com/watch?v=XirzFcBk8Ug",
+    "views": "98",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 8268,
+    "title": "Honkai Star Rail - Walkthrough Gameplay \"Jolted Awake From a Winter Dream\"",
+    "uploader": "HallowPmeister",
+    "url": "https://www.youtube.com/watch?v=YlN0xAvmwA0",
+    "views": 58,
+    "rejected": [],
+    "upload_date": "20231017"
+   },
+   {
+    "seconds": 17531,
+    "title": "Honkai Star Rail - 1.4: Jolted Awake From A Winter Dream & Total Recall [Main Story & March Story]",
+    "uploader": "Lakuya",
+    "url": "https://www.youtube.com/watch?v=NpFH2JGC4Ws",
+    "views": 38,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20231022"
+   },
+   {
+    "seconds": 1255,
+    "title": "Honkai: Star Rail 1.4 - Trailblaze Continuance: Jolted Awake From a Winter Dream part 2",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=qqvbUMKeFaE",
+    "views": "88",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 7005,
+    "title": "Trailblaze Continuance: Future Market [ Full Story ]  [ Honkai Star Rail 1.4 ] [ No Commentary ]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=EBWVZrDERj4",
+    "views": "28",
+    "rejected": []
+   },
+   {
+    "seconds": 7750,
+    "title": "Honkai Star Rail 1.4 - Full Trailblazer Story Quest (Future Market)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=KeOG3QBgmXs",
+    "views": "12115",
+    "rejected": []
+   },
+   {
+    "seconds": 9832,
+    "title": "\"Future Market\" Trailblaze Continuance (Full Playthrough) | Honkai Star Rail 1.4",
+    "uploader": "Horaud",
+    "url": "https://www.youtube.com/watch?v=ZtonXxtXj0s",
+    "views": "50",
+    "rejected": []
+   },
+   {
+    "seconds": 21917,
+    "title": "HSR 1.4 Trailblaze Continuance Story and Penacony Cut-Scenes | Honkai: Star Rail",
+    "uploader": "Game Impossible with Harry",
+    "url": "https://www.youtube.com/watch?v=hda3bkyFAvw",
+    "views": "21",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 7834,
+    "title": "Honkai Star Rail 1.4 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Bm8I3a57nvc",
+    "views": "47635",
+    "rejected": []
+   },
+   {
+    "seconds": 12508,
+    "title": "Future Market -  Trailblaze Continuance - Honkai: Star Rail 1.4",
+    "uploader": "TheWayCafe",
+    "url": "https://www.youtube.com/watch?v=2LipxAyAhZ8",
+    "views": "4234",
+    "rejected": []
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 6725,
+    "title": "[VOD] 1.4 Trailblaze Continuance Mission Walkthrough | Honkai: Star Rail",
+    "uploader": "Efface",
+    "url": "https://www.youtube.com/watch?v=mVG1Gxb1zUE",
+    "views": 34,
+    "rejected": [],
+    "upload_date": "20231015"
+   },
+   {
+    "seconds": 7005,
+    "title": "Trailblaze Continuance: Future Market [ Full Story ]  [ Honkai Star Rail 1.4 ] [ No Commentary ]",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=EBWVZrDERj4",
+    "views": "28",
+    "rejected": []
+   },
+   {
+    "seconds": 7215,
+    "title": "Honkai Star Rail 1.4 - Trailblaze Continuance Quest",
+    "uploader": "KCGamer",
+    "url": "https://www.youtube.com/watch?v=Spp-NCzZQoQ",
+    "views": 29,
+    "rejected": [],
+    "upload_date": "20231021"
+   },
+   {
+    "seconds": 7371,
+    "title": "Trailblaze Continuance: Jolted Awake From a Winter Dream (Chinese Audio) | Honkai: Star Rail",
+    "uploader": "Shinjiki-",
+    "url": "https://www.youtube.com/watch?v=q8JvyBTG4E0",
+    "views": 92,
+    "rejected": [],
+    "upload_date": "20231022"
+   },
+   {
+    "seconds": 7386,
+    "title": "Full 1.4 Trailblaze Continuance Quest - Honkai Star Rail 1.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=gcy8206kBuw",
+    "views": 20300,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 7750,
+    "title": "Honkai Star Rail 1.4 - Full Trailblazer Story Quest (Future Market)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=KeOG3QBgmXs",
+    "views": "12115",
+    "rejected": []
+   },
+   {
+    "seconds": 7834,
+    "title": "Honkai Star Rail 1.4 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Bm8I3a57nvc",
+    "views": "47635",
+    "rejected": []
+   },
+   {
+    "seconds": 7927,
+    "title": "Jolted Awake From A Winter Dream - Future Market Full Story | Honkai Star Rail",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=A1h5U6QjaAA",
+    "views": 2794,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 8268,
+    "title": "Honkai Star Rail - Walkthrough Gameplay \"Jolted Awake From a Winter Dream\"",
+    "uploader": "HallowPmeister",
+    "url": "https://www.youtube.com/watch?v=YlN0xAvmwA0",
+    "views": 58,
+    "rejected": [],
+    "upload_date": "20231017"
+   },
+   {
+    "seconds": 9095,
+    "title": "\"Jolted Awake From a Winter Dream\" Version 1.4 | Honkai Star Rail | Complete Story Jap Dub",
+    "uploader": "AnnyGais",
+    "url": "https://www.youtube.com/watch?v=JDPpwQfYWtk",
+    "views": 3,
+    "rejected": [],
+    "upload_date": "20231118"
+   },
+   {
+    "seconds": 9306,
+    "title": "Honkai Star Rail 1.4 Trailblaze Mission Walkthrough Part 11 - Jolted Awake From a Winter Dream",
+    "uploader": "Frokenok",
+    "url": "https://www.youtube.com/watch?v=fXQMduIiySQ",
+    "views": 126,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 9832,
+    "title": "\"Future Market\" Trailblaze Continuance (Full Playthrough) | Honkai Star Rail 1.4",
+    "uploader": "Horaud",
+    "url": "https://www.youtube.com/watch?v=ZtonXxtXj0s",
+    "views": "50",
+    "rejected": []
+   },
+   {
+    "seconds": 11014,
+    "title": "Trailblaze Continuance Mission: Jolted Awake From a Winter Dream | Version 1.4 | Honkai Star Rail",
+    "uploader": "Sam Vegito",
+    "url": "https://www.youtube.com/watch?v=kJIu-4bpFTs",
+    "views": 25,
+    "rejected": [],
+    "upload_date": "20231011"
+   },
+   {
+    "seconds": 12508,
+    "title": "Future Market -  Trailblaze Continuance - Honkai: Star Rail 1.4",
+    "uploader": "TheWayCafe",
+    "url": "https://www.youtube.com/watch?v=2LipxAyAhZ8",
+    "views": "4234",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 14,
+   "median": 131,
+   "low": 112,
+   "high": 208,
+   "q1": 122,
+   "q3": 157,
+   "trimmed_mean": 139,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 2",
+  "act_title": "A Foxian Tale of the Haunted",
+  "wiki_page": "A Foxian Tale of the Haunted (Trailblaze Continuance)",
+  "slug": "continuance_Continuance_2",
+  "candidates": [
+   {
+    "seconds": 1681,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 1 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=3s5mDHhTWFg",
+    "views": "588",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1836,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 2 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=ISaH1EZK7Qo",
+    "views": 349,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240816"
+   },
+   {
+    "seconds": 30340,
+    "title": "Honkai Star Rail - Trailblaze Continuance: A Foxian Tale of the Haunted | Full Story JP Dub EN Sub",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=Zsk2eupWcng",
+    "views": 7675,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20231118"
+   },
+   {
+    "seconds": 13950,
+    "title": "Full 2.4 Trailblaze Continuance Quest 1 - Honkai Star Rail 2.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=jap_9HKZO_c",
+    "views": 7484,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 1338,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 3 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=8IMbaEZqll8",
+    "views": "209",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1435,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 4 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=5iheJORWPkQ",
+    "views": "172",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 14221,
+    "title": "A Foxian Tale Of The Haunted Event Full Story | Gameplay Guide & Walkthrough | Honkai Star Rail 1.5",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=nlhWaTRpd2k",
+    "views": "36762",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4544,
+    "title": "A Foxian Tale Of The Haunted Full Quest   Honkai Star Rail",
+    "uploader": "IAMCHOCO",
+    "url": "https://www.youtube.com/watch?v=QNe8XSBUkT8",
+    "views": 114,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20231116"
+   },
+   {
+    "seconds": 7093,
+    "title": "HSR 1.5 A Foxian Tale of the Haunted Longest Event Completed Guide - All Puzzle ,Pathfinder ,Quest",
+    "uploader": "MMOJACKX57",
+    "url": "https://www.youtube.com/watch?v=Fu78QbHM4bw",
+    "views": "45459",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 25646,
+    "title": "A Foxian Tale of the Haunted (Full Event): Honkai Star Rail (1.5 Event)",
+    "uploader": "Kyrat On Rails",
+    "url": "https://www.youtube.com/watch?v=W0_Sjjuilaw",
+    "views": 974,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20231204"
+   },
+   {
+    "seconds": 10464,
+    "title": "A Foxian Tale of the Haunted Full main story quest - Trailblaze Continuance Mission | Star rail 1.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=ehHvbuHLYP0",
+    "views": 932,
+    "rejected": [],
+    "upload_date": "20231118"
+   },
+   {
+    "seconds": 13337,
+    "title": "A Foxian Tale of the Haunted (All Story Quests) Complete Event  | Honkai Star Rail 1.5",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=mtmv9NH3mQ8",
+    "views": 51711,
+    "rejected": [
+     "multi-act"
+    ],
+    "upload_date": "20231116"
+   },
+   {
+    "seconds": 326,
+    "title": "Find the Exit of Illusory Maze / A Foxian Tale of the Haunted / Honkai Star Rail",
+    "uploader": "Galaxy Playgroundz",
+    "url": "https://www.youtube.com/watch?v=BFcVUrr5T3w",
+    "views": "328",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 236,
+    "title": "ALL JAPANESE CUTSCENES FROM Honkai Star Rail 1.5 Event - A Foxian Tale of the Haunted",
+    "uploader": "DimBra",
+    "url": "https://www.youtube.com/watch?v=On8j3WSF0nI",
+    "views": "1282",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 1990,
+    "title": "A Foxian Tale Of The Haunted | Trailblaze Mission 1.5 | Honkai Star Rail",
+    "uploader": "BLAZE",
+    "url": "https://www.youtube.com/watch?v=Jio8G5RPedg",
+    "views": 2,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20231121"
+   },
+   {
+    "seconds": 4472,
+    "title": "Sojourner's Ghastly Reverie Full Story | Huohuo Trailblaze Continuance (Foxian Tale) | Star Rail 1.5",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=-e6RouvVmTg",
+    "views": 10049,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20231115"
+   },
+   {
+    "seconds": 1356,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 7 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=NYpSmcQnYtM",
+    "views": "151",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1449,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 5 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=gfKT_tylQhE",
+    "views": "151",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 18006,
+    "title": "Honkai Star Rail 1.5 - Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=VbEHxGPDebg",
+    "views": 26448,
+    "rejected": [],
+    "upload_date": "20231226"
+   },
+   {
+    "seconds": 1529,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 9 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=oouUfVMV-Rk",
+    "views": "167",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1464,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 8 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=JC01ivYQym0",
+    "views": "182",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1239,
+    "title": "Honkai: Star Rail 1.5 - Trailblaze Continuance: A Foxian Tale of the Haunted part 6 (No Commentary)",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=YGAMl9niUAk",
+    "views": "149",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 30340,
+    "title": "Honkai Star Rail | Trailblaze Continuance Story | A Foxian Tale of the Haunted Full Story 4K 60FPS",
+    "uploader": "SuperDrive",
+    "url": "https://www.youtube.com/watch?v=CfmlRs3qlIQ",
+    "views": "8",
+    "rejected": [
+     "long-outlier"
+    ]
+   },
+   {
+    "seconds": 55,
+    "title": "Guinaifen's Ghost-Hunting Livestream Cutscene | Foxian Tale Haunted Continuance Mission | Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=ukc4O1v23EA",
+    "views": "141020",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 484,
+    "title": "A Foxian Tale of the Haunted - Story Recap in Eight Minutes - Honkai: Star Rail 1.5",
+    "uploader": "Francis Lee Arthur",
+    "url": "https://www.youtube.com/watch?v=VZ-xS8A4-38",
+    "views": "7733",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 37,
+    "title": "Cirrus Absorbs Other Heliobi Cutscene | Foxian Tale Of Haunted Continuance Mission| Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=NC2MwoJy4V0",
+    "views": "4547",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 6279,
+    "title": "A Foxian Tale of the Haunted || Honkai Star Rail 1.5 Trailblaze Continuance Part 1",
+    "uploader": "AaronDeadKey",
+    "url": "https://www.youtube.com/watch?v=9YK-eEz81pU",
+    "views": "27",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 7533,
+    "title": "THE BEST TRAILBLAZE CONTINUANCE SO FAR?! | A Foxian Tail of the Haunted - Honkai: Star Rail",
+    "uploader": "Jerada",
+    "url": "https://www.youtube.com/watch?v=HQs7rN56zYo",
+    "views": "572",
+    "rejected": []
+   },
+   {
+    "seconds": 13965,
+    "title": "HuoHuo TRAILBLAZE 1.5 CONTINUANCE STORY QUEST  Honkai Star Rail",
+    "uploader": "Unreal Dreamer",
+    "url": "https://www.youtube.com/watch?v=04IzSdrH0yw",
+    "views": "16889",
+    "rejected": []
+   },
+   {
+    "seconds": 13621,
+    "title": "HUOHUO IS SO CUTE!! 1.5 Trailblaze Continuance Playthrough and Reaction",
+    "uploader": "Mina Aoyama VODS",
+    "url": "https://www.youtube.com/watch?v=Y4VBi1WvC1c",
+    "views": "63169",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 247,
+    "title": "Huohuo Gets Bullied (Cutscene) A Foxian Tale of the Haunted | Honkai Star Rail 1.5",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=J3Py4Hc43BY",
+    "views": "21152",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 9045,
+    "title": "Honkai Star Rail 1.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=vRRvWwl0sZk",
+    "views": 41708,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 6777,
+    "title": "Honkai Star Rail - Main Story Trailblaze Continuance Part 1: A Foxian Tale of the Haunted & Gacha",
+    "uploader": "Hunter's Lodge",
+    "url": "https://www.youtube.com/watch?v=ZR0rmG_23q8",
+    "views": "94",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 65,
+    "title": "Mr. Tail Saves Trailblazer Cutscene | Huohuo's Foxian Tale Of Haunted Continuance | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=cTza2gwArKc",
+    "views": "62589",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 7533,
+    "title": "THE BEST TRAILBLAZE CONTINUANCE SO FAR?! | A Foxian Tail of the Haunted - Honkai: Star Rail",
+    "uploader": "Jerada",
+    "url": "https://www.youtube.com/watch?v=HQs7rN56zYo",
+    "views": "572",
+    "rejected": []
+   },
+   {
+    "seconds": 10464,
+    "title": "A Foxian Tale of the Haunted Full main story quest - Trailblaze Continuance Mission | Star rail 1.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=ehHvbuHLYP0",
+    "views": 932,
+    "rejected": [],
+    "upload_date": "20231118"
+   },
+   {
+    "seconds": 13965,
+    "title": "HuoHuo TRAILBLAZE 1.5 CONTINUANCE STORY QUEST  Honkai Star Rail",
+    "uploader": "Unreal Dreamer",
+    "url": "https://www.youtube.com/watch?v=04IzSdrH0yw",
+    "views": "16889",
+    "rejected": []
+   },
+   {
+    "seconds": 18006,
+    "title": "Honkai Star Rail 1.5 - Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=VbEHxGPDebg",
+    "views": 26448,
+    "rejected": [],
+    "upload_date": "20231226"
+   }
+  ],
+  "stats": {
+   "n": 4,
+   "median": 204,
+   "low": 126,
+   "high": 300,
+   "q1": null,
+   "q3": null,
+   "trimmed_mean": 208,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 3",
+  "act_title": "Crown of the Mundane and Divine",
+  "wiki_page": "Crown of the Mundane and Divine",
+  "slug": "continuance_Continuance_3",
+  "candidates": [
+   {
+    "seconds": 3453,
+    "title": "Crown Of the Mundane And Divine! Full Walkthrough! HSR 1.6 Gameplay Part 26 (No Commentary)",
+    "uploader": "RockBrad",
+    "url": "https://www.youtube.com/watch?v=sKj_xaBpGIQ",
+    "views": 11,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260816"
+   },
+   {
+    "seconds": 10237,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Crown of the Mundane and Divine | Full Story JP Dub",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=JTrRaP540eY",
+    "views": 3374,
+    "rejected": [],
+    "upload_date": "20231228",
+    "runtime": 10237,
+    "measured": "chapter-markers",
+    "parts": {
+     "When the Stars of Ingenuity Shine": 4729,
+     "Mundane Troubles": 5508
+    }
+   },
+   {
+    "seconds": 1342,
+    "title": "Honkai: Star Rail 1.6 - Trailblaze Continuance - Crown of the Mundane and Divine part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=0cVxjtytpTM",
+    "views": "127",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1720,
+    "title": "Honkai: Star Rail 1.6 - Trailblaze Continuance - Crown of the Mundane and Divine part 5 [Ending]",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=jhxDgfQDNp0",
+    "views": "102",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1449,
+    "title": "Honkai: Star Rail 1.6 - Trailblaze Continuance - Crown of the Mundane and Divine part 3",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=Ave0foelrfM",
+    "views": "135",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5336,
+    "title": "(JP Dub - EN Sub) Crown of the Mundane and Divine (Part 1) | Honkai: Star Rail",
+    "uploader": "AndhraZX",
+    "url": "https://www.youtube.com/watch?v=XFk05s8h9Z4",
+    "views": 118,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20231229"
+   },
+   {
+    "seconds": 5111,
+    "title": "Ingenuity Shine \u2022 Crown of the Mundane and Divine | Honkai: Star Rail 1.6 - Walkthrough Part 95",
+    "uploader": "Pixel Neo Gamer \u2022 Plays",
+    "url": "https://www.youtube.com/watch?v=S9hAwPdZEwc",
+    "views": 80,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240101"
+   },
+   {
+    "seconds": 14006,
+    "title": "\"Crown of the Mundane and Divine\" Trailblaze Continuance [Full Playthrough] | Honkai: Star Rail 1.6",
+    "uploader": "Horaud",
+    "url": "https://www.youtube.com/watch?v=5wGcEN6x9jA",
+    "views": 66,
+    "rejected": [],
+    "upload_date": "20240330"
+   },
+   {
+    "seconds": 469,
+    "title": "Honkai: Star Rail 1.6: Crown of the Mundane and Divine (Cutscenes)",
+    "uploader": "Michael Kenny",
+    "url": "https://www.youtube.com/watch?v=p7v0XDkdMWY",
+    "views": "12",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 5306,
+    "title": "Mundane Troubles \u2022 Crown of the Mundane and Divine | Honkai: Star Rail 1.6 - Walkthrough Part 96",
+    "uploader": "Pixel Neo Gamer \u2022 Plays",
+    "url": "https://www.youtube.com/watch?v=_QkORTS-3UU",
+    "views": 65,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240103"
+   },
+   {
+    "seconds": 7884,
+    "title": "HSR Trailblaze Continuance Part 9 - Crown of the Mundane and Divine | Honkai: Star Rail 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=vXxddcQpqNA",
+    "views": 73,
+    "rejected": [],
+    "upload_date": "20251008"
+   },
+   {
+    "seconds": 1580,
+    "title": "When The Stars of Ingenuity Shine | Crown of Mundane and Divine | Honkai StarRail Gameplay Part 1",
+    "uploader": "YinyYangXP",
+    "url": "https://www.youtube.com/watch?v=zt83p0ymzdM",
+    "views": "23",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 4022,
+    "title": "When the Stars of Ingenuity Shine / Crown of the Mundane and Divine #26 - Honkai Star Rail 1.6",
+    "uploader": "Pixel Flow",
+    "url": "https://www.youtube.com/watch?v=tHERnm1lfSE",
+    "views": 48,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240101"
+   },
+   {
+    "seconds": 8197,
+    "title": "Crown of the Mundane and Divine (Full Story Quest) Trailblaze Continuance | Honkai Star Rail 1.6",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=J2pYdNtVjIc",
+    "views": 33420,
+    "rejected": [],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 16358,
+    "title": "\u2661 HSR play16 - Main Q \ud83d\ude82Crown of the Mundane and Divine\ud83c\udf20 Event Q \ud83d\ude82Critter Pick\ud83c\udf20 [JPVA/ENSub]",
+    "uploader": "\u2606 CHIYOUBI \u2606",
+    "url": "https://www.youtube.com/watch?v=pRDGB5sJdVQ",
+    "views": 12,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20250321",
+    "runtime": 26037,
+    "measured": "chapter-markers",
+    "parts": {
+     "When the Stars of Ingenuity Shine": 8296,
+     "Mundane Troubles": 8062
+    }
+   },
+   {
+    "seconds": 2959,
+    "title": "Part 2 - When The Stars of Ingenuity Shine | Crown of The Mundane and Divine \u3010 Star Rail\u3011 Ep. 35",
+    "uploader": "XRicWarX",
+    "url": "https://www.youtube.com/watch?v=NOSoE_WpgiM",
+    "views": 32,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20231231"
+   },
+   {
+    "seconds": 2981,
+    "title": "Honkai Star Rail Trailblazer Quest: Crown of the Mundane and Divine",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=0C5GBnR7MNM",
+    "views": 11,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20231231"
+   },
+   {
+    "seconds": 9045,
+    "title": "Honkai Star Rail 1.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=vRRvWwl0sZk",
+    "views": 41708,
+    "rejected": [],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 4264,
+    "title": "Honkai Star Rail 1.6 - New Trailblaze Story Quest Part 1 - Ruan Mei",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=1_Cx2_YEAck",
+    "views": 35330,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 12777,
+    "title": "Honkai Star Rail 1.6 Trailblaze Continuance - Crown of the Mundane and Divine [Blind]",
+    "uploader": "Lakuya",
+    "url": "https://www.youtube.com/watch?v=EwtGUR08YMY",
+    "views": "45",
+    "rejected": []
+   },
+   {
+    "seconds": 8899,
+    "title": "Full 1.6 Trailblaze Continuance Quest - Honkai Star Rail 1.6",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=Cc27qkYxsko",
+    "views": "12991",
+    "rejected": []
+   },
+   {
+    "seconds": 20109,
+    "title": "Version 2.6 Trailblaze Continuance Mission (Full Story Quest) | Honkai Star Rail",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=XE7GGKqCTwI",
+    "views": 78307,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 11501,
+    "title": "[Trailblaze Continuance 1.6] Crown of the Mundane and Divine | Honkai: Star Rail",
+    "uploader": "PamiApamYT",
+    "url": "https://www.youtube.com/watch?v=773EDMz1uSM",
+    "views": "7",
+    "rejected": []
+   },
+   {
+    "seconds": 3471,
+    "title": "Honkai Star Rail V1.6 Ep 1 - When the Stars of Ingenuity Shine Trailblaze Continuance Story Cutscene",
+    "uploader": "Gaming Archive",
+    "url": "https://www.youtube.com/watch?v=MjSHI9OKrOY",
+    "views": "31",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5196,
+    "title": "Trailblaze Continuance Mission, Crown of the Mundane and Divine : Dr Ratio, what are you planning?!",
+    "uploader": "Honkai Gamers",
+    "url": "https://www.youtube.com/watch?v=s1IDWn_lVzg",
+    "views": "68",
+    "rejected": []
+   },
+   {
+    "seconds": 5180,
+    "title": "Ruen Mei Story | Crown of the Mundane and Divine - (Trailblaze Continuance) | Honkai Star Rail",
+    "uploader": "MaL AnimsGaming",
+    "url": "https://www.youtube.com/watch?v=fDT0IAUInFk",
+    "views": "42",
+    "rejected": []
+   },
+   {
+    "seconds": 5497,
+    "title": "Honkai Star Rail - Main Story Trailblaze Continuance P1: Crown of the Mundane and the Divine",
+    "uploader": "Hunter's Lodge",
+    "url": "https://www.youtube.com/watch?v=xgNkkM9Y57Q",
+    "views": "91",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 5225,
+    "title": "RUAN MEI & HER EXPERIMENTS! | Trailblaze Continuance - Honkai: Star Rail",
+    "uploader": "Jerada",
+    "url": "https://www.youtube.com/watch?v=_IH6jtY3T80",
+    "views": "799",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 6039,
+    "title": "Honkai: Star Rail - Trailblaze Continuance : Crown of the Mundane and Divine",
+    "uploader": "Jirangu",
+    "url": "https://www.youtube.com/watch?v=wvw26EwQuG4",
+    "views": "13",
+    "rejected": []
+   },
+   {
+    "seconds": 15730,
+    "title": "HSR Trailblaze Continuance Part 8 - A Foxian Tale of the Haunted | Honkai: Star Rail 1.5",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=Lo6ryzs3eps",
+    "views": "46",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 66,
+    "title": "Ruan Mei First Appearance Cutscene Animation | Crown Of Mundane & Divine Continuance | Star Rail 1.6",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=vg-ur7S2rvY",
+    "views": "76625",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 5984,
+    "title": "Trailblazer meets Ruan Mei || Honkai Star Rail 1.6 Trailblaze Continuance Part 1",
+    "uploader": "AaronDeadKey",
+    "url": "https://www.youtube.com/watch?v=dZP10YM767A",
+    "views": "36",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 9205,
+    "title": "Traiblaze Continuance : Crown of the Mundane and Divine Story Waklthrough",
+    "uploader": "Kroos",
+    "url": "https://www.youtube.com/watch?v=x6VBQ1x2oD4",
+    "views": "49",
+    "rejected": []
+   },
+   {
+    "seconds": 42,
+    "title": "The way Caelus *screams internally* for Aventurine is a bit...",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=ZXG4SG-TrAs",
+    "views": "166855",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3874,
+    "title": "Crown Of The Mundane And Divine Full Story Part 1 | When The Stars Of Ingenuity Shine | Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=pr2L1fIFSAg",
+    "views": "3947",
+    "rejected": [
+     "fragment"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 5180,
+    "title": "Ruen Mei Story | Crown of the Mundane and Divine - (Trailblaze Continuance) | Honkai Star Rail",
+    "uploader": "MaL AnimsGaming",
+    "url": "https://www.youtube.com/watch?v=fDT0IAUInFk",
+    "views": "42",
+    "rejected": []
+   },
+   {
+    "seconds": 5196,
+    "title": "Trailblaze Continuance Mission, Crown of the Mundane and Divine : Dr Ratio, what are you planning?!",
+    "uploader": "Honkai Gamers",
+    "url": "https://www.youtube.com/watch?v=s1IDWn_lVzg",
+    "views": "68",
+    "rejected": []
+   },
+   {
+    "seconds": 6039,
+    "title": "Honkai: Star Rail - Trailblaze Continuance : Crown of the Mundane and Divine",
+    "uploader": "Jirangu",
+    "url": "https://www.youtube.com/watch?v=wvw26EwQuG4",
+    "views": "13",
+    "rejected": []
+   },
+   {
+    "seconds": 7884,
+    "title": "HSR Trailblaze Continuance Part 9 - Crown of the Mundane and Divine | Honkai: Star Rail 1.6",
+    "uploader": "Akabirama",
+    "url": "https://www.youtube.com/watch?v=vXxddcQpqNA",
+    "views": 73,
+    "rejected": [],
+    "upload_date": "20251008"
+   },
+   {
+    "seconds": 8197,
+    "title": "Crown of the Mundane and Divine (Full Story Quest) Trailblaze Continuance | Honkai Star Rail 1.6",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=J2pYdNtVjIc",
+    "views": 33420,
+    "rejected": [],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 8899,
+    "title": "Full 1.6 Trailblaze Continuance Quest - Honkai Star Rail 1.6",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=Cc27qkYxsko",
+    "views": "12991",
+    "rejected": []
+   },
+   {
+    "seconds": 9045,
+    "title": "Honkai Star Rail 1.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=vRRvWwl0sZk",
+    "views": 41708,
+    "rejected": [],
+    "upload_date": "20231227"
+   },
+   {
+    "seconds": 9205,
+    "title": "Traiblaze Continuance : Crown of the Mundane and Divine Story Waklthrough",
+    "uploader": "Kroos",
+    "url": "https://www.youtube.com/watch?v=x6VBQ1x2oD4",
+    "views": "49",
+    "rejected": []
+   },
+   {
+    "seconds": 10237,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Crown of the Mundane and Divine | Full Story JP Dub",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=JTrRaP540eY",
+    "views": 3374,
+    "rejected": [],
+    "upload_date": "20231228",
+    "runtime": 10237,
+    "measured": "chapter-markers",
+    "parts": {
+     "When the Stars of Ingenuity Shine": 4729,
+     "Mundane Troubles": 5508
+    }
+   },
+   {
+    "seconds": 11501,
+    "title": "[Trailblaze Continuance 1.6] Crown of the Mundane and Divine | Honkai: Star Rail",
+    "uploader": "PamiApamYT",
+    "url": "https://www.youtube.com/watch?v=773EDMz1uSM",
+    "views": "7",
+    "rejected": []
+   },
+   {
+    "seconds": 12777,
+    "title": "Honkai Star Rail 1.6 Trailblaze Continuance - Crown of the Mundane and Divine [Blind]",
+    "uploader": "Lakuya",
+    "url": "https://www.youtube.com/watch?v=EwtGUR08YMY",
+    "views": "45",
+    "rejected": []
+   },
+   {
+    "seconds": 14006,
+    "title": "\"Crown of the Mundane and Divine\" Trailblaze Continuance [Full Playthrough] | Honkai: Star Rail 1.6",
+    "uploader": "Horaud",
+    "url": "https://www.youtube.com/watch?v=5wGcEN6x9jA",
+    "views": 66,
+    "rejected": [],
+    "upload_date": "20240330"
+   }
+  ],
+  "stats": {
+   "n": 12,
+   "median": 150,
+   "low": 86,
+   "high": 233,
+   "q1": 108,
+   "q3": 186,
+   "trimmed_mean": 148,
+   "measured": 1,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 4",
+  "act_title": "Finest Duel Under the Pristine Blue (I)",
+  "wiki_page": "Finest Duel Under the Pristine Blue (I)",
+  "slug": "continuance_Continuance_4",
+  "candidates": [
+   {
+    "seconds": 12722,
+    "title": "Finest Duel Under Pristine Blue Full Story HD | Trailblaze Continuance Part 1 | Honkai Star Rail 2.4",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=OkkwUc5O03Y",
+    "views": 7103,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 1401,
+    "title": "Honkai: Star Rail 2.4 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (I) part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=2B8Heu60MEA",
+    "views": "81",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2752,
+    "title": "HONKAI: STAR RAIL - Gameplay & Walkthrough - Finest Duel Part 1 (No Commentary)",
+    "uploader": "MizuNami",
+    "url": "https://www.youtube.com/watch?v=LtzCZZvtA_c",
+    "views": 3,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20240801"
+   },
+   {
+    "seconds": 1377,
+    "title": "Honkai: Star Rail 2.5 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (II) part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=YA7EO8CKY4g",
+    "views": "85",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1406,
+    "title": "New Trailblaze Story Quest Walkthrough 'PART 1' | HONKAI STAR RAIL 2.5 (No Commentary)",
+    "uploader": "Kaito_GAMING",
+    "url": "https://www.youtube.com/watch?v=cRufQ2_r0N8",
+    "views": "42",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 2446,
+    "title": "HONKAI: STAR RAIL - Gameplay & Walkthrough - Finest Duel 2 Part 1 (No Commentary)",
+    "uploader": "MizuNami",
+    "url": "https://www.youtube.com/watch?v=h_MMFLRloRk",
+    "views": 1,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20241216"
+   },
+   {
+    "seconds": 14020,
+    "title": "Honkai: Star Rail 2.4 FULL Trailblaze Mission | Finest Duel Under the Pristine Blue: Part 1",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=zM_UdHwdGjQ",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20240801"
+   },
+   {
+    "seconds": 2811,
+    "title": "Honkai: Star Rail Version 2.4 Finest Duel Under the Pristine Blue Special Program.",
+    "uploader": "Honkai: Star Rail",
+    "url": "https://www.youtube.com/watch?v=mC2F2dAXuus",
+    "views": 864800,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20240719"
+   },
+   {
+    "seconds": 4003,
+    "title": "Honkai Star Rail 2.4 - Finest Duel Under the Pristine Blue Part I (3/4)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=68wTgor_aVc",
+    "views": 12,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240925"
+   },
+   {
+    "seconds": 15544,
+    "title": "[2.4] Finest Duel Under the Pristine Blue (I) | Honkai: Star Rail (4K)",
+    "uploader": "My Name For VODS",
+    "url": "https://www.youtube.com/watch?v=zgCi75-Cq4U",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20240830"
+   },
+   {
+    "seconds": 11800,
+    "title": "\u3010Chinese Dub / English Sub\u3011Finest Duel Under the Pristine Blue Part 1 | HSR v2.4",
+    "uploader": "Citrix the cat",
+    "url": "https://www.youtube.com/watch?v=sgHG6zQauco",
+    "views": 479,
+    "rejected": [],
+    "upload_date": "20240806"
+   },
+   {
+    "seconds": 14754,
+    "title": "Honkai Star Rail 2.4 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=11EVLX8dOXM",
+    "views": 139409,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 13950,
+    "title": "Full 2.4 Trailblaze Continuance Quest 1 - Honkai Star Rail 2.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=jap_9HKZO_c",
+    "views": 7484,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 28212,
+    "title": "Full 2.4 & 2.5 Trailblaze Continuance Quest - Honkai Star Rail 2.4 & 2.5",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=eZXc82ZZBqQ",
+    "views": 4130,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240919"
+   },
+   {
+    "seconds": 1386,
+    "title": "Honkai: Star Rail 2.4 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (I) part 3",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=4MYZ3DdetxE",
+    "views": "46",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2029,
+    "title": "Finest Duel Under the Pristine Blue 2.5 Full Questline Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=Neabmw4xuEo",
+    "views": 9700,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20240910",
+    "runtime": 9156,
+    "measured": "chapter-markers",
+    "parts": {}
+   },
+   {
+    "seconds": 35737,
+    "title": "FULL PLAYTHROUGH 2.4 QUEST | \"Finest Duel Under the Pristine Blue\"",
+    "uploader": "JullianGG",
+    "url": "https://www.youtube.com/watch?v=iF_kKMWYaVA",
+    "views": 502,
+    "rejected": [
+     "long-outlier"
+    ],
+    "upload_date": "20240801"
+   },
+   {
+    "seconds": 8320,
+    "title": "YUNLI vs YANQING?! \"Finest Duel Under The Pristine Blue\" Quest Playthrough | Honkai: Star Rail 2.4",
+    "uploader": "Sevy",
+    "url": "https://www.youtube.com/watch?v=zi_eOunYGRk",
+    "views": 5385,
+    "rejected": [],
+    "upload_date": "20240813"
+   },
+   {
+    "seconds": 15040,
+    "title": "Finest Duel Under The Pristine Blue: Part I Full Story | Honkai Star Rail 2.4",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=B-49OOpTPWo",
+    "views": 353,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 5026,
+    "title": "Finest Duel Under the Pristine Blue 2 5 Full Questline Honkai Star Rail",
+    "uploader": "OnGame Tips",
+    "url": "https://www.youtube.com/watch?v=Zeecm2O1sMU",
+    "views": 101,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 14548,
+    "title": "Honkai Star Rail 2.4 Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=uVLTrn6sDbs",
+    "views": "33586",
+    "rejected": []
+   },
+   {
+    "seconds": 13125,
+    "title": "Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue (I) | Honkai: Star Rail 2.4",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=Z8xLZhPTj7M",
+    "views": "2267",
+    "rejected": []
+   },
+   {
+    "seconds": 40611,
+    "title": "Trailblaze Continuance - March to Mastery: A Star is Born (Honkai Star Rail 2.4) | Full Playthrough",
+    "uploader": "VTuber Minerva M.S.",
+    "url": "https://www.youtube.com/watch?v=Qhb7phJVBIU",
+    "views": "3078",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 13496,
+    "title": "Seele EN VA Plays 2.4 Trailblaze Continuance | Part 1",
+    "uploader": "mollozhang",
+    "url": "https://www.youtube.com/watch?v=QO0aS3oIi9E",
+    "views": "28929",
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 14321,
+    "title": "Version 2.4 Trailblazer Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=ng1gezg2OCk",
+    "views": "454",
+    "rejected": []
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 8320,
+    "title": "YUNLI vs YANQING?! \"Finest Duel Under The Pristine Blue\" Quest Playthrough | Honkai: Star Rail 2.4",
+    "uploader": "Sevy",
+    "url": "https://www.youtube.com/watch?v=zi_eOunYGRk",
+    "views": 5385,
+    "rejected": [],
+    "upload_date": "20240813"
+   },
+   {
+    "seconds": 11800,
+    "title": "\u3010Chinese Dub / English Sub\u3011Finest Duel Under the Pristine Blue Part 1 | HSR v2.4",
+    "uploader": "Citrix the cat",
+    "url": "https://www.youtube.com/watch?v=sgHG6zQauco",
+    "views": 479,
+    "rejected": [],
+    "upload_date": "20240806"
+   },
+   {
+    "seconds": 12722,
+    "title": "Finest Duel Under Pristine Blue Full Story HD | Trailblaze Continuance Part 1 | Honkai Star Rail 2.4",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=OkkwUc5O03Y",
+    "views": 7103,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 13125,
+    "title": "Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue (I) | Honkai: Star Rail 2.4",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=Z8xLZhPTj7M",
+    "views": "2267",
+    "rejected": []
+   },
+   {
+    "seconds": 13950,
+    "title": "Full 2.4 Trailblaze Continuance Quest 1 - Honkai Star Rail 2.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=jap_9HKZO_c",
+    "views": 7484,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 14020,
+    "title": "Honkai: Star Rail 2.4 FULL Trailblaze Mission | Finest Duel Under the Pristine Blue: Part 1",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=zM_UdHwdGjQ",
+    "views": 56,
+    "rejected": [],
+    "upload_date": "20240801"
+   },
+   {
+    "seconds": 14321,
+    "title": "Version 2.4 Trailblazer Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=ng1gezg2OCk",
+    "views": "454",
+    "rejected": []
+   },
+   {
+    "seconds": 14548,
+    "title": "Honkai Star Rail 2.4 Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=uVLTrn6sDbs",
+    "views": "33586",
+    "rejected": []
+   },
+   {
+    "seconds": 14754,
+    "title": "Honkai Star Rail 2.4 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=11EVLX8dOXM",
+    "views": 139409,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 15040,
+    "title": "Finest Duel Under The Pristine Blue: Part I Full Story | Honkai Star Rail 2.4",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=B-49OOpTPWo",
+    "views": 353,
+    "rejected": [],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 15544,
+    "title": "[2.4] Finest Duel Under the Pristine Blue (I) | Honkai: Star Rail (4K)",
+    "uploader": "My Name For VODS",
+    "url": "https://www.youtube.com/watch?v=zgCi75-Cq4U",
+    "views": 17,
+    "rejected": [],
+    "upload_date": "20240830"
+   }
+  ],
+  "stats": {
+   "n": 11,
+   "median": 234,
+   "low": 139,
+   "high": 259,
+   "q1": 212,
+   "q3": 246,
+   "trimmed_mean": 230,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 5",
+  "act_title": "Finest Duel Under the Pristine Blue (II)",
+  "wiki_page": "Finest Duel Under the Pristine Blue (II)",
+  "slug": "continuance_Continuance_5",
+  "candidates": [
+   {
+    "seconds": 1377,
+    "title": "Honkai: Star Rail 2.5 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (II) part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=YA7EO8CKY4g",
+    "views": "85",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 12722,
+    "title": "Finest Duel Under Pristine Blue Full Story HD | Trailblaze Continuance Part 1 | Honkai Star Rail 2.4",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=OkkwUc5O03Y",
+    "views": 7103,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 16149,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Finest Duel Under the Pristine Blue (II) | JP Dub EN Sub",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=DCewto5rj7g",
+    "views": 3166,
+    "rejected": [],
+    "upload_date": "20240912"
+   },
+   {
+    "seconds": 1401,
+    "title": "Honkai: Star Rail 2.4 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (I) part 1",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=2B8Heu60MEA",
+    "views": "81",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1503,
+    "title": "Honkai: Star Rail 2.4 - Trailblaze Continuance - Finest Duel Under the Pristine Blue (I) part 2",
+    "uploader": "Tamiil",
+    "url": "https://www.youtube.com/watch?v=AdBlqqWXCJ8",
+    "views": "103",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 2446,
+    "title": "HONKAI: STAR RAIL - Gameplay & Walkthrough - Finest Duel 2 Part 1 (No Commentary)",
+    "uploader": "MizuNami",
+    "url": "https://www.youtube.com/watch?v=h_MMFLRloRk",
+    "views": 1,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20241216"
+   },
+   {
+    "seconds": 5026,
+    "title": "Finest Duel Under the Pristine Blue 2 5 Full Questline Honkai Star Rail",
+    "uploader": "OnGame Tips",
+    "url": "https://www.youtube.com/watch?v=Zeecm2O1sMU",
+    "views": 101,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 13433,
+    "title": "Finest Duel Under Pristine Blue Part 2 Full Story HD | Trailblaze Continuance | Honkai Star Rail 2.5",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=QkJZ5YCBspE",
+    "views": 4590,
+    "rejected": [],
+    "upload_date": "20240910"
+   },
+   {
+    "seconds": 9156,
+    "title": "Finest Duel Under the Pristine Blue 2.5 Full Questline Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=Neabmw4xuEo",
+    "views": 9700,
+    "rejected": [],
+    "upload_date": "20240910",
+    "runtime": 9156,
+    "measured": "chapter-markers",
+    "parts": {
+     "At Dawn, To War": 447,
+     "A Web of Pasts Rewoven": 704,
+     "The Red Warcry": 579,
+     "Novice in Zenithal Duel": 496,
+     "Sweep by Merlin's Claw": 157,
+     "Comrade in Arms": 3041,
+     "Salvation by Starlance": 1703
+    }
+   },
+   {
+    "seconds": 17969,
+    "title": "Back To Xianzhou | 2.4 Story Quest - Finest Duel Under The Pristine Blue | Star Rail - Ep. 56",
+    "uploader": "XRicWarX",
+    "url": "https://www.youtube.com/watch?v=Qp6ou8AFQZQ",
+    "views": 32,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20240809"
+   },
+   {
+    "seconds": 35737,
+    "title": "FULL PLAYTHROUGH 2.4 QUEST | \"Finest Duel Under the Pristine Blue\"",
+    "uploader": "JullianGG",
+    "url": "https://www.youtube.com/watch?v=iF_kKMWYaVA",
+    "views": 502,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240801"
+   },
+   {
+    "seconds": 13560,
+    "title": "Honkai: Star Rail 2.5 FULL Trailblaze Mission | Finest Duel Under the Pristine Blue: Part 2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=ddogV0_f2_c",
+    "views": 68,
+    "rejected": [],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 13619,
+    "title": "Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue (II) | Honkai: Star Rail 2.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=60CFHG-piy4",
+    "views": 1712,
+    "rejected": [],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 458,
+    "title": "Honkai Star Rail 2.5 All Cutscene & Ending Finest Duel Under the Pristine Blue II Trailblaze Mission",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=yIaHj88Okcs",
+    "views": "108136",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4588,
+    "title": "Honkai Star Rail 2.5 - Finest Duel Under the Pristine Blue Part II (1/3)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=oCXPdqN8J_k",
+    "views": 16,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240927"
+   },
+   {
+    "seconds": 413,
+    "title": "All cutscenes Finest Duel Under The Pristine Blue: Part 2 | Honkai Star Rail 2.5",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=my9AplaIXJw",
+    "views": "128",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 15727,
+    "title": "Honkai Star Rail 2.5 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=bRrs0mGp7o8",
+    "views": 106384,
+    "rejected": [],
+    "upload_date": "20240910"
+   },
+   {
+    "seconds": 14285,
+    "title": "Full 2.5 Trailblaze Continuance Quest 2 - Honkai Star Rail 2.5",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=c4GxztuxB_k",
+    "views": 1658,
+    "rejected": [],
+    "upload_date": "20240919"
+   },
+   {
+    "seconds": 28212,
+    "title": "Full 2.4 & 2.5 Trailblaze Continuance Quest - Honkai Star Rail 2.4 & 2.5",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=eZXc82ZZBqQ",
+    "views": 4130,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240919"
+   },
+   {
+    "seconds": 1838,
+    "title": "New Trailblaze Story Quest Walkthrough 'PART 2' | HONKAI STAR RAIL 2.5 (No Commentary)",
+    "uploader": "Kaito_GAMING",
+    "url": "https://www.youtube.com/watch?v=3z8fh3X7zSY",
+    "views": 16,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240930"
+   },
+   {
+    "seconds": 1982,
+    "title": "New Trailblaze Story Quest Walkthrough 'PART 3' | HONKAI STAR RAIL 2.5 (No Commentary)",
+    "uploader": "Kaito_GAMING",
+    "url": "https://www.youtube.com/watch?v=sXUOJb0eTu0",
+    "views": 12,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20240930"
+   },
+   {
+    "seconds": 77,
+    "title": "Solve the Puzzle Nightingale Statue Puzzle Honkai Star Rail The Devil in Velvet Trailblaze Mission",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=cECceDuweYU",
+    "views": "34155",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 14654,
+    "title": "Seele EN VA Plays 2.5 Trailblaze Continuance",
+    "uploader": "mollozhang",
+    "url": "https://www.youtube.com/watch?v=zZn0qYe0oak",
+    "views": "49996",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 22,
+    "title": "Finding out the truth! Version 2.5 Trailblaze Continuance Mission [Honkai: Star Rail] (ENG/JPN)",
+    "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
+    "url": "https://www.youtube.com/watch?v=LQaQAoK35xY",
+    "views": "4",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 11,
+    "title": "Finding out the truth! Version 2.5 Trailblaze Continuance Mission [Honkai: Star Rail] (ENG/JPN)",
+    "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
+    "url": "https://www.youtube.com/watch?v=rWuSxE1iO44",
+    "views": "2",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 10,
+    "title": "Finding out the truth! Version 2.5 Trailblaze Continuance Mission [Honkai: Star Rail] (ENG/JPN)",
+    "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
+    "url": "https://www.youtube.com/watch?v=q8MGp42WkUY",
+    "views": "0",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 15,
+    "title": "Finding the truth! Version 2.5 Trailblaze Continuance Mission [Honkai: Star Rail] (ENG/JPN)",
+    "uploader": "\ud83c\udf38ReinaRose (Aireena)\ud83c\udfae",
+    "url": "https://www.youtube.com/watch?v=CW1FpIwD_mc",
+    "views": "7",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 14664,
+    "title": "Version 2.5 Trailblaze Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=rcGLxdpG6kg",
+    "views": "387",
+    "rejected": []
+   },
+   {
+    "seconds": 1705,
+    "title": "Honkai Star Rail 2.4 Finest Duel Under the Pristine Blue Quest Story Recap | STORY EXPLAINED",
+    "uploader": "Recaps Wizard",
+    "url": "https://www.youtube.com/watch?v=om3WibEvZsg",
+    "views": "106",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 16884,
+    "title": "Finest Duel Under the Pristine Blue (II) Complete Story | Honkai: Star Rail",
+    "uploader": "Kuroyukihime",
+    "url": "https://www.youtube.com/watch?v=pEHbvsSJk00",
+    "views": "212",
+    "rejected": []
+   },
+   {
+    "seconds": 15013,
+    "title": "\u3010Honkai: Star Rail\u3011Finest Duel Under the Pristine Blue (II) Full Story [JP Dub - ENG Sub]",
+    "uploader": "Super Executive",
+    "url": "https://www.youtube.com/watch?v=1zBeaHGE4-E",
+    "views": "167",
+    "rejected": []
+   },
+   {
+    "seconds": 14112,
+    "title": "Honkai Star Rail - Finest Duel under the Pristine Blue Part 2 - Full Story Playthrough",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=FNe_Tmf7cw8",
+    "views": "30",
+    "rejected": []
+   },
+   {
+    "seconds": 14646,
+    "title": "Finest Duel Under the Pristine Blue (I) [4K] [Story] Honkai Star Rail [v2.4]",
+    "uploader": "shiryuden",
+    "url": "https://www.youtube.com/watch?v=mNzYNvpm8FA",
+    "views": "24",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 13217,
+    "title": "Finest Duel Under the Pristine Blue Part II - Complete Story | Honkai: Star Rail",
+    "uploader": "Nyxienx",
+    "url": "https://www.youtube.com/watch?v=H7tlomKHMEU",
+    "views": "100",
+    "rejected": []
+   },
+   {
+    "seconds": 16656,
+    "title": "Honkai Star Rail Trailblazer Story | Finest Duel Under the Pristine Blue (2) v2.4 | JP Dub Eng Sub",
+    "uploader": "The Humble Playmaker",
+    "url": "https://www.youtube.com/watch?v=omRCk-cLu1E",
+    "views": "23",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17573,
+    "title": "Honkai Star Rail Trailblazer Story | Finest Duel Under the Pristine Blue (1) v2.4 | JP Dub Eng Sub",
+    "uploader": "The Humble Playmaker",
+    "url": "https://www.youtube.com/watch?v=q8t7FUvjsa0",
+    "views": "20",
+    "rejected": [
+     "act-mismatch"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 9156,
+    "title": "Finest Duel Under the Pristine Blue 2.5 Full Questline Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=Neabmw4xuEo",
+    "views": 9700,
+    "rejected": [],
+    "upload_date": "20240910",
+    "runtime": 9156,
+    "measured": "chapter-markers",
+    "parts": {
+     "At Dawn, To War": 447,
+     "A Web of Pasts Rewoven": 704,
+     "The Red Warcry": 579,
+     "Novice in Zenithal Duel": 496,
+     "Sweep by Merlin's Claw": 157,
+     "Comrade in Arms": 3041,
+     "Salvation by Starlance": 1703
+    }
+   },
+   {
+    "seconds": 13217,
+    "title": "Finest Duel Under the Pristine Blue Part II - Complete Story | Honkai: Star Rail",
+    "uploader": "Nyxienx",
+    "url": "https://www.youtube.com/watch?v=H7tlomKHMEU",
+    "views": "100",
+    "rejected": []
+   },
+   {
+    "seconds": 13433,
+    "title": "Finest Duel Under Pristine Blue Part 2 Full Story HD | Trailblaze Continuance | Honkai Star Rail 2.5",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=QkJZ5YCBspE",
+    "views": 4590,
+    "rejected": [],
+    "upload_date": "20240910"
+   },
+   {
+    "seconds": 13560,
+    "title": "Honkai: Star Rail 2.5 FULL Trailblaze Mission | Finest Duel Under the Pristine Blue: Part 2",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=ddogV0_f2_c",
+    "views": 68,
+    "rejected": [],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 13619,
+    "title": "Trailblaze Continuance Mission - Finest Duel Under The Pristine Blue (II) | Honkai: Star Rail 2.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=60CFHG-piy4",
+    "views": 1712,
+    "rejected": [],
+    "upload_date": "20240911"
+   },
+   {
+    "seconds": 14112,
+    "title": "Honkai Star Rail - Finest Duel under the Pristine Blue Part 2 - Full Story Playthrough",
+    "uploader": "Uranium Tea Gaming",
+    "url": "https://www.youtube.com/watch?v=FNe_Tmf7cw8",
+    "views": "30",
+    "rejected": []
+   },
+   {
+    "seconds": 14285,
+    "title": "Full 2.5 Trailblaze Continuance Quest 2 - Honkai Star Rail 2.5",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=c4GxztuxB_k",
+    "views": 1658,
+    "rejected": [],
+    "upload_date": "20240919"
+   },
+   {
+    "seconds": 14664,
+    "title": "Version 2.5 Trailblaze Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=rcGLxdpG6kg",
+    "views": "387",
+    "rejected": []
+   },
+   {
+    "seconds": 15013,
+    "title": "\u3010Honkai: Star Rail\u3011Finest Duel Under the Pristine Blue (II) Full Story [JP Dub - ENG Sub]",
+    "uploader": "Super Executive",
+    "url": "https://www.youtube.com/watch?v=1zBeaHGE4-E",
+    "views": "167",
+    "rejected": []
+   },
+   {
+    "seconds": 15727,
+    "title": "Honkai Star Rail 2.5 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=bRrs0mGp7o8",
+    "views": 106384,
+    "rejected": [],
+    "upload_date": "20240910"
+   },
+   {
+    "seconds": 16149,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Finest Duel Under the Pristine Blue (II) | JP Dub EN Sub",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=DCewto5rj7g",
+    "views": 3166,
+    "rejected": [],
+    "upload_date": "20240912"
+   },
+   {
+    "seconds": 16884,
+    "title": "Finest Duel Under the Pristine Blue (II) Complete Story | Honkai: Star Rail",
+    "uploader": "Kuroyukihime",
+    "url": "https://www.youtube.com/watch?v=pEHbvsSJk00",
+    "views": "212",
+    "rejected": []
+   }
+  ],
+  "stats": {
+   "n": 12,
+   "median": 237,
+   "low": 153,
+   "high": 281,
+   "q1": 224,
+   "q3": 259,
+   "trimmed_mean": 240,
+   "measured": 1,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 6",
+  "act_title": "Banana Outrage: Battles Without Ninja and Humanity",
+  "wiki_page": "Banana Outrage: Battles Without Ninja and Humanity",
+  "slug": "continuance_Continuance_6",
+  "candidates": [
+   {
+    "seconds": 22563,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Banana Outrage Battles Without Ninja and Humanity | JP",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=YsEl__6ieyQ",
+    "views": 3621,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 21816,
+    "title": "Honkai Star Rail 2.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=hbIIk644NxI",
+    "views": 97310,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 19677,
+    "title": "Honkai Star Rail 2 6   New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=Oex3v-VWwHY",
+    "views": 86,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20241113"
+   },
+   {
+    "seconds": 3415,
+    "title": "Honkai Star Rail 2.6 - New Trailblaze Story Quest Walkthrough Part 1 - Rappa",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=gOpt5ZVJBSA",
+    "views": 16172,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 20349,
+    "title": "Banana Outrage | 2.6 Full Story Quest Honkai Star Rail",
+    "uploader": "Dosa Kun",
+    "url": "https://www.youtube.com/watch?v=imRbPOTnvQo",
+    "views": 593,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 9071,
+    "title": "\ubd95\uad34: \uc2a4\ud0c0\ub808\uc77c ver. 2.6 \uac1c\ucc99\ud6c4\ubb38: \ub098\ub098\uc6c3\ub808\uc774\uc9c0\u2022\uc778\uc758(\u5fcd\u7fa9) \uc5c6\ub294 \uc804\uc7c1 Part 1 (Walkthrough, 21:9)",
+    "uploader": "Diene Ramiel",
+    "url": "https://www.youtube.com/watch?v=Y2xunh6nXdI",
+    "views": 13,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20241114"
+   },
+   {
+    "seconds": 23839,
+    "title": "Honkai Star Rail 2.6 The Movie - Banana Outrage: Battles Without Ninja and Humanity",
+    "uploader": "TheWayCafe Productions",
+    "url": "https://www.youtube.com/watch?v=dItpc2atFg8",
+    "views": "2360",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 6174,
+    "title": "Honkai: star rail banana outrage battles without ninja and humanity full quest part 1",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=cpzJ-H_wZhM",
+    "views": 42,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250317"
+   },
+   {
+    "seconds": 18135,
+    "title": "Banana Outrage: Battles Without Ninja and Humanity (Chinese Audio) | Honkai: Star Rail",
+    "uploader": "Shinjiki-",
+    "url": "https://www.youtube.com/watch?v=aCSk180ErHQ",
+    "views": 89,
+    "rejected": [],
+    "upload_date": "20241223"
+   },
+   {
+    "seconds": 21141,
+    "title": "Banana Outrage Battles Without Ninja and Humanity Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=A9yMtYow-Hg",
+    "views": 14055,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 14854,
+    "title": "[2.6] Banana Outrage Battles Without Ninja and Humanity | Honkai: Star Rail (4K)",
+    "uploader": "My Name For VODS",
+    "url": "https://www.youtube.com/watch?v=6GdNxed2dkc",
+    "views": 37,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20241106",
+    "runtime": 22224,
+    "measured": "chapter-markers",
+    "parts": {
+     "An Andalusian Monkey": 14854
+    }
+   },
+   {
+    "seconds": 20568,
+    "title": "\u3010Honkai: Star Rail\u3011Banana Outrage: Battles Without Ninja and Humanity [Jp Dub]",
+    "uploader": "Super Executive",
+    "url": "https://www.youtube.com/watch?v=yp4-r7UtZJo",
+    "views": 126,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 5021,
+    "title": "Honkai Star Rail 2.6 - Banana Outrage: Battles Without Ninja and Humanity (1/5)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=rU5SpW6qcbY",
+    "views": 22,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20241216"
+   },
+   {
+    "seconds": 20050,
+    "title": "Honkai: Star Rail 2.6 FULL Trailblaze Mission | Banana Outrage: Battles Without Ninja and Humanity",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=ln-MsYNQd3w",
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 296,
+    "title": "Honkai Star Rail 2.6 Cutscenes JP",
+    "uploader": "Gachachagacha",
+    "url": "https://www.youtube.com/watch?v=C3k4cNsE-dk",
+    "views": "12",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 6171,
+    "title": "Honkai Star Rail 2.6 - Banana Outrage: Battles Without Ninja and Humanity (2/5)",
+    "uploader": "Redsoul",
+    "url": "https://www.youtube.com/watch?v=YxFJOVD6Tqs",
+    "views": 16,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20241217"
+   },
+   {
+    "seconds": 8500,
+    "title": "Banana Outrage:Battles Without Ninja And Humanity Trailblaze Continuance Quest Honkai Star Rail 2.6",
+    "uploader": "OnGame Tips",
+    "url": "https://www.youtube.com/watch?v=fIzsakBhOrY",
+    "views": 41,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 454,
+    "title": "\ud83d\udca0Honkai Star Rail 2.6 All Cutscene & Ending Banana Outrage Trailblaze Mission",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=om5piJZz_P8",
+    "views": "50192",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 20112,
+    "title": "Version 2.6 Trailblaze Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=dVOjgRmsm1U",
+    "views": 143,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 20109,
+    "title": "Version 2.6 Trailblaze Continuance Mission (Full Story Quest) | Honkai Star Rail",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=XE7GGKqCTwI",
+    "views": 78307,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 19743,
+    "title": "Full 2.6 Trailblaze Continuance Quest - Honkai Star Rail 2.6",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=mjfomW_1Pg0",
+    "views": "5349",
+    "rejected": []
+   },
+   {
+    "seconds": 10740,
+    "title": "Rappa's Story | Honkai: Star Rail 2.6 Story Quest Walkthrough Gameplay Part 3 (Japanese Dub)",
+    "uploader": "DafDazDay",
+    "url": "https://www.youtube.com/watch?v=5QRHLMhxrI0",
+    "views": "3507",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 20319,
+    "title": "Honkai Star Rail 2.6 Penacony - Full Story Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=0S5owQT668A",
+    "views": "444",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 6134,
+    "title": "Honkai: Star Rail 2.6 Story Quest Walkthrough Gameplay Part 2 (Japanese Dub)",
+    "uploader": "DafDazDay",
+    "url": "https://www.youtube.com/watch?v=fHhX_H0ooqE",
+    "views": "3538",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 13950,
+    "title": "Full 2.4 Trailblaze Continuance Quest 1 - Honkai Star Rail 2.4",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=jap_9HKZO_c",
+    "views": 7484,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20240731"
+   },
+   {
+    "seconds": 21862,
+    "title": "\ud83d\udd34LIVE! FINISHING THE 2.6 TRAILBLAZE CONTINUANCE!!! WILL IT GET SAD??? | Honkai Star Rail",
+    "uploader": "TheMusicInMe777",
+    "url": "https://www.youtube.com/watch?v=e6N1fa0w8wc",
+    "views": "2696",
+    "rejected": [
+     "not-a-playthrough",
+     "fragment"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 18135,
+    "title": "Banana Outrage: Battles Without Ninja and Humanity (Chinese Audio) | Honkai: Star Rail",
+    "uploader": "Shinjiki-",
+    "url": "https://www.youtube.com/watch?v=aCSk180ErHQ",
+    "views": 89,
+    "rejected": [],
+    "upload_date": "20241223"
+   },
+   {
+    "seconds": 19743,
+    "title": "Full 2.6 Trailblaze Continuance Quest - Honkai Star Rail 2.6",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=mjfomW_1Pg0",
+    "views": "5349",
+    "rejected": []
+   },
+   {
+    "seconds": 20050,
+    "title": "Honkai: Star Rail 2.6 FULL Trailblaze Mission | Banana Outrage: Battles Without Ninja and Humanity",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=ln-MsYNQd3w",
+    "views": 120,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 20109,
+    "title": "Version 2.6 Trailblaze Continuance Mission (Full Story Quest) | Honkai Star Rail",
+    "uploader": "Streetwise Rhapsody",
+    "url": "https://www.youtube.com/watch?v=XE7GGKqCTwI",
+    "views": 78307,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 20112,
+    "title": "Version 2.6 Trailblaze Continuance Story Quest (Full Quest) | Honkai Star Rail",
+    "uploader": "Yuzu",
+    "url": "https://www.youtube.com/watch?v=dVOjgRmsm1U",
+    "views": 143,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 20349,
+    "title": "Banana Outrage | 2.6 Full Story Quest Honkai Star Rail",
+    "uploader": "Dosa Kun",
+    "url": "https://www.youtube.com/watch?v=imRbPOTnvQo",
+    "views": 593,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 20568,
+    "title": "\u3010Honkai: Star Rail\u3011Banana Outrage: Battles Without Ninja and Humanity [Jp Dub]",
+    "uploader": "Super Executive",
+    "url": "https://www.youtube.com/watch?v=yp4-r7UtZJo",
+    "views": 126,
+    "rejected": [],
+    "upload_date": "20241024"
+   },
+   {
+    "seconds": 21141,
+    "title": "Banana Outrage Battles Without Ninja and Humanity Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=A9yMtYow-Hg",
+    "views": 14055,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 21816,
+    "title": "Honkai Star Rail 2.6 - New Trailblaze Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=hbIIk644NxI",
+    "views": 97310,
+    "rejected": [],
+    "upload_date": "20241023"
+   },
+   {
+    "seconds": 22563,
+    "title": "Honkai Star Rail - Trailblaze Continuance: Banana Outrage Battles Without Ninja and Humanity | JP",
+    "uploader": "Gudaoko",
+    "url": "https://www.youtube.com/watch?v=YsEl__6ieyQ",
+    "views": 3621,
+    "rejected": [],
+    "upload_date": "20241024"
+   }
+  ],
+  "stats": {
+   "n": 10,
+   "median": 337,
+   "low": 302,
+   "high": 376,
+   "q1": 333,
+   "q3": 355,
+   "trimmed_mean": 341,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 7",
+  "act_title": "Sweet Dreams and the Holy Grail",
+  "wiki_page": "Sweet Dreams and the Holy Grail (Trailblaze Continuance)",
+  "slug": "continuance_Continuance_7",
+  "candidates": [
+   {
+    "seconds": 16635,
+    "title": "Honkai Star Rail 3.4   Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=iiObPvigpjc",
+    "views": 35,
+    "rejected": [],
+    "upload_date": "20250810"
+   },
+   {
+    "seconds": 14021,
+    "title": "FATE COLLAB Sweet Dreams and the Holy Grail | Honkai Star Rails 3.4 Trailblaze Continuance Mission",
+    "uploader": "GutsnCapture Gaming",
+    "url": "https://www.youtube.com/watch?v=VNMptnSUz54",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20250719"
+   },
+   {
+    "seconds": 16596,
+    "title": "Honkai Star Rail 3.4 - Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=_uIG38cJWHM",
+    "views": 24739,
+    "rejected": [],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 1071,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] Assault! Seafeld TV: Track Down The Traitor & Mastermind",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=UwNOQ-Vs6bY",
+    "views": "286",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17881,
+    "title": "\ud83d\udd34 Honkai Star Rail 3.4 - Fate Stay Night Collab Story Quest Full Playthrough Livestream",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=bnSc27o_3qk",
+    "views": "18250",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 4657,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] The Opening Battle: Meet Up With Kuchiba's Informant",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=97Xg6EckWuA",
+    "views": 45,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260805"
+   },
+   {
+    "seconds": 5298,
+    "title": "Honkai star rail Sweet dreams in the Holy Grail full quest part 1",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=qHK7zrvfla4",
+    "views": 33,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250712"
+   },
+   {
+    "seconds": 18058,
+    "title": "Sweet Dreams and The Holy Grail HSR x Fate UBW Collab Story Quest VOD",
+    "uploader": "Ace ",
+    "url": "https://www.youtube.com/watch?v=sYPs8RUltJ0",
+    "views": 149,
+    "rejected": [],
+    "upload_date": "20250718"
+   },
+   {
+    "seconds": 5846,
+    "title": "Honkai star rail Sweet dreams in the Holy Grail full quest part 2",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=iLGk01ry2YU",
+    "views": 19,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250713"
+   },
+   {
+    "seconds": 6820,
+    "title": "Honkai star rail Sweet dreams in the Holy Grail full quest part 3",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=qQ1lTY53mWQ",
+    "views": 22,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250714"
+   },
+   {
+    "seconds": 17745,
+    "title": "Trailblaze Mission: Sweet Dreams and the Holy Grail | Full | EN Sub JP Dub | Honkai: Star Rail",
+    "uploader": "Meimimori",
+    "url": "https://www.youtube.com/watch?v=zQhzgMQ5LYE",
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250804"
+   },
+   {
+    "seconds": 17511,
+    "title": "Sweet Dreams and the Holy Grail Full Story | Fate Stay Night Collab | HSR 3.4",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=lsmSZbSI0R8",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 16431,
+    "title": "(JP) Honkai: Star Rail 3.4 FULL Fate Stay Night Trailblaze Mission | Sweet Dreams and the Holy Grail",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=Tk7tQLAVObY",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20250712"
+   },
+   {
+    "seconds": 236,
+    "title": "Fate/Stay Night All Cutscenes in Sweet Dreams and the Holy Grail | Honkai Star Rail 3.4",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=eC6vMEciTCQ",
+    "views": "3212",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 385,
+    "title": "Trailblaze Mission \"Sweet Dreams and the Holy Grail\" Guide \u3010Honkai: Star Rail 3.4\u3011",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=lLVLfqo4qCQ",
+    "views": "204",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12212,
+    "title": "Sweet Dreams and the Holy Grail | Fate/stay night Crossover Story 3.4 || Honkai: Star Rail",
+    "uploader": "Brad203",
+    "url": "https://www.youtube.com/watch?v=fqGhd0E3_e0",
+    "views": 74,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20250712"
+   },
+   {
+    "seconds": 16,
+    "title": "(JP) The Trailblazer Meets Saber *Cutscene* | Honkai: Star Rail 3.4 Sweet Dreams and the Holy Grail",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=bZTc-0w0uu0",
+    "views": "54",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 18997,
+    "title": "Honkai Star Rail Ver. 3.4 | Trailblaze Continuance - Chapter 7 | Sweet Dreams and the Holy Grail",
+    "uploader": "DodocoNotes",
+    "url": "https://www.youtube.com/watch?v=NobpYO0JLxI",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260428",
+    "runtime": 18997,
+    "measured": "chapter-markers",
+    "parts": {
+     "Fate/Night in Dreamland": 5727,
+     "Fate/Back to the Age of Silence": 6659,
+     "Fate/Aria of Rotten Gold": 4372,
+     "Fate/Return of Starry Sea": 2239
+    }
+   },
+   {
+    "seconds": 12574,
+    "title": "Honkai Star Rail 4.5 Astropolis - Full NEW Trailblaze Continuance Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
+    "views": 9913,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 7474,
+    "title": "3.4 Amphoreus Trailblaze Mission- Final Part Honkai Star Rail HD",
+    "uploader": "Clips of Genshin",
+    "url": "https://www.youtube.com/watch?v=vin_vKVyT4g",
+    "views": 8,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20250816"
+   },
+   {
+    "seconds": 12091,
+    "title": "3.4 Amphoreus Trailblaze Mission- Part 1  Honkai Star Rail HD",
+    "uploader": "Clips of Genshin",
+    "url": "https://www.youtube.com/watch?v=cmV5HrPWIQ0",
+    "views": 9,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20250816"
+   },
+   {
+    "seconds": 47,
+    "title": "Noble Phantasm Unleashed (Cutscene) | Honkai Star Rails 3.4 Trailblaze Continuance Mission",
+    "uploader": "GutsnCapture Gaming",
+    "url": "https://www.youtube.com/watch?v=3y2sKiGcu_o",
+    "views": "36",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 10801,
+    "title": "3.4 Trailblaze Continuance Mission (For The Sun is Set to Die) | DAN HENG IS VOICED AGAIN",
+    "uploader": "Lmey Hsr",
+    "url": "https://www.youtube.com/watch?v=wn2VChQUoJE",
+    "views": "89",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3929,
+    "title": "Honkai  Star Rail 3.4 | Trailblaze Continuance: Banana Outrage: BWN&H - Part 1",
+    "uploader": "MiguelHazard",
+    "url": "https://www.youtube.com/watch?v=xQC6CvUPyXo",
+    "views": "9",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 17205,
+    "title": "Honkai: Star Rail Version 3.4 Trailblaze Continuance Gameplay 4K (Fate Collab | Japanese Dub)",
+    "uploader": "KweeGaming",
+    "url": "https://www.youtube.com/watch?v=BaXi43NRWNc",
+    "views": "91",
+    "rejected": []
+   },
+   {
+    "seconds": 2392,
+    "title": "Honkai  Star Rail 3.4 | Trailblaze Continuance: Banana Outrage: BWN&H - Part 10 End",
+    "uploader": "MiguelHazard",
+    "url": "https://www.youtube.com/watch?v=N35bB0krBC4",
+    "views": "1",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 4077,
+    "title": "Honkai  Star Rail 3.4 | Trailblaze Continuance: Sweet Dreams and the Holy Grail - Part 1",
+    "uploader": "MiguelHazard",
+    "url": "https://www.youtube.com/watch?v=9FqBivJOTkY",
+    "views": "3",
+    "rejected": [
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 13402,
+    "title": "Honkai Star Rail 3.4 x Fate/Stay Night Collab - Full Story Playthrough (English Dub)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=RR2TZIGmgx4",
+    "views": "38477",
+    "rejected": []
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 13402,
+    "title": "Honkai Star Rail 3.4 x Fate/Stay Night Collab - Full Story Playthrough (English Dub)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=RR2TZIGmgx4",
+    "views": "38477",
+    "rejected": []
+   },
+   {
+    "seconds": 14021,
+    "title": "FATE COLLAB Sweet Dreams and the Holy Grail | Honkai Star Rails 3.4 Trailblaze Continuance Mission",
+    "uploader": "GutsnCapture Gaming",
+    "url": "https://www.youtube.com/watch?v=VNMptnSUz54",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20250719"
+   },
+   {
+    "seconds": 16431,
+    "title": "(JP) Honkai: Star Rail 3.4 FULL Fate Stay Night Trailblaze Mission | Sweet Dreams and the Holy Grail",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=Tk7tQLAVObY",
+    "views": 9,
+    "rejected": [],
+    "upload_date": "20250712"
+   },
+   {
+    "seconds": 16596,
+    "title": "Honkai Star Rail 3.4 - Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=_uIG38cJWHM",
+    "views": 24739,
+    "rejected": [],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 16635,
+    "title": "Honkai Star Rail 3.4   Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "MashUp Gaming",
+    "url": "https://www.youtube.com/watch?v=iiObPvigpjc",
+    "views": 35,
+    "rejected": [],
+    "upload_date": "20250810"
+   },
+   {
+    "seconds": 17205,
+    "title": "Honkai: Star Rail Version 3.4 Trailblaze Continuance Gameplay 4K (Fate Collab | Japanese Dub)",
+    "uploader": "KweeGaming",
+    "url": "https://www.youtube.com/watch?v=BaXi43NRWNc",
+    "views": "91",
+    "rejected": []
+   },
+   {
+    "seconds": 17511,
+    "title": "Sweet Dreams and the Holy Grail Full Story | Fate Stay Night Collab | HSR 3.4",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=lsmSZbSI0R8",
+    "views": 44,
+    "rejected": [],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 17745,
+    "title": "Trailblaze Mission: Sweet Dreams and the Holy Grail | Full | EN Sub JP Dub | Honkai: Star Rail",
+    "uploader": "Meimimori",
+    "url": "https://www.youtube.com/watch?v=zQhzgMQ5LYE",
+    "views": 11,
+    "rejected": [],
+    "upload_date": "20250804"
+   },
+   {
+    "seconds": 18058,
+    "title": "Sweet Dreams and The Holy Grail HSR x Fate UBW Collab Story Quest VOD",
+    "uploader": "Ace ",
+    "url": "https://www.youtube.com/watch?v=sYPs8RUltJ0",
+    "views": 149,
+    "rejected": [],
+    "upload_date": "20250718"
+   },
+   {
+    "seconds": 18997,
+    "title": "Honkai Star Rail Ver. 3.4 | Trailblaze Continuance - Chapter 7 | Sweet Dreams and the Holy Grail",
+    "uploader": "DodocoNotes",
+    "url": "https://www.youtube.com/watch?v=NobpYO0JLxI",
+    "views": 7,
+    "rejected": [],
+    "upload_date": "20260428",
+    "runtime": 18997,
+    "measured": "chapter-markers",
+    "parts": {
+     "Fate/Night in Dreamland": 5727,
+     "Fate/Back to the Age of Silence": 6659,
+     "Fate/Aria of Rotten Gold": 4372,
+     "Fate/Return of Starry Sea": 2239
+    }
+   }
+  ],
+  "stats": {
+   "n": 10,
+   "median": 282,
+   "low": 223,
+   "high": 317,
+   "q1": 264,
+   "q3": 297,
+   "trimmed_mean": 280,
+   "measured": 1,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 8",
+  "act_title": "Imagenae: Holy Grail War",
+  "wiki_page": "Imagenae: Holy Grail War (Trailblaze Continuance)",
+  "slug": "continuance_Continuance_8",
+  "candidates": [
+   {
+    "seconds": 18983,
+    "title": "HONKAI STAR RAIL FATE COLLAB 2 FULL STORY WALKTHROUGH (No Commentary)",
+    "uploader": "Shiven's Impact",
+    "url": "https://www.youtube.com/watch?v=Xm4GfdGp9AM",
+    "views": 608,
+    "rejected": [],
+    "upload_date": "20260726"
+   },
+   {
+    "seconds": 18018,
+    "title": "Honkai: Star Rail x Fate [UBW] Collab Story Part 2 - Imagenae: Holy Grail War",
+    "uploader": "syll_",
+    "url": "https://www.youtube.com/watch?v=3687aY5ytkU",
+    "views": 250,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 17769,
+    "title": "Honkai Star Rail 4.4 Fate Collab Full Story Quest: Part 2 | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=BjiirQRmrRQ",
+    "views": 759,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 16596,
+    "title": "Honkai Star Rail 3.4 - Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=_uIG38cJWHM",
+    "views": 24739,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20250711"
+   },
+   {
+    "seconds": 3214,
+    "title": "Honkai: Star Rail 4.4 x Fate/Stay Night Collab Story Quest Part 6",
+    "uploader": "AdnGhry",
+    "url": "https://www.youtube.com/watch?v=FyzTxIJYIp0",
+    "views": 25,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260729"
+   },
+   {
+    "seconds": 279,
+    "title": "Trailblazer Talk To Rin Tohsaka |End Of Day 1| The Opening Battle | Honkai : Star Rail 4.4 Cutscene",
+    "uploader": "SD Verse",
+    "url": "https://www.youtube.com/watch?v=FVFUZME8t-Q",
+    "views": "22",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1127,
+    "title": "Unlimited Bladework - Trailblaze Continuance - Honkai Star Rail",
+    "uploader": "Duckyaaa",
+    "url": "https://www.youtube.com/watch?v=ipD2zBxDm5M",
+    "views": "4",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 882,
+    "title": "Morning Star - Trailblaze Continuance - Honkai Star Rail",
+    "uploader": "Duckyaaa",
+    "url": "https://www.youtube.com/watch?v=ogepDxSmigk",
+    "views": "1",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 4313,
+    "title": "Honkai: Star Rail 4.4 x Fate/Stay Night Collab Story Quest Part 4",
+    "uploader": "AdnGhry",
+    "url": "https://www.youtube.com/watch?v=NIsKGRKNLgM",
+    "views": 27,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 4657,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] The Opening Battle: Meet Up With Kuchiba's Informant",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=97Xg6EckWuA",
+    "views": 45,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260805"
+   },
+   {
+    "seconds": 1071,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] Assault! Seafeld TV: Track Down The Traitor & Mastermind",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=UwNOQ-Vs6bY",
+    "views": "286",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 138,
+    "title": "Imagenae Holy Grail War All Cutscenes & Ending Cutscene (Fate/Star Rail Night Event All Cutscenes)",
+    "uploader": "Gaming with Abyss",
+    "url": "https://www.youtube.com/watch?v=tOxGkxgCnO0",
+    "views": "3327",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 13386,
+    "title": "Imagenae: Holy Grail War Full Quest | Honkai: Star Rail 4.4",
+    "uploader": "jieun",
+    "url": "https://www.youtube.com/watch?v=_xD22sFi9Qo",
+    "views": 881,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 18584,
+    "title": "Honkai: Stra Rail 4.4 - Imagenae: Holy Grail War in Japnese (Full Story Event Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=Z3SvTIiL6fg",
+    "views": 249,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 2490,
+    "title": "HSR 4.4 Event Imagenae Holy Grail War Infinite Trial : All Boss Affix 5/5 Gameplay Guide",
+    "uploader": "MMOJACKX57",
+    "url": "https://www.youtube.com/watch?v=SQvEVib2bYQ",
+    "views": "7769",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 15132,
+    "title": "Honkai Star rail Event : Fate/stay night Collab Story Quest: \"Imagenae: Holy Grail War (English Dub)",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=_9s9lvN5_-0",
+    "views": 3064,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 10812,
+    "title": "Honkai: star rail imagenae Holy Grail War Full Quest.",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=EXq6cRXyd3w",
+    "views": 26,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 20161,
+    "title": "Honkai: Star Rail x Fate stay night - Imagenae: Holy Grail War - Complete collab Story Event",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=hm7nwMNmYgY",
+    "views": 538,
+    "rejected": [],
+    "upload_date": "20260727"
+   },
+   {
+    "seconds": 10092,
+    "title": "imagenae holy grail war story patch 4.4 part 1",
+    "uploader": "thathomelessdood",
+    "url": "https://www.youtube.com/watch?v=vI5SLwkU650",
+    "views": 7,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260802"
+   },
+   {
+    "seconds": 18381,
+    "title": "Honkai Star Rail 4.4 - Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=pb9_uodNZvE",
+    "views": 49970,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 6785,
+    "title": "Part 1 of Imagenae: Holy Grail War Quest | Trailblaze Continuance | Honkai Star Rail [6 August 2026]",
+    "uploader": "Zie",
+    "url": "https://www.youtube.com/watch?v=njPBCaI_vaQ",
+    "views": 2,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260807"
+   },
+   {
+    "seconds": 21043,
+    "title": "How To Play Fate/Star Rail Night Complete Event Guide | Imagenae: Holy Grail War Story & Walkthrough",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=rkflUALmsQQ",
+    "views": "2921",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 19327,
+    "title": "Imagenae: Holy Grail War Full Story (Fate Collab Event, JP Dub) | Honkai: Star Rail 4.4",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=OLveTXY40o4",
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260726"
+   },
+   {
+    "seconds": 14805,
+    "title": "HSR X Fate \"Imagenae: Holy Grail War\" full-walk through with timestamps (JP dub)",
+    "uploader": "Made in Bagus",
+    "url": "https://www.youtube.com/watch?v=iPMPvD2FnOo",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260807"
+   },
+   {
+    "seconds": 17813,
+    "title": "(JP) Honkai: Star Rail 4.4 FULL Fate Stay Night Trailblaze Mission | Imagenae: Holy Grail War",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=1wF_stxyLVQ",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 13932,
+    "title": "Fate Stay Night x HSR Part 2 \u2727 Imagenae: Holy Grail War \u2726 Honkai: Star Rail 4.4",
+    "uploader": "Eve_ningMusic",
+    "url": "https://www.youtube.com/watch?v=rJiezR6B-R0",
+    "views": 3194,
+    "rejected": [],
+    "upload_date": "20260727"
+   },
+   {
+    "seconds": 302,
+    "title": "Castorice? On Sparxie Live Stream | Trailblazer |Holy Grail War| Honkai : Star Rail Ver 4.4 Cutscene",
+    "uploader": "SD Verse",
+    "url": "https://www.youtube.com/watch?v=-2HBwbg56jg",
+    "views": "342",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 4016,
+    "title": "Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Walkthrough Part 1 - Asat Pramad",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=uEncwvx6KIQ",
+    "views": 3831,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260715"
+   },
+   {
+    "seconds": 17037,
+    "title": "Fate Stay Night Collab Part 2 Story Full Gameplay \"Imagenae: Holy Grail War\" - Honkai Star Rail 4.4",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=1Tpsdf4vxXE",
+    "views": 133,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 10101,
+    "title": "Imagenae Holy Grail War | Honkai Star Rail 4.4 Fate Collab Part 1",
+    "uploader": "AaronDeadKey",
+    "url": "https://www.youtube.com/watch?v=fbG1fH6oOk0",
+    "views": 61,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 95,
+    "title": "Rin Tohsaka Summons The Trailblazer Cutscene | Imagenae: Holy Grail War Event | Honkai Star Rail 4.4",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=EieKpwjz2rA",
+    "views": "941",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 51,
+    "title": "Castorice Eyes Were Screaming \"HELP ME!\" - Honkai Star Rail 4.4",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=_K6-bTvBeQ0",
+    "views": "50",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 9341,
+    "title": "Honkai Star Rail [4.5] ~ Trailblaze Mission (Part 1) REACTION | ThothsTemple VODs",
+    "uploader": "ThothsTemple VODS",
+    "url": "https://www.youtube.com/watch?v=mNxW8oASfcE",
+    "views": "13",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 3634,
+    "title": "Antigraft Brickbuster Event Playthrough - Honkai Star Rail 4.4",
+    "uploader": "Duckyaaa",
+    "url": "https://www.youtube.com/watch?v=zj6aEImUZFc",
+    "views": 52,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260718"
+   },
+   {
+    "seconds": 17286,
+    "title": "\ud83d\udd34 Honkai Star Rail 4.4 - New Trailblaze Main Story Quest Full Playthrough (HSR 4.4)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=YaOZdVleY5c",
+    "views": "48583",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 12335,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Continuance Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
+    "views": 41708,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12574,
+    "title": "Honkai Star Rail 4.5 Astropolis - Full NEW Trailblaze Continuance Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
+    "views": 9913,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 366,
+    "title": "Version 4.5 HSR All Cutscenes HD Compilation | Trailblaze Mission & Continuance | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=LZScRIWnyXs",
+    "views": "3833",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17906,
+    "title": "Honkai Star Rail 4.4 Trailblaze Continuance Mission speedrun | Honkai: Star Rail 4.4",
+    "uploader": "Lmey Hsr",
+    "url": "https://www.youtube.com/watch?v=JML6TqP9XSM",
+    "views": "92",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12205,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=4lsrtrQcOe0",
+    "views": 46172,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12056,
+    "title": "Robin & Aventurine Story Quest  | Honkai Star Rail 4.5 Trailblaze Continuance",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
+    "views": 735,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 16651,
+    "title": "\ud83d\udd34 HSR 4.4 Trailblaze Quest Full Playthrough LIVE (Male MC)",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=BudVVWrMQfo",
+    "views": "36397",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 16953,
+    "title": "4.5 Trailblaze Continuance - Welcome Back Aventurine & Robin!! | Aventurine's VA Plays HSR",
+    "uploader": "CamdenVA",
+    "url": "https://www.youtube.com/watch?v=drHqG1l22D0",
+    "views": 25670,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 18999,
+    "title": "HSR 4.5 STORY PLAYTHROUGH (Trailblaze Continuance)",
+    "uploader": "Chewy",
+    "url": "https://www.youtube.com/watch?v=wlds8XT5fXc",
+    "views": 2944,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260917"
+   },
+   {
+    "seconds": 42,
+    "title": "The way Caelus *screams internally* for Aventurine is a bit...",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=ZXG4SG-TrAs",
+    "views": "166855",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 24419,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough (All Quests)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=BlIGKKluNUk",
+    "views": 14808,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 21290,
+    "title": "HI3 Fan Reacts Honkai Star Rail 4.4 FULL Main Story Playthrough Himeko",
+    "uploader": "Unreal Dreamer",
+    "url": "https://www.youtube.com/watch?v=KZsWxMIzCpE",
+    "views": "37384",
+    "rejected": [
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 776,
+    "title": "Trailblaze Continuance \"Imagenae: Holy Grail War\" Guide\u3010Honkai Star Rail 4.4\u3011",
+    "uploader": "\u9ad8\u5dba\u7fd4 / Takamine Shou Channel",
+    "url": "https://www.youtube.com/watch?v=qR2kod3xmgA",
+    "views": "173",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 10812,
+    "title": "Honkai: star rail imagenae Holy Grail War Full Quest.",
+    "uploader": "KevinGame3",
+    "url": "https://www.youtube.com/watch?v=EXq6cRXyd3w",
+    "views": 26,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 13386,
+    "title": "Imagenae: Holy Grail War Full Quest | Honkai: Star Rail 4.4",
+    "uploader": "jieun",
+    "url": "https://www.youtube.com/watch?v=_xD22sFi9Qo",
+    "views": 881,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 13932,
+    "title": "Fate Stay Night x HSR Part 2 \u2727 Imagenae: Holy Grail War \u2726 Honkai: Star Rail 4.4",
+    "uploader": "Eve_ningMusic",
+    "url": "https://www.youtube.com/watch?v=rJiezR6B-R0",
+    "views": 3194,
+    "rejected": [],
+    "upload_date": "20260727"
+   },
+   {
+    "seconds": 14805,
+    "title": "HSR X Fate \"Imagenae: Holy Grail War\" full-walk through with timestamps (JP dub)",
+    "uploader": "Made in Bagus",
+    "url": "https://www.youtube.com/watch?v=iPMPvD2FnOo",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260807"
+   },
+   {
+    "seconds": 15132,
+    "title": "Honkai Star rail Event : Fate/stay night Collab Story Quest: \"Imagenae: Holy Grail War (English Dub)",
+    "uploader": "Izom F2P Gaming",
+    "url": "https://www.youtube.com/watch?v=_9s9lvN5_-0",
+    "views": 3064,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 17037,
+    "title": "Fate Stay Night Collab Part 2 Story Full Gameplay \"Imagenae: Holy Grail War\" - Honkai Star Rail 4.4",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=1Tpsdf4vxXE",
+    "views": 133,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 17769,
+    "title": "Honkai Star Rail 4.4 Fate Collab Full Story Quest: Part 2 | HSR Walkthrough (JP Voice)",
+    "uploader": "ViGAMES",
+    "url": "https://www.youtube.com/watch?v=BjiirQRmrRQ",
+    "views": 759,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 17813,
+    "title": "(JP) Honkai: Star Rail 4.4 FULL Fate Stay Night Trailblaze Mission | Imagenae: Holy Grail War",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=1wF_stxyLVQ",
+    "views": 18,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 18018,
+    "title": "Honkai: Star Rail x Fate [UBW] Collab Story Part 2 - Imagenae: Holy Grail War",
+    "uploader": "syll_",
+    "url": "https://www.youtube.com/watch?v=3687aY5ytkU",
+    "views": 250,
+    "rejected": [],
+    "upload_date": "20260725"
+   },
+   {
+    "seconds": 18381,
+    "title": "Honkai Star Rail 4.4 - Fate Stay Night Collab Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=pb9_uodNZvE",
+    "views": 49970,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 18584,
+    "title": "Honkai: Stra Rail 4.4 - Imagenae: Holy Grail War in Japnese (Full Story Event Quest)",
+    "uploader": "BSS Gaming",
+    "url": "https://www.youtube.com/watch?v=Z3SvTIiL6fg",
+    "views": 249,
+    "rejected": [],
+    "upload_date": "20260724"
+   },
+   {
+    "seconds": 18983,
+    "title": "HONKAI STAR RAIL FATE COLLAB 2 FULL STORY WALKTHROUGH (No Commentary)",
+    "uploader": "Shiven's Impact",
+    "url": "https://www.youtube.com/watch?v=Xm4GfdGp9AM",
+    "views": 608,
+    "rejected": [],
+    "upload_date": "20260726"
+   },
+   {
+    "seconds": 19327,
+    "title": "Imagenae: Holy Grail War Full Story (Fate Collab Event, JP Dub) | Honkai: Star Rail 4.4",
+    "uploader": "KNCPG",
+    "url": "https://www.youtube.com/watch?v=OLveTXY40o4",
+    "views": 471,
+    "rejected": [],
+    "upload_date": "20260726"
+   },
+   {
+    "seconds": 20161,
+    "title": "Honkai: Star Rail x Fate stay night - Imagenae: Holy Grail War - Complete collab Story Event",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=hm7nwMNmYgY",
+    "views": 538,
+    "rejected": [],
+    "upload_date": "20260727"
+   }
+  ],
+  "stats": {
+   "n": 14,
+   "median": 297,
+   "low": 180,
+   "high": 336,
+   "q1": 243,
+   "q3": 311,
+   "trimmed_mean": 282,
+   "measured": 0,
+   "parts": {},
+   "drift": null
+  }
+ },
+ {
+  "chapter_id": "continuance",
+  "chapter_title": "Trailblaze Continuance",
+  "act_label": "Continuance 9",
+  "act_title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+  "wiki_page": "How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+  "slug": "continuance_Continuance_9",
+  "candidates": [
+   {
+    "seconds": 96,
+    "title": "*CUTSCENE* Robin Wins Her Bet | \"How to Lose Your Way to the Top: The Zero-Dollar Strategy\"",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=qavlUnUIfbU",
+    "views": "10",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12445,
+    "title": "Honkai Star Rail 4.5 FULL Continuance II | How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "T.H Bunn",
+    "url": "https://www.youtube.com/watch?v=rhv7kK_-u5k",
+    "views": 87,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12261,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Continuance Mission | Full Gameplay",
+    "uploader": "MilkyWayJono",
+    "url": "https://www.youtube.com/watch?v=FQ6dZUiOuBc",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 12335,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Continuance Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
+    "views": 41708,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 2673,
+    "title": "Honkai: Star Rail 4.5 \u2013 All-You-Can-Lose Challenge Final Day | Trailblaze Continuance",
+    "uploader": "FantasyGamer93",
+    "url": "https://www.youtube.com/watch?v=X0qGcFeDdwI",
+    "views": 92,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 24419,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough (All Quests)",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=BlIGKKluNUk",
+    "views": 14808,
+    "rejected": [
+     "multi-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 1533,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] All-You-Can-Lose Challenge: Day 3: Private Auction",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=fXvA6AnWXbY",
+    "views": "150",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 14746,
+    "title": "Honkai: Star Rail Walkthrough part 271 ~Ver. 4.5~ Trailblaze Continuance Mission (Japanese Voices)",
+    "uploader": "RedRawNes",
+    "url": "https://www.youtube.com/watch?v=j83-rwHonxI",
+    "views": 179,
+    "rejected": [],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 16953,
+    "title": "4.5 Trailblaze Continuance - Welcome Back Aventurine & Robin!! | Aventurine's VA Plays HSR",
+    "uploader": "CamdenVA",
+    "url": "https://www.youtube.com/watch?v=drHqG1l22D0",
+    "views": 25670,
+    "rejected": [],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 1638,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] All-You-Can-Lose Challenge: Day 1: Spend Big At The Mall!",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=-p6rsPSG8XI",
+    "views": "613",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 1866,
+    "title": "[Honkai: Star Rail Trailblaze Continuance] All-You-Can-Lose Challenge: Day 2: Business Negotiations",
+    "uploader": "Authrone",
+    "url": "https://www.youtube.com/watch?v=TG7iAkTudGI",
+    "views": 111,
+    "rejected": [
+     "part-of-an-act",
+     "act-mismatch"
+    ],
+    "upload_date": "20260831"
+   },
+   {
+    "seconds": 1835,
+    "title": "Honkai: Star Rail 4.5 The day of Guess-the-Race-Winner Challenge Trailblaze Continuance Walkthrough",
+    "uploader": "FantasyGamer93",
+    "url": "https://www.youtube.com/watch?v=zOu6MQtUvxM",
+    "views": 90,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260907"
+   },
+   {
+    "seconds": 346,
+    "title": "Honkai Star Rail Trailblazer Continuance: How To Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Gazy Dragon Gaming",
+    "url": "https://www.youtube.com/watch?v=vB0NoHHWt08",
+    "views": "15",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1748,
+    "title": "Honkai Star Rail Trailblazer Continuance: How To Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Gazy Dragon Gaming",
+    "url": "https://www.youtube.com/watch?v=CJv2dmS-AwQ",
+    "views": "7",
+    "rejected": [
+     "not-a-playthrough",
+     "part-of-an-act"
+    ]
+   },
+   {
+    "seconds": 1847,
+    "title": "Honkai Star Rail Trailblazer Continuance: How To Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Gazy Dragon Gaming",
+    "url": "https://www.youtube.com/watch?v=U3pdPDhhcWs",
+    "views": 10,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260831"
+   },
+   {
+    "seconds": 872,
+    "title": "How to Lose Your Way to the Top - The Zero-Dollar Strategy | Honkai: Star Rail",
+    "uploader": "Astra Atlas",
+    "url": "https://www.youtube.com/watch?v=zALHjf-DAvg",
+    "views": "60",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 3057,
+    "title": "Honkai Star Rail Trailblazer Continuance: How To Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Gazy Dragon Gaming",
+    "url": "https://www.youtube.com/watch?v=XCcUc1kD1nM",
+    "views": 6,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 501,
+    "title": "Trailblaze Mission | Act V: Continuance II How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "TheIntrovertGuy",
+    "url": "https://www.youtube.com/watch?v=HmgJxnmMc94",
+    "views": "12",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 17496,
+    "title": "Never Trust Birds | HSR 4.5 [How To Lose Your Way to the Top: The Zero-Dollar Strategy] Full Quest",
+    "uploader": "FervidTwo Gaming",
+    "url": "https://www.youtube.com/watch?v=cUpBesCunYo",
+    "views": 66,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 6987,
+    "title": "Honkai Star Rail Trailblazer Continuance: How To Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Gazy Dragon Gaming",
+    "url": "https://www.youtube.com/watch?v=xexrTjwSNdk",
+    "views": 5,
+    "rejected": [
+     "part-of-an-act"
+    ],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 11891,
+    "title": "Act V: Continue 2 - How to Lose Your way to the Top The Zero Dollar Strategy | Honkai: Star Rail 4.5",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=LbU8_qiSuHs",
+    "views": 47,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 11348,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy \u2013 Continuance (HSR v4.5) | CN Dub/ENG Sub",
+    "uploader": "Citrix the cat",
+    "url": "https://www.youtube.com/watch?v=ZKN7XfKzzbE",
+    "views": 164,
+    "rejected": [],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 12373,
+    "title": "Trailblaze continuance Mission - How to Lose Your Way to the Top: The Zero-Dollar Strategy | HSR 4.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=wm7F3eW-4uU",
+    "views": 410,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 12574,
+    "title": "Honkai Star Rail 4.5 Astropolis - Full NEW Trailblaze Continuance Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
+    "views": 9913,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12205,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=4lsrtrQcOe0",
+    "views": 46172,
+    "rejected": [
+     "act-mismatch"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12000,
+    "title": "Honkai Star Rail | 4.5 Trailblaze Continuance Full Walkthrough",
+    "uploader": "More ZeeTM",
+    "url": "https://www.youtube.com/watch?v=rCtWDxmr9ko",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 12056,
+    "title": "Robin & Aventurine Story Quest  | Honkai Star Rail 4.5 Trailblaze Continuance",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
+    "views": 735,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 11084,
+    "title": "Robin & Adventurine Trailblaze Continuance Story Quest Full Gameplay - Honkai Star Rail 4.5",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=P7J_7AU_Yt0",
+    "views": 136,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 42,
+    "title": "The way Caelus *screams internally* for Aventurine is a bit...",
+    "uploader": "Abyss Breakdown",
+    "url": "https://www.youtube.com/watch?v=ZXG4SG-TrAs",
+    "views": "166855",
+    "rejected": [
+     "not-a-playthrough",
+     "act-mismatch"
+    ]
+   },
+   {
+    "seconds": 12568,
+    "title": "Honkai Star Rail 4.5 - Full Trailblaze Continuance Story Quest",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=x8tzaZh_evw",
+    "views": 3769,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 366,
+    "title": "Version 4.5 HSR All Cutscenes HD Compilation | Trailblaze Mission & Continuance | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=LZScRIWnyXs",
+    "views": "3833",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 13278,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
+    "views": 434,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 11244,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy Full Quest | Honkai: Star Rail 4.5",
+    "uploader": "jieun",
+    "url": "https://www.youtube.com/watch?v=Z9iYpJWGGKA",
+    "views": 189,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 2141,
+    "title": "How to Lose Your Way to the Top The Zero Dollar Strategy FULL QUEST Honkai Star Rail",
+    "uploader": "ZaFrostPet",
+    "url": "https://www.youtube.com/watch?v=2t5UETWHxtw",
+    "views": 1282,
+    "rejected": [
+     "short-outlier"
+    ],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 7224,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy Full Quest",
+    "uploader": "Starryrains",
+    "url": "https://www.youtube.com/watch?v=dL1oudkUNys",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 12368,
+    "title": "How to Lose Your Way To the Top: The Zero Dollar Strategy [Astropolis] Honkai Star Rail 4.5",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=C1qFD15uE_k",
+    "views": 673,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 15886,
+    "title": "Honkai: Star Rail Ep181 |  How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Dan Sheets",
+    "url": "https://www.youtube.com/watch?v=oVrrm1xmc20",
+    "views": 337,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 17541,
+    "measured": "chapter-markers",
+    "parts": {
+     "Challenge From a Mysterious Influencer": 2445,
+     "All-You-Can-Lose Challenge: Day 1": 12453,
+     "The Challenge Ends, and Now...": 988
+    }
+   },
+   {
+    "seconds": 13940,
+    "title": "Honkai: Star Rail - How to Lose Your Way to the Top: The Zero-Dollar Strategy - Complete Story Quest",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=aWzkiPIcqds",
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 14792,
+    "title": "How to Lose Your Way to the Top The Zero-Dollar Strategy 1 - Honkai Star Rail Live Stream 125",
+    "uploader": "XenkailX The Generic Vtuber Done Dirt Cheap",
+    "url": "https://www.youtube.com/watch?v=wZ8hDx9cihY",
+    "views": "368",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 15955,
+    "title": "How To Lose Your Way to the Top : The Zero-Dollar Strategy Full Event Story Quest [HSR Version 4.5]",
+    "uploader": "Zhenyx",
+    "url": "https://www.youtube.com/watch?v=nyVdWS3neKE",
+    "views": 203,
+    "rejected": [],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 114,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy All Cutscenes | Honkai: Star Rail",
+    "uploader": "Aceyon",
+    "url": "https://www.youtube.com/watch?v=Bizu1yUv1hQ",
+    "views": "600",
+    "rejected": [
+     "not-a-playthrough"
+    ]
+   },
+   {
+    "seconds": 12417,
+    "title": "\"How to Lose Your Way to the Top: The Zero-Dollar Strategy\u201d (4.5 Full Quest) | Honkai Starrail",
+    "uploader": "Glitter Games!",
+    "url": "https://www.youtube.com/watch?v=p9Vvhz5fwtY",
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 12398,
+    "title": "BETTER THAN MAIN STORY? | HSR 4.5 Trailblaze Continuance Full Playthrough",
+    "uploader": "PrimePokke",
+    "url": "https://www.youtube.com/watch?v=vDg-HTriYCY",
+    "views": "2790",
+    "rejected": []
+   },
+   {
+    "seconds": 10902,
+    "title": "Version 4.5 Trailblaze Continuance Full Story HD | The Zero-Dollar Strategy | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=BfUBMPxAA3U",
+    "views": "989",
+    "rejected": []
+   },
+   {
+    "seconds": 18999,
+    "title": "HSR 4.5 STORY PLAYTHROUGH (Trailblaze Continuance)",
+    "uploader": "Chewy",
+    "url": "https://www.youtube.com/watch?v=wlds8XT5fXc",
+    "views": 2944,
+    "rejected": [],
+    "upload_date": "20260917"
+   }
+  ],
+  "kept": [
+   {
+    "seconds": 7224,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy Full Quest",
+    "uploader": "Starryrains",
+    "url": "https://www.youtube.com/watch?v=dL1oudkUNys",
+    "views": 6,
+    "rejected": [],
+    "upload_date": "20260927"
+   },
+   {
+    "seconds": 10902,
+    "title": "Version 4.5 Trailblaze Continuance Full Story HD | The Zero-Dollar Strategy | Honkai Star Rail",
+    "uploader": "Noxxis Gaming",
+    "url": "https://www.youtube.com/watch?v=BfUBMPxAA3U",
+    "views": "989",
+    "rejected": []
+   },
+   {
+    "seconds": 11084,
+    "title": "Robin & Adventurine Trailblaze Continuance Story Quest Full Gameplay - Honkai Star Rail 4.5",
+    "uploader": "MaakuPlays",
+    "url": "https://www.youtube.com/watch?v=P7J_7AU_Yt0",
+    "views": 136,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 11244,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy Full Quest | Honkai: Star Rail 4.5",
+    "uploader": "jieun",
+    "url": "https://www.youtube.com/watch?v=Z9iYpJWGGKA",
+    "views": 189,
+    "rejected": [],
+    "upload_date": "20260829"
+   },
+   {
+    "seconds": 11348,
+    "title": "How to Lose Your Way to the Top: The Zero-Dollar Strategy \u2013 Continuance (HSR v4.5) | CN Dub/ENG Sub",
+    "uploader": "Citrix the cat",
+    "url": "https://www.youtube.com/watch?v=ZKN7XfKzzbE",
+    "views": 164,
+    "rejected": [],
+    "upload_date": "20260830"
+   },
+   {
+    "seconds": 11891,
+    "title": "Act V: Continue 2 - How to Lose Your way to the Top The Zero Dollar Strategy | Honkai: Star Rail 4.5",
+    "uploader": "Sir Patty",
+    "url": "https://www.youtube.com/watch?v=LbU8_qiSuHs",
+    "views": 47,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 12000,
+    "title": "Honkai Star Rail | 4.5 Trailblaze Continuance Full Walkthrough",
+    "uploader": "More ZeeTM",
+    "url": "https://www.youtube.com/watch?v=rCtWDxmr9ko",
+    "views": 19,
+    "rejected": [],
+    "upload_date": "20260909"
+   },
+   {
+    "seconds": 12056,
+    "title": "Robin & Aventurine Story Quest  | Honkai Star Rail 4.5 Trailblaze Continuance",
+    "uploader": "Arie seventline",
+    "url": "https://www.youtube.com/watch?v=WU4tQBNiwng",
+    "views": 735,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12261,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Continuance Mission | Full Gameplay",
+    "uploader": "MilkyWayJono",
+    "url": "https://www.youtube.com/watch?v=FQ6dZUiOuBc",
+    "views": 8,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 12335,
+    "title": "Honkai Star Rail 4.5 - New Trailblaze Continuance Main Story Quest Full Walkthrough",
+    "uploader": "Rubhen925",
+    "url": "https://www.youtube.com/watch?v=Dj2bE0X-nQA",
+    "views": 41708,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12368,
+    "title": "How to Lose Your Way To the Top: The Zero Dollar Strategy [Astropolis] Honkai Star Rail 4.5",
+    "uploader": "Rubieco",
+    "url": "https://www.youtube.com/watch?v=C1qFD15uE_k",
+    "views": 673,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12373,
+    "title": "Trailblaze continuance Mission - How to Lose Your Way to the Top: The Zero-Dollar Strategy | HSR 4.5",
+    "uploader": "TriMori",
+    "url": "https://www.youtube.com/watch?v=wm7F3eW-4uU",
+    "views": 410,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 12398,
+    "title": "BETTER THAN MAIN STORY? | HSR 4.5 Trailblaze Continuance Full Playthrough",
+    "uploader": "PrimePokke",
+    "url": "https://www.youtube.com/watch?v=vDg-HTriYCY",
+    "views": "2790",
+    "rejected": []
+   },
+   {
+    "seconds": 12417,
+    "title": "\"How to Lose Your Way to the Top: The Zero-Dollar Strategy\u201d (4.5 Full Quest) | Honkai Starrail",
+    "uploader": "Glitter Games!",
+    "url": "https://www.youtube.com/watch?v=p9Vvhz5fwtY",
+    "views": 82,
+    "rejected": [],
+    "upload_date": "20260904"
+   },
+   {
+    "seconds": 12568,
+    "title": "Honkai Star Rail 4.5 - Full Trailblaze Continuance Story Quest",
+    "uploader": "CGInferno",
+    "url": "https://www.youtube.com/watch?v=x8tzaZh_evw",
+    "views": 3769,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 12574,
+    "title": "Honkai Star Rail 4.5 Astropolis - Full NEW Trailblaze Continuance Quest Playthrough",
+    "uploader": "Fayato",
+    "url": "https://www.youtube.com/watch?v=vY2ttZ-FR_0",
+    "views": 9913,
+    "rejected": [],
+    "upload_date": "20260826"
+   },
+   {
+    "seconds": 13278,
+    "title": "Honkai Star Rail 4.5 Planarcadia & Astropolis Trailblaze Continuance Quest Full walkthrough",
+    "uploader": "Kazuma Akimoto (Master Aki)",
+    "url": "https://www.youtube.com/watch?v=69uEcUytVZU",
+    "views": 434,
+    "rejected": [],
+    "upload_date": "20260828"
+   },
+   {
+    "seconds": 13940,
+    "title": "Honkai: Star Rail - How to Lose Your Way to the Top: The Zero-Dollar Strategy - Complete Story Quest",
+    "uploader": "CorporalOdin2",
+    "url": "https://www.youtube.com/watch?v=aWzkiPIcqds",
+    "views": 30,
+    "rejected": [],
+    "upload_date": "20260912"
+   },
+   {
+    "seconds": 14746,
+    "title": "Honkai: Star Rail Walkthrough part 271 ~Ver. 4.5~ Trailblaze Continuance Mission (Japanese Voices)",
+    "uploader": "RedRawNes",
+    "url": "https://www.youtube.com/watch?v=j83-rwHonxI",
+    "views": 179,
+    "rejected": [],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 15886,
+    "title": "Honkai: Star Rail Ep181 |  How to Lose Your Way to the Top: The Zero-Dollar Strategy",
+    "uploader": "Dan Sheets",
+    "url": "https://www.youtube.com/watch?v=oVrrm1xmc20",
+    "views": 337,
+    "rejected": [],
+    "upload_date": "20260924",
+    "runtime": 17541,
+    "measured": "chapter-markers",
+    "parts": {
+     "Challenge From a Mysterious Influencer": 2445,
+     "All-You-Can-Lose Challenge: Day 1": 12453,
+     "The Challenge Ends, and Now...": 988
+    }
+   },
+   {
+    "seconds": 15955,
+    "title": "How To Lose Your Way to the Top : The Zero-Dollar Strategy Full Event Story Quest [HSR Version 4.5]",
+    "uploader": "Zhenyx",
+    "url": "https://www.youtube.com/watch?v=nyVdWS3neKE",
+    "views": 203,
+    "rejected": [],
+    "upload_date": "20260827"
+   },
+   {
+    "seconds": 16953,
+    "title": "4.5 Trailblaze Continuance - Welcome Back Aventurine & Robin!! | Aventurine's VA Plays HSR",
+    "uploader": "CamdenVA",
+    "url": "https://www.youtube.com/watch?v=drHqG1l22D0",
+    "views": 25670,
+    "rejected": [],
+    "upload_date": "20260906"
+   },
+   {
+    "seconds": 17496,
+    "title": "Never Trust Birds | HSR 4.5 [How To Lose Your Way to the Top: The Zero-Dollar Strategy] Full Quest",
+    "uploader": "FervidTwo Gaming",
+    "url": "https://www.youtube.com/watch?v=cUpBesCunYo",
+    "views": 66,
+    "rejected": [],
+    "upload_date": "20260919"
+   },
+   {
+    "seconds": 18999,
+    "title": "HSR 4.5 STORY PLAYTHROUGH (Trailblaze Continuance)",
+    "uploader": "Chewy",
+    "url": "https://www.youtube.com/watch?v=wlds8XT5fXc",
+    "views": 2944,
+    "rejected": [],
+    "upload_date": "20260917"
+   }
+  ],
+  "stats": {
+   "n": 24,
+   "median": 206,
+   "low": 120,
+   "high": 317,
+   "q1": 199,
+   "q3": 242,
+   "trimmed_mean": 216,
+   "measured": 1,
    "parts": {},
    "drift": null
   }

@@ -24,7 +24,7 @@ and what the words claim beyond the numbers is asserted against it.
 | Girls' Frontline 2: Exilium | Main Story Chapters | [girls-frontline-2/README.md](girls-frontline-2/README.md) |
 | Goddess of Victory: NIKKE | Campaign Chapters | [nikke/README.md](nikke/README.md) |
 | Honkai Impact 3rd | Story Chapters | [honkai-impact-3rd/README.md](honkai-impact-3rd/README.md) |
-| Honkai: Star Rail | Trailblaze Missions | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
+| Honkai: Star Rail | Trailblaze Missions and Continuances | [honkai-star-rail/README.md](honkai-star-rail/README.md) |
 | Punishing: Gray Raven | Main Story Chapters | [punishing-gray-raven/README.md](punishing-gray-raven/README.md) |
 | Reverse: 1999 | Main Story Chapters | [reverse-1999/README.md](reverse-1999/README.md) |
 | Wuthering Waves | Main Quests | [wuthering-waves/README.md](wuthering-waves/README.md) |

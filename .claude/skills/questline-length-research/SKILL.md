@@ -399,9 +399,12 @@ Discard, by title
   and a side-quest bundle goes in `compilations.txt`,
   as a `!` line where the title also pins the act.
   A version that also shipped a side questline about as long as its act
-  (Honkai: Star Rail's Trailblaze Continuance) pins the act only for titles
-  that do not name that questline:
-  put the questline's name in `not_playthrough.txt`.
+  pins the act only for titles that do not name that questline:
+  put the questline's name in `not_playthrough.txt`,
+  or, where the side questline is measured too,
+  as Honkai: Star Rail's Trailblaze Continuance is,
+  give each of the two an `act_aliases.json` entry pairing the patch number
+  with its own wording, since the version now shipped two entries.
   A version that shipped several acts pins none of them,
   and neither does a version known only by name,
   as Punishing: Gray Raven's are, since an event can share the name.

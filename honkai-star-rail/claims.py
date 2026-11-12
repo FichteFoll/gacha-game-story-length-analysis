@@ -72,4 +72,18 @@ CLAIMS = [
     median_between("luofu", "Mission 3", RUNTIME_FLOOR, 10_000,
                    "A runtime floor (`data/min_minutes.txt`) "
                    "sits under the shortest mission"),
+
+    # x1-trailblaze-continuance.md, a side chapter: judged within itself only.
+    count_above("continuance", 180, 7,
+                "{n_above_3h} run past three hours"),
+    median_between("continuance", "Continuance 1", 0, 180,
+                   "The two that stay under it are both from the 1.x versions"),
+    median_between("continuance", "Continuance 3", 0, 180,
+                   "The two that stay under it are both from the 1.x versions"),
+    is_extreme("continuance", "Continuance 1", "min",
+               "*{shortest_title}*, the shortest, at {shortest_len}"),
+    is_extreme("continuance", "Continuance 6", "max",
+               "From the 2.x versions on they grew, up to *{longest_title}*"),
+    sample_at_most("continuance", "Continuance 2", 7,
+                   "so the figure rests on a handful of uploads"),
 ]

@@ -67,6 +67,16 @@ CHAPTERS = [
         versions="4.0 - 4.7",
         title="Planarcadia",
     ),
+    # Interludes set on the worlds above, outside the Trailblaze Missions'
+    # sequence; side=True keeps them out of the report-wide total and rankings.
+    dict(
+        id="continuance", slug="x1-trailblaze-continuance",
+        wiki_page="Trailblaze Continuance",
+        region="Worlds already visited",
+        versions="1.4 - 4.5",
+        title="Trailblaze Continuance",
+        side=True,
+    ),
 ]
 
 # The wiki records a level requirement for two missions only, both on Jarilo-VI,
