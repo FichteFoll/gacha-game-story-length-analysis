@@ -15,17 +15,17 @@ The report numbers them in release order, as the wiki does.
 ## At a glance
 
 <!--gen:glance-->
-| Mission | Title | Estimate | Middle half | Uploads | Confidence |
-| --- | --- | --- | --- | --- | --- |
-| Continuance 1 | Jolted Awake From a Winter Dream | 2 h 11 min | 2 h 02 min - 2 h 37 min | 14 | medium |
-| Continuance 2 | A Foxian Tale of the Haunted | 3 h 24 min | 2 h 06 min - 5 h 00 min | 4 | low |
-| Continuance 3 | Crown of the Mundane and Divine | 2 h 30 min | 1 h 48 min - 3 h 06 min | 12 | low |
-| Continuance 4 | Finest Duel Under the Pristine Blue (I) | 3 h 54 min | 3 h 32 min - 4 h 06 min | 11 | high |
-| Continuance 5 | Finest Duel Under the Pristine Blue (II) | 3 h 57 min | 3 h 44 min - 4 h 19 min | 12 | high |
-| Continuance 6 | Banana Outrage: Battles Without Ninja and Humanity | 5 h 37 min | 5 h 33 min - 5 h 55 min | 10 | high |
-| Continuance 7 | Sweet Dreams and the Holy Grail | 4 h 42 min | 4 h 24 min - 4 h 57 min | 10 | high |
-| Continuance 8 | Imagenae: Holy Grail War | 4 h 57 min | 4 h 03 min - 5 h 11 min | 14 | medium |
-| Continuance 9 | How to Lose Your Way to the Top: The Zero-Dollar Strategy | 3 h 26 min | 3 h 19 min - 4 h 02 min | 24 | high |
+| Mission | Title | Released | Estimate | Middle half | Uploads | Confidence |
+| --- | --- | --- | --- | --- | --- | --- |
+| Continuance 1 | Jolted Awake From a Winter Dream | 1.4 | 2 h 11 min | 2 h 02 min - 2 h 37 min | 14 | medium |
+| Continuance 2 | A Foxian Tale of the Haunted | 1.5 | 3 h 24 min | 2 h 06 min - 5 h 00 min | 4 | low |
+| Continuance 3 | Crown of the Mundane and Divine | 1.6 | 2 h 30 min | 1 h 48 min - 3 h 06 min | 12 | low |
+| Continuance 4 | Finest Duel Under the Pristine Blue (I) | 2.4 | 3 h 54 min | 3 h 32 min - 4 h 06 min | 11 | high |
+| Continuance 5 | Finest Duel Under the Pristine Blue (II) | 2.5 | 3 h 57 min | 3 h 44 min - 4 h 19 min | 12 | high |
+| Continuance 6 | Banana Outrage: Battles Without Ninja and Humanity | 2.6 | 5 h 37 min | 5 h 33 min - 5 h 55 min | 10 | high |
+| Continuance 7 | Sweet Dreams and the Holy Grail | 3.4 | 4 h 42 min | 4 h 24 min - 4 h 57 min | 10 | high |
+| Continuance 8 | Imagenae: Holy Grail War | 4.4 | 4 h 57 min | 4 h 03 min - 5 h 11 min | 14 | medium |
+| Continuance 9 | How to Lose Your Way to the Top: The Zero-Dollar Strategy | 4.5 | 3 h 26 min | 3 h 19 min - 4 h 02 min | 24 | high |
 <!--/gen-->
 
 **Total: <!--f:total-->34 h 38 min<!--/f-->**
