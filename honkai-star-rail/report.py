@@ -76,6 +76,8 @@ CHAPTERS = [
         versions="1.4 - 4.5",
         title="Trailblaze Continuance",
         side=True,
+        # Each continuance shipped in a version of its own, years apart.
+        version_column=True,
     ),
 ]
 
